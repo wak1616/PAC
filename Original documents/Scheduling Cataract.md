@@ -2,13 +2,13 @@
 
 > **Description:** This document outlines the procedure for scheduling cataract consultations, including provider info, referral and contact lens protocols, consultation logistics, and pre-/post-op care.
 
----
+***
 
 ## Scope
 
 This document details the process to schedule cataract consultations across US Eye locations.
 
----
+***
 
 ## Cataract Overview
 
@@ -24,32 +24,32 @@ Cataract surgery removes the natural lens and replaces it with an intraocular le
 
 US Eye offers **advanced**, **custom**, and **basic** vision correction options. Surgeons may use a combination of technologies and lens implants.
 
----
+***
 
 ## Providers
 
 ### Locations & Providers
 
-| Location | Providers |
-| -------- | --------- |
+| Location | Providers                                                                                                                                                             |
+| -------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **CFS**  | Dr. Jon Berlie, Dr. George Brinnig, Dr. Joaquin De Rojas\*, Dr. Joshua Kim\*, Dr. Priya Mathews\*, Dr. David Shoemaker\*, Dr. William Soscia\*, Dr. Elizabeth Davis\* |
-| **LEA**  | Dr. Vinay Gutti, Dr. Scot Holman, Dr. Scott Wehrly |
-| **RHC**  | (No providers listed) |
-| **SFEC** | Dr. Albert Smolyar\* |
+| **LEA**  | Dr. Vinay Gutti, Dr. Scot Holman, Dr. Scott Wehrly                                                                                                                    |
+| **RHC**  | (No providers listed)                                                                                                                                                 |
+| **SFEC** | Dr. Albert Smolyar\*                                                                                                                                                  |
 
 > `*` Performs biometry day of consult
 
----
+***
 
 ## Important Reminders
 
-- If the appointment is >10 days out, offer to add patient to waitlist (in addition to scheduling).
-- Consultations are valid for **3 months**.
-- Surgery measurements (biometry/AVT) are valid for **6 months**.
-- **Vision plans cannot be used** for cataract consults.
-- Self-pay = **Refractive consult**
+* If the appointment is >10 days out, offer to add patient to waitlist (in addition to scheduling).
+* Consultations are valid for **3 months**.
+* Surgery measurements (biometry/AVT) are valid for **6 months**.
+* **Vision plans cannot be used** for cataract consults.
+* Self-pay = **Refractive consult**
 
----
+***
 
 ## Process
 
@@ -57,8 +57,8 @@ US Eye offers **advanced**, **custom**, and **basic** vision correction options.
 
 **Criteria:**
 
-- Diagnosed cataracts ready for removal
-- Complaints of blurry vision, glare, or night driving difficulty
+* Diagnosed cataracts ready for removal
+* Complaints of blurry vision, glare, or night driving difficulty
 
 **Instructions:**
 
@@ -66,7 +66,7 @@ US Eye offers **advanced**, **custom**, and **basic** vision correction options.
 2. If no preferred provider, schedule with first available in patient's preferred location.
 3. Note contact lens status and discontinuation timing in appointment details (see chart below).
 
----
+***
 
 ### If Patient Does NOT Have Referral
 
@@ -77,12 +77,12 @@ US Eye offers **advanced**, **custom**, and **basic** vision correction options.
 5. Document **records status** in "Physician Relations / Records."
 6. Enter surgeon's name in **Referring Physician** field (never leave blank).
 
----
+***
 
 ## Contact Lens Guidelines
 
-**Script Prompt:**  
-*"Wearing contact lenses can affect the shape of your cornea. To ensure accurate surgical measurements, you must stop wearing contacts before your consultation. What type of contact lenses do you wear?"*
+**Script Prompt:**\
+&#xNAN;_"Wearing contact lenses can affect the shape of your cornea. To ensure accurate surgical measurements, you must stop wearing contacts before your consultation. What type of contact lenses do you wear?"_
 
 > Record lens type and add "DNM" to appointment details to avoid early scheduling.
 
@@ -97,42 +97,42 @@ US Eye offers **advanced**, **custom**, and **basic** vision correction options.
 
 > **Reminder:** Patients wearing scleral lenses should bring their case and solution to their consultation, as they will be asked to remove them during the exam.
 
----
+***
 
 ## FAQs
 
-1. **Do cataract consultations require dilation?**  
+1. **Do cataract consultations require dilation?**\
    Yes. _"As part of the examination process, your eyes will be dilated. This can cause blurry vision and light sensitivity for several hours. Please arrange transportation, as you should not drive afterward."_
+2. **How long is the appointment?**\
+   &#xNAN;_"Your consultation will take approximately 2–3 hours. This time allows for a comprehensive exam and all necessary testing to ensure the highest level of care."_
 
-2. **How long is the appointment?**  
-   _"Your consultation will take approximately 2–3 hours. This time allows for a comprehensive exam and all necessary testing to ensure the highest level of care."_
-
----
+***
 
 ## Pre-Op / Post-Op Care
 
-- Pre-op, surgery, 1-day post-op, and LAL adjustments are scheduled/rescheduled/canceled by surgical counselors.
-- If changes are needed, create a Patient Task in ICP and assign it to the appropriate group:
+* Pre-op, surgery, 1-day post-op, and LAL adjustments are scheduled/rescheduled/canceled by surgical counselors.
+* If changes are needed, create a Patient Task in ICP and assign it to the appropriate group:
 
-> **Groups:**  
-> - CFS Surgical Counselors  
-> - LEA Surgical Counselors  
-> - RHC Surgical Counselors  
-> - SFEC Surgical Counselors
+> **Groups:**
+>
+> * CFS Surgical Counselors
+> * LEA Surgical Counselors
+> * RHC Surgical Counselors
+> * SFEC Surgical Counselors
 
----
+***
 
 ## Closing Reminders
 
-- Ask: _"Is there anything else I can help you with today?"_
-- Remind:
-  - Dilation and 2–3 hour exam
-  - Contact lens removal requirements
-  - Pre-visit workflow via **Phreesia** (5 days before appointment)
+* Ask: _"Is there anything else I can help you with today?"_
+* Remind:
+  * Dilation and 2–3 hour exam
+  * Contact lens removal requirements
+  * Pre-visit workflow via **Phreesia** (5 days before appointment)
 
 > _"You'll receive a message from Phreesia 5 days before your visit. Please complete registration online to streamline check-in and help us prepare for your care."_
 
-- Confirm date/time/location and clarify if location is different than usual:
+* Confirm date/time/location and clarify if location is different than usual:
 
-> **Example**:  
-> _"Thank you, [Mr./Ms. Last Name]. We look forward to seeing you on [date] at [time] at our [location] office."_ 
+> **Example**:\
+> &#xNAN;_"Thank you, \[Mr./Ms. Last Name]. We look forward to seeing you on \[date] at \[time] at our \[location] office."_
