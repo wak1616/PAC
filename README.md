@@ -387,7 +387,7 @@ Inform the patient that staff will call them to discuss their symptoms and urgen
 
 ***
 
-## Contact Lens Discontinuation for Consultations
+## Contact Lens Discontinuation prior to Consultations
 
 Cataract and Refractive surgery evaluations, as well as Cornea - Keratoconus evaluations, require patients to stop wearing contact lenses for a period beforehand to ensure accurate corneal measurements.
 
@@ -499,7 +499,7 @@ Use this rule to override standard appointment templates if attemptig to schedul
 > This process can take up to seven (7) days to receive VA approval.\
 > If there is no VA authorization on file, you have the option to bill your medical insurance instead."
 
-## Closing Scripting
+## Standard Closing Procedures (Scripting)
 
 * Confirm appointment details: date, time, and location.
 * Inform patient about pre-visit registration via Phreesia:
@@ -508,7 +508,7 @@ Use this rule to override standard appointment templates if attemptig to schedul
 
 * Final confirmation:
 
-> "Thank you, \[Mr./Ms. Patient Last Name]. Can we assist you with anything else? We look forward to seeing you on \[date] at \[time] at our \[location] office."
+> "Thank you, \[Mr./Ms. Patient Last Name]. Can we assist you with anything else today? We look forward to seeing you on \[date] at \[time] at our \[location] office."
 
 ***
 
@@ -541,7 +541,7 @@ These exams are usually performed annually and help maintain overall eye health.
 1. **Refraction rechecks** should always be scheduled with the **same provider** who performed the comprehensive exam. Patients should consult an optician first to check their glasses before scheduling a refraction recheck.
 2. If a patient **hasn't been seen in 3+ months**, a **comprehensive exam** is scheduled, **not** just a refraction.
 3. **CFS/SFEC/LEA**: Do not schedule more than **two family members** in one day **per provider**.
-4. If you offer an appointment more than **10 days out**, you **must** offer to place the patient on the **waitlist**.
+4. If you offer an appointment more than **10 days out**, you **must** offer to place the patient on the **waitlist** (in addition to scheduling them).
 
 #### Process
 
@@ -577,7 +577,7 @@ These exams are usually performed annually and help maintain overall eye health.
     > "Your routine eye exam is on \[date/time]. If a medical condition is found, the physician will let you know about any insurance or financial responsibilities before proceeding with treatment that day. You can choose to proceed immediately or schedule the care for another time."
 3. Encourage completing the **Phreesia** pre-visit workflow \~5 days before the appointment.
 4. Thank the patient and confirm date/time/location. If different from their usual location, **emphasize** the change.
-   * **Suggested**: "Thank you \[Mr./Ms. Patient Last Name]. We look forward to seeing you for your comprehensive eye exam on \[date] at \[time] at our \[office] location."_(Follow_ [_Standard Closing Procedures_](./#standard-closing-procedures)_)_
+   * **Suggested**: "Thank you \[Mr./Ms. Patient Last Name]. Is there anything else we can help you with? We look forward to seeing you for your comprehensive eye exam on \[date] at \[time] at our \[office] location."_(_[_Standard Closing Procedures_](./#standard-closing-procedures-scripting)_)_
 
 ### Scheduling Established Patients
 
@@ -606,7 +606,7 @@ Appointments will typically be scheduled with the patient's existing provider un
 4. **Referrals / Insurance Requirements**
    * If the patient's insurance or HMO requires a referral/prior authorization, add **"Do Not Move" (DNM)** in the appointment details. This ensures the slot is not moved to an earlier date without the referral in place.
 5. **Potential Dilation**
-   * Some appointments may require dilation. (See **Dilation Key** for more details.)
+   * Some appointments may require dilation. (See [**Dilation Key**](<Dilation Key.md>) for more details.)
    * **Suggested Script**:\
      "As part of the examination process, your eyes may be dilated to allow a thorough assessment of your eye health. Due to the dilation, your vision may be blurry and light-sensitive for several hours. For your safety and comfort, we recommend you bring someone who can drive you home afterward."
 
@@ -621,10 +621,7 @@ Appointments will typically be scheduled with the patient's existing provider un
    * **Script**:\
      "Five days before your appointment, you'll receive a message from Phreesia to confirm and complete registration. This helps speed up check-in and lets us focus on your care. If you have any trouble with registration, please let us know."
 4. **Confirm Appointment Details**
-   * Thank the patient, confirm date/time/location.
-   * If the location differs from the patient's usual site, emphasize that change.
-   * **Suggested**:\
-     "Thank you, \[Mr./Ms. Patient Last Name]. We look forward to seeing you for your appointment on \[date] at \[time] at our \[office] location."_(Follow_ [_Standard Closing Procedures_](./#standard-closing-procedures)_)_
+   * **Suggested**:  _(Follow_ [_Standard Closing Procedures_](./#standard-closing-procedures-scripting)_)_
 
 ### Handling Insurance Information During Scheduling
 
@@ -698,7 +695,7 @@ Use the **US Eye Insurance Guide** to confirm whether the plan is in-network, ou
 > "Can you please confirm your full name, date of birth, insurance plan, and insurance ID number so I can verify we have the most updated billing information on file?"
 
 > **Patient Only Has Vision Plan**:\
-> "Please note that vision plans cannot be used for medical exams such as cataracts, cornea, glaucoma, or LASIK consultations."
+> "Please note that vision plans cannot be used for medical exams such as cataracts, cornea, glaucoma, retina specialist, or LASIK consultations."
 
 > **Cannot Provide Insurance**:\
 > "In order to proceed with scheduling, it's important we have accurate insurance info to ensure coverage. If you cannot provide it now, please call back when you have it so we can schedule your appointment."
@@ -731,9 +728,7 @@ Cataract surgery removes the natural lens and replaces it with an intraocular le
 
 US Eye offers **Light Adjustable Lens**, **Advanced**, **Custom**, and **Basic** vision correction options. Surgeons may use a combination of technologies and lens implants. These are the same options used for Clear Lens Enhancement / Refractive Lens Exchange (see [Scheduling Refractive](./#scheduling-refractive))
 
-#### Providers
-
-**Locations & Providers**
+#### Providers by location
 
 | Location | Providers                                                                                                                                                             |
 | -------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -778,20 +773,11 @@ US Eye offers **Light Adjustable Lens**, **Advanced**, **Custom**, and **Basic**
 
 **Additional Criteria for Patients WITHOUT Referral:**
 
-* Before scheduling a Cataract Consult for a self-referral, confirm they meet typical criteria (e.g., age > 55-60, experiencing symptoms like blurry vision, glare, night driving difficulty).
+* Before scheduling a Cataract Consult for a self-referral, confirm they meet typical criteria (e.g., age > 55, experiencing symptoms like blurry vision, glare, night driving difficulty).
 * If unsure based on patient description or if last exam was >1 year ago, consider scheduling for [Primary Eye Care](./#scheduling-primary-eye-care) first, or request records per the protocol.
 * If patient insists on Cataract consult despite lack of clear diagnosis/recent exam, document this clearly.
 
-#### Contact Lens Guidelines
-
-**Script Prompt:**\
-&#xNAN;_"Wearing contact lenses can affect the shape of your cornea. To ensure accurate surgical measurements, you must stop wearing contacts before your consultation. What type of contact lenses do you wear?"_
-
-> For detailed guidance on contact lens discontinuation periods and requirements, see the [Contact Lens Discontinuation for Consultations](./#contact-lens-discontinuation-for-consultations) section.
-
-> Remember to add "DNM" (Do Not Move) to appointment details for patients requiring contact lens discontinuation to prevent Appointment Accelerator from offering earlier slots before the discontinuation period is met.
-
-**Contact Lens Discontinuation Periods**
+[**Contact Lens Discontinuation Periods**](./#contact-lens-discontinuation-for-consultations)
 
 | Lens Type                      | Florida            |
 | ------------------------------ | ------------------ |
@@ -800,7 +786,7 @@ US Eye offers **Light Adjustable Lens**, **Advanced**, **Custom**, and **Basic**
 | Hard / RGP / PMMA              | 3 Weeks            |
 | Scleral (for Keratoconus only) | Do NOT Discontinue |
 
-> **Reminder:** Patients wearing scleral lenses should bring their case and solution to their consultation, as they will be asked to remove them during the exam._(See_ [_Contact Lens Discontinuation for Consultations_](./#contact-lens-discontinuation-for-consultations)_)_
+> **Reminder:** Patients wearing scleral lenses should bring their case and solution to their consultation, as they will be asked to remove them during the exam._(See_ [_Contact Lens Discontinuation for Consultations_](./#contact-lens-discontinuation-prior-to-consultations)_)_
 
 #### FAQs
 
@@ -835,7 +821,7 @@ US Eye offers **Light Adjustable Lens**, **Advanced**, **Custom**, and **Basic**
 * Confirm date/time/location and clarify if location is different than usual:
 
 > **Example**:\
-> &#xNAN;_"Thank you, \[Mr./Ms. Last Name]. We look forward to seeing you on \[date] at \[time] at our \[location] office."(Follow_ [_Standard Closing Procedures_](./#standard-closing-procedures)_)_
+> &#xNAN;_"Thank you, \[Mr./Ms. Last Name]. We look forward to seeing you on \[date] at \[time] at our \[location] office." (Follow_ [_Standard Closing Procedures_](./#standard-closing-procedures-scripting)_)_
 
 * Remind about potential dilation and 2–3 hour duration.
 * Reiterate contact lens discontinuation requirements if applicable.
@@ -898,9 +884,7 @@ Refractive procedures help improve the patient's vision to minimize dependence o
 
 #### Contact Lens Instructions
 
-> For detailed guidance on contact lens discontinuation periods and requirements, see the [Contact Lens Discontinuation for Consultations](./#contact-lens-discontinuation-for-consultations) section.
-
-> Remember to add "DNM" (Do Not Move) to appointment details for patients requiring contact lens discontinuation to prevent Appointment Accelerator from offering earlier slots before the discontinuation period is met.
+> For detailed guidance on contact lens discontinuation periods and requirements, see the [Contact Lens Discontinuation for Consultations](./#contact-lens-discontinuation-prior-to-consultations) section.
 
 **Discontinue Contact Lenses Prior to Consultation:**
 
@@ -925,7 +909,7 @@ Refractive procedures help improve the patient's vision to minimize dependence o
 
 #### Pre-Op / Post-Op Care
 
-* Scheduled, rescheduled, or canceled **only by surgical counselors.**
+* Scheduled, rescheduled, or canceled **only by surgical counselors or PCCs (patient care counselors).**
 * Create a Patient Task in ICP
 * Notify the appropriate Surgical Counselor group:
   * CFS Surgical Counselors
@@ -941,13 +925,12 @@ Refractive procedures help improve the patient's vision to minimize dependence o
 *   Encourage the patient to complete the Phreesia pre-visit registration 5 days in advance:
 
     > "Completing the registration in advance will help expedite check-in and allow more time for your care."
-*   Confirm appointment date/time/location:
-
-    > "Thank you \[Mr./Ms. Last Name], we look forward to seeing you for your consultation on \[date] at \[time] at our \[location] office."_(Follow_ [_Standard Closing Procedures_](./#standard-closing-procedures)_)_
 * Confirm consultation fee and self-pay status.
 * Confirm potential dilation and 2–3 hour appointment expectations.
-* Reiterate contact lens discontinuation requirements if applicable.
-*
+* Reiterate contact lens discontinuation requirements.
+*   Confirm appointment date/time/location:
+
+    > "Thank you \[Mr./Ms. Last Name], we look forward to seeing you for your consultation on \[date] at \[time] at our \[location] office." _(Follow_ [_Standard Closing Procedures_](./#standard-closing-procedures-scripting)_)_
 
 ### Scheduling Cornea
 
@@ -959,10 +942,10 @@ Refractive procedures help improve the patient's vision to minimize dependence o
   * Keratoconus (that could require corneal crosslinking or CTAK)
   * Fuchs' Dystrophy or corneal edema (that could require corneal transplantion such as DMEK)
   * Pterygium or Pinguecula (that could require excision and graft placement)
-  * Prior surgical complications or trauma to front of the eye (that could require complex anterior segment surgery, IOL exchange, secondary lens placement, or iris repair (**Dr. Elizabeth Davis** only))
+  * Prior surgical complications or trauma to front of the eye (that could require complex anterior segment surgery, IOL exchange, secondary lens placement, or iris repair  — **Dr. Elizabeth Davis** only)
   * Severe dry eye and ocular surface disease (must be referred by an optometrist; that could require dry eye treatments as explained below)
 
-#### Providers
+#### Providers by Location
 
 | Location | Doctors                                                                                                                    |
 | -------- | -------------------------------------------------------------------------------------------------------------------------- |
@@ -983,7 +966,7 @@ Refractive procedures help improve the patient's vision to minimize dependence o
 
 For cornea consultations - especially for keratoconus evaluations - patients should discontinue contact lens wear according to the standard guidelines.
 
-> For detailed guidance on contact lens discontinuation periods and requirements, see the [Contact Lens Discontinuation for Consultations](./#contact-lens-discontinuation-for-consultations) section.
+> For detailed guidance on contact lens discontinuation periods and requirements, see the [Contact Lens Discontinuation for Consultations](./#contact-lens-discontinuation-prior-to-consultations) section.
 
 #### Process
 
@@ -1046,7 +1029,7 @@ For cornea consultations - especially for keratoconus evaluations - patients sho
     > "Five days prior to your appointment, you will receive a message from Phreesia, our registration platform. We kindly ask that you confirm your appointment and complete the registration process before your appointment date. This helps expedite check-in and allows us to spend more time on your care. If you have any issues with registration, please contact us."
 3. Thank the patient and confirm the **date/time/location**. If it differs from their usual location, reiterate that.
 4. **Example**:\
-   "Thank you \[Mr./Ms. Patient Last Name], we look forward to seeing you for your dermatology consultation on \[date] at \[time] at our \[office] location."_(Follow_ [_Standard Closing Procedures_](./#standard-closing-procedures)_)_
+   "Thank you \[Mr./Ms. Patient Last Name], we look forward to seeing you for your dermatology consultation on \[date] at \[time] at our \[office] location."_(Follow_ [_Standard Closing Procedures_](./#standard-closing-procedures-scripting)_)_
 
 ### Scheduling Glaucoma
 
@@ -1054,7 +1037,7 @@ For cornea consultations - especially for keratoconus evaluations - patients sho
 
 Glaucoma is a disease caused by increased fluid pressure within the eye, potentially damaging the optic nerve. If left untreated, it can lead to vision loss. Our surgeons offer treatments such as medications, SLT (Selective Laser Trabeculoplasty), MIGS (Minimally Invasive Glaucoma Surgery), trabeculectomy, and tube implants.
 
-#### Providers
+#### Providers by location
 
 | Location | Providers                                                                                                                                                  |
 | -------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -1063,7 +1046,7 @@ Glaucoma is a disease caused by increased fluid pressure within the eye, potenti
 | **RHC**  | N/A                                                                                                                                                        |
 | **SFEC** | Dr. Albert Smolyar\*                                                                                                                                       |
 
-\*These providers only perform MIGS at the time of cataract surgery.
+\*These providers only perform MIGS at the time of cataract surgery (they do not offer primary glaucoma evaluations).
 
 #### Important Reminders
 
@@ -1086,7 +1069,7 @@ Glaucoma is a disease caused by increased fluid pressure within the eye, potenti
 3. **Schedule** at least **1 week out** to allow time for records receipt. Mark **DNM** in appointment details to prevent booking earlier.
 4. **Document records status** in Physician Relations / Records field (NextGen).
 5. If no surgeon preference, offer the **next available** slot at the requested/most convenient location.
-6. Enter the surgeon's name in **Referring Physician** field to show self-referral. (Field must not be blank.)_(Follow standard_ [_Referral Management Protocol_](./#referral-management-protocol)_)_
+6. Enter the surgeon's name in **Referring Physician** field to show self-referral. (Field must not be blank.) _(Follow standard_ [_Referral Management Protocol_](./#referral-management-protocol)_)_
 
 #### Pre-Op / Post-Op Care
 
@@ -1111,7 +1094,7 @@ All Pre-Op, Surgery, and 1-Day Post-Op visits are managed by the **surgical coun
     > "Completing registration in advance ensures all necessary information is in place and helps expedite check-in."
 * **Thank the patient** and confirm date/time/location.
   * If the office differs from their usual location, reiterate the change.
-  * **Suggested**: "Thank you \[Mr./Ms. Patient Last Name], we look forward to seeing you for your glaucoma consultation on \[date] at \[time] at our \[office] location."_(Follow_ [_Standard Closing Procedures_](./#standard-closing-procedures)_)_
+  * **Suggested**: "Thank you \[Mr./Ms. Patient Last Name], we look forward to seeing you for your glaucoma consultation on \[date] at \[time] at our \[office] location."_(Follow_ [_Standard Closing Procedures_](./#standard-closing-procedures-scripting)_)_
 
 ### Scheduling Retina
 
@@ -1153,11 +1136,11 @@ The **retina** is a delicate, light-sensitive tissue lining the interior of the 
 
 **Retinal Emergency**
 
-* Sudden onset of floaters, flashes, veil, or spider webs in vision, or recent (within 30 days) retinal tear/detachment → Refer to **Triage Protocol**.
+* Sudden onset of floaters, flashes, veil, or spider webs in vision, or recent (within 30 days) retinal tear/detachment → Refer to [**Emergency** **Triage Protocol**](./#emergency-triage-protocol).
 
 **Glasses/Contact Lens Rx or Undiagnosed Patients**
 
-* If the patient wants a prescription update or does **not** have a confirmed retinal diagnosis, refer to **Primary Eye Care Protocol** instead.
+* If the patient wants a prescription update or does **not** have a confirmed retinal diagnosis, refer to [**Primary Eye Care Protocol**](./#scheduling-primary-eye-care) instead.
 
 **If Patient Has a Referral**
 
@@ -1195,7 +1178,7 @@ The **retina** is a delicate, light-sensitive tissue lining the interior of the 
 * **Retina consultations require dilation.**
 * Vision may be **blurry** and eyes more **light-sensitive** for a few hours afterward.
 * Recommend bringing someone who can **drive** them home.
-* **Yes, virtually all retina consultations and follow-ups require dilation.** _(See_ [_Dilation Key_](./#dilation-key) _for standard scripting)_ This includes injection appointments.
+* **Yes, virtually all retina consultations and follow-ups require dilation.** _(See_ [_Dilation Key_](<Dilation Key.md>) _for standard scripting)_ This includes injection appointments.
 
 **How Long Does the Consultation Last?**
 
@@ -1209,7 +1192,7 @@ The **retina** is a delicate, light-sensitive tissue lining the interior of the 
 4. Thank the patient, confirm date/time/location, and **emphasize** if the location differs from their usual site.
 
 > **Suggested**:\
-> "Thank you \[Mr./Ms. Patient Last Name]. We look forward to seeing you for your retina consultation on \[date] at \[time] at our \[office] location."_(Follow_ [_Standard Closing Procedures_](./#standard-closing-procedures)_)_
+> "Thank you \[Mr./Ms. Patient Last Name]. We look forward to seeing you for your retina consultation on \[date] at \[time] at our \[office] location." _(Follow_ [_Standard Closing Procedures_](./#standard-closing-procedures-scripting)_)_
 
 * Remind patient about **mandatory dilation** and the potential **2–3 hour** appointment duration (or adjusted time for follow-ups).
 
@@ -1235,12 +1218,12 @@ Oculoplastics consultations focus on facial and eyelid conditions and treatments
 
 #### Providers
 
-| Location | Providers                                                                  |
-| -------- | -------------------------------------------------------------------------- |
-| **CFS**  | <p>Dr. Jon Berlie<br>Dr. John Fezza (AMARA)<br>Ms. Kalie Kosek (AMARA)</p> |
-| **LEA**  | N/A                                                                        |
-| **RHC**  | N/A                                                                        |
-| **SFEC** | Dr. Albert Smolyar                                                         |
+| Location | Providers                                                                              |
+| -------- | -------------------------------------------------------------------------------------- |
+| **CFS**  | <p>Dr. John Fezza (AMARA)<br>Ms. Kalie Kosek (AMARA)</p><p>Dr. Jon Berlie (Naples)</p> |
+| **LEA**  | N/A                                                                                    |
+| **RHC**  | N/A                                                                                    |
+| **SFEC** | Dr. Albert Smolyar                                                                     |
 
 #### Important Reminders
 
@@ -1296,7 +1279,7 @@ Oculoplastics consultations focus on facial and eyelid conditions and treatments
 
     > "Completing the registration in advance ensures we have all necessary information and helps expedite check-in. If you have any difficulties with the registration, please call us."
 3. Thank the patient for calling; confirm the **date/time/location**. If they usually go to a different location, reiterate that it's a different office.
-   * **Suggested**: "Thank you \[Mr./Ms. Patient Last Name]. We look forward to seeing you for your oculoplastic consultation on \[date] at \[time] at our \[office] location."_(Follow_ [_Standard Closing Procedures_](./#standard-closing-procedures)_)_
+   * **Suggested**: "Thank you \[Mr./Ms. Patient Last Name]. We look forward to seeing you for your oculoplastic consultation on \[date] at \[time] at our \[office] location." _(Follow_ [_Standard Closing Procedures_](./#standard-closing-procedures-scripting)_)_
 
 ### Scheduling Dermatology
 
@@ -1310,9 +1293,7 @@ Dermatology providers offer both surgical and non-surgical treatment options for
 
 #### Providers
 
-| CFS                                                 | LEA | RHC | SFEC |
-| --------------------------------------------------- | --- | --- | ---- |
-| <p>Dr. Joshua Newman, MD<br>Shannon Bednarz, PA</p> | N/A | N/A | N/A  |
+<table><thead><tr><th width="261.33331298828125">CFS</th><th>LEA</th><th>RHC</th><th>SFEC</th></tr></thead><tbody><tr><td>Dr. Joshua Newman, MD<br>Shannon Bednarz, PA</td><td>N/A</td><td>N/A</td><td>N/A</td></tr></tbody></table>
 
 > **Note:** Mohs surgery is performed by Dr. Newman; Shannon Bednarz can provide all other services except Mohs.
 
@@ -1342,9 +1323,9 @@ Dermatology providers offer both surgical and non-surgical treatment options for
 
 * In the **appointment details**, include the specific reason for the consultation (e.g., "mole check," "acne," "rash on arm," "suspected skin cancer on face").
 
-#### Surgical / Clinical Requests
+#### Surgical / Clinical Requests Related to Dermatology
 
-For any surgical or clinical requests, **email**:\
+For any surgical or clinical requests related to Dermatology, **email**:\
 [derm@centerforsight.net](mailto:derm@centerforsight.net)
 
 Include the patient's:
@@ -1373,7 +1354,7 @@ Include the patient's:
     > "Five days prior to your appointment, you will receive a message from Phreesia, our registration platform. We kindly ask that you confirm your appointment and complete the registration process before your appointment date. This helps expedite check-in and allows us to spend more time on your care. If you have any issues with registration, please contact us."
 3. Thank the patient and confirm the **date/time/location**. If it differs from their usual location, reiterate that.
 4. **Example**:\
-   "Thank you \[Mr./Ms. Patient Last Name], we look forward to seeing you for your dermatology consultation on \[date] at \[time] at our \[office] location."_(Follow_ [_Standard Closing Procedures_](./#standard-closing-procedures)_)_
+   "Thank you \[Mr./Ms. Patient Last Name], we look forward to seeing you for your dermatology consultation on \[date] at \[time] at our \[office] location." _(Follow_ [_Standard Closing Procedures_](./#standard-closing-procedures-scripting)_)_
 
 ### Scheduling Aesthetician
 
@@ -1476,22 +1457,20 @@ Below are the listed providers at Center For Sight, along with the services they
 * Thank the patient for calling and confirm the appointment **date/time/location**.
   * Emphasize if the location differs from their usual office.
 * Example Closing:\
-  "Thank you \[Mr./Ms. Patient Last Name], we look forward to seeing you for your Aesthetic consultation on \[date] at \[time] at our \[office] location."_(Follow_ [_Standard Closing Procedures_](./#standard-closing-procedures)_)_
+  "Thank you \[Mr./Ms. Patient Last Name], we look forward to seeing you for your Aesthetic consultation on \[date] at \[time] at our \[office] location." _(Follow_ [_Standard Closing Procedures_](./#standard-closing-procedures-scripting)_)_
 
 ## Patient Support -- Handling Other Requests
 
-### Handling Patient Questions
-
-#### HR – Employment Wage & Job Verification
+### HR – Employment Wage & Job Verification
 
 * Direct callers to **The Work Number** for employment and income verification.\
   Website: [www.theworknumber.com](http://www.theworknumber.com)
 
-#### Patient Statements / Outstanding Balances
+### Patient Statements / Outstanding Balances
 
 * If the patient has questions about a statement or an outstanding balance (after an appointment), refer them to the **RCM Customer Service Team** at **(888) 856-1878** or transfer via the **BILLING** quick connect.
 
-#### Medical Records
+### Medical Records
 
 * **Requests for Records**:
   1. Direct the patient to the **medical records release form** on the practice website.
@@ -1504,7 +1483,7 @@ Below are the listed providers at Center For Sight, along with the services they
      * **In Progress**: Inform the patient the request is being processed.
      * **Complete**: Review the completion reason (how records were sent) and let the patient know.
 
-#### RCM Inquiries – Financial Requests
+### RCM Inquiries – Financial Requests
 
 | **Request**                                                                             | **Where to Direct**                                                                                                                                                                                                                                                                                  |
 | --------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -1518,18 +1497,18 @@ Below are the listed providers at Center For Sight, along with the services they
 | **Billing / Customer Service** (past due balance, statements, itemized statements)      | Transfer to **BILLING Quick Connect**                                                                                                                                                                                                                                                                |
 | **Audit Calls from Insurances**                                                         | Email info to **Heather Hickman** (Accounts Receivable Manager)                                                                                                                                                                                                                                      |
 
-#### Clinical Questions / Medications / DMV Forms – ICP Patient Tasks
+### ICP Patient Tasks Related to Clinical Questions / Medication Refills / DMV Forms
 
 Certain requests **only** clinical staff or providers can handle. Refer to the table below to know how to notify the correct group in ICP (IntelleChartPRO). Clinical staff monitor ICP tasks throughout the day and aim to respond within the same day if received in the morning or by the next day if received in the afternoon.
 
 **Important Notes**
 
 * **Do Not** send ICP communications to groups prefixed with `zzz` (inactive).
-* If a provider no longer works here and the patient hasn't established care with another provider, send the message to the **Patient Care Team by region** (Florida)
+* If a provider no longer works here and the patient hasn't established care with another provider, send the message to the [**Patient Care Team by region** ](<Provider Reference Guide.md>)(Florida)
 * Patients should be informed that the request is typically handled within **24–48 hours**.
 * **New Patients**: If they have clinical or medication questions, they must be scheduled for an appointment. Clinical staff cannot advise or fill out forms (DMV, tint, medical forms) without a prior exam.
 
-**ICP Patient Task Categories**
+#### **ICP Patient Task Categories**
 
 | **Patient Questions**                       | **Urgency** | **ICP Task Category**        | **Notify Group**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 | ------------------------------------------- | ----------- | ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -1551,7 +1530,7 @@ Certain requests **only** clinical staff or providers can handle. Refer to the t
 
 **Never** transfer such calls to an extension or voicemail. Inform the patient that the clinical staff are with patients but will respond as soon as possible, then create an **ICP task** with an appropriate urgency level.
 
-#### Surgical Procedures
+### Surgical Procedures — Scheduling questions and ICP Tasks
 
 **Procedures are NOT scheduled by the PAC**
 
@@ -1582,7 +1561,7 @@ Messages to surgical counselor ICP group for:
 
 **Post-Op** questions → **Provider Team** in ICP, **not** the surgical counselor group.
 
-#### Optical
+### Optical
 
 Incoming calls for **Optical** route to designated regional ring groups.
 
@@ -1590,7 +1569,7 @@ Incoming calls for **Optical** route to designated regional ring groups.
 * Unanswered calls go to a group voicemail (checked daily).
 * Voicemails should be returned same business day.
 
-**Contact Lens Phone Orders**
+#### **Contact Lens Phone Orders**
 
 * If a patient wants to **order** contact lens supplies, **transfer** to the appropriate Optical Department.
 * For **trial pair** or a single pair, the provider's approval is required:
