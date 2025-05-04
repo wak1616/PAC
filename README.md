@@ -1,33 +1,8 @@
 # Patient Access Center Master Guide
 
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Provider, Location, and Dilation Guides](#provider-location-and-dilation-guides)
-- [Referral Management Protocol](#referral-management-protocol)
-- [Emergency Triage Protocol](#emergency-triage-protocol)
-- [Contact Lens Discontinuation prior to Consultations](#contact-lens-discontinuation-prior-to-consultations)
-- [72-Hour Scheduling Rule](#72-hour-scheduling-rule)
-- [Standard Closing Procedures (Scripting)](#standard-closing-procedures-scripting)
-- [Scheduling Guidelines](#scheduling-guidelines)
-  - [Primary Eye Care](#scheduling-primary-eye-care)
-  - [Established Patients](#scheduling-established-patients)
-  - [Insurance Information](#handling-insurance-information-during-scheduling)
-  - [Cataract](#scheduling-cataract)
-  - [Refractive](#scheduling-refractive)
-  - [Cornea](#scheduling-cornea)
-  - [Glaucoma](#scheduling-glaucoma)
-  - [Retina](#scheduling-retina)
-  - [Oculoplastics](#scheduling-oculoplastics)
-  - [Dermatology](#scheduling-dermatology)
-  - [Aesthetician](#scheduling-aesthetician)
-- [Patient Support -- Handling Other Requests](#patient-support----handling-other-requests)
-
-*Note: For detailed navigation, please use the GitBook sidebar menu.*
-
 ## Introduction
 
-The Florida Patient Access Center (PAC) serves as the centralized scheduling hub for multiple eye care practices within the US Eye network. This comprehensive guide provides the protocols, information, and scripting needed to accurately schedule appointments across all specialties and locations witin Florida.
+The Florida Patient Access Center (PAC) serves as the centralized scheduling hub for multiple eye care practices within the US Eye network. This comprehensive guide provides the protocols, information, and scripting needed to accurately schedule appointments across all specialties and locations within Florida.
 
 ### Practice Locations (Florida)
 
