@@ -4,7 +4,10 @@
 
 - [Patient Access Center (PAC) Master Guide](#patient-access-center-pac-master-guide)
   - [Table of Contents](#table-of-contents)
+  - [Introduction](#introduction)
+    - [Practice Locations](#practice-locations)
     - [Websites (Physician Biographies)](#websites-physician-biographies)
+  - [Standard Closing Procedures](#standard-closing-procedures)
 - [Provider, Location, and Dilation Guides](#provider-location-and-dilation-guides)
   - [Provider Reference](#provider-reference)
   - [Location Reference](#location-reference)
@@ -175,8 +178,19 @@
       - [Surgical Inquiries Handling](#surgical-inquiries-handling)
     - [Optical](#optical)
       - [Contact Lens Phone Orders](#contact-lens-phone-orders)
-    - [Optical](#optical-1)
-      - [Contact Lens Phone Orders](#contact-lens-phone-orders-1)
+
+## Introduction
+
+The Patient Access Center (PAC) serves as the centralized scheduling hub for multiple eye care practices within the US Eye network. This comprehensive guide provides the protocols, information, and scripting needed to accurately schedule appointments across all specialties and locations.
+
+### Practice Locations
+
+US Eye encompasses the following practices:
+
+1. **Center For Sight (CFS)**
+   - 11 offices
+   - 2 ASCs (Ambulatory Surgery Centers)
+   - Geographic span: Sarasota to Naples area
 
 2. **Southwest Florida Eye Care (SFEC)**
    - 3 offices
@@ -417,7 +431,7 @@ Cataract and Refractive surgery evaluations (as well as Cornea - Keratoconus eva
 # 72-Hour Scheduling Rule
 
 ## When to Use
-Use this rule to override standard appointment templates if a patient needs to be scheduled within 72 hours from the call time (such as emergency cases).
+Use this rule to override standard appointment templates if a patient needs to be scheduled within 72 hours from the call time (such as for emergency cases).
 
 ## Allowed Overrides
 
@@ -468,7 +482,7 @@ Use this rule to override standard appointment templates if a patient needs to b
 
 ## Required Documentation
 
-- Note “72-hour rule” clearly in appointment details.
+- Note "72-hour rule" clearly in appointment details.
 - Extend appointment from 15 to 30 min when combining short slots.
 
 ## Important Reminders
@@ -480,10 +494,10 @@ Use this rule to override standard appointment templates if a patient needs to b
 
 - If referral is required but not obtained, inform patient of self-pay requirement:
 
-> "Your insurance requires a referral from your Primary Care Provider (PCP). It usually takes about seven business days. Without this referral, you can be seen as self-pay. You’ll sign a Self-Pay form, and fees will be due at visit."
+> "Your insurance requires a referral from your Primary Care Provider (PCP). It usually takes about seven business days. Without this referral, you can be seen as self-pay. You'll sign a Self-Pay form, and fees will be due at visit."
 
-- Document PCP information clearly in the patient’s chart and appointment notes.
-- Note in the appointment details: “Pt is aware PCP referral is required; self-pay if not received.”
+- Document PCP information clearly in the patient's chart and appointment notes.
+- Note in the appointment details: "Pt is aware PCP referral is required; self-pay if not received."
 - This also applies to Optum VA insurance patients if the authorization on file does not match the specific doctor being scheduled under the 72-hour rule. Inform the patient:
 
 > "The current Optum VA authorization is for Dr. `{{current_provider_name}}`.
@@ -1578,18 +1592,5 @@ Incoming calls for **Optical** route to designated regional ring groups.
   - Enter an ICP message to the **Provider Team**.  
 - **Optical staff** confirm the prescription is signed in ICP and place an order in NextGen Optical Management. Payment is taken via Phreesia.  
 - If the caller cannot be transferred to optical (or if they already left a voicemail), escalate to a **team lead/manager**.
-**Post-Op** questions → **Provider Team** in ICP, **not** the surgical counselor group.
-
-### Optical
-
-Incoming calls for **Optical** route to designated regional ring groups.  
-- All optical staff must assist in answering calls when not busy with in-office patients.  
-- Unanswered calls go to a group voicemail (checked daily).  
-- Voicemails should be returned same business day.
-
-#### Contact Lens Phone Orders
-- If a patient wants to **order** contact lens supplies, **transfer** to the appropriate Optical Department.  
-- For **trial pair** or a single pair, the provider's approval is required:
-  - Enter an ICP message to the **Provider Team**.  
 - **Optical staff** confirm the prescription is signed in ICP and place an order in NextGen Optical Management. Payment is taken via Phreesia.  
 - If the caller cannot be transferred to optical (or if they already left a voicemail), escalate to a **team lead/manager**.
