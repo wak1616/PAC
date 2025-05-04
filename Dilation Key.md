@@ -7,79 +7,79 @@
 
 ## Non-Dilated Appointments
 
-- **Biometry**  
-- **Consult – Dry Eye**  
-- **Consult – Oculoplastic Cosmetic**  
-- **Consult – Oculoplastic Medical**  
-- **Consult – Oculoplastic Testing**  
-- **Consult / PI Same Day**  
-- **Contact Lens Fitting**  
-- **Contact Lens Follow Up**  
-- **Contact Lens I&R**  
-- **Contact Lens Scleral**  
-- **Cornea Collagen Cross-Linking**  
-- **Corneal Topography**  
-- **Decision For Surgery**  
-- **Disc Photos**  
-- **Dry Eye Treatment**  
-- **Durysta**  
-- **ERG**  
-- **Follow Up**  
-- **Follow Up – Testing Prior**  
-- **HRT**  
-- **In-Office Procedure**  
-- **Laser – PI**  
-- **Laser – SLT**  
-- **Low Vision Exams**  
-- **Motility Exam**  
-- **OCT**  
-- **Pachymetry**  
-- **Post Op**  
-- **Post Op – 1 Day**  
-- **Post Op – 1 Day / Reassess**  
-- **Post Op – Same Day**  
-- **Pre Op Visit**  
-- **Refract Reassess**  
-- **Refraction**  
-- **Refraction Recheck**  
-- **Tech Only Visit**  
-- **Vision Therapy**  
-- **Visual Field / Follow Up**  
-- **Visual Field Tech Only**
+- Biometry  
+- Consult – Dry Eye  
+- Consult – Oculoplastic Cosmetic  
+- Consult – Oculoplastic Medical  
+- Consult – Oculoplastic Testing  
+- Consult / PI Same Day  
+- Contact Lens Fitting  
+- Contact Lens Follow Up  
+- Contact Lens I&R  
+- Contact Lens Scleral  
+- Cornea Collagen Cross-Linking  
+- Corneal Topography  
+- Decision For Surgery  
+- Disc Photos  
+- Dry Eye Treatment  
+- Durysta  
+- ERG  
+- Follow Up  
+- Follow Up – Testing Prior  
+- HRT  
+- In-Office Procedure  
+- Laser – PI  
+- Laser – SLT  
+- Low Vision Exams  
+- Motility Exam  
+- OCT  
+- Pachymetry  
+- Post Op  
+- Post Op – 1 Day  
+- Post Op – 1 Day / Reassess  
+- Post Op – Same Day  
+- Pre Op Visit  
+- Refract Reassess  
+- Refraction  
+- Refraction Recheck  
+- Tech Only Visit  
+- Vision Therapy  
+- Visual Field / Follow Up  
+- Visual Field Tech Only
 
 ---
 
 ## Dilated Appointments
 
-- **Comp Medicaid Exams**  
-- **Comp Medical Exams**  
-- **Consult – Cataract**  
-- **Consult – Cataract / Biometry**  
-- **Consult – Cornea**  
-- **Consult – Glaucoma**  
-- **Consult – Glaucoma Testing Prio**  
-- **Consult – Refractive**  
-- **Consult – Retina**  
-- **Consult – YAG**  
-- **Consult / YAG Same Day**  
-- **Dilated Fundus**  
-- **FA**  
-- **Fundus Photos**  
-- **Humanitarian Exams**  
-- **InHouse Consult / YAG Same Day**  
-- **Injection – Avastin / Beovu / Byooviz / Cimerli / Eylea / Eylea DME / Eylea HD / Iluvien / Izervay / Kenalog / Lucentis / Lucentis DME / Ozurdex / Ozurdex DME / Retina / Syfovre / Vabysmo**  
-- **Laser – Destruct Retina Lesion**  
-- **Laser – Focal**  
-- **Laser – Prophylaxis Of RD**  
-- **Laser – PRP**  
-- **Laser – YAG Capsulotomy**  
-- **Post Op – LAL Treatment**  
-- **Reassess / YAG Same Day**  
-- **Routine Employee Exams**  
-- **Routine Vision Exams**  
-- **Visual Field / Comp**  
-- **Visual Field / Consult**  
-- **Visual Field / Dilated Fundus**
+- Comp Medicaid Exams  
+- Comp Medical Exams  
+- Consult – Cataract  
+- Consult – Cataract / Biometry  
+- Consult – Cornea  
+- Consult – Glaucoma  
+- Consult – Glaucoma Testing Prio  
+- Consult – Refractive  
+- Consult – Retina  
+- Consult – YAG  
+- Consult / YAG Same Day  
+- Dilated Fundus  
+- FA  
+- Fundus Photos  
+- Humanitarian Exams  
+- InHouse Consult / YAG Same Day  
+- Injection – Avastin / Beovu / Byooviz / Cimerli / Eylea / Eylea DME / Eylea HD / Iluvien / Izervay / Kenalog / Lucentis / Lucentis DME / Ozurdex / Ozurdex DME / Retina / Syfovre / Vabysmo  
+- Laser – Destruct Retina Lesion  
+- Laser – Focal  
+- Laser – Prophylaxis Of RD  
+- Laser – PRP  
+- Laser – YAG Capsulotomy  
+- Post Op – LAL Treatment  
+- Reassess / YAG Same Day  
+- Routine Employee Exams  
+- Routine Vision Exams  
+- Visual Field / Comp  
+- Visual Field / Consult  
+- Visual Field / Dilated Fundus
 
 ---
 

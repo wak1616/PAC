@@ -24,10 +24,10 @@ These exams are usually performed annually and help maintain overall eye health.
 
 | Location | MD/DO Providers | OD Providers |
 |----------|----------------|--------------|
-| **CFS**  | *(None listed)* | Dr. Len Brown<br>Dr. Daniel Hadland<br>Dr. Melissa Hammond\*<br>Dr. Erin Hardie<br>Dr. George Hurwitz<br>Dr. Todd Lang<br>Dr. James Lenhart<br>Dr. Lori Long<br>Dr. Casey Maloney<br>Dr. Elizabeth McVey<br>Dr. David Mertzlufft<br>Dr. Bradley Middaugh<br>Dr. Patrick Nelson<br>Dr. Logan Page<br>Dr. Charles Putrino<br>Dr. Robert Fox (space) |
-| **LEA**  | *(None listed)* | *(None listed)* |
+| **CFS**  | Dr. Jon Berlie<br>Dr. George Brinnig<br>Dr. Julie Carter | Dr. Len Brown<br>Dr. Daniel Hadland<br>Dr. Melissa Hammond<br>Dr. Erin Hardie<br>Dr. George Hurwitz<br>Dr. Todd Lang<br>Dr. James Lenhart<br>Dr. Lori Long<br>Dr. Michael Maloney<br>Dr. Mary McVey<br>Dr. David Mertzlufft<br>Dr. Bradley Middaugh<br>Dr. Patrick Nelson<br>Dr. Logan Page<br>Dr. Charles Putrino<br>Dr. Rachel Randolph<br>Dr. Kyle Schaub<br>Dr. Joseph Sowka<br>Dr. Scott Stevens<br>Dr. Lori Vollmer<br>Dr. Trisha Werner |
+| **LEA**  | Dr. Jose Vazquez | Dr. Christine Bui<br>Dr. Mari Holderby<br>Dr. Alexandria Rawls |
 | **RHC**  | *(None listed)* | *(None listed)* |
-| **SFEC** | *(None listed)* | Dr. Sara Johnson<br>Dr. Bria Marhue<br>Dr. Penny Orr<br>Dr. Hunter Vittone |
+| **SFEC** | Dr. Albert Smolyar | Dr. Sarah Johnson<br>Dr. Brian Marhue<br>Dr. Penny Orr<br>Dr. Hunter Vittone |
 
 ---
 

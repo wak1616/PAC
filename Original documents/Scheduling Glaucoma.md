@@ -10,10 +10,12 @@ Glaucoma is a disease caused by increased fluid pressure within the eye, potenti
 
 | Location | Providers                                                                                       |
 |----------|-------------------------------------------------------------------------------------------------|
-| **CFS**  | Dr. Jon Berlie,<br>Dr. Julia Carter,<br>Dr. Joshua Kim                                          |
+| **CFS**  | Dr. Joshua Kim,<br>Dr. Julia Carter (Naples),<br>Dr. Jon Berlie* (Naples),<br>Dr. Joaquin De Rojas*,<br>Dr. Priya Mathews*,<br>Dr. Elizabeth Davis*                                          |
 | **LEA**  | N/A                                                                                             |
 | **RHC**  | N/A                                                                                             |
-| **SFEC** | Dr. Albert Smolyar                                                                              |
+| **SFEC** | Dr. Albert Smolyar*                                                              |
+
+*These providers only perform MIGS at the time of cataract surgery.
 
 ---
 
