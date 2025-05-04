@@ -1,4 +1,4 @@
-# Scheduling Established Patients
+# Scheduling Reference – Established Patients
 
 > **Author**: Aubrey Huntzinger (Practice Systems Coordinator)  
 > **Scope**: This procedure details the process for scheduling appointments for established patients.

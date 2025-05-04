@@ -1,4 +1,4 @@
-# Scheduling – Cornea
+# Scheduling Reference – Cornea
 
 > **Description:** This document explains how to schedule cornea consultations, including referral requirements, records handling, and details on pre-visit workflow.
 

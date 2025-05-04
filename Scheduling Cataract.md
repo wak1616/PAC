@@ -1,4 +1,4 @@
-# Scheduling – Cataract
+# Scheduling Reference – Cataract
 
 > **Description:** This document outlines the procedure for scheduling cataract consultations, including provider info, referral and contact lens protocols, consultation logistics, and pre-/post-op care.
 

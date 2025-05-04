@@ -1,4 +1,4 @@
-# Scheduling – Dermatology
+# Scheduling Reference – Dermatology
 
 > **Scope:** This procedure details the process to schedule Dermatology consultations.
 
