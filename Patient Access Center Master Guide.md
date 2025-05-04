@@ -5,9 +5,8 @@
 - [Patient Access Center (PAC) Master Guide](#patient-access-center-pac-master-guide)
   - [Table of Contents](#table-of-contents)
   - [Introduction](#introduction)
-    - [Practice Locations](#practice-locations)
+    - [Practice Locations (Florida)](#practice-locations-florida)
     - [Websites (Physician Biographies)](#websites-physician-biographies)
-  - [Standard Closing Procedures](#standard-closing-procedures)
 - [Provider, Location, and Dilation Guides](#provider-location-and-dilation-guides)
   - [Provider Reference](#provider-reference)
   - [Location Reference](#location-reference)
@@ -181,9 +180,9 @@
 
 ## Introduction
 
-The Patient Access Center (PAC) serves as the centralized scheduling hub for multiple eye care practices within the US Eye network. This comprehensive guide provides the protocols, information, and scripting needed to accurately schedule appointments across all specialties and locations.
+The Florida Patient Access Center (PAC) serves as the centralized scheduling hub for multiple eye care practices within the US Eye network. This comprehensive guide provides the protocols, information, and scripting needed to accurately schedule appointments across all specialties and locations witin Florida.
 
-### Practice Locations
+### Practice Locations (Florida)
 
 US Eye encompasses the following practices:
 
