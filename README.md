@@ -46,7 +46,7 @@
   * [Required Documentation](./#required-documentation)
   * [Important Reminders](./#important-reminders)
   * [If Additional Requirements are Needed by Insurance](./#if-additional-requirements-are-needed-by-insurance)
-  * [Closing Scripting](./#closing-scripting)
+* [Closing Scripting](./#closing-scripting)
 * [Scheduling Guidelines](./#scheduling-guidelines)
   * [Scheduling Primary Eye Care](./#scheduling-primary-eye-care)
     * [Overview of Comprehensive Exams](./#overview-of-comprehensive-exams)
@@ -350,9 +350,9 @@ Before using the triage protocol, **ask if the patient had surgery in the last 3
 
 ***
 
-#### ICP Triage Messages
+### Triaging to Patient Care Teams via ICP
 
-If you need to **triage via ICP** instead of scheduling immediately, see the table for **notify** field groups:
+If you need to **triage via ICP** instead of scheduling immediately, see the table below to find the regional Patient Care Team to send message to:
 
 * `*CFS North Region Patient Care Team`
 * `*CFS Mid Region Patient Care Team`
@@ -362,19 +362,15 @@ If you need to **triage via ICP** instead of scheduling immediately, see the tab
 * `*RHC Patient Care Team`
 
 **Add the provider's name at the beginning of the message** if known.\
-Use **clear, concise language**—avoid abbreviations. Document eye(s) affected, symptom details, cause if known, and duration. Include the patient's preferred location and best callback number.\
+Use **clear, concise language**—avoid abbreviations.&#x20;
+
+Document eye(s) affected, symptom details, cause if known, and duration.&#x20;
+
+Mark as **URGENT** if needed
+
+**Include the patient's preferred location and best callback number.**
+
 Inform the patient that staff will call them to discuss their symptoms and urgency.
-
-***
-
-#### ICP IntelleChart – New Patient Task
-
-1. For a **new patient**, follow **NextGen Transfer to ICP** before creating an ICP task.
-2. Create an ICP task:
-   * **Notify →** "Practice Patient Care Team"
-   * Mark **URGENT** if needed.
-3. If the system doesn't show the user's initials in the ICP task, it means the patient is not linked to a practice.
-   * In that case, schedule an appointment under **ICP resource** using the **Transfer to ICP** event to link them.
 
 ***
 
@@ -382,7 +378,7 @@ Inform the patient that staff will call them to discuss their symptoms and urgen
 
 1. If symptoms worsen before the scheduled appointment, advise the patient to **call back** immediately.
 2. Explain to the patient that he/she will likely be dilated for an Emergency visit.
-3. If the patient isn't being seen the same day but has any of the following, they'll be **dilated** at the visit:
+3. If the patient isn't being seen the same day (non-Emergency) but has any of the following, they'll be **dilated** at the visit:
    * Blurred Vision
    * Decrease in Vision
    * Double Vision
@@ -393,13 +389,13 @@ Inform the patient that staff will call them to discuss their symptoms and urgen
 
 ## Contact Lens Discontinuation for Consultations
 
-Cataract and Refractive surgery evaluations (as well as Cornea - Keratoconus evaluations) require patients to stop wearing contact lenses for a period beforehand to ensure accurate corneal measurements.
+Cataract and Refractive surgery evaluations, as well as Cornea - Keratoconus evaluations, require patients to stop wearing contact lenses for a period beforehand to ensure accurate corneal measurements.
 
 ### Script Prompt
 
 > "Wearing contact lenses can temporarily change the shape of your cornea. To ensure the most accurate measurements for your upcoming consultation \[or potential surgery], it's essential that you stop wearing your contact lenses for a specific period before your appointment. What type of contact lenses do you currently wear?"
 
-_(After determining the type, provide the relevant discontinuation period from the table below and document this instruction in the appointment details.)_
+_After determining the type, provide the relevant discontinuation period from the table below and document this instruction in the appointment details_
 
 ### Discontinuation Periods
 
@@ -422,19 +418,25 @@ _(After determining the type, provide the relevant discontinuation period from t
 
 ### When to Use
 
-Use this rule to override standard appointment templates if a patient needs to be scheduled within 72 hours from the call time (such as for emergency cases).
+Use this rule to override standard appointment templates if attemptig to schedule a patient within 72 hours (such as in acute situations).
 
 ### Allowed Overrides
 
-* New patient → any New patient slot (Comp Medical – New, Routine Employee – New, or Routine Vision – New)
-* Established patient → any New or Established patient slot (Comp Medical – New/Est, Routine Employee – Est, or Routine Vision – Est)
+* New patient → any NEW patient slot&#x20;
+  * Comp Medical – New
+  * Routine Employee – New
+  * Routine Vision – New)
+* Established patient → any New or Established patient slot&#x20;
+  * Comp Medical – New/Est
+  * Routine Employee – Est
+  * Routine Vision – Est
 
 ### Restrictions
 
 * Do not schedule past 3:30 PM.
-* If after 3:30 PM, talk to your supervisor and/or send a message to the Patient Care Team of the location closest to the patient to have them scheduled.
+* After 3:30 PM, talk to your supervisor and/or send a message to the Patient Care Team of the location closest to the patient to have them scheduled.
 
-### Doctors Included
+### Doctors Included in 72-Hour Rule
 
 #### ODs / Optometrists
 
@@ -468,15 +470,13 @@ Use this rule to override standard appointment templates if a patient needs to b
 
 ### Dilation and Exam Duration (inform patient clearly)
 
-> "Your eyes will be dilated, causing blurry vision and light sensitivity for several hours. Please arrange transportation home."
-
-> "Dilation can only be waived by a Physician."
+> "Your eyes will be dilated, causing blurry vision and light sensitivity for several hours. Please arrange transportation home.  Dilation can only be waived by the physician"
 
 > "Your exam may last approximately 90-120 minutes if a comprehensive exam is needed."
 
 ### Required Documentation
 
-* Note "72-hour rule" clearly in appointment details.
+* Note "**72-hour rule**" clearly in appointment details.
 * Extend appointment from 15 to 30 min when combining short slots.
 
 ### Important Reminders
@@ -494,12 +494,12 @@ Use this rule to override standard appointment templates if a patient needs to b
 * Note in the appointment details: "Pt is aware PCP referral is required; self-pay if not received."
 * This also applies to Optum VA insurance patients if the authorization on file does not match the specific doctor being scheduled under the 72-hour rule. Inform the patient:
 
-> "The current Optum VA authorization is for Dr. `{{current_provider_name}}`.\
+> "The current Optum VA authorization is for Dr. `{Provider Name}`.\
 > If you are requesting a new appointment with a different provider, we must submit a request for additional services.\
 > This process can take up to seven (7) days to receive VA approval.\
 > If there is no VA authorization on file, you have the option to bill your medical insurance instead."
 
-### Closing Scripting
+## Closing Scripting
 
 * Confirm appointment details: date, time, and location.
 * Inform patient about pre-visit registration via Phreesia:
