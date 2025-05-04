@@ -1,4 +1,4 @@
-# Table of contents
+# Summary
 
 * [Patient Access Center Master Guide](README.md)
   * [Introduction](README.md#introduction)
@@ -43,6 +43,9 @@
     * [ICP Patient Tasks Related to Clinical Questions / Medication Refills / DMV Forms](README.md#icp-patient-tasks-related-to-clinical-questions--medication-refills--dmv-forms)
     * [Surgical Procedures — Scheduling questions and ICP Tasks](README.md#surgical-procedures--scheduling-questions-and-icp-tasks)
     * [Optical](README.md#optical)
+
+---
+
 * [Provider Reference Guide](<Provider Reference Guide.md>)
 * [Location Reference Guide](<Location Reference Guide.md>)
 * [Dilation Key](<Dilation Key.md>)
