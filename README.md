@@ -163,7 +163,7 @@
       * [Services That Do Not Require a Consultation](./#services-that-do-not-require-a-consultation)
     * [Consultation Info](./#consultation-info)
     * [Closing Reminders](./#closing-reminders-9)
-* [Patient Support -- Handling Other Requests](./#patient-support----handling-other-requests)
+* [Patient Support -- Handling Other Requests](./#patient-support-handling-other-requests)
   * [Handling Patient Questions](./#handling-patient-questions)
     * [HR – Employment Wage & Job Verification](./#hr--employment-wage--job-verification)
     * [Patient Statements / Outstanding Balances](./#patient-statements--outstanding-balances)
@@ -527,11 +527,7 @@ A comprehensive exam typically includes:
 
 These exams are usually performed annually and help maintain overall eye health.
 
-#### Providers
-
-> **\*** = Provider only sees established patients.
-
-**By Location**
+**Providers By Location**
 
 | Location | MD/DO Providers                                                 | OD Providers                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 | -------- | --------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
