@@ -56,9 +56,9 @@ This protocol outlines the standard steps when scheduling patients who may or ma
 
 1. **Verify Referral:** Check **Phreesia**, **ICP Documents,** and/or **E-Faxes** to confirm the referral exists and is for the appropriate specialty consultation.
 2. **Obtain Missing Referral:** If the referral document is not found, **notify the patient** that it needs to be sent over by the referring office _before_ the consultation appointment. The appointment may possibly be rescheduled if the referral is not received on time.
-3. **Schedule:** Schedule the appointment with the provider named on the referral, if specified.&#x20;
+3. **Schedule:** Schedule the appointment with the provider named on the referral, if specified.
    1. **Note:** Sometimes the provider listed on the referral is not accurate — Please correct if necessary.
-   2. If no provider is specified, schedule with the first available appropriate specialist at the patient's preferred location. &#x20;
+   2. If no provider is specified, schedule with the first available appropriate specialist at the patient's preferred location.
 4. **Document:** Note the referral source and status in the appropriate appointment details field (e.g., Physician Relations / Records in NextGen).
 
 ### If Patient Does NOT Have Referral (Self-Referral)
@@ -88,7 +88,7 @@ This protocol details the steps taken to properly triage and schedule a patient 
 
 * Have a low threshold for scheduling a **same-day** appointment.
 * If no same-day slot is available, triage via **ICP** message to the **Patient Care Team**, mark it **URGENT**.
-* OK to schedule in the grey if needed (buti f after 3:30PM  do not schedule and only send triage task to Patient Care Team).
+* OK to schedule in the grey if needed (buti f after 3:30PM do not schedule and only send triage task to Patient Care Team).
 * If the patient is **comanaged**, they should see their comanaging physician. If the comanaging doctor is not available and patient needs to be scheduled to another provider, or if the patient requests a different provider, note it in the appointment details.
 
 ***
@@ -126,8 +126,8 @@ This protocol details the steps taken to properly triage and schedule a patient 
 
 * PAC schedules the **first available** opening (same day).
 * If no ER spot is open, you may schedule in any open space (short or long)
-* If no same day spots are available for that provider, send an **ICP** communication to the Patient Care Team of that region and mark **urgent**.&#x20;
-* If the patient’s provider is out of the office, schedule with another provider in the region and note in the details their provider is out.  **Check availability for all office locations in the region** **to include smaller satellite offices.**
+* If no same day spots are available for that provider, send an **ICP** communication to the Patient Care Team of that region and mark **urgent**.
+* If the patient’s provider is out of the office, schedule with another provider in the region and note in the details their provider is out. **Check availability for all office locations in the region** **to include smaller satellite offices.**
 * **Dr. Banker** (CFS): Triaged by an **OD first** for emergency appts. For retina emergency referrals (e.g. detachment or tear), send an ICP message to Dr. Banker's team marked **urgent**. **Do not schedule**.
 * If it's **3:30 PM–5:00 PM**:
   * Attempt a warm transfer to the office.
@@ -195,15 +195,12 @@ _Refer to **NextGen Transfer to ICP process** for new patient ICP tasks_
 
 1. If symptoms worsen before the scheduled appointment, advise the patient to **call back** immediately
 2. Explain to the patient that he/she will likely be dilated for an Emergency visit.
-3.  If the patient isn't being seen the same day (non-Emergency) but has any of the following, they'll be **dilated** at the visit:
-
-    * Blurred Vision
-    * Decrease in Vision
-    * Double Vision
-    * NEW Floaters
-    * Curtain, Veil, or Spider webs
-
-
+3. If the patient isn't being seen the same day (non-Emergency) but has any of the following, they'll be **dilated** at the visit:
+   * Blurred Vision
+   * Decrease in Vision
+   * Double Vision
+   * NEW Floaters
+   * Curtain, Veil, or Spider webs
 
 ***
 
@@ -213,7 +210,7 @@ _Refer to **NextGen Transfer to ICP process** for new patient ICP tasks_
 * **Naples**: [Naples-ASCinquiries@useye.com](mailto:Naples-ASCinquiries@useye.com)
 * **Santa Fe (LEA)**: [santafeasc@useye.com](mailto:santafeasc@useye.com)
 
-### _**Special Case: Dermatology concerns**:_&#x20;
+### _**Special Case: Dermatology concerns**:_
 
 * Email [Derm@centerforsight.net](mailto:Derm@centerforsight.net) with the patient's name, DOB, phone number, and symptoms.
 
@@ -248,7 +245,7 @@ _After determining the type, provide the relevant discontinuation period from th
 
 ## 72-Hour Scheduling Rule
 
-### Purpose&#x20;
+### Purpose
 
 The purpose of this protocol is to fill provider schedules when there are last minute cancellations and new openings emerge.
 
@@ -675,11 +672,11 @@ Refractive procedures help improve the patient's vision to minimize dependence o
 * _Performs CLE/RLE Only (denoted by an asterisk `*` after the name)_
 * † Does not perform EVO ICL (denoted by a dagger `†`)
 
-| Location | Providers                                                                                                                                     |
-| -------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
-| **CFS**  | <p>Dr. Joaquin De Rojas<br>Dr. Priya Mathews<br>Dr. David Shoemaker*<br>Dr. Elizabeth Davis<br>Dr. Joshua Kim*<br>Dr. Jon Berlie† (Naples)</p> |
-| **LEA**  | <p>Dr. Vinay Gutti†<br>Dr. Scot Holman*<br>Dr. Scott Wehrly*</p>                                                                               |
-| **SFEC** | Dr. Albert Smolyar                                                                                                                            |
+| Location | Providers                                                                                                                                                 |
+| -------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **CFS**  | <p>Dr. Joaquin De Rojas<br>Dr. Priya Mathews<br>Dr. David Shoemaker*<br>Dr. Elizabeth Davis<br>Dr. Joshua Kim*<br>Dr. Jon Berlie<sup>†</sup> (Naples)</p> |
+| **LEA**  | <p>Dr. Vinay Gutti<sup>†</sup><br>Dr. Scot Holman*<br>Dr. Scott Wehrly*</p>                                                                               |
+| **SFEC** | Dr. Albert Smolyar                                                                                                                                        |
 
 #### Important Reminders
 
