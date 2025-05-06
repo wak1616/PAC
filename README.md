@@ -673,12 +673,12 @@ Refractive procedures help improve the patient's vision to minimize dependence o
 #### Providers
 
 * _Performs CLE/RLE Only (denoted by an asterisk `*` after the name)_
-* † Does not perform ICL (denoted by a dagger `†`)
+* † Does not perform EVO ICL (denoted by a dagger `†`)
 
 | Location | Providers                                                                                                                                     |
 | -------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
-| **CFS**  | <p>Dr. Joaquin De Rojas<br>Dr. Priya Mathews<br>Dr. David Shoemaker*<br>Dr. Elizabeth Davis<br>Dr. Joshua Kim*<br>Dr. Jon Berlie (Naples)</p> |
-| **LEA**  | <p>Dr. Vinay Gutti<br>Dr. Scot Holman*<br>Dr. Scott Wehrly*</p>                                                                               |
+| **CFS**  | <p>Dr. Joaquin De Rojas<br>Dr. Priya Mathews<br>Dr. David Shoemaker*<br>Dr. Elizabeth Davis<br>Dr. Joshua Kim*<br>Dr. Jon Berlie† (Naples)</p> |
+| **LEA**  | <p>Dr. Vinay Gutti†<br>Dr. Scot Holman*<br>Dr. Scott Wehrly*</p>                                                                               |
 | **SFEC** | Dr. Albert Smolyar                                                                                                                            |
 
 #### Important Reminders
