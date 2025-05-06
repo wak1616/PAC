@@ -1,6 +1,6 @@
 # Patient Access Center Master Guide
 
-Note: For detailed navigation, please use the GitBook sidebar menu on the **right** 👉 
+Note: For detailed navigation, please use the GitBook sidebar menu on the **right** 👉
 
 ## Introduction
 
@@ -20,7 +20,7 @@ US Eye encompasses the following practices:
 3. **Lake Eye Associates (LEA)**
    * 5 offices
    * 1 ASC
-   * Geographic span: The Villages area
+   * Geographic span: The Villages and greater area
 4. **Retina Health Center (RHC)**
    * 2 offices
    * Geographic span: Fort Myers to Naples area
@@ -54,17 +54,19 @@ This protocol outlines the standard steps when scheduling patients who may or ma
 
 ### If Patient Has Referral
 
-1. **Verify Referral:** Check **Phreesia** and/or **ICP Documents** to confirm the referral exists and is for the appropriate specialty consultation.
-2. **Obtain Missing Referral:** If the referral document is not found, **alert the patient** that it needs to be sent over by the referring office _before_ the consultation appointment. The appointment may need rescheduling if the referral is not received.
-3. **Schedule:** Schedule the appointment with the provider named on the referral, if specified. If no provider is specified, schedule with the first available appropriate specialist at the patient's preferred location.
+1. **Verify Referral:** Check **Phreesia**, **ICP Documents,** and/or **E-Faxes** to confirm the referral exists and is for the appropriate specialty consultation.
+2. **Obtain Missing Referral:** If the referral document is not found, **notify the patient** that it needs to be sent over by the referring office _before_ the consultation appointment. The appointment may possibly be rescheduled if the referral is not received on time.
+3. **Schedule:** Schedule the appointment with the provider named on the referral, if specified.&#x20;
+   1. **Note:** Sometimes the provider listed on the referral is not accurate — Please correct if necessary.
+   2. If no provider is specified, schedule with the first available appropriate specialist at the patient's preferred location. &#x20;
 4. **Document:** Note the referral source and status in the appropriate appointment details field (e.g., Physician Relations / Records in NextGen).
 
 ### If Patient Does NOT Have Referral (Self-Referral)
 
-1. **Confirm Condition:** Ask the patient about their symptoms or reason for seeking a specialty consultation. Confirm if they have been diagnosed with a relevant condition by a previous eye care provider (internal or external).
+1. **Confirm Condition:** Ask the patient about their symptoms or reason for seeking a specialty consultation. Ask if they have been diagnosed with a relevant condition by a previous eye care provider (internal or external).
    * If the patient was seen internally, check **ICP** for notes indicating a diagnosis or recommendation for a specialty consult.
    * If the reason is unclear or seems more appropriate for Primary Eye Care (e.g., needs glasses update, no specific diagnosis), follow the [Scheduling Primary Eye Care](./#scheduling-primary-eye-care) protocol first.
-2. **Records Requirement:** Alert the patient that **medical records** from their previous eye exam(s) related to the condition **are required** for the specialist consultation. Explain that the appointment may be canceled or rescheduled if records are not received beforehand.
+2. **Records Requirement (external referrals to internal specialists):** Alert the patient that **medical records** from their previous eye exam(s) related to the condition **may be required** for a specialist consultation. Explain that the appointment may be rescheduled by the specialist's team if records are not received.
 3. **Schedule Out & Mark:** Schedule the appointment at least **1 week out** to allow time for records to be sent and reviewed. Mark **"DNM" (Do Not Move)** in the appointment details to prevent automated systems from moving the appointment earlier.
 4. **Document Records Status:** Document the records request status (e.g., "Records requested from Dr. Smith on \[date]", "Patient to bring records") in the Physician Relations / Records field or appointment notes.
 5. **Provider Selection:** If the patient has no surgeon/specialist preference, offer the next available appointment with an appropriate specialist at the requested/most convenient location.
@@ -82,23 +84,12 @@ This protocol details the steps taken to properly triage and schedule a patient 
 
 ### Surgical Check (Last 30 Days)
 
-Before using the triage protocol, **ask if the patient had surgery in the last 30 days**:
+**If the patient is having an emergency or urgent issue** (see below) **and has had surgery with one of our doctors in the past 30 days:**
 
-* If **yes**, and they are an established patient who was referred to a surgeon by one of our providers:
-  * They **must** be scheduled for a **same-day** appointment.
-  * If no same-day slot is available, triage via **ICP** message to the **Patient Care Team**, mark it **URGENT**.
-  * If the patient is **comanaged**, they should see their comanaging physician. If the patient requests a different provider, note it in the appointment details.
-
-***
-
-### Special Cases
-
-* **ASC concerns**:
-  * \*_Sarasota_: [SRQ-ASCinquiries@useye.com](mailto:SRQ-ASCinquiries@useye.com)
-  * **Naples**: [Naples-ASCinquiries@useye.com](mailto:Naples-ASCinquiries@useye.com)
-  * **Santa Fe (LEA)**: [santafeasc@useye.com](mailto:santafeasc@useye.com)
-  * Refer to "Handling Patient Questions & Requests Protocol" for further instructions.
-* **Dermatology concerns**: email [Derm@centerforsight.net](mailto:Derm@centerforsight.net) with the patient's name, DOB, phone number, and symptoms.
+* Have a low threshold for scheduling a **same-day** appointment.
+* If no same-day slot is available, triage via **ICP** message to the **Patient Care Team**, mark it **URGENT**.
+* OK to schedule in the grey if needed (buti f after 3:30PM  do not schedule and only send triage task to Patient Care Team).
+* If the patient is **comanaged**, they should see their comanaging physician. If the comanaging doctor is not available and patient needs to be scheduled to another provider, or if the patient requests a different provider, note it in the appointment details.
 
 ***
 
@@ -126,15 +117,17 @@ Before using the triage protocol, **ask if the patient had surgery in the last 3
 
 ### Emergency --> Same Day Appointment Required
 
-* **New Patient**: Schedule with an **OD**.
+* **New Patient**: Schedule with an **OD at CFS.**
+  * **At LEA and SFEC, ODs or MDs see emergencies.**
 * **Established Patient**: Schedule with their **primary provider whenever possible**.
 * If they are in a **post-op period** and **comanaged**, they should see their comanaging provider.
 
 **Process**
 
 * PAC schedules the **first available** opening (same day).
-* If no ER or short appointment slot is open, you may schedule in any open space (excluding lunch hour).
-* **If** no same day spots are available for that provider, send an **ICP** communication to the Patient Care Team of that region and mark **urgent**.  Patient may need to be scheduled in another provider's schedule.
+* If no ER spot is open, you may schedule in any open space (short or long)
+* If no same day spots are available for that provider, send an **ICP** communication to the Patient Care Team of that region and mark **urgent**.&#x20;
+* If the patient’s provider is out of the office, schedule with another provider in the region and note in the details their provider is out.  **Check availability for all office locations in the region** **to include smaller satellite offices.**
 * **Dr. Banker** (CFS): Triaged by an **OD first** for emergency appts. For retina emergency referrals (e.g. detachment or tear), send an ICP message to Dr. Banker's team marked **urgent**. **Do not schedule**.
 * If it's **3:30 PM–5:00 PM**:
   * Attempt a warm transfer to the office.
@@ -145,7 +138,7 @@ Before using the triage protocol, **ask if the patient had surgery in the last 3
 
 ### Urgent – 24–48 Hours
 
-* **New Patient**: Schedule with **OD within 2 days**.
+* **New Patient**: Schedule with **OD within 2 days** (although some MDs at SFEC and LEA see ERs as well)
 * **Established Patient**: Schedule with **primary provider whenever possible**.
 * If in post-op/comanaged, see their comanaging provider if possible.
 
@@ -153,7 +146,7 @@ Before using the triage protocol, **ask if the patient had surgery in the last 3
 
 * Schedule in the first available **orange ER spot** first.
 * If unavailable orange ER spots, schedule for any 30 minute (long) spot that that provider has in next 48 hours.
-* If unsure where to schedule, send **ICP** triage communication to the Patient Care Team in that region and mark **urgent**.  Patient may need to see another provider if primary provider in the region is not available.
+* If unsure where to schedule, send **ICP** triage communication to the Patient Care Team in that region and mark **urgent**. Patient may need to see another provider if primary provider in the region is not available.
 
 ***
 
@@ -172,9 +165,7 @@ Before using the triage protocol, **ask if the patient had surgery in the last 3
 
 ***
 
-***
-
-### Triaging to Patient Care Teams via ICP
+### Routing to Patient Care Teams via ICP
 
 If you need to **triage via ICP** instead of scheduling immediately, see the table below to find the regional Patient Care Team to send message to:
 
@@ -186,9 +177,9 @@ If you need to **triage via ICP** instead of scheduling immediately, see the tab
 * `*RHC Patient Care Team`
 
 **Add the provider's name at the beginning of the message** if known.\
-Use **clear, concise language**—avoid abbreviations.&#x20;
+Use **clear, concise language**—avoid abbreviations.
 
-Document eye(s) affected, symptom details, cause if known, and duration.&#x20;
+Document eye(s) affected, symptom details, cause if known, and duration.
 
 Mark as **URGENT** if needed
 
@@ -196,18 +187,35 @@ Mark as **URGENT** if needed
 
 Inform the patient that staff will call them to discuss their symptoms and urgency.
 
+_Refer to **NextGen Transfer to ICP process** for new patient ICP tasks_
+
 ***
 
 #### Additional Reminders
 
-1. If symptoms worsen before the scheduled appointment, advise the patient to **call back** immediately.
+1. If symptoms worsen before the scheduled appointment, advise the patient to **call back** immediately
 2. Explain to the patient that he/she will likely be dilated for an Emergency visit.
-3. If the patient isn't being seen the same day (non-Emergency) but has any of the following, they'll be **dilated** at the visit:
-   * Blurred Vision
-   * Decrease in Vision
-   * Double Vision
-   * NEW Floaters
-   * Curtain, Veil, or Spider webs
+3.  If the patient isn't being seen the same day (non-Emergency) but has any of the following, they'll be **dilated** at the visit:
+
+    * Blurred Vision
+    * Decrease in Vision
+    * Double Vision
+    * NEW Floaters
+    * Curtain, Veil, or Spider webs
+
+
+
+***
+
+### Special Case: _Email ASC if patient is left with an IV in their arm after surgery_.
+
+* \*_Sarasota_: [SRQ-ASCinquiries@useye.com](mailto:SRQ-ASCinquiries@useye.com)
+* **Naples**: [Naples-ASCinquiries@useye.com](mailto:Naples-ASCinquiries@useye.com)
+* **Santa Fe (LEA)**: [santafeasc@useye.com](mailto:santafeasc@useye.com)
+
+### _**Special Case: Dermatology concerns**:_&#x20;
+
+* Email [Derm@centerforsight.net](mailto:Derm@centerforsight.net) with the patient's name, DOB, phone number, and symptoms.
 
 ***
 
@@ -240,25 +248,26 @@ _After determining the type, provide the relevant discontinuation period from th
 
 ## 72-Hour Scheduling Rule
 
-### When to Use
+### Purpose&#x20;
 
-Use this rule to override standard appointment templates if attemptig to schedule a patient within 72 hours (such as in acute situations).
+The purpose of this protocol is to fill provider schedules when there are last minute cancellations and new openings emerge.
+
+Use this rule to override standard appointment templates if attempting to schedule a patient within 72 hours.
 
 ### Allowed Overrides
 
-* New patient → any NEW patient slot&#x20;
+* New patient → any NEW patient slot
   * Comp Medical – New
   * Routine Employee – New
   * Routine Vision – New)
-* Established patient → any New or Established patient slot&#x20;
+* Established patient → any New or Established patient slot
   * Comp Medical – New/Est
-  * Routine Employee – Est
-  * Routine Vision – Est
+  * Routine Employee – New/Est
+  * Routine Vision – New/Est
 
 ### Restrictions
 
-* Do not schedule past 3:30 PM.
-* After 3:30 PM, talk to your supervisor and/or send a message to the Patient Care Team of the location closest to the patient to have them scheduled.
+* Do not schedule a same day or next day appointment past 3:30 PM.
 
 ### Doctors Included in 72-Hour Rule
 
@@ -294,7 +303,7 @@ Use this rule to override standard appointment templates if attemptig to schedul
 
 ### Dilation and Exam Duration (inform patient clearly)
 
-> "Your eyes will be dilated, causing blurry vision and light sensitivity for several hours. Please arrange transportation home.  Dilation can only be waived by the physician"
+> "Your eyes will be dilated, causing blurry vision and light sensitivity for several hours. Please arrange transportation home. Dilation can only be waived by the physician"
 
 > "Your exam may last approximately 90-120 minutes if a comprehensive exam is needed."
 
@@ -445,7 +454,7 @@ Appointments will typically be scheduled with the patient's existing provider un
    * **Script**:\
      "Five days before your appointment, you'll receive a message from Phreesia to confirm and complete registration. This helps speed up check-in and lets us focus on your care. If you have any trouble with registration, please let us know."
 4. **Confirm Appointment Details**
-   * **Suggested**:  _(Follow_ [_Standard Closing Procedures_](./#standard-closing-procedures-scripting)_)_
+   * **Suggested**: _(Follow_ [_Standard Closing Procedures_](./#standard-closing-procedures-scripting)_)_
 
 ### Handling Insurance Information During Scheduling
 
@@ -618,7 +627,7 @@ US Eye offers **Light Adjustable Lens**, **Advanced**, **Custom**, and **Basic**
    Yes. _"As part of the examination process, your eyes will be dilated. This can cause blurry vision and light sensitivity for several hours. Please arrange transportation, as you should not drive afterward."_
    * Advise patient dilation is required. _(See_ [_Dilation Key_](./#dilation-key) _for standard scripting)_
 2. **How long is the appointment?**\
-   &#xNAN;_"Your consultation will take approximately 2–3 hours. This time allows for a comprehensive exam and all necessary testing to ensure the highest level of care."_
+   \&#xNAN;_"Your consultation will take approximately 2–3 hours. This time allows for a comprehensive exam and all necessary testing to ensure the highest level of care."_
 
 #### Pre-Op / Post-Op Care
 
@@ -645,7 +654,7 @@ US Eye offers **Light Adjustable Lens**, **Advanced**, **Custom**, and **Basic**
 * Confirm date/time/location and clarify if location is different than usual:
 
 > **Example**:\
-> &#xNAN;_"Thank you, \[Mr./Ms. Last Name]. We look forward to seeing you on \[date] at \[time] at our \[location] office." (Follow_ [_Standard Closing Procedures_](./#standard-closing-procedures-scripting)_)_
+> \&#xNAN;_"Thank you, \[Mr./Ms. Last Name]. We look forward to seeing you on \[date] at \[time] at our \[location] office." (Follow_ [_Standard Closing Procedures_](./#standard-closing-procedures-scripting)_)_
 
 * Remind about potential dilation and 2–3 hour duration.
 * Reiterate contact lens discontinuation requirements if applicable.
@@ -729,7 +738,7 @@ Refractive procedures help improve the patient's vision to minimize dependence o
    Yes. _"As part of the examination, your eyes may be dilated to allow for a thorough assessment. Your vision may be blurry and your eyes sensitive to light for several hours. Please arrange transportation accordingly."_
    * Advise patient dilation is likely required. _(See_ [_Dilation Key_](./#dilation-key) _for standard scripting)_
 2. **How long is the consultation?**\
-   &#xNAN;_"Due to the complexity of the exam and the comprehensive nature of diagnostic testing, your consultation may last up to three hours."_
+   \&#xNAN;_"Due to the complexity of the exam and the comprehensive nature of diagnostic testing, your consultation may last up to three hours."_
 
 #### Pre-Op / Post-Op Care
 
@@ -766,7 +775,7 @@ Refractive procedures help improve the patient's vision to minimize dependence o
   * Keratoconus (that could require corneal crosslinking or CTAK)
   * Fuchs' Dystrophy or corneal edema (that could require corneal transplantion such as DMEK)
   * Pterygium or Pinguecula (that could require excision and graft placement)
-  * Prior surgical complications or trauma to front of the eye (that could require complex anterior segment surgery, IOL exchange, secondary lens placement, or iris repair  — **Dr. Elizabeth Davis** only)
+  * Prior surgical complications or trauma to front of the eye (that could require complex anterior segment surgery, IOL exchange, secondary lens placement, or iris repair — **Dr. Elizabeth Davis** only)
   * Severe dry eye and ocular surface disease (must be referred by an optometrist; that could require dry eye treatments as explained below)
 
 #### Providers by Location
@@ -1402,4 +1411,3 @@ Incoming calls for **Optical** route to designated regional ring groups.
 * If the caller cannot be transferred to optical (or if they already left a voicemail), escalate to a **team lead/manager**.
 * **Optical staff** confirm the prescription is signed in ICP and place an order in NextGen Optical Management. Payment is taken via Phreesia.
 * If the caller cannot be transferred to optical (or if they already left a voicemail), escalate to a **team lead/manager**.
-
