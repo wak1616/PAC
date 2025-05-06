@@ -13,4 +13,5 @@
 * [Provider Reference Guide](<Provider Reference Guide.md>)
 * [Location Reference Guide](<Location Reference Guide.md>)
 * [Dilation Key](<Dilation Key.md>)
+* [Insurance Guide](<Insurance Guide.md>)
 * [Agent Training](agent-training.md)
