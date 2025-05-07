@@ -127,7 +127,7 @@ This protocol details the steps taken to properly triage and schedule a patient 
 * PAC schedules the **first available** opening (same day).
 * If no ER spot is open, you may schedule in any open space (short or long)
 * If no same day spots are available for that provider, send an **ICP** communication to the Patient Care Team of that region and mark **urgent**.
-* If the patient’s provider is out of the office, schedule with another provider in the region and note in the details their provider is out. **Check availability for all office locations in the region** **to include smaller satellite offices.**
+* If the patient's provider is out of the office, schedule with another provider in the region and note in the details their provider is out. **Check availability for all office locations in the region** **to include smaller satellite offices.**
 * **Dr. Banker** (CFS): Triaged by an **OD first** for emergency appts. For retina emergency referrals (e.g. detachment or tear), send an ICP message to Dr. Banker's team marked **urgent**. **Do not schedule**.
 * If it's **3:30 PM–5:00 PM**:
   * Attempt a warm transfer to the office.
@@ -136,7 +136,7 @@ This protocol details the steps taken to properly triage and schedule a patient 
 
 ***
 
-### Urgent – 24–48 Hours
+### Urgent --> Appointment Within 48 Hours Required
 
 * **New Patient**: Schedule with **OD within 2 days** (although some MDs at SFEC and LEA see ERs as well)
 * **Established Patient**: Schedule with **primary provider whenever possible**.
@@ -204,13 +204,7 @@ _Refer to **NextGen Transfer to ICP process** for new patient ICP tasks_
 
 ***
 
-### Special Case: _Email ASC if patient is left with an IV in their arm after surgery_.
-
-* \*_Sarasota_: [SRQ-ASCinquiries@useye.com](mailto:SRQ-ASCinquiries@useye.com)
-* **Naples**: [Naples-ASCinquiries@useye.com](mailto:Naples-ASCinquiries@useye.com)
-* **Santa Fe (LEA)**: [santafeasc@useye.com](mailto:santafeasc@useye.com)
-
-### _**Special Case: Dermatology concerns**:_
+**Special Case: Dermatology concerns**:
 
 * Email [Derm@centerforsight.net](mailto:Derm@centerforsight.net) with the patient's name, DOB, phone number, and symptoms.
 
@@ -675,7 +669,7 @@ Refractive procedures help improve the patient's vision to minimize dependence o
 | Location | Providers                                                                                                                                                 |
 | -------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **CFS**  | <p>Dr. Joaquin De Rojas<br>Dr. Priya Mathews<br>Dr. David Shoemaker*<br>Dr. Elizabeth Davis<br>Dr. Joshua Kim*<br>Dr. Jon Berlie<sup>†</sup> (Naples)</p> |
-| **LEA**  | <p>Dr. Vinay Gutti<sup>†</sup><br>Dr. Scot Holman*<br>Dr. Scott Wehrly*</p>                                                                               |
+| **LEA**  | <p>Dr. Vinay Gutti<sup>*</sup><br>Dr. Scot Holman*<br>Dr. Scott Wehrly*</p>                                                                               |
 | **SFEC** | Dr. Albert Smolyar                                                                                                                                        |
 
 #### Important Reminders
@@ -1344,7 +1338,6 @@ Certain requests **only** clinical staff or providers can handle. Refer to the t
 | ------------------------------------------- | ----------- | ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | Medications / Drops                         | Normal      | Prescription Drug Management | \*Practice (Provider) Team (Established patients only)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 | Post Op Care                                | Urgent      | Continuing Care              | \*Practice (Provider) Team (mark as Urgent)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
-| Surgery / Procedure                         | High        | Surgery                      | <p><strong>For ASC Logistics</strong> (eating/drinking restrictions, arrival time, retained IV in arm, etc):<br>- <strong>Sarasota</strong>: <a href="mailto:SRQ-ASCinquiries@useye.com">SRQ-ASCinquiries@useye.com</a><br>- <strong>Naples</strong>: <a href="mailto:Naples-ASCinquiries@useye.com">Naples-ASCinquiries@useye.com</a><br>- <strong>Santa Fe (LEA)</strong>: <a href="mailto:santafeasc@useye.com">santafeasc@useye.com</a><br><br><strong>For Provider-Specific Questions</strong>:<br>*Practice (Provider) Team (mark as Urgent)</p> |
 | General Exam / Diagnosis                    | Normal      | Continuing Care              | \*Practice (Provider) Team                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
 | CL or Glasses Copy of Prescription          | Normal      | Contact Lens / Glasses       | \*Practice (Provider) Team                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
 | Change/Alter CL or Glasses Rx (not expired) | Normal      | Contact Lens / Glasses       | \*Practice (Provider) Team                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
@@ -1372,6 +1365,14 @@ Certain requests **only** clinical staff or providers can handle. Refer to the t
 * **Notify Patient Care Counselors (PCCs)** ICP groups for cash-pay procedures (CV, ADV, LAL, LASIK, refractive, cosmetic, etc)
 * **Notify Surgical Schedulers** in all other cases.
 
+**Specific Questions related to Surgery / Procedure (Urgency: High, ICP Task Category: Surgery):**
+    * **For ASC Logistics** (eating/drinking restrictions, arrival time, retained IV in arm, etc):
+        *   **Sarasota**: <a href="mailto:SRQ-ASCinquiries@useye.com">SRQ-ASCinquiries@useye.com</a>
+        *   **Naples**: <a href="mailto:Naples-ASCinquiries@useye.com">Naples-ASCinquiries@useye.com</a>
+        *   **Santa Fe (LEA)**: <a href="mailto:santafeasc@useye.com">santafeasc@useye.com</a>
+    *   **For Provider-Specific Questions**:
+        *   \*Practice (Provider) Team (mark as Urgent)
+
 **Never provide surgery times**
 
 Messages to surgical counselor ICP group for:
@@ -1383,7 +1384,7 @@ Messages to surgical counselor ICP group for:
 
 **Surgery Time & Pre-Op**:
 
-* For **Santa Fe Surgery Center (LEA)** or **Southwest Florida Eye (SFEC)**, create ICP task for the practice surgical counselors.
+* For **Santa Fe Surgery Center (SFSC near LEA)** or **Southwest Florida Eye (SFEC)**, create ICP task for the practice surgical counselors.
 * For Laser & Surgical Services (Center For Sight-US41 Sarasota): email [srq-ascinquiries@useye.com](mailto:srq-ascinquiries@useye.com).
 * For Montgomery Eye (Center for Sight Naples): email [naples-ascinquiries@useye.com](mailto:naples-ascinquiries@useye.com).
 * For Santa Fe Surgery Center (LEA): email [santafeasc@useye.com](mailto:santafeasc@useye.com).
