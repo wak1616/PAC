@@ -356,7 +356,7 @@ These exams are usually performed annually and help maintain overall eye health.
 | Location | MD/DO Providers                                                 | OD Providers                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 | -------- | --------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **CFS**  | <p>Dr. Jon Berlie<br>Dr. George Brinnig<br>Dr. Julie Carter</p> | <p>Dr. Len Brown<br>Dr. Daniel Hadland<br>Dr. Melissa Hammond<br>Dr. Erin Hardie<br>Dr. George Hurwitz<br>Dr. Todd Lang<br>Dr. James Lenhart<br>Dr. Lori Long<br>Dr. Michael Maloney<br>Dr. Mary McVey<br>Dr. David Mertzlufft<br>Dr. Bradley Middaugh<br>Dr. Patrick Nelson<br>Dr. Logan Page<br>Dr. Charles Putrino<br>Dr. Rachel Randolph<br>Dr. Kyle Schaub<br>Dr. Joseph Sowka<br>Dr. Scott Stevens<br>Dr. Lori Vollmer<br>Dr. Trisha Werner</p> |
-| **LEA**  | Dr. Jose Vazquez                                                | <p>Dr. Christine Bui<br>Dr. Mari Holderby<br>Dr. Alexandria Rawls</p>                                                                                                                                                                                                                                                                                                                                                                                 |
+| **LEA**  | Dr. Jose Vazquez (does NOT fit contact lenses)                  | <p>Dr. Christine Bui<br>Dr. Mari Holderby<br>Dr. Alexandria Rawls</p>                                                                                                                                                                                                                                                                                                                                                                                 |
 | **RHC**  | _(None listed)_                                                 | _(None listed)_                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 | **SFEC** | Dr. Albert Smolyar                                              | <p>Dr. Sarah Johnson<br>Dr. Brian Marhue<br>Dr. Penny Orr<br>Dr. Hunter Vittone</p>                                                                                                                                                                                                                                                                                                                                                                   |
 
@@ -866,7 +866,7 @@ Glaucoma is a disease caused by increased fluid pressure within the eye, potenti
 | Location | Providers                                                                                                                                                  |
 | -------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **CFS**  | <p>Dr. Joshua Kim,<br>Dr. Julia Carter (Naples),<br>Dr. Jon Berlie* (Naples),<br>Dr. Joaquin De Rojas*,<br>Dr. Priya Mathews*,<br>Dr. Elizabeth Davis*</p> |
-| **LEA**  | N/A                                                                                                                                                        |
+| **LEA**  | <p>Dr. Vinay Gutti*,<br>Dr. Scott Holman*,<br>Dr. Scott Wehrly*<br>                                                                                                                                                        |
 | **RHC**  | N/A                                                                                                                                                        |
 | **SFEC** | Dr. Albert Smolyar\*                                                                                                                                       |
 
@@ -1365,17 +1365,17 @@ Certain requests **only** clinical staff or providers can handle. Refer to the t
 * **Notify Patient Care Counselors (PCCs)** ICP groups for cash-pay procedures (CV, ADV, LAL, LASIK, refractive, cosmetic, etc)
 * **Notify Surgical Schedulers** in all other cases.
 
-**Specific Questions related to Surgery / Procedure (Urgency: High, ICP Task Category: Surgery):**
-    * **For ASC Logistics** (eating/drinking restrictions, arrival time, retained IV in arm, etc):
+**Specific Questions related to Surgery:**
+    * **For ASC Logistics** (arrival times, eating/drinking restrictions, retained IV in arm after surgery, etc):
         *   **Sarasota**: <a href="mailto:SRQ-ASCinquiries@useye.com">SRQ-ASCinquiries@useye.com</a>
         *   **Naples**: <a href="mailto:Naples-ASCinquiries@useye.com">Naples-ASCinquiries@useye.com</a>
         *   **Santa Fe (LEA)**: <a href="mailto:santafeasc@useye.com">santafeasc@useye.com</a>
     *   **For Provider-Specific Questions**:
         *   \*Practice (Provider) Team (mark as Urgent)
 
-**Never provide surgery times**
+**As a PAC agent, never provide surgery times*
 
-Messages to surgical counselor ICP group for:
+Messages to surgical counselor / patient care counselor (PCC)  ICP group for:
 
 * Surgery **cancellation** (if within 24–48 hours, also notify the provider team + email ASC if relevant).
 * Surgery **rescheduling** (including post-ops).
