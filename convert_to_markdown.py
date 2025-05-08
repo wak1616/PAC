@@ -2,9 +2,10 @@ import csv
 import os
 import glob
 
-def generate_markdown_for_csv(csv_file, transpose_threshold=7):
+def generate_markdown_for_csv(csv_file, transpose_threshold=1):
     """Convert a CSV file to a Markdown section.
-    If columns > transpose_threshold, transpose to key-value format per row.
+    If columns > transpose_threshold, transpose to key-value format per row,
+    wrapped in <details>/<summary> tags.
     Otherwise, render as a standard Markdown table.
     """
     with open(csv_file, 'r', encoding='utf-8') as f:
@@ -34,7 +35,9 @@ def generate_markdown_for_csv(csv_file, transpose_threshold=7):
                     # If first cell is empty, create a generic heading for the row
                     first_cell_content = f"Record {row_index + 1}"
 
-                section = f"### {first_cell_content}\n\n"
+                # Start with <details> and <summary>
+                section = f"<details><summary>{first_cell_content}</summary>\n\n"
+                
                 section += "| Attribute | Value |\n"
                 section += "|-----------|-------|\n"
                 
@@ -49,8 +52,10 @@ def generate_markdown_for_csv(csv_file, transpose_threshold=7):
 
                     cell_value = str(row[i]).replace("|", "\\|").strip() if i < len(row) else ""
                     section += f"| {header.replace('|', '\\|').strip()} | {cell_value} |\n"
+                
+                section += "\n</details>" # Close <details>
                 markdown_sections.append(section)
-            return "\n".join(markdown_sections)
+            return "\n\n".join(markdown_sections) # Add double newline between details sections for spacing
         else:
             # Standard table rendering (for FAQ or narrow tables)
             markdown = "| " + " | ".join(headers) + " |\n"
@@ -102,7 +107,7 @@ def main():
             section_name = os.path.splitext(csv_file)[0].replace("_", " ") # Make title more readable
             outfile.write(f"## {section_name}\n\n")
             
-            # Pass transpose_threshold, default is 7
+            # Pass transpose_threshold, default is 1
             markdown_content = generate_markdown_for_csv(csv_file) 
             outfile.write(markdown_content)
             outfile.write("\n\n")

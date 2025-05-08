@@ -25,7 +25,7 @@
 
 ## US Eye Insurance Guide(Center for Sight)
 
-### AARP Medicare Advantage from UHC FL-0005-0015/001P/003P (HMO-POS)
+<details><summary>AARP Medicare Advantage from UHC FL-0005-0015/001P/003P (HMO-POS)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -70,7 +70,9 @@
 | Trisha Werner, OD | PAR |
 | Callista Wlaschin, OD | PAR |
 
-### AARP Medicare Advantage from UHC FL-0016-0027 (PPO)
+</details>
+
+<details><summary>AARP Medicare Advantage from UHC FL-0016-0027 (PPO)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -115,7 +117,9 @@
 | Trisha Werner, OD | PAR |
 | Callista Wlaschin, OD | PAR |
 
-### AARP Medicare Advantage from UHC FL-0031 (Regional PPO)
+</details>
+
+<details><summary>AARP Medicare Advantage from UHC FL-0031 (Regional PPO)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -160,7 +164,9 @@
 | Trisha Werner, OD | PAR |
 | Callista Wlaschin, OD | PAR |
 
-### AARP Medicare Advantage HMO- WELLMED (Payer ID is WELM2)
+</details>
+
+<details><summary>AARP Medicare Advantage HMO- WELLMED (Payer ID is WELM2)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -205,7 +211,9 @@
 | Trisha Werner, OD | PAR |
 | Callista Wlaschin, OD | PAR |
 
-### AARP Medicare Advantage Patriot No Rx FL-MA01 (Regional PPO)
+</details>
+
+<details><summary>AARP Medicare Advantage Patriot No Rx FL-MA01 (Regional PPO)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -250,7 +258,9 @@
 | Trisha Werner, OD | PAR |
 | Callista Wlaschin, OD | PAR |
 
-### AARP Medicare Advantage PPO- WELLMED (Payer ID is WELM2)
+</details>
+
+<details><summary>AARP Medicare Advantage PPO- WELLMED (Payer ID is WELM2)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -295,7 +305,9 @@
 | Trisha Werner, OD | PAR |
 | Callista Wlaschin, OD | PAR |
 
-### Aetna HealthFund- Aetna Health Network Only/ Network Option℠ (Open Access)
+</details>
+
+<details><summary>Aetna HealthFund- Aetna Health Network Only/ Network Option℠ (Open Access)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -340,7 +352,9 @@
 | Trisha Werner, OD | PAR |
 | Callista Wlaschin, OD | PAR |
 
-### Aetna Healthfund- Aetna Open Access Aetna Select/ Choice PPO / POS / POS II
+</details>
+
+<details><summary>Aetna Healthfund- Aetna Open Access Aetna Select/ Choice PPO / POS / POS II</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -385,7 +399,9 @@
 | Trisha Werner, OD | PAR |
 | Callista Wlaschin, OD | PAR |
 
-### Aetna Healthfund- Aetna Open Access Elect Choice EPO
+</details>
+
+<details><summary>Aetna Healthfund- Aetna Open Access Elect Choice EPO</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -430,7 +446,9 @@
 | Trisha Werner, OD | PAR |
 | Callista Wlaschin, OD | PAR |
 
-### Aetna Healthfund- Aetna Open Access Managed Choice POS
+</details>
+
+<details><summary>Aetna Healthfund- Aetna Open Access Managed Choice POS</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -475,7 +493,9 @@
 | Trisha Werner, OD | PAR |
 | Callista Wlaschin, OD | PAR |
 
-### Aetna Innovation - Innovation Health Aetna Select/National Advantage Program (NAP)/Innovataion Health Aetna POS/PPO
+</details>
+
+<details><summary>Aetna Innovation - Innovation Health Aetna Select/National Advantage Program (NAP)/Innovataion Health Aetna POS/PPO</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -520,7 +540,9 @@
 | Trisha Werner, OD | PAR |
 | Callista Wlaschin, OD | PAR |
 
-### Aetna Medicare - Advantra - Eagle, Elite, Gold (HMO-POS)
+</details>
+
+<details><summary>Aetna Medicare - Advantra - Eagle, Elite, Gold (HMO-POS)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -565,7 +587,9 @@
 | Trisha Werner, OD | PAR |
 | Callista Wlaschin, OD | PAR |
 
-### Aetna Medicare - Credit Plan (PPO)
+</details>
+
+<details><summary>Aetna Medicare - Credit Plan (PPO)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -610,7 +634,9 @@
 | Trisha Werner, OD | PAR |
 | Callista Wlaschin, OD | PAR |
 
-### Aetna Medicare - Credit/Discover/Discover Value Plan (HMO)
+</details>
+
+<details><summary>Aetna Medicare - Credit/Discover/Discover Value Plan (HMO)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -655,7 +681,9 @@
 | Trisha Werner, OD | PAR |
 | Callista Wlaschin, OD | PAR |
 
-### Aetna Medicare - Select  (HMO)
+</details>
+
+<details><summary>Aetna Medicare - Select  (HMO)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -700,7 +728,9 @@
 | Trisha Werner, OD | Non-PAR |
 | Callista Wlaschin, OD | Non-PAR |
 
-### Aetna Medicare - Essential/ Essential Elite/ Essentials PPO
+</details>
+
+<details><summary>Aetna Medicare - Essential/ Essential Elite/ Essentials PPO</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -745,7 +775,9 @@
 | Trisha Werner, OD | PAR |
 | Callista Wlaschin, OD | PAR |
 
-### Aetna Medicare - Preferred/ Preferred Premium PPO
+</details>
+
+<details><summary>Aetna Medicare - Preferred/ Preferred Premium PPO</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -790,7 +822,9 @@
 | Trisha Werner, OD | PAR |
 | Callista Wlaschin, OD | PAR |
 
-### Aetna Medicare- Advantra Credit Value/ Advantra Gold/ Advtantra Silver/ Advantra Preferred/ Advantra Premier/ Advantra Premier Plus/ Advantra Value PPO
+</details>
+
+<details><summary>Aetna Medicare- Advantra Credit Value/ Advantra Gold/ Advtantra Silver/ Advantra Preferred/ Advantra Premier/ Advantra Premier Plus/ Advantra Value PPO</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -835,7 +869,9 @@
 | Trisha Werner, OD | PAR |
 | Callista Wlaschin, OD | PAR |
 
-### Aetna Medicare- Bronze/ Gold/ Platinum/ Core/ Core Elite/ Deluxe/ Discover/ Discover Value Plan PPO
+</details>
+
+<details><summary>Aetna Medicare- Bronze/ Gold/ Platinum/ Core/ Core Elite/ Deluxe/ Discover/ Discover Value Plan PPO</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -880,7 +916,9 @@
 | Trisha Werner, OD | PAR |
 | Callista Wlaschin, OD | PAR |
 
-### Aetna Medicare- Dual Choice/ Dual Preferred Plan/ Dual Select Choice/ Dual Select Signature HMO D-SNP
+</details>
+
+<details><summary>Aetna Medicare- Dual Choice/ Dual Preferred Plan/ Dual Select Choice/ Dual Select Signature HMO D-SNP</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -925,7 +963,9 @@
 | Trisha Werner, OD | PAR |
 | Callista Wlaschin, OD | PAR |
 
-### Aetna Medicare- Dual Choice/ Dual Preferred Plan/ Dual Select Choice/ Dual Select Signature PPO D-SNP
+</details>
+
+<details><summary>Aetna Medicare- Dual Choice/ Dual Preferred Plan/ Dual Select Choice/ Dual Select Signature PPO D-SNP</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -970,7 +1010,9 @@
 | Trisha Werner, OD | PAR |
 | Callista Wlaschin, OD | PAR |
 
-### Aetna Medicare- Eagle/ Eagle Giveback/ Eagle I & II/ Eagle Plus PPO
+</details>
+
+<details><summary>Aetna Medicare- Eagle/ Eagle Giveback/ Eagle I & II/ Eagle Plus PPO</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -1015,7 +1057,9 @@
 | Trisha Werner, OD | PAR |
 | Callista Wlaschin, OD | PAR |
 
-### Aetna Medicare- Elite/Elite Plan 3 PPO
+</details>
+
+<details><summary>Aetna Medicare- Elite/Elite Plan 3 PPO</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -1060,7 +1104,9 @@
 | Trisha Werner, OD | PAR |
 | Callista Wlaschin, OD | PAR |
 
-### Aetna Medicare- Enhanced Select PPO
+</details>
+
+<details><summary>Aetna Medicare- Enhanced Select PPO</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -1105,7 +1151,9 @@
 | Trisha Werner, OD | PAR |
 | Callista Wlaschin, OD | PAR |
 
-### Aetna Medicare- Explorer/ Explore Premier/ Explore Premier II PPO
+</details>
+
+<details><summary>Aetna Medicare- Explorer/ Explore Premier/ Explore Premier II PPO</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -1150,7 +1198,9 @@
 | Trisha Werner, OD | PAR |
 | Callista Wlaschin, OD | PAR |
 
-### Aetna Medicare- Freedom/ Freedom Core/ Freedom Plus/ Freedom Preferred PPO
+</details>
+
+<details><summary>Aetna Medicare- Freedom/ Freedom Core/ Freedom Plus/ Freedom Preferred PPO</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -1195,7 +1245,9 @@
 | Trisha Werner, OD | PAR |
 | Callista Wlaschin, OD | PAR |
 
-### Aetna Medicare- Giveback Choice/ Giveback Choice Plus PPO
+</details>
+
+<details><summary>Aetna Medicare- Giveback Choice/ Giveback Choice Plus PPO</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -1240,7 +1292,9 @@
 | Trisha Werner, OD | PAR |
 | Callista Wlaschin, OD | PAR |
 
-### Aetna Medicare- Medicare Choice PPO
+</details>
+
+<details><summary>Aetna Medicare- Medicare Choice PPO</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -1285,7 +1339,9 @@
 | Trisha Werner, OD | PAR |
 | Callista Wlaschin, OD | PAR |
 
-### Aetna Medicare- Premier/ Premier Regional/ Premier 1 & 2/ Premier Plus PPO
+</details>
+
+<details><summary>Aetna Medicare- Premier/ Premier Regional/ Premier 1 & 2/ Premier Plus PPO</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -1330,7 +1386,9 @@
 | Trisha Werner, OD | PAR |
 | Callista Wlaschin, OD | PAR |
 
-### Aetna Medicare- SmartFit/ SmartFit Plan PPO
+</details>
+
+<details><summary>Aetna Medicare- SmartFit/ SmartFit Plan PPO</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -1375,7 +1433,9 @@
 | Trisha Werner, OD | PAR |
 | Callista Wlaschin, OD | PAR |
 
-### Aetna Medicare- SmartSaver Elite PPO
+</details>
+
+<details><summary>Aetna Medicare- SmartSaver Elite PPO</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -1420,7 +1480,9 @@
 | Trisha Werner, OD | PAR |
 | Callista Wlaschin, OD | PAR |
 
-### Aetna Medicare- Value Plan/ Value Advantra/ Value Plus/ Value Plus Signature PPO
+</details>
+
+<details><summary>Aetna Medicare- Value Plan/ Value Advantra/ Value Plus/ Value Plus Signature PPO</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -1465,7 +1527,9 @@
 | Trisha Werner, OD | PAR |
 | Callista Wlaschin, OD | PAR |
 
-### Aetna Medicare-The Valley Plan PPO
+</details>
+
+<details><summary>Aetna Medicare-The Valley Plan PPO</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -1510,7 +1574,9 @@
 | Trisha Werner, OD | PAR |
 | Callista Wlaschin, OD | PAR |
 
-### Aetna Open Access- Aetna Choice® POS II/ Elect Choice EPO
+</details>
+
+<details><summary>Aetna Open Access- Aetna Choice® POS II/ Elect Choice EPO</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -1555,7 +1621,9 @@
 | Trisha Werner, OD | PAR |
 | Callista Wlaschin, OD | PAR |
 
-### Aetna Open Access- Aetna Health Network Only℠
+</details>
+
+<details><summary>Aetna Open Access- Aetna Health Network Only℠</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -1600,7 +1668,9 @@
 | Trisha Werner, OD | PAR |
 | Callista Wlaschin, OD | PAR |
 
-### Aetna Open Access- Aetna Health Network Option℠
+</details>
+
+<details><summary>Aetna Open Access- Aetna Health Network Option℠</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -1645,7 +1715,9 @@
 | Trisha Werner, OD | PAR |
 | Callista Wlaschin, OD | PAR |
 
-### Aetna Open Access- Aetna Managed Choice® POS
+</details>
+
+<details><summary>Aetna Open Access- Aetna Managed Choice® POS</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -1690,7 +1762,9 @@
 | Trisha Werner, OD | PAR |
 | Callista Wlaschin, OD | PAR |
 
-### Aetna Open Access- Aetna Select℠
+</details>
+
+<details><summary>Aetna Open Access- Aetna Select℠</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -1735,7 +1809,9 @@
 | Trisha Werner, OD | PAR |
 | Callista Wlaschin, OD | PAR |
 
-### Aetna Premier Care Network Plus- Choice POS II
+</details>
+
+<details><summary>Aetna Premier Care Network Plus- Choice POS II</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -1780,7 +1856,9 @@
 | Trisha Werner, OD | PAR |
 | Callista Wlaschin, OD | PAR |
 
-### Aetna Premier Care Network Plus- Open Access Aetna Select
+</details>
+
+<details><summary>Aetna Premier Care Network Plus- Open Access Aetna Select</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -1825,7 +1903,9 @@
 | Trisha Werner, OD | PAR |
 | Callista Wlaschin, OD | PAR |
 
-### Aetna Small Group Employer Plan- Aetna Florida Elect Choice Open Access (OAEPO)
+</details>
+
+<details><summary>Aetna Small Group Employer Plan- Aetna Florida Elect Choice Open Access (OAEPO)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -1870,7 +1950,9 @@
 | Trisha Werner, OD | PAR |
 | Callista Wlaschin, OD | PAR |
 
-### Aetna Small Group Employer Plan- Aetna Florida Health Network Only (HNOnly)
+</details>
+
+<details><summary>Aetna Small Group Employer Plan- Aetna Florida Health Network Only (HNOnly)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -1915,7 +1997,9 @@
 | Trisha Werner, OD | PAR |
 | Callista Wlaschin, OD | PAR |
 
-### Aetna Standard Plan- Aetna Affordable Health Choices® limited benefits insurance plan (SRC only)
+</details>
+
+<details><summary>Aetna Standard Plan- Aetna Affordable Health Choices® limited benefits insurance plan (SRC only)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -1960,7 +2044,9 @@
 | Trisha Werner, OD | PAR |
 | Callista Wlaschin, OD | PAR |
 
-### Aetna Standard Plan- Aetna HMO/ HMO Gold/ Silver
+</details>
+
+<details><summary>Aetna Standard Plan- Aetna HMO/ HMO Gold/ Silver</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -2005,7 +2091,9 @@
 | Trisha Werner, OD | PAR |
 | Callista Wlaschin, OD | PAR |
 
-### Aetna Standard Plan- Aetna Managed Choice® POS
+</details>
+
+<details><summary>Aetna Standard Plan- Aetna Managed Choice® POS</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -2050,7 +2138,9 @@
 | Trisha Werner, OD | PAR |
 | Callista Wlaschin, OD | PAR |
 
-### Aetna Standard Plan- Aetna Open Choice® PPO
+</details>
+
+<details><summary>Aetna Standard Plan- Aetna Open Choice® PPO</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -2095,7 +2185,9 @@
 | Trisha Werner, OD | PAR |
 | Callista Wlaschin, OD | PAR |
 
-### Aetna Standard Plan- Aetna QPOS®/ Select/ Voluntary Plans
+</details>
+
+<details><summary>Aetna Standard Plan- Aetna QPOS®/ Select/ Voluntary Plans</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -2140,7 +2232,9 @@
 | Trisha Werner, OD | PAR |
 | Callista Wlaschin, OD | PAR |
 
-### Aetna Whole Health-  Southwest Florida - Open Access Elect Choice/ Southwest Florida Open Access Aetna Select/ Southwest Florida Health Network Only
+</details>
+
+<details><summary>Aetna Whole Health-  Southwest Florida - Open Access Elect Choice/ Southwest Florida Open Access Aetna Select/ Southwest Florida Health Network Only</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -2185,7 +2279,9 @@
 | Trisha Werner, OD | PAR |
 | Callista Wlaschin, OD | PAR |
 
-### Allegiance Benefit Plan (Cigna Open Access Plus Network)
+</details>
+
+<details><summary>Allegiance Benefit Plan (Cigna Open Access Plus Network)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -2230,7 +2326,9 @@
 | Trisha Werner, OD | PAR |
 | Callista Wlaschin, OD | PAR |
 
-### Allied National Open Access
+</details>
+
+<details><summary>Allied National Open Access</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -2275,7 +2373,9 @@
 | Trisha Werner, OD | PAR |
 | Callista Wlaschin, OD | PAR |
 
-### AllSavers (UHC - Choice and Choice Plus Network)
+</details>
+
+<details><summary>AllSavers (UHC - Choice and Choice Plus Network)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -2320,7 +2420,9 @@
 | Trisha Werner, OD | PAR |
 | Callista Wlaschin, OD | PAR |
 
-### AllSavers (UHC- Charter and Navigate)
+</details>
+
+<details><summary>AllSavers (UHC- Charter and Navigate)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -2365,7 +2467,9 @@
 | Trisha Werner, OD | PAR |
 | Callista Wlaschin, OD | PAR |
 
-### Ambetter ALL PLANS
+</details>
+
+<details><summary>Ambetter ALL PLANS</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -2410,7 +2514,9 @@
 | Trisha Werner, OD | Non-PAR |
 | Callista Wlaschin, OD | Non-PAR |
 
-### Anthem Blue- (Select Network) Alliance/ Blue Choice Open Access/Blue Choice Options/Blue Value/HealthSync
+</details>
+
+<details><summary>Anthem Blue- (Select Network) Alliance/ Blue Choice Open Access/Blue Choice Options/Blue Value/HealthSync</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -2455,7 +2561,9 @@
 | Trisha Werner, OD | PAR |
 | Callista Wlaschin, OD | PAR |
 
-### Anthem Blue- (Select Network) Century Preferred/High Value Network/Horizon Managed Care Network/National PPO/Network S/Network Blue/ Select PPO
+</details>
+
+<details><summary>Anthem Blue- (Select Network) Century Preferred/High Value Network/Horizon Managed Care Network/National PPO/Network S/Network Blue/ Select PPO</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -2500,7 +2608,9 @@
 | Trisha Werner, OD | PAR |
 | Callista Wlaschin, OD | PAR |
 
-### Anthem Blue- Grocery/Traditional/Traditional PPO
+</details>
+
+<details><summary>Anthem Blue- Grocery/Traditional/Traditional PPO</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -2545,7 +2655,9 @@
 | Trisha Werner, OD | PAR |
 | Callista Wlaschin, OD | PAR |
 
-### Anthem Blue Medicare- Medicare Advantage (PPO)
+</details>
+
+<details><summary>Anthem Blue Medicare- Medicare Advantage (PPO)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -2590,7 +2702,9 @@
 | Trisha Werner, OD | PAR |
 | Callista Wlaschin, OD | PAR |
 
-### Anthem Blue- POS
+</details>
+
+<details><summary>Anthem Blue- POS</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -2635,7 +2749,9 @@
 | Trisha Werner, OD | PAR |
 | Callista Wlaschin, OD | PAR |
 
-### Anthem Blue-Pathway Essentials/Essentials Standard PPO/EPO
+</details>
+
+<details><summary>Anthem Blue-Pathway Essentials/Essentials Standard PPO/EPO</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -2680,7 +2796,9 @@
 | Trisha Werner, OD | PAR |
 | Callista Wlaschin, OD | PAR |
 
-### Anthem Blue-Preferred POS (Select Network)
+</details>
+
+<details><summary>Anthem Blue-Preferred POS (Select Network)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -2725,7 +2843,9 @@
 | Trisha Werner, OD | PAR |
 | Callista Wlaschin, OD | PAR |
 
-### Anthem BCBS-Blue View Vision/Blue Vision Insight/Blue Vision Insight Plus/Vision Insight Plus Select/IBM Vision Plan/Vision Access Value/Vision Minimum Premium Plan
+</details>
+
+<details><summary>Anthem BCBS-Blue View Vision/Blue Vision Insight/Blue Vision Insight Plus/Vision Insight Plus Select/IBM Vision Plan/Vision Access Value/Vision Minimum Premium Plan</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -2770,7 +2890,9 @@
 | Trisha Werner, OD | PAR |
 | Callista Wlaschin, OD | PAR |
 
-### Avesis Vision
+</details>
+
+<details><summary>Avesis Vision</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -2815,7 +2937,9 @@
 | Trisha Werner, OD | Non-PAR |
 | Callista Wlaschin, OD | Non-PAR |
 
-### AvMed HMO (State of Florida High Deductible Health Plan and State of Florida Standard HMO Plan)
+</details>
+
+<details><summary>AvMed HMO (State of Florida High Deductible Health Plan and State of Florida Standard HMO Plan)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -2860,7 +2984,9 @@
 | Trisha Werner, OD | Non-PAR |
 | Callista Wlaschin, OD | Non-PAR |
 
-### BCBS- FEP Blue Vision
+</details>
+
+<details><summary>BCBS- FEP Blue Vision</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -2905,7 +3031,9 @@
 | Trisha Werner, OD | Non-PAR |
 | Callista Wlaschin, OD | Non-PAR |
 
-### BCBS of FL BlueCare/Blue Care w. Pediactric Vision - Alpha Prefix XJGH, VMBH, VMEH
+</details>
+
+<details><summary>BCBS of FL BlueCare/Blue Care w. Pediactric Vision - Alpha Prefix XJGH, VMBH, VMEH</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -2950,7 +3078,9 @@
 | Trisha Werner, OD | PAR |
 | Callista Wlaschin, OD | PAR |
 
-### BCBS of FL BlueChoice
+</details>
+
+<details><summary>BCBS of FL BlueChoice</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -2995,7 +3125,9 @@
 | Trisha Werner, OD | PAR |
 | Callista Wlaschin, OD | PAR |
 
-### BCBS of FL Blue High-Deductible Health Plan (HDHP), HMO- POS
+</details>
+
+<details><summary>BCBS of FL Blue High-Deductible Health Plan (HDHP), HMO- POS</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -3040,7 +3172,9 @@
 | Trisha Werner, OD | PAR |
 | Callista Wlaschin, OD | PAR |
 
-### BCBS of FL BlueMedicare Classic/Classic Plus HMO - Alpha Prefix XJRH
+</details>
+
+<details><summary>BCBS of FL BlueMedicare Classic/Classic Plus HMO - Alpha Prefix XJRH</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -3085,7 +3219,9 @@
 | Trisha Werner, OD | PAR |
 | Callista Wlaschin, OD | PAR |
 
-### BCBS of FL BlueMedicare Group/Employer PPO
+</details>
+
+<details><summary>BCBS of FL BlueMedicare Group/Employer PPO</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -3130,7 +3266,9 @@
 | Trisha Werner, OD | PAR |
 | Callista Wlaschin, OD | PAR |
 
-### BCBS of FL BlueMedicare Patriot PPO
+</details>
+
+<details><summary>BCBS of FL BlueMedicare Patriot PPO</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -3175,7 +3313,9 @@
 | Trisha Werner, OD | PAR |
 | Callista Wlaschin, OD | PAR |
 
-### BCBS of FL BlueMedicare Premier HMO - Alpha Prefix XJIH
+</details>
+
+<details><summary>BCBS of FL BlueMedicare Premier HMO - Alpha Prefix XJIH</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -3220,7 +3360,9 @@
 | Trisha Werner, OD | PAR |
 | Callista Wlaschin, OD | PAR |
 
-### BCBS of FL BlueMedicare Select PPO
+</details>
+
+<details><summary>BCBS of FL BlueMedicare Select PPO</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -3265,7 +3407,9 @@
 | Trisha Werner, OD | PAR |
 | Callista Wlaschin, OD | PAR |
 
-### BCBS of FL BlueMedicare Value PPO/ BlueMedicare Value w. Level 1 -
+</details>
+
+<details><summary>BCBS of FL BlueMedicare Value PPO/ BlueMedicare Value w. Level 1 -</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -3310,7 +3454,9 @@
 | Trisha Werner, OD | PAR |
 | Callista Wlaschin, OD | PAR |
 
-### BCBS of FL BlueOptions Temporary Insurance/Blue Select Temporary Insurance
+</details>
+
+<details><summary>BCBS of FL BlueOptions Temporary Insurance/Blue Select Temporary Insurance</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -3355,7 +3501,9 @@
 | Trisha Werner, OD | PAR |
 | Callista Wlaschin, OD | PAR |
 
-### BCBS of FL BlueOptions/Blue Options Hospial Surgical Plus/Blue Options with Pediactric Vision
+</details>
+
+<details><summary>BCBS of FL BlueOptions/Blue Options Hospial Surgical Plus/Blue Options with Pediactric Vision</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -3400,7 +3548,9 @@
 | Trisha Werner, OD | PAR |
 | Callista Wlaschin, OD | PAR |
 
-### BCBS of FL BlueSelect/BlueSelect Hospital Surgical Plus/BlueSelect w. Pediatric Vision - Alpha Prefix VMAH
+</details>
+
+<details><summary>BCBS of FL BlueSelect/BlueSelect Hospital Surgical Plus/BlueSelect w. Pediatric Vision - Alpha Prefix VMAH</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -3445,7 +3595,9 @@
 | Trisha Werner, OD | PAR |
 | Callista Wlaschin, OD | PAR |
 
-### BCBS of FL Federal Employee Program - alpha prefix R
+</details>
+
+<details><summary>BCBS of FL Federal Employee Program - alpha prefix R</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -3490,7 +3642,9 @@
 | Trisha Werner, OD | PAR |
 | Callista Wlaschin, OD | PAR |
 
-### BCBS of FL myBlue Connected Care/myBlue w. Pediactric Vision - Alpha Prefix VMYH
+</details>
+
+<details><summary>BCBS of FL myBlue Connected Care/myBlue w. Pediactric Vision - Alpha Prefix VMYH</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -3535,7 +3689,9 @@
 | Trisha Werner, OD | PAR |
 | Callista Wlaschin, OD | PAR |
 
-### BCBS of FL SimplyBlue - Alpha Prefix FSOH
+</details>
+
+<details><summary>BCBS of FL SimplyBlue - Alpha Prefix FSOH</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -3580,7 +3736,9 @@
 | Trisha Werner, OD | PAR |
 | Callista Wlaschin, OD | PAR |
 
-### BCBS Out of State California ONLY
+</details>
+
+<details><summary>BCBS Out of State California ONLY</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -3625,7 +3783,9 @@
 | Trisha Werner, OD | PAR |
 | Callista Wlaschin, OD | PAR |
 
-### BCBS Out of State Commercial PPO Plans -all plans that are not BCBS of Florida; please ask the patient to check the front and back copy of the card for the state. If the card says "Anthem", please see ANTHEM on the insurance guide
+</details>
+
+<details><summary>BCBS Out of State Commercial PPO Plans -all plans that are not BCBS of Florida; please ask the patient to check the front and back copy of the card for the state. If the card says "Anthem", please see ANTHEM on the insurance guide</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -3670,7 +3830,9 @@
 | Trisha Werner, OD | PAR |
 | Callista Wlaschin, OD | PAR |
 
-### BCBS Out of State HMO Plans - ALL PLANS Commercial and Medicare HMO PLANS
+</details>
+
+<details><summary>BCBS Out of State HMO Plans - ALL PLANS Commercial and Medicare HMO PLANS</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -3715,7 +3877,9 @@
 | Trisha Werner, OD | Non-PAR |
 | Callista Wlaschin, OD | Non-PAR |
 
-### BCBS Out of State Medicare HMO-POS Plans - Medicare HMO POS Plans do have OON benefits. Note: BCBS Michigan Medicare HMO-POS (alpha prefix XYK)
+</details>
+
+<details><summary>BCBS Out of State Medicare HMO-POS Plans - Medicare HMO POS Plans do have OON benefits. Note: BCBS Michigan Medicare HMO-POS (alpha prefix XYK)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -3760,7 +3924,9 @@
 | Trisha Werner, OD | PAR |
 | Callista Wlaschin, OD | PAR |
 
-### BCBS Out of State Medicare PPO Plans -all plans that are not BCBS of Florida; please ask the patient to check the front and back copy of the card for the state. If the card says "Anthem", please see ANTHEM on the insurance guide
+</details>
+
+<details><summary>BCBS Out of State Medicare PPO Plans -all plans that are not BCBS of Florida; please ask the patient to check the front and back copy of the card for the state. If the card says "Anthem", please see ANTHEM on the insurance guide</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -3805,7 +3971,9 @@
 | Trisha Werner, OD | PAR |
 | Callista Wlaschin, OD | PAR |
 
-### Best Care Alliance (Former Innovatus Health)
+</details>
+
+<details><summary>Best Care Alliance (Former Innovatus Health)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -3850,7 +4018,9 @@
 | Trisha Werner, OD | Non-PAR |
 | Callista Wlaschin, OD | Non-PAR |
 
-### Carefirst BCBS Commercial - BlueChoice Advantage/BlueChoice Advantage HDHP/BlueChoice Plus/BlueHPN/BluePreferred (PPO)
+</details>
+
+<details><summary>Carefirst BCBS Commercial - BlueChoice Advantage/BlueChoice Advantage HDHP/BlueChoice Plus/BlueHPN/BluePreferred (PPO)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -3895,7 +4065,9 @@
 | Trisha Werner, OD | PAR |
 | Callista Wlaschin, OD | PAR |
 
-### Carefirst BCBS Commercial - BlueChoice Opt-Out Open Access/BlueChoice Opt-Out Plus Open Access/CareFirst Regional (HMO)
+</details>
+
+<details><summary>Carefirst BCBS Commercial - BlueChoice Opt-Out Open Access/BlueChoice Opt-Out Plus Open Access/CareFirst Regional (HMO)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -3940,7 +4112,9 @@
 | Trisha Werner, OD | PAR |
 | Callista Wlaschin, OD | PAR |
 
-### Carefirst BCBS Commercial - Comprehensive Major Medical
+</details>
+
+<details><summary>Carefirst BCBS Commercial - Comprehensive Major Medical</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -3985,7 +4159,9 @@
 | Trisha Werner, OD | PAR |
 | Callista Wlaschin, OD | PAR |
 
-### Carefirst BCBS Commercial - HealthyBlue/HealthyBlue 2.0/HealthyBlue Advantage (HMO)
+</details>
+
+<details><summary>Carefirst BCBS Commercial - HealthyBlue/HealthyBlue 2.0/HealthyBlue Advantage (HMO)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -4030,7 +4206,9 @@
 | Trisha Werner, OD | PAR |
 | Callista Wlaschin, OD | PAR |
 
-### Carefirst BCBS Commercial - Personal Comp
+</details>
+
+<details><summary>Carefirst BCBS Commercial - Personal Comp</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -4075,7 +4253,9 @@
 | Trisha Werner, OD | PAR |
 | Callista Wlaschin, OD | PAR |
 
-### Carefirst BCBS Commercial - PPO/EPO/HealthyBlue Plus/HealthyBlue PPO/ BlueCard PAR/ BlueCard PPO/ EPO/ BlueCard Traditional
+</details>
+
+<details><summary>Carefirst BCBS Commercial - PPO/EPO/HealthyBlue Plus/HealthyBlue PPO/ BlueCard PAR/ BlueCard PPO/ EPO/ BlueCard Traditional</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -4120,7 +4300,9 @@
 | Trisha Werner, OD | PAR |
 | Callista Wlaschin, OD | PAR |
 
-### Carefirst BCBS Commercial - Standard BlueChoice (HMO)
+</details>
+
+<details><summary>Carefirst BCBS Commercial - Standard BlueChoice (HMO)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -4165,7 +4347,9 @@
 | Trisha Werner, OD | PAR |
 | Callista Wlaschin, OD | PAR |
 
-### Carefirst BCBS Commercial - Traditional/Indemnity
+</details>
+
+<details><summary>Carefirst BCBS Commercial - Traditional/Indemnity</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -4210,7 +4394,9 @@
 | Trisha Werner, OD | PAR |
 | Callista Wlaschin, OD | PAR |
 
-### Carefirst BCBS Medicare Advantage (PPO)
+</details>
+
+<details><summary>Carefirst BCBS Medicare Advantage (PPO)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -4255,7 +4441,9 @@
 | Trisha Werner, OD | PAR |
 | Callista Wlaschin, OD | PAR |
 
-### Carefirst Commercial - CareFirst Regional
+</details>
+
+<details><summary>Carefirst Commercial - CareFirst Regional</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -4300,9 +4488,11 @@
 | Trisha Werner, OD | PAR |
 | Callista Wlaschin, OD | PAR |
 
-### Carefirst Commercial - CareFirst Regional-BlueChoice Plus Gold/
+</details>
+
+<details><summary>Carefirst Commercial - CareFirst Regional-BlueChoice Plus Gold/
 BlueChoice HMO Standard/BlueChoice HMO HSA/HRA Gold 
-BlueChoice HMO Gold Virtual Connect
+BlueChoice HMO Gold Virtual Connect</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -4349,7 +4539,9 @@ BlueChoice HMO Gold Virtual Connect |
 | Trisha Werner, OD | PAR |
 | Callista Wlaschin, OD | PAR |
 
-### ChampVA (VACCN)
+</details>
+
+<details><summary>ChampVA (VACCN)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -4394,7 +4586,9 @@ BlueChoice HMO Gold Virtual Connect |
 | Trisha Werner, OD | PAR |
 | Callista Wlaschin, OD | PAR |
 
-### Cigna - NALC Benefit Health Plan
+</details>
+
+<details><summary>Cigna - NALC Benefit Health Plan</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -4439,7 +4633,9 @@ BlueChoice HMO Gold Virtual Connect |
 | Trisha Werner, OD | PAR |
 | Callista Wlaschin, OD | Non-PAR |
 
-### Cigna Commercial- ChoiceFund OA Plus/ Cigna ChoiceFund OA Plus with CareLink
+</details>
+
+<details><summary>Cigna Commercial- ChoiceFund OA Plus/ Cigna ChoiceFund OA Plus with CareLink</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -4484,7 +4680,9 @@ BlueChoice HMO Gold Virtual Connect |
 | Trisha Werner, OD | PAR |
 | Callista Wlaschin, OD | PAR |
 
-### Cigna Commercial- Florida Connect EPO
+</details>
+
+<details><summary>Cigna Commercial- Florida Connect EPO</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -4529,7 +4727,9 @@ BlueChoice HMO Gold Virtual Connect |
 | Trisha Werner, OD | Non-PAR |
 | Callista Wlaschin, OD | Non-PAR |
 
-### Cigna Commercial- HealthCare of Florida, Inc. - Fort Myers HMO
+</details>
+
+<details><summary>Cigna Commercial- HealthCare of Florida, Inc. - Fort Myers HMO</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -4574,7 +4774,9 @@ BlueChoice HMO Gold Virtual Connect |
 | Trisha Werner, OD | PAR |
 | Callista Wlaschin, OD | PAR |
 
-### CIGNA Commercial- HealthCare of Florida, Inc. - Tampa HMO
+</details>
+
+<details><summary>CIGNA Commercial- HealthCare of Florida, Inc. - Tampa HMO</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -4619,7 +4821,9 @@ BlueChoice HMO Gold Virtual Connect |
 | Trisha Werner, OD | Non-PAR |
 | Callista Wlaschin, OD | Non-PAR |
 
-### CIGNA Commercial- HealthCare Seamless Network - Florida
+</details>
+
+<details><summary>CIGNA Commercial- HealthCare Seamless Network - Florida</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -4664,7 +4868,9 @@ BlueChoice HMO Gold Virtual Connect |
 | Trisha Werner, OD | PAR |
 | Callista Wlaschin, OD | PAR |
 
-### Cigna Commercial -Local Plus
+</details>
+
+<details><summary>Cigna Commercial -Local Plus</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -4709,7 +4915,9 @@ BlueChoice HMO Gold Virtual Connect |
 | Trisha Werner, OD | Non-PAR |
 | Callista Wlaschin, OD | Non-PAR |
 
-### Cigna Commercial- Open Access Plus/ Carelink Open Access Plus/PPO/Choice Fund PPO
+</details>
+
+<details><summary>Cigna Commercial- Open Access Plus/ Carelink Open Access Plus/PPO/Choice Fund PPO</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -4754,7 +4962,9 @@ BlueChoice HMO Gold Virtual Connect |
 | Trisha Werner, OD | PAR |
 | Callista Wlaschin, OD | PAR |
 
-### Cigna Global Health Benefits (BENEFITS/ELIGIBILITY NEEDS TO BE CHECKED EVERYTIME)
+</details>
+
+<details><summary>Cigna Global Health Benefits (BENEFITS/ELIGIBILITY NEEDS TO BE CHECKED EVERYTIME)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -4799,7 +5009,9 @@ BlueChoice HMO Gold Virtual Connect |
 | Trisha Werner, OD | PAR |
 | Callista Wlaschin, OD | PAR |
 
-### Cigna Medicare PPO
+</details>
+
+<details><summary>Cigna Medicare PPO</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -4844,7 +5056,9 @@ BlueChoice HMO Gold Virtual Connect |
 | Trisha Werner, OD | PAR |
 | Callista Wlaschin, OD | PAR |
 
-### Cigna Medicare HMO- Preferred/Preferred Savings Medicare/Courage
+</details>
+
+<details><summary>Cigna Medicare HMO- Preferred/Preferred Savings Medicare/Courage</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -4889,7 +5103,9 @@ BlueChoice HMO Gold Virtual Connect |
 | Trisha Werner, OD | PAR |
 | Callista Wlaschin, OD | Non-PAR |
 
-### Cigna Medicare- TotalCare/Total Care Plus HMO D-SNP
+</details>
+
+<details><summary>Cigna Medicare- TotalCare/Total Care Plus HMO D-SNP</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -4934,7 +5150,9 @@ BlueChoice HMO Gold Virtual Connect |
 | Trisha Werner, OD | PAR |
 | Callista Wlaschin, OD | Non-PAR |
 
-### Cigna Oscar- Open Access Plus/Local Plus
+</details>
+
+<details><summary>Cigna Oscar- Open Access Plus/Local Plus</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -4979,7 +5197,9 @@ BlueChoice HMO Gold Virtual Connect |
 | Trisha Werner, OD | Non-PAR |
 | Callista Wlaschin, OD | Non-PAR |
 
-### Cigna TotalCare Plus HMO D-SNP
+</details>
+
+<details><summary>Cigna TotalCare Plus HMO D-SNP</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -5024,7 +5244,9 @@ BlueChoice HMO Gold Virtual Connect |
 | Trisha Werner, OD | PAR |
 | Callista Wlaschin, OD | Non-PAR |
 
-### Division of Blind
+</details>
+
+<details><summary>Division of Blind</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -5069,7 +5291,9 @@ BlueChoice HMO Gold Virtual Connect |
 | Trisha Werner, OD | PAR |
 | Callista Wlaschin, OD | PAR |
 
-### Employee Benefits Management Services (EMBS) with Aetna Network
+</details>
+
+<details><summary>Employee Benefits Management Services (EMBS) with Aetna Network</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -5114,7 +5338,9 @@ BlueChoice HMO Gold Virtual Connect |
 | Trisha Werner, OD | PAR |
 | Callista Wlaschin, OD | PAR |
 
-### Evolution PPO
+</details>
+
+<details><summary>Evolution PPO</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -5159,7 +5385,9 @@ BlueChoice HMO Gold Virtual Connect |
 | Trisha Werner, OD | PAR |
 | Callista Wlaschin, OD | PAR |
 
-### Eyemed Vision
+</details>
+
+<details><summary>Eyemed Vision</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -5204,7 +5432,9 @@ BlueChoice HMO Gold Virtual Connect |
 | Trisha Werner, OD | PAR |
 | Callista Wlaschin, OD | PAR |
 
-### First Health Network (through Aetna and/or PHP Network) PLEASE ASK THE PATIENT FOR THE HEALTH PLAN NAME ON THE CARD AND LOAD THE PLAN INTO NEXTGEN ACCORDING TO THEIR HEALTH PLAN
+</details>
+
+<details><summary>First Health Network (through Aetna and/or PHP Network) PLEASE ASK THE PATIENT FOR THE HEALTH PLAN NAME ON THE CARD AND LOAD THE PLAN INTO NEXTGEN ACCORDING TO THEIR HEALTH PLAN</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -5249,7 +5479,9 @@ BlueChoice HMO Gold Virtual Connect |
 | Trisha Werner, OD | Non-PAR |
 | Callista Wlaschin, OD | Non-PAR |
 
-### Freedom/Optimum Health Medicare ID # STARTS WITH P or T
+</details>
+
+<details><summary>Freedom/Optimum Health Medicare ID # STARTS WITH P or T</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -5294,7 +5526,9 @@ BlueChoice HMO Gold Virtual Connect |
 | Trisha Werner, OD | Non-PAR |
 | Callista Wlaschin, OD | Non-PAR |
 
-### GEHA (United Healthcare Choice Plus Network) PLEASE INCLUDE THE SUFFIX IN THE POLICY # ON THE ID CARD AS GEHA (EX: 1234567GEHA)
+</details>
+
+<details><summary>GEHA (United Healthcare Choice Plus Network) PLEASE INCLUDE THE SUFFIX IN THE POLICY # ON THE ID CARD AS GEHA (EX: 1234567GEHA)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -5339,7 +5573,9 @@ BlueChoice HMO Gold Virtual Connect |
 | Trisha Werner, OD | PAR |
 | Callista Wlaschin, OD | PAR |
 
-### Golden Rule (UHC Choice Plus Network)
+</details>
+
+<details><summary>Golden Rule (UHC Choice Plus Network)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -5384,7 +5620,9 @@ BlueChoice HMO Gold Virtual Connect |
 | Trisha Werner, OD | PAR |
 | Callista Wlaschin, OD | PAR |
 
-### Harvard Pilgrim Healthcare (UHC Choice Plus Network)
+</details>
+
+<details><summary>Harvard Pilgrim Healthcare (UHC Choice Plus Network)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -5429,7 +5667,9 @@ BlueChoice HMO Gold Virtual Connect |
 | Trisha Werner, OD | PAR |
 | Callista Wlaschin, OD | PAR |
 
-### Health Care Support (ministry plan with PHCS network)
+</details>
+
+<details><summary>Health Care Support (ministry plan with PHCS network)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -5474,7 +5714,9 @@ BlueChoice HMO Gold Virtual Connect |
 | Trisha Werner, OD | PAR |
 | Callista Wlaschin, OD | PAR |
 
-### Humana Commercial - ALL PLANS  - AS OF 01/01/25- PLAN IS NO LONGER OFFERED IN FL MARKETS
+</details>
+
+<details><summary>Humana Commercial - ALL PLANS  - AS OF 01/01/25- PLAN IS NO LONGER OFFERED IN FL MARKETS</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -5519,7 +5761,9 @@ BlueChoice HMO Gold Virtual Connect |
 | Trisha Werner, OD | Non-PAR |
 | Callista Wlaschin, OD | Non-PAR |
 
-### Humana  Medicare Choice Florida SNP-DE (PPO D-SNP)-CFS (except Naples) is OUT OF NETWORK. PATIENT HAS OON BENEFITS. PLEASE INFORM PATIENT OF POSSIBLE HIGHER OUT OF POCKET COSTS
+</details>
+
+<details><summary>Humana  Medicare Choice Florida SNP-DE (PPO D-SNP)-CFS (except Naples) is OUT OF NETWORK. PATIENT HAS OON BENEFITS. PLEASE INFORM PATIENT OF POSSIBLE HIGHER OUT OF POCKET COSTS</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -5564,7 +5808,9 @@ BlueChoice HMO Gold Virtual Connect |
 | Trisha Werner, OD | Non-PAR -OON Benefits |
 | Callista Wlaschin, OD | Non-PAR -OON Benefits |
 
-### Humana Medicare- Choice Florida (PPO)/Choice (Regional PPO)/USAA Honor PPO -CFS (except Naples) is OUT OF NETWORK. PATIENT HAS OON BENEFITS. PLEASE INFORM PATIENT OF POSSIBLE HIGHER OUT OF POCKET COSTS
+</details>
+
+<details><summary>Humana Medicare- Choice Florida (PPO)/Choice (Regional PPO)/USAA Honor PPO -CFS (except Naples) is OUT OF NETWORK. PATIENT HAS OON BENEFITS. PLEASE INFORM PATIENT OF POSSIBLE HIGHER OUT OF POCKET COSTS</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -5609,7 +5855,9 @@ BlueChoice HMO Gold Virtual Connect |
 | Trisha Werner, OD | Non-PAR -OON Benefits |
 | Callista Wlaschin, OD | Non-PAR -OON Benefits |
 
-### Humana Medicare- HMO ALL PLANS
+</details>
+
+<details><summary>Humana Medicare- HMO ALL PLANS</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -5654,7 +5902,9 @@ BlueChoice HMO Gold Virtual Connect |
 | Trisha Werner, OD | Non-PAR |
 | Callista Wlaschin, OD | Non-PAR |
 
-### Independent Health (UHC)
+</details>
+
+<details><summary>Independent Health (UHC)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -5699,7 +5949,9 @@ BlueChoice HMO Gold Virtual Connect |
 | Trisha Werner, OD | PAR |
 | Callista Wlaschin, OD | PAR |
 
-### Lutheran Preferred (PHP Network)
+</details>
+
+<details><summary>Lutheran Preferred (PHP Network)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -5744,7 +5996,9 @@ BlueChoice HMO Gold Virtual Connect |
 | Trisha Werner, OD | Non-PAR -OON Benefits |
 | Callista Wlaschin, OD | Non-PAR -OON Benefits |
 
-### Mailhandlers (Aetna Choice® POS II Network)
+</details>
+
+<details><summary>Mailhandlers (Aetna Choice® POS II Network)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -5789,7 +6043,9 @@ BlueChoice HMO Gold Virtual Connect |
 | Trisha Werner, OD | PAR |
 | Callista Wlaschin, OD | PAR |
 
-### March Vision
+</details>
+
+<details><summary>March Vision</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -5834,7 +6090,9 @@ BlueChoice HMO Gold Virtual Connect |
 | Trisha Werner, OD | Non-PAR |
 | Callista Wlaschin, OD | Non-PAR |
 
-### MBA - Medical Benefits Administrators (Cigna Network)
+</details>
+
+<details><summary>MBA - Medical Benefits Administrators (Cigna Network)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -5879,7 +6137,9 @@ BlueChoice HMO Gold Virtual Connect |
 | Trisha Werner, OD | PAR |
 | Callista Wlaschin, OD | PAR |
 
-### Medicaid of Florida/ All Medicaid (MCO) plans
+</details>
+
+<details><summary>Medicaid of Florida/ All Medicaid (MCO) plans</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -5924,7 +6184,9 @@ BlueChoice HMO Gold Virtual Connect |
 | Trisha Werner, OD | Non-PAR |
 | Callista Wlaschin, OD | Non-PAR |
 
-### Medicare
+</details>
+
+<details><summary>Medicare</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -5969,7 +6231,9 @@ BlueChoice HMO Gold Virtual Connect |
 | Trisha Werner, OD | PAR |
 | Callista Wlaschin, OD | PAR |
 
-### Meritain Gulf Coast (Aetna Choice POS II Network)
+</details>
+
+<details><summary>Meritain Gulf Coast (Aetna Choice POS II Network)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -6014,7 +6278,9 @@ BlueChoice HMO Gold Virtual Connect |
 | Trisha Werner, OD | PAR |
 | Callista Wlaschin, OD | PAR |
 
-### Meritain Health - Sarasota Memorial (BASIC AND/OR COMPREHENSIVE PLAN) PLEASE ASK THE PATIENT IF THE CARD HAS "SMH" ON THEIR CARD. IF THE CARD SAYS BASIC OR COMPREHENSIVE PLAN, WE ARE OUT OF NETWORK AND THERE ARE NO OON BENEFITS
+</details>
+
+<details><summary>Meritain Health - Sarasota Memorial (BASIC AND/OR COMPREHENSIVE PLAN) PLEASE ASK THE PATIENT IF THE CARD HAS "SMH" ON THEIR CARD. IF THE CARD SAYS BASIC OR COMPREHENSIVE PLAN, WE ARE OUT OF NETWORK AND THERE ARE NO OON BENEFITS</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -6059,7 +6325,9 @@ BlueChoice HMO Gold Virtual Connect |
 | Trisha Werner, OD | Non-PAR |
 | Callista Wlaschin, OD | Non-PAR |
 
-### Meritain Health - Sarasota Memorial (EXTENSIVE MEDICAL PLAN) PLEASE ASK THE PATIENT IF THE CARD HAS "SMH" ON THEIR CARD AND THE CARD MUST SAY EXTENDED MEDICAL PLAN. THE EXTENDED MEDICAL PLAN APPLIES TOWARDS THE PATIENT'S TIER 2 BENEFITS - AETNA CHOICE POS II
+</details>
+
+<details><summary>Meritain Health - Sarasota Memorial (EXTENSIVE MEDICAL PLAN) PLEASE ASK THE PATIENT IF THE CARD HAS "SMH" ON THEIR CARD AND THE CARD MUST SAY EXTENDED MEDICAL PLAN. THE EXTENDED MEDICAL PLAN APPLIES TOWARDS THE PATIENT'S TIER 2 BENEFITS - AETNA CHOICE POS II</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -6104,7 +6372,9 @@ BlueChoice HMO Gold Virtual Connect |
 | Trisha Werner, OD | PAR |
 | Callista Wlaschin, OD | PAR |
 
-### Multiplan PLEASE ASK THE PATIENT FOR THE HEALTH PLAN NAME ON THE CARD AND LOAD THE PLAN INTO NEXTGEN ACCORDING TO THEIR HEALTH PLAN
+</details>
+
+<details><summary>Multiplan PLEASE ASK THE PATIENT FOR THE HEALTH PLAN NAME ON THE CARD AND LOAD THE PLAN INTO NEXTGEN ACCORDING TO THEIR HEALTH PLAN</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -6149,7 +6419,9 @@ BlueChoice HMO Gold Virtual Connect |
 | Trisha Werner, OD | PAR |
 | Callista Wlaschin, OD | PAR |
 
-### NALC Health Benefit Plan (Cigna Open Access Plus Network)
+</details>
+
+<details><summary>NALC Health Benefit Plan (Cigna Open Access Plus Network)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -6194,7 +6466,9 @@ BlueChoice HMO Gold Virtual Connect |
 | Trisha Werner, OD | PAR |
 | Callista Wlaschin, OD | PAR |
 
-### Optum VA-Veterans Affairs Community Care Network CCN
+</details>
+
+<details><summary>Optum VA-Veterans Affairs Community Care Network CCN</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -6239,7 +6513,9 @@ BlueChoice HMO Gold Virtual Connect |
 | Trisha Werner, OD | PAR |
 | Callista Wlaschin, OD | PAR |
 
-### PHCS PLEASE ASK THE PATIENT FOR THE HEALTH PLAN NAME ON THE CARD AND LOAD THE PLAN INTO NEXTGEN ACCORDING TO THEIR HEALTH PLAN
+</details>
+
+<details><summary>PHCS PLEASE ASK THE PATIENT FOR THE HEALTH PLAN NAME ON THE CARD AND LOAD THE PLAN INTO NEXTGEN ACCORDING TO THEIR HEALTH PLAN</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -6284,7 +6560,9 @@ BlueChoice HMO Gold Virtual Connect |
 | Trisha Werner, OD | PAR |
 | Callista Wlaschin, OD | PAR |
 
-### Presbyterian HMO
+</details>
+
+<details><summary>Presbyterian HMO</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -6329,7 +6607,9 @@ BlueChoice HMO Gold Virtual Connect |
 | Trisha Werner, OD | Non-PAR |
 | Callista Wlaschin, OD | Non-PAR |
 
-### Priority Health Commercial- (Cigna Open Access Network) HMO
+</details>
+
+<details><summary>Priority Health Commercial- (Cigna Open Access Network) HMO</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -6374,7 +6654,9 @@ BlueChoice HMO Gold Virtual Connect |
 | Trisha Werner, OD | PAR |
 | Callista Wlaschin, OD | PAR |
 
-### Priority Health Commercial- (Cigna Open Access Network) PPO
+</details>
+
+<details><summary>Priority Health Commercial- (Cigna Open Access Network) PPO</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -6419,7 +6701,9 @@ BlueChoice HMO Gold Virtual Connect |
 | Trisha Werner, OD | PAR |
 | Callista Wlaschin, OD | PAR |
 
-### Priority Health Medicare- Priority Medicare Ideal/Travel Pass (Multiplan) PPO
+</details>
+
+<details><summary>Priority Health Medicare- Priority Medicare Ideal/Travel Pass (Multiplan) PPO</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -6464,7 +6748,9 @@ BlueChoice HMO Gold Virtual Connect |
 | Trisha Werner, OD | PAR |
 | Callista Wlaschin, OD | PAR |
 
-### Priority Health Medicare- Priority Medicare Value/Travel Pass (Multiplan)  HMO -POS
+</details>
+
+<details><summary>Priority Health Medicare- Priority Medicare Value/Travel Pass (Multiplan)  HMO -POS</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -6509,7 +6795,9 @@ BlueChoice HMO Gold Virtual Connect |
 | Trisha Werner, OD | PAR |
 | Callista Wlaschin, OD | PAR |
 
-### Railroad Medicare - CONFIRM WITH PT AT THE BOTTOM OF THE ID CARD IT SAYS "RAILROAD RETIREMENT BOARD"
+</details>
+
+<details><summary>Railroad Medicare - CONFIRM WITH PT AT THE BOTTOM OF THE ID CARD IT SAYS "RAILROAD RETIREMENT BOARD"</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -6554,7 +6842,9 @@ BlueChoice HMO Gold Virtual Connect |
 | Trisha Werner, OD | PAR |
 | Callista Wlaschin, OD | PAR |
 
-### ROTC/Military Screening - Dr. MIDDAUGH ONLY. pATIENT WILL NOT HAVE AN ID CARD AS THEY ARE PRESENTING FOR A ROTC/MILITARY SCREENING
+</details>
+
+<details><summary>ROTC/Military Screening - Dr. MIDDAUGH ONLY. pATIENT WILL NOT HAVE AN ID CARD AS THEY ARE PRESENTING FOR A ROTC/MILITARY SCREENING</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -6599,7 +6889,9 @@ BlueChoice HMO Gold Virtual Connect |
 | Trisha Werner, OD | Non-PAR |
 | Callista Wlaschin, OD | Non-PAR |
 
-### Spectera Vision
+</details>
+
+<details><summary>Spectera Vision</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -6644,7 +6936,9 @@ BlueChoice HMO Gold Virtual Connect |
 | Trisha Werner, OD | Non-PAR |
 | Callista Wlaschin, OD | Non-PAR |
 
-### Surest (United Healthcare Choice Plus Network)
+</details>
+
+<details><summary>Surest (United Healthcare Choice Plus Network)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -6689,7 +6983,9 @@ BlueChoice HMO Gold Virtual Connect |
 | Trisha Werner, OD | PAR |
 | Callista Wlaschin, OD | PAR |
 
-### The Empire Plan- NYSHIP
+</details>
+
+<details><summary>The Empire Plan- NYSHIP</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -6734,7 +7030,9 @@ BlueChoice HMO Gold Virtual Connect |
 | Trisha Werner, OD | PAR |
 | Callista Wlaschin, OD | PAR |
 
-### Tricare Prime CFS is OUT OF NETWORK. PATIENT HAS OON BENEFITS. PLEASE INFORM PATIENT OF POSSIBLE HIGHER OUT OF POCKET COSTS (see note). covered for a Routine Eye Exam every two years
+</details>
+
+<details><summary>Tricare Prime CFS is OUT OF NETWORK. PATIENT HAS OON BENEFITS. PLEASE INFORM PATIENT OF POSSIBLE HIGHER OUT OF POCKET COSTS (see note). covered for a Routine Eye Exam every two years</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -6779,7 +7077,9 @@ BlueChoice HMO Gold Virtual Connect |
 | Trisha Werner, OD | Non-PAR -OON Benefits |
 | Callista Wlaschin, OD | Non-PAR -OON Benefits |
 
-### Tricare Select CFS is OUT OF NETWORK. PATIENT HAS OON BENEFITS. PLEASE INFORM PATIENT OF POSSIBLE HIGHER OUT OF POCKET COSTS. Routine Eye Exams are NON-covered
+</details>
+
+<details><summary>Tricare Select CFS is OUT OF NETWORK. PATIENT HAS OON BENEFITS. PLEASE INFORM PATIENT OF POSSIBLE HIGHER OUT OF POCKET COSTS. Routine Eye Exams are NON-covered</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -6824,7 +7124,9 @@ BlueChoice HMO Gold Virtual Connect |
 | Trisha Werner, OD | Non-PAR -OON Benefits |
 | Callista Wlaschin, OD | Non-PAR -OON Benefits |
 
-### UCare Medicare HMO CFS is OUT OF NETWORK. PATIENT HAS OON BENEFITS. PLEASE INFORM PATIENT OF POSSIBLE HIGHER OUT OF POCKET COSTS.
+</details>
+
+<details><summary>UCare Medicare HMO CFS is OUT OF NETWORK. PATIENT HAS OON BENEFITS. PLEASE INFORM PATIENT OF POSSIBLE HIGHER OUT OF POCKET COSTS.</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -6869,7 +7171,9 @@ BlueChoice HMO Gold Virtual Connect |
 | Trisha Werner, OD | Non-PAR -OON Benefits |
 | Callista Wlaschin, OD | Non-PAR -OON Benefits |
 
-### UMR (UHC Choice Plus, Core, Freedom, NEXAUSACO OAP, Options PPO, Select Plus POS Networks)
+</details>
+
+<details><summary>UMR (UHC Choice Plus, Core, Freedom, NEXAUSACO OAP, Options PPO, Select Plus POS Networks)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -6914,7 +7218,9 @@ BlueChoice HMO Gold Virtual Connect |
 | Trisha Werner, OD | PAR |
 | Callista Wlaschin, OD | PAR |
 
-### United Healthcare Care Advantage FL-E001 PPO I-SNP
+</details>
+
+<details><summary>United Healthcare Care Advantage FL-E001 PPO I-SNP</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -6959,7 +7265,9 @@ BlueChoice HMO Gold Virtual Connect |
 | Trisha Werner, OD | Non-PAR |
 | Callista Wlaschin, OD | Non-PAR |
 
-### United Healthcare Charter EPO/ POS
+</details>
+
+<details><summary>United Healthcare Charter EPO/ POS</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -7004,7 +7312,9 @@ BlueChoice HMO Gold Virtual Connect |
 | Trisha Werner, OD | PAR |
 | Callista Wlaschin, OD | PAR |
 
-### United Healthcare Charter HMO/ HMO Plus
+</details>
+
+<details><summary>United Healthcare Charter HMO/ HMO Plus</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -7049,7 +7359,9 @@ BlueChoice HMO Gold Virtual Connect |
 | Trisha Werner, OD | PAR |
 | Callista Wlaschin, OD | PAR |
 
-### United Healthcare Choice Plan Network- The Oxford Plan
+</details>
+
+<details><summary>United Healthcare Choice Plan Network- The Oxford Plan</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -7094,7 +7406,9 @@ BlueChoice HMO Gold Virtual Connect |
 | Trisha Werner, OD | PAR |
 | Callista Wlaschin, OD | PAR |
 
-### United Healthcare Choice Plus HMO
+</details>
+
+<details><summary>United Healthcare Choice Plus HMO</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -7139,7 +7453,9 @@ BlueChoice HMO Gold Virtual Connect |
 | Trisha Werner, OD | PAR |
 | Callista Wlaschin, OD | PAR |
 
-### United Healthcare Choice Plus POS
+</details>
+
+<details><summary>United Healthcare Choice Plus POS</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -7184,7 +7500,9 @@ BlueChoice HMO Gold Virtual Connect |
 | Trisha Werner, OD | PAR |
 | Callista Wlaschin, OD | PAR |
 
-### United Healthcare Choice Plus POS- the card will say HCA Healthcare-If patient has surgery, OOP costs are higher at 75% coinsurance as the patient's preferred facility is HCA Healthcare
+</details>
+
+<details><summary>United Healthcare Choice Plus POS- the card will say HCA Healthcare-If patient has surgery, OOP costs are higher at 75% coinsurance as the patient's preferred facility is HCA Healthcare</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -7229,7 +7547,9 @@ BlueChoice HMO Gold Virtual Connect |
 | Trisha Werner, OD | PAR |
 | Callista Wlaschin, OD | PAR |
 
-### United Healthcare Choice Plus POS- the card will say HCA Healthcare-If patient has surgery, OOP costs are higher at 75% coinsurance as the patient's preferred facility is HCA Healthcare
+</details>
+
+<details><summary>United Healthcare Choice Plus POS- the card will say HCA Healthcare-If patient has surgery, OOP costs are higher at 75% coinsurance as the patient's preferred facility is HCA Healthcare</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -7274,7 +7594,9 @@ BlueChoice HMO Gold Virtual Connect |
 | Trisha Werner, OD | PAR |
 | Callista Wlaschin, OD | PAR |
 
-### United Healthcare Compass ALL PLANS
+</details>
+
+<details><summary>United Healthcare Compass ALL PLANS</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -7319,7 +7641,9 @@ BlueChoice HMO Gold Virtual Connect |
 | Trisha Werner, OD | Non-PAR |
 | Callista Wlaschin, OD | Non-PAR |
 
-### United Healthcare Complete Care Walgreens FL-0014 HMO-POS C-SNP
+</details>
+
+<details><summary>United Healthcare Complete Care Walgreens FL-0014 HMO-POS C-SNP</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -7364,7 +7688,9 @@ BlueChoice HMO Gold Virtual Connect |
 | Trisha Werner, OD | PAR |
 | Callista Wlaschin, OD | PAR |
 
-### United Healthcare Core Choice Plus/ Choice Plus POS/ EPO
+</details>
+
+<details><summary>United Healthcare Core Choice Plus/ Choice Plus POS/ EPO</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -7409,7 +7735,9 @@ BlueChoice HMO Gold Virtual Connect |
 | Trisha Werner, OD | PAR |
 | Callista Wlaschin, OD | PAR |
 
-### United Healthcare Core HMO
+</details>
+
+<details><summary>United Healthcare Core HMO</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -7454,7 +7782,9 @@ BlueChoice HMO Gold Virtual Connect |
 | Trisha Werner, OD | PAR |
 | Callista Wlaschin, OD | PAR |
 
-### United Healthcare Doctors Plan EPO/ Plan Plus POS
+</details>
+
+<details><summary>United Healthcare Doctors Plan EPO/ Plan Plus POS</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -7499,7 +7829,9 @@ BlueChoice HMO Gold Virtual Connect |
 | Trisha Werner, OD | PAR |
 | Callista Wlaschin, OD | PAR |
 
-### United Healthcare Doctors Plan Plus HMO
+</details>
+
+<details><summary>United Healthcare Doctors Plan Plus HMO</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -7544,7 +7876,9 @@ BlueChoice HMO Gold Virtual Connect |
 | Trisha Werner, OD | PAR |
 | Callista Wlaschin, OD | PAR |
 
-### United Healthcare Dual Complete™ HMO SNP
+</details>
+
+<details><summary>United Healthcare Dual Complete™ HMO SNP</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -7589,7 +7923,9 @@ BlueChoice HMO Gold Virtual Connect |
 | Trisha Werner, OD | PAR |
 | Callista Wlaschin, OD | PAR |
 
-### United Healthcare Dual Complete™ PPO SNP
+</details>
+
+<details><summary>United Healthcare Dual Complete™ PPO SNP</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -7634,7 +7970,9 @@ BlueChoice HMO Gold Virtual Connect |
 | Trisha Werner, OD | PAR |
 | Callista Wlaschin, OD | PAR |
 
-### United Healthcare ER Wrap (W500 on back of card)
+</details>
+
+<details><summary>United Healthcare ER Wrap (W500 on back of card)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -7679,7 +8017,9 @@ BlueChoice HMO Gold Virtual Connect |
 | Trisha Werner, OD | PAR |
 | Callista Wlaschin, OD | PAR |
 
-### United Healthcare FL CHIP ALL MEDICAID
+</details>
+
+<details><summary>United Healthcare FL CHIP ALL MEDICAID</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -7724,7 +8064,9 @@ BlueChoice HMO Gold Virtual Connect |
 | Trisha Werner, OD | Non-PAR |
 | Callista Wlaschin, OD | Non-PAR |
 
-### United Healthcare Group Plan - employer group SHL Solutions. Card will say SHL Solutions Group
+</details>
+
+<details><summary>United Healthcare Group Plan - employer group SHL Solutions. Card will say SHL Solutions Group</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -7769,7 +8111,9 @@ BlueChoice HMO Gold Virtual Connect |
 | Trisha Werner, OD | PAR |
 | Callista Wlaschin, OD | PAR |
 
-### United Healthcare Group Medicare Advantage HMO
+</details>
+
+<details><summary>United Healthcare Group Medicare Advantage HMO</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -7814,7 +8158,9 @@ BlueChoice HMO Gold Virtual Connect |
 | Trisha Werner, OD | PAR |
 | Callista Wlaschin, OD | PAR |
 
-### United Healthcare Group Medicare Advantage (PPO)
+</details>
+
+<details><summary>United Healthcare Group Medicare Advantage (PPO)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -7859,7 +8205,9 @@ BlueChoice HMO Gold Virtual Connect |
 | Trisha Werner, OD | PAR |
 | Callista Wlaschin, OD | PAR |
 
-### United Healthcare Group Medicare Advantage Johnson & Johnson Retiree Employees (PPO) patient will have Johnson & Johnson in red on the top right of their card
+</details>
+
+<details><summary>United Healthcare Group Medicare Advantage Johnson & Johnson Retiree Employees (PPO) patient will have Johnson & Johnson in red on the top right of their card</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -7904,7 +8252,9 @@ BlueChoice HMO Gold Virtual Connect |
 | Trisha Werner, OD | PAR |
 | Callista Wlaschin, OD | PAR |
 
-### United Healthcare Heritage ALL PLANS
+</details>
+
+<details><summary>United Healthcare Heritage ALL PLANS</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -7949,7 +8299,9 @@ BlueChoice HMO Gold Virtual Connect |
 | Trisha Werner, OD | Non-PAR |
 | Callista Wlaschin, OD | Non-PAR |
 
-### United Healthcare Indemnity-we will only accept this plan as a secondary/supplement
+</details>
+
+<details><summary>United Healthcare Indemnity-we will only accept this plan as a secondary/supplement</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -7994,7 +8346,9 @@ BlueChoice HMO Gold Virtual Connect |
 | Trisha Werner, OD | Non-PAR |
 | Callista Wlaschin, OD | Non-PAR |
 
-### United Healthcare Individual Exchange (FLONEX) - Essential (Bronze), Value (Bronz, Silver, Gold), Advantage (Silver, Gold), Copay Focus (Bronze, Silver, Gold), Virtual (Bronze, Silver, Gold)
+</details>
+
+<details><summary>United Healthcare Individual Exchange (FLONEX) - Essential (Bronze), Value (Bronz, Silver, Gold), Advantage (Silver, Gold), Copay Focus (Bronze, Silver, Gold), Virtual (Bronze, Silver, Gold)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -8039,7 +8393,9 @@ BlueChoice HMO Gold Virtual Connect |
 | Trisha Werner, OD | Non-PAR |
 | Callista Wlaschin, OD | Non-PAR |
 
-### United Healthcare Long Term Care
+</details>
+
+<details><summary>United Healthcare Long Term Care</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -8084,7 +8440,9 @@ BlueChoice HMO Gold Virtual Connect |
 | Trisha Werner, OD | Non-PAR |
 | Callista Wlaschin, OD | Non-PAR |
 
-### United Healthcare Mid-Atlantic Gated HMO
+</details>
+
+<details><summary>United Healthcare Mid-Atlantic Gated HMO</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -8129,7 +8487,9 @@ BlueChoice HMO Gold Virtual Connect |
 | Trisha Werner, OD | Non-PAR |
 | Callista Wlaschin, OD | Non-PAR |
 
-### United Healthcare National Ancillary
+</details>
+
+<details><summary>United Healthcare National Ancillary</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -8174,7 +8534,9 @@ BlueChoice HMO Gold Virtual Connect |
 | Trisha Werner, OD | Non-PAR |
 | Callista Wlaschin, OD | Non-PAR |
 
-### United Healthcare Navigate HMO/ HMO Plus/ Navigate POS/ Navigate EPO
+</details>
+
+<details><summary>United Healthcare Navigate HMO/ HMO Plus/ Navigate POS/ Navigate EPO</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -8219,7 +8581,9 @@ BlueChoice HMO Gold Virtual Connect |
 | Trisha Werner, OD | PAR |
 | Callista Wlaschin, OD | PAR |
 
-### United Healthcare NexusACO NR EPO, NR POS, R EPO, R POS/ NR HMO/ R HMO
+</details>
+
+<details><summary>United Healthcare NexusACO NR EPO, NR POS, R EPO, R POS/ NR HMO/ R HMO</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -8264,7 +8628,9 @@ BlueChoice HMO Gold Virtual Connect |
 | Trisha Werner, OD | PAR |
 | Callista Wlaschin, OD | PAR |
 
-### United Healthcare NexusACO OA  POS/ OA EPO
+</details>
+
+<details><summary>United Healthcare NexusACO OA  POS/ OA EPO</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -8309,7 +8675,9 @@ BlueChoice HMO Gold Virtual Connect |
 | Trisha Werner, OD | PAR |
 | Callista Wlaschin, OD | PAR |
 
-### United Healthcare NexusACO OA HMO
+</details>
+
+<details><summary>United Healthcare NexusACO OA HMO</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -8354,7 +8722,9 @@ BlueChoice HMO Gold Virtual Connect |
 | Trisha Werner, OD | PAR |
 | Callista Wlaschin, OD | PAR |
 
-### United Healthcare NHP Gated L1, L2, L3
+</details>
+
+<details><summary>United Healthcare NHP Gated L1, L2, L3</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -8399,7 +8769,9 @@ BlueChoice HMO Gold Virtual Connect |
 | Trisha Werner, OD | PAR |
 | Callista Wlaschin, OD | PAR |
 
-### United Healthcare NHP-Neighborhood Health Plan Direct Access
+</details>
+
+<details><summary>United Healthcare NHP-Neighborhood Health Plan Direct Access</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -8444,7 +8816,9 @@ BlueChoice HMO Gold Virtual Connect |
 | Trisha Werner, OD | PAR |
 | Callista Wlaschin, OD | PAR |
 
-### United Healthcare NHP-Neighborhood Health Plan Direct Access
+</details>
+
+<details><summary>United Healthcare NHP-Neighborhood Health Plan Direct Access</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -8489,7 +8863,9 @@ BlueChoice HMO Gold Virtual Connect |
 | Trisha Werner, OD | PAR |
 | Callista Wlaschin, OD | PAR |
 
-### United Healthcare Nursing Home Plan EX-F006 HMO-POS I-SNP
+</details>
+
+<details><summary>United Healthcare Nursing Home Plan EX-F006 HMO-POS I-SNP</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -8534,7 +8910,9 @@ BlueChoice HMO Gold Virtual Connect |
 | Trisha Werner, OD | PAR |
 | Callista Wlaschin, OD | PAR |
 
-### United Healthcare Nursing Home Plan FL-F001 PPO I-SNP
+</details>
+
+<details><summary>United Healthcare Nursing Home Plan FL-F001 PPO I-SNP</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -8579,7 +8957,9 @@ BlueChoice HMO Gold Virtual Connect |
 | Trisha Werner, OD | PAR |
 | Callista Wlaschin, OD | PAR |
 
-### United Healthcare Nursing Home Plan FL-F002 PPO I-SNP
+</details>
+
+<details><summary>United Healthcare Nursing Home Plan FL-F002 PPO I-SNP</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -8624,7 +9004,9 @@ BlueChoice HMO Gold Virtual Connect |
 | Trisha Werner, OD | PAR |
 | Callista Wlaschin, OD | PAR |
 
-### United Healthcare PPO
+</details>
+
+<details><summary>United Healthcare PPO</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -8669,7 +9051,9 @@ BlueChoice HMO Gold Virtual Connect |
 | Trisha Werner, OD | PAR |
 | Callista Wlaschin, OD | PAR |
 
-### United Healthcare Select EPO/ Select Plus POS
+</details>
+
+<details><summary>United Healthcare Select EPO/ Select Plus POS</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -8714,7 +9098,9 @@ BlueChoice HMO Gold Virtual Connect |
 | Trisha Werner, OD | PAR |
 | Callista Wlaschin, OD | PAR |
 
-### United Healthcare Select Plus HMO
+</details>
+
+<details><summary>United Healthcare Select Plus HMO</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -8759,7 +9145,9 @@ BlueChoice HMO Gold Virtual Connect |
 | Trisha Werner, OD | PAR |
 | Callista Wlaschin, OD | PAR |
 
-### United Healthcare The Villages Medicare Advantage FL-0004/FL-004P HMO-POS
+</details>
+
+<details><summary>United Healthcare The Villages Medicare Advantage FL-0004/FL-004P HMO-POS</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -8804,7 +9192,9 @@ BlueChoice HMO Gold Virtual Connect |
 | Trisha Werner, OD | PAR |
 | Callista Wlaschin, OD | PAR |
 
-### United Healthcare UHN OneNet-Auto Liability
+</details>
+
+<details><summary>United Healthcare UHN OneNet-Auto Liability</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -8849,7 +9239,9 @@ BlueChoice HMO Gold Virtual Connect |
 | Trisha Werner, OD | Non-PAR |
 | Callista Wlaschin, OD | PAR |
 
-### United Healthcare UHN OneNet-Workers Comp
+</details>
+
+<details><summary>United Healthcare UHN OneNet-Workers Comp</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -8894,7 +9286,9 @@ BlueChoice HMO Gold Virtual Connect |
 | Trisha Werner, OD | Non-PAR |
 | Callista Wlaschin, OD | PAR |
 
-### Versant: Davis Vision
+</details>
+
+<details><summary>Versant: Davis Vision</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -8939,7 +9333,9 @@ BlueChoice HMO Gold Virtual Connect |
 | Trisha Werner, OD | Non-PAR |
 | Callista Wlaschin, OD | Non-PAR |
 
-### Versant: Superior Vision
+</details>
+
+<details><summary>Versant: Superior Vision</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -8984,7 +9380,9 @@ BlueChoice HMO Gold Virtual Connect |
 | Trisha Werner, OD | Non-PAR |
 | Callista Wlaschin, OD | PAR |
 
-### Vitori Health Open Access Plan
+</details>
+
+<details><summary>Vitori Health Open Access Plan</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -9029,7 +9427,9 @@ BlueChoice HMO Gold Virtual Connect |
 | Trisha Werner, OD | PAR |
 | Callista Wlaschin, OD | PAR |
 
-### VSP Vision
+</details>
+
+<details><summary>VSP Vision</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -9074,7 +9474,9 @@ BlueChoice HMO Gold Virtual Connect |
 | Trisha Werner, OD | PAR |
 | Callista Wlaschin, OD | PAR |
 
-### Web TPA
+</details>
+
+<details><summary>Web TPA</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -9119,7 +9521,9 @@ BlueChoice HMO Gold Virtual Connect |
 | Trisha Werner, OD | Non-PAR |
 | Callista Wlaschin, OD | Non-PAR |
 
-### Wellcare Medicare HMO
+</details>
+
+<details><summary>Wellcare Medicare HMO</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -9164,7 +9568,9 @@ BlueChoice HMO Gold Virtual Connect |
 | Trisha Werner, OD | Non-PAR |
 | Callista Wlaschin, OD | Non-PAR |
 
-### Wellcare Medicare PPO CFS is OUT OF NETWORK. PATIENT HAS OON BENEFITS. PLEASE INFORM PATIENT OF POSSIBLE HIGHER OUT OF POCKET COSTS. BENEFIT MUST BE CHECKED PRIOR TO APPT
+</details>
+
+<details><summary>Wellcare Medicare PPO CFS is OUT OF NETWORK. PATIENT HAS OON BENEFITS. PLEASE INFORM PATIENT OF POSSIBLE HIGHER OUT OF POCKET COSTS. BENEFIT MUST BE CHECKED PRIOR TO APPT</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -9209,10 +9615,11 @@ BlueChoice HMO Gold Virtual Connect |
 | Trisha Werner, OD | Non-PAR -OON Benefits |
 | Callista Wlaschin, OD | Non-PAR -OON Benefits |
 
+</details>
 
 ## US Eye Insurance Guide(Center for Sight-Naples)
 
-### AARP Medicare Advantage from UHC FL-0005-0015/001P/003P (HMO-POS)
+<details><summary>AARP Medicare Advantage from UHC FL-0005-0015/001P/003P (HMO-POS)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -9280,7 +9687,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### AARP Medicare Advantage from UHC FL-0016-0027 (PPO)
+</details>
+
+<details><summary>AARP Medicare Advantage from UHC FL-0016-0027 (PPO)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -9348,7 +9757,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### AARP Medicare Advantage from UHC FL-0031 (Regional PPO)
+</details>
+
+<details><summary>AARP Medicare Advantage from UHC FL-0031 (Regional PPO)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -9416,7 +9827,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### AARP Medicare Advantage HMO- WELLMED (Payer ID is WELM2)
+</details>
+
+<details><summary>AARP Medicare Advantage HMO- WELLMED (Payer ID is WELM2)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -9484,7 +9897,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### AARP Medicare Advantage Patriot No Rx FL-MA01 (Regional PPO)
+</details>
+
+<details><summary>AARP Medicare Advantage Patriot No Rx FL-MA01 (Regional PPO)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -9552,7 +9967,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### AARP Medicare Advantage PPO- WELLMED (Payer ID is WELM2)
+</details>
+
+<details><summary>AARP Medicare Advantage PPO- WELLMED (Payer ID is WELM2)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -9620,7 +10037,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Aetna Healthfund - Aetna Open Access Aetna Select℠
+</details>
+
+<details><summary>Aetna Healthfund - Aetna Open Access Aetna Select℠</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -9688,7 +10107,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Aetna Healthfund - Aetna Open Access® Elect Choice® EPO
+</details>
+
+<details><summary>Aetna Healthfund - Aetna Open Access® Elect Choice® EPO</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -9756,7 +10177,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Aetna Healthfund - Aetna Open Access® Managed Choice® POS
+</details>
+
+<details><summary>Aetna Healthfund - Aetna Open Access® Managed Choice® POS</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -9824,7 +10247,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Aetna Healthfund - Aetna Open Choice® PPO/ Choice POS/POS II
+</details>
+
+<details><summary>Aetna Healthfund - Aetna Open Choice® PPO/ Choice POS/POS II</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -9892,7 +10317,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Aetna HealthFund- Aetna Health Network Only/Network Option℠ (Open Access)
+</details>
+
+<details><summary>Aetna HealthFund- Aetna Health Network Only/Network Option℠ (Open Access)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -9960,7 +10387,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Aetna Innovation - Innovation Health Aetna Select/National Advantage Program (NAP)/Innovataion Health Aetna POS/PPO
+</details>
+
+<details><summary>Aetna Innovation - Innovation Health Aetna Select/National Advantage Program (NAP)/Innovataion Health Aetna POS/PPO</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -10028,7 +10457,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Aetna Medicare - Credit Plan (PPO)
+</details>
+
+<details><summary>Aetna Medicare - Credit Plan (PPO)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -10096,7 +10527,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Aetna Medicare - Credit/Discover/Discover Value Plan/Select  (HMO)
+</details>
+
+<details><summary>Aetna Medicare - Credit/Discover/Discover Value Plan/Select  (HMO)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -10164,7 +10597,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Aetna Medicare - Select  (HMO)
+</details>
+
+<details><summary>Aetna Medicare - Select  (HMO)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -10232,7 +10667,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Aetna Medicare - Essential/Essential Elite/Essentials (PPO)
+</details>
+
+<details><summary>Aetna Medicare - Essential/Essential Elite/Essentials (PPO)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -10300,7 +10737,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Aetna Medicare - Preferred/Preferred Premium (PPO)
+</details>
+
+<details><summary>Aetna Medicare - Preferred/Preferred Premium (PPO)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -10368,7 +10807,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Aetna Medicare- Advantra Credit Value/Advantra Gold/Advtantra Silver/Advantra Preferred/Advantra Premier/ Advantra Premier Plus/Advantra Value (PPO)
+</details>
+
+<details><summary>Aetna Medicare- Advantra Credit Value/Advantra Gold/Advtantra Silver/Advantra Preferred/Advantra Premier/ Advantra Premier Plus/Advantra Value (PPO)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -10436,7 +10877,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Aetna Medicare- Bronze Plan (PPO)
+</details>
+
+<details><summary>Aetna Medicare- Bronze Plan (PPO)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -10504,7 +10947,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Aetna Medicare- Core Plan (PPO)
+</details>
+
+<details><summary>Aetna Medicare- Core Plan (PPO)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -10572,7 +11017,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Aetna Medicare- Deluxe Plan (PPO)
+</details>
+
+<details><summary>Aetna Medicare- Deluxe Plan (PPO)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -10640,7 +11087,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Aetna Medicare- Discover/Discover Value Plan (PPO)
+</details>
+
+<details><summary>Aetna Medicare- Discover/Discover Value Plan (PPO)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -10708,7 +11157,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Aetna Medicare- Dual Choice/Dual Preferred Plan/Dual Select Choice/Dual Select Signature (HMO D-SNP)
+</details>
+
+<details><summary>Aetna Medicare- Dual Choice/Dual Preferred Plan/Dual Select Choice/Dual Select Signature (HMO D-SNP)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -10776,7 +11227,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Aetna Medicare- Dual Choice/Dual Preferred Plan/Dual Select Choice/Dual Select Signature (PPO D-SNP)
+</details>
+
+<details><summary>Aetna Medicare- Dual Choice/Dual Preferred Plan/Dual Select Choice/Dual Select Signature (PPO D-SNP)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -10844,7 +11297,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Aetna Medicare- Eagle/Eagle Giveback/Eagle I & II/ Eagle Plus(PPO)
+</details>
+
+<details><summary>Aetna Medicare- Eagle/Eagle Giveback/Eagle I & II/ Eagle Plus(PPO)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -10912,7 +11367,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Aetna Medicare- Elite/Elite Plan 3 (PPO)
+</details>
+
+<details><summary>Aetna Medicare- Elite/Elite Plan 3 (PPO)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -10980,7 +11437,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Aetna Medicare- Enhanced Select (PPO)
+</details>
+
+<details><summary>Aetna Medicare- Enhanced Select (PPO)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -11048,7 +11507,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Aetna Medicare- Explorer/Explore Premier/Explore Premier II (PPO)
+</details>
+
+<details><summary>Aetna Medicare- Explorer/Explore Premier/Explore Premier II (PPO)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -11116,7 +11577,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Aetna Medicare- Freedom/Freedom Core/Freedom Plus/Freedom Preferred (PPO)
+</details>
+
+<details><summary>Aetna Medicare- Freedom/Freedom Core/Freedom Plus/Freedom Preferred (PPO)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -11184,7 +11647,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Aetna Medicare- Giveback Choice/Giveback Choice Plus (PPO)
+</details>
+
+<details><summary>Aetna Medicare- Giveback Choice/Giveback Choice Plus (PPO)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -11252,7 +11717,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Aetna Medicare- Gold Plan (PPO)
+</details>
+
+<details><summary>Aetna Medicare- Gold Plan (PPO)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -11320,7 +11787,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Aetna Medicare- Platinum Plan (PPO)
+</details>
+
+<details><summary>Aetna Medicare- Platinum Plan (PPO)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -11388,7 +11857,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Aetna Medicare- Premier (PPO)
+</details>
+
+<details><summary>Aetna Medicare- Premier (PPO)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -11456,7 +11927,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Aetna Medicare- Premier/Premier Regional PPO/Premier 1 & 2/Premier Plus (PPO)
+</details>
+
+<details><summary>Aetna Medicare- Premier/Premier Regional PPO/Premier 1 & 2/Premier Plus (PPO)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -11524,7 +11997,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Aetna Medicare- SmartFit/SmartFit Plan (PPO)
+</details>
+
+<details><summary>Aetna Medicare- SmartFit/SmartFit Plan (PPO)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -11592,7 +12067,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Aetna Medicare- SmartSaver Elite (PPO)
+</details>
+
+<details><summary>Aetna Medicare- SmartSaver Elite (PPO)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -11660,7 +12137,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Aetna Medicare- Value Plan/Value Advantra/Value Plus/Value Plus Signature (PPO)
+</details>
+
+<details><summary>Aetna Medicare- Value Plan/Value Advantra/Value Plus/Value Plus Signature (PPO)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -11728,7 +12207,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Aetna Medicare-Core Elite Plan (PPO)
+</details>
+
+<details><summary>Aetna Medicare-Core Elite Plan (PPO)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -11796,7 +12277,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Aetna Medicare-Medicare Choice (PPO)
+</details>
+
+<details><summary>Aetna Medicare-Medicare Choice (PPO)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -11864,7 +12347,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Aetna Medicare-The Valley Plan (PPO)
+</details>
+
+<details><summary>Aetna Medicare-The Valley Plan (PPO)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -11932,7 +12417,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Aetna Open Access- Aetna Choice® POS II
+</details>
+
+<details><summary>Aetna Open Access- Aetna Choice® POS II</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -12000,7 +12487,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Aetna Open Access- Aetna Elect Choice® EPO
+</details>
+
+<details><summary>Aetna Open Access- Aetna Elect Choice® EPO</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -12068,7 +12557,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Aetna Open Access- Aetna Health Network Option℠
+</details>
+
+<details><summary>Aetna Open Access- Aetna Health Network Option℠</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -12136,7 +12627,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Aetna Open Access- Aetna Managed Choice® POS
+</details>
+
+<details><summary>Aetna Open Access- Aetna Managed Choice® POS</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -12204,7 +12697,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Aetna Open Access-Aetna Health Network Only℠
+</details>
+
+<details><summary>Aetna Open Access-Aetna Health Network Only℠</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -12272,7 +12767,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Aetna Open Access-Aetna Select℠
+</details>
+
+<details><summary>Aetna Open Access-Aetna Select℠</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -12340,7 +12837,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Aetna Premier Care Network Plus - Small Group Employer Plan - Aetna Florida Elect Choice Open Access (OAEPO)
+</details>
+
+<details><summary>Aetna Premier Care Network Plus - Small Group Employer Plan - Aetna Florida Elect Choice Open Access (OAEPO)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -12408,7 +12907,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Aetna Premier Care Network Plus - Small Group Employer Plan-Aetna Florida Health Network Only (HNOnly)
+</details>
+
+<details><summary>Aetna Premier Care Network Plus - Small Group Employer Plan-Aetna Florida Health Network Only (HNOnly)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -12476,7 +12977,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Aetna Premier Care Network Plus- Aetna 2024 Plan Providers
+</details>
+
+<details><summary>Aetna Premier Care Network Plus- Aetna 2024 Plan Providers</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -12544,7 +13047,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Aetna Premier Care Network Plus -Open Access Aetna Select
+</details>
+
+<details><summary>Aetna Premier Care Network Plus -Open Access Aetna Select</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -12612,7 +13117,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Aetna Standard Plan - Aetna HMO/Aetna HMO Gold/ Silver
+</details>
+
+<details><summary>Aetna Standard Plan - Aetna HMO/Aetna HMO Gold/ Silver</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -12680,7 +13187,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Aetna Standard Plan - Aetna Managed Choice® POS
+</details>
+
+<details><summary>Aetna Standard Plan - Aetna Managed Choice® POS</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -12748,7 +13257,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Aetna Standard Plan - Aetna Open Choice® PPO
+</details>
+
+<details><summary>Aetna Standard Plan - Aetna Open Choice® PPO</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -12816,7 +13327,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Aetna Standard Plan - Aetna QPOS®
+</details>
+
+<details><summary>Aetna Standard Plan - Aetna QPOS®</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -12884,7 +13397,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Aetna Standard Plan - Aetna Select℠
+</details>
+
+<details><summary>Aetna Standard Plan - Aetna Select℠</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -12952,7 +13467,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Aetna Standard Plan- Aetna Affordable Health Choices® limited benefits insurance plan (SRC only)
+</details>
+
+<details><summary>Aetna Standard Plan- Aetna Affordable Health Choices® limited benefits insurance plan (SRC only)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -13020,7 +13537,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Aetna Standard Plan- Aetna Voluntary Plans
+</details>
+
+<details><summary>Aetna Standard Plan- Aetna Voluntary Plans</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -13088,7 +13607,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Aetna Whole Health -  Southwest Florida - Open Access Elect Choice/ Southwest Florida Open Access Aetna Select
+</details>
+
+<details><summary>Aetna Whole Health -  Southwest Florida - Open Access Elect Choice/ Southwest Florida Open Access Aetna Select</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -13156,7 +13677,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Aetna Whole Health- Southwest Florida Health Network Only
+</details>
+
+<details><summary>Aetna Whole Health- Southwest Florida Health Network Only</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -13224,7 +13747,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Allegiance Benefit Plan (Cigna Open Access Plus Network)
+</details>
+
+<details><summary>Allegiance Benefit Plan (Cigna Open Access Plus Network)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -13292,7 +13817,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Allied National Open Access
+</details>
+
+<details><summary>Allied National Open Access</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -13360,7 +13887,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### AllSavers (UHC) (Charter and Navigate)
+</details>
+
+<details><summary>AllSavers (UHC) (Charter and Navigate)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -13428,7 +13957,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### AllSavers (UHC) (Choice and Choice Plus)
+</details>
+
+<details><summary>AllSavers (UHC) (Choice and Choice Plus)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -13496,7 +14027,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Ambetter ALL PLANS
+</details>
+
+<details><summary>Ambetter ALL PLANS</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -13564,7 +14097,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Anthem Blue- (Select Network) Alliance/ Blue Choice Open Access/Blue Choice Options/Blue Value/HealthSync
+</details>
+
+<details><summary>Anthem Blue- (Select Network) Alliance/ Blue Choice Open Access/Blue Choice Options/Blue Value/HealthSync</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -13632,7 +14167,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Anthem Blue- (Select Network) Century Preferred/High Value Network/Horizon Managed Care Network/National PPO/Network S/Network Blue/ Select PPO
+</details>
+
+<details><summary>Anthem Blue- (Select Network) Century Preferred/High Value Network/Horizon Managed Care Network/National PPO/Network S/Network Blue/ Select PPO</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -13700,7 +14237,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Anthem Blue- Grocery/Traditional/Traditional PPO
+</details>
+
+<details><summary>Anthem Blue- Grocery/Traditional/Traditional PPO</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -13768,7 +14307,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Anthem Blue Medicare- Medicare Advantage (PPO)
+</details>
+
+<details><summary>Anthem Blue Medicare- Medicare Advantage (PPO)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -13836,7 +14377,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Anthem Blue- POS
+</details>
+
+<details><summary>Anthem Blue- POS</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -13904,7 +14447,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Anthem Blue-Pathway Essentials/Essentials Standard PPO/EPO
+</details>
+
+<details><summary>Anthem Blue-Pathway Essentials/Essentials Standard PPO/EPO</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -13972,7 +14517,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Anthem Blue-Preferred POS (Select Network)
+</details>
+
+<details><summary>Anthem Blue-Preferred POS (Select Network)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -14040,7 +14587,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Anthem BCBS-Blue View Vision/Blue Vision Insight/Blue Vision Insight Plus/Vision Insight Plus Select/IBM Vision Plan/Vision Access Value/Vision Minimum Premium Plan
+</details>
+
+<details><summary>Anthem BCBS-Blue View Vision/Blue Vision Insight/Blue Vision Insight Plus/Vision Insight Plus Select/IBM Vision Plan/Vision Access Value/Vision Minimum Premium Plan</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -14108,7 +14657,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Avesis Vision
+</details>
+
+<details><summary>Avesis Vision</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -14176,7 +14727,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### AvMed HMO (State of Florida High Deductible Health Plan and State of Florida Standard HMO Plan)
+</details>
+
+<details><summary>AvMed HMO (State of Florida High Deductible Health Plan and State of Florida Standard HMO Plan)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -14244,7 +14797,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### BCBS- FEP Blue Vision
+</details>
+
+<details><summary>BCBS- FEP Blue Vision</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -14312,7 +14867,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### BCBS of FL BlueCare/Blue Care w. Pediactric Vision - Alpha Prefix XJGH, VMBH, VMEH
+</details>
+
+<details><summary>BCBS of FL BlueCare/Blue Care w. Pediactric Vision - Alpha Prefix XJGH, VMBH, VMEH</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -14380,7 +14937,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### BCBS of FL BlueChoice
+</details>
+
+<details><summary>BCBS of FL BlueChoice</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -14448,7 +15007,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### BCBS of FL BlueMedicare Classic/Classic Plus (HMO)
+</details>
+
+<details><summary>BCBS of FL BlueMedicare Classic/Classic Plus (HMO)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -14516,7 +15077,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### BCBS of FL BlueMedicare Group PPO (Employer PPO)
+</details>
+
+<details><summary>BCBS of FL BlueMedicare Group PPO (Employer PPO)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -14584,7 +15147,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### BCBS of FL BlueMedicare Patriot (PPO)
+</details>
+
+<details><summary>BCBS of FL BlueMedicare Patriot (PPO)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -14652,7 +15217,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### BCBS of FL BlueMedicare Premier (HMO)
+</details>
+
+<details><summary>BCBS of FL BlueMedicare Premier (HMO)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -14720,7 +15287,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### BCBS of FL BlueMedicare Select (PPO)
+</details>
+
+<details><summary>BCBS of FL BlueMedicare Select (PPO)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -14788,7 +15357,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### BCBS of FL BlueOptions Temporary Insurance/Blue Select Temporary Insurance
+</details>
+
+<details><summary>BCBS of FL BlueOptions Temporary Insurance/Blue Select Temporary Insurance</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -14856,7 +15427,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### BCBS of FL BlueOptions/Blue Options Hospial Surgical Plus/Blue Options with Pediactric Vision
+</details>
+
+<details><summary>BCBS of FL BlueOptions/Blue Options Hospial Surgical Plus/Blue Options with Pediactric Vision</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -14924,7 +15497,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### BCBS of FL BlueSelect/BlueSelect Hospital Surgical Plus/BlueSelect w. Pediatric Vision
+</details>
+
+<details><summary>BCBS of FL BlueSelect/BlueSelect Hospital Surgical Plus/BlueSelect w. Pediatric Vision</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -14992,7 +15567,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### BCBS of FL Federal Employee Program - alpha prefix R
+</details>
+
+<details><summary>BCBS of FL Federal Employee Program - alpha prefix R</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -15060,7 +15637,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### BCBS of FL myBlue Connected Care/myBlue w. Pediactric Vision
+</details>
+
+<details><summary>BCBS of FL myBlue Connected Care/myBlue w. Pediactric Vision</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -15128,7 +15707,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### BCBS of FL SimplyBlue
+</details>
+
+<details><summary>BCBS of FL SimplyBlue</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -15196,7 +15777,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### BCBS Out of State California ONLY
+</details>
+
+<details><summary>BCBS Out of State California ONLY</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -15264,7 +15847,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### BCBS Out of State Commercial PPO Plans -all plans that are not BCBS of Florida; please ask the patient to check the front and back copy of the card for the state. If the card says "Anthem", please see ANTHEM on the insurance guide
+</details>
+
+<details><summary>BCBS Out of State Commercial PPO Plans -all plans that are not BCBS of Florida; please ask the patient to check the front and back copy of the card for the state. If the card says "Anthem", please see ANTHEM on the insurance guide</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -15332,7 +15917,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### BCBS Out of State HMO Plans - ALL PLANS Commercial and Medicare HMO PLANS
+</details>
+
+<details><summary>BCBS Out of State HMO Plans - ALL PLANS Commercial and Medicare HMO PLANS</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -15400,7 +15987,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### BCBS Out of State Medicare HMO-POS Plans - Medicare HMO POS Plans do have OON benefits. Note: BCBS Michigan Medicare HMO-POS (alpha prefix XYK)
+</details>
+
+<details><summary>BCBS Out of State Medicare HMO-POS Plans - Medicare HMO POS Plans do have OON benefits. Note: BCBS Michigan Medicare HMO-POS (alpha prefix XYK)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -15468,7 +16057,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### BCBS Out of State Medicare PPO Plans -all plans that are not BCBS of Florida; please ask the patient to check the front and back copy of the card for the state. If the card says "Anthem", please see ANTHEM on the insurance guide
+</details>
+
+<details><summary>BCBS Out of State Medicare PPO Plans -all plans that are not BCBS of Florida; please ask the patient to check the front and back copy of the card for the state. If the card says "Anthem", please see ANTHEM on the insurance guide</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -15536,7 +16127,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Best Care Alliance (Former Innovatus Health)
+</details>
+
+<details><summary>Best Care Alliance (Former Innovatus Health)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -15604,7 +16197,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Carefirst BCBS Commercial - BlueChoice Advantage/BlueChoice Advantage HDHP (PPO)
+</details>
+
+<details><summary>Carefirst BCBS Commercial - BlueChoice Advantage/BlueChoice Advantage HDHP (PPO)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -15672,7 +16267,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Carefirst BCBS Commercial - BlueChoice Opt-Out Open Access/BlueChoice Opt-Out Plus Open Access (HMO)
+</details>
+
+<details><summary>Carefirst BCBS Commercial - BlueChoice Opt-Out Open Access/BlueChoice Opt-Out Plus Open Access (HMO)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -15740,7 +16337,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Carefirst BCBS Commercial - BlueChoice Plus/BlueHPN/BluePreferred
+</details>
+
+<details><summary>Carefirst BCBS Commercial - BlueChoice Plus/BlueHPN/BluePreferred</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -15808,7 +16407,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Carefirst BCBS Commercial - Comprehensive Major Medical
+</details>
+
+<details><summary>Carefirst BCBS Commercial - Comprehensive Major Medical</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -15876,7 +16477,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Carefirst BCBS Commercial - HealthyBlue Plus/HealthyBlue PPO
+</details>
+
+<details><summary>Carefirst BCBS Commercial - HealthyBlue Plus/HealthyBlue PPO</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -15944,7 +16547,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Carefirst BCBS Medicare Advantage (PPO)
+</details>
+
+<details><summary>Carefirst BCBS Medicare Advantage (PPO)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -16012,7 +16617,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Carefirst Commercial - CareFirst Regional
+</details>
+
+<details><summary>Carefirst Commercial - CareFirst Regional</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -16080,7 +16687,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Carefirst Commercial - HealthyBlue/HealthyBlue 2.0/HealthyBlue Advantage (HMO)
+</details>
+
+<details><summary>Carefirst Commercial - HealthyBlue/HealthyBlue 2.0/HealthyBlue Advantage (HMO)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -16148,7 +16757,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Carefirst Commercial - PPO/EPO (Exclusive Provider Organization)
+</details>
+
+<details><summary>Carefirst Commercial - PPO/EPO (Exclusive Provider Organization)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -16216,7 +16827,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Carefirst Commercial - Standard BlueChoice (HMO)
+</details>
+
+<details><summary>Carefirst Commercial - Standard BlueChoice (HMO)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -16284,7 +16897,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Carefirst Commercial - Traditional/Indemnity
+</details>
+
+<details><summary>Carefirst Commercial - Traditional/Indemnity</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -16352,7 +16967,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Carefirst Commercial - Traditional/Indemnity (PPO)
+</details>
+
+<details><summary>Carefirst Commercial - Traditional/Indemnity (PPO)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -16420,7 +17037,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Carefirst Commerical - BlueCard PAR/ BlueCard PPO/ EPO/ BlueCard Traditional
+</details>
+
+<details><summary>Carefirst Commerical - BlueCard PAR/ BlueCard PPO/ EPO/ BlueCard Traditional</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -16488,7 +17107,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### ChampVA (VACCN)
+</details>
+
+<details><summary>ChampVA (VACCN)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -16556,7 +17177,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Cigna Commercial - Florida Connect
+</details>
+
+<details><summary>Cigna Commercial - Florida Connect</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -16624,7 +17247,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### CIGNA Commercial - HealthCare of Florida, Inc. - Fort Myers HMO
+</details>
+
+<details><summary>CIGNA Commercial - HealthCare of Florida, Inc. - Fort Myers HMO</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -16692,7 +17317,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### CIGNA Commercial - HealthCare of Florida, Inc. - Tampa HMO
+</details>
+
+<details><summary>CIGNA Commercial - HealthCare of Florida, Inc. - Tampa HMO</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -16760,7 +17387,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Cigna Commercial - Local Plus
+</details>
+
+<details><summary>Cigna Commercial - Local Plus</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -16828,7 +17457,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Cigna Commercial- ChoiceFund OA Plus/ Cigna ChoiceFund OA Plus with CareLink
+</details>
+
+<details><summary>Cigna Commercial- ChoiceFund OA Plus/ Cigna ChoiceFund OA Plus with CareLink</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -16896,7 +17527,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Cigna Commercial- Open Access Plus/ Carelink Open Access Plus/PPO/Choice Fund PPO
+</details>
+
+<details><summary>Cigna Commercial- Open Access Plus/ Carelink Open Access Plus/PPO/Choice Fund PPO</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -16964,7 +17597,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Cigna Global Health Benefits (BENEFITS/ELIGIBILITY NEEDS TO BE CHECKED EVERYTIME)
+</details>
+
+<details><summary>Cigna Global Health Benefits (BENEFITS/ELIGIBILITY NEEDS TO BE CHECKED EVERYTIME)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -17032,7 +17667,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Cigna Medicare PPO
+</details>
+
+<details><summary>Cigna Medicare PPO</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -17100,7 +17737,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Cigna Medicare - TotalCare (HMO D-SNP)
+</details>
+
+<details><summary>Cigna Medicare - TotalCare (HMO D-SNP)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -17168,7 +17807,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Cigna Medicare - TotalCare Plus (HMO D-SNP)
+</details>
+
+<details><summary>Cigna Medicare - TotalCare Plus (HMO D-SNP)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -17236,7 +17877,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Cigna Medicare HMO- Preferred/Preferred Savings Medicare/Courage
+</details>
+
+<details><summary>Cigna Medicare HMO- Preferred/Preferred Savings Medicare/Courage</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -17304,7 +17947,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Cigna Oscar- Open Access Plus/Local Plus
+</details>
+
+<details><summary>Cigna Oscar- Open Access Plus/Local Plus</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -17372,7 +18017,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### CIGNACommercial - HealthCare Seamless Network - Florida
+</details>
+
+<details><summary>CIGNACommercial - HealthCare Seamless Network - Florida</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -17440,7 +18087,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Division of Blind
+</details>
+
+<details><summary>Division of Blind</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -17508,7 +18157,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Employee Benefits Management Services (EMBS) with Aetna Network
+</details>
+
+<details><summary>Employee Benefits Management Services (EMBS) with Aetna Network</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -17576,7 +18227,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Eyemed Vision
+</details>
+
+<details><summary>Eyemed Vision</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -17644,7 +18297,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### First Health Network (through Aetna and/or PHP Network) PLEASE ASK THE PATIENT FOR THE HEALTH PLAN NAME ON THE CARD AND LOAD THE PLAN INTO NEXTGEN ACCORDING TO THEIR HEALTH PLAN
+</details>
+
+<details><summary>First Health Network (through Aetna and/or PHP Network) PLEASE ASK THE PATIENT FOR THE HEALTH PLAN NAME ON THE CARD AND LOAD THE PLAN INTO NEXTGEN ACCORDING TO THEIR HEALTH PLAN</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -17712,7 +18367,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Freedom/Optimum Health Medicare ID # STARTS WITH P or T
+</details>
+
+<details><summary>Freedom/Optimum Health Medicare ID # STARTS WITH P or T</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -17780,7 +18437,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### GEHA (United Healthcare Choice Plus Network) PLEASE INCLUDE THE SUFFIX IN THE POLICY # ON THE ID CARD AS GEHA (EX: 1234567GEHA)
+</details>
+
+<details><summary>GEHA (United Healthcare Choice Plus Network) PLEASE INCLUDE THE SUFFIX IN THE POLICY # ON THE ID CARD AS GEHA (EX: 1234567GEHA)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -17848,7 +18507,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Golden Rule (UHC Choice Plus Network)
+</details>
+
+<details><summary>Golden Rule (UHC Choice Plus Network)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -17916,7 +18577,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Harvard Pilgrim Healthcare (UHC Choice Plus Network)
+</details>
+
+<details><summary>Harvard Pilgrim Healthcare (UHC Choice Plus Network)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -17984,7 +18647,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Humana Commercial - ALL PLANS  - AS OF 01/01/25- PLAN IS NO LONGER OFFERED IN FL MARKETS
+</details>
+
+<details><summary>Humana Commercial - ALL PLANS  - AS OF 01/01/25- PLAN IS NO LONGER OFFERED IN FL MARKETS</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -18052,7 +18717,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Humana  Medicare-DUAL Choice Florida SNP-DE (PPO D-SNP)
+</details>
+
+<details><summary>Humana  Medicare-DUAL Choice Florida SNP-DE (PPO D-SNP)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -18120,7 +18787,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Humana Medicare- Choice Florida (PPO)/Choice (Regional PPO)/USAA Honor PPO
+</details>
+
+<details><summary>Humana Medicare- Choice Florida (PPO)/Choice (Regional PPO)/USAA Honor PPO</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -18188,7 +18857,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Humana Medicare- HMO ALL PLANS
+</details>
+
+<details><summary>Humana Medicare- HMO ALL PLANS</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -18256,7 +18927,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Humana Medicare- Medicare PPO/Employee PPO Plus/Gold Choice Ntek PFFS
+</details>
+
+<details><summary>Humana Medicare- Medicare PPO/Employee PPO Plus/Gold Choice Ntek PFFS</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -18324,7 +18997,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Lutheran Preferred (PHP Network)
+</details>
+
+<details><summary>Lutheran Preferred (PHP Network)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -18392,7 +19067,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Mailhandlers (Aetna Choice® POS II Network)
+</details>
+
+<details><summary>Mailhandlers (Aetna Choice® POS II Network)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -18460,7 +19137,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### March Vision
+</details>
+
+<details><summary>March Vision</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -18528,7 +19207,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### MBA - Medical Benefits Administrators (Cigna Network)
+</details>
+
+<details><summary>MBA - Medical Benefits Administrators (Cigna Network)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -18596,7 +19277,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Medicaid of Florida/ All Medicaid (MCO) plans
+</details>
+
+<details><summary>Medicaid of Florida/ All Medicaid (MCO) plans</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -18664,7 +19347,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Medicare
+</details>
+
+<details><summary>Medicare</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -18732,7 +19417,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Meritain Gulf Coast (Aetna Choice POS II Network)
+</details>
+
+<details><summary>Meritain Gulf Coast (Aetna Choice POS II Network)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -18800,7 +19487,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Meritain Health - Sarasota Memorial (BASIC AND/OR COMPREHENSIVE PLAN) PLEASE ASK THE PATIENT IF THE CARD HAS "SMH" ON THEIR CARD. IF THE CARD SAYS BASIC OR COMPREHENSIVE PLAN, WE ARE OUT OF NETWORK AND THERE ARE NO OON BENEFITS
+</details>
+
+<details><summary>Meritain Health - Sarasota Memorial (BASIC AND/OR COMPREHENSIVE PLAN) PLEASE ASK THE PATIENT IF THE CARD HAS "SMH" ON THEIR CARD. IF THE CARD SAYS BASIC OR COMPREHENSIVE PLAN, WE ARE OUT OF NETWORK AND THERE ARE NO OON BENEFITS</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -18868,7 +19557,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Meritain Health - Sarasota Memorial (EXTENSIVE MEDICAL PLAN) PLEASE ASK THE PATIENT IF THE CARD HAS "SMH" ON THEIR CARD AND THE CARD MUST SAY EXTENDED MEDICAL PLAN. THE EXTENDED MEDICAL PLAN APPLIES TOWARDS THE PATIENT'S TIER 2 BENEFITS - AETNA CHOICE POS II
+</details>
+
+<details><summary>Meritain Health - Sarasota Memorial (EXTENSIVE MEDICAL PLAN) PLEASE ASK THE PATIENT IF THE CARD HAS "SMH" ON THEIR CARD AND THE CARD MUST SAY EXTENDED MEDICAL PLAN. THE EXTENDED MEDICAL PLAN APPLIES TOWARDS THE PATIENT'S TIER 2 BENEFITS - AETNA CHOICE POS II</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -18936,7 +19627,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Multiplan PLEASE ASK THE PATIENT FOR THE HEALTH PLAN NAME ON THE CARD AND LOAD THE PLAN INTO NEXTGEN ACCORDING TO THEIR HEALTH PLAN
+</details>
+
+<details><summary>Multiplan PLEASE ASK THE PATIENT FOR THE HEALTH PLAN NAME ON THE CARD AND LOAD THE PLAN INTO NEXTGEN ACCORDING TO THEIR HEALTH PLAN</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -19004,7 +19697,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### NALC Health Benefit Plan (Cigna Open Access Plus Network)
+</details>
+
+<details><summary>NALC Health Benefit Plan (Cigna Open Access Plus Network)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -19072,7 +19767,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Optum VA-VETERANS AFFAIRS Community Care Network (CCN)
+</details>
+
+<details><summary>Optum VA-VETERANS AFFAIRS Community Care Network (CCN)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -19140,7 +19837,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### PHCS PLEASE ASK THE PATIENT FOR THE HEALTH PLAN NAME ON THE CARD AND LOAD THE PLAN INTO NEXTGEN ACCORDING TO THEIR HEALTH PLAN
+</details>
+
+<details><summary>PHCS PLEASE ASK THE PATIENT FOR THE HEALTH PLAN NAME ON THE CARD AND LOAD THE PLAN INTO NEXTGEN ACCORDING TO THEIR HEALTH PLAN</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -19208,7 +19907,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Priority Health Commercial- (Cigna Open Access Network) HMO
+</details>
+
+<details><summary>Priority Health Commercial- (Cigna Open Access Network) HMO</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -19276,7 +19977,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Priority Health Commercial- (Cigna Open Access Network) PPO
+</details>
+
+<details><summary>Priority Health Commercial- (Cigna Open Access Network) PPO</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -19344,7 +20047,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Priority Health Medicare- Priority Medicare Ideal/Travel Pass (Multiplan) PPO
+</details>
+
+<details><summary>Priority Health Medicare- Priority Medicare Ideal/Travel Pass (Multiplan) PPO</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -19412,7 +20117,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Priority Health Medicare- Priority Medicare Value/Travel Pass (Multiplan)  HMO -POS
+</details>
+
+<details><summary>Priority Health Medicare- Priority Medicare Value/Travel Pass (Multiplan)  HMO -POS</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -19480,7 +20187,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Railroad Medicare - CONFIRM WITH PT AT THE BOTTOM OF THE ID CARD IT SAYS "RAILROAD RETIREMENT BOARD"
+</details>
+
+<details><summary>Railroad Medicare - CONFIRM WITH PT AT THE BOTTOM OF THE ID CARD IT SAYS "RAILROAD RETIREMENT BOARD"</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -19548,7 +20257,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Spectera Vision
+</details>
+
+<details><summary>Spectera Vision</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -19616,7 +20327,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Surest (United Healthcare Choice Plus Network)
+</details>
+
+<details><summary>Surest (United Healthcare Choice Plus Network)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -19684,7 +20397,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### The Empire Plan-NYSHIP
+</details>
+
+<details><summary>The Empire Plan-NYSHIP</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -19752,7 +20467,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Tricare Prime CFS is OUT OF NETWORK. PATIENT HAS OON BENEFITS. PLEASE INFORM PATIENT OF POSSIBLE HIGHER OUT OF POCKET COSTS (see note). covered for a Routine Eye Exam every two years
+</details>
+
+<details><summary>Tricare Prime CFS is OUT OF NETWORK. PATIENT HAS OON BENEFITS. PLEASE INFORM PATIENT OF POSSIBLE HIGHER OUT OF POCKET COSTS (see note). covered for a Routine Eye Exam every two years</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -19820,7 +20537,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Tricare Select CFS is OUT OF NETWORK. PATIENT HAS OON BENEFITS. PLEASE INFORM PATIENT OF POSSIBLE HIGHER OUT OF POCKET COSTS. Routine Eye Exams are NON-covered
+</details>
+
+<details><summary>Tricare Select CFS is OUT OF NETWORK. PATIENT HAS OON BENEFITS. PLEASE INFORM PATIENT OF POSSIBLE HIGHER OUT OF POCKET COSTS. Routine Eye Exams are NON-covered</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -19888,7 +20607,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### UCare Medicare HMO CFS is OUT OF NETWORK. PATIENT HAS OON BENEFITS. PLEASE INFORM PATIENT OF POSSIBLE HIGHER OUT OF POCKET COSTS.
+</details>
+
+<details><summary>UCare Medicare HMO CFS is OUT OF NETWORK. PATIENT HAS OON BENEFITS. PLEASE INFORM PATIENT OF POSSIBLE HIGHER OUT OF POCKET COSTS.</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -19956,7 +20677,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### UMR (UHC Choice Plus Network, Core, Freedom, NEXAUSACO OAP, Options PPO, Select Plus POS)
+</details>
+
+<details><summary>UMR (UHC Choice Plus Network, Core, Freedom, NEXAUSACO OAP, Options PPO, Select Plus POS)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -20024,7 +20747,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### United Healthcare Care Advantage FL-E001 (PPO I-SNP)
+</details>
+
+<details><summary>United Healthcare Care Advantage FL-E001 (PPO I-SNP)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -20092,7 +20817,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### United Healthcare Charter EPO/POS
+</details>
+
+<details><summary>United Healthcare Charter EPO/POS</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -20160,7 +20887,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### United Healthcare Charter HMO/HMO Plus
+</details>
+
+<details><summary>United Healthcare Charter HMO/HMO Plus</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -20228,7 +20957,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### United Healthcare Choice Plan Network- The Oxford Plan
+</details>
+
+<details><summary>United Healthcare Choice Plan Network- The Oxford Plan</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -20296,7 +21027,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### United Healthcare Choice Plus HMO
+</details>
+
+<details><summary>United Healthcare Choice Plus HMO</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -20364,7 +21097,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### United Healthcare Choice Plus POS
+</details>
+
+<details><summary>United Healthcare Choice Plus POS</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -20432,7 +21167,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### United Healthcare Choice Plus POS- the card will say HCA Healthcare-If patient has surgery, OOP costs are higher at 75% coinsurance as the patient's preferred facility is HCA Healthcare
+</details>
+
+<details><summary>United Healthcare Choice Plus POS- the card will say HCA Healthcare-If patient has surgery, OOP costs are higher at 75% coinsurance as the patient's preferred facility is HCA Healthcare</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -20500,7 +21237,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### United Healthcare Choice Plus POS- the card will say HCA Healthcare-If patient has surgery, OOP costs are higher at 75% coinsurance as the patient's preferred facility is HCA Healthcare
+</details>
+
+<details><summary>United Healthcare Choice Plus POS- the card will say HCA Healthcare-If patient has surgery, OOP costs are higher at 75% coinsurance as the patient's preferred facility is HCA Healthcare</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -20568,7 +21307,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### United Healthcare Compass ALL PLANS
+</details>
+
+<details><summary>United Healthcare Compass ALL PLANS</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -20636,7 +21377,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### United Healthcare Complete Care Walgreens FL-0014 (HMO-POS C-SNP)
+</details>
+
+<details><summary>United Healthcare Complete Care Walgreens FL-0014 (HMO-POS C-SNP)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -20704,7 +21447,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### United Healthcare Core Choice Plus/Choice Plus POS/EPO
+</details>
+
+<details><summary>United Healthcare Core Choice Plus/Choice Plus POS/EPO</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -20772,7 +21517,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### United Healthcare CORE HMO
+</details>
+
+<details><summary>United Healthcare CORE HMO</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -20840,7 +21587,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### United Healthcare DOCTORS PLAN EPO/ PLAN PLUS POS
+</details>
+
+<details><summary>United Healthcare DOCTORS PLAN EPO/ PLAN PLUS POS</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -20908,7 +21657,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### United Healthcare DOCTORS PLAN PLUS HMO
+</details>
+
+<details><summary>United Healthcare DOCTORS PLAN PLUS HMO</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -20976,7 +21727,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### United Healthcare Dual Complete™ (HMO SNP)
+</details>
+
+<details><summary>United Healthcare Dual Complete™ (HMO SNP)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -21044,7 +21797,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### United Healthcare Dual Complete™ (PPO SNP)
+</details>
+
+<details><summary>United Healthcare Dual Complete™ (PPO SNP)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -21112,7 +21867,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### United Healthcare ER Wrap (W500 on back of card)
+</details>
+
+<details><summary>United Healthcare ER Wrap (W500 on back of card)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -21180,7 +21937,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### United Healthcare FL CHIP ALL MEDICAID
+</details>
+
+<details><summary>United Healthcare FL CHIP ALL MEDICAID</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -21248,7 +22007,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### United Healthcare Group Medicare Advantage (HMO)
+</details>
+
+<details><summary>United Healthcare Group Medicare Advantage (HMO)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -21316,7 +22077,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### United Healthcare Group Medicare Advantage (PPO)
+</details>
+
+<details><summary>United Healthcare Group Medicare Advantage (PPO)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -21384,7 +22147,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### United Healthcare Heritage ALL PLANS
+</details>
+
+<details><summary>United Healthcare Heritage ALL PLANS</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -21452,7 +22217,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### United Healthcare Indemnity-we will only accept this plan as a secondary/supplement
+</details>
+
+<details><summary>United Healthcare Indemnity-we will only accept this plan as a secondary/supplement</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -21520,7 +22287,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### United Healthcare Individual Exchange (FLONEX) - Essential (Bronze), Value (Bronz, Silver, Gold), Advantage (Silver, Gold), Copay Focus (Bronze, Silver, Gold), Virtual (Bronze, Silver, Gold)
+</details>
+
+<details><summary>United Healthcare Individual Exchange (FLONEX) - Essential (Bronze), Value (Bronz, Silver, Gold), Advantage (Silver, Gold), Copay Focus (Bronze, Silver, Gold), Virtual (Bronze, Silver, Gold)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -21588,7 +22357,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### United Healthcare Long Term Care
+</details>
+
+<details><summary>United Healthcare Long Term Care</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -21656,7 +22427,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### United Healthcare Mid-Atlantic Gated HMO
+</details>
+
+<details><summary>United Healthcare Mid-Atlantic Gated HMO</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -21724,7 +22497,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### United Healthcare NATIONAL ANCILLARY
+</details>
+
+<details><summary>United Healthcare NATIONAL ANCILLARY</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -21792,7 +22567,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### United Healthcare Navigate HMO/ HMO Plus/ Navigate POS/Navigate EPO
+</details>
+
+<details><summary>United Healthcare Navigate HMO/ HMO Plus/ Navigate POS/Navigate EPO</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -21860,7 +22637,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### United Healthcare NexusACO NR EPO,NR POS, R EPO, R POS/NR HMO/R HMO
+</details>
+
+<details><summary>United Healthcare NexusACO NR EPO,NR POS, R EPO, R POS/NR HMO/R HMO</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -21928,7 +22707,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### United Healthcare NexusACO OA  POS/ OA EPO
+</details>
+
+<details><summary>United Healthcare NexusACO OA  POS/ OA EPO</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -21996,7 +22777,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### United Healthcare NexusACO OA HMO
+</details>
+
+<details><summary>United Healthcare NexusACO OA HMO</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -22064,7 +22847,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### United Healthcare NHP Gated L1, L2, L3
+</details>
+
+<details><summary>United Healthcare NHP Gated L1, L2, L3</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -22132,7 +22917,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### United Healthcare NHP-Neighborhood Health Plan Direct Access
+</details>
+
+<details><summary>United Healthcare NHP-Neighborhood Health Plan Direct Access</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -22200,7 +22987,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### United Healthcare Nursing Home Plan EX-F006 (HMO-POS I-SNP)
+</details>
+
+<details><summary>United Healthcare Nursing Home Plan EX-F006 (HMO-POS I-SNP)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -22268,7 +23057,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### United Healthcare Nursing Home Plan FL-F001 (PPO I-SNP)
+</details>
+
+<details><summary>United Healthcare Nursing Home Plan FL-F001 (PPO I-SNP)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -22336,7 +23127,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### United Healthcare Nursing Home Plan FL-F002 (PPO I-SNP)
+</details>
+
+<details><summary>United Healthcare Nursing Home Plan FL-F002 (PPO I-SNP)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -22404,7 +23197,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### United Healthcare PPO
+</details>
+
+<details><summary>United Healthcare PPO</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -22472,7 +23267,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### United Healthcare Select EPO/Select Plus POS
+</details>
+
+<details><summary>United Healthcare Select EPO/Select Plus POS</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -22540,7 +23337,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### United Healthcare Select Plus HMO
+</details>
+
+<details><summary>United Healthcare Select Plus HMO</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -22608,7 +23407,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### United Healthcare Shared Services - Options PPO Network
+</details>
+
+<details><summary>United Healthcare Shared Services - Options PPO Network</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -22676,7 +23477,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### United Healthcare The Villages Medicare Advantage FL-0004/FL-004P (HMO-POS)
+</details>
+
+<details><summary>United Healthcare The Villages Medicare Advantage FL-0004/FL-004P (HMO-POS)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -22744,7 +23547,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Versant: Davis Vision
+</details>
+
+<details><summary>Versant: Davis Vision</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -22812,7 +23617,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Versant: Superior Vision (PAR FOR VITTONE ONLY; PLEASE USE PAYER NAME: SUPERIOR VISION)
+</details>
+
+<details><summary>Versant: Superior Vision (PAR FOR VITTONE ONLY; PLEASE USE PAYER NAME: SUPERIOR VISION)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -22880,7 +23687,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Vitori Health Open Access Plan
+</details>
+
+<details><summary>Vitori Health Open Access Plan</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -22948,7 +23757,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### VSP Vision
+</details>
+
+<details><summary>VSP Vision</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -23016,7 +23827,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Web TPA
+</details>
+
+<details><summary>Web TPA</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -23084,7 +23897,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Wellcare Medicare HMO
+</details>
+
+<details><summary>Wellcare Medicare HMO</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -23152,7 +23967,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Wellcare Medicare PPO CFS is OUT OF NETWORK. PATIENT HAS OON BENEFITS. PLEASE INFORM PATIENT OF POSSIBLE HIGHER OUT OF POCKET COSTS
+</details>
+
+<details><summary>Wellcare Medicare PPO CFS is OUT OF NETWORK. PATIENT HAS OON BENEFITS. PLEASE INFORM PATIENT OF POSSIBLE HIGHER OUT OF POCKET COSTS</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -23220,10 +24037,11 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
+</details>
 
 ## US Eye Insurance Guide(Lake Eye )
 
-### AARP Medicare Advantage from UHC FL-0005-0015 (HMO-POS)
+<details><summary>AARP Medicare Advantage from UHC FL-0005-0015 (HMO-POS)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -23241,7 +24059,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### AARP Medicare Advantage from UHC FL-0016-0027 (PPO)
+</details>
+
+<details><summary>AARP Medicare Advantage from UHC FL-0016-0027 (PPO)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -23259,7 +24079,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### AARP Medicare Advantage from UHC FL-001P (HMO-POS)
+</details>
+
+<details><summary>AARP Medicare Advantage from UHC FL-001P (HMO-POS)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -23277,7 +24099,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### AARP Medicare Advantage from UHC FL-0031 (Regional PPO)
+</details>
+
+<details><summary>AARP Medicare Advantage from UHC FL-0031 (Regional PPO)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -23295,7 +24119,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### AARP Medicare Advantage from UHC FL-003P (HMO-POS)
+</details>
+
+<details><summary>AARP Medicare Advantage from UHC FL-003P (HMO-POS)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -23313,7 +24139,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### AARP Medicare Advantage HMO- WELLMED (Payer ID is WELM2)
+</details>
+
+<details><summary>AARP Medicare Advantage HMO- WELLMED (Payer ID is WELM2)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -23331,7 +24159,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### AARP Medicare Advantage Patriot No Rx FL-MA01 (Regional PPO)
+</details>
+
+<details><summary>AARP Medicare Advantage Patriot No Rx FL-MA01 (Regional PPO)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -23349,7 +24179,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### AARP Medicare Advantage PPO- WELLMED (Payer ID is WELM2)
+</details>
+
+<details><summary>AARP Medicare Advantage PPO- WELLMED (Payer ID is WELM2)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -23367,7 +24199,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Aetna Affordable Health Choices® limited benefits insurance plan (SRC only)
+</details>
+
+<details><summary>Aetna Affordable Health Choices® limited benefits insurance plan (SRC only)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -23385,7 +24219,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Aetna Healthfund - Aetna Open Access Aetna Select℠/Elect Choice EPO/Managed Choice POS/Open Choice PPO/Choice POS-PPO/Network Only/Network Option (Open Access)
+</details>
+
+<details><summary>Aetna Healthfund - Aetna Open Access Aetna Select℠/Elect Choice EPO/Managed Choice POS/Open Choice PPO/Choice POS-PPO/Network Only/Network Option (Open Access)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -23403,7 +24239,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Aetna Healthfund - Aetna Open Access® Elect Choice® EPO
+</details>
+
+<details><summary>Aetna Healthfund - Aetna Open Access® Elect Choice® EPO</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -23421,7 +24259,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Aetna Healthfund - Aetna Open Access® Managed Choice® POS
+</details>
+
+<details><summary>Aetna Healthfund - Aetna Open Access® Managed Choice® POS</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -23439,7 +24279,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Aetna Healthfund - Aetna Open Choice® PPO
+</details>
+
+<details><summary>Aetna Healthfund - Aetna Open Choice® PPO</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -23457,7 +24299,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Aetna Healthfund- Aetna Choice® POS/POS II
+</details>
+
+<details><summary>Aetna Healthfund- Aetna Choice® POS/POS II</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -23475,7 +24319,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Aetna HealthFund- Aetna Health Network Only/Network Option℠ (Open Access)
+</details>
+
+<details><summary>Aetna HealthFund- Aetna Health Network Only/Network Option℠ (Open Access)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -23493,7 +24339,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Aetna Innovation - Innovation Health Aetna Select/National Advantage Program/Health Aetna POS-PPO
+</details>
+
+<details><summary>Aetna Innovation - Innovation Health Aetna Select/National Advantage Program/Health Aetna POS-PPO</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -23511,7 +24359,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Aetna Innovation- Aetna National Advantage Program (NAP)
+</details>
+
+<details><summary>Aetna Innovation- Aetna National Advantage Program (NAP)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -23529,7 +24379,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Aetna Innovation- Innovation Health Aetna POS/PPO
+</details>
+
+<details><summary>Aetna Innovation- Innovation Health Aetna POS/PPO</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -23547,7 +24399,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Aetna Medicare - Credit Plan (PPO)
+</details>
+
+<details><summary>Aetna Medicare - Credit Plan (PPO)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -23565,7 +24419,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Aetna Medicare - Credit/Discover/Discover Value Plan/Select  (HMO)
+</details>
+
+<details><summary>Aetna Medicare - Credit/Discover/Discover Value Plan/Select  (HMO)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -23583,7 +24439,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Aetna Medicare - Essential/Essential Elite/Essentials (PPO)
+</details>
+
+<details><summary>Aetna Medicare - Essential/Essential Elite/Essentials (PPO)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -23601,7 +24459,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Aetna Medicare - Select  (HMO)
+</details>
+
+<details><summary>Aetna Medicare - Select  (HMO)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -23619,7 +24479,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Aetna Medicare- Advantra Credit Value/Advantra Gold/Advtantra Silver/Advantra Preferred/Advantra Premier/ Advantra Premier Plus/Advantra Value (PPO)
+</details>
+
+<details><summary>Aetna Medicare- Advantra Credit Value/Advantra Gold/Advtantra Silver/Advantra Preferred/Advantra Premier/ Advantra Premier Plus/Advantra Value (PPO)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -23637,7 +24499,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Aetna Medicare- Bronze Plan (PPO) /Core Plan (PPO)/Deluxe Plan (PPO)/Discover Plan (PPO)
+</details>
+
+<details><summary>Aetna Medicare- Bronze Plan (PPO) /Core Plan (PPO)/Deluxe Plan (PPO)/Discover Plan (PPO)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -23655,7 +24519,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Aetna Medicare- Core Plan (PPO)
+</details>
+
+<details><summary>Aetna Medicare- Core Plan (PPO)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -23673,7 +24539,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Aetna Medicare- Deluxe Plan (PPO)
+</details>
+
+<details><summary>Aetna Medicare- Deluxe Plan (PPO)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -23691,7 +24559,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Aetna Medicare- Discover/Discover Value Plan (PPO)
+</details>
+
+<details><summary>Aetna Medicare- Discover/Discover Value Plan (PPO)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -23709,7 +24579,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Aetna Medicare- Dual Choice (PPO-SNP), Aetna Medicare Dual Preferred (PPO-SNP) Aetna Medicare Dual Select Choice (PPO-SNP) Aetna Medicare Dual Signature Select(PPO-SNP)
+</details>
+
+<details><summary>Aetna Medicare- Dual Choice (PPO-SNP), Aetna Medicare Dual Preferred (PPO-SNP) Aetna Medicare Dual Select Choice (PPO-SNP) Aetna Medicare Dual Signature Select(PPO-SNP)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -23727,7 +24599,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Aetna Medicare- Eagle/Eagle Giveback/Eagle I & II/ Eagle Plus(PPO)
+</details>
+
+<details><summary>Aetna Medicare- Eagle/Eagle Giveback/Eagle I & II/ Eagle Plus(PPO)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -23745,7 +24619,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Aetna Medicare- Elite/Elite Plan 3 (PPO)
+</details>
+
+<details><summary>Aetna Medicare- Elite/Elite Plan 3 (PPO)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -23763,7 +24639,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Aetna Medicare Enhanced Select (PPO) - H1608-064
+</details>
+
+<details><summary>Aetna Medicare Enhanced Select (PPO) - H1608-064</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -23781,7 +24659,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Aetna Medicare- Explorer/Explore Premier/Explore Premier II (PPO)
+</details>
+
+<details><summary>Aetna Medicare- Explorer/Explore Premier/Explore Premier II (PPO)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -23799,7 +24679,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Aetna Medicare- FL Dual Select (HMO D-SNP), Aetna Medicare Assure (HMO-SNP), Aetna Medicare Assure Flex (HMO D-SNP), Aetna Medicare Assure Plus (HMO-POS D-SNP), Aetna Medicare Assure Primary (HMO D-SNP
+</details>
+
+<details><summary>Aetna Medicare- FL Dual Select (HMO D-SNP), Aetna Medicare Assure (HMO-SNP), Aetna Medicare Assure Flex (HMO D-SNP), Aetna Medicare Assure Plus (HMO-POS D-SNP), Aetna Medicare Assure Primary (HMO D-SNP</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -23817,7 +24699,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Aetna Medicare- Freedom/Freedom Core/Freedom Plus/Freedom Preferred (PPO)
+</details>
+
+<details><summary>Aetna Medicare- Freedom/Freedom Core/Freedom Plus/Freedom Preferred (PPO)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -23835,7 +24719,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Aetna Medicare- Giveback Choice/Giveback Choice Plus (PPO)
+</details>
+
+<details><summary>Aetna Medicare- Giveback Choice/Giveback Choice Plus (PPO)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -23853,7 +24739,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Aetna Medicare- Gold Plan/Platinum Plan PPO
+</details>
+
+<details><summary>Aetna Medicare- Gold Plan/Platinum Plan PPO</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -23871,7 +24759,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Aetna Medicare Preferred/Preferred Premium (PPO)
+</details>
+
+<details><summary>Aetna Medicare Preferred/Preferred Premium (PPO)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -23889,7 +24779,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Aetna Medicare- Premier/Premier Regional PPO/Premier 1 & 2/Premier Plus (PPO)
+</details>
+
+<details><summary>Aetna Medicare- Premier/Premier Regional PPO/Premier 1 & 2/Premier Plus (PPO)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -23907,7 +24799,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Aetna Medicare- SmartFit/SmartFit Plan (PPO) / SamrtSaver Elite Plan PPO
+</details>
+
+<details><summary>Aetna Medicare- SmartFit/SmartFit Plan (PPO) / SamrtSaver Elite Plan PPO</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -23925,7 +24819,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Aetna Medicare- Value Plan/Value Advantra/Value Plus/Value Plus Signature (PPO)
+</details>
+
+<details><summary>Aetna Medicare- Value Plan/Value Advantra/Value Plus/Value Plus Signature (PPO)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -23943,7 +24839,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Aetna Medicare-Core Elite Plan (PPO)
+</details>
+
+<details><summary>Aetna Medicare-Core Elite Plan (PPO)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -23961,7 +24859,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Aetna Medicare-Medicare Choice (PPO)
+</details>
+
+<details><summary>Aetna Medicare-Medicare Choice (PPO)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -23979,7 +24879,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Aetna Medicare-The Valley Plan (PPO)
+</details>
+
+<details><summary>Aetna Medicare-The Valley Plan (PPO)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -23997,7 +24899,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Aetna Open Access- Aetna Choice® POS II/Elect Choice EPO/Health Network Option/Managed Choice POS/ HealthNetwork Only/Aetna Select
+</details>
+
+<details><summary>Aetna Open Access- Aetna Choice® POS II/Elect Choice EPO/Health Network Option/Managed Choice POS/ HealthNetwork Only/Aetna Select</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -24015,7 +24919,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Aetna Premier Care Network Plus - Small Group Employer Plan - Aetna Florida Elect Choice Open Access (OAEPO)/Aetna Florida Health Network Only (HNOnly)/Aetna 2024 Plan Providers/Open Access Aetna Select
+</details>
+
+<details><summary>Aetna Premier Care Network Plus - Small Group Employer Plan - Aetna Florida Elect Choice Open Access (OAEPO)/Aetna Florida Health Network Only (HNOnly)/Aetna 2024 Plan Providers/Open Access Aetna Select</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -24033,7 +24939,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Aetna Standard Plan - Aetna HMO/Silver/Gold
+</details>
+
+<details><summary>Aetna Standard Plan - Aetna HMO/Silver/Gold</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -24051,7 +24959,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Aetna Standard Plan - Aetna Managed Choice® POS/Open Choice PPO/QPOS/Aetna Select/Aetna Voluntary Plan
+</details>
+
+<details><summary>Aetna Standard Plan - Aetna Managed Choice® POS/Open Choice PPO/QPOS/Aetna Select/Aetna Voluntary Plan</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -24069,7 +24979,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Aetna Standard Plan- Aetna Affordable Health Choices® limited benefits insurance plan (SRC only)
+</details>
+
+<details><summary>Aetna Standard Plan- Aetna Affordable Health Choices® limited benefits insurance plan (SRC only)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -24087,7 +24999,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Aetna Whole Health- Orlando HNO/Orlando Open Access Aetna Select/Open Access Elect Choice
+</details>
+
+<details><summary>Aetna Whole Health- Orlando HNO/Orlando Open Access Aetna Select/Open Access Elect Choice</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -24105,7 +25019,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Allegiance Benefit Plan (Cigna Open Access Plus Network)
+</details>
+
+<details><summary>Allegiance Benefit Plan (Cigna Open Access Plus Network)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -24123,7 +25039,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### AllSavers (UHC)  (Choice and Choice Plus)
+</details>
+
+<details><summary>AllSavers (UHC)  (Choice and Choice Plus)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -24141,7 +25059,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### AllSavers (UHC) (Charter and Navigate)
+</details>
+
+<details><summary>AllSavers (UHC) (Charter and Navigate)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -24159,7 +25079,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Ambetter ALL PLANS
+</details>
+
+<details><summary>Ambetter ALL PLANS</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -24177,7 +25099,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Anthem BCBS-Blue View Vision/Blue Vision Insight/Blue Vision Insight Plus/Vision Insight Plus Select/IBM Vision Plan/Vision Access Value/Vision Minimum Premium Plan
+</details>
+
+<details><summary>Anthem BCBS-Blue View Vision/Blue Vision Insight/Blue Vision Insight Plus/Vision Insight Plus Select/IBM Vision Plan/Vision Access Value/Vision Minimum Premium Plan</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -24195,7 +25119,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Anthem Blue- (Select Network) Alliance/ Blue Choice Open Access/Blue Choice Options/Blue Value/HealthSync
+</details>
+
+<details><summary>Anthem Blue- (Select Network) Alliance/ Blue Choice Open Access/Blue Choice Options/Blue Value/HealthSync</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -24213,7 +25139,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Anthem Blue- (Select Network) Century Preferred/High Value Network/Horizon Managed Care Network/National PPO/Network S/Network Blue/ Select PPO
+</details>
+
+<details><summary>Anthem Blue- (Select Network) Century Preferred/High Value Network/Horizon Managed Care Network/National PPO/Network S/Network Blue/ Select PPO</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -24231,7 +25159,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Anthem Blue- Grocery/Traditional/Traditional PPO
+</details>
+
+<details><summary>Anthem Blue- Grocery/Traditional/Traditional PPO</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -24249,7 +25179,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Anthem Blue Medicare- Medicare Advantage (PPO)
+</details>
+
+<details><summary>Anthem Blue Medicare- Medicare Advantage (PPO)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -24267,7 +25199,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Anthem Blue- POS
+</details>
+
+<details><summary>Anthem Blue- POS</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -24285,7 +25219,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Anthem Blue-Pathway Essentials/Essentials Standard PPO/EPO
+</details>
+
+<details><summary>Anthem Blue-Pathway Essentials/Essentials Standard PPO/EPO</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -24303,7 +25239,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Anthem Blue-Preferred POS (Select Network)
+</details>
+
+<details><summary>Anthem Blue-Preferred POS (Select Network)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -24321,7 +25259,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Avesis Vision
+</details>
+
+<details><summary>Avesis Vision</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -24339,7 +25279,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### BCBS BlueCare/Blue Care w. Pediactric Vision - Alpha Prefix XJGH, VMBH
+</details>
+
+<details><summary>BCBS BlueCare/Blue Care w. Pediactric Vision - Alpha Prefix XJGH, VMBH</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -24357,7 +25299,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### BCBS BlueMedicare Classic/Classic Plus (HMO) - Alpha Prefix XJRH
+</details>
+
+<details><summary>BCBS BlueMedicare Classic/Classic Plus (HMO) - Alpha Prefix XJRH</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -24375,7 +25319,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### BCBS BlueOptions/Blue Options Hospial Surgical Plus/Blue Options with Pediactric Vision
+</details>
+
+<details><summary>BCBS BlueOptions/Blue Options Hospial Surgical Plus/Blue Options with Pediactric Vision</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -24393,7 +25339,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### BCBS BlueSelect/BlueSelect Hospital Surgical Plus/BlueSelect w. Pediatric Vision
+</details>
+
+<details><summary>BCBS BlueSelect/BlueSelect Hospital Surgical Plus/BlueSelect w. Pediatric Vision</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -24411,7 +25359,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### BCBS of FL BlueCare/Blue Care w. Pediactric Vision - Alpha Prefix XJGH, VMBH, VMEH
+</details>
+
+<details><summary>BCBS of FL BlueCare/Blue Care w. Pediactric Vision - Alpha Prefix XJGH, VMBH, VMEH</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -24429,7 +25379,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### BCBS of FL BlueChoice
+</details>
+
+<details><summary>BCBS of FL BlueChoice</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -24447,7 +25399,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### BCBS of FL BlueMedicare Group PPO (Employer PPO)
+</details>
+
+<details><summary>BCBS of FL BlueMedicare Group PPO (Employer PPO)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -24465,7 +25419,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### BCBS of FL BlueMedicare Patriot (PPO)
+</details>
+
+<details><summary>BCBS of FL BlueMedicare Patriot (PPO)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -24483,7 +25439,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### BCBS of FL BlueMedicare Premier (HMO) - Alpha Prefix XJIH
+</details>
+
+<details><summary>BCBS of FL BlueMedicare Premier (HMO) - Alpha Prefix XJIH</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -24501,7 +25459,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### BCBS of FL BlueMedicare Select (PPO)
+</details>
+
+<details><summary>BCBS of FL BlueMedicare Select (PPO)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -24519,7 +25479,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### BCBS of FL BlueMedicare Value PPO/ BlueMedicare Value w. Level 1 -
+</details>
+
+<details><summary>BCBS of FL BlueMedicare Value PPO/ BlueMedicare Value w. Level 1 -</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -24537,7 +25499,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### BCBS of FL BlueOptions Commercial PPO
+</details>
+
+<details><summary>BCBS of FL BlueOptions Commercial PPO</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -24555,7 +25519,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### BCBS of FL BlueSelect Commercial PPO - Alpha Prefix VMAH
+</details>
+
+<details><summary>BCBS of FL BlueSelect Commercial PPO - Alpha Prefix VMAH</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -24573,7 +25539,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### BCBS of FL Federal Employee Program - alpha prefix R
+</details>
+
+<details><summary>BCBS of FL Federal Employee Program - alpha prefix R</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -24591,7 +25559,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### BCBS of FL SimplyBlue - Alpha Prefix FSOH
+</details>
+
+<details><summary>BCBS of FL SimplyBlue - Alpha Prefix FSOH</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -24609,7 +25579,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### BCBS Out of State California ONLY -
+</details>
+
+<details><summary>BCBS Out of State California ONLY -</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -24627,7 +25599,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### BCBS Out of State Commercial PPO Plans -all plans that are not BCBS of Florida; please ask the patient to check the front and back copy of the card for the state. If the card says "Anthem", please see ANTHEM on the insurance guide
+</details>
+
+<details><summary>BCBS Out of State Commercial PPO Plans -all plans that are not BCBS of Florida; please ask the patient to check the front and back copy of the card for the state. If the card says "Anthem", please see ANTHEM on the insurance guide</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -24645,7 +25619,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### BCBS Out of State HMO Plans - ALL PLANS Commercial and Medicare HMO PLANS
+</details>
+
+<details><summary>BCBS Out of State HMO Plans - ALL PLANS Commercial and Medicare HMO PLANS</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -24663,7 +25639,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### BCBS Out of State Medicare HMO-POS Plans - Medicare HMO POS Plans do have OON benefits. Note: BCBS Michigan Medicare HMO-POS (alpha prefix XYK)
+</details>
+
+<details><summary>BCBS Out of State Medicare HMO-POS Plans - Medicare HMO POS Plans do have OON benefits. Note: BCBS Michigan Medicare HMO-POS (alpha prefix XYK)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -24681,7 +25659,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### BCBS Out of State Medicare PPO Plans -all plans that are not BCBS of Florida; please ask the patient to check the front and back copy of the card for the state. If the card says "Anthem", please see ANTHEM on the insurance guide
+</details>
+
+<details><summary>BCBS Out of State Medicare PPO Plans -all plans that are not BCBS of Florida; please ask the patient to check the front and back copy of the card for the state. If the card says "Anthem", please see ANTHEM on the insurance guide</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -24699,7 +25679,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Carefirst BCBS Commercial - Comprehensive Major Medical
+</details>
+
+<details><summary>Carefirst BCBS Commercial - Comprehensive Major Medical</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -24717,7 +25699,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Carefirst BCBS Medicare Advantage (PPO)
+</details>
+
+<details><summary>Carefirst BCBS Medicare Advantage (PPO)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -24735,7 +25719,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Carefirst Commercial - BlueChoice Advantage/BlueChoice Advantage HDHP (PPO)
+</details>
+
+<details><summary>Carefirst Commercial - BlueChoice Advantage/BlueChoice Advantage HDHP (PPO)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -24753,7 +25739,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Carefirst Commercial - BlueChoice Opt-Out Open Access/BlueChoice Opt-Out Plus Open Access (HMO)
+</details>
+
+<details><summary>Carefirst Commercial - BlueChoice Opt-Out Open Access/BlueChoice Opt-Out Plus Open Access (HMO)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -24771,7 +25759,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Carefirst Commercial - BlueChoice Plus/BlueHPN/BluePreferred
+</details>
+
+<details><summary>Carefirst Commercial - BlueChoice Plus/BlueHPN/BluePreferred</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -24789,7 +25779,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Carefirst Commercial - CareFirst Regional
+</details>
+
+<details><summary>Carefirst Commercial - CareFirst Regional</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -24807,7 +25799,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Carefirst Commercial - HealthyBlue Plus/HealthyBlue PPO
+</details>
+
+<details><summary>Carefirst Commercial - HealthyBlue Plus/HealthyBlue PPO</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -24825,7 +25819,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Carefirst Commercial - HealthyBlue/HealthyBlue 2.0/HealthyBlue Advantage (HMO)
+</details>
+
+<details><summary>Carefirst Commercial - HealthyBlue/HealthyBlue 2.0/HealthyBlue Advantage (HMO)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -24843,7 +25839,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Carefirst Commercial - PPO/EPO (Exclusive Provider Organization)
+</details>
+
+<details><summary>Carefirst Commercial - PPO/EPO (Exclusive Provider Organization)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -24861,7 +25859,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### CareFirst Commercial - Regional Provider Directory
+</details>
+
+<details><summary>CareFirst Commercial - Regional Provider Directory</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -24879,7 +25879,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Carefirst Commercial - Standard BlueChoice (HMO)
+</details>
+
+<details><summary>Carefirst Commercial - Standard BlueChoice (HMO)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -24897,7 +25899,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Carefirst Commercial - Traditional/Indemnity
+</details>
+
+<details><summary>Carefirst Commercial - Traditional/Indemnity</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -24915,7 +25919,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Carefirst Commerical - BlueCard PAR/BlueCard PPO/EPO/BlueCard Traditional
+</details>
+
+<details><summary>Carefirst Commerical - BlueCard PAR/BlueCard PPO/EPO/BlueCard Traditional</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -24933,7 +25939,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### ChampVA (VACCN)
+</details>
+
+<details><summary>ChampVA (VACCN)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -24951,7 +25959,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Cigna Commercial - Choice Fund PPO/ChoiceFund OA Plus/ OA Plus with CareLink/Local Plus/Open Access Plus
+</details>
+
+<details><summary>Cigna Commercial - Choice Fund PPO/ChoiceFund OA Plus/ OA Plus with CareLink/Local Plus/Open Access Plus</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -24969,7 +25979,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Cigna Commercial - Florida Connect
+</details>
+
+<details><summary>Cigna Commercial - Florida Connect</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -24987,7 +25999,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Cigna Commercial - Florida Network (HMO)/HealthCare of Florida, Inc. - Orlando HMO
+</details>
+
+<details><summary>Cigna Commercial - Florida Network (HMO)/HealthCare of Florida, Inc. - Orlando HMO</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -25005,7 +26019,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Cigna Commercial - Local Plus  - Oscar
+</details>
+
+<details><summary>Cigna Commercial - Local Plus  - Oscar</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -25023,7 +26039,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Cigna Commercial - Open Access Plus - Oscar
+</details>
+
+<details><summary>Cigna Commercial - Open Access Plus - Oscar</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -25041,7 +26059,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Cigna Commercial - Orlando HMO Network
+</details>
+
+<details><summary>Cigna Commercial - Orlando HMO Network</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -25059,7 +26079,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Cigna Commercial - PPO
+</details>
+
+<details><summary>Cigna Commercial - PPO</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -25077,7 +26099,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Cigna Global Health Benefits (BENEFITS/ELIGIBILITY NEEDS TO BE CHECKED EVERYTIME)
+</details>
+
+<details><summary>Cigna Global Health Benefits (BENEFITS/ELIGIBILITY NEEDS TO BE CHECKED EVERYTIME)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -25095,7 +26119,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Cigna Medicare - Courage/Preferred/Preferred Group Plans/Preferred Savings(HMO)
+</details>
+
+<details><summary>Cigna Medicare - Courage/Preferred/Preferred Group Plans/Preferred Savings(HMO)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -25113,7 +26139,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Cigna Medicare - TotalCare (HMO D-SNP)
+</details>
+
+<details><summary>Cigna Medicare - TotalCare (HMO D-SNP)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -25131,7 +26159,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Cigna Medicare - TotalCare Plus (HMO D-SNP)
+</details>
+
+<details><summary>Cigna Medicare - TotalCare Plus (HMO D-SNP)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -25149,7 +26179,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Cigna Medicare PPO - ALL PLANS  - AS OF 01/01/25- PLAN IS NO LONGER OFFERED IN FL MARKETS
+</details>
+
+<details><summary>Cigna Medicare PPO - ALL PLANS  - AS OF 01/01/25- PLAN IS NO LONGER OFFERED IN FL MARKETS</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -25167,7 +26199,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Eyemed Vision
+</details>
+
+<details><summary>Eyemed Vision</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -25185,7 +26219,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### FEP Blue Vision
+</details>
+
+<details><summary>FEP Blue Vision</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -25203,7 +26239,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### First Health Network (through Aetna and/or PHP Network) PLEASE ASK THE PATIENT FOR THE HEALTH PLAN NAME ON THE CARD AND LOAD THE PLAN INTO NEXTGEN ACCORDING TO THEIR HEALTH PLAN
+</details>
+
+<details><summary>First Health Network (through Aetna and/or PHP Network) PLEASE ASK THE PATIENT FOR THE HEALTH PLAN NAME ON THE CARD AND LOAD THE PLAN INTO NEXTGEN ACCORDING TO THEIR HEALTH PLAN</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -25221,7 +26259,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### GEHA (United Healthcare Choice Plus Network) PLEASE INCLUDE THE SUFFIX IN THE POLICY # ON THE ID CARD AS GEHA (EX: 1234567GEHA)
+</details>
+
+<details><summary>GEHA (United Healthcare Choice Plus Network) PLEASE INCLUDE THE SUFFIX IN THE POLICY # ON THE ID CARD AS GEHA (EX: 1234567GEHA)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -25239,7 +26279,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Golden Rule (UHC Choice Plus Network)
+</details>
+
+<details><summary>Golden Rule (UHC Choice Plus Network)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -25257,7 +26299,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Humana  Medicare- DUAL  Gold Plus SNP-DE HMO D-SNP
+</details>
+
+<details><summary>Humana  Medicare- DUAL  Gold Plus SNP-DE HMO D-SNP</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -25275,7 +26319,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Humana  Medicare- DUAL Choice Florida SNP-DE PPO D-SNP LEA is OUT OF NETWORK. PATIENT HAS OON BENEFITS. PLEASE INFORM PATIENT OF POSSIBLE HIGHER OUT OF POCKET COSTS
+</details>
+
+<details><summary>Humana  Medicare- DUAL Choice Florida SNP-DE PPO D-SNP LEA is OUT OF NETWORK. PATIENT HAS OON BENEFITS. PLEASE INFORM PATIENT OF POSSIBLE HIGHER OUT OF POCKET COSTS</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -25293,7 +26339,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Humana Commercial - ALL PLANS  - AS OF 01/01/25- PLAN IS NO LONGER OFFERED IN FL MARKETS
+</details>
+
+<details><summary>Humana Commercial - ALL PLANS  - AS OF 01/01/25- PLAN IS NO LONGER OFFERED IN FL MARKETS</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -25311,7 +26359,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Humana Medicare- Careplus (HMO)/Gold Plus (HMO)/Community HMO/USAA Honor HMO
+</details>
+
+<details><summary>Humana Medicare- Careplus (HMO)/Gold Plus (HMO)/Community HMO/USAA Honor HMO</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -25329,7 +26379,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Humana Medicare- Choice Florida PPO/ Choice Regional PPO/ USAA Honor PPO LEA is OUT OF NETWORK. PATIENT HAS OON BENEFITS. PLEASE INFORM PATIENT OF POSSIBLE HIGHER OUT OF POCKET COSTS
+</details>
+
+<details><summary>Humana Medicare- Choice Florida PPO/ Choice Regional PPO/ USAA Honor PPO LEA is OUT OF NETWORK. PATIENT HAS OON BENEFITS. PLEASE INFORM PATIENT OF POSSIBLE HIGHER OUT OF POCKET COSTS</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -25347,7 +26399,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Humana Medicare- Choice Florida/Employer Plus/USAA Honor/Gold Choice Network PFFS (PPO) LEA is OUT OF NETWORK. PATIENT HAS OON BENEFITS. PLEASE INFORM PATIENT OF POSSIBLE HIGHER OUT OF POCKET COSTS
+</details>
+
+<details><summary>Humana Medicare- Choice Florida/Employer Plus/USAA Honor/Gold Choice Network PFFS (PPO) LEA is OUT OF NETWORK. PATIENT HAS OON BENEFITS. PLEASE INFORM PATIENT OF POSSIBLE HIGHER OUT OF POCKET COSTS</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -25365,7 +26419,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Humana Medicare Fully Integrated (HMO D-SNP)
+</details>
+
+<details><summary>Humana Medicare Fully Integrated (HMO D-SNP)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -25383,7 +26439,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Humana Medicare Gold Plus SNP-DE (HMO D-SNP) and H1036-102 (HMO-DNSP)
+</details>
+
+<details><summary>Humana Medicare Gold Plus SNP-DE (HMO D-SNP) and H1036-102 (HMO-DNSP)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -25401,7 +26459,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Lutheran Preferred (PHP Network)
+</details>
+
+<details><summary>Lutheran Preferred (PHP Network)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -25419,7 +26479,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Mailhandlers (Aetna Choice® POS II Network)
+</details>
+
+<details><summary>Mailhandlers (Aetna Choice® POS II Network)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -25437,7 +26499,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### March Vision
+</details>
+
+<details><summary>March Vision</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -25455,7 +26519,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Medicare
+</details>
+
+<details><summary>Medicare</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -25473,7 +26539,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Meritain Gulf Coast (Aetna Choice POS II Network)
+</details>
+
+<details><summary>Meritain Gulf Coast (Aetna Choice POS II Network)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -25491,7 +26559,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Meritain Health - Sarasota Memorial (BASIC AND/OR COMPREHENSIVE PLAN) PLEASE ASK THE PATIENT IF THE CARD HAS "SMH" ON THEIR CARD. IF THE CARD SAYS BASIC OR COMPREHENSIVE PLAN, WE ARE OUT OF NETWORK AND THERE ARE NO OON BENEFITS
+</details>
+
+<details><summary>Meritain Health - Sarasota Memorial (BASIC AND/OR COMPREHENSIVE PLAN) PLEASE ASK THE PATIENT IF THE CARD HAS "SMH" ON THEIR CARD. IF THE CARD SAYS BASIC OR COMPREHENSIVE PLAN, WE ARE OUT OF NETWORK AND THERE ARE NO OON BENEFITS</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -25509,7 +26579,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Meritain Health - Sarasota Memorial (EXTENSIVE MEDICAL PLAN) PLEASE ASK THE PATIENT IF THE CARD HAS "SMH" ON THEIR CARD AND THE CARD MUST SAY EXTENDED MEDICAL PLAN. THE EXTENDED MEDICAL PLAN APPLIES TOWARDS THE PATIENT'S TIER 2 BENEFITS - AETNA CHOICE POS II
+</details>
+
+<details><summary>Meritain Health - Sarasota Memorial (EXTENSIVE MEDICAL PLAN) PLEASE ASK THE PATIENT IF THE CARD HAS "SMH" ON THEIR CARD AND THE CARD MUST SAY EXTENDED MEDICAL PLAN. THE EXTENDED MEDICAL PLAN APPLIES TOWARDS THE PATIENT'S TIER 2 BENEFITS - AETNA CHOICE POS II</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -25527,7 +26599,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Multiplan PLEASE ASK THE PATIENT FOR THE HEALTH PLAN NAME ON THE CARD AND LOAD THE PLAN INTO NEXTGEN ACCORDING TO THEIR HEALTH PLAN
+</details>
+
+<details><summary>Multiplan PLEASE ASK THE PATIENT FOR THE HEALTH PLAN NAME ON THE CARD AND LOAD THE PLAN INTO NEXTGEN ACCORDING TO THEIR HEALTH PLAN</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -25545,7 +26619,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### NALC Health Benefit Plan (Cigna Open Access Plus Network)
+</details>
+
+<details><summary>NALC Health Benefit Plan (Cigna Open Access Plus Network)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -25563,7 +26639,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Optum VA-VETERANS AFFAIRS Community Care Network (CCN)
+</details>
+
+<details><summary>Optum VA-VETERANS AFFAIRS Community Care Network (CCN)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -25581,7 +26659,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### PHCS PLEASE ASK THE PATIENT FOR THE HEALTH PLAN NAME ON THE CARD AND LOAD THE PLAN INTO NEXTGEN ACCORDING TO THEIR HEALTH PLAN
+</details>
+
+<details><summary>PHCS PLEASE ASK THE PATIENT FOR THE HEALTH PLAN NAME ON THE CARD AND LOAD THE PLAN INTO NEXTGEN ACCORDING TO THEIR HEALTH PLAN</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -25599,7 +26679,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Railroad Medicare - CONFIRM WITH PT AT THE BOTTOM OF THE ID CARD IT SAYS "RAILROAD RETIREMENT BOARD"
+</details>
+
+<details><summary>Railroad Medicare - CONFIRM WITH PT AT THE BOTTOM OF THE ID CARD IT SAYS "RAILROAD RETIREMENT BOARD"</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -25617,7 +26699,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Spectera Vision
+</details>
+
+<details><summary>Spectera Vision</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -25635,7 +26719,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Surest (United Healthcare Choice Plus Network)
+</details>
+
+<details><summary>Surest (United Healthcare Choice Plus Network)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -25653,7 +26739,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### The Empire Plan-NYSHIP
+</details>
+
+<details><summary>The Empire Plan-NYSHIP</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -25671,7 +26759,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Tricare Prime LEA is OUT OF NETWORK. PATIENT HAS OON BENEFITS. PLEASE INFORM PATIENT OF POSSIBLE HIGHER OUT OF POCKET COSTS (see note). covered for a Routine Eye Exam every two years
+</details>
+
+<details><summary>Tricare Prime LEA is OUT OF NETWORK. PATIENT HAS OON BENEFITS. PLEASE INFORM PATIENT OF POSSIBLE HIGHER OUT OF POCKET COSTS (see note). covered for a Routine Eye Exam every two years</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -25689,7 +26779,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Tricare Select  Routine Eye Exams are NON-covered. FOR THE PROVIDERS THAT ARE NON-PAR PATIENT HAS OON BENEFITS. PLEASE INFORM PATIENT OF POSSIBLE HIGHER OUT OF POCKET COSTS
+</details>
+
+<details><summary>Tricare Select  Routine Eye Exams are NON-covered. FOR THE PROVIDERS THAT ARE NON-PAR PATIENT HAS OON BENEFITS. PLEASE INFORM PATIENT OF POSSIBLE HIGHER OUT OF POCKET COSTS</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -25707,7 +26799,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### UHP Management (PHCS Network)
+</details>
+
+<details><summary>UHP Management (PHCS Network)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -25725,7 +26819,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### UMR (United Healthcare Core Network)
+</details>
+
+<details><summary>UMR (United Healthcare Core Network)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -25743,7 +26839,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### United Healthcare Care Advantage FL-E001 (PPO I-SNP)
+</details>
+
+<details><summary>United Healthcare Care Advantage FL-E001 (PPO I-SNP)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -25761,7 +26859,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### United Healthcare Charter EPO/Charter POS
+</details>
+
+<details><summary>United Healthcare Charter EPO/Charter POS</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -25779,7 +26879,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### United Healthcare Charter HMO/HMO Plus
+</details>
+
+<details><summary>United Healthcare Charter HMO/HMO Plus</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -25797,7 +26899,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### United Healthcare Choice EPO/Choice Plus POS
+</details>
+
+<details><summary>United Healthcare Choice EPO/Choice Plus POS</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -25815,7 +26919,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### United Healthcare Choice Plan Network- The Oxford Plan
+</details>
+
+<details><summary>United Healthcare Choice Plan Network- The Oxford Plan</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -25833,7 +26939,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### United Healthcare Choice Plus HMO
+</details>
+
+<details><summary>United Healthcare Choice Plus HMO</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -25851,7 +26959,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### United Healthcare Choice Plus POS- the card will say HCA Healthcare-If patient has surgery, OOP costs are higher at 75% coinsurance as the patient's preferred facility is HCA Healthcare
+</details>
+
+<details><summary>United Healthcare Choice Plus POS- the card will say HCA Healthcare-If patient has surgery, OOP costs are higher at 75% coinsurance as the patient's preferred facility is HCA Healthcare</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -25869,7 +26979,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### United Healthcare Compass ALL Plans
+</details>
+
+<details><summary>United Healthcare Compass ALL Plans</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -25887,7 +26999,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### United Healthcare Complete Care Walgreens FL-0014 (HMO-POS C-SNP)
+</details>
+
+<details><summary>United Healthcare Complete Care Walgreens FL-0014 (HMO-POS C-SNP)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -25905,7 +27019,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### United Healthcare Core EPO/Core Choice Plus
+</details>
+
+<details><summary>United Healthcare Core EPO/Core Choice Plus</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -25923,7 +27039,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### United Healthcare CORE HMO
+</details>
+
+<details><summary>United Healthcare CORE HMO</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -25941,7 +27059,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### United Healthcare DOCTORS PLAN EPO/ PLAN PLUS POS
+</details>
+
+<details><summary>United Healthcare DOCTORS PLAN EPO/ PLAN PLUS POS</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -25959,7 +27079,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### United Healthcare DOCTORS PLAN PLUS HMO
+</details>
+
+<details><summary>United Healthcare DOCTORS PLAN PLUS HMO</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -25977,7 +27099,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### United Healthcare Dual Complete™ (HMO SNP)
+</details>
+
+<details><summary>United Healthcare Dual Complete™ (HMO SNP)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -25995,7 +27119,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### United Healthcare Dual Complete™ (PPO SNP)
+</details>
+
+<details><summary>United Healthcare Dual Complete™ (PPO SNP)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -26013,7 +27139,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### United Healthcare ER Wrap (W500 on back of card)
+</details>
+
+<details><summary>United Healthcare ER Wrap (W500 on back of card)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -26031,7 +27159,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### United Healthcare FL ALL Medicaid Plans
+</details>
+
+<details><summary>United Healthcare FL ALL Medicaid Plans</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -26049,7 +27179,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### United Healthcare FL CHIP/Medicaid
+</details>
+
+<details><summary>United Healthcare FL CHIP/Medicaid</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -26067,7 +27199,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### United Healthcare Group Medicare Advantage (HMO)
+</details>
+
+<details><summary>United Healthcare Group Medicare Advantage (HMO)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -26085,7 +27219,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### United Healthcare Group Medicare Advantage (PPO)
+</details>
+
+<details><summary>United Healthcare Group Medicare Advantage (PPO)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -26103,7 +27239,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### United Healthcare Heritage ALL Plans
+</details>
+
+<details><summary>United Healthcare Heritage ALL Plans</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -26121,7 +27259,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### United Healthcare Indemnity-we will only accept this plan as a secondary/supplement
+</details>
+
+<details><summary>United Healthcare Indemnity-we will only accept this plan as a secondary/supplement</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -26139,7 +27279,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### United Healthcare Individual Exchange (FLONEX) - Essential (Bronze), Value (Bronz, Silver, Gold), Advantage (Silver, Gold), Copay Focus (Bronze, Silver, Gold), Virtual (Bronze, Silver, Gold)
+</details>
+
+<details><summary>United Healthcare Individual Exchange (FLONEX) - Essential (Bronze), Value (Bronz, Silver, Gold), Advantage (Silver, Gold), Copay Focus (Bronze, Silver, Gold), Virtual (Bronze, Silver, Gold)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -26157,7 +27299,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### United Healthcare Long Term Care
+</details>
+
+<details><summary>United Healthcare Long Term Care</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -26175,7 +27319,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### United Healthcare Mid-Atlantic Gated HMO
+</details>
+
+<details><summary>United Healthcare Mid-Atlantic Gated HMO</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -26193,7 +27339,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### United Healthcare NATIONAL ANCILLARY
+</details>
+
+<details><summary>United Healthcare NATIONAL ANCILLARY</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -26211,7 +27359,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### United Healthcare Navigate HMO/ HMO Plus/ Navigate POS/Navigate EPO
+</details>
+
+<details><summary>United Healthcare Navigate HMO/ HMO Plus/ Navigate POS/Navigate EPO</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -26229,7 +27379,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### United Healthcare NexusACO NR EPO,NR POS, R EPO, R POS/NR HMO/R HMO
+</details>
+
+<details><summary>United Healthcare NexusACO NR EPO,NR POS, R EPO, R POS/NR HMO/R HMO</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -26247,7 +27399,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### United Healthcare NexusACO OA  POS/ OA EPO
+</details>
+
+<details><summary>United Healthcare NexusACO OA  POS/ OA EPO</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -26265,7 +27419,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### United Healthcare NexusACO OA HMO
+</details>
+
+<details><summary>United Healthcare NexusACO OA HMO</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -26283,7 +27439,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### United Healthcare NHP-Neighborhood Health Plan/ Direct Access, Gated L1, L2, L3
+</details>
+
+<details><summary>United Healthcare NHP-Neighborhood Health Plan/ Direct Access, Gated L1, L2, L3</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -26301,7 +27459,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### United Healthcare Nursing Home Plan EX-F006 (HMO-POS I-SNP)/F001-F002 (PPO I-SNP)
+</details>
+
+<details><summary>United Healthcare Nursing Home Plan EX-F006 (HMO-POS I-SNP)/F001-F002 (PPO I-SNP)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -26319,7 +27479,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### United Healthcare PPO
+</details>
+
+<details><summary>United Healthcare PPO</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -26337,7 +27499,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### United Healthcare Select EPO/Select Plus POS
+</details>
+
+<details><summary>United Healthcare Select EPO/Select Plus POS</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -26355,7 +27519,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### United Healthcare Select Plus HMO
+</details>
+
+<details><summary>United Healthcare Select Plus HMO</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -26373,7 +27539,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### United Healthcare Shared Services - Options PPO Network
+</details>
+
+<details><summary>United Healthcare Shared Services - Options PPO Network</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -26391,7 +27559,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### United Healthcare The Villages Medicare Advantage FL-0004/004P (HMO-POS)
+</details>
+
+<details><summary>United Healthcare The Villages Medicare Advantage FL-0004/004P (HMO-POS)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -26409,7 +27579,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Versant: Davis Vision
+</details>
+
+<details><summary>Versant: Davis Vision</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -26427,7 +27599,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Versant: Superior Vision
+</details>
+
+<details><summary>Versant: Superior Vision</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -26445,7 +27619,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### VSP Vision - DO NOT SCHEDULE ANY VSP AFTER 1/1/2025 WITH DR. GUTTI, DR. HOLMAN AND DR. WEHRLY
+</details>
+
+<details><summary>VSP Vision - DO NOT SCHEDULE ANY VSP AFTER 1/1/2025 WITH DR. GUTTI, DR. HOLMAN AND DR. WEHRLY</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -26463,7 +27639,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Web TPA
+</details>
+
+<details><summary>Web TPA</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -26481,176 +27659,1933 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
+</details>
 
 ## US Eye Insurance Guide(Retina Health Center)
 
-| Insurance Plan Name | NextGen Name | Referral and/or Auth Required? | Alexander Eaton, MD | Veronica Kon Graversen, MD |
-| :-- | :-- | :-- | :-- | :-- |
-| AARP Medicare Advantage from UHC FL-0005-0015 (HMO-POS) | AARP Medicare HMO | No Ref/No Auth Required | PAR | PAR |
-| AARP Medicare Advantage from UHC FL-0016-27 (PPO) | AARP Medicare PPO | No Ref/No Auth Required | PAR | PAR |
-| AARP Medicare Advantage from UHC FL-001P (HMO-POS) | AARP Medicare HMO | No Ref/No Auth Required | PAR | PAR |
-| AARP Medicare Advantage from UHC FL-0031 (Regional PPO) | AARP Medicare PPO | No Ref/No Auth Required | PAR | PAR |
-| AARP Medicare Advantage from UHC FL-003P (HMO-POS) | AARP Medicare HMO | No Ref/No Auth Required | PAR | PAR |
-| AARP Medicare Advantage HMO- WELLMED (Payer ID is WELM2) | AARP WellMed Medicare HMO | No Ref/No Auth Required | PAR | PAR |
-| AARP Medicare Advantage Patriot No Rx FL-MA01 (Regional PPO) | AARP Medicare PPO | No Ref/No Auth Required | PAR | PAR |
-| AARP Medicare Advantage PPO- WELLMED (Payer ID is WELM2) | AARP WellMed Medicare HMO | No Ref/No Auth Required | PAR | PAR |
-| Aetna - Medicare Plan (PPO)/Extended Service Area (ESA)/Choice Plan/Choice Plan PPO | Aetna Medicare PPO | No Ref/No Auth Required | PAR | PAR |
-| Aetna Commercial Healthfund - Aetna Open Access Aetna Select℠/Elect Choice® EPO /Managed Choice POS/Open Choice PPO/Choice POS & POS II/HealthNetwork Only and Health Network Option | Aetna Commercial PPO | No Ref/No Auth Required | PAR | PAR |
-| Aetna Commercial Innovation - Innovation Health Aetna Select/POS/PPO | Aetna Commercial PPO | No Ref/No Auth Required | PAR | PAR |
-| Aetna Commercial Open Access- Aetna Choice POS II/Aetna Elect Choice EPO/Health Network Option/Managed Choice POS/Health Network Only/Aetna Select | Aetna Commercial PPO | No Ref/No Auth Required | PAR | PAR |
-| Aetna Commercial- Small Group Employer Plan - Aetna Florida Elect Choice Open Access (OAEPO)/Florida Health Network Only (HNOnly) | Aetna Commercial PPO | No Ref/No Auth Required | PAR | PAR |
-| Aetna Commercial Standard Plan - Aetna Managed Choice® POS/Open Choice® PPO/Aetna Select℠/Voluntary Plans | Aetna Commercial PPO | No Ref/No Auth Required | PAR | PAR |
-| Aetna Commercial Whole Health - Southwest Florida - Open Access Elect Choice/Health Network Only/Open Access Aetna Select/Aetna Voluntary Plans | Aetna Commercial PPO | No Ref/No Auth Required | PAR | PAR |
-| Aetna Commercial-Standard Plan - Aetna HMO | Aetna Commercial HMO REFERRAL REQ | Referral Required | PAR | PAR |
-| Aetna Commercial-Standard Plan- Aetna Affordable Health Choices® limited benefits insurance plan (SRC only) | Aetna Comm Fixed Benefits PPO | No Ref/No Auth Required | PAR | PAR |
-| Aetna Medicare - Advantra/Credit Plan/Discover/Discover Value Plan/Preferred/Preferred Premium (HMO) | Aetna Medicare HMO REFERRAL REQ | Referral Required | PAR | PAR |
-| Aetna Medicare - Assure Plus (HMO D-SNP) | Primary: Aetna Dual MCR HMO Primary REFERRAL REQ                                                             Secondary: Aetna Dual Complete MCD HMO Secondary | Referral Required | PAR | PAR |
-| Aetna Medicare - Connect Plus(PPO)/Core Plan/Core Elite Plan (PPO)/Credit Plan (PPO) | Aetna Medicare PPO | No Ref/No Auth Required | PAR | PAR |
-| Aetna Medicare - Eagle/Premier Preferred/Premium/Select/Select Plus/Signature/Smartfit Elite Plan HMO | Aetna Medicare HMO REFERRAL REQ | Referral Required | PAR | PAR |
-| Aetna Medicare - Eagle/Smartfit Elite Plan (HMO POS)/Signature/Silver/Sunrise Plan (HMO-POS) | Aetna Medicare HMO POS | No Ref/No Auth Required | PAR | PAR |
-| Aetna Medicare - Essential/Elite Plan/Explore Plan, Explore Premier, Explore Premier 2, Explore Premier Plan (PPO) | Aetna Medicare PPO | No Ref/No Auth Required | PAR | PAR |
-| Aetna Medicare - Explorer Premier, Explore Value Plan (HMO-POS)/Platinum Plan/Platinum Plan Pus/Premium (HMO-POS) | Aetna Medicare HMO POS | No Ref/No Auth Required | PAR | PAR |
-| Aetna Medicare - Preferred/Preferred Premium (PPO) | Aetna Medicare PPO | No Ref/No Auth Required | PAR | PAR |
-| Aetna Medicare -Advanta Credit Value/Deluxe Plan/Discover Plan/SmartFit/SmartFit Plan (PPO)/Silver Back PPO | Aetna Medicare PPO | No Ref/No Auth Required | PAR | PAR |
-| Aetna Medicare- Advantra - Eagle, Elite, Gold (HMO-POS) | Aetna Medicare HMO POS | No Ref/No Auth Required | PAR | PAR |
-| Aetna Medicare- Coventry Plan (HMO) (CVTY) | Aetna Medicare HMO REFERRAL REQ | Referral Required | PAR | PAR |
-| Aetna Medicare- Dual Assurance/Assurance Plan/Assurance Plus (HMO D-SNP) | Primary: Aetna Dual MCR HMO Primary REFERRAL REQ                                                             Secondary: Aetna Dual Complete MCD HMO Secondary | N/A | PAR | PAR |
-| Aetna Medicare- Dual Choice/Dual Preferred Plan/Dual Select Choice/Dual Signature Choice/Dual Select Signature (PPO D-SNP) | Primary: Aetna Dual Complete Medicare PPO Primary                                            Secondary: Aetna Dual Complete MCD PPO Secondary | No Ref/No Auth Required | PAR | PAR |
-| Aetna Medicare- Eagle/Eagle Giveback/Eagle I & II/ Eagle Plus/Elite/Elite Plan, Elite Plan 3/Enhanced Select(PPO) | Aetna Medicare PPO | No Ref/No Auth Required | PAR | PAR |
-| Aetna Medicare- Freedom/Freedom Core/Freedom Plus/Freedom Preferred/Giveback Choice/Giveback Choice Plus/Gold/Platinum (PPO) | Aetna Medicare PPO | No Ref/No Auth Required | PAR | PAR |
-| Aetna Medicare- Premier/Premier Plan/Premier Plus/ Premier Plus 1,2,3/ Premier Plus 1 and 2 Regional/Premier Plus/Premier Advantra  (PPO) | Aetna Medicare PPO | No Ref/No Auth Required | PAR | PAR |
-| Aetna Medicare- Select/SmartSaver Elite/Value/Valve Plan/Value Advantra/Value Plus/Value Plus Signature/Valley Plan(PPO) | Aetna Medicare PPO | No Ref/No Auth Required | PAR | PAR |
-| Aetna Medicare- Value   (HMO/HMO POS) | Aetna Medicare HMO POS | No Ref/No Auth Required | PAR | PAR |
-| Aetna National Advntage Program - National Advantage Program (NAP) | Aetna Commercial PPO | No Ref/No Auth Required | PAR | PAR |
-| Aetna Premier Care Network Plus -Open Access Aetna Select | Aetna Commercial PPO | No Ref/No Auth Required | PAR | PAR |
-| All Savers Alternate Funding- United Healthcare Core Network | All Savers Commercial - UHC | No Ref/No Auth Required | PAR | PAR |
-| Allegiance Benefit Plan (Cigna Open Access Plus Network) | Allegiance Benefit Plan Management-Cigna | No Ref/No Auth Required | PAR | PAR |
-| AllSavers (UHC) (Charter and Navigate) | All Savers Comm REFERRAL REQ - UHC | Referral Required | PAR | PAR |
-| AllSavers (UHC) (Choice and Choice Plus) | All Savers Commercial - UHC | No Ref/No Auth Required | PAR | PAR |
-| Ambetter ALL PLANS | Self Pay Non-Par with Ins | N/A | Non-PAR | Non-PAR |
-| Anthem Blue- (Select Network) Alliance/ Blue Choice Open Access/Blue Choice Options/Blue Value/HealthSync | Anthem BCBS Commercial PPO | No Ref/No Auth Required | PAR | PAR |
-| Anthem Blue- (Select Network) Century Preferred/High Value Network/Horizon Managed Care Network/National PPO/Network S/Network Blue/ Select PPO | Anthem BCBS Commercial PPO | No Ref/No Auth Required | PAR | PAR |
-| Anthem Blue- Grocery/Traditional/Traditional PPO | Anthem BCBS Commercial PPO | No Ref/No Auth Required | PAR | PAR |
-| Anthem Blue Medicare- Medicare Advantage (PPO) | Anthem BCBS Medicare PPO | No Ref/No Auth Required | PAR | PAR |
-| Anthem Blue- POS | Anthem BCBS Commercial PPO | No Ref/No Auth Required | PAR | PAR |
-| Anthem Blue-Pathway Essentials/Essentials Standard PPO/EPO | Anthem BCBS Commercial PPO | No Ref/No Auth Required | PAR | PAR |
-| Anthem Blue-Preferred POS (Select Network) | Anthem BCBS Commercial PPO | No Ref/No Auth Required | PAR | PAR |
-| AvMed HMO (State of Florida High Deductible Health Plan and State of Florida Standard HMO Plan) | AvMed Commercial HMO | No Ref/No Auth Required | PAR | PAR |
-| BCBS FL - ALL DUAL PLANS | Self Pay Non-Par with Ins | N/A | Non-PAR | Non-PAR |
-| BCBS of FL BlueMedicare Patriot (PPO) | BCBS FL Medicare PPO | No Ref/No Auth Required | PAR | PAR |
-| BCBS of FL BlueMedicare Select (PPO) | BCBS FL Medicare PPO | No Ref/No Auth Required | PAR | PAR |
-| BCBS of FL BlueMedicare Value PPO/ BlueMedicare Value w. Level 1 - PLEASE DO NOT SCHEDULE ANY APPTS AFTER 12/31/2024 AS THIS PLAN IS NO LONGER OFFERED AS OF 01/01/2025 FOR RHC-NAPLES OFFICE ONLY | BCBS FL Medicare PPO | No Ref/No Auth Required | PAR | PAR |
-| BCBS of FL BlueOptions/Blue Options Hospital Surgical Plus/Blue Options with Pediactric Vision/Commercial PPO | BCBS FL Commercial PPO | N/A | Non-PAR | Non-PAR |
-| BCBS of FL Federal Employee Program - alpha prefix R | BCBS Federal | No Ref/No Auth Required | PAR | PAR |
-| BCBS Out of State California ONLY | Self Pay Non-Par with Ins | Authorization Required | PAR | PAR |
-| BCBS Out of State Commercial PPO Plans -all plans that are not BCBS of Florida; please ask the patient to check the front and back copy of the card for the state. If the card says "Anthem", please see ANTHEM on the insurance guide | BCBS Out of State Commercial PPO | No Ref/No Auth Required | PAR | PAR |
-| BCBS Out of State HMO Plans - ALL PLANS Commercial and Medicare HMO PLANS | Self Pay Non-Par with Ins | N/A | Non-PAR | Non-PAR |
-| BCBS Out of State Medicare PPO Plans -all plans that are not BCBS of Florida; please ask the patient to check the front and back copy of the card for the state. If the card says "Anthem", please see ANTHEM on the insurance guide | BCBS Out of State Medicare PPO | No Ref/No Auth Required | PAR | PAR |
-| Carefirst BCBS Commercial - BlueChoice Advantage/BlueChoice Advantage HDHP/BlueChoice Plus/BlueHPN/BluePreferred (PPO) | Carefirst BCBS Commercial PPO | No Ref/No Auth Required | PAR | PAR |
-| Carefirst BCBS Commercial - BlueChoice Opt-Out Open Access/BlueChoice Opt-Out Plus Open Access/CareFirst Regional (HMO) | Carefirst BCBS Commercial HMO | No Ref/No Auth Required | PAR | PAR |
-| Carefirst BCBS Commercial - Comprehensive Major Medical | Carefirst BCBS Commercial PPO | No Ref/No Auth Required | PAR | PAR |
-| Carefirst BCBS Commercial - HealthyBlue/HealthyBlue 2.0/HealthyBlue Advantage (HMO) | Carefirst BCBS Commercial HMO | No Ref/No Auth Required | PAR | PAR |
-| Carefirst BCBS Commercial - Personal Comp | Carefirst BCBS Commercial PPO | No Ref/No Auth Required | PAR | PAR |
-| Carefirst BCBS Commercial - PPO/EPO/HealthyBlue Plus/HealthyBlue PPO/ BlueCard PAR/ BlueCard PPO/ EPO/ BlueCard Traditional | Carefirst BCBS Commercial PPO | No Ref/No Auth Required | PAR | PAR |
-| Carefirst BCBS Commercial - Standard BlueChoice (HMO) | Carefirst BCBS Commercial HMO | No Ref/No Auth Required | PAR | PAR |
-| Carefirst BCBS Commercial - Traditional/Indemnity | Carefirst BCBS Medicare PPO | No Ref/No Auth Required | PAR | PAR |
-| Carefirst BCBS Medicare Advantage (PPO) | Carefirst BCBS Commercial PPO | No Ref/No Auth Required | PAR | PAR |
-| Carefirst Commercial - CareFirst Regional | Carefirst BCBS Commercial HMO | No Ref/No Auth Required | PAR | PAR |
-| ChampVA | ChampVA | No Ref/No Auth Required | PAR | PAR |
-| Cigna Choice Fund PPO | Cigna Commercial PPO | No Ref/No Auth Required | PAR | PAR |
-| Cigna ChoiceFund OA Plus/Cigna ChoiceFund OA Plus with CareLink | Cigna Commercial PPO | No Ref/No Auth Required | PAR | PAR |
-| Cigna Courage Medicare (HMO) | Cigna Medicare HMO REFERRAL REQUIRED | Referral Required | PAR | PAR |
-| Cigna Florida Connect EPO | Self Pay Non-Par with Ins | N/A | Non-PAR | Non-PAR |
-| Cigna Global Health Benefits (BENEFITS/ELIGIBILITY NEEDS TO BE CHECKED EVERYTIME) | Cigna International | Authorization Required | PAR | PAR |
-| CIGNA HealthCare of Florida, Inc. - Fort Myers HMO | Cigna Commercial HMO | No Ref/No Auth Required | PAR | PAR |
-| CIGNA HealthCare of Florida, Inc. - Tampa HMO | Cigna Commercial HMO | No Ref/No Auth Required | PAR | PAR |
-| CIGNA HealthCare Seamless Network - Florida | Cigna Commercial PPO | No Ref/No Auth Required | PAR | PAR |
-| Cigna Local Plus | Cigna Commercial PPO | No Ref/No Auth Required | PAR | PAR |
-| Cigna Local Plus  - Oscar | Self Pay Non-Par with Ins | N/A | Non-PAR | Non-PAR |
-| Cigna Medicare HMO- Preferred/Preferred Savings Medicare/Courage | Cigna Medicare HMO REFERRAL REQUIRED | Referral Required | PAR | PAR |
-| Cigna Medicare- TotalCare/Total Care Plus HMO D-SNP | Primary: Cigna Dual MDCR HMO Primary-REFERRAL REQ                                                      Secondary: Cigna Dual Medicaid HMO Secondary | Referral Required | PAR | PAR |
-| Cigna Medicare PPO | Cigna Medicare PPO | N/A | PAR | PAR |
-| Cigna OA Plus - Carelink | Cigna Commercial PPO | No Ref/No Auth Required | PAR | PAR |
-| Cigna Open Access Plus | Cigna Commercial PPO | No Ref/No Auth Required | PAR | PAR |
-| Cigna Open Access Plus - Oscar | Self Pay Non-Par with Ins | N/A | Non-PAR | Non-PAR |
-| Cigna PPO | Cigna Commercial PPO | No Ref/No Auth Required | PAR | PAR |
-| Division of Blind | Division of Blind | Authorization Required | PAR | PAR |
-| First Health Network (through Aetna and/or PHP Network) PLEASE ASK THE PATIENT FOR THE HEALTH PLAN NAME ON THE CARD AND LOAD THE PLAN INTO NEXTGEN ACCORDING TO THEIR HEALTH PLAN | PLEASE ASK THE PATIENT FOR THE HEALTH PLAN NAME ON THE CARD. IF THE PAYER IS NOT LOADED INTO THE SYSTEM, USE: INS NOT IN NEXTGEN. SEE: Generic Insurance Protocol - PAC, Front Desk, and Customer Service.pdf | N/A | PAR | PAR |
-| GEHA (United Healthcare Choice Plus Network) PLEASE INCLUDE THE SUFFIX IN THE POLICY # ON THE ID CARD AS GEHA (EX: 1234567GEHA) | GEHA Commercial - UHC | No Ref/No Auth Required | PAR | PAR |
-| Golden Rule (UHC Choice Plus Network) | Golden Rule Commercial - UHC | No Ref/No Auth Required | PAR | PAR |
-| Humana Commercial - ALL PLANS  - AS OF 01/01/25- PLAN IS NO LONGER OFFERED IN FL MARKETS | Self Pay Non-Par with Ins | N/A | Non-PAR | Non-PAR |
-| Humana  Medicare Choice Florida SNP-DE (PPO D-SNP) | Primary: Humana Dual Medicare PPO Primary                                                 Secondary: Humana Dual Medicaid Secondary | No Ref/No Auth Required | PAR | PAR |
-| Humana Medicare- Choice Florida (PPO)/Choice (Regional PPO)/USAA Honor PPO OUT OF NETWORK. PATIENT HAS OON BENEFITS. PLEASE INFORM PATIENT OF POSSIBLE HIGHER OUT OF POCKET COSTS | Humana Medicare PPO | No Ref/No Auth Required | PAR | PAR |
-| Humana Medicare HMO -ALL PLANS | Self Pay Non-Par with Ins | N/A | Non-PAR | Non-PAR |
-| Humana National POS - Open Access/Open Access EPO | Humana Commercial PPO | No Ref/No Auth Required | Non-PAR | Non-PAR |
-| Humana National POS - OpenAccess Plus/Choice POS/PPO | Humana Commercial PPO | No Ref/No Auth Required | Non-PAR | Non-PAR |
-| Mailhandlers (Aetna Choice® POS II Network) | Mail Handlers Benefit Plan Comm - Aetna | No Ref/No Auth Required | PAR | PAR |
-| Lutheran Preferred (PHP Network) | Lutheran Preferred - PHP | No Ref/No Auth Required | Non-PAR -OON Benefits | Non-PAR -OON Benefits |
-| Medicare | Medicare Part B | No Ref/No Auth Required | PAR | PAR |
-| Meritain Gulf Coast (Aetna Choice POS II Network) | Meritain Health Commercial - Aetna | No Ref/No Auth Required | PAR | PAR |
-| Meritain Health - Sarasota Memorial (BASIC AND/OR COMPREHENSIVE PLAN) PLEASE ASK THE PATIENT IF THE CARD HAS "SMH" ON THEIR CARD. IF THE CARD SAYS BASIC OR COMPREHENSIVE PLAN, WE ARE OUT OF NETWORK AND THERE ARE NO OON BENEFITS | Self Pay Non-Par with Ins | N/A | Non-PAR | Non-PAR |
-| Meritain Health - Sarasota Memorial (EXTENSIVE MEDICAL PLAN) PLEASE ASK THE PATIENT IF THE CARD HAS "SMH" ON THEIR CARD AND THE CARD MUST SAY EXTENDED MEDICAL PLAN. THE EXTENDED MEDICAL PLAN APPLIES TOWARDS THE PATIENT'S TIER 2 BENEFITS - AETNA CHOICE POS II | Meritain Health SMH Extd  Pln | Authorization MAY be Required | PAR | PAR |
-| Multiplan PLEASE ASK THE PATIENT FOR THE HEALTH PLAN NAME ON THE CARD AND LOAD THE PLAN INTO NEXTGEN ACCORDING TO THEIR HEALTH PLAN | PLEASE ASK THE PATIENT FOR THE HEALTH PLAN NAME ON THE CARD. IF THE PAYER IS NOT LOADED INTO THE SYSTEM, USE: INS NOT IN NEXTGEN. SEE: Generic Insurance Protocol - PAC, Front Desk, and Customer Service.pdf | N/A | PAR | PAR |
-| NALC Health Benefit Plan (Cigna Open Access Plus Network) | NALC Health Benefit Plan- Cigna | No Ref/No Auth Required | PAR | PAR |
-| Optum VA-VETERANS AFFAIRS Community Care Network (CCN) | Optum VA Community Care | Authorization Required | PAR | PAR |
-| PHCS PLEASE ASK THE PATIENT FOR THE HEALTH PLAN NAME ON THE CARD AND LOAD THE PLAN INTO NEXTGEN ACCORDING TO THEIR HEALTH PLAN | PLEASE ASK THE PATIENT FOR THE HEALTH PLAN NAME ON THE CARD. IF THE PAYER IS NOT LOADED INTO THE SYSTEM, USE: INS NOT IN NEXTGEN. SEE: Generic Insurance Protocol - PAC, Front Desk, and Customer Service.pdf | N/A | PAR | PAR |
-| Priority Health Commercial- (Cigna Open Access Network) HMO | Priority Health Comm HMO REFERRAL -Cigna | Referral Required | PAR | PAR |
-| Priority Health Commercial- (Cigna Open Access Network) PPO | Priority Health Commercial PPO - Cigna | No Ref/No Auth Required | PAR | PAR |
-| Priority Health Medicare- Priority Medicare Ideal/Travel Pass (Multiplan) PPO | Priority Health Medicare PPO - Multiplan | No Ref/No Auth Required | PAR | PAR |
-| Priority Health Medicare- Priority Medicare Value/Travel Pass (Multiplan)  HMO -POS | Priority Health Medicare HMO - Multiplan | No Ref/No Auth Required | PAR | PAR |
-| Railroad Medicare - CONFIRM WITH PT AT THE BOTTOM OF THE ID CARD IT SAYS "RAILROAD RETIREMENT BOARD" | Railroad Medicare | No Ref/No Auth Required | PAR | PAR |
-| Simply Healthcare | Self Pay Non-Par with Ins | N/A | Non-PAR | Non-PAR |
-| Surest (United Healthcare Choice Plus Network) | Surest Commercial - UHC | No Ref/No Auth Required | PAR | PAR |
-| The Empire Plan-NYSHIP | UHC Empire PPO | No Ref/No Auth Required | PAR | PAR |
-| Tricare Prime | Tricare Prime HMO-REFERRAL REQ | Referral Required | PAR | PAR |
-| Tricare Select | Tricare Select | No Ref/No Auth Required | PAR | PAR |
-| UHC Care Advantage FL-E001 (PPO I-SNP) | UHC Medicare PPO | No Ref/No Auth Required | PAR | PAR |
-| UMR (Choice Plus, Core, Freedom, NexusACO OAP, Options PPO, Select Plus POS Network) | UMR Commercial PPO - UHC | No Ref/No Auth Required | PAR | PAR |
-| United Healthcare Charter EPO/Charter POS | UHC Commercial PPO | No Ref/No Auth Required | PAR | PAR |
-| United Healthcare Charter HMO/HMO Plus | UHC Comm HMO REFERRAL REQ | Referral Required | PAR | PAR |
-| United Healthcare Choice EPO/Choice Plus POS | UHC Commercial PPO | No Ref/No Auth Required | PAR | PAR |
-| United Healthcare Choice Plan Network- The Oxford Plan (Freedom With Choice Plus) | UHC Oxford PPO | No Ref/No Auth Required | PAR | PAR |
-| United Healthcare Choice Plus HMO | UHC Commercial HMO | No Ref/No Auth Required | PAR | PAR |
-| United Healthcare Choice Plus POS- the card will say HCA Healthcare-If patient has surgery, OOP costs are higher at 75% coinsurance as the patient's preferred facility is HCA Healthcare | UHC Commercial HCA Plan | No Ref/No Auth Required | PAR | PAR |
-| United Healthcare Compass ALL Plans | Self Pay Non-Par with Ins | N/A | Non-PAR | Non-PAR |
-| United Healthcare Complete Care Walgreens FL-0014 (HMO-POS C-SNP) | UHC Medicare HMO | No Ref/No Auth Required | PAR | PAR |
-| United Healthcare Core EPO/Core Choice Plus | UHC Commercial PPO | No Ref/No Auth Required | PAR | PAR |
-| United Healthcare CORE HMO | UHC Commercial HMO | No Ref/No Auth Required | PAR | PAR |
-| United Healthcare DOCTORS PLAN EPO/PLAN PLUS POS | UHC Commercial PPO | No Ref/No Auth Required | PAR | PAR |
-| United Healthcare DOCTORS PLAN PLUS HMO | UHC Commercial HMO | No Ref/No Auth Required | PAR | PAR |
-| United Healthcare Dual Complete™ (HMO SNP) | Primary: UHC Dual Complete Medicare HMO Primary                                                Secondary: UHC Dual Medicaid Secondary | No Ref/No Auth Required | PAR | PAR |
-| United Healthcare Dual Complete™ (PPO SNP) | Primary: UHC Dual Complete Medicare PPO Primary                                                Secondary: UHC Dual Medicaid PPO Secondary | No Ref/No Auth Required | PAR | PAR |
-| United Healthcare ER Wrap (W500 on back of card) | UHC ER Wrap | Authorization Required | PAR | PAR |
-| United Healthcare FL ALL Medicaid plans | Self Pay Non-Par with Ins | N/A | Non-PAR | Non-PAR |
-| United Healthcare FL CHIP | Self Pay Non-Par with Ins | N/A | Non-PAR | Non-PAR |
-| United Healthcare Group Medicare Advantage (PPO) | UHC Medicare PPO | No Ref/No Auth Required | PAR | PAR |
-| United Healthcare Heritage ALL Plans | Self Pay Non-Par with Ins | N/A | Non-PAR | Non-PAR |
-| United Healthcare Indemnity-we will only accept this plan as a secondary/supplement | Self Pay Non-Par with Ins | N/A | Non-PAR | Non-PAR |
-| United Healthcare Individual Exchange (FLONEX) - Essential (Bronze), Value (Bronz, Silver, Gold), Advantage (Silver, Gold), Copay Focus (Bronze, Silver, Gold), Virtual (Bronze, Silver, Gold) | Self Pay Non-Par with Ins | N/A | Non-PAR | Non-PAR |
-| United Healthcare Long Term Care | Self Pay Non-Par with Ins | N/A | Non-PAR | Non-PAR |
-| United Healthcare Mid-Atlantic Gated HMO | Self Pay Non-Par with Ins | N/A | Non-PAR | Non-PAR |
-| United Healthcare NATIONAL ANCILLARY | Self Pay Non-Par with Ins | N/A | Non-PAR | Non-PAR |
-| United Healthcare Navigate HMO/ HMO Plus/ Navigate POS/Navigate EPO | UHC Navigate REFERRAL REQ | Referral Required | PAR | PAR |
-| United Healthcare NexusACO NR EPO,NR POS, R EPO, R POS/NR HMO/R HMO | UHC Comm HMO Referral REQ | Referral Required | PAR | PAR |
-| United Healthcare NexusACO OA  POS/OA EPO | UHC Commercial PPO | No Ref/No Auth Required | PAR | PAR |
-| United Healthcare NexusACO OA HMO | UHC Commercial HMO | No Ref/No Auth Required | PAR | PAR |
-| United Healthcare NHP Gated L1, L2, L3 | UHC Comm HMO REFERRAL REQ | Referral Required | PAR | PAR |
-| United Healthcare NHP-Neighborhood Health Plan Direct Access | UHC Commercial - NHP HMO Access | No Ref/No Auth Required | PAR | PAR |
-| United Healthcare Nursing Home Plan EX-F006 (HMO-POS I-SNP)/FL-F001 (PPO I-SNP)/FL-F002 (PPO I-SNP) | UHC MDCR Nursing Plan | No Ref/No Auth Required | PAR | PAR |
-| United Healthcare PPO | UHC Commercial PPO | No Ref/No Auth Required | PAR | PAR |
-| United Healthcare Select EPO/Select POS | UHC Commercial PPO | No Ref/No Auth Required | PAR | PAR |
-| United Healthcare Select Plus HMO | UHC Commercial HMO | No Ref/No Auth Required | PAR | PAR |
-| United Healthcare Shared Services - Options PPO Network | UHC Shared Services Commercial PPO | No Ref/No Auth Required | PAR | PAR |
-| United Healthcare The Villages Medicare Advantage FL-0004-004P (HMO-POS) | UHC Medicare HMO | No Ref/No Auth Required | PAR | PAR |
-| United Healthcare UHN ONENET-AUTO LIABILITY | Self Pay Non-Par with Ins | N/A | Non-PAR | Non-PAR |
-| United Healthcare UHN ONENET-WORKERS COMP | Self Pay Non-Par with Ins | N/A | Non-PAR | Non-PAR |
-| UnitedHealthcare Group Medicare Advantage (HMO) | UHC Medicare HMO | No Ref/No Auth Required | PAR | PAR |
-| Web TPA | Web TPA | No Ref/No Auth Required | PAR | PAR |
+<details><summary>AARP Medicare Advantage from UHC FL-0005-0015 (HMO-POS)</summary>
 
+| Attribute | Value |
+|-----------|-------|
+| Insurance Plan Name | AARP Medicare Advantage from UHC FL-0005-0015 (HMO-POS) |
+| NextGen Name | AARP Medicare HMO |
+| Referral and/or Auth Required? | No Ref/No Auth Required |
+| Alexander Eaton, MD | PAR |
+| Veronica Kon Graversen, MD | PAR |
+
+</details>
+
+<details><summary>AARP Medicare Advantage from UHC FL-0016-27 (PPO)</summary>
+
+| Attribute | Value |
+|-----------|-------|
+| Insurance Plan Name | AARP Medicare Advantage from UHC FL-0016-27 (PPO) |
+| NextGen Name | AARP Medicare PPO |
+| Referral and/or Auth Required? | No Ref/No Auth Required |
+| Alexander Eaton, MD | PAR |
+| Veronica Kon Graversen, MD | PAR |
+
+</details>
+
+<details><summary>AARP Medicare Advantage from UHC FL-001P (HMO-POS)</summary>
+
+| Attribute | Value |
+|-----------|-------|
+| Insurance Plan Name | AARP Medicare Advantage from UHC FL-001P (HMO-POS) |
+| NextGen Name | AARP Medicare HMO |
+| Referral and/or Auth Required? | No Ref/No Auth Required |
+| Alexander Eaton, MD | PAR |
+| Veronica Kon Graversen, MD | PAR |
+
+</details>
+
+<details><summary>AARP Medicare Advantage from UHC FL-0031 (Regional PPO)</summary>
+
+| Attribute | Value |
+|-----------|-------|
+| Insurance Plan Name | AARP Medicare Advantage from UHC FL-0031 (Regional PPO) |
+| NextGen Name | AARP Medicare PPO |
+| Referral and/or Auth Required? | No Ref/No Auth Required |
+| Alexander Eaton, MD | PAR |
+| Veronica Kon Graversen, MD | PAR |
+
+</details>
+
+<details><summary>AARP Medicare Advantage from UHC FL-003P (HMO-POS)</summary>
+
+| Attribute | Value |
+|-----------|-------|
+| Insurance Plan Name | AARP Medicare Advantage from UHC FL-003P (HMO-POS) |
+| NextGen Name | AARP Medicare HMO |
+| Referral and/or Auth Required? | No Ref/No Auth Required |
+| Alexander Eaton, MD | PAR |
+| Veronica Kon Graversen, MD | PAR |
+
+</details>
+
+<details><summary>AARP Medicare Advantage HMO- WELLMED (Payer ID is WELM2)</summary>
+
+| Attribute | Value |
+|-----------|-------|
+| Insurance Plan Name | AARP Medicare Advantage HMO- WELLMED (Payer ID is WELM2) |
+| NextGen Name | AARP WellMed Medicare HMO |
+| Referral and/or Auth Required? | No Ref/No Auth Required |
+| Alexander Eaton, MD | PAR |
+| Veronica Kon Graversen, MD | PAR |
+
+</details>
+
+<details><summary>AARP Medicare Advantage Patriot No Rx FL-MA01 (Regional PPO)</summary>
+
+| Attribute | Value |
+|-----------|-------|
+| Insurance Plan Name | AARP Medicare Advantage Patriot No Rx FL-MA01 (Regional PPO) |
+| NextGen Name | AARP Medicare PPO |
+| Referral and/or Auth Required? | No Ref/No Auth Required |
+| Alexander Eaton, MD | PAR |
+| Veronica Kon Graversen, MD | PAR |
+
+</details>
+
+<details><summary>AARP Medicare Advantage PPO- WELLMED (Payer ID is WELM2)</summary>
+
+| Attribute | Value |
+|-----------|-------|
+| Insurance Plan Name | AARP Medicare Advantage PPO- WELLMED (Payer ID is WELM2) |
+| NextGen Name | AARP WellMed Medicare HMO |
+| Referral and/or Auth Required? | No Ref/No Auth Required |
+| Alexander Eaton, MD | PAR |
+| Veronica Kon Graversen, MD | PAR |
+
+</details>
+
+<details><summary>Aetna - Medicare Plan (PPO)/Extended Service Area (ESA)/Choice Plan/Choice Plan PPO</summary>
+
+| Attribute | Value |
+|-----------|-------|
+| Insurance Plan Name | Aetna - Medicare Plan (PPO)/Extended Service Area (ESA)/Choice Plan/Choice Plan PPO |
+| NextGen Name | Aetna Medicare PPO |
+| Referral and/or Auth Required? | No Ref/No Auth Required |
+| Alexander Eaton, MD | PAR |
+| Veronica Kon Graversen, MD | PAR |
+
+</details>
+
+<details><summary>Aetna Commercial Healthfund - Aetna Open Access Aetna Select℠/Elect Choice® EPO /Managed Choice POS/Open Choice PPO/Choice POS & POS II/HealthNetwork Only and Health Network Option</summary>
+
+| Attribute | Value |
+|-----------|-------|
+| Insurance Plan Name | Aetna Commercial Healthfund - Aetna Open Access Aetna Select℠/Elect Choice® EPO /Managed Choice POS/Open Choice PPO/Choice POS & POS II/HealthNetwork Only and Health Network Option |
+| NextGen Name | Aetna Commercial PPO |
+| Referral and/or Auth Required? | No Ref/No Auth Required |
+| Alexander Eaton, MD | PAR |
+| Veronica Kon Graversen, MD | PAR |
+
+</details>
+
+<details><summary>Aetna Commercial Innovation - Innovation Health Aetna Select/POS/PPO</summary>
+
+| Attribute | Value |
+|-----------|-------|
+| Insurance Plan Name | Aetna Commercial Innovation - Innovation Health Aetna Select/POS/PPO |
+| NextGen Name | Aetna Commercial PPO |
+| Referral and/or Auth Required? | No Ref/No Auth Required |
+| Alexander Eaton, MD | PAR |
+| Veronica Kon Graversen, MD | PAR |
+
+</details>
+
+<details><summary>Aetna Commercial Open Access- Aetna Choice POS II/Aetna Elect Choice EPO/Health Network Option/Managed Choice POS/Health Network Only/Aetna Select</summary>
+
+| Attribute | Value |
+|-----------|-------|
+| Insurance Plan Name | Aetna Commercial Open Access- Aetna Choice POS II/Aetna Elect Choice EPO/Health Network Option/Managed Choice POS/Health Network Only/Aetna Select |
+| NextGen Name | Aetna Commercial PPO |
+| Referral and/or Auth Required? | No Ref/No Auth Required |
+| Alexander Eaton, MD | PAR |
+| Veronica Kon Graversen, MD | PAR |
+
+</details>
+
+<details><summary>Aetna Commercial- Small Group Employer Plan - Aetna Florida Elect Choice Open Access (OAEPO)/Florida Health Network Only (HNOnly)</summary>
+
+| Attribute | Value |
+|-----------|-------|
+| Insurance Plan Name | Aetna Commercial- Small Group Employer Plan - Aetna Florida Elect Choice Open Access (OAEPO)/Florida Health Network Only (HNOnly) |
+| NextGen Name | Aetna Commercial PPO |
+| Referral and/or Auth Required? | No Ref/No Auth Required |
+| Alexander Eaton, MD | PAR |
+| Veronica Kon Graversen, MD | PAR |
+
+</details>
+
+<details><summary>Aetna Commercial Standard Plan - Aetna Managed Choice® POS/Open Choice® PPO/Aetna Select℠/Voluntary Plans</summary>
+
+| Attribute | Value |
+|-----------|-------|
+| Insurance Plan Name | Aetna Commercial Standard Plan - Aetna Managed Choice® POS/Open Choice® PPO/Aetna Select℠/Voluntary Plans |
+| NextGen Name | Aetna Commercial PPO |
+| Referral and/or Auth Required? | No Ref/No Auth Required |
+| Alexander Eaton, MD | PAR |
+| Veronica Kon Graversen, MD | PAR |
+
+</details>
+
+<details><summary>Aetna Commercial Whole Health - Southwest Florida - Open Access Elect Choice/Health Network Only/Open Access Aetna Select/Aetna Voluntary Plans</summary>
+
+| Attribute | Value |
+|-----------|-------|
+| Insurance Plan Name | Aetna Commercial Whole Health - Southwest Florida - Open Access Elect Choice/Health Network Only/Open Access Aetna Select/Aetna Voluntary Plans |
+| NextGen Name | Aetna Commercial PPO |
+| Referral and/or Auth Required? | No Ref/No Auth Required |
+| Alexander Eaton, MD | PAR |
+| Veronica Kon Graversen, MD | PAR |
+
+</details>
+
+<details><summary>Aetna Commercial-Standard Plan - Aetna HMO</summary>
+
+| Attribute | Value |
+|-----------|-------|
+| Insurance Plan Name | Aetna Commercial-Standard Plan - Aetna HMO |
+| NextGen Name | Aetna Commercial HMO REFERRAL REQ |
+| Referral and/or Auth Required? | Referral Required |
+| Alexander Eaton, MD | PAR |
+| Veronica Kon Graversen, MD | PAR |
+
+</details>
+
+<details><summary>Aetna Commercial-Standard Plan- Aetna Affordable Health Choices® limited benefits insurance plan (SRC only)</summary>
+
+| Attribute | Value |
+|-----------|-------|
+| Insurance Plan Name | Aetna Commercial-Standard Plan- Aetna Affordable Health Choices® limited benefits insurance plan (SRC only) |
+| NextGen Name | Aetna Comm Fixed Benefits PPO |
+| Referral and/or Auth Required? | No Ref/No Auth Required |
+| Alexander Eaton, MD | PAR |
+| Veronica Kon Graversen, MD | PAR |
+
+</details>
+
+<details><summary>Aetna Medicare - Advantra/Credit Plan/Discover/Discover Value Plan/Preferred/Preferred Premium (HMO)</summary>
+
+| Attribute | Value |
+|-----------|-------|
+| Insurance Plan Name | Aetna Medicare - Advantra/Credit Plan/Discover/Discover Value Plan/Preferred/Preferred Premium (HMO) |
+| NextGen Name | Aetna Medicare HMO REFERRAL REQ |
+| Referral and/or Auth Required? | Referral Required |
+| Alexander Eaton, MD | PAR |
+| Veronica Kon Graversen, MD | PAR |
+
+</details>
+
+<details><summary>Aetna Medicare - Assure Plus (HMO D-SNP)</summary>
+
+| Attribute | Value |
+|-----------|-------|
+| Insurance Plan Name | Aetna Medicare - Assure Plus (HMO D-SNP) |
+| NextGen Name | Primary: Aetna Dual MCR HMO Primary REFERRAL REQ                                                             Secondary: Aetna Dual Complete MCD HMO Secondary |
+| Referral and/or Auth Required? | Referral Required |
+| Alexander Eaton, MD | PAR |
+| Veronica Kon Graversen, MD | PAR |
+
+</details>
+
+<details><summary>Aetna Medicare - Connect Plus(PPO)/Core Plan/Core Elite Plan (PPO)/Credit Plan (PPO)</summary>
+
+| Attribute | Value |
+|-----------|-------|
+| Insurance Plan Name | Aetna Medicare - Connect Plus(PPO)/Core Plan/Core Elite Plan (PPO)/Credit Plan (PPO) |
+| NextGen Name | Aetna Medicare PPO |
+| Referral and/or Auth Required? | No Ref/No Auth Required |
+| Alexander Eaton, MD | PAR |
+| Veronica Kon Graversen, MD | PAR |
+
+</details>
+
+<details><summary>Aetna Medicare - Eagle/Premier Preferred/Premium/Select/Select Plus/Signature/Smartfit Elite Plan HMO</summary>
+
+| Attribute | Value |
+|-----------|-------|
+| Insurance Plan Name | Aetna Medicare - Eagle/Premier Preferred/Premium/Select/Select Plus/Signature/Smartfit Elite Plan HMO |
+| NextGen Name | Aetna Medicare HMO REFERRAL REQ |
+| Referral and/or Auth Required? | Referral Required |
+| Alexander Eaton, MD | PAR |
+| Veronica Kon Graversen, MD | PAR |
+
+</details>
+
+<details><summary>Aetna Medicare - Eagle/Smartfit Elite Plan (HMO POS)/Signature/Silver/Sunrise Plan (HMO-POS)</summary>
+
+| Attribute | Value |
+|-----------|-------|
+| Insurance Plan Name | Aetna Medicare - Eagle/Smartfit Elite Plan (HMO POS)/Signature/Silver/Sunrise Plan (HMO-POS) |
+| NextGen Name | Aetna Medicare HMO POS |
+| Referral and/or Auth Required? | No Ref/No Auth Required |
+| Alexander Eaton, MD | PAR |
+| Veronica Kon Graversen, MD | PAR |
+
+</details>
+
+<details><summary>Aetna Medicare - Essential/Elite Plan/Explore Plan, Explore Premier, Explore Premier 2, Explore Premier Plan (PPO)</summary>
+
+| Attribute | Value |
+|-----------|-------|
+| Insurance Plan Name | Aetna Medicare - Essential/Elite Plan/Explore Plan, Explore Premier, Explore Premier 2, Explore Premier Plan (PPO) |
+| NextGen Name | Aetna Medicare PPO |
+| Referral and/or Auth Required? | No Ref/No Auth Required |
+| Alexander Eaton, MD | PAR |
+| Veronica Kon Graversen, MD | PAR |
+
+</details>
+
+<details><summary>Aetna Medicare - Explorer Premier, Explore Value Plan (HMO-POS)/Platinum Plan/Platinum Plan Pus/Premium (HMO-POS)</summary>
+
+| Attribute | Value |
+|-----------|-------|
+| Insurance Plan Name | Aetna Medicare - Explorer Premier, Explore Value Plan (HMO-POS)/Platinum Plan/Platinum Plan Pus/Premium (HMO-POS) |
+| NextGen Name | Aetna Medicare HMO POS |
+| Referral and/or Auth Required? | No Ref/No Auth Required |
+| Alexander Eaton, MD | PAR |
+| Veronica Kon Graversen, MD | PAR |
+
+</details>
+
+<details><summary>Aetna Medicare - Preferred/Preferred Premium (PPO)</summary>
+
+| Attribute | Value |
+|-----------|-------|
+| Insurance Plan Name | Aetna Medicare - Preferred/Preferred Premium (PPO) |
+| NextGen Name | Aetna Medicare PPO |
+| Referral and/or Auth Required? | No Ref/No Auth Required |
+| Alexander Eaton, MD | PAR |
+| Veronica Kon Graversen, MD | PAR |
+
+</details>
+
+<details><summary>Aetna Medicare -Advanta Credit Value/Deluxe Plan/Discover Plan/SmartFit/SmartFit Plan (PPO)/Silver Back PPO</summary>
+
+| Attribute | Value |
+|-----------|-------|
+| Insurance Plan Name | Aetna Medicare -Advanta Credit Value/Deluxe Plan/Discover Plan/SmartFit/SmartFit Plan (PPO)/Silver Back PPO |
+| NextGen Name | Aetna Medicare PPO |
+| Referral and/or Auth Required? | No Ref/No Auth Required |
+| Alexander Eaton, MD | PAR |
+| Veronica Kon Graversen, MD | PAR |
+
+</details>
+
+<details><summary>Aetna Medicare- Advantra - Eagle, Elite, Gold (HMO-POS)</summary>
+
+| Attribute | Value |
+|-----------|-------|
+| Insurance Plan Name | Aetna Medicare- Advantra - Eagle, Elite, Gold (HMO-POS) |
+| NextGen Name | Aetna Medicare HMO POS |
+| Referral and/or Auth Required? | No Ref/No Auth Required |
+| Alexander Eaton, MD | PAR |
+| Veronica Kon Graversen, MD | PAR |
+
+</details>
+
+<details><summary>Aetna Medicare- Coventry Plan (HMO) (CVTY)</summary>
+
+| Attribute | Value |
+|-----------|-------|
+| Insurance Plan Name | Aetna Medicare- Coventry Plan (HMO) (CVTY) |
+| NextGen Name | Aetna Medicare HMO REFERRAL REQ |
+| Referral and/or Auth Required? | Referral Required |
+| Alexander Eaton, MD | PAR |
+| Veronica Kon Graversen, MD | PAR |
+
+</details>
+
+<details><summary>Aetna Medicare- Dual Assurance/Assurance Plan/Assurance Plus (HMO D-SNP)</summary>
+
+| Attribute | Value |
+|-----------|-------|
+| Insurance Plan Name | Aetna Medicare- Dual Assurance/Assurance Plan/Assurance Plus (HMO D-SNP) |
+| NextGen Name | Primary: Aetna Dual MCR HMO Primary REFERRAL REQ                                                             Secondary: Aetna Dual Complete MCD HMO Secondary |
+| Referral and/or Auth Required? | N/A |
+| Alexander Eaton, MD | PAR |
+| Veronica Kon Graversen, MD | PAR |
+
+</details>
+
+<details><summary>Aetna Medicare- Dual Choice/Dual Preferred Plan/Dual Select Choice/Dual Signature Choice/Dual Select Signature (PPO D-SNP)</summary>
+
+| Attribute | Value |
+|-----------|-------|
+| Insurance Plan Name | Aetna Medicare- Dual Choice/Dual Preferred Plan/Dual Select Choice/Dual Signature Choice/Dual Select Signature (PPO D-SNP) |
+| NextGen Name | Primary: Aetna Dual Complete Medicare PPO Primary                                            Secondary: Aetna Dual Complete MCD PPO Secondary |
+| Referral and/or Auth Required? | No Ref/No Auth Required |
+| Alexander Eaton, MD | PAR |
+| Veronica Kon Graversen, MD | PAR |
+
+</details>
+
+<details><summary>Aetna Medicare- Eagle/Eagle Giveback/Eagle I & II/ Eagle Plus/Elite/Elite Plan, Elite Plan 3/Enhanced Select(PPO)</summary>
+
+| Attribute | Value |
+|-----------|-------|
+| Insurance Plan Name | Aetna Medicare- Eagle/Eagle Giveback/Eagle I & II/ Eagle Plus/Elite/Elite Plan, Elite Plan 3/Enhanced Select(PPO) |
+| NextGen Name | Aetna Medicare PPO |
+| Referral and/or Auth Required? | No Ref/No Auth Required |
+| Alexander Eaton, MD | PAR |
+| Veronica Kon Graversen, MD | PAR |
+
+</details>
+
+<details><summary>Aetna Medicare- Freedom/Freedom Core/Freedom Plus/Freedom Preferred/Giveback Choice/Giveback Choice Plus/Gold/Platinum (PPO)</summary>
+
+| Attribute | Value |
+|-----------|-------|
+| Insurance Plan Name | Aetna Medicare- Freedom/Freedom Core/Freedom Plus/Freedom Preferred/Giveback Choice/Giveback Choice Plus/Gold/Platinum (PPO) |
+| NextGen Name | Aetna Medicare PPO |
+| Referral and/or Auth Required? | No Ref/No Auth Required |
+| Alexander Eaton, MD | PAR |
+| Veronica Kon Graversen, MD | PAR |
+
+</details>
+
+<details><summary>Aetna Medicare- Premier/Premier Plan/Premier Plus/ Premier Plus 1,2,3/ Premier Plus 1 and 2 Regional/Premier Plus/Premier Advantra  (PPO)</summary>
+
+| Attribute | Value |
+|-----------|-------|
+| Insurance Plan Name | Aetna Medicare- Premier/Premier Plan/Premier Plus/ Premier Plus 1,2,3/ Premier Plus 1 and 2 Regional/Premier Plus/Premier Advantra  (PPO) |
+| NextGen Name | Aetna Medicare PPO |
+| Referral and/or Auth Required? | No Ref/No Auth Required |
+| Alexander Eaton, MD | PAR |
+| Veronica Kon Graversen, MD | PAR |
+
+</details>
+
+<details><summary>Aetna Medicare- Select/SmartSaver Elite/Value/Valve Plan/Value Advantra/Value Plus/Value Plus Signature/Valley Plan(PPO)</summary>
+
+| Attribute | Value |
+|-----------|-------|
+| Insurance Plan Name | Aetna Medicare- Select/SmartSaver Elite/Value/Valve Plan/Value Advantra/Value Plus/Value Plus Signature/Valley Plan(PPO) |
+| NextGen Name | Aetna Medicare PPO |
+| Referral and/or Auth Required? | No Ref/No Auth Required |
+| Alexander Eaton, MD | PAR |
+| Veronica Kon Graversen, MD | PAR |
+
+</details>
+
+<details><summary>Aetna Medicare- Value   (HMO/HMO POS)</summary>
+
+| Attribute | Value |
+|-----------|-------|
+| Insurance Plan Name | Aetna Medicare- Value   (HMO/HMO POS) |
+| NextGen Name | Aetna Medicare HMO POS |
+| Referral and/or Auth Required? | No Ref/No Auth Required |
+| Alexander Eaton, MD | PAR |
+| Veronica Kon Graversen, MD | PAR |
+
+</details>
+
+<details><summary>Aetna National Advntage Program - National Advantage Program (NAP)</summary>
+
+| Attribute | Value |
+|-----------|-------|
+| Insurance Plan Name | Aetna National Advntage Program - National Advantage Program (NAP) |
+| NextGen Name | Aetna Commercial PPO |
+| Referral and/or Auth Required? | No Ref/No Auth Required |
+| Alexander Eaton, MD | PAR |
+| Veronica Kon Graversen, MD | PAR |
+
+</details>
+
+<details><summary>Aetna Premier Care Network Plus -Open Access Aetna Select</summary>
+
+| Attribute | Value |
+|-----------|-------|
+| Insurance Plan Name | Aetna Premier Care Network Plus -Open Access Aetna Select |
+| NextGen Name | Aetna Commercial PPO |
+| Referral and/or Auth Required? | No Ref/No Auth Required |
+| Alexander Eaton, MD | PAR |
+| Veronica Kon Graversen, MD | PAR |
+
+</details>
+
+<details><summary>All Savers Alternate Funding- United Healthcare Core Network</summary>
+
+| Attribute | Value |
+|-----------|-------|
+| Insurance Plan Name | All Savers Alternate Funding- United Healthcare Core Network |
+| NextGen Name | All Savers Commercial - UHC |
+| Referral and/or Auth Required? | No Ref/No Auth Required |
+| Alexander Eaton, MD | PAR |
+| Veronica Kon Graversen, MD | PAR |
+
+</details>
+
+<details><summary>Allegiance Benefit Plan (Cigna Open Access Plus Network)</summary>
+
+| Attribute | Value |
+|-----------|-------|
+| Insurance Plan Name | Allegiance Benefit Plan (Cigna Open Access Plus Network) |
+| NextGen Name | Allegiance Benefit Plan Management-Cigna |
+| Referral and/or Auth Required? | No Ref/No Auth Required |
+| Alexander Eaton, MD | PAR |
+| Veronica Kon Graversen, MD | PAR |
+
+</details>
+
+<details><summary>AllSavers (UHC) (Charter and Navigate)</summary>
+
+| Attribute | Value |
+|-----------|-------|
+| Insurance Plan Name | AllSavers (UHC) (Charter and Navigate) |
+| NextGen Name | All Savers Comm REFERRAL REQ - UHC |
+| Referral and/or Auth Required? | Referral Required |
+| Alexander Eaton, MD | PAR |
+| Veronica Kon Graversen, MD | PAR |
+
+</details>
+
+<details><summary>AllSavers (UHC) (Choice and Choice Plus)</summary>
+
+| Attribute | Value |
+|-----------|-------|
+| Insurance Plan Name | AllSavers (UHC) (Choice and Choice Plus) |
+| NextGen Name | All Savers Commercial - UHC |
+| Referral and/or Auth Required? | No Ref/No Auth Required |
+| Alexander Eaton, MD | PAR |
+| Veronica Kon Graversen, MD | PAR |
+
+</details>
+
+<details><summary>Ambetter ALL PLANS</summary>
+
+| Attribute | Value |
+|-----------|-------|
+| Insurance Plan Name | Ambetter ALL PLANS |
+| NextGen Name | Self Pay Non-Par with Ins |
+| Referral and/or Auth Required? | N/A |
+| Alexander Eaton, MD | Non-PAR |
+| Veronica Kon Graversen, MD | Non-PAR |
+
+</details>
+
+<details><summary>Anthem Blue- (Select Network) Alliance/ Blue Choice Open Access/Blue Choice Options/Blue Value/HealthSync</summary>
+
+| Attribute | Value |
+|-----------|-------|
+| Insurance Plan Name | Anthem Blue- (Select Network) Alliance/ Blue Choice Open Access/Blue Choice Options/Blue Value/HealthSync |
+| NextGen Name | Anthem BCBS Commercial PPO |
+| Referral and/or Auth Required? | No Ref/No Auth Required |
+| Alexander Eaton, MD | PAR |
+| Veronica Kon Graversen, MD | PAR |
+
+</details>
+
+<details><summary>Anthem Blue- (Select Network) Century Preferred/High Value Network/Horizon Managed Care Network/National PPO/Network S/Network Blue/ Select PPO</summary>
+
+| Attribute | Value |
+|-----------|-------|
+| Insurance Plan Name | Anthem Blue- (Select Network) Century Preferred/High Value Network/Horizon Managed Care Network/National PPO/Network S/Network Blue/ Select PPO |
+| NextGen Name | Anthem BCBS Commercial PPO |
+| Referral and/or Auth Required? | No Ref/No Auth Required |
+| Alexander Eaton, MD | PAR |
+| Veronica Kon Graversen, MD | PAR |
+
+</details>
+
+<details><summary>Anthem Blue- Grocery/Traditional/Traditional PPO</summary>
+
+| Attribute | Value |
+|-----------|-------|
+| Insurance Plan Name | Anthem Blue- Grocery/Traditional/Traditional PPO |
+| NextGen Name | Anthem BCBS Commercial PPO |
+| Referral and/or Auth Required? | No Ref/No Auth Required |
+| Alexander Eaton, MD | PAR |
+| Veronica Kon Graversen, MD | PAR |
+
+</details>
+
+<details><summary>Anthem Blue Medicare- Medicare Advantage (PPO)</summary>
+
+| Attribute | Value |
+|-----------|-------|
+| Insurance Plan Name | Anthem Blue Medicare- Medicare Advantage (PPO) |
+| NextGen Name | Anthem BCBS Medicare PPO |
+| Referral and/or Auth Required? | No Ref/No Auth Required |
+| Alexander Eaton, MD | PAR |
+| Veronica Kon Graversen, MD | PAR |
+
+</details>
+
+<details><summary>Anthem Blue- POS</summary>
+
+| Attribute | Value |
+|-----------|-------|
+| Insurance Plan Name | Anthem Blue- POS |
+| NextGen Name | Anthem BCBS Commercial PPO |
+| Referral and/or Auth Required? | No Ref/No Auth Required |
+| Alexander Eaton, MD | PAR |
+| Veronica Kon Graversen, MD | PAR |
+
+</details>
+
+<details><summary>Anthem Blue-Pathway Essentials/Essentials Standard PPO/EPO</summary>
+
+| Attribute | Value |
+|-----------|-------|
+| Insurance Plan Name | Anthem Blue-Pathway Essentials/Essentials Standard PPO/EPO |
+| NextGen Name | Anthem BCBS Commercial PPO |
+| Referral and/or Auth Required? | No Ref/No Auth Required |
+| Alexander Eaton, MD | PAR |
+| Veronica Kon Graversen, MD | PAR |
+
+</details>
+
+<details><summary>Anthem Blue-Preferred POS (Select Network)</summary>
+
+| Attribute | Value |
+|-----------|-------|
+| Insurance Plan Name | Anthem Blue-Preferred POS (Select Network) |
+| NextGen Name | Anthem BCBS Commercial PPO |
+| Referral and/or Auth Required? | No Ref/No Auth Required |
+| Alexander Eaton, MD | PAR |
+| Veronica Kon Graversen, MD | PAR |
+
+</details>
+
+<details><summary>AvMed HMO (State of Florida High Deductible Health Plan and State of Florida Standard HMO Plan)</summary>
+
+| Attribute | Value |
+|-----------|-------|
+| Insurance Plan Name | AvMed HMO (State of Florida High Deductible Health Plan and State of Florida Standard HMO Plan) |
+| NextGen Name | AvMed Commercial HMO |
+| Referral and/or Auth Required? | No Ref/No Auth Required |
+| Alexander Eaton, MD | PAR |
+| Veronica Kon Graversen, MD | PAR |
+
+</details>
+
+<details><summary>BCBS FL - ALL DUAL PLANS</summary>
+
+| Attribute | Value |
+|-----------|-------|
+| Insurance Plan Name | BCBS FL - ALL DUAL PLANS |
+| NextGen Name | Self Pay Non-Par with Ins |
+| Referral and/or Auth Required? | N/A |
+| Alexander Eaton, MD | Non-PAR |
+| Veronica Kon Graversen, MD | Non-PAR |
+
+</details>
+
+<details><summary>BCBS of FL BlueMedicare Patriot (PPO)</summary>
+
+| Attribute | Value |
+|-----------|-------|
+| Insurance Plan Name | BCBS of FL BlueMedicare Patriot (PPO) |
+| NextGen Name | BCBS FL Medicare PPO |
+| Referral and/or Auth Required? | No Ref/No Auth Required |
+| Alexander Eaton, MD | PAR |
+| Veronica Kon Graversen, MD | PAR |
+
+</details>
+
+<details><summary>BCBS of FL BlueMedicare Select (PPO)</summary>
+
+| Attribute | Value |
+|-----------|-------|
+| Insurance Plan Name | BCBS of FL BlueMedicare Select (PPO) |
+| NextGen Name | BCBS FL Medicare PPO |
+| Referral and/or Auth Required? | No Ref/No Auth Required |
+| Alexander Eaton, MD | PAR |
+| Veronica Kon Graversen, MD | PAR |
+
+</details>
+
+<details><summary>BCBS of FL BlueMedicare Value PPO/ BlueMedicare Value w. Level 1 - PLEASE DO NOT SCHEDULE ANY APPTS AFTER 12/31/2024 AS THIS PLAN IS NO LONGER OFFERED AS OF 01/01/2025 FOR RHC-NAPLES OFFICE ONLY</summary>
+
+| Attribute | Value |
+|-----------|-------|
+| Insurance Plan Name | BCBS of FL BlueMedicare Value PPO/ BlueMedicare Value w. Level 1 - PLEASE DO NOT SCHEDULE ANY APPTS AFTER 12/31/2024 AS THIS PLAN IS NO LONGER OFFERED AS OF 01/01/2025 FOR RHC-NAPLES OFFICE ONLY |
+| NextGen Name | BCBS FL Medicare PPO |
+| Referral and/or Auth Required? | No Ref/No Auth Required |
+| Alexander Eaton, MD | PAR |
+| Veronica Kon Graversen, MD | PAR |
+
+</details>
+
+<details><summary>BCBS of FL BlueOptions/Blue Options Hospital Surgical Plus/Blue Options with Pediactric Vision/Commercial PPO</summary>
+
+| Attribute | Value |
+|-----------|-------|
+| Insurance Plan Name | BCBS of FL BlueOptions/Blue Options Hospital Surgical Plus/Blue Options with Pediactric Vision/Commercial PPO |
+| NextGen Name | BCBS FL Commercial PPO |
+| Referral and/or Auth Required? | N/A |
+| Alexander Eaton, MD | Non-PAR |
+| Veronica Kon Graversen, MD | Non-PAR |
+
+</details>
+
+<details><summary>BCBS of FL Federal Employee Program - alpha prefix R</summary>
+
+| Attribute | Value |
+|-----------|-------|
+| Insurance Plan Name | BCBS of FL Federal Employee Program - alpha prefix R |
+| NextGen Name | BCBS Federal |
+| Referral and/or Auth Required? | No Ref/No Auth Required |
+| Alexander Eaton, MD | PAR |
+| Veronica Kon Graversen, MD | PAR |
+
+</details>
+
+<details><summary>BCBS Out of State California ONLY</summary>
+
+| Attribute | Value |
+|-----------|-------|
+| Insurance Plan Name | BCBS Out of State California ONLY |
+| NextGen Name | Self Pay Non-Par with Ins |
+| Referral and/or Auth Required? | Authorization Required |
+| Alexander Eaton, MD | PAR |
+| Veronica Kon Graversen, MD | PAR |
+
+</details>
+
+<details><summary>BCBS Out of State Commercial PPO Plans -all plans that are not BCBS of Florida; please ask the patient to check the front and back copy of the card for the state. If the card says "Anthem", please see ANTHEM on the insurance guide</summary>
+
+| Attribute | Value |
+|-----------|-------|
+| Insurance Plan Name | BCBS Out of State Commercial PPO Plans -all plans that are not BCBS of Florida; please ask the patient to check the front and back copy of the card for the state. If the card says "Anthem", please see ANTHEM on the insurance guide |
+| NextGen Name | BCBS Out of State Commercial PPO |
+| Referral and/or Auth Required? | No Ref/No Auth Required |
+| Alexander Eaton, MD | PAR |
+| Veronica Kon Graversen, MD | PAR |
+
+</details>
+
+<details><summary>BCBS Out of State HMO Plans - ALL PLANS Commercial and Medicare HMO PLANS</summary>
+
+| Attribute | Value |
+|-----------|-------|
+| Insurance Plan Name | BCBS Out of State HMO Plans - ALL PLANS Commercial and Medicare HMO PLANS |
+| NextGen Name | Self Pay Non-Par with Ins |
+| Referral and/or Auth Required? | N/A |
+| Alexander Eaton, MD | Non-PAR |
+| Veronica Kon Graversen, MD | Non-PAR |
+
+</details>
+
+<details><summary>BCBS Out of State Medicare PPO Plans -all plans that are not BCBS of Florida; please ask the patient to check the front and back copy of the card for the state. If the card says "Anthem", please see ANTHEM on the insurance guide</summary>
+
+| Attribute | Value |
+|-----------|-------|
+| Insurance Plan Name | BCBS Out of State Medicare PPO Plans -all plans that are not BCBS of Florida; please ask the patient to check the front and back copy of the card for the state. If the card says "Anthem", please see ANTHEM on the insurance guide |
+| NextGen Name | BCBS Out of State Medicare PPO |
+| Referral and/or Auth Required? | No Ref/No Auth Required |
+| Alexander Eaton, MD | PAR |
+| Veronica Kon Graversen, MD | PAR |
+
+</details>
+
+<details><summary>Carefirst BCBS Commercial - BlueChoice Advantage/BlueChoice Advantage HDHP/BlueChoice Plus/BlueHPN/BluePreferred (PPO)</summary>
+
+| Attribute | Value |
+|-----------|-------|
+| Insurance Plan Name | Carefirst BCBS Commercial - BlueChoice Advantage/BlueChoice Advantage HDHP/BlueChoice Plus/BlueHPN/BluePreferred (PPO) |
+| NextGen Name | Carefirst BCBS Commercial PPO |
+| Referral and/or Auth Required? | No Ref/No Auth Required |
+| Alexander Eaton, MD | PAR |
+| Veronica Kon Graversen, MD | PAR |
+
+</details>
+
+<details><summary>Carefirst BCBS Commercial - BlueChoice Opt-Out Open Access/BlueChoice Opt-Out Plus Open Access/CareFirst Regional (HMO)</summary>
+
+| Attribute | Value |
+|-----------|-------|
+| Insurance Plan Name | Carefirst BCBS Commercial - BlueChoice Opt-Out Open Access/BlueChoice Opt-Out Plus Open Access/CareFirst Regional (HMO) |
+| NextGen Name | Carefirst BCBS Commercial HMO |
+| Referral and/or Auth Required? | No Ref/No Auth Required |
+| Alexander Eaton, MD | PAR |
+| Veronica Kon Graversen, MD | PAR |
+
+</details>
+
+<details><summary>Carefirst BCBS Commercial - Comprehensive Major Medical</summary>
+
+| Attribute | Value |
+|-----------|-------|
+| Insurance Plan Name | Carefirst BCBS Commercial - Comprehensive Major Medical |
+| NextGen Name | Carefirst BCBS Commercial PPO |
+| Referral and/or Auth Required? | No Ref/No Auth Required |
+| Alexander Eaton, MD | PAR |
+| Veronica Kon Graversen, MD | PAR |
+
+</details>
+
+<details><summary>Carefirst BCBS Commercial - HealthyBlue/HealthyBlue 2.0/HealthyBlue Advantage (HMO)</summary>
+
+| Attribute | Value |
+|-----------|-------|
+| Insurance Plan Name | Carefirst BCBS Commercial - HealthyBlue/HealthyBlue 2.0/HealthyBlue Advantage (HMO) |
+| NextGen Name | Carefirst BCBS Commercial HMO |
+| Referral and/or Auth Required? | No Ref/No Auth Required |
+| Alexander Eaton, MD | PAR |
+| Veronica Kon Graversen, MD | PAR |
+
+</details>
+
+<details><summary>Carefirst BCBS Commercial - Personal Comp</summary>
+
+| Attribute | Value |
+|-----------|-------|
+| Insurance Plan Name | Carefirst BCBS Commercial - Personal Comp |
+| NextGen Name | Carefirst BCBS Commercial PPO |
+| Referral and/or Auth Required? | No Ref/No Auth Required |
+| Alexander Eaton, MD | PAR |
+| Veronica Kon Graversen, MD | PAR |
+
+</details>
+
+<details><summary>Carefirst BCBS Commercial - PPO/EPO/HealthyBlue Plus/HealthyBlue PPO/ BlueCard PAR/ BlueCard PPO/ EPO/ BlueCard Traditional</summary>
+
+| Attribute | Value |
+|-----------|-------|
+| Insurance Plan Name | Carefirst BCBS Commercial - PPO/EPO/HealthyBlue Plus/HealthyBlue PPO/ BlueCard PAR/ BlueCard PPO/ EPO/ BlueCard Traditional |
+| NextGen Name | Carefirst BCBS Commercial PPO |
+| Referral and/or Auth Required? | No Ref/No Auth Required |
+| Alexander Eaton, MD | PAR |
+| Veronica Kon Graversen, MD | PAR |
+
+</details>
+
+<details><summary>Carefirst BCBS Commercial - Standard BlueChoice (HMO)</summary>
+
+| Attribute | Value |
+|-----------|-------|
+| Insurance Plan Name | Carefirst BCBS Commercial - Standard BlueChoice (HMO) |
+| NextGen Name | Carefirst BCBS Commercial HMO |
+| Referral and/or Auth Required? | No Ref/No Auth Required |
+| Alexander Eaton, MD | PAR |
+| Veronica Kon Graversen, MD | PAR |
+
+</details>
+
+<details><summary>Carefirst BCBS Commercial - Traditional/Indemnity</summary>
+
+| Attribute | Value |
+|-----------|-------|
+| Insurance Plan Name | Carefirst BCBS Commercial - Traditional/Indemnity |
+| NextGen Name | Carefirst BCBS Medicare PPO |
+| Referral and/or Auth Required? | No Ref/No Auth Required |
+| Alexander Eaton, MD | PAR |
+| Veronica Kon Graversen, MD | PAR |
+
+</details>
+
+<details><summary>Carefirst BCBS Medicare Advantage (PPO)</summary>
+
+| Attribute | Value |
+|-----------|-------|
+| Insurance Plan Name | Carefirst BCBS Medicare Advantage (PPO) |
+| NextGen Name | Carefirst BCBS Commercial PPO |
+| Referral and/or Auth Required? | No Ref/No Auth Required |
+| Alexander Eaton, MD | PAR |
+| Veronica Kon Graversen, MD | PAR |
+
+</details>
+
+<details><summary>Carefirst Commercial - CareFirst Regional</summary>
+
+| Attribute | Value |
+|-----------|-------|
+| Insurance Plan Name | Carefirst Commercial - CareFirst Regional |
+| NextGen Name | Carefirst BCBS Commercial HMO |
+| Referral and/or Auth Required? | No Ref/No Auth Required |
+| Alexander Eaton, MD | PAR |
+| Veronica Kon Graversen, MD | PAR |
+
+</details>
+
+<details><summary>ChampVA</summary>
+
+| Attribute | Value |
+|-----------|-------|
+| Insurance Plan Name | ChampVA |
+| NextGen Name | ChampVA |
+| Referral and/or Auth Required? | No Ref/No Auth Required |
+| Alexander Eaton, MD | PAR |
+| Veronica Kon Graversen, MD | PAR |
+
+</details>
+
+<details><summary>Cigna Choice Fund PPO</summary>
+
+| Attribute | Value |
+|-----------|-------|
+| Insurance Plan Name | Cigna Choice Fund PPO |
+| NextGen Name | Cigna Commercial PPO |
+| Referral and/or Auth Required? | No Ref/No Auth Required |
+| Alexander Eaton, MD | PAR |
+| Veronica Kon Graversen, MD | PAR |
+
+</details>
+
+<details><summary>Cigna ChoiceFund OA Plus/Cigna ChoiceFund OA Plus with CareLink</summary>
+
+| Attribute | Value |
+|-----------|-------|
+| Insurance Plan Name | Cigna ChoiceFund OA Plus/Cigna ChoiceFund OA Plus with CareLink |
+| NextGen Name | Cigna Commercial PPO |
+| Referral and/or Auth Required? | No Ref/No Auth Required |
+| Alexander Eaton, MD | PAR |
+| Veronica Kon Graversen, MD | PAR |
+
+</details>
+
+<details><summary>Cigna Courage Medicare (HMO)</summary>
+
+| Attribute | Value |
+|-----------|-------|
+| Insurance Plan Name | Cigna Courage Medicare (HMO) |
+| NextGen Name | Cigna Medicare HMO REFERRAL REQUIRED |
+| Referral and/or Auth Required? | Referral Required |
+| Alexander Eaton, MD | PAR |
+| Veronica Kon Graversen, MD | PAR |
+
+</details>
+
+<details><summary>Cigna Florida Connect EPO</summary>
+
+| Attribute | Value |
+|-----------|-------|
+| Insurance Plan Name | Cigna Florida Connect EPO |
+| NextGen Name | Self Pay Non-Par with Ins |
+| Referral and/or Auth Required? | N/A |
+| Alexander Eaton, MD | Non-PAR |
+| Veronica Kon Graversen, MD | Non-PAR |
+
+</details>
+
+<details><summary>Cigna Global Health Benefits (BENEFITS/ELIGIBILITY NEEDS TO BE CHECKED EVERYTIME)</summary>
+
+| Attribute | Value |
+|-----------|-------|
+| Insurance Plan Name | Cigna Global Health Benefits (BENEFITS/ELIGIBILITY NEEDS TO BE CHECKED EVERYTIME) |
+| NextGen Name | Cigna International |
+| Referral and/or Auth Required? | Authorization Required |
+| Alexander Eaton, MD | PAR |
+| Veronica Kon Graversen, MD | PAR |
+
+</details>
+
+<details><summary>CIGNA HealthCare of Florida, Inc. - Fort Myers HMO</summary>
+
+| Attribute | Value |
+|-----------|-------|
+| Insurance Plan Name | CIGNA HealthCare of Florida, Inc. - Fort Myers HMO |
+| NextGen Name | Cigna Commercial HMO |
+| Referral and/or Auth Required? | No Ref/No Auth Required |
+| Alexander Eaton, MD | PAR |
+| Veronica Kon Graversen, MD | PAR |
+
+</details>
+
+<details><summary>CIGNA HealthCare of Florida, Inc. - Tampa HMO</summary>
+
+| Attribute | Value |
+|-----------|-------|
+| Insurance Plan Name | CIGNA HealthCare of Florida, Inc. - Tampa HMO |
+| NextGen Name | Cigna Commercial HMO |
+| Referral and/or Auth Required? | No Ref/No Auth Required |
+| Alexander Eaton, MD | PAR |
+| Veronica Kon Graversen, MD | PAR |
+
+</details>
+
+<details><summary>CIGNA HealthCare Seamless Network - Florida</summary>
+
+| Attribute | Value |
+|-----------|-------|
+| Insurance Plan Name | CIGNA HealthCare Seamless Network - Florida |
+| NextGen Name | Cigna Commercial PPO |
+| Referral and/or Auth Required? | No Ref/No Auth Required |
+| Alexander Eaton, MD | PAR |
+| Veronica Kon Graversen, MD | PAR |
+
+</details>
+
+<details><summary>Cigna Local Plus</summary>
+
+| Attribute | Value |
+|-----------|-------|
+| Insurance Plan Name | Cigna Local Plus |
+| NextGen Name | Cigna Commercial PPO |
+| Referral and/or Auth Required? | No Ref/No Auth Required |
+| Alexander Eaton, MD | PAR |
+| Veronica Kon Graversen, MD | PAR |
+
+</details>
+
+<details><summary>Cigna Local Plus  - Oscar</summary>
+
+| Attribute | Value |
+|-----------|-------|
+| Insurance Plan Name | Cigna Local Plus  - Oscar |
+| NextGen Name | Self Pay Non-Par with Ins |
+| Referral and/or Auth Required? | N/A |
+| Alexander Eaton, MD | Non-PAR |
+| Veronica Kon Graversen, MD | Non-PAR |
+
+</details>
+
+<details><summary>Cigna Medicare HMO- Preferred/Preferred Savings Medicare/Courage</summary>
+
+| Attribute | Value |
+|-----------|-------|
+| Insurance Plan Name | Cigna Medicare HMO- Preferred/Preferred Savings Medicare/Courage |
+| NextGen Name | Cigna Medicare HMO REFERRAL REQUIRED |
+| Referral and/or Auth Required? | Referral Required |
+| Alexander Eaton, MD | PAR |
+| Veronica Kon Graversen, MD | PAR |
+
+</details>
+
+<details><summary>Cigna Medicare- TotalCare/Total Care Plus HMO D-SNP</summary>
+
+| Attribute | Value |
+|-----------|-------|
+| Insurance Plan Name | Cigna Medicare- TotalCare/Total Care Plus HMO D-SNP |
+| NextGen Name | Primary: Cigna Dual MDCR HMO Primary-REFERRAL REQ                                                      Secondary: Cigna Dual Medicaid HMO Secondary |
+| Referral and/or Auth Required? | Referral Required |
+| Alexander Eaton, MD | PAR |
+| Veronica Kon Graversen, MD | PAR |
+
+</details>
+
+<details><summary>Cigna Medicare PPO</summary>
+
+| Attribute | Value |
+|-----------|-------|
+| Insurance Plan Name | Cigna Medicare PPO |
+| NextGen Name | Cigna Medicare PPO |
+| Referral and/or Auth Required? | N/A |
+| Alexander Eaton, MD | PAR |
+| Veronica Kon Graversen, MD | PAR |
+
+</details>
+
+<details><summary>Cigna OA Plus - Carelink</summary>
+
+| Attribute | Value |
+|-----------|-------|
+| Insurance Plan Name | Cigna OA Plus - Carelink |
+| NextGen Name | Cigna Commercial PPO |
+| Referral and/or Auth Required? | No Ref/No Auth Required |
+| Alexander Eaton, MD | PAR |
+| Veronica Kon Graversen, MD | PAR |
+
+</details>
+
+<details><summary>Cigna Open Access Plus</summary>
+
+| Attribute | Value |
+|-----------|-------|
+| Insurance Plan Name | Cigna Open Access Plus |
+| NextGen Name | Cigna Commercial PPO |
+| Referral and/or Auth Required? | No Ref/No Auth Required |
+| Alexander Eaton, MD | PAR |
+| Veronica Kon Graversen, MD | PAR |
+
+</details>
+
+<details><summary>Cigna Open Access Plus - Oscar</summary>
+
+| Attribute | Value |
+|-----------|-------|
+| Insurance Plan Name | Cigna Open Access Plus - Oscar |
+| NextGen Name | Self Pay Non-Par with Ins |
+| Referral and/or Auth Required? | N/A |
+| Alexander Eaton, MD | Non-PAR |
+| Veronica Kon Graversen, MD | Non-PAR |
+
+</details>
+
+<details><summary>Cigna PPO</summary>
+
+| Attribute | Value |
+|-----------|-------|
+| Insurance Plan Name | Cigna PPO |
+| NextGen Name | Cigna Commercial PPO |
+| Referral and/or Auth Required? | No Ref/No Auth Required |
+| Alexander Eaton, MD | PAR |
+| Veronica Kon Graversen, MD | PAR |
+
+</details>
+
+<details><summary>Division of Blind</summary>
+
+| Attribute | Value |
+|-----------|-------|
+| Insurance Plan Name | Division of Blind |
+| NextGen Name | Division of Blind |
+| Referral and/or Auth Required? | Authorization Required |
+| Alexander Eaton, MD | PAR |
+| Veronica Kon Graversen, MD | PAR |
+
+</details>
+
+<details><summary>First Health Network (through Aetna and/or PHP Network) PLEASE ASK THE PATIENT FOR THE HEALTH PLAN NAME ON THE CARD AND LOAD THE PLAN INTO NEXTGEN ACCORDING TO THEIR HEALTH PLAN</summary>
+
+| Attribute | Value |
+|-----------|-------|
+| Insurance Plan Name | First Health Network (through Aetna and/or PHP Network) PLEASE ASK THE PATIENT FOR THE HEALTH PLAN NAME ON THE CARD AND LOAD THE PLAN INTO NEXTGEN ACCORDING TO THEIR HEALTH PLAN |
+| NextGen Name | PLEASE ASK THE PATIENT FOR THE HEALTH PLAN NAME ON THE CARD. IF THE PAYER IS NOT LOADED INTO THE SYSTEM, USE: INS NOT IN NEXTGEN. SEE: Generic Insurance Protocol - PAC, Front Desk, and Customer Service.pdf |
+| Referral and/or Auth Required? | N/A |
+| Alexander Eaton, MD | PAR |
+| Veronica Kon Graversen, MD | PAR |
+
+</details>
+
+<details><summary>GEHA (United Healthcare Choice Plus Network) PLEASE INCLUDE THE SUFFIX IN THE POLICY # ON THE ID CARD AS GEHA (EX: 1234567GEHA)</summary>
+
+| Attribute | Value |
+|-----------|-------|
+| Insurance Plan Name | GEHA (United Healthcare Choice Plus Network) PLEASE INCLUDE THE SUFFIX IN THE POLICY # ON THE ID CARD AS GEHA (EX: 1234567GEHA) |
+| NextGen Name | GEHA Commercial - UHC |
+| Referral and/or Auth Required? | No Ref/No Auth Required |
+| Alexander Eaton, MD | PAR |
+| Veronica Kon Graversen, MD | PAR |
+
+</details>
+
+<details><summary>Golden Rule (UHC Choice Plus Network)</summary>
+
+| Attribute | Value |
+|-----------|-------|
+| Insurance Plan Name | Golden Rule (UHC Choice Plus Network) |
+| NextGen Name | Golden Rule Commercial - UHC |
+| Referral and/or Auth Required? | No Ref/No Auth Required |
+| Alexander Eaton, MD | PAR |
+| Veronica Kon Graversen, MD | PAR |
+
+</details>
+
+<details><summary>Humana Commercial - ALL PLANS  - AS OF 01/01/25- PLAN IS NO LONGER OFFERED IN FL MARKETS</summary>
+
+| Attribute | Value |
+|-----------|-------|
+| Insurance Plan Name | Humana Commercial - ALL PLANS  - AS OF 01/01/25- PLAN IS NO LONGER OFFERED IN FL MARKETS |
+| NextGen Name | Self Pay Non-Par with Ins |
+| Referral and/or Auth Required? | N/A |
+| Alexander Eaton, MD | Non-PAR |
+| Veronica Kon Graversen, MD | Non-PAR |
+
+</details>
+
+<details><summary>Humana  Medicare Choice Florida SNP-DE (PPO D-SNP)</summary>
+
+| Attribute | Value |
+|-----------|-------|
+| Insurance Plan Name | Humana  Medicare Choice Florida SNP-DE (PPO D-SNP) |
+| NextGen Name | Primary: Humana Dual Medicare PPO Primary                                                 Secondary: Humana Dual Medicaid Secondary |
+| Referral and/or Auth Required? | No Ref/No Auth Required |
+| Alexander Eaton, MD | PAR |
+| Veronica Kon Graversen, MD | PAR |
+
+</details>
+
+<details><summary>Humana Medicare- Choice Florida (PPO)/Choice (Regional PPO)/USAA Honor PPO OUT OF NETWORK. PATIENT HAS OON BENEFITS. PLEASE INFORM PATIENT OF POSSIBLE HIGHER OUT OF POCKET COSTS</summary>
+
+| Attribute | Value |
+|-----------|-------|
+| Insurance Plan Name | Humana Medicare- Choice Florida (PPO)/Choice (Regional PPO)/USAA Honor PPO OUT OF NETWORK. PATIENT HAS OON BENEFITS. PLEASE INFORM PATIENT OF POSSIBLE HIGHER OUT OF POCKET COSTS |
+| NextGen Name | Humana Medicare PPO |
+| Referral and/or Auth Required? | No Ref/No Auth Required |
+| Alexander Eaton, MD | PAR |
+| Veronica Kon Graversen, MD | PAR |
+
+</details>
+
+<details><summary>Humana Medicare HMO -ALL PLANS</summary>
+
+| Attribute | Value |
+|-----------|-------|
+| Insurance Plan Name | Humana Medicare HMO -ALL PLANS |
+| NextGen Name | Self Pay Non-Par with Ins |
+| Referral and/or Auth Required? | N/A |
+| Alexander Eaton, MD | Non-PAR |
+| Veronica Kon Graversen, MD | Non-PAR |
+
+</details>
+
+<details><summary>Humana National POS - Open Access/Open Access EPO</summary>
+
+| Attribute | Value |
+|-----------|-------|
+| Insurance Plan Name | Humana National POS - Open Access/Open Access EPO |
+| NextGen Name | Humana Commercial PPO |
+| Referral and/or Auth Required? | No Ref/No Auth Required |
+| Alexander Eaton, MD | Non-PAR |
+| Veronica Kon Graversen, MD | Non-PAR |
+
+</details>
+
+<details><summary>Humana National POS - OpenAccess Plus/Choice POS/PPO</summary>
+
+| Attribute | Value |
+|-----------|-------|
+| Insurance Plan Name | Humana National POS - OpenAccess Plus/Choice POS/PPO |
+| NextGen Name | Humana Commercial PPO |
+| Referral and/or Auth Required? | No Ref/No Auth Required |
+| Alexander Eaton, MD | Non-PAR |
+| Veronica Kon Graversen, MD | Non-PAR |
+
+</details>
+
+<details><summary>Mailhandlers (Aetna Choice® POS II Network)</summary>
+
+| Attribute | Value |
+|-----------|-------|
+| Insurance Plan Name | Mailhandlers (Aetna Choice® POS II Network) |
+| NextGen Name | Mail Handlers Benefit Plan Comm - Aetna |
+| Referral and/or Auth Required? | No Ref/No Auth Required |
+| Alexander Eaton, MD | PAR |
+| Veronica Kon Graversen, MD | PAR |
+
+</details>
+
+<details><summary>Lutheran Preferred (PHP Network)</summary>
+
+| Attribute | Value |
+|-----------|-------|
+| Insurance Plan Name | Lutheran Preferred (PHP Network) |
+| NextGen Name | Lutheran Preferred - PHP |
+| Referral and/or Auth Required? | No Ref/No Auth Required |
+| Alexander Eaton, MD | Non-PAR -OON Benefits |
+| Veronica Kon Graversen, MD | Non-PAR -OON Benefits |
+
+</details>
+
+<details><summary>Medicare</summary>
+
+| Attribute | Value |
+|-----------|-------|
+| Insurance Plan Name | Medicare |
+| NextGen Name | Medicare Part B |
+| Referral and/or Auth Required? | No Ref/No Auth Required |
+| Alexander Eaton, MD | PAR |
+| Veronica Kon Graversen, MD | PAR |
+
+</details>
+
+<details><summary>Meritain Gulf Coast (Aetna Choice POS II Network)</summary>
+
+| Attribute | Value |
+|-----------|-------|
+| Insurance Plan Name | Meritain Gulf Coast (Aetna Choice POS II Network) |
+| NextGen Name | Meritain Health Commercial - Aetna |
+| Referral and/or Auth Required? | No Ref/No Auth Required |
+| Alexander Eaton, MD | PAR |
+| Veronica Kon Graversen, MD | PAR |
+
+</details>
+
+<details><summary>Meritain Health - Sarasota Memorial (BASIC AND/OR COMPREHENSIVE PLAN) PLEASE ASK THE PATIENT IF THE CARD HAS "SMH" ON THEIR CARD. IF THE CARD SAYS BASIC OR COMPREHENSIVE PLAN, WE ARE OUT OF NETWORK AND THERE ARE NO OON BENEFITS</summary>
+
+| Attribute | Value |
+|-----------|-------|
+| Insurance Plan Name | Meritain Health - Sarasota Memorial (BASIC AND/OR COMPREHENSIVE PLAN) PLEASE ASK THE PATIENT IF THE CARD HAS "SMH" ON THEIR CARD. IF THE CARD SAYS BASIC OR COMPREHENSIVE PLAN, WE ARE OUT OF NETWORK AND THERE ARE NO OON BENEFITS |
+| NextGen Name | Self Pay Non-Par with Ins |
+| Referral and/or Auth Required? | N/A |
+| Alexander Eaton, MD | Non-PAR |
+| Veronica Kon Graversen, MD | Non-PAR |
+
+</details>
+
+<details><summary>Meritain Health - Sarasota Memorial (EXTENSIVE MEDICAL PLAN) PLEASE ASK THE PATIENT IF THE CARD HAS "SMH" ON THEIR CARD AND THE CARD MUST SAY EXTENDED MEDICAL PLAN. THE EXTENDED MEDICAL PLAN APPLIES TOWARDS THE PATIENT'S TIER 2 BENEFITS - AETNA CHOICE POS II</summary>
+
+| Attribute | Value |
+|-----------|-------|
+| Insurance Plan Name | Meritain Health - Sarasota Memorial (EXTENSIVE MEDICAL PLAN) PLEASE ASK THE PATIENT IF THE CARD HAS "SMH" ON THEIR CARD AND THE CARD MUST SAY EXTENDED MEDICAL PLAN. THE EXTENDED MEDICAL PLAN APPLIES TOWARDS THE PATIENT'S TIER 2 BENEFITS - AETNA CHOICE POS II |
+| NextGen Name | Meritain Health SMH Extd  Pln |
+| Referral and/or Auth Required? | Authorization MAY be Required |
+| Alexander Eaton, MD | PAR |
+| Veronica Kon Graversen, MD | PAR |
+
+</details>
+
+<details><summary>Multiplan PLEASE ASK THE PATIENT FOR THE HEALTH PLAN NAME ON THE CARD AND LOAD THE PLAN INTO NEXTGEN ACCORDING TO THEIR HEALTH PLAN</summary>
+
+| Attribute | Value |
+|-----------|-------|
+| Insurance Plan Name | Multiplan PLEASE ASK THE PATIENT FOR THE HEALTH PLAN NAME ON THE CARD AND LOAD THE PLAN INTO NEXTGEN ACCORDING TO THEIR HEALTH PLAN |
+| NextGen Name | PLEASE ASK THE PATIENT FOR THE HEALTH PLAN NAME ON THE CARD. IF THE PAYER IS NOT LOADED INTO THE SYSTEM, USE: INS NOT IN NEXTGEN. SEE: Generic Insurance Protocol - PAC, Front Desk, and Customer Service.pdf |
+| Referral and/or Auth Required? | N/A |
+| Alexander Eaton, MD | PAR |
+| Veronica Kon Graversen, MD | PAR |
+
+</details>
+
+<details><summary>NALC Health Benefit Plan (Cigna Open Access Plus Network)</summary>
+
+| Attribute | Value |
+|-----------|-------|
+| Insurance Plan Name | NALC Health Benefit Plan (Cigna Open Access Plus Network) |
+| NextGen Name | NALC Health Benefit Plan- Cigna |
+| Referral and/or Auth Required? | No Ref/No Auth Required |
+| Alexander Eaton, MD | PAR |
+| Veronica Kon Graversen, MD | PAR |
+
+</details>
+
+<details><summary>Optum VA-VETERANS AFFAIRS Community Care Network (CCN)</summary>
+
+| Attribute | Value |
+|-----------|-------|
+| Insurance Plan Name | Optum VA-VETERANS AFFAIRS Community Care Network (CCN) |
+| NextGen Name | Optum VA Community Care |
+| Referral and/or Auth Required? | Authorization Required |
+| Alexander Eaton, MD | PAR |
+| Veronica Kon Graversen, MD | PAR |
+
+</details>
+
+<details><summary>PHCS PLEASE ASK THE PATIENT FOR THE HEALTH PLAN NAME ON THE CARD AND LOAD THE PLAN INTO NEXTGEN ACCORDING TO THEIR HEALTH PLAN</summary>
+
+| Attribute | Value |
+|-----------|-------|
+| Insurance Plan Name | PHCS PLEASE ASK THE PATIENT FOR THE HEALTH PLAN NAME ON THE CARD AND LOAD THE PLAN INTO NEXTGEN ACCORDING TO THEIR HEALTH PLAN |
+| NextGen Name | PLEASE ASK THE PATIENT FOR THE HEALTH PLAN NAME ON THE CARD. IF THE PAYER IS NOT LOADED INTO THE SYSTEM, USE: INS NOT IN NEXTGEN. SEE: Generic Insurance Protocol - PAC, Front Desk, and Customer Service.pdf |
+| Referral and/or Auth Required? | N/A |
+| Alexander Eaton, MD | PAR |
+| Veronica Kon Graversen, MD | PAR |
+
+</details>
+
+<details><summary>Priority Health Commercial- (Cigna Open Access Network) HMO</summary>
+
+| Attribute | Value |
+|-----------|-------|
+| Insurance Plan Name | Priority Health Commercial- (Cigna Open Access Network) HMO |
+| NextGen Name | Priority Health Comm HMO REFERRAL -Cigna |
+| Referral and/or Auth Required? | Referral Required |
+| Alexander Eaton, MD | PAR |
+| Veronica Kon Graversen, MD | PAR |
+
+</details>
+
+<details><summary>Priority Health Commercial- (Cigna Open Access Network) PPO</summary>
+
+| Attribute | Value |
+|-----------|-------|
+| Insurance Plan Name | Priority Health Commercial- (Cigna Open Access Network) PPO |
+| NextGen Name | Priority Health Commercial PPO - Cigna |
+| Referral and/or Auth Required? | No Ref/No Auth Required |
+| Alexander Eaton, MD | PAR |
+| Veronica Kon Graversen, MD | PAR |
+
+</details>
+
+<details><summary>Priority Health Medicare- Priority Medicare Ideal/Travel Pass (Multiplan) PPO</summary>
+
+| Attribute | Value |
+|-----------|-------|
+| Insurance Plan Name | Priority Health Medicare- Priority Medicare Ideal/Travel Pass (Multiplan) PPO |
+| NextGen Name | Priority Health Medicare PPO - Multiplan |
+| Referral and/or Auth Required? | No Ref/No Auth Required |
+| Alexander Eaton, MD | PAR |
+| Veronica Kon Graversen, MD | PAR |
+
+</details>
+
+<details><summary>Priority Health Medicare- Priority Medicare Value/Travel Pass (Multiplan)  HMO -POS</summary>
+
+| Attribute | Value |
+|-----------|-------|
+| Insurance Plan Name | Priority Health Medicare- Priority Medicare Value/Travel Pass (Multiplan)  HMO -POS |
+| NextGen Name | Priority Health Medicare HMO - Multiplan |
+| Referral and/or Auth Required? | No Ref/No Auth Required |
+| Alexander Eaton, MD | PAR |
+| Veronica Kon Graversen, MD | PAR |
+
+</details>
+
+<details><summary>Railroad Medicare - CONFIRM WITH PT AT THE BOTTOM OF THE ID CARD IT SAYS "RAILROAD RETIREMENT BOARD"</summary>
+
+| Attribute | Value |
+|-----------|-------|
+| Insurance Plan Name | Railroad Medicare - CONFIRM WITH PT AT THE BOTTOM OF THE ID CARD IT SAYS "RAILROAD RETIREMENT BOARD" |
+| NextGen Name | Railroad Medicare |
+| Referral and/or Auth Required? | No Ref/No Auth Required |
+| Alexander Eaton, MD | PAR |
+| Veronica Kon Graversen, MD | PAR |
+
+</details>
+
+<details><summary>Simply Healthcare</summary>
+
+| Attribute | Value |
+|-----------|-------|
+| Insurance Plan Name | Simply Healthcare |
+| NextGen Name | Self Pay Non-Par with Ins |
+| Referral and/or Auth Required? | N/A |
+| Alexander Eaton, MD | Non-PAR |
+| Veronica Kon Graversen, MD | Non-PAR |
+
+</details>
+
+<details><summary>Surest (United Healthcare Choice Plus Network)</summary>
+
+| Attribute | Value |
+|-----------|-------|
+| Insurance Plan Name | Surest (United Healthcare Choice Plus Network) |
+| NextGen Name | Surest Commercial - UHC |
+| Referral and/or Auth Required? | No Ref/No Auth Required |
+| Alexander Eaton, MD | PAR |
+| Veronica Kon Graversen, MD | PAR |
+
+</details>
+
+<details><summary>The Empire Plan-NYSHIP</summary>
+
+| Attribute | Value |
+|-----------|-------|
+| Insurance Plan Name | The Empire Plan-NYSHIP |
+| NextGen Name | UHC Empire PPO |
+| Referral and/or Auth Required? | No Ref/No Auth Required |
+| Alexander Eaton, MD | PAR |
+| Veronica Kon Graversen, MD | PAR |
+
+</details>
+
+<details><summary>Tricare Prime</summary>
+
+| Attribute | Value |
+|-----------|-------|
+| Insurance Plan Name | Tricare Prime |
+| NextGen Name | Tricare Prime HMO-REFERRAL REQ |
+| Referral and/or Auth Required? | Referral Required |
+| Alexander Eaton, MD | PAR |
+| Veronica Kon Graversen, MD | PAR |
+
+</details>
+
+<details><summary>Tricare Select</summary>
+
+| Attribute | Value |
+|-----------|-------|
+| Insurance Plan Name | Tricare Select |
+| NextGen Name | Tricare Select |
+| Referral and/or Auth Required? | No Ref/No Auth Required |
+| Alexander Eaton, MD | PAR |
+| Veronica Kon Graversen, MD | PAR |
+
+</details>
+
+<details><summary>UHC Care Advantage FL-E001 (PPO I-SNP)</summary>
+
+| Attribute | Value |
+|-----------|-------|
+| Insurance Plan Name | UHC Care Advantage FL-E001 (PPO I-SNP) |
+| NextGen Name | UHC Medicare PPO |
+| Referral and/or Auth Required? | No Ref/No Auth Required |
+| Alexander Eaton, MD | PAR |
+| Veronica Kon Graversen, MD | PAR |
+
+</details>
+
+<details><summary>UMR (Choice Plus, Core, Freedom, NexusACO OAP, Options PPO, Select Plus POS Network)</summary>
+
+| Attribute | Value |
+|-----------|-------|
+| Insurance Plan Name | UMR (Choice Plus, Core, Freedom, NexusACO OAP, Options PPO, Select Plus POS Network) |
+| NextGen Name | UMR Commercial PPO - UHC |
+| Referral and/or Auth Required? | No Ref/No Auth Required |
+| Alexander Eaton, MD | PAR |
+| Veronica Kon Graversen, MD | PAR |
+
+</details>
+
+<details><summary>United Healthcare Charter EPO/Charter POS</summary>
+
+| Attribute | Value |
+|-----------|-------|
+| Insurance Plan Name | United Healthcare Charter EPO/Charter POS |
+| NextGen Name | UHC Commercial PPO |
+| Referral and/or Auth Required? | No Ref/No Auth Required |
+| Alexander Eaton, MD | PAR |
+| Veronica Kon Graversen, MD | PAR |
+
+</details>
+
+<details><summary>United Healthcare Charter HMO/HMO Plus</summary>
+
+| Attribute | Value |
+|-----------|-------|
+| Insurance Plan Name | United Healthcare Charter HMO/HMO Plus |
+| NextGen Name | UHC Comm HMO REFERRAL REQ |
+| Referral and/or Auth Required? | Referral Required |
+| Alexander Eaton, MD | PAR |
+| Veronica Kon Graversen, MD | PAR |
+
+</details>
+
+<details><summary>United Healthcare Choice EPO/Choice Plus POS</summary>
+
+| Attribute | Value |
+|-----------|-------|
+| Insurance Plan Name | United Healthcare Choice EPO/Choice Plus POS |
+| NextGen Name | UHC Commercial PPO |
+| Referral and/or Auth Required? | No Ref/No Auth Required |
+| Alexander Eaton, MD | PAR |
+| Veronica Kon Graversen, MD | PAR |
+
+</details>
+
+<details><summary>United Healthcare Choice Plan Network- The Oxford Plan (Freedom With Choice Plus)</summary>
+
+| Attribute | Value |
+|-----------|-------|
+| Insurance Plan Name | United Healthcare Choice Plan Network- The Oxford Plan (Freedom With Choice Plus) |
+| NextGen Name | UHC Oxford PPO |
+| Referral and/or Auth Required? | No Ref/No Auth Required |
+| Alexander Eaton, MD | PAR |
+| Veronica Kon Graversen, MD | PAR |
+
+</details>
+
+<details><summary>United Healthcare Choice Plus HMO</summary>
+
+| Attribute | Value |
+|-----------|-------|
+| Insurance Plan Name | United Healthcare Choice Plus HMO |
+| NextGen Name | UHC Commercial HMO |
+| Referral and/or Auth Required? | No Ref/No Auth Required |
+| Alexander Eaton, MD | PAR |
+| Veronica Kon Graversen, MD | PAR |
+
+</details>
+
+<details><summary>United Healthcare Choice Plus POS- the card will say HCA Healthcare-If patient has surgery, OOP costs are higher at 75% coinsurance as the patient's preferred facility is HCA Healthcare</summary>
+
+| Attribute | Value |
+|-----------|-------|
+| Insurance Plan Name | United Healthcare Choice Plus POS- the card will say HCA Healthcare-If patient has surgery, OOP costs are higher at 75% coinsurance as the patient's preferred facility is HCA Healthcare |
+| NextGen Name | UHC Commercial HCA Plan |
+| Referral and/or Auth Required? | No Ref/No Auth Required |
+| Alexander Eaton, MD | PAR |
+| Veronica Kon Graversen, MD | PAR |
+
+</details>
+
+<details><summary>United Healthcare Compass ALL Plans</summary>
+
+| Attribute | Value |
+|-----------|-------|
+| Insurance Plan Name | United Healthcare Compass ALL Plans |
+| NextGen Name | Self Pay Non-Par with Ins |
+| Referral and/or Auth Required? | N/A |
+| Alexander Eaton, MD | Non-PAR |
+| Veronica Kon Graversen, MD | Non-PAR |
+
+</details>
+
+<details><summary>United Healthcare Complete Care Walgreens FL-0014 (HMO-POS C-SNP)</summary>
+
+| Attribute | Value |
+|-----------|-------|
+| Insurance Plan Name | United Healthcare Complete Care Walgreens FL-0014 (HMO-POS C-SNP) |
+| NextGen Name | UHC Medicare HMO |
+| Referral and/or Auth Required? | No Ref/No Auth Required |
+| Alexander Eaton, MD | PAR |
+| Veronica Kon Graversen, MD | PAR |
+
+</details>
+
+<details><summary>United Healthcare Core EPO/Core Choice Plus</summary>
+
+| Attribute | Value |
+|-----------|-------|
+| Insurance Plan Name | United Healthcare Core EPO/Core Choice Plus |
+| NextGen Name | UHC Commercial PPO |
+| Referral and/or Auth Required? | No Ref/No Auth Required |
+| Alexander Eaton, MD | PAR |
+| Veronica Kon Graversen, MD | PAR |
+
+</details>
+
+<details><summary>United Healthcare CORE HMO</summary>
+
+| Attribute | Value |
+|-----------|-------|
+| Insurance Plan Name | United Healthcare CORE HMO |
+| NextGen Name | UHC Commercial HMO |
+| Referral and/or Auth Required? | No Ref/No Auth Required |
+| Alexander Eaton, MD | PAR |
+| Veronica Kon Graversen, MD | PAR |
+
+</details>
+
+<details><summary>United Healthcare DOCTORS PLAN EPO/PLAN PLUS POS</summary>
+
+| Attribute | Value |
+|-----------|-------|
+| Insurance Plan Name | United Healthcare DOCTORS PLAN EPO/PLAN PLUS POS |
+| NextGen Name | UHC Commercial PPO |
+| Referral and/or Auth Required? | No Ref/No Auth Required |
+| Alexander Eaton, MD | PAR |
+| Veronica Kon Graversen, MD | PAR |
+
+</details>
+
+<details><summary>United Healthcare DOCTORS PLAN PLUS HMO</summary>
+
+| Attribute | Value |
+|-----------|-------|
+| Insurance Plan Name | United Healthcare DOCTORS PLAN PLUS HMO |
+| NextGen Name | UHC Commercial HMO |
+| Referral and/or Auth Required? | No Ref/No Auth Required |
+| Alexander Eaton, MD | PAR |
+| Veronica Kon Graversen, MD | PAR |
+
+</details>
+
+<details><summary>United Healthcare Dual Complete™ (HMO SNP)</summary>
+
+| Attribute | Value |
+|-----------|-------|
+| Insurance Plan Name | United Healthcare Dual Complete™ (HMO SNP) |
+| NextGen Name | Primary: UHC Dual Complete Medicare HMO Primary                                                Secondary: UHC Dual Medicaid Secondary |
+| Referral and/or Auth Required? | No Ref/No Auth Required |
+| Alexander Eaton, MD | PAR |
+| Veronica Kon Graversen, MD | PAR |
+
+</details>
+
+<details><summary>United Healthcare Dual Complete™ (PPO SNP)</summary>
+
+| Attribute | Value |
+|-----------|-------|
+| Insurance Plan Name | United Healthcare Dual Complete™ (PPO SNP) |
+| NextGen Name | Primary: UHC Dual Complete Medicare PPO Primary                                                Secondary: UHC Dual Medicaid PPO Secondary |
+| Referral and/or Auth Required? | No Ref/No Auth Required |
+| Alexander Eaton, MD | PAR |
+| Veronica Kon Graversen, MD | PAR |
+
+</details>
+
+<details><summary>United Healthcare ER Wrap (W500 on back of card)</summary>
+
+| Attribute | Value |
+|-----------|-------|
+| Insurance Plan Name | United Healthcare ER Wrap (W500 on back of card) |
+| NextGen Name | UHC ER Wrap |
+| Referral and/or Auth Required? | Authorization Required |
+| Alexander Eaton, MD | PAR |
+| Veronica Kon Graversen, MD | PAR |
+
+</details>
+
+<details><summary>United Healthcare FL ALL Medicaid plans</summary>
+
+| Attribute | Value |
+|-----------|-------|
+| Insurance Plan Name | United Healthcare FL ALL Medicaid plans |
+| NextGen Name | Self Pay Non-Par with Ins |
+| Referral and/or Auth Required? | N/A |
+| Alexander Eaton, MD | Non-PAR |
+| Veronica Kon Graversen, MD | Non-PAR |
+
+</details>
+
+<details><summary>United Healthcare FL CHIP</summary>
+
+| Attribute | Value |
+|-----------|-------|
+| Insurance Plan Name | United Healthcare FL CHIP |
+| NextGen Name | Self Pay Non-Par with Ins |
+| Referral and/or Auth Required? | N/A |
+| Alexander Eaton, MD | Non-PAR |
+| Veronica Kon Graversen, MD | Non-PAR |
+
+</details>
+
+<details><summary>United Healthcare Group Medicare Advantage (PPO)</summary>
+
+| Attribute | Value |
+|-----------|-------|
+| Insurance Plan Name | United Healthcare Group Medicare Advantage (PPO) |
+| NextGen Name | UHC Medicare PPO |
+| Referral and/or Auth Required? | No Ref/No Auth Required |
+| Alexander Eaton, MD | PAR |
+| Veronica Kon Graversen, MD | PAR |
+
+</details>
+
+<details><summary>United Healthcare Heritage ALL Plans</summary>
+
+| Attribute | Value |
+|-----------|-------|
+| Insurance Plan Name | United Healthcare Heritage ALL Plans |
+| NextGen Name | Self Pay Non-Par with Ins |
+| Referral and/or Auth Required? | N/A |
+| Alexander Eaton, MD | Non-PAR |
+| Veronica Kon Graversen, MD | Non-PAR |
+
+</details>
+
+<details><summary>United Healthcare Indemnity-we will only accept this plan as a secondary/supplement</summary>
+
+| Attribute | Value |
+|-----------|-------|
+| Insurance Plan Name | United Healthcare Indemnity-we will only accept this plan as a secondary/supplement |
+| NextGen Name | Self Pay Non-Par with Ins |
+| Referral and/or Auth Required? | N/A |
+| Alexander Eaton, MD | Non-PAR |
+| Veronica Kon Graversen, MD | Non-PAR |
+
+</details>
+
+<details><summary>United Healthcare Individual Exchange (FLONEX) - Essential (Bronze), Value (Bronz, Silver, Gold), Advantage (Silver, Gold), Copay Focus (Bronze, Silver, Gold), Virtual (Bronze, Silver, Gold)</summary>
+
+| Attribute | Value |
+|-----------|-------|
+| Insurance Plan Name | United Healthcare Individual Exchange (FLONEX) - Essential (Bronze), Value (Bronz, Silver, Gold), Advantage (Silver, Gold), Copay Focus (Bronze, Silver, Gold), Virtual (Bronze, Silver, Gold) |
+| NextGen Name | Self Pay Non-Par with Ins |
+| Referral and/or Auth Required? | N/A |
+| Alexander Eaton, MD | Non-PAR |
+| Veronica Kon Graversen, MD | Non-PAR |
+
+</details>
+
+<details><summary>United Healthcare Long Term Care</summary>
+
+| Attribute | Value |
+|-----------|-------|
+| Insurance Plan Name | United Healthcare Long Term Care |
+| NextGen Name | Self Pay Non-Par with Ins |
+| Referral and/or Auth Required? | N/A |
+| Alexander Eaton, MD | Non-PAR |
+| Veronica Kon Graversen, MD | Non-PAR |
+
+</details>
+
+<details><summary>United Healthcare Mid-Atlantic Gated HMO</summary>
+
+| Attribute | Value |
+|-----------|-------|
+| Insurance Plan Name | United Healthcare Mid-Atlantic Gated HMO |
+| NextGen Name | Self Pay Non-Par with Ins |
+| Referral and/or Auth Required? | N/A |
+| Alexander Eaton, MD | Non-PAR |
+| Veronica Kon Graversen, MD | Non-PAR |
+
+</details>
+
+<details><summary>United Healthcare NATIONAL ANCILLARY</summary>
+
+| Attribute | Value |
+|-----------|-------|
+| Insurance Plan Name | United Healthcare NATIONAL ANCILLARY |
+| NextGen Name | Self Pay Non-Par with Ins |
+| Referral and/or Auth Required? | N/A |
+| Alexander Eaton, MD | Non-PAR |
+| Veronica Kon Graversen, MD | Non-PAR |
+
+</details>
+
+<details><summary>United Healthcare Navigate HMO/ HMO Plus/ Navigate POS/Navigate EPO</summary>
+
+| Attribute | Value |
+|-----------|-------|
+| Insurance Plan Name | United Healthcare Navigate HMO/ HMO Plus/ Navigate POS/Navigate EPO |
+| NextGen Name | UHC Navigate REFERRAL REQ |
+| Referral and/or Auth Required? | Referral Required |
+| Alexander Eaton, MD | PAR |
+| Veronica Kon Graversen, MD | PAR |
+
+</details>
+
+<details><summary>United Healthcare NexusACO NR EPO,NR POS, R EPO, R POS/NR HMO/R HMO</summary>
+
+| Attribute | Value |
+|-----------|-------|
+| Insurance Plan Name | United Healthcare NexusACO NR EPO,NR POS, R EPO, R POS/NR HMO/R HMO |
+| NextGen Name | UHC Comm HMO Referral REQ |
+| Referral and/or Auth Required? | Referral Required |
+| Alexander Eaton, MD | PAR |
+| Veronica Kon Graversen, MD | PAR |
+
+</details>
+
+<details><summary>United Healthcare NexusACO OA  POS/OA EPO</summary>
+
+| Attribute | Value |
+|-----------|-------|
+| Insurance Plan Name | United Healthcare NexusACO OA  POS/OA EPO |
+| NextGen Name | UHC Commercial PPO |
+| Referral and/or Auth Required? | No Ref/No Auth Required |
+| Alexander Eaton, MD | PAR |
+| Veronica Kon Graversen, MD | PAR |
+
+</details>
+
+<details><summary>United Healthcare NexusACO OA HMO</summary>
+
+| Attribute | Value |
+|-----------|-------|
+| Insurance Plan Name | United Healthcare NexusACO OA HMO |
+| NextGen Name | UHC Commercial HMO |
+| Referral and/or Auth Required? | No Ref/No Auth Required |
+| Alexander Eaton, MD | PAR |
+| Veronica Kon Graversen, MD | PAR |
+
+</details>
+
+<details><summary>United Healthcare NHP Gated L1, L2, L3</summary>
+
+| Attribute | Value |
+|-----------|-------|
+| Insurance Plan Name | United Healthcare NHP Gated L1, L2, L3 |
+| NextGen Name | UHC Comm HMO REFERRAL REQ |
+| Referral and/or Auth Required? | Referral Required |
+| Alexander Eaton, MD | PAR |
+| Veronica Kon Graversen, MD | PAR |
+
+</details>
+
+<details><summary>United Healthcare NHP-Neighborhood Health Plan Direct Access</summary>
+
+| Attribute | Value |
+|-----------|-------|
+| Insurance Plan Name | United Healthcare NHP-Neighborhood Health Plan Direct Access |
+| NextGen Name | UHC Commercial - NHP HMO Access |
+| Referral and/or Auth Required? | No Ref/No Auth Required |
+| Alexander Eaton, MD | PAR |
+| Veronica Kon Graversen, MD | PAR |
+
+</details>
+
+<details><summary>United Healthcare Nursing Home Plan EX-F006 (HMO-POS I-SNP)/FL-F001 (PPO I-SNP)/FL-F002 (PPO I-SNP)</summary>
+
+| Attribute | Value |
+|-----------|-------|
+| Insurance Plan Name | United Healthcare Nursing Home Plan EX-F006 (HMO-POS I-SNP)/FL-F001 (PPO I-SNP)/FL-F002 (PPO I-SNP) |
+| NextGen Name | UHC MDCR Nursing Plan |
+| Referral and/or Auth Required? | No Ref/No Auth Required |
+| Alexander Eaton, MD | PAR |
+| Veronica Kon Graversen, MD | PAR |
+
+</details>
+
+<details><summary>United Healthcare PPO</summary>
+
+| Attribute | Value |
+|-----------|-------|
+| Insurance Plan Name | United Healthcare PPO |
+| NextGen Name | UHC Commercial PPO |
+| Referral and/or Auth Required? | No Ref/No Auth Required |
+| Alexander Eaton, MD | PAR |
+| Veronica Kon Graversen, MD | PAR |
+
+</details>
+
+<details><summary>United Healthcare Select EPO/Select POS</summary>
+
+| Attribute | Value |
+|-----------|-------|
+| Insurance Plan Name | United Healthcare Select EPO/Select POS |
+| NextGen Name | UHC Commercial PPO |
+| Referral and/or Auth Required? | No Ref/No Auth Required |
+| Alexander Eaton, MD | PAR |
+| Veronica Kon Graversen, MD | PAR |
+
+</details>
+
+<details><summary>United Healthcare Select Plus HMO</summary>
+
+| Attribute | Value |
+|-----------|-------|
+| Insurance Plan Name | United Healthcare Select Plus HMO |
+| NextGen Name | UHC Commercial HMO |
+| Referral and/or Auth Required? | No Ref/No Auth Required |
+| Alexander Eaton, MD | PAR |
+| Veronica Kon Graversen, MD | PAR |
+
+</details>
+
+<details><summary>United Healthcare Shared Services - Options PPO Network</summary>
+
+| Attribute | Value |
+|-----------|-------|
+| Insurance Plan Name | United Healthcare Shared Services - Options PPO Network |
+| NextGen Name | UHC Shared Services Commercial PPO |
+| Referral and/or Auth Required? | No Ref/No Auth Required |
+| Alexander Eaton, MD | PAR |
+| Veronica Kon Graversen, MD | PAR |
+
+</details>
+
+<details><summary>United Healthcare The Villages Medicare Advantage FL-0004-004P (HMO-POS)</summary>
+
+| Attribute | Value |
+|-----------|-------|
+| Insurance Plan Name | United Healthcare The Villages Medicare Advantage FL-0004-004P (HMO-POS) |
+| NextGen Name | UHC Medicare HMO |
+| Referral and/or Auth Required? | No Ref/No Auth Required |
+| Alexander Eaton, MD | PAR |
+| Veronica Kon Graversen, MD | PAR |
+
+</details>
+
+<details><summary>United Healthcare UHN ONENET-AUTO LIABILITY</summary>
+
+| Attribute | Value |
+|-----------|-------|
+| Insurance Plan Name | United Healthcare UHN ONENET-AUTO LIABILITY |
+| NextGen Name | Self Pay Non-Par with Ins |
+| Referral and/or Auth Required? | N/A |
+| Alexander Eaton, MD | Non-PAR |
+| Veronica Kon Graversen, MD | Non-PAR |
+
+</details>
+
+<details><summary>United Healthcare UHN ONENET-WORKERS COMP</summary>
+
+| Attribute | Value |
+|-----------|-------|
+| Insurance Plan Name | United Healthcare UHN ONENET-WORKERS COMP |
+| NextGen Name | Self Pay Non-Par with Ins |
+| Referral and/or Auth Required? | N/A |
+| Alexander Eaton, MD | Non-PAR |
+| Veronica Kon Graversen, MD | Non-PAR |
+
+</details>
+
+<details><summary>UnitedHealthcare Group Medicare Advantage (HMO)</summary>
+
+| Attribute | Value |
+|-----------|-------|
+| Insurance Plan Name | UnitedHealthcare Group Medicare Advantage (HMO) |
+| NextGen Name | UHC Medicare HMO |
+| Referral and/or Auth Required? | No Ref/No Auth Required |
+| Alexander Eaton, MD | PAR |
+| Veronica Kon Graversen, MD | PAR |
+
+</details>
+
+<details><summary>Web TPA</summary>
+
+| Attribute | Value |
+|-----------|-------|
+| Insurance Plan Name | Web TPA |
+| NextGen Name | Web TPA |
+| Referral and/or Auth Required? | No Ref/No Auth Required |
+| Alexander Eaton, MD | PAR |
+| Veronica Kon Graversen, MD | PAR |
+
+</details>
 
 ## US Eye Insurance Guide(SW FL Eye)
 
-### AARP Medicare Advantage from UHC FL-0005-0015/003P (HMO-POS)
+<details><summary>AARP Medicare Advantage from UHC FL-0005-0015/003P (HMO-POS)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -26696,7 +29631,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### AARP Medicare Advantage from UHC FL-0016-0027 (PPO)
+</details>
+
+<details><summary>AARP Medicare Advantage from UHC FL-0016-0027 (PPO)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -26742,7 +29679,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### AARP Medicare Advantage from UHC FL-001P (HMO-POS)
+</details>
+
+<details><summary>AARP Medicare Advantage from UHC FL-001P (HMO-POS)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -26788,7 +29727,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### AARP Medicare Advantage from UHC FL-0031 (Regional PPO)
+</details>
+
+<details><summary>AARP Medicare Advantage from UHC FL-0031 (Regional PPO)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -26834,7 +29775,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### AARP Medicare Advantage HMO- WELLMED (Payer ID is WELM2)
+</details>
+
+<details><summary>AARP Medicare Advantage HMO- WELLMED (Payer ID is WELM2)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -26880,7 +29823,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### AARP Medicare Advantage Patriot No Rx FL-MA01 (Regional PPO)
+</details>
+
+<details><summary>AARP Medicare Advantage Patriot No Rx FL-MA01 (Regional PPO)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -26926,7 +29871,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### AARP Medicare Advantage PPO- WELLMED (Payer ID is WELM2)
+</details>
+
+<details><summary>AARP Medicare Advantage PPO- WELLMED (Payer ID is WELM2)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -26972,7 +29919,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Aetna AHF Managed Choice POS/POS HDHP/POS Tiered
+</details>
+
+<details><summary>Aetna AHF Managed Choice POS/POS HDHP/POS Tiered</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -27018,7 +29967,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Aetna AHF OA Aetna Health Network Only/HDHP/Tiered/Network Option HDHMP/Tiered
+</details>
+
+<details><summary>Aetna AHF OA Aetna Health Network Only/HDHP/Tiered/Network Option HDHMP/Tiered</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -27064,7 +30015,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Aetna AHF OA Managed Choice POS/HDHP/Tiered/Open Choice PPO/Tiered
+</details>
+
+<details><summary>Aetna AHF OA Managed Choice POS/HDHP/Tiered/Open Choice PPO/Tiered</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -27110,7 +30063,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Aetna Banner Choice POS II Multi Tier
+</details>
+
+<details><summary>Aetna Banner Choice POS II Multi Tier</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -27156,7 +30111,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Aetna Choice POS II/ POS (Aetna HealthFund®)/POS II (Aetna HealthFund®)
+</details>
+
+<details><summary>Aetna Choice POS II/ POS (Aetna HealthFund®)/POS II (Aetna HealthFund®)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -27202,7 +30159,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Aetna Elect Choice Open Access/Elect Choice
+</details>
+
+<details><summary>Aetna Elect Choice Open Access/Elect Choice</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -27248,7 +30207,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Aetna Florida Health Network Only (HNOnly)
+</details>
+
+<details><summary>Aetna Florida Health Network Only (HNOnly)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -27294,7 +30255,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Aetna Health Network Only℠ (Open Access)/Network Option℠ (Open Access)
+</details>
+
+<details><summary>Aetna Health Network Only℠ (Open Access)/Network Option℠ (Open Access)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -27340,7 +30303,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Aetna HealthFund® Aetna Health Network Only℠ (Open Access)/Aetna Health Network Option℠ (Open Access)
+</details>
+
+<details><summary>Aetna HealthFund® Aetna Health Network Only℠ (Open Access)/Aetna Health Network Option℠ (Open Access)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -27386,7 +30351,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Aetna HMO
+</details>
+
+<details><summary>Aetna HMO</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -27432,7 +30399,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Aetna HMO / Health Network Only
+</details>
+
+<details><summary>Aetna HMO / Health Network Only</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -27478,7 +30447,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Aetna HMO Gold/Silver
+</details>
+
+<details><summary>Aetna HMO Gold/Silver</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -27524,7 +30495,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Aetna Managed Choice Open Access/Managed Choice/POS/Open Choice PPO/QPOS?Choice POS
+</details>
+
+<details><summary>Aetna Managed Choice Open Access/Managed Choice/POS/Open Choice PPO/QPOS?Choice POS</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -27570,7 +30543,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Aetna Medicare - Advantra - Eagle, Elite, Gold (HMO-POS)
+</details>
+
+<details><summary>Aetna Medicare - Advantra - Eagle, Elite, Gold (HMO-POS)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -27616,7 +30591,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Aetna Medicare - Credit Plan (PPO)
+</details>
+
+<details><summary>Aetna Medicare - Credit Plan (PPO)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -27662,7 +30639,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Aetna Medicare - Credit/Discover/Discover Value Plan (HMO)
+</details>
+
+<details><summary>Aetna Medicare - Credit/Discover/Discover Value Plan (HMO)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -27708,7 +30687,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Aetna Medicare - Select (HMO)
+</details>
+
+<details><summary>Aetna Medicare - Select (HMO)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -27754,7 +30735,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Aetna Medicare - Essential/ Essential Elite/ Essentials PPO
+</details>
+
+<details><summary>Aetna Medicare - Essential/ Essential Elite/ Essentials PPO</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -27800,7 +30783,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Aetna Medicare - Preferred/ Preferred Premium PPO
+</details>
+
+<details><summary>Aetna Medicare - Preferred/ Preferred Premium PPO</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -27846,7 +30831,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Aetna Medicare- Advantra Credit Value/ Advantra Gold/ Advtantra Silver/ Advantra Preferred/ Advantra Premier/ Advantra Premier Plus/ Advantra Value PPO
+</details>
+
+<details><summary>Aetna Medicare- Advantra Credit Value/ Advantra Gold/ Advtantra Silver/ Advantra Preferred/ Advantra Premier/ Advantra Premier Plus/ Advantra Value PPO</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -27892,7 +30879,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Aetna Medicare- Bronze/ Gold/ Platinum/ Core/ Core Elite/ Deluxe/ Discover/ Discover Value Plan PPO
+</details>
+
+<details><summary>Aetna Medicare- Bronze/ Gold/ Platinum/ Core/ Core Elite/ Deluxe/ Discover/ Discover Value Plan PPO</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -27938,7 +30927,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Aetna Medicare- Dual Choice/ Dual Preferred Plan/ Dual Select Choice/ Dual Select Signature HMO D-SNP
+</details>
+
+<details><summary>Aetna Medicare- Dual Choice/ Dual Preferred Plan/ Dual Select Choice/ Dual Select Signature HMO D-SNP</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -27984,7 +30975,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Aetna Medicare- Dual Choice/ Dual Preferred Plan/ Dual Select Choice/ Dual Select Signature PPO D-SNP
+</details>
+
+<details><summary>Aetna Medicare- Dual Choice/ Dual Preferred Plan/ Dual Select Choice/ Dual Select Signature PPO D-SNP</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -28030,7 +31023,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Aetna Medicare- Eagle/ Eagle Giveback/ Eagle I & II/ Eagle Plus PPO
+</details>
+
+<details><summary>Aetna Medicare- Eagle/ Eagle Giveback/ Eagle I & II/ Eagle Plus PPO</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -28076,7 +31071,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Aetna Medicare- Elite/Elite Plan 3 PPO
+</details>
+
+<details><summary>Aetna Medicare- Elite/Elite Plan 3 PPO</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -28122,7 +31119,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Aetna Medicare- Enhanced Select PPO
+</details>
+
+<details><summary>Aetna Medicare- Enhanced Select PPO</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -28168,7 +31167,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Aetna Medicare- Explorer/ Explore Premier/ Explore Premier II PPO
+</details>
+
+<details><summary>Aetna Medicare- Explorer/ Explore Premier/ Explore Premier II PPO</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -28214,7 +31215,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Aetna Medicare- Freedom/ Freedom Core/ Freedom Plus/ Freedom Preferred PPO
+</details>
+
+<details><summary>Aetna Medicare- Freedom/ Freedom Core/ Freedom Plus/ Freedom Preferred PPO</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -28260,7 +31263,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Aetna Medicare- Giveback Choice/ Giveback Choice Plus PPO
+</details>
+
+<details><summary>Aetna Medicare- Giveback Choice/ Giveback Choice Plus PPO</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -28306,7 +31311,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Aetna Medicare- Medicare Choice PPO
+</details>
+
+<details><summary>Aetna Medicare- Medicare Choice PPO</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -28352,7 +31359,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Aetna Medicare- Premier/ Premier Regional/ Premier 1 & 2/ Premier Plus PPO
+</details>
+
+<details><summary>Aetna Medicare- Premier/ Premier Regional/ Premier 1 & 2/ Premier Plus PPO</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -28398,7 +31407,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Aetna Medicare- SmartFit/ SmartFit Plan PPO
+</details>
+
+<details><summary>Aetna Medicare- SmartFit/ SmartFit Plan PPO</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -28444,7 +31455,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Aetna Medicare- SmartSaver Elite PPO
+</details>
+
+<details><summary>Aetna Medicare- SmartSaver Elite PPO</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -28490,7 +31503,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Aetna Medicare- Value Plan/ Value Advantra/ Value Plus/ Value Plus Signature PPO
+</details>
+
+<details><summary>Aetna Medicare- Value Plan/ Value Advantra/ Value Plus/ Value Plus Signature PPO</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -28536,7 +31551,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Aetna Medicare-The Valley Plan PPO
+</details>
+
+<details><summary>Aetna Medicare-The Valley Plan PPO</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -28582,7 +31599,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Aetna National Advantage™ Program
+</details>
+
+<details><summary>Aetna National Advantage™ Program</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -28628,7 +31647,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Aetna OA Elect Choice EPO Bronze/Gold/Silver
+</details>
+
+<details><summary>Aetna OA Elect Choice EPO Bronze/Gold/Silver</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -28674,7 +31695,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Aetna OA Managed Choice POS Bronze (OAMC)/Bronze HDHP (OAMC)/POS Gold (OAMC)/Gold HDHP (OAMC)/POS HDHP (OAMC)/POS Silver (OAMC)/POS Silver HDHP (OAMC)
+</details>
+
+<details><summary>Aetna OA Managed Choice POS Bronze (OAMC)/Bronze HDHP (OAMC)/POS Gold (OAMC)/Gold HDHP (OAMC)/POS HDHP (OAMC)/POS Silver (OAMC)/POS Silver HDHP (OAMC)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -28720,7 +31743,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Aetna Open Access Aetna Select (Broad)/POS II (Broad)
+</details>
+
+<details><summary>Aetna Open Access Aetna Select (Broad)/POS II (Broad)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -28766,7 +31791,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Aetna Open Access® Elect Choice® EPO (Aetna HealthFund®)/Managed Choice® POS (Aetna HealthFund®)
+</details>
+
+<details><summary>Aetna Open Access® Elect Choice® EPO (Aetna HealthFund®)/Managed Choice® POS (Aetna HealthFund®)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -28812,7 +31839,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Aetna Open Choice PPO Bronze/Gold/Silver
+</details>
+
+<details><summary>Aetna Open Choice PPO Bronze/Gold/Silver</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -28858,7 +31887,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Aetna PPO
+</details>
+
+<details><summary>Aetna PPO</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -28904,7 +31935,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Aetna Premier Care Network Plus (APCN Plus) - Choice POS II/(APCN Plus) - Open Access Aetna Select
+</details>
+
+<details><summary>Aetna Premier Care Network Plus (APCN Plus) - Choice POS II/(APCN Plus) - Open Access Aetna Select</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -28950,7 +31983,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Aetna Select℠ (Open Access)/Elect Choice EPO/Managed Choice POS (Open Access)
+</details>
+
+<details><summary>Aetna Select℠ (Open Access)/Elect Choice EPO/Managed Choice POS (Open Access)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -28996,7 +32031,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Aetna Standard PlansAetna Affordable Health Choices® limited benefits insurance plan (SRC only) - Limited Benefits
+</details>
+
+<details><summary>Aetna Standard PlansAetna Affordable Health Choices® limited benefits insurance plan (SRC only) - Limited Benefits</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -29042,7 +32079,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Aetna Voluntary Plans
+</details>
+
+<details><summary>Aetna Voluntary Plans</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -29088,7 +32127,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Aetna Whole Health℠ - Southwest Florida - Open Access Elect Choice/Southwest Florida Health Network Only/Southwest Florida Open Access Aetna Select
+</details>
+
+<details><summary>Aetna Whole Health℠ - Southwest Florida - Open Access Elect Choice/Southwest Florida Health Network Only/Southwest Florida Open Access Aetna Select</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -29134,7 +32175,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Aetna with Innovation Health Aetna Select/Innovation Health POS/Innovation Health PPO
+</details>
+
+<details><summary>Aetna with Innovation Health Aetna Select/Innovation Health POS/Innovation Health PPO</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -29180,7 +32223,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Allegiance Benefit Plan (Cigna Open Access Plus Network)
+</details>
+
+<details><summary>Allegiance Benefit Plan (Cigna Open Access Plus Network)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -29226,7 +32271,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### AllSavers (UHC) (Charter and Navigate)
+</details>
+
+<details><summary>AllSavers (UHC) (Charter and Navigate)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -29272,7 +32319,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### AllSavers (UHC) (Choice and Choice Plus)
+</details>
+
+<details><summary>AllSavers (UHC) (Choice and Choice Plus)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -29318,7 +32367,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Ambetter ALL PLANS
+</details>
+
+<details><summary>Ambetter ALL PLANS</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -29364,7 +32415,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Anthem Blue- (Select Network) Alliance/ Blue Choice Open Access/Blue Choice Options/Blue Value/HealthSync
+</details>
+
+<details><summary>Anthem Blue- (Select Network) Alliance/ Blue Choice Open Access/Blue Choice Options/Blue Value/HealthSync</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -29410,7 +32463,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Anthem Blue- (Select Network) Century Preferred/High Value Network/Horizon Managed Care Network/National PPO/Network S/Network Blue/ Select PPO
+</details>
+
+<details><summary>Anthem Blue- (Select Network) Century Preferred/High Value Network/Horizon Managed Care Network/National PPO/Network S/Network Blue/ Select PPO</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -29456,7 +32511,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Anthem Blue- Grocery/Traditional/Traditional PPO
+</details>
+
+<details><summary>Anthem Blue- Grocery/Traditional/Traditional PPO</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -29502,7 +32559,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Anthem Blue Medicare- Medicare Advantage HMO AND HMO-POS
+</details>
+
+<details><summary>Anthem Blue Medicare- Medicare Advantage HMO AND HMO-POS</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -29548,7 +32607,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Anthem Blue Medicare- Medicare Advantage (PPO)
+</details>
+
+<details><summary>Anthem Blue Medicare- Medicare Advantage (PPO)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -29594,7 +32655,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Anthem Blue- POS
+</details>
+
+<details><summary>Anthem Blue- POS</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -29640,7 +32703,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Anthem Blue-Pathway Essentials/Essentials Standard PPO/EPO
+</details>
+
+<details><summary>Anthem Blue-Pathway Essentials/Essentials Standard PPO/EPO</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -29686,7 +32751,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Anthem Blue-Preferred POS (Select Network)
+</details>
+
+<details><summary>Anthem Blue-Preferred POS (Select Network)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -29732,7 +32799,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Anthem BCBS-Blue View Vision/Blue Vision Insight/Blue Vision Insight Plus/Vision Insight Plus Select/IBM Vision Plan/Vision Access Value/Vision Minimum Premium Plan
+</details>
+
+<details><summary>Anthem BCBS-Blue View Vision/Blue Vision Insight/Blue Vision Insight Plus/Vision Insight Plus Select/IBM Vision Plan/Vision Access Value/Vision Minimum Premium Plan</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -29778,7 +32847,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Avesis Vision
+</details>
+
+<details><summary>Avesis Vision</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -29824,7 +32895,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### BCBS of FL BlueCare/Blue Care w. Pediactric Vision - Alpha Prefix XJGH, VMBH, VMEH
+</details>
+
+<details><summary>BCBS of FL BlueCare/Blue Care w. Pediactric Vision - Alpha Prefix XJGH, VMBH, VMEH</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -29870,7 +32943,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### BCBS of FL BlueChoice
+</details>
+
+<details><summary>BCBS of FL BlueChoice</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -29916,7 +32991,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### BCBS of FL BlueMedicare Classic/Classic Plus (HMO)
+</details>
+
+<details><summary>BCBS of FL BlueMedicare Classic/Classic Plus (HMO)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -29962,7 +33039,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### BCBS of FL BlueMedicare Group PPO (Employer PPO)
+</details>
+
+<details><summary>BCBS of FL BlueMedicare Group PPO (Employer PPO)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -30008,7 +33087,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### BCBS of FL BlueMedicare Patriot (PPO)
+</details>
+
+<details><summary>BCBS of FL BlueMedicare Patriot (PPO)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -30054,7 +33135,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### BCBS of FL BlueMedicare Premier (HMO)
+</details>
+
+<details><summary>BCBS of FL BlueMedicare Premier (HMO)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -30100,7 +33183,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### BCBS of FL BlueMedicare Select (PPO)
+</details>
+
+<details><summary>BCBS of FL BlueMedicare Select (PPO)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -30146,7 +33231,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### BCBS of FL BlueMedicare Value PPO/ BlueMedicare Value w. Level 1 - PLEASE DO NOT SCHEDULE ANY APPTS AFTER 12/31/2024 AS THIS PLAN IS NO LONGER OFFERED AS OF 01/01/2025 FOR SFEC-NAPLES OFFICE ONLY
+</details>
+
+<details><summary>BCBS of FL BlueMedicare Value PPO/ BlueMedicare Value w. Level 1 - PLEASE DO NOT SCHEDULE ANY APPTS AFTER 12/31/2024 AS THIS PLAN IS NO LONGER OFFERED AS OF 01/01/2025 FOR SFEC-NAPLES OFFICE ONLY</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -30192,7 +33279,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### BCBS of FL BlueOptions Temporary Insurance/Blue Select Temporary Insurance
+</details>
+
+<details><summary>BCBS of FL BlueOptions Temporary Insurance/Blue Select Temporary Insurance</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -30238,7 +33327,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### BCBS of FL BlueOptions/Blue Options Hospial Surgical Plus/Blue Options with Pediactric Vision
+</details>
+
+<details><summary>BCBS of FL BlueOptions/Blue Options Hospial Surgical Plus/Blue Options with Pediactric Vision</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -30284,7 +33375,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### BCBS of FL BlueSelect/BlueSelect Hospital Surgical Plus/BlueSelect w. Pediatric Vision
+</details>
+
+<details><summary>BCBS of FL BlueSelect/BlueSelect Hospital Surgical Plus/BlueSelect w. Pediatric Vision</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -30330,7 +33423,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### BCBS of FL Federal Employee Program - alpha prefix R
+</details>
+
+<details><summary>BCBS of FL Federal Employee Program - alpha prefix R</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -30376,7 +33471,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### BCBS of FL myBlue Connected Care/myBlue w. Pediactric Vision
+</details>
+
+<details><summary>BCBS of FL myBlue Connected Care/myBlue w. Pediactric Vision</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -30422,7 +33519,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### BCBS of FL SimplyBlue
+</details>
+
+<details><summary>BCBS of FL SimplyBlue</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -30468,7 +33567,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### BCBS Out of State California ONLY -
+</details>
+
+<details><summary>BCBS Out of State California ONLY -</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -30514,7 +33615,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### BCBS Out of State Commercial PPO Plans -all plans that are not BCBS of Florida; please ask the patient to check the front and back copy of the card for the state. If the card says "Anthem", please see ANTHEM on the insurance guide
+</details>
+
+<details><summary>BCBS Out of State Commercial PPO Plans -all plans that are not BCBS of Florida; please ask the patient to check the front and back copy of the card for the state. If the card says "Anthem", please see ANTHEM on the insurance guide</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -30560,7 +33663,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### BCBS Out of State HMO Plans - ALL PLANS Commercial and Medicare HMO PLANS
+</details>
+
+<details><summary>BCBS Out of State HMO Plans - ALL PLANS Commercial and Medicare HMO PLANS</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -30606,7 +33711,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### BCBS Out of State Medicare HMO-POS Plans - Medicare HMO POS Plans do have OON benefits. Note: BCBS Michigan Medicare HMO-POS (alpha prefix XYK)
+</details>
+
+<details><summary>BCBS Out of State Medicare HMO-POS Plans - Medicare HMO POS Plans do have OON benefits. Note: BCBS Michigan Medicare HMO-POS (alpha prefix XYK)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -30652,7 +33759,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### BCBS Out of State Medicare PPO Plans -all plans that are not BCBS of Florida; please ask the patient to check the front and back copy of the card for the state. If the card says "Anthem", please see ANTHEM on the insurance guide
+</details>
+
+<details><summary>BCBS Out of State Medicare PPO Plans -all plans that are not BCBS of Florida; please ask the patient to check the front and back copy of the card for the state. If the card says "Anthem", please see ANTHEM on the insurance guide</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -30698,7 +33807,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Best Care Alliance (Former Innovatus Health)
+</details>
+
+<details><summary>Best Care Alliance (Former Innovatus Health)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -30744,7 +33855,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Carefirst BCBS Commercial - BlueChoice Advantage/BlueChoice Advantage HDHP/BlueChoice Plus/BlueHPN/BluePreferred (PPO)
+</details>
+
+<details><summary>Carefirst BCBS Commercial - BlueChoice Advantage/BlueChoice Advantage HDHP/BlueChoice Plus/BlueHPN/BluePreferred (PPO)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -30790,7 +33903,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Carefirst BCBS Commercial - BlueChoice Opt-Out Open Access/BlueChoice Opt-Out Plus Open Access/CareFirst Regional (HMO)
+</details>
+
+<details><summary>Carefirst BCBS Commercial - BlueChoice Opt-Out Open Access/BlueChoice Opt-Out Plus Open Access/CareFirst Regional (HMO)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -30836,7 +33951,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Carefirst BCBS Commercial - Comprehensive Major Medical
+</details>
+
+<details><summary>Carefirst BCBS Commercial - Comprehensive Major Medical</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -30882,7 +33999,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Carefirst BCBS Commercial - HealthyBlue/HealthyBlue 2.0/HealthyBlue Advantage (HMO)
+</details>
+
+<details><summary>Carefirst BCBS Commercial - HealthyBlue/HealthyBlue 2.0/HealthyBlue Advantage (HMO)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -30928,7 +34047,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Carefirst BCBS Commercial - Personal Comp
+</details>
+
+<details><summary>Carefirst BCBS Commercial - Personal Comp</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -30974,7 +34095,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Carefirst BCBS Commercial - PPO/EPO/HealthyBlue Plus/HealthyBlue PPO/ BlueCard PAR/ BlueCard PPO/ EPO/ BlueCard Traditional
+</details>
+
+<details><summary>Carefirst BCBS Commercial - PPO/EPO/HealthyBlue Plus/HealthyBlue PPO/ BlueCard PAR/ BlueCard PPO/ EPO/ BlueCard Traditional</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -31020,7 +34143,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Carefirst BCBS Commercial - Standard BlueChoice (HMO)
+</details>
+
+<details><summary>Carefirst BCBS Commercial - Standard BlueChoice (HMO)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -31066,7 +34191,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Carefirst BCBS Commercial - Traditional/Indemnity
+</details>
+
+<details><summary>Carefirst BCBS Commercial - Traditional/Indemnity</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -31112,7 +34239,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Carefirst BCBS Medicare Advantage (PPO)
+</details>
+
+<details><summary>Carefirst BCBS Medicare Advantage (PPO)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -31158,7 +34287,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Carefirst Commercial - CareFirst Regional
+</details>
+
+<details><summary>Carefirst Commercial - CareFirst Regional</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -31204,7 +34335,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### ChampVA (VACCN)
+</details>
+
+<details><summary>ChampVA (VACCN)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -31250,7 +34383,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Cigna Commercial - Local Plus  - Oscar
+</details>
+
+<details><summary>Cigna Commercial - Local Plus  - Oscar</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -31296,7 +34431,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Cigna Florida Connect
+</details>
+
+<details><summary>Cigna Florida Connect</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -31342,7 +34479,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Cigna Global Health Benefits (BENEFITS/ELIGIBILITY NEEDS TO BE CHECKED EVERYTIME)
+</details>
+
+<details><summary>Cigna Global Health Benefits (BENEFITS/ELIGIBILITY NEEDS TO BE CHECKED EVERYTIME)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -31388,7 +34527,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### CIGNA HealthCare of Florida, Inc. - Fort Myers HMO
+</details>
+
+<details><summary>CIGNA HealthCare of Florida, Inc. - Fort Myers HMO</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -31434,7 +34575,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### CIGNA HealthCare Seamless Network - Florida
+</details>
+
+<details><summary>CIGNA HealthCare Seamless Network - Florida</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -31480,7 +34623,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Cigna Medicare- TotalCare/Total Care Plus HMO D-SNP
+</details>
+
+<details><summary>Cigna Medicare- TotalCare/Total Care Plus HMO D-SNP</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -31526,7 +34671,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Cigna Medicare-Courage/Preferred/Savings (HMO)
+</details>
+
+<details><summary>Cigna Medicare-Courage/Preferred/Savings (HMO)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -31572,7 +34719,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Cigna Medicare PPO
+</details>
+
+<details><summary>Cigna Medicare PPO</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -31618,7 +34767,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Cigna Open Access Plus - Oscar
+</details>
+
+<details><summary>Cigna Open Access Plus - Oscar</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -31664,7 +34815,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Cigna Open Access Plus/Choice Fund OA/Choice Fund OA with Carelink/Choice Fund PPO /PPO
+</details>
+
+<details><summary>Cigna Open Access Plus/Choice Fund OA/Choice Fund OA with Carelink/Choice Fund PPO /PPO</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -31710,7 +34863,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Division of Blind
+</details>
+
+<details><summary>Division of Blind</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -31756,7 +34911,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Eyemed Vision
+</details>
+
+<details><summary>Eyemed Vision</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -31802,7 +34959,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### FEP Blue Vision
+</details>
+
+<details><summary>FEP Blue Vision</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -31848,7 +35007,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### First Health Network (through Aetna and/or PHP Network) PLEASE ASK THE PATIENT FOR THE HEALTH PLAN NAME ON THE CARD AND LOAD THE PLAN INTO NEXTGEN ACCORDING TO THEIR HEALTH PLAN
+</details>
+
+<details><summary>First Health Network (through Aetna and/or PHP Network) PLEASE ASK THE PATIENT FOR THE HEALTH PLAN NAME ON THE CARD AND LOAD THE PLAN INTO NEXTGEN ACCORDING TO THEIR HEALTH PLAN</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -31894,7 +35055,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### GEHA (United Healthcare Choice Plus Network) PLEASE INCLUDE THE SUFFIX IN THE POLICY # ON THE ID CARD AS GEHA (EX: 1234567GEHA)
+</details>
+
+<details><summary>GEHA (United Healthcare Choice Plus Network) PLEASE INCLUDE THE SUFFIX IN THE POLICY # ON THE ID CARD AS GEHA (EX: 1234567GEHA)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -31940,7 +35103,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Golden Rule (UHC Choice Plus Network)
+</details>
+
+<details><summary>Golden Rule (UHC Choice Plus Network)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -31986,7 +35151,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Humana Commercial - ALL PLANS  - AS OF 01/01/25- PLAN IS NO LONGER OFFERED IN FL MARKETS
+</details>
+
+<details><summary>Humana Commercial - ALL PLANS  - AS OF 01/01/25- PLAN IS NO LONGER OFFERED IN FL MARKETS</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -32032,7 +35199,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Humana Medicaid
+</details>
+
+<details><summary>Humana Medicaid</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -32078,7 +35247,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Humana Medicare Choice Florida SNP-DE H5216 (PPO D-SNP)
+</details>
+
+<details><summary>Humana Medicare Choice Florida SNP-DE H5216 (PPO D-SNP)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -32124,7 +35295,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Humana Medicare- ChoiceCare Network/Medicare National POS Open Access/Open Access EPO or PPO
+</details>
+
+<details><summary>Humana Medicare- ChoiceCare Network/Medicare National POS Open Access/Open Access EPO or PPO</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -32170,7 +35343,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Humana Medicare HMO - ALL PLANS
+</details>
+
+<details><summary>Humana Medicare HMO - ALL PLANS</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -32216,7 +35391,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Humana Medicare Gold Choice Ntwk PFFS
+</details>
+
+<details><summary>Humana Medicare Gold Choice Ntwk PFFS</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -32262,7 +35439,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Humana Medicare HMO Premier
+</details>
+
+<details><summary>Humana Medicare HMO Premier</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -32308,7 +35487,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Humana Medicare National POS - Open Access Plus/Choice POS/Choice Florida PPO/USAA Honor (PPO)/Choice Regional PPO
+</details>
+
+<details><summary>Humana Medicare National POS - Open Access Plus/Choice POS/Choice Florida PPO/USAA Honor (PPO)/Choice Regional PPO</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -32354,7 +35535,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Humana Medicare Natl HMO/SNP-Travel
+</details>
+
+<details><summary>Humana Medicare Natl HMO/SNP-Travel</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -32400,7 +35583,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Humana Medicare PPO/Employer PPO Plus
+</details>
+
+<details><summary>Humana Medicare PPO/Employer PPO Plus</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -32446,7 +35631,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Lutheran Preferred (PHP Network)
+</details>
+
+<details><summary>Lutheran Preferred (PHP Network)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -32492,7 +35679,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Mailhandlers (Aetna Choice® POS II Network)
+</details>
+
+<details><summary>Mailhandlers (Aetna Choice® POS II Network)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -32538,7 +35727,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### March Vision
+</details>
+
+<details><summary>March Vision</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -32584,7 +35775,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Medicare
+</details>
+
+<details><summary>Medicare</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -32630,7 +35823,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Meritain Gulf Coast (Aetna Choice POS II Network)
+</details>
+
+<details><summary>Meritain Gulf Coast (Aetna Choice POS II Network)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -32676,7 +35871,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Meritain Health - Sarasota Memorial (BASIC AND/OR COMPREHENSIVE PLAN) PLEASE ASK THE PATIENT IF THE CARD HAS "SMH" ON THEIR CARD. IF THE CARD SAYS BASIC OR COMPREHENSIVE PLAN, WE ARE OUT OF NETWORK AND THERE ARE NO OON BENEFITS
+</details>
+
+<details><summary>Meritain Health - Sarasota Memorial (BASIC AND/OR COMPREHENSIVE PLAN) PLEASE ASK THE PATIENT IF THE CARD HAS "SMH" ON THEIR CARD. IF THE CARD SAYS BASIC OR COMPREHENSIVE PLAN, WE ARE OUT OF NETWORK AND THERE ARE NO OON BENEFITS</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -32722,7 +35919,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Meritain Health - Sarasota Memorial (EXTENSIVE MEDICAL PLAN) PLEASE ASK THE PATIENT IF THE CARD HAS "SMH" ON THEIR CARD AND THE CARD MUST SAY EXTENDED MEDICAL PLAN. THE EXTENDED MEDICAL PLAN APPLIES TOWARDS THE PATIENT'S TIER 2 BENEFITS - AETNA CHOICE POS II
+</details>
+
+<details><summary>Meritain Health - Sarasota Memorial (EXTENSIVE MEDICAL PLAN) PLEASE ASK THE PATIENT IF THE CARD HAS "SMH" ON THEIR CARD AND THE CARD MUST SAY EXTENDED MEDICAL PLAN. THE EXTENDED MEDICAL PLAN APPLIES TOWARDS THE PATIENT'S TIER 2 BENEFITS - AETNA CHOICE POS II</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -32768,7 +35967,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Multiplan PLEASE ASK THE PATIENT FOR THE HEALTH PLAN NAME ON THE CARD AND LOAD THE PLAN INTO NEXTGEN ACCORDING TO THEIR HEALTH PLAN
+</details>
+
+<details><summary>Multiplan PLEASE ASK THE PATIENT FOR THE HEALTH PLAN NAME ON THE CARD AND LOAD THE PLAN INTO NEXTGEN ACCORDING TO THEIR HEALTH PLAN</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -32814,7 +36015,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### NALC Health Benefit Plan (Cigna Open Access Plus Network)
+</details>
+
+<details><summary>NALC Health Benefit Plan (Cigna Open Access Plus Network)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -32860,7 +36063,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Optum VA-VETERANS AFFAIRS Community Care Network (CCN)
+</details>
+
+<details><summary>Optum VA-VETERANS AFFAIRS Community Care Network (CCN)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -32906,7 +36111,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### PHCS PLEASE ASK THE PATIENT FOR THE HEALTH PLAN NAME ON THE CARD AND LOAD THE PLAN INTO NEXTGEN ACCORDING TO THEIR HEALTH PLAN
+</details>
+
+<details><summary>PHCS PLEASE ASK THE PATIENT FOR THE HEALTH PLAN NAME ON THE CARD AND LOAD THE PLAN INTO NEXTGEN ACCORDING TO THEIR HEALTH PLAN</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -32952,7 +36159,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Railroad Medicare - CONFIRM WITH PT AT THE BOTTOM OF THE ID CARD IT SAYS "RAILROAD RETIREMENT BOARD"
+</details>
+
+<details><summary>Railroad Medicare - CONFIRM WITH PT AT THE BOTTOM OF THE ID CARD IT SAYS "RAILROAD RETIREMENT BOARD"</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -32998,7 +36207,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Spectera Vision
+</details>
+
+<details><summary>Spectera Vision</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -33044,7 +36255,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Surest (United Healthcare Choice Plus Network)
+</details>
+
+<details><summary>Surest (United Healthcare Choice Plus Network)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -33090,7 +36303,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### The Empire Plan-NYSHIP
+</details>
+
+<details><summary>The Empire Plan-NYSHIP</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -33136,7 +36351,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Tricare Prime Covered for a Routine Eye Exam every two years. FOR THE PROVIDERS THAT ARE OUT-OF-NETWORK, SEE NOTE. PLEASE PROCEED WITH SCHEDULING
+</details>
+
+<details><summary>Tricare Prime Covered for a Routine Eye Exam every two years. FOR THE PROVIDERS THAT ARE OUT-OF-NETWORK, SEE NOTE. PLEASE PROCEED WITH SCHEDULING</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -33182,7 +36399,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Tricare Select Routine Eye Exams are NON-covered. FOR THE PROVIDERS THAT ARE NON-PAR PATIENT HAS OON BENEFITS. PLEASE INFORM PATIENT OF POSSIBLE HIGHER OUT OF POCKET COSTS
+</details>
+
+<details><summary>Tricare Select Routine Eye Exams are NON-covered. FOR THE PROVIDERS THAT ARE NON-PAR PATIENT HAS OON BENEFITS. PLEASE INFORM PATIENT OF POSSIBLE HIGHER OUT OF POCKET COSTS</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -33228,7 +36447,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### UMR (Choice Plus, Core, Freedom, NexusACO OAP, Options PPO, Select Plus POS Network)
+</details>
+
+<details><summary>UMR (Choice Plus, Core, Freedom, NexusACO OAP, Options PPO, Select Plus POS Network)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -33274,7 +36495,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### United Healthcare  The Villages Medicare Advantage FL-0004/004P (HMO-POS)
+</details>
+
+<details><summary>United Healthcare  The Villages Medicare Advantage FL-0004/004P (HMO-POS)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -33320,7 +36543,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### United Healthcare Care Advantage FL-E001 (PPO I-SNP)
+</details>
+
+<details><summary>United Healthcare Care Advantage FL-E001 (PPO I-SNP)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -33366,7 +36591,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### United Healthcare Charter EPO/Charter POS
+</details>
+
+<details><summary>United Healthcare Charter EPO/Charter POS</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -33412,7 +36639,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### United Healthcare Charter HMO/HMO Plus
+</details>
+
+<details><summary>United Healthcare Charter HMO/HMO Plus</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -33458,7 +36687,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### United Healthcare Choice EPO/Choice Plus POS
+</details>
+
+<details><summary>United Healthcare Choice EPO/Choice Plus POS</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -33504,7 +36735,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### United Healthcare Choice Plan Network- The Oxford Plan with Freedom Choice Plus only
+</details>
+
+<details><summary>United Healthcare Choice Plan Network- The Oxford Plan with Freedom Choice Plus only</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -33550,7 +36783,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### United Healthcare Choice Plus HMO
+</details>
+
+<details><summary>United Healthcare Choice Plus HMO</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -33596,7 +36831,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### United Healthcare Choice Plus POS- the card will say HCA Healthcare-If patient has surgery, OOP costs are higher at 75% coinsurance as the patient's preferred facility is HCA Healthcare
+</details>
+
+<details><summary>United Healthcare Choice Plus POS- the card will say HCA Healthcare-If patient has surgery, OOP costs are higher at 75% coinsurance as the patient's preferred facility is HCA Healthcare</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -33642,7 +36879,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### United Healthcare Compass ALL PLANS
+</details>
+
+<details><summary>United Healthcare Compass ALL PLANS</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -33688,7 +36927,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### United Healthcare Complete Care Walgreens FL-0014 (HMO-POS C-SNP)
+</details>
+
+<details><summary>United Healthcare Complete Care Walgreens FL-0014 (HMO-POS C-SNP)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -33734,7 +36975,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### United Healthcare Core EPO/Core Choice Plus
+</details>
+
+<details><summary>United Healthcare Core EPO/Core Choice Plus</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -33780,7 +37023,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### United Healthcare CORE HMO
+</details>
+
+<details><summary>United Healthcare CORE HMO</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -33826,7 +37071,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### United Healthcare DOCTORS PLAN EPO/PLUS POS
+</details>
+
+<details><summary>United Healthcare DOCTORS PLAN EPO/PLUS POS</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -33872,7 +37119,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### United Healthcare DOCTORS PLAN PLUS HMO
+</details>
+
+<details><summary>United Healthcare DOCTORS PLAN PLUS HMO</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -33918,7 +37167,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### United Healthcare Dual Complete™ (HMO SNP)
+</details>
+
+<details><summary>United Healthcare Dual Complete™ (HMO SNP)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -33964,7 +37215,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### United Healthcare Dual Complete™ (PPO SNP)
+</details>
+
+<details><summary>United Healthcare Dual Complete™ (PPO SNP)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -34010,7 +37263,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### United Healthcare ER Wrap (W500 on back of card)
+</details>
+
+<details><summary>United Healthcare ER Wrap (W500 on back of card)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -34056,7 +37311,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### United Healthcare FL CHIP ALL MEDICAID
+</details>
+
+<details><summary>United Healthcare FL CHIP ALL MEDICAID</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -34102,7 +37359,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### United Healthcare Group Medicare Advantage (HMO)
+</details>
+
+<details><summary>United Healthcare Group Medicare Advantage (HMO)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -34148,7 +37407,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### United Healthcare Group Medicare Advantage (PPO)
+</details>
+
+<details><summary>United Healthcare Group Medicare Advantage (PPO)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -34194,7 +37455,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### United Healthcare Heritage ALL PLANS
+</details>
+
+<details><summary>United Healthcare Heritage ALL PLANS</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -34240,7 +37503,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### United Healthcare Indemnity-we will only accept this plan as a secondary/supplement
+</details>
+
+<details><summary>United Healthcare Indemnity-we will only accept this plan as a secondary/supplement</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -34286,7 +37551,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### United Healthcare Individual Exchange (FLONEX) - Essential (Bronze), Value (Bronz, Silver, Gold), Advantage (Silver, Gold), Copay Focus (Bronze, Silver, Gold), Virtual (Bronze, Silver, Gold)
+</details>
+
+<details><summary>United Healthcare Individual Exchange (FLONEX) - Essential (Bronze), Value (Bronz, Silver, Gold), Advantage (Silver, Gold), Copay Focus (Bronze, Silver, Gold), Virtual (Bronze, Silver, Gold)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -34332,7 +37599,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### United Healthcare Long Term Care
+</details>
+
+<details><summary>United Healthcare Long Term Care</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -34378,7 +37647,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### United Healthcare Mid-Atlantic Gated HMO
+</details>
+
+<details><summary>United Healthcare Mid-Atlantic Gated HMO</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -34424,7 +37695,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### United Healthcare NATIONAL ANCILLARY
+</details>
+
+<details><summary>United Healthcare NATIONAL ANCILLARY</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -34470,7 +37743,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### United Healthcare Navigate HMO/ HMO Plus/ Navigate POS/Navigate EPO
+</details>
+
+<details><summary>United Healthcare Navigate HMO/ HMO Plus/ Navigate POS/Navigate EPO</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -34516,7 +37791,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### United Healthcare NexusACO NR EPO,NR POS, R EPO, R POS/NR HMO/R HMO
+</details>
+
+<details><summary>United Healthcare NexusACO NR EPO,NR POS, R EPO, R POS/NR HMO/R HMO</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -34562,7 +37839,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### United Healthcare NexusACO OA  POS/ OA EPO
+</details>
+
+<details><summary>United Healthcare NexusACO OA  POS/ OA EPO</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -34608,7 +37887,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### United Healthcare NexusACO OA HMO
+</details>
+
+<details><summary>United Healthcare NexusACO OA HMO</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -34654,7 +37935,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### United Healthcare NHP Gated L1, L2, L3
+</details>
+
+<details><summary>United Healthcare NHP Gated L1, L2, L3</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -34700,7 +37983,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### United Healthcare NHP-Neighborhood Health Plan Direct Access
+</details>
+
+<details><summary>United Healthcare NHP-Neighborhood Health Plan Direct Access</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -34746,7 +38031,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### United Healthcare Nursing Home Plan EX-F006 (HMO-POS I-SNP)/FL-F001 (PPO I-SNP)/FL-F002 (PPO I-SNP)
+</details>
+
+<details><summary>United Healthcare Nursing Home Plan EX-F006 (HMO-POS I-SNP)/FL-F001 (PPO I-SNP)/FL-F002 (PPO I-SNP)</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -34792,7 +38079,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### United Healthcare PPO
+</details>
+
+<details><summary>United Healthcare PPO</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -34838,7 +38127,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### United Healthcare Select EPO/Select Plus POS
+</details>
+
+<details><summary>United Healthcare Select EPO/Select Plus POS</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -34884,7 +38175,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### United Healthcare Select Plus HMO
+</details>
+
+<details><summary>United Healthcare Select Plus HMO</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -34930,7 +38223,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### United Healthcare Shared Services - Options PPO Network
+</details>
+
+<details><summary>United Healthcare Shared Services - Options PPO Network</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -34976,7 +38271,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Versant: Davis Vision
+</details>
+
+<details><summary>Versant: Davis Vision</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -35022,7 +38319,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Versant: Superior Vision
+</details>
+
+<details><summary>Versant: Superior Vision</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -35068,7 +38367,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### VSP Vision
+</details>
+
+<details><summary>VSP Vision</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -35114,7 +38415,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### We Care
+</details>
+
+<details><summary>We Care</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -35160,7 +38463,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Web TPA
+</details>
+
+<details><summary>Web TPA</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -35206,7 +38511,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Wellcare Medicare HMO
+</details>
+
+<details><summary>Wellcare Medicare HMO</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -35252,7 +38559,9 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
-### Worker Comp
+</details>
+
+<details><summary>Worker Comp</summary>
 
 | Attribute | Value |
 |-----------|-------|
@@ -35298,4 +38607,5 @@ BlueChoice HMO Gold Virtual Connect |
 |  |  |
 |  |  |
 
+</details>
 
