@@ -2,6 +2,7 @@ import csv
 import os
 import glob
 from collections import defaultdict
+import re # Import re for filename sanitization
 
 def generate_markdown_for_csv(csv_file, transpose_threshold=1):
     """Convert a CSV file to a Markdown section.
@@ -72,7 +73,17 @@ def generate_markdown_for_csv(csv_file, transpose_threshold=1):
                 markdown += "| " + " | ".join(cleaned_row) + " |\n"
             return markdown
 
+def sanitize_filename(name):
+    """Sanitize a string to be used as a filename."""
+    name = re.sub(r'[^a-zA-Z0-9_\-\.]', '_', name) # Replace invalid chars with underscore
+    name = re.sub(r'_+', '_', name) # Replace multiple underscores with single
+    name = name.strip('_') # Remove leading/trailing underscores
+    return name if name else "default_filename"
+
 def main():
+    output_dir = "insurance_docs"
+    os.makedirs(output_dir, exist_ok=True)
+
     # CSVs that have an extra 4th column before doctor names start
     csvs_with_extra_location_column = [
         "US Eye Insurance Guide(Center for Sight).csv",
@@ -125,28 +136,47 @@ def main():
                     if doctor_name: # Ensure doctor name is not empty
                         doctor_data[doctor_name][location].append((plan_name, nextgen_name, referral_auth, status))
 
-    with open("Insurance_Guide.md", "w", encoding="utf-8") as outfile:
-        outfile.write("# Insurance Guide\n\n")
-        outfile.write("*This guide lists insurance participation by doctor. Click a doctor's name to view all insurance info for that doctor, grouped by location/CSV.*\n\n")
+    doctor_files_links = []
+
+    for doctor_name_key in sorted(doctor_data.keys()):
+        locations_dict = doctor_data[doctor_name_key]
+        location_names = list(locations_dict.keys())
+        locations_str = ", ".join(sorted(location_names))
+
+        # Sanitize doctor name for filename
+        safe_doctor_name = sanitize_filename(doctor_name_key)
+        doctor_filename = f"{safe_doctor_name}.md"
+        doctor_filepath = os.path.join(output_dir, doctor_filename)
         
-        for doctor_name_key in sorted(doctor_data.keys()):
-            locations_dict = doctor_data[doctor_name_key]
-            location_names = list(locations_dict.keys())
-            locations_str = ", ".join(sorted(location_names)) # Sort location names for consistent summary
+        doctor_files_links.append(f"* [{doctor_name_key} ({locations_str})]({output_dir}/{doctor_filename})")
+
+        with open(doctor_filepath, "w", encoding='utf-8') as doc_outfile:
+            # Write a suitable title for the individual doctor page
+            doc_outfile.write(f"# {doctor_name_key} - Insurance Guide\n\n")
+            doc_outfile.write(f"*This page lists insurance participation for {doctor_name_key}, grouped by location/CSV.*\n\n")
             
-            outfile.write(f"<details><summary>{doctor_name_key} ({locations_str})</summary>\n\n")
-            for loc_name in sorted(locations_dict.keys()): # Iterate in sorted order for consistency
-                outfile.write(f"#### {loc_name}\n\n")
-                outfile.write("| Insurance Plan Name | NextGen Name | Referral/Auth | Status |\n")
-                outfile.write("|--------------------|-------------|--------------|--------|\n")
+            # Use <details open> for the main content block for this doctor to have it open by default
+            doc_outfile.write(f"<details open><summary>Insurance Details for {doctor_name_key} ({locations_str})</summary>\n\n")
+            for loc_name in sorted(locations_dict.keys()):
+                doc_outfile.write(f"#### {loc_name}\n\n")
+                doc_outfile.write("| Insurance Plan Name | NextGen Name | Referral/Auth | Status |\n")
+                doc_outfile.write("|--------------------|-------------|--------------|--------|\n")
                 for plan_name, nextgen_name, referral_auth, status in locations_dict[loc_name]:
                     plan_name_escaped = plan_name.replace("|", "\\|")
                     nextgen_name_escaped = nextgen_name.replace("|", "\\|")
                     referral_auth_escaped = referral_auth.replace("|", "\\|")
                     status_escaped = status.replace("|", "\\|")
-                    outfile.write(f"| {plan_name_escaped} | {nextgen_name_escaped} | {referral_auth_escaped} | {status_escaped} |\n")
-                outfile.write("\n")
-            outfile.write("</details>\n\n")
+                    doc_outfile.write(f"| {plan_name_escaped} | {nextgen_name_escaped} | {referral_auth_escaped} | {status_escaped} |\n")
+                doc_outfile.write("\n")
+            doc_outfile.write("</details>\n\n") # Close the main details block for the doctor
+
+
+    with open("Insurance_Guide.md", "w", encoding='utf-8') as outfile:
+        outfile.write("# Insurance Guide\n\n")
+        outfile.write("*This guide lists insurance participation by doctor. Click a doctor\'s name to view all insurance info for that doctor, grouped by location/CSV.*\n\n")
+        outfile.write("\n".join(doctor_files_links)) # Add links to individual doctor files
+        outfile.write("\n\n")
+
 
         if os.path.exists("Insurance_FAQ.csv"):
             outfile.write("## Insurance FAQ\n\n")
