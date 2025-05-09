@@ -316,12 +316,8 @@ Use this rule to override standard appointment templates if attempting to schedu
 
 * Document PCP information clearly in the patient's chart and appointment notes.
 * Note in the appointment details: "Pt is aware PCP referral is required; self-pay if not received."
-* This also applies to Optum VA insurance patients if the authorization on file does not match the specific doctor being scheduled under the 72-hour rule. Inform the patient:
-
-> "The current Optum VA authorization is for Dr. `{Provider Name}`.\
-> If you are requesting a new appointment with a different provider, we must submit a request for additional services.\
-> This process can take up to seven (7) days to receive VA approval.\
-> If there is no VA authorization on file, you have the option to bill your medical insurance instead."
+* If the patient proceeds, load the insurance as "Self-Pay". DO NOT bill medical insurance.
+* This also applies to Optum VA insurance patients if the authorization on file does not match the specific doctor being scheduled under the 72-hour rule. 
 
 ## Standard Closing Procedures (Scripting)
 
@@ -492,10 +488,9 @@ Use the **US Eye Insurance Guide** to confirm whether the plan is in-network, ou
    * **VA must schedule** the appointment directly (patient cannot self-schedule).
    * Check the **Authorization** tab in Insurance Maintenance for an existing authorization.
    * If no authorization, let the patient know the VA needs to send a new one.
-5. If the patient's plan is **non-participating** (or the patient does not want to use insurance), explain they will be **self-pay**:
-   * A **self-pay deposit** is collected at check-in, additional costs at check-out.
+5. If the patient's plan is **non-participating** review the [Insurance Guide](<Insurance_Guide.md>) to determine if the plan is non-participating with out-of-network benefits or non-participating without out-of-network benefits.
    * Enter as **Self-Pay – No Insurance**, **Self-Pay – Non Par With Ins**, or **Self-Pay – Do Not Bill Medical Ins**, as appropriate.
-   * See _RCM Procedure Manual Self-Pay Deposit Collection_ for pricing estimates.
+   * Non-PAR with out-of-network benefits: Inform the patient XX Name is non-participating, but their insurance plan has out-of-network benefits. Costs may be higher with out-of-network benefits.
 
 **3. Ask About Secondary Insurance**
 

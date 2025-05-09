@@ -51,7 +51,7 @@
   * [Maureen Traina, PA](insurance_docs/Maureen_Traina_PA.md)
   * [Melissa Hammond, OD](insurance_docs/Melissa_Hammond_OD.md)
   * [Michael Maloney, OD](insurance_docs/Michael_Maloney_OD.md)
-  * [Page Logan, OD](insurance_docs/Page_Logan_OD.md)
+  * [Logan Page, OD](insurance_docs/Page_Logan_OD.md)
   * [Patrick Nelson, OD](insurance_docs/Patrick_Nelson_OD.md)
   * [Penny Orr, OD](insurance_docs/Penny_Orr_OD.md)
   * [Priya Mathews, MD](insurance_docs/Priya_Mathews_MD.md)
