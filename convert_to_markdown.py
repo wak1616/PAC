@@ -137,6 +137,7 @@ def main():
                         doctor_data[doctor_name][location].append((plan_name, nextgen_name, referral_auth, status))
 
     doctor_files_links = []
+    summary_doctor_entries = [] # New list for SUMMARY.md entries
 
     for doctor_name_key in sorted(doctor_data.keys()):
         locations_dict = doctor_data[doctor_name_key]
@@ -148,7 +149,13 @@ def main():
         doctor_filename = f"{safe_doctor_name}.md"
         doctor_filepath = os.path.join(output_dir, doctor_filename)
         
+        # Link for Insurance_Guide.md
         doctor_files_links.append(f"* [{doctor_name_key} ({locations_str})]({output_dir}/{doctor_filename})")
+        
+        # Entry for SUMMARY.md (indented, relative path)
+        # Using a simpler display name for SUMMARY.md for brevity, just the doctor's name.
+        summary_doctor_entries.append(f"  * [{doctor_name_key}]({output_dir}/{doctor_filename})")
+
 
         with open(doctor_filepath, "w", encoding='utf-8') as doc_outfile:
             # Write a suitable title for the individual doctor page
@@ -199,6 +206,34 @@ def main():
                         md_table += "| " + " | ".join(cleaned_r_faq) + " |\n"
                     outfile.write(md_table)
                     outfile.write("\n")
+
+    # Update SUMMARY.md
+    summary_path = "SUMMARY.md"
+    if os.path.exists(summary_path):
+        with open(summary_path, "r", encoding="utf-8") as f_summary:
+            summary_lines = f_summary.readlines()
+
+        new_summary_lines = []
+        insurance_guide_line_found = False
+        for line in summary_lines:
+            new_summary_lines.append(line)
+            # GitBook uses < > for paths with spaces, but not strictly required for simple paths
+            # We'll check for both common ways the link might be formatted.
+            if line.strip() == "* [Insurance Guide](<Insurance_Guide.md>)" or \
+               line.strip() == "* [Insurance Guide](Insurance_Guide.md)":
+                insurance_guide_line_found = True
+                # Add the doctor entries
+                for entry in summary_doctor_entries:
+                    new_summary_lines.append(entry + "\n")
+        
+        if insurance_guide_line_found:
+            with open(summary_path, "w", encoding="utf-8") as f_summary:
+                f_summary.writelines(new_summary_lines)
+        else:
+            print(f"Warning: Could not find 'Insurance Guide' entry in {summary_path} to insert doctor links.")
+    else:
+        print(f"Warning: {summary_path} not found. Doctor links not added to SUMMARY.md.")
+
 
 if __name__ == "__main__":
     main() 
