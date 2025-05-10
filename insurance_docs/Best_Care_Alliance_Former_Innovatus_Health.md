@@ -1,0 +1,68 @@
+# Best Care Alliance (Former Innovatus Health) - Insurance Guide
+
+*This page lists providers who accept Best Care Alliance (Former Innovatus Health), grouped by location.*
+
+<details open><summary>Provider Details for Best Care Alliance (Former Innovatus Health)</summary>
+
+## US Eye Insurance Guide(Center for Sight)
+
+| Provider | NextGen Name | Referral/Auth | Status |
+|----------|-------------|--------------|--------|
+| Bradley Middaugh, OD | PENDING | No Ref/No Auth Required | PAR |
+| Brittany Coyle, OD | PENDING | No Ref/No Auth Required | PAR |
+| Callista Wlaschin, OD | PENDING | No Ref/No Auth Required | Non-PAR |
+| Charles Putrino, OD | PENDING | No Ref/No Auth Required | Non-PAR |
+| Daniel Hadland, OD | PENDING | No Ref/No Auth Required | Non-PAR |
+| David Mertzlufft, OD | PENDING | No Ref/No Auth Required | Non-PAR |
+| David Shoemaker, MD | PENDING | No Ref/No Auth Required | Non-PAR |
+| Elizabeth Davis, MD                      Start Date 05/30/25 | PENDING | No Ref/No Auth Required | Non-PAR |
+| Erin Hardie, OD | PENDING | No Ref/No Auth Required | Non-PAR |
+| George Hurwitz, OD | PENDING | No Ref/No Auth Required | Non-PAR |
+| Hunter Vittone, OD | PENDING | No Ref/No Auth Required | Non-PAR |
+| James Lenhart, OD | PENDING | No Ref/No Auth Required | Non-PAR |
+| Joaquin De Rojas, MD | PENDING | No Ref/No Auth Required | Non-PAR |
+| John Fezza, MD (Oculoplastics) | PENDING | No Ref/No Auth Required | Non-PAR |
+| Joseph Sowka, OD | PENDING | No Ref/No Auth Required | Non-PAR |
+| Joshua Kim, MD | PENDING | No Ref/No Auth Required | Non-PAR |
+| Joshua Newman, MD | PENDING | No Ref/No Auth Required | Non-PAR |
+| Kalie Kosek, PA | PENDING | No Ref/No Auth Required | Non-PAR |
+| Kyle Schaub, OD | PENDING | No Ref/No Auth Required | Non-PAR |
+| Len Brown, OD | PENDING | No Ref/No Auth Required | PAR |
+| Lori Long, OD | PENDING | No Ref/No Auth Required | Non-PAR |
+| Lori Vollmer, OD | PENDING | No Ref/No Auth Required | Non-PAR |
+| Mary Mcvey, OD | PENDING | No Ref/No Auth Required | Non-PAR |
+| Maureen Traina, PA | PENDING | No Ref/No Auth Required | Non-PAR |
+| Melissa Hammond, OD | PENDING | No Ref/No Auth Required | Non-PAR |
+| Michael Maloney, OD | PENDING | No Ref/No Auth Required | Non-PAR |
+| Page Logan, OD | PENDING | No Ref/No Auth Required | Non-PAR |
+| Patrick Nelson, OD | PENDING | No Ref/No Auth Required | Non-PAR |
+| Priya Mathews, MD | PENDING | No Ref/No Auth Required | Non-PAR |
+| Rachael Randolph, OD | PENDING | No Ref/No Auth Required | Non-PAR |
+| Scott Stevens, OD | PENDING | No Ref/No Auth Required | Non-PAR |
+| Shannon Bednarz, PA | PENDING | No Ref/No Auth Required | Non-PAR |
+| Tanuj Banker, MD (RETINA) | PENDING | No Ref/No Auth Required | Non-PAR |
+| Todd Lang, OD | PENDING | No Ref/No Auth Required | Non-PAR |
+| Trisha Werner, OD | PENDING | No Ref/No Auth Required | Non-PAR |
+| William Soscia, MD | PENDING | No Ref/No Auth Required | Non-PAR |
+
+## US Eye Insurance Guide(Center for Sight-Naples)
+
+| Provider | NextGen Name | Referral/Auth | Status |
+|----------|-------------|--------------|--------|
+| George Brinnig-Jastrzebski, MD | Self Pay Non-Par with Ins | N/A | Non-PAR |
+| Hunter Vittone, OD | Self Pay Non-Par with Ins | N/A | Non-PAR |
+| Jon Berlie, MD | Self Pay Non-Par with Ins | N/A | Non-PAR |
+| Julie Carter, MD | Self Pay Non-Par with Ins | N/A | Non-PAR |
+
+## US Eye Insurance Guide(SW FL Eye)
+
+| Provider | NextGen Name | Referral/Auth | Status |
+|----------|-------------|--------------|--------|
+| Albert Smolyar, MD | PENDING | No Ref/No Auth Required | PAR |
+| Brian Marhue, OD | PENDING | No Ref/No Auth Required | PAR |
+| Hunter Vittone, OD | PENDING | No Ref/No Auth Required | PAR |
+| Penny Orr, OD | PENDING | No Ref/No Auth Required | PAR |
+| Sarah Johnson, OD | PENDING | No Ref/No Auth Required | PAR |
+
+</details>
+

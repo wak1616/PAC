@@ -1,0 +1,17 @@
+# UMR (UHC Choice Plus Network, Core, Freedom, NEXAUSACO OAP, Options PPO, Select Plus POS) - Insurance Guide
+
+*This page lists providers who accept UMR (UHC Choice Plus Network, Core, Freedom, NEXAUSACO OAP, Options PPO, Select Plus POS), grouped by location.*
+
+<details open><summary>Provider Details for UMR (UHC Choice Plus Network, Core, Freedom, NEXAUSACO OAP, Options PPO, Select Plus POS)</summary>
+
+## US Eye Insurance Guide(Center for Sight-Naples)
+
+| Provider | NextGen Name | Referral/Auth | Status |
+|----------|-------------|--------------|--------|
+| George Brinnig-Jastrzebski, MD | UMR Commercial - UHC | No Ref/No Auth Required | PAR |
+| Hunter Vittone, OD | UMR Commercial - UHC | No Ref/No Auth Required | PAR |
+| Jon Berlie, MD | UMR Commercial - UHC | No Ref/No Auth Required | PAR |
+| Julie Carter, MD | UMR Commercial - UHC | No Ref/No Auth Required | PAR |
+
+</details>
+

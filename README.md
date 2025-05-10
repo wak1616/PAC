@@ -497,7 +497,7 @@ Use the **US Eye Insurance Guide** to confirm whether the plan is in-network, ou
    * **VA must schedule** the appointment directly (patient cannot self-schedule).
    * Check the **Authorization** tab in Insurance Maintenance for an existing authorization.
    * If no authorization, let the patient know the VA needs to send a new one.
-5. If the patient's plan is **non-participating** review the [Insurance Guide](<Insurance_Guide.md>) to determine if the plan is non-participating with out-of-network benefits or non-participating without out-of-network benefits.
+5. If the patient's plan is **non-participating** review the [Insurance Guide By Provider](<Insurance_Guide_By_Provider.md>) to determine if the plan is non-participating with out-of-network benefits or non-participating without out-of-network benefits.
    * Enter as **Self-Pay – No Insurance**, **Self-Pay – Non Par With Ins**, or **Self-Pay – Do Not Bill Medical Ins**, as appropriate.
    * Non-PAR with out-of-network benefits: Inform the patient XX Name is non-participating, but their insurance plan has out-of-network benefits. Costs may be higher with out-of-network benefits.
 

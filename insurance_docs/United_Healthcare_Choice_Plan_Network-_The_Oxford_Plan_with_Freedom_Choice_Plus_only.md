@@ -1,0 +1,18 @@
+# United Healthcare Choice Plan Network- The Oxford Plan with Freedom Choice Plus only - Insurance Guide
+
+*This page lists providers who accept United Healthcare Choice Plan Network- The Oxford Plan with Freedom Choice Plus only, grouped by location.*
+
+<details open><summary>Provider Details for United Healthcare Choice Plan Network- The Oxford Plan with Freedom Choice Plus only</summary>
+
+## US Eye Insurance Guide(SW FL Eye)
+
+| Provider | NextGen Name | Referral/Auth | Status |
+|----------|-------------|--------------|--------|
+| Albert Smolyar, MD | UHC Oxford PPO | No Ref/No Auth Required | PAR |
+| Brian Marhue, OD | UHC Oxford PPO | No Ref/No Auth Required | PAR |
+| Hunter Vittone, OD | UHC Oxford PPO | No Ref/No Auth Required | PAR |
+| Penny Orr, OD | UHC Oxford PPO | No Ref/No Auth Required | PAR |
+| Sarah Johnson, OD | UHC Oxford PPO | No Ref/No Auth Required | PAR |
+
+</details>
+

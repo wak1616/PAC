@@ -1,0 +1,8 @@
+msal==1.25.0
+Office365-REST-Python-Client==2.5.0
+python-dotenv==1.0.0
+requests>=2.31.0
+cryptography>=41.0.0
+PyJWT>=2.8.0
+pytz>=2024.1
+typing-extensions>=4.9.0 
