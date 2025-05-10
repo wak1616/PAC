@@ -2,6 +2,8 @@
 
 * [Patient Access Center Master Guide](README.md)
   * [Introduction](README.md#introduction)
+  * [Practice Locations (Florida)](README.md#practice-locations-florida)
+  * [Map](README.md#map)
   * [Provider, Location, and Dilation Guides](README.md#provider-location-and-dilation-guides)
   * [Referral Management Protocol](README.md#referral-management-protocol)
   * [Emergency Triage Protocol](README.md#emergency-triage-protocol)

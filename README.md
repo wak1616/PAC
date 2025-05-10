@@ -11,19 +11,28 @@ The Florida Patient Access Center (PAC) serves as the centralized scheduling hub
 US Eye encompasses the following practices:
 
 1. **Center For Sight (CFS)**
-   * 11 offices
-   * 2 ASCs (Ambulatory Surgery Centers)
+   * 11 offices divided up into 3 regions/Patient Care Teams
+      * CFS North
+      * CFS Mid
+      * CFS South
+   * 2 ASCs (Ambulatory Surgery Centers: 1 in Sarasota, 1 in Naples)
    * Geographic span: Sarasota to Naples area
 2. **Southwest Florida Eye Care (SFEC)**
    * 3 offices
    * Geographic span: Fort Myers to Naples area
 3. **Lake Eye Associates (LEA)**
    * 5 offices
-   * 1 ASC
+   * 1 ASC (Santa Fe Surgical Center aka SFSC)
    * Geographic span: The Villages and greater area
 4. **Retina Health Center (RHC)**
    * 2 offices
    * Geographic span: Fort Myers to Naples area
+
+### Map
+
+*Click on the map below to access the interactive version*
+
+[![Interactive Map of Practice Locations](images/florida-practices-map.jpg)](locations_map.html)
 
 ### Websites (with physician biographies)
 
