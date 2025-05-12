@@ -1366,8 +1366,8 @@ Certain requests **only** clinical staff or providers can handle. Refer to the t
 1. **Identify** where the patient is having surgery and which surgeon. Include this info in your message.
 2. **Create a Patient Task** in ICP (Task Category: **Surgery**, Urgency: **High**).
 
-* **Notify Patient Care Counselors (PCCs)** ICP groups for cash-pay procedures (CV, ADV, LAL, LASIK, refractive, cosmetic, etc)
-* **Notify Surgical Schedulers** in all other cases.
+* **At Center For Sight locations, Notify Patient Care Counselors (PCCs)** ICP groups for patients undergoing or who have undergone cash-pay procedures (CV, ADV, LAL, LASIK, refractive, cosmetic, etc).  **Notify the relevant Patient Care Team (CFS North, Mid, or South)** in all other cases (non-cash pay).
+* **At non-CFS locations, Notify Surgical Schedulers** for all surgical-related scheduling inquiries.
 
 **Specific Questions related to Surgery:**
     * **For ASC Logistics** (arrival times, eating/drinking restrictions, retained IV in arm after surgery, etc):
