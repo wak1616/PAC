@@ -1313,17 +1313,17 @@ Below are the listed providers at Center For Sight, along with the services they
 
 ### RCM Inquiries – Financial Requests
 
-| **Request**                                                                             | **Where to Direct**                                                                                                                                                                                                                                                                                  |
-| --------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Surgery Costs / Estimates**                                                           | <p>1. Submit request to: <a href="https://app.smartsheet.com/b/form/69536231a6ef45769be310dd757e8386"><strong>RCM Support Inquiries</strong></a><br>2. Choose <strong>FINANCIAL COUNSELING – ESTIMATE REVIEW/QUESTIONS</strong></p>                                                                  |
+| **Request**                                                                             | **Where to Direct**                                                                                                                                                                                                                                                     |
+| --------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Surgery Costs / Estimates**                                                           | <p>1. Submit request to: <a href="https://app.smartsheet.com/b/form/69536231a6ef45769be310dd757e8386"><strong>RCM Support Inquiries</strong></a><br>2. Choose <strong>FINANCIAL COUNSELING – ESTIMATE REVIEW/QUESTIONS</strong></p>                                     |
 | **Payments for Upcoming Surgery** (not from a statement)                                | <p>Submit request here for <strong>Surgery Prepayments</strong>: <a href="https://app.smartsheet.com/b/form/69536231a6ef45769be310dd757e8386">RCM Support Inquiries</a><br>Choose <strong>FINANCIAL COUNSELING – SURGERY PREPAYMENT (pt requests callback)</strong></p> |
-| **CFS** (Cataract Surgery Payment)                                                      | <p>1. Send an <strong>ICP Communication</strong><br>2. In the <strong>"notify"</strong> field insert "CFS Surgical Counselors"</p>                                                                                                                                                                   |
-| **CFS** (All other surgeries e.g., Glaucoma, Cornea, YAG, Medical Oculoplastic, Retina) | 1. **RCM Support Inquiries** – choose **FINANCIAL COUNSELING – SURGERY PREPAYMENT**                                                                                                                                                                                                                  |
-| **Cosmetic Oculoplastic Surgeries**                                                     | <p>1. Send <strong>ICP Communication</strong><br>2. "Notify" either <strong>CFS Surgical Counselors</strong> (if Dr. Berlie) or <strong>CFS Dr. Fezza Team</strong> (if Dr. Fezza)</p>                                                                                                               |
-| **Insurance Verification** (Referrals, Auth for upcoming appt)                          | <p>1. Submit request here: <a href="https://app.smartsheet.com/b/form/69536231a6ef45769be310dd757e8386">RCM Support Inquiries</a><br>2. Choose <strong>Insurance Verification – Benefits Verification Request</strong></p>                                                                           |
-| **Retina Provider Questions** (Ins Verification, Authorization, Financial Counseling)   | <p>1. <a href="https://app.smartsheet.com/b/form/69536231a6ef45769be310dd757e8386">RCM Support Inquiries</a><br>2. Select "YES" for "Is Inquiry regarding Retina?"</p>                                                                                                                               |
-| **Billing / Customer Service** (past due balance, statements, itemized statements)      | Transfer to **BILLING Quick Connect**                                                                                                                                                                                                                                                                |
-| **Audit Calls from Insurances**                                                         | Email info to **Heather Hickman** (Accounts Receivable Manager)                                                                                                                                                                                                                                      |
+| **CFS** (Cataract Surgery Payment)                                                      | <p>1. Send an <strong>ICP Communication</strong><br>2. In the <strong>"notify"</strong> field insert "CFS Surgical Counselors"</p>                                                                                                                                      |
+| **CFS** (All other surgeries e.g., Glaucoma, Cornea, YAG, Medical Oculoplastic, Retina) | 1. **RCM Support Inquiries** – choose **FINANCIAL COUNSELING – SURGERY PREPAYMENT**                                                                                                                                                                                     |
+| **Cosmetic Oculoplastic Surgeries**                                                     | <p>1. Send <strong>ICP Communication</strong><br>2. "Notify" either <strong>CFS Surgical Counselors</strong> (if Dr. Berlie) or <strong>CFS Dr. Fezza Team</strong> (if Dr. Fezza)</p>                                                                                  |
+| **Insurance Verification** (Referrals, Auth for upcoming appt)                          | <p>1. Submit request here: <a href="https://app.smartsheet.com/b/form/69536231a6ef45769be310dd757e8386">RCM Support Inquiries</a><br>2. Choose <strong>Insurance Verification – Benefits Verification Request</strong></p>                                              |
+| **Retina Provider Questions** (Ins Verification, Authorization, Financial Counseling)   | <p>1. <a href="https://app.smartsheet.com/b/form/69536231a6ef45769be310dd757e8386">RCM Support Inquiries</a><br>2. Select "YES" for "Is Inquiry regarding Retina?"</p>                                                                                                  |
+| **Billing / Customer Service** (past due balance, statements, itemized statements)      | Transfer to **BILLING Quick Connect**                                                                                                                                                                                                                                   |
+| **Audit Calls from Insurances**                                                         | Email info to **Heather Hickman** (Accounts Receivable Manager)                                                                                                                                                                                                         |
 
 ### ICP Patient Tasks Related to Clinical Questions / Medication Refills / DMV Forms
 
@@ -1365,21 +1365,20 @@ Certain requests **only** clinical staff or providers can handle. Refer to the t
 
 1. **Identify** where the patient is having surgery and which surgeon. Include this info in your message.
 2. **Create a Patient Task** in ICP (Task Category: **Surgery**, Urgency: **High**).
-
-    * **At Center For Sight Locations**:
-      * Notify **Surgical Counselors (PCCs)** ICP group for: **scheduling, rescheduling, and pre-payment of cash-pay and cataract ASC surgeries**: basic, CV, ADV, LAL, LASIK, EVO ICL, CLE, PRP tears, IPL, etc.
-      * Notify the **local Patient Care Team (CFS North, CFS Mid, or CFS South)** ICP group for all other non cash-pay procedures including YAG, SLT, cornea procedures, and glaucoma procedures.
-   *  **At non-CFS locations (LEA, RHC, SFEC), notify Surgical Schedulers** ICP group for all surgical-related inquiries.
+   * **At Center For Sight Locations**:
+     * Notify **Surgical Counselors (PCCs)** ICP group for: **scheduling, rescheduling, and pre-payment of cash-pay and cataract ASC surgeries**: basic, CV, ADV, LAL, LASIK, PRK, EVO ICL, CLE, etc.
+     * Notify the **local Patient Care Team (CFS North, CFS Mid, or CFS South)** ICP group for all other non cash-pay procedures including YAG, SLT, cornea procedures, and glaucoma procedures.
+   * **At non-CFS locations (LEA, RHC, SFEC), notify Surgical Schedulers** ICP group for all surgical-related inquiries.
 
 **Specific Questions related to Surgery:**
-   * **For ASC Logistics** (arrival times, eating/drinking restrictions, retained IV in arm after surgery, etc):
-\* **Sarasota ASC**: [SRQ-ASCinquiries@useye.com](mailto:SRQ-ASCinquiries@useye.com)
-\* **Naples ASC ** (including non-US Eye providers that only operate in our ASC): [Naples-ASCinquiries@useye.com](mailto:Naples-ASCinquiries@useye.com)
-\* **Santa Fe / LEA** (including non-US Eye providers that only operate in our ASC): [santafeasc@useye.com](mailto:santafeasc@useye.com)
-   * **For Provider-Specific Surgical Questions**: Message the relevant **Practice (Provider) Team** in ICP (and mark as Urgent)
+
+* **For ASC Logistics** (arrival times, eating/drinking restrictions, retained IV in arm after surgery, etc):\
+  \* **Sarasota ASC**: [SRQ-ASCinquiries@useye.com](mailto:SRQ-ASCinquiries@useye.com)\
+  \* \*\*Naples ASC \*\* (including non-US Eye providers that only operate in our ASC): [Naples-ASCinquiries@useye.com](mailto:Naples-ASCinquiries@useye.com)\
+  \* **Santa Fe / LEA** (including non-US Eye providers that only operate in our ASC): [santafeasc@useye.com](mailto:santafeasc@useye.com)
+* **For Provider-Specific Surgical Questions**: Message the relevant **Practice (Provider) Team** in ICP (and mark as Urgent)
 
 \*_As a PAC agent, never provide surgery times_
-
 
 **Surgery Time & Pre-Op**:
 
