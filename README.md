@@ -1316,7 +1316,7 @@ Below are the listed providers at Center For Sight, along with the services they
 | **Request**                                                                             | **Where to Direct**                                                                                                                                                                                                                                                                                  |
 | --------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Surgery Costs / Estimates**                                                           | <p>1. Submit request to: <a href="https://app.smartsheet.com/b/form/69536231a6ef45769be310dd757e8386"><strong>RCM Support Inquiries</strong></a><br>2. Choose <strong>FINANCIAL COUNSELING – ESTIMATE REVIEW/QUESTIONS</strong></p>                                                                  |
-| **Payments for Upcoming Surgery** (not from a statement)                                | <p><strong>CEP / NCVA</strong>: Submit request here for <strong>Surgery Prepayments</strong>: <a href="https://app.smartsheet.com/b/form/69536231a6ef45769be310dd757e8386">RCM Support Inquiries</a><br>Choose <strong>FINANCIAL COUNSELING – SURGERY PREPAYMENT (pt requests callback)</strong></p> |
+| **Payments for Upcoming Surgery** (not from a statement)                                | <p>Submit request here for <strong>Surgery Prepayments</strong>: <a href="https://app.smartsheet.com/b/form/69536231a6ef45769be310dd757e8386">RCM Support Inquiries</a><br>Choose <strong>FINANCIAL COUNSELING – SURGERY PREPAYMENT (pt requests callback)</strong></p> |
 | **CFS** (Cataract Surgery Payment)                                                      | <p>1. Send an <strong>ICP Communication</strong><br>2. In the <strong>"notify"</strong> field insert "CFS Surgical Counselors"</p>                                                                                                                                                                   |
 | **CFS** (All other surgeries e.g., Glaucoma, Cornea, YAG, Medical Oculoplastic, Retina) | 1. **RCM Support Inquiries** – choose **FINANCIAL COUNSELING – SURGERY PREPAYMENT**                                                                                                                                                                                                                  |
 | **Cosmetic Oculoplastic Surgeries**                                                     | <p>1. Send <strong>ICP Communication</strong><br>2. "Notify" either <strong>CFS Surgical Counselors</strong> (if Dr. Berlie) or <strong>CFS Dr. Fezza Team</strong> (if Dr. Fezza)</p>                                                                                                               |
@@ -1361,42 +1361,35 @@ Certain requests **only** clinical staff or providers can handle. Refer to the t
 
 **Procedures are NOT scheduled by the PAC**
 
-**Surgical Inquiries Handling**
+**Surgical Inquiries Handling (scheduling, rescheduling, cancellations, and pre-payments)**
 
 1. **Identify** where the patient is having surgery and which surgeon. Include this info in your message.
 2. **Create a Patient Task** in ICP (Task Category: **Surgery**, Urgency: **High**).
 
-* **At Center For Sight Locations Notify Surgical Counselors (PCCs)** ICP groups for:
-* Patients **scheduling, rescheduling, and pre-payment for** cash-pay procedures (CV, ADV, LAL, LASIK, ICL, CLE, refractive, etc) and basic cataract surgery.
-* All other surgical procedure scheduling and rescheduling such as YAG, SLT, cornea, and glaucoma procedures, **Notify the relevant Patient Care Team (CFS North, Mid, or South)** based upon where the patient was seen for the consultation.&#x20;
-* **At non-CFS locations, Notify Surgical Schedulers** for all surgical-related scheduling inquiries.
+    * **At Center For Sight Locations**:
+      * Notify **Surgical Counselors (PCCs)** ICP group for: **scheduling, rescheduling, and pre-payment of cash-pay and cataract ASC surgeries**: basic, CV, ADV, LAL, LASIK, EVO ICL, CLE, PRP tears, IPL, etc.
+      * Notify the **local Patient Care Team (CFS North, CFS Mid, or CFS South)** ICP group for all other non cash-pay procedures including YAG, SLT, cornea procedures, and glaucoma procedures.
+   *  **At non-CFS locations (LEA, RHC, SFEC), notify Surgical Schedulers** ICP group for all surgical-related inquiries.
 
-**Specific Questions related to Surgery:**\
-\* **For ASC Logistics** (arrival times, eating/drinking restrictions, retained IV in arm after surgery, etc):\
-\* **Sarasota**: [SRQ-ASCinquiries@useye.com](mailto:SRQ-ASCinquiries@useye.com)\
-\* **Naples (including non-US Eye providers that only operate in our ASC)**: [Naples-ASCinquiries@useye.com](mailto:Naples-ASCinquiries@useye.com)\
-\* **Santa Fe (LEA)(including non-US Eye providers that only operate in our ASC)**: [santafeasc@useye.com](mailto:santafeasc@useye.com)\
-\* **For Provider-Specific Questions**:\
-\* \*Practice (Provider) Team (mark as Urgent)
+**Specific Questions related to Surgery:**
+   * **For ASC Logistics** (arrival times, eating/drinking restrictions, retained IV in arm after surgery, etc):
+\* **Sarasota ASC**: [SRQ-ASCinquiries@useye.com](mailto:SRQ-ASCinquiries@useye.com)
+\* **Naples ASC ** (including non-US Eye providers that only operate in our ASC): [Naples-ASCinquiries@useye.com](mailto:Naples-ASCinquiries@useye.com)
+\* **Santa Fe / LEA** (including non-US Eye providers that only operate in our ASC): [santafeasc@useye.com](mailto:santafeasc@useye.com)
+   * **For Provider-Specific Surgical Questions**: Message the relevant **Practice (Provider) Team** in ICP (and mark as Urgent)
 
 \*_As a PAC agent, never provide surgery times_
 
-Messages to surgical counselor / patient care counselor (PCC) ICP group for:
-
-* Surgery **cancellation** (if within 24–48 hours, also notify the provider team + email ASC if relevant).
-* Surgery **rescheduling** (including post-ops).
-* **Surgery scheduling**.
-* **Surgical** questions → provider team.
 
 **Surgery Time & Pre-Op**:
 
-* For **Southwest Florida Eye (SFEC)**, create ICP task for the practice surgical counselors.
-* For Laser & Surgical Services (Center For Sight-US41 Sarasota): email [srq-ascinquiries@useye.com](mailto:srq-ascinquiries@useye.com).
-* For Montgomery Eye (Center for Sight Naples): email [naples-ascinquiries@useye.com](mailto:naples-ascinquiries@useye.com).
-* For Santa Fe Surgery Center (LEA): email [santafeasc@useye.com](mailto:santafeasc@useye.com).
-  * Include patient name, DOB, surgery center, and surgeon.
+* For Southwest Florida Eye (SFEC), create ICP task for the practice surgical counselors.
+* For Center For Sight - Sarasota / Laser & Surgical Services: email [srq-ascinquiries@useye.com](mailto:srq-ascinquiries@useye.com).
+* For Center for Sight - Naples / Montogmery Eye Center: email [naples-ascinquiries@useye.com](mailto:naples-ascinquiries@useye.com).
+* For Santa Fe Surgery Center (Lake Eye Associates): email [santafeasc@useye.com](mailto:santafeasc@useye.com).
+* **Include patient name, DOB, surgery center, and surgeon.**
 
-**Post-Op** questions → **Provider Team** in ICP, **not** the surgical counselor group.
+**Post-Op** questions → **Provider Team** in ICP (**NOT** the surgical counselor group)
 
 ### Optical
 

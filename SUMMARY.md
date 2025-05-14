@@ -8,7 +8,7 @@
   * [Referral Management Protocol](README.md#referral-management-protocol)
   * [Emergency Triage Protocol](README.md#emergency-triage-protocol)
   * [Contact Lens Discontinuation prior to Consultations](README.md#contact-lens-discontinuation-prior-to-consultations)
-  * [72-Hour Scheduling Rule](README.md#id-72-hour-scheduling-rule)
+  * [72-Hour Scheduling Rule](README.md#72-hour-scheduling-rule)
   * [Standard Closing Procedures (Scripting)](README.md#standard-closing-procedures-scripting)
   * [Scheduling Guidelines](README.md#scheduling-guidelines)
   * [Patient Support -- Handling Other Requests](README.md#patient-support----handling-other-requests)
