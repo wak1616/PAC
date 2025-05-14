@@ -1374,7 +1374,7 @@ Certain requests **only** clinical staff or providers can handle. Refer to the t
 
 * **For ASC Logistics** (arrival times, eating/drinking restrictions, retained IV in arm after surgery, etc):\
   \* **Sarasota ASC**: [SRQ-ASCinquiries@useye.com](mailto:SRQ-ASCinquiries@useye.com)\
-  \* \*\*Naples ASC \*\* (including non-US Eye providers that only operate in our ASC): [Naples-ASCinquiries@useye.com](mailto:Naples-ASCinquiries@useye.com)\
+  \* **Naples ASC** (including non-US Eye providers that only operate in our ASC): [Naples-ASCinquiries@useye.com](mailto:Naples-ASCinquiries@useye.com)\
   \* **Santa Fe / LEA** (including non-US Eye providers that only operate in our ASC): [santafeasc@useye.com](mailto:santafeasc@useye.com)
 * **For Provider-Specific Surgical Questions**: Message the relevant **Practice (Provider) Team** in ICP (and mark as Urgent)
 
