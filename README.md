@@ -12,9 +12,9 @@ US Eye encompasses the following practices:
 
 1. **Center For Sight (CFS)**
    * 11 offices divided up into 3 regions/Patient Care Teams
-      * CFS North
-      * CFS Mid
-      * CFS South
+     * CFS North
+     * CFS Mid
+     * CFS South
    * 2 ASCs (Ambulatory Surgery Centers: 1 in Sarasota, 1 in Naples)
    * Geographic span: Sarasota to Naples area
 2. **Southwest Florida Eye Care (SFEC)**
@@ -30,7 +30,7 @@ US Eye encompasses the following practices:
 
 ### Map
 
-*Click on the map below to access the interactive version*
+_Click on the map below to access the interactive version_
 
 [![Interactive Map of Practice Locations](images/florida-practices-map.jpg)](https://wak1616.github.io/PAC/locations_map.html)
 
@@ -326,7 +326,7 @@ Use this rule to override standard appointment templates if attempting to schedu
 * Document PCP information clearly in the patient's chart and appointment notes.
 * Note in the appointment details: "Pt is aware PCP referral is required; self-pay if not received."
 * If the patient proceeds, load the insurance as "Self-Pay". DO NOT bill medical insurance.
-* This also applies to Optum VA insurance patients if the authorization on file does not match the specific doctor being scheduled under the 72-hour rule. 
+* This also applies to Optum VA insurance patients if the authorization on file does not match the specific doctor being scheduled under the 72-hour rule.
 
 ## Standard Closing Procedures (Scripting)
 
@@ -497,7 +497,7 @@ Use the **US Eye Insurance Guide** to confirm whether the plan is in-network, ou
    * **VA must schedule** the appointment directly (patient cannot self-schedule).
    * Check the **Authorization** tab in Insurance Maintenance for an existing authorization.
    * If no authorization, let the patient know the VA needs to send a new one.
-5. If the patient's plan is **non-participating** review the [Insurance Guide By Provider](<Insurance_Guide_By_Provider.md>) to determine if the plan is non-participating with out-of-network benefits or non-participating without out-of-network benefits.
+5. If the patient's plan is **non-participating** review the [Insurance Guide By Provider](Insurance_Guide_By_Provider.md) to determine if the plan is non-participating with out-of-network benefits or non-participating without out-of-network benefits.
    * Enter as **Self-Pay – No Insurance**, **Self-Pay – Non Par With Ins**, or **Self-Pay – Do Not Bill Medical Ins**, as appropriate.
    * Non-PAR with out-of-network benefits: Inform the patient XX Name is non-participating, but their insurance plan has out-of-network benefits. Costs may be higher with out-of-network benefits.
 
@@ -626,7 +626,7 @@ US Eye offers **Light Adjustable Lens**, **Advanced**, **Custom**, and **Basic**
 
 #### Pre-Op / Post-Op Care
 
-* Pre-op, surgery, 1-day post-op, and LAL adjustments are scheduled/rescheduled/canceled by surgical counselors.
+* Pre-op, surgery, 1-day & 1-week post-op, and LAL adjustments are scheduled/rescheduled/canceled by surgical counselors.
 * If changes are needed, create a Patient Task in ICP and assign it to the appropriate group:
 
 > **Groups:**
@@ -673,7 +673,7 @@ Refractive procedures help improve the patient's vision to minimize dependence o
 | Location | Providers                                                                                                                                                 |
 | -------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **CFS**  | <p>Dr. Joaquin De Rojas<br>Dr. Priya Mathews<br>Dr. David Shoemaker*<br>Dr. Elizabeth Davis<br>Dr. Joshua Kim*<br>Dr. Jon Berlie<sup>†</sup> (Naples)</p> |
-| **LEA**  | <p>Dr. Vinay Gutti<sup>*</sup><br>Dr. Scot Holman*<br>Dr. Scott Wehrly*</p>                                                                               |
+| **LEA**  | <p>Dr. Vinay Gutti<br><em>Dr. Scot Holman</em><br>Dr. Scott Wehrly*</p>                                                                                   |
 | **SFEC** | Dr. Albert Smolyar                                                                                                                                        |
 
 #### Important Reminders
@@ -870,7 +870,7 @@ Glaucoma is a disease caused by increased fluid pressure within the eye, potenti
 | Location | Providers                                                                                                                                                  |
 | -------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **CFS**  | <p>Dr. Joshua Kim,<br>Dr. Julia Carter (Naples),<br>Dr. Jon Berlie* (Naples),<br>Dr. Joaquin De Rojas*,<br>Dr. Priya Mathews*,<br>Dr. Elizabeth Davis*</p> |
-| **LEA**  | <p>Dr. Vinay Gutti*,<br>Dr. Scott Holman*,<br>Dr. Scott Wehrly*<br>                                                                                                                                                        |
+| **LEA**  | <p>Dr. Vinay Gutti*,<br>Dr. Scott Holman*,<br>Dr. Scott Wehrly*<br></p>                                                                                    |
 | **RHC**  | N/A                                                                                                                                                        |
 | **SFEC** | Dr. Albert Smolyar\*                                                                                                                                       |
 
@@ -1338,14 +1338,14 @@ Certain requests **only** clinical staff or providers can handle. Refer to the t
 
 #### **ICP Patient Task Categories**
 
-| **Patient Questions**                       | **Urgency** | **ICP Task Category**        | **Notify Group**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
-| ------------------------------------------- | ----------- | ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Medications / Drops                         | Normal      | Prescription Drug Management | \*Practice (Provider) Team (Established patients only)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-| Post Op Care                                | Urgent      | Continuing Care              | \*Practice (Provider) Team (mark as Urgent)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
-| General Exam / Diagnosis                    | Normal      | Continuing Care              | \*Practice (Provider) Team                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
-| CL or Glasses Copy of Prescription          | Normal      | Contact Lens / Glasses       | \*Practice (Provider) Team                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
-| Change/Alter CL or Glasses Rx (not expired) | Normal      | Contact Lens / Glasses       | \*Practice (Provider) Team                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
-| DMV Forms                                   | Normal      | Continuing Care              | \*Practice (Provider) Team                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| **Patient Questions**                       | **Urgency** | **ICP Task Category**        | **Notify Group**                                       |
+| ------------------------------------------- | ----------- | ---------------------------- | ------------------------------------------------------ |
+| Medications / Drops                         | Normal      | Prescription Drug Management | \*Practice (Provider) Team (Established patients only) |
+| Post Op Care                                | Urgent      | Continuing Care              | \*Practice (Provider) Team (mark as Urgent)            |
+| General Exam / Diagnosis                    | Normal      | Continuing Care              | \*Practice (Provider) Team                             |
+| CL or Glasses Copy of Prescription          | Normal      | Contact Lens / Glasses       | \*Practice (Provider) Team                             |
+| Change/Alter CL or Glasses Rx (not expired) | Normal      | Contact Lens / Glasses       | \*Practice (Provider) Team                             |
+| DMV Forms                                   | Normal      | Continuing Care              | \*Practice (Provider) Team                             |
 
 > **Notify Field Examples**:
 >
@@ -1366,20 +1366,22 @@ Certain requests **only** clinical staff or providers can handle. Refer to the t
 1. **Identify** where the patient is having surgery and which surgeon. Include this info in your message.
 2. **Create a Patient Task** in ICP (Task Category: **Surgery**, Urgency: **High**).
 
-* **At Center For Sight locations, Notify Patient Care Counselors (PCCs)** ICP groups for patients undergoing or who have undergone cash-pay procedures (CV, ADV, LAL, LASIK, refractive, cosmetic, etc).  **Notify the relevant Patient Care Team (CFS North, Mid, or South)** in all other cases (non-cash pay).
+* **At Center For Sight Locations Notify Surgical Counselors (PCCs)** ICP groups for:
+* Patients **scheduling, rescheduling, and pre-payment for** cash-pay procedures (CV, ADV, LAL, LASIK, ICL, CLE, refractive, etc) and basic cataract surgery.
+* All other surgical procedure scheduling and rescheduling such as YAG, SLT, cornea, and glaucoma procedures, **Notify the relevant Patient Care Team (CFS North, Mid, or South)** based upon where the patient was seen for the consultation.&#x20;
 * **At non-CFS locations, Notify Surgical Schedulers** for all surgical-related scheduling inquiries.
 
-**Specific Questions related to Surgery:**
-    * **For ASC Logistics** (arrival times, eating/drinking restrictions, retained IV in arm after surgery, etc):
-        *   **Sarasota**: <a href="mailto:SRQ-ASCinquiries@useye.com">SRQ-ASCinquiries@useye.com</a>
-        *   **Naples**: <a href="mailto:Naples-ASCinquiries@useye.com">Naples-ASCinquiries@useye.com</a>
-        *   **Santa Fe (LEA)**: <a href="mailto:santafeasc@useye.com">santafeasc@useye.com</a>
-    *   **For Provider-Specific Questions**:
-        *   \*Practice (Provider) Team (mark as Urgent)
+**Specific Questions related to Surgery:**\
+\* **For ASC Logistics** (arrival times, eating/drinking restrictions, retained IV in arm after surgery, etc):\
+\* **Sarasota**: [SRQ-ASCinquiries@useye.com](mailto:SRQ-ASCinquiries@useye.com)\
+\* **Naples (including non-US Eye providers that only operate in our ASC)**: [Naples-ASCinquiries@useye.com](mailto:Naples-ASCinquiries@useye.com)\
+\* **Santa Fe (LEA)(including non-US Eye providers that only operate in our ASC)**: [santafeasc@useye.com](mailto:santafeasc@useye.com)\
+\* **For Provider-Specific Questions**:\
+\* \*Practice (Provider) Team (mark as Urgent)
 
-**As a PAC agent, never provide surgery times*
+\*_As a PAC agent, never provide surgery times_
 
-Messages to surgical counselor / patient care counselor (PCC)  ICP group for:
+Messages to surgical counselor / patient care counselor (PCC) ICP group for:
 
 * Surgery **cancellation** (if within 24–48 hours, also notify the provider team + email ASC if relevant).
 * Surgery **rescheduling** (including post-ops).
@@ -1388,7 +1390,7 @@ Messages to surgical counselor / patient care counselor (PCC)  ICP group for:
 
 **Surgery Time & Pre-Op**:
 
-* For **Santa Fe Surgery Center (SFSC near LEA)** or **Southwest Florida Eye (SFEC)**, create ICP task for the practice surgical counselors.
+* For **Southwest Florida Eye (SFEC)**, create ICP task for the practice surgical counselors.
 * For Laser & Surgical Services (Center For Sight-US41 Sarasota): email [srq-ascinquiries@useye.com](mailto:srq-ascinquiries@useye.com).
 * For Montgomery Eye (Center for Sight Naples): email [naples-ascinquiries@useye.com](mailto:naples-ascinquiries@useye.com).
 * For Santa Fe Surgery Center (LEA): email [santafeasc@useye.com](mailto:santafeasc@useye.com).
