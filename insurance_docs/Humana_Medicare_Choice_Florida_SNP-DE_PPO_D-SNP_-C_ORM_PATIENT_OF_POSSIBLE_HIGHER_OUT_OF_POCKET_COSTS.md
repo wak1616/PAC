@@ -1,10 +1,10 @@
-# Humana  Medicare Choice Florida SNP-DE (PPO D-SNP)-CFS (except Naples) is OUT OF NETWORK. PATIENT HAS OON BENEFITS. PLEASE INFORM PATIENT OF POSSIBLE HIGHER OUT OF POCKET COSTS - Insurance Guide
+# Humana Medicare Choice Florida SNP-DE (PPO D-SNP)-CFS (except Naples) is OUT OF NETWORK. PATIENT HAS OON BENEFITS. PLEASE INFORM PATIENT OF POSSIBLE HIGHER OUT OF POCKET COSTS - Insurance Guide
 
-*This page lists providers who accept Humana  Medicare Choice Florida SNP-DE (PPO D-SNP)-CFS (except Naples) is OUT OF NETWORK. PATIENT HAS OON BENEFITS. PLEASE INFORM PATIENT OF POSSIBLE HIGHER OUT OF POCKET COSTS, grouped by location.*
+*This page lists providers who accept Humana Medicare Choice Florida SNP-DE (PPO D-SNP)-CFS (except Naples) is OUT OF NETWORK. PATIENT HAS OON BENEFITS. PLEASE INFORM PATIENT OF POSSIBLE HIGHER OUT OF POCKET COSTS, grouped by location.*
 
-<details open><summary>Provider Details for Humana  Medicare Choice Florida SNP-DE (PPO D-SNP)-CFS (except Naples) is OUT OF NETWORK. PATIENT HAS OON BENEFITS. PLEASE INFORM PATIENT OF POSSIBLE HIGHER OUT OF POCKET COSTS</summary>
+<details open><summary>Provider Details for Humana Medicare Choice Florida SNP-DE (PPO D-SNP)-CFS (except Naples) is OUT OF NETWORK. PATIENT HAS OON BENEFITS. PLEASE INFORM PATIENT OF POSSIBLE HIGHER OUT OF POCKET COSTS</summary>
 
-## US Eye Insurance Guide(Center for Sight)
+## Center for Sight
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
@@ -39,8 +39,7 @@
 | Priya Mathews, MD | Primary: Humana Dual Medicare PPO Primary                                                 Secondary: Humana Dual Medicaid Secondary | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Rachael Randolph, OD | Primary: Humana Dual Medicare PPO Primary                                                 Secondary: Humana Dual Medicaid Secondary | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Scott Stevens, OD | Primary: Humana Dual Medicare PPO Primary                                                 Secondary: Humana Dual Medicaid Secondary | No Ref/No Auth Required | Non-PAR -OON Benefits |
-| Shannon Bednarz, PA | Primary: Humana Dual Medicare PPO Primary                                                 Secondary: Humana Dual Medicaid Secondary | No Ref/No Auth Required | Non-PAR -OON Benefits |
-| Tanuj Banker, MD (RETINA) | Primary: Humana Dual Medicare PPO Primary                                                 Secondary: Humana Dual Medicaid Secondary | No Ref/No Auth Required | Non-PAR |
+| Shannon Bednarz, PA | Primary: Humana Dual Medicare PPO Primary                                                 Secondary: Humana Dual Medicaid Secondary | No Ref/No Auth Required | Non-PAR |
 | Todd Lang, OD | Primary: Humana Dual Medicare PPO Primary                                                 Secondary: Humana Dual Medicaid Secondary | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Trisha Werner, OD | Primary: Humana Dual Medicare PPO Primary                                                 Secondary: Humana Dual Medicaid Secondary | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | William Soscia, MD | Primary: Humana Dual Medicare PPO Primary                                                 Secondary: Humana Dual Medicaid Secondary | No Ref/No Auth Required | Non-PAR -OON Benefits |

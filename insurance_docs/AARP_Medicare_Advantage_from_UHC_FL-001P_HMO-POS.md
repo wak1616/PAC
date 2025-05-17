@@ -4,7 +4,7 @@
 
 <details open><summary>Provider Details for AARP Medicare Advantage from UHC FL-001P (HMO-POS)</summary>
 
-## US Eye Insurance Guide(Lake Eye )
+## Lake Eye 
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
@@ -17,14 +17,14 @@
 | Scott Wehrly, MD | AARP Medicare HMO | No Ref/No Auth Required | PAR |
 | Vinay Gutti, MD | AARP Medicare HMO | No Ref/No Auth Required | PAR |
 
-## US Eye Insurance Guide(Retina Health Center)
+## Retina Health Center
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
 | Alexander Eaton, MD | AARP Medicare HMO | No Ref/No Auth Required | PAR |
 | Veronica Kon Graversen, MD | AARP Medicare HMO | No Ref/No Auth Required | PAR |
 
-## US Eye Insurance Guide(SW FL Eye)
+## SW FL Eye
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|

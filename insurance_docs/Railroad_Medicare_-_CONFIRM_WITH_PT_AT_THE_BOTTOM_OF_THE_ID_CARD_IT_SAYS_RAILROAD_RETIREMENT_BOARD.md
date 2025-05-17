@@ -4,7 +4,7 @@
 
 <details open><summary>Provider Details for Railroad Medicare - CONFIRM WITH PT AT THE BOTTOM OF THE ID CARD IT SAYS "RAILROAD RETIREMENT BOARD"</summary>
 
-## US Eye Insurance Guide(Center for Sight)
+## Center for Sight
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
@@ -15,7 +15,7 @@
 | Daniel Hadland, OD | Railroad Medicare | No Ref/No Auth Required | PAR |
 | David Mertzlufft, OD | Railroad Medicare | No Ref/No Auth Required | PAR |
 | David Shoemaker, MD | Railroad Medicare | No Ref/No Auth Required | PAR |
-| Elizabeth Davis, MD                      Start Date 05/30/25 | Railroad Medicare | No Ref/No Auth Required | OK to Schedule - HOLD CLAIMS UNTIL PAR |
+| Elizabeth Davis, MD                      Start Date 05/30/25 | Railroad Medicare | No Ref/No Auth Required | PAR |
 | Erin Hardie, OD | Railroad Medicare | No Ref/No Auth Required | PAR |
 | George Hurwitz, OD | Railroad Medicare | No Ref/No Auth Required | PAR |
 | Hunter Vittone, OD | Railroad Medicare | No Ref/No Auth Required | PAR |
@@ -40,12 +40,11 @@
 | Rachael Randolph, OD | Railroad Medicare | No Ref/No Auth Required | PAR |
 | Scott Stevens, OD | Railroad Medicare | No Ref/No Auth Required | PAR |
 | Shannon Bednarz, PA | Railroad Medicare | No Ref/No Auth Required | PAR |
-| Tanuj Banker, MD (RETINA) | Railroad Medicare | No Ref/No Auth Required | PAR |
 | Todd Lang, OD | Railroad Medicare | No Ref/No Auth Required | PAR |
 | Trisha Werner, OD | Railroad Medicare | No Ref/No Auth Required | PAR |
 | William Soscia, MD | Railroad Medicare | No Ref/No Auth Required | PAR |
 
-## US Eye Insurance Guide(Center for Sight-Naples)
+## Center for Sight-Naples
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
@@ -54,27 +53,27 @@
 | Jon Berlie, MD | Railroad Medicare | No Ref/No Auth Required | PAR |
 | Julie Carter, MD | Railroad Medicare | No Ref/No Auth Required | PAR |
 
-## US Eye Insurance Guide(Lake Eye )
+## Lake Eye 
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
-| Alexandria Rawls, OD | Railroad Medicare | No Ref/No Auth Required | Non-PAR |
+| Alexandria Rawls, OD | Railroad Medicare | No Ref/No Auth Required | PAR |
 | Christine Bui, OD | Railroad Medicare | No Ref/No Auth Required | PAR |
-| Diba Ossareh, OD | Railroad Medicare | No Ref/No Auth Required | OK to Schedule - HOLD CLAIMS UNTIL PAR |
+| Diba Ossareh, OD | Railroad Medicare | No Ref/No Auth Required | PAR |
 | Jose Vazques-Diaz, MD | Railroad Medicare | No Ref/No Auth Required | PAR |
 | Mari Holderby, OD | Railroad Medicare | No Ref/No Auth Required | PAR |
 | Scot Holman, MD | Railroad Medicare | No Ref/No Auth Required | PAR |
 | Scott Wehrly, MD | Railroad Medicare | No Ref/No Auth Required | PAR |
 | Vinay Gutti, MD | Railroad Medicare | No Ref/No Auth Required | PAR |
 
-## US Eye Insurance Guide(Retina Health Center)
+## Retina Health Center
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
 | Alexander Eaton, MD | Railroad Medicare | No Ref/No Auth Required | PAR |
 | Veronica Kon Graversen, MD | Railroad Medicare | No Ref/No Auth Required | PAR |
 
-## US Eye Insurance Guide(SW FL Eye)
+## SW FL Eye
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|

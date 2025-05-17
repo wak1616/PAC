@@ -1,10 +1,10 @@
-# Aetna Medicare - Credit/Discover/Discover Value Plan/Select  (HMO) - Insurance Guide
+# Aetna Medicare - Credit/Discover/Discover Value Plan/Select (HMO) - Insurance Guide
 
-*This page lists providers who accept Aetna Medicare - Credit/Discover/Discover Value Plan/Select  (HMO), grouped by location.*
+*This page lists providers who accept Aetna Medicare - Credit/Discover/Discover Value Plan/Select (HMO), grouped by location.*
 
-<details open><summary>Provider Details for Aetna Medicare - Credit/Discover/Discover Value Plan/Select  (HMO)</summary>
+<details open><summary>Provider Details for Aetna Medicare - Credit/Discover/Discover Value Plan/Select (HMO)</summary>
 
-## US Eye Insurance Guide(Center for Sight-Naples)
+## Center for Sight-Naples
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
@@ -13,7 +13,7 @@
 | Jon Berlie, MD | Aetna Medicare HMO REFERRAL REQ | Referral Required | PAR |
 | Julie Carter, MD | Aetna Medicare HMO REFERRAL REQ | Referral Required | PAR |
 
-## US Eye Insurance Guide(Lake Eye )
+## Lake Eye 
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|

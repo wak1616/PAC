@@ -1,10 +1,10 @@
-# United Healthcare NexusACO OA  POS/OA EPO - Insurance Guide
+# United Healthcare NexusACO OA POS/OA EPO - Insurance Guide
 
-*This page lists providers who accept United Healthcare NexusACO OA  POS/OA EPO, grouped by location.*
+*This page lists providers who accept United Healthcare NexusACO OA POS/OA EPO, grouped by location.*
 
-<details open><summary>Provider Details for United Healthcare NexusACO OA  POS/OA EPO</summary>
+<details open><summary>Provider Details for United Healthcare NexusACO OA POS/OA EPO</summary>
 
-## US Eye Insurance Guide(Retina Health Center)
+## Retina Health Center
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|

@@ -4,7 +4,7 @@
 
 <details open><summary>Provider Details for Aetna Standard PlansAetna Affordable Health Choices® limited benefits insurance plan (SRC only) - Limited Benefits</summary>
 
-## US Eye Insurance Guide(SW FL Eye)
+## SW FL Eye
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|

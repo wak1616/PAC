@@ -4,7 +4,7 @@
 
 <details open><summary>Provider Details for Priority Health Commercial- (Cigna Open Access Network) PPO</summary>
 
-## US Eye Insurance Guide(Center for Sight)
+## Center for Sight
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
@@ -12,26 +12,26 @@
 | Brittany Coyle, OD | Priority Health Commercial PPO - Cigna | No Ref/No Auth Required | PAR |
 | Callista Wlaschin, OD | Priority Health Commercial PPO - Cigna | No Ref/No Auth Required | PAR |
 | Charles Putrino, OD | Priority Health Commercial PPO - Cigna | No Ref/No Auth Required | PAR |
-| Daniel Hadland, OD | Priority Health Commercial PPO - Cigna | No Ref/No Auth Required | PAR |
+| Daniel Hadland, OD | Priority Health Commercial PPO - Cigna | No Ref/No Auth Required | Non-PAR |
 | David Mertzlufft, OD | Priority Health Commercial PPO - Cigna | No Ref/No Auth Required | PAR |
 | David Shoemaker, MD | Priority Health Commercial PPO - Cigna | No Ref/No Auth Required | PAR |
-| Elizabeth Davis, MD                      Start Date 05/30/25 | Priority Health Commercial PPO - Cigna | No Ref/No Auth Required | Non-PAR |
+| Elizabeth Davis, MD                      Start Date 05/30/25 | Priority Health Commercial PPO - Cigna | No Ref/No Auth Required | PAR |
 | Erin Hardie, OD | Priority Health Commercial PPO - Cigna | No Ref/No Auth Required | PAR |
 | George Hurwitz, OD | Priority Health Commercial PPO - Cigna | No Ref/No Auth Required | PAR |
-| Hunter Vittone, OD | Priority Health Commercial PPO - Cigna | No Ref/No Auth Required | PAR |
+| Hunter Vittone, OD | Priority Health Commercial PPO - Cigna | No Ref/No Auth Required | Non-PAR |
 | James Lenhart, OD | Priority Health Commercial PPO - Cigna | No Ref/No Auth Required | PAR |
-| Joaquin De Rojas, MD | Priority Health Commercial PPO - Cigna | No Ref/No Auth Required | PAR |
-| John Fezza, MD (Oculoplastics) | Priority Health Commercial PPO - Cigna | No Ref/No Auth Required | Non-PAR |
+| Joaquin De Rojas, MD | Priority Health Commercial PPO - Cigna | No Ref/No Auth Required | Non-PAR |
+| John Fezza, MD (Oculoplastics) | Priority Health Commercial PPO - Cigna | No Ref/No Auth Required | PAR |
 | Joseph Sowka, OD | Priority Health Commercial PPO - Cigna | No Ref/No Auth Required | PAR |
 | Joshua Kim, MD | Priority Health Commercial PPO - Cigna | No Ref/No Auth Required | PAR |
 | Joshua Newman, MD | Priority Health Commercial PPO - Cigna | No Ref/No Auth Required | PAR |
-| Kalie Kosek, PA | Priority Health Commercial PPO - Cigna | No Ref/No Auth Required | Non-PAR |
+| Kalie Kosek, PA | Priority Health Commercial PPO - Cigna | No Ref/No Auth Required | PAR |
 | Kyle Schaub, OD | Priority Health Commercial PPO - Cigna | No Ref/No Auth Required | PAR |
-| Len Brown, OD | Priority Health Commercial PPO - Cigna | No Ref/No Auth Required | PAR |
+| Len Brown, OD | Priority Health Commercial PPO - Cigna | No Ref/No Auth Required | Non-PAR |
 | Lori Long, OD | Priority Health Commercial PPO - Cigna | No Ref/No Auth Required | PAR |
 | Lori Vollmer, OD | Priority Health Commercial PPO - Cigna | No Ref/No Auth Required | PAR |
 | Mary Mcvey, OD | Priority Health Commercial PPO - Cigna | No Ref/No Auth Required | PAR |
-| Maureen Traina, PA | Priority Health Commercial PPO - Cigna | No Ref/No Auth Required | Non-PAR |
+| Maureen Traina, PA | Priority Health Commercial PPO - Cigna | No Ref/No Auth Required | PAR |
 | Melissa Hammond, OD | Priority Health Commercial PPO - Cigna | No Ref/No Auth Required | PAR |
 | Michael Maloney, OD | Priority Health Commercial PPO - Cigna | No Ref/No Auth Required | PAR |
 | Page Logan, OD | Priority Health Commercial PPO - Cigna | No Ref/No Auth Required | PAR |
@@ -39,13 +39,12 @@
 | Priya Mathews, MD | Priority Health Commercial PPO - Cigna | No Ref/No Auth Required | PAR |
 | Rachael Randolph, OD | Priority Health Commercial PPO - Cigna | No Ref/No Auth Required | PAR |
 | Scott Stevens, OD | Priority Health Commercial PPO - Cigna | No Ref/No Auth Required | PAR |
-| Shannon Bednarz, PA | Priority Health Commercial PPO - Cigna | No Ref/No Auth Required | Non-PAR |
-| Tanuj Banker, MD (RETINA) | Priority Health Commercial PPO - Cigna | No Ref/No Auth Required | PAR |
-| Todd Lang, OD | Priority Health Commercial PPO - Cigna | No Ref/No Auth Required | PAR |
+| Shannon Bednarz, PA | Priority Health Commercial PPO - Cigna | No Ref/No Auth Required | PAR |
+| Todd Lang, OD | Priority Health Commercial PPO - Cigna | No Ref/No Auth Required | Non-PAR |
 | Trisha Werner, OD | Priority Health Commercial PPO - Cigna | No Ref/No Auth Required | PAR |
 | William Soscia, MD | Priority Health Commercial PPO - Cigna | No Ref/No Auth Required | PAR |
 
-## US Eye Insurance Guide(Center for Sight-Naples)
+## Center for Sight-Naples
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
@@ -54,7 +53,7 @@
 | Jon Berlie, MD | Priority Health Commercial PPO - Cigna | No Ref/No Auth Required | PAR |
 | Julie Carter, MD | Priority Health Commercial PPO - Cigna | No Ref/No Auth Required | PAR |
 
-## US Eye Insurance Guide(Retina Health Center)
+## Retina Health Center
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|

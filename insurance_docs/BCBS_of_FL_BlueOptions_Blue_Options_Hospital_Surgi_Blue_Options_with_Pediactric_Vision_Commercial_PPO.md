@@ -4,12 +4,12 @@
 
 <details open><summary>Provider Details for BCBS of FL BlueOptions/Blue Options Hospital Surgical Plus/Blue Options with Pediactric Vision/Commercial PPO</summary>
 
-## US Eye Insurance Guide(Retina Health Center)
+## Retina Health Center
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
-| Alexander Eaton, MD | BCBS FL Commercial PPO | N/A | Non-PAR |
-| Veronica Kon Graversen, MD | BCBS FL Commercial PPO | N/A | Non-PAR |
+| Alexander Eaton, MD | BCBS FL Commercial PPO | nan | Non-PAR |
+| Veronica Kon Graversen, MD | BCBS FL Commercial PPO | nan | Non-PAR |
 
 </details>
 

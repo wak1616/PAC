@@ -4,7 +4,7 @@
 
 <details open><summary>Provider Details for Aetna Whole Health℠ - Southwest Florida - Open Access Elect Choice/Southwest Florida Health Network Only/Southwest Florida Open Access Aetna Select</summary>
 
-## US Eye Insurance Guide(SW FL Eye)
+## SW FL Eye
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|

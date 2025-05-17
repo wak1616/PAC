@@ -4,7 +4,7 @@
 
 <details open><summary>Provider Details for Vitori Health Open Access Plan</summary>
 
-## US Eye Insurance Guide(Center for Sight)
+## Center for Sight
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
@@ -40,12 +40,11 @@
 | Rachael Randolph, OD | Vitori Health Open Access Plan | No Ref/No Auth Required | PAR |
 | Scott Stevens, OD | Vitori Health Open Access Plan | No Ref/No Auth Required | PAR |
 | Shannon Bednarz, PA | Vitori Health Open Access Plan | No Ref/No Auth Required | PAR |
-| Tanuj Banker, MD (RETINA) | Vitori Health Open Access Plan | No Ref/No Auth Required | PAR |
 | Todd Lang, OD | Vitori Health Open Access Plan | No Ref/No Auth Required | PAR |
 | Trisha Werner, OD | Vitori Health Open Access Plan | No Ref/No Auth Required | PAR |
 | William Soscia, MD | Vitori Health Open Access Plan | No Ref/No Auth Required | PAR |
 
-## US Eye Insurance Guide(Center for Sight-Naples)
+## Center for Sight-Naples
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|

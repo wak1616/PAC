@@ -4,7 +4,7 @@
 
 <details open><summary>Provider Details for Aetna Standard Plan- Aetna Affordable Health Choices® limited benefits insurance plan (SRC only)</summary>
 
-## US Eye Insurance Guide(Center for Sight)
+## Center for Sight
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
@@ -15,12 +15,12 @@
 | Daniel Hadland, OD | Aetna Comm Fixed Benefits PPO | No Ref/No Auth Required | PAR |
 | David Mertzlufft, OD | Aetna Comm Fixed Benefits PPO | No Ref/No Auth Required | PAR |
 | David Shoemaker, MD | Aetna Comm Fixed Benefits PPO | No Ref/No Auth Required | PAR |
-| Elizabeth Davis, MD                      Start Date 05/30/25 | Aetna Comm Fixed Benefits PPO | No Ref/No Auth Required | Non-PAR |
+| Elizabeth Davis, MD                      Start Date 05/30/25 | Aetna Comm Fixed Benefits PPO | No Ref/No Auth Required | PAR |
 | Erin Hardie, OD | Aetna Comm Fixed Benefits PPO | No Ref/No Auth Required | PAR |
 | George Hurwitz, OD | Aetna Comm Fixed Benefits PPO | No Ref/No Auth Required | PAR |
 | Hunter Vittone, OD | Aetna Comm Fixed Benefits PPO | No Ref/No Auth Required | PAR |
 | James Lenhart, OD | Aetna Comm Fixed Benefits PPO | No Ref/No Auth Required | PAR |
-| Joaquin De Rojas, MD | Aetna Comm Fixed Benefits PPO | No Ref/No Auth Required | PAR |
+| Joaquin De Rojas, MD | Aetna Comm Fixed Benefits PPO | No Ref/No Auth Required | Non-PAR |
 | John Fezza, MD (Oculoplastics) | Aetna Comm Fixed Benefits PPO | No Ref/No Auth Required | PAR |
 | Joseph Sowka, OD | Aetna Comm Fixed Benefits PPO | No Ref/No Auth Required | PAR |
 | Joshua Kim, MD | Aetna Comm Fixed Benefits PPO | No Ref/No Auth Required | PAR |
@@ -40,12 +40,11 @@
 | Rachael Randolph, OD | Aetna Comm Fixed Benefits PPO | No Ref/No Auth Required | PAR |
 | Scott Stevens, OD | Aetna Comm Fixed Benefits PPO | No Ref/No Auth Required | PAR |
 | Shannon Bednarz, PA | Aetna Comm Fixed Benefits PPO | No Ref/No Auth Required | PAR |
-| Tanuj Banker, MD (RETINA) | Aetna Comm Fixed Benefits PPO | No Ref/No Auth Required | PAR |
 | Todd Lang, OD | Aetna Comm Fixed Benefits PPO | No Ref/No Auth Required | PAR |
 | Trisha Werner, OD | Aetna Comm Fixed Benefits PPO | No Ref/No Auth Required | PAR |
 | William Soscia, MD | Aetna Comm Fixed Benefits PPO | No Ref/No Auth Required | PAR |
 
-## US Eye Insurance Guide(Center for Sight-Naples)
+## Center for Sight-Naples
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
@@ -54,7 +53,7 @@
 | Jon Berlie, MD | Aetna Comm Fixed Benefits PPO | No Ref/No Auth Required | PAR |
 | Julie Carter, MD | Aetna Comm Fixed Benefits PPO | No Ref/No Auth Required | PAR |
 
-## US Eye Insurance Guide(Lake Eye )
+## Lake Eye 
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|

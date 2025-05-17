@@ -4,7 +4,7 @@
 
 <details open><summary>Provider Details for Aetna Premier Care Network Plus (APCN Plus) - Choice POS II/(APCN Plus) - Open Access Aetna Select</summary>
 
-## US Eye Insurance Guide(SW FL Eye)
+## SW FL Eye
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|

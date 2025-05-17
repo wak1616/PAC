@@ -4,7 +4,7 @@
 
 <details open><summary>Provider Details for Aetna Premier Care Network Plus -Open Access Aetna Select</summary>
 
-## US Eye Insurance Guide(Center for Sight-Naples)
+## Center for Sight-Naples
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
@@ -13,7 +13,7 @@
 | Jon Berlie, MD | Aetna Commercial PPO | No Ref/No Auth Required | PAR |
 | Julie Carter, MD | Aetna Commercial PPO | No Ref/No Auth Required | PAR |
 
-## US Eye Insurance Guide(Retina Health Center)
+## Retina Health Center
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|

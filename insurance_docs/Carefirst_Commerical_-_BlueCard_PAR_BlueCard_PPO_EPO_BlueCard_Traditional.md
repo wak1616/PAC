@@ -4,7 +4,7 @@
 
 <details open><summary>Provider Details for Carefirst Commerical - BlueCard PAR/BlueCard PPO/EPO/BlueCard Traditional</summary>
 
-## US Eye Insurance Guide(Lake Eye )
+## Lake Eye 
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|

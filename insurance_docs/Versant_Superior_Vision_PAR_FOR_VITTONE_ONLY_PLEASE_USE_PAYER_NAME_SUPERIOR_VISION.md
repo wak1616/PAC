@@ -4,7 +4,7 @@
 
 <details open><summary>Provider Details for Versant: Superior Vision (PAR FOR VITTONE ONLY; PLEASE USE PAYER NAME: SUPERIOR VISION)</summary>
 
-## US Eye Insurance Guide(Center for Sight-Naples)
+## Center for Sight-Naples
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|

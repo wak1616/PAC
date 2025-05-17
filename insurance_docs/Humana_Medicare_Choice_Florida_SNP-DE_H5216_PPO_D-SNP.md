@@ -4,7 +4,7 @@
 
 <details open><summary>Provider Details for Humana Medicare Choice Florida SNP-DE H5216 (PPO D-SNP)</summary>
 
-## US Eye Insurance Guide(SW FL Eye)
+## SW FL Eye
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|

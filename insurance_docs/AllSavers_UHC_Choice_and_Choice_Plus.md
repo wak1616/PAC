@@ -4,7 +4,7 @@
 
 <details open><summary>Provider Details for AllSavers (UHC) (Choice and Choice Plus)</summary>
 
-## US Eye Insurance Guide(Center for Sight-Naples)
+## Center for Sight-Naples
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
@@ -13,14 +13,27 @@
 | Jon Berlie, MD | All Savers Commercial - UHC | No Ref/No Auth Required | PAR |
 | Julie Carter, MD | All Savers Commercial - UHC | No Ref/No Auth Required | PAR |
 
-## US Eye Insurance Guide(Retina Health Center)
+## Lake Eye 
+
+| Provider | NextGen Name | Referral/Auth | Status |
+|----------|-------------|--------------|--------|
+| Alexandria Rawls, OD | All Savers Commercial - UHC | No Ref/No Auth Required | PAR |
+| Christine Bui, OD | All Savers Commercial - UHC | No Ref/No Auth Required | PAR |
+| Diba Ossareh, OD | All Savers Commercial - UHC | No Ref/No Auth Required | PAR |
+| Jose Vazques-Diaz, MD | All Savers Commercial - UHC | No Ref/No Auth Required | PAR |
+| Mari Holderby, OD | All Savers Commercial - UHC | No Ref/No Auth Required | PAR |
+| Scot Holman, MD | All Savers Commercial - UHC | No Ref/No Auth Required | PAR |
+| Scott Wehrly, MD | All Savers Commercial - UHC | No Ref/No Auth Required | PAR |
+| Vinay Gutti, MD | All Savers Commercial - UHC | No Ref/No Auth Required | PAR |
+
+## Retina Health Center
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
 | Alexander Eaton, MD | All Savers Commercial - UHC | No Ref/No Auth Required | PAR |
 | Veronica Kon Graversen, MD | All Savers Commercial - UHC | No Ref/No Auth Required | PAR |
 
-## US Eye Insurance Guide(SW FL Eye)
+## SW FL Eye
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|

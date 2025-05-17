@@ -4,7 +4,7 @@
 
 <details open><summary>Provider Details for Aetna Medicare- Dual Choice (PPO-SNP), Aetna Medicare Dual Preferred (PPO-SNP) Aetna Medicare Dual Select Choice (PPO-SNP) Aetna Medicare Dual Signature Select(PPO-SNP)</summary>
 
-## US Eye Insurance Guide(Lake Eye )
+## Lake Eye 
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|

@@ -4,7 +4,7 @@
 
 <details open><summary>Provider Details for Tricare Prime Covered for a Routine Eye Exam every two years. FOR THE PROVIDERS THAT ARE OUT-OF-NETWORK, SEE NOTE. PLEASE PROCEED WITH SCHEDULING</summary>
 
-## US Eye Insurance Guide(SW FL Eye)
+## SW FL Eye
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|

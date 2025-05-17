@@ -4,7 +4,7 @@
 
 <details open><summary>Provider Details for Aetna Commercial Whole Health - Southwest Florida - Open Access Elect Choice/Health Network Only/Open Access Aetna Select/Aetna Voluntary Plans</summary>
 
-## US Eye Insurance Guide(Retina Health Center)
+## Retina Health Center
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|

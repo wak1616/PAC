@@ -4,7 +4,7 @@
 
 <details open><summary>Provider Details for Aetna Premier Care Network Plus - Small Group Employer Plan - Aetna Florida Elect Choice Open Access (OAEPO)/Aetna Florida Health Network Only (HNOnly)/Aetna 2024 Plan Providers/Open Access Aetna Select</summary>
 
-## US Eye Insurance Guide(Lake Eye )
+## Lake Eye 
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|

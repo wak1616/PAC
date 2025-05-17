@@ -4,7 +4,7 @@
 
 <details open><summary>Provider Details for Aetna Medicare- Dual Choice/Dual Preferred Plan/Dual Select Choice/Dual Signature Choice/Dual Select Signature (PPO D-SNP)</summary>
 
-## US Eye Insurance Guide(Retina Health Center)
+## Retina Health Center
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|

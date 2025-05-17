@@ -4,7 +4,7 @@
 
 <details open><summary>Provider Details for United Healthcare Choice Plan Network- The Oxford Plan with Freedom Choice Plus only</summary>
 
-## US Eye Insurance Guide(SW FL Eye)
+## SW FL Eye
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|

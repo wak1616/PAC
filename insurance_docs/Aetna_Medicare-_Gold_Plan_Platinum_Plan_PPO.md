@@ -4,7 +4,7 @@
 
 <details open><summary>Provider Details for Aetna Medicare- Gold Plan/Platinum Plan PPO</summary>
 
-## US Eye Insurance Guide(Lake Eye )
+## Lake Eye 
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|

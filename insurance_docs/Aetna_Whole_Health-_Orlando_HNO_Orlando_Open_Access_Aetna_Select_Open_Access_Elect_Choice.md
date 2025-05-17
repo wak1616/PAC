@@ -4,7 +4,7 @@
 
 <details open><summary>Provider Details for Aetna Whole Health- Orlando HNO/Orlando Open Access Aetna Select/Open Access Elect Choice</summary>
 
-## US Eye Insurance Guide(Lake Eye )
+## Lake Eye 
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|

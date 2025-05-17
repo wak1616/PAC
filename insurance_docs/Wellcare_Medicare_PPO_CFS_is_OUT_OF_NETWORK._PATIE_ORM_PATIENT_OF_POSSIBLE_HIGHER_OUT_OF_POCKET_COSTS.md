@@ -4,7 +4,7 @@
 
 <details open><summary>Provider Details for Wellcare Medicare PPO CFS is OUT OF NETWORK. PATIENT HAS OON BENEFITS. PLEASE INFORM PATIENT OF POSSIBLE HIGHER OUT OF POCKET COSTS</summary>
 
-## US Eye Insurance Guide(Center for Sight-Naples)
+## Center for Sight-Naples
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|

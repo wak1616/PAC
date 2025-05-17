@@ -4,7 +4,7 @@
 
 <details open><summary>Provider Details for United Healthcare Core HMO</summary>
 
-## US Eye Insurance Guide(Center for Sight)
+## Center for Sight
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
@@ -15,12 +15,12 @@
 | Daniel Hadland, OD | UHC Commercial HMO | No Ref/No Auth Required | PAR |
 | David Mertzlufft, OD | UHC Commercial HMO | No Ref/No Auth Required | PAR |
 | David Shoemaker, MD | UHC Commercial HMO | No Ref/No Auth Required | PAR |
-| Elizabeth Davis, MD                      Start Date 05/30/25 | UHC Commercial HMO | No Ref/No Auth Required | Non-PAR |
+| Elizabeth Davis, MD                      Start Date 05/30/25 | UHC Commercial HMO | No Ref/No Auth Required | PAR |
 | Erin Hardie, OD | UHC Commercial HMO | No Ref/No Auth Required | PAR |
 | George Hurwitz, OD | UHC Commercial HMO | No Ref/No Auth Required | PAR |
 | Hunter Vittone, OD | UHC Commercial HMO | No Ref/No Auth Required | PAR |
 | James Lenhart, OD | UHC Commercial HMO | No Ref/No Auth Required | PAR |
-| Joaquin De Rojas, MD | UHC Commercial HMO | No Ref/No Auth Required | PAR |
+| Joaquin De Rojas, MD | UHC Commercial HMO | No Ref/No Auth Required | Non-PAR |
 | John Fezza, MD (Oculoplastics) | UHC Commercial HMO | No Ref/No Auth Required | PAR |
 | Joseph Sowka, OD | UHC Commercial HMO | No Ref/No Auth Required | PAR |
 | Joshua Kim, MD | UHC Commercial HMO | No Ref/No Auth Required | PAR |
@@ -40,7 +40,6 @@
 | Rachael Randolph, OD | UHC Commercial HMO | No Ref/No Auth Required | PAR |
 | Scott Stevens, OD | UHC Commercial HMO | No Ref/No Auth Required | PAR |
 | Shannon Bednarz, PA | UHC Commercial HMO | No Ref/No Auth Required | PAR |
-| Tanuj Banker, MD (RETINA) | UHC Commercial HMO | No Ref/No Auth Required | PAR |
 | Todd Lang, OD | UHC Commercial HMO | No Ref/No Auth Required | PAR |
 | Trisha Werner, OD | UHC Commercial HMO | No Ref/No Auth Required | PAR |
 | William Soscia, MD | UHC Commercial HMO | No Ref/No Auth Required | PAR |

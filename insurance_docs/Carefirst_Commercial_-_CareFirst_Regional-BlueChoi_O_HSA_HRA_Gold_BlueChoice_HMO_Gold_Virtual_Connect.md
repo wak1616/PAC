@@ -1,16 +1,10 @@
-# Carefirst Commercial - CareFirst Regional-BlueChoice Plus Gold/
-BlueChoice HMO Standard/BlueChoice HMO HSA/HRA Gold 
-BlueChoice HMO Gold Virtual Connect - Insurance Guide
+# Carefirst Commercial - CareFirst Regional-BlueChoice Plus Gold/ BlueChoice HMO Standard/BlueChoice HMO HSA/HRA Gold BlueChoice HMO Gold Virtual Connect - Insurance Guide
 
-*This page lists providers who accept Carefirst Commercial - CareFirst Regional-BlueChoice Plus Gold/
-BlueChoice HMO Standard/BlueChoice HMO HSA/HRA Gold 
-BlueChoice HMO Gold Virtual Connect, grouped by location.*
+*This page lists providers who accept Carefirst Commercial - CareFirst Regional-BlueChoice Plus Gold/ BlueChoice HMO Standard/BlueChoice HMO HSA/HRA Gold BlueChoice HMO Gold Virtual Connect, grouped by location.*
 
-<details open><summary>Provider Details for Carefirst Commercial - CareFirst Regional-BlueChoice Plus Gold/
-BlueChoice HMO Standard/BlueChoice HMO HSA/HRA Gold 
-BlueChoice HMO Gold Virtual Connect</summary>
+<details open><summary>Provider Details for Carefirst Commercial - CareFirst Regional-BlueChoice Plus Gold/ BlueChoice HMO Standard/BlueChoice HMO HSA/HRA Gold BlueChoice HMO Gold Virtual Connect</summary>
 
-## US Eye Insurance Guide(Center for Sight)
+## Center for Sight
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
@@ -46,7 +40,6 @@ BlueChoice HMO Gold Virtual Connect</summary>
 | Rachael Randolph, OD | Carefirst BCBS Commercial HMO | No Ref/No Auth Required | PAR |
 | Scott Stevens, OD | Carefirst BCBS Commercial HMO | No Ref/No Auth Required | PAR |
 | Shannon Bednarz, PA | Carefirst BCBS Commercial HMO | No Ref/No Auth Required | PAR |
-| Tanuj Banker, MD (RETINA) | Carefirst BCBS Commercial HMO | No Ref/No Auth Required | PAR |
 | Todd Lang, OD | Carefirst BCBS Commercial HMO | No Ref/No Auth Required | PAR |
 | Trisha Werner, OD | Carefirst BCBS Commercial HMO | No Ref/No Auth Required | PAR |
 | William Soscia, MD | Carefirst BCBS Commercial HMO | No Ref/No Auth Required | PAR |

@@ -4,7 +4,7 @@
 
 <details open><summary>Provider Details for Cigna Open Access Plus/Choice Fund OA/Choice Fund OA with Carelink/Choice Fund PPO /PPO</summary>
 
-## US Eye Insurance Guide(SW FL Eye)
+## SW FL Eye
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|

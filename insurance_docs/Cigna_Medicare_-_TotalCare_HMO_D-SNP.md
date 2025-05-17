@@ -4,7 +4,7 @@
 
 <details open><summary>Provider Details for Cigna Medicare - TotalCare (HMO D-SNP)</summary>
 
-## US Eye Insurance Guide(Center for Sight-Naples)
+## Center for Sight-Naples
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
@@ -13,7 +13,7 @@
 | Jon Berlie, MD | Primary: Cigna Dual MDCR HMO Primary-REFERRAL REQ                                                      Secondary: Cigna Dual Medicaid HMO Secondary | Referral Required | Non-PAR |
 | Julie Carter, MD | Primary: Cigna Dual MDCR HMO Primary-REFERRAL REQ                                                      Secondary: Cigna Dual Medicaid HMO Secondary | Referral Required | PAR |
 
-## US Eye Insurance Guide(Lake Eye )
+## Lake Eye 
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|

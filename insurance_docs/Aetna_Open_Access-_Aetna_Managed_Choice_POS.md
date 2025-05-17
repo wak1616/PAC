@@ -4,7 +4,7 @@
 
 <details open><summary>Provider Details for Aetna Open Access- Aetna Managed Choice® POS</summary>
 
-## US Eye Insurance Guide(Center for Sight)
+## Center for Sight
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
@@ -15,12 +15,12 @@
 | Daniel Hadland, OD | Aetna Commercial PPO | No Ref/No Auth Required | PAR |
 | David Mertzlufft, OD | Aetna Commercial PPO | No Ref/No Auth Required | PAR |
 | David Shoemaker, MD | Aetna Commercial PPO | No Ref/No Auth Required | PAR |
-| Elizabeth Davis, MD                      Start Date 05/30/25 | Aetna Commercial PPO | No Ref/No Auth Required | Non-PAR |
+| Elizabeth Davis, MD                      Start Date 05/30/25 | Aetna Commercial PPO | No Ref/No Auth Required | PAR |
 | Erin Hardie, OD | Aetna Commercial PPO | No Ref/No Auth Required | PAR |
 | George Hurwitz, OD | Aetna Commercial PPO | No Ref/No Auth Required | PAR |
 | Hunter Vittone, OD | Aetna Commercial PPO | No Ref/No Auth Required | PAR |
 | James Lenhart, OD | Aetna Commercial PPO | No Ref/No Auth Required | PAR |
-| Joaquin De Rojas, MD | Aetna Commercial PPO | No Ref/No Auth Required | PAR |
+| Joaquin De Rojas, MD | Aetna Commercial PPO | No Ref/No Auth Required | Non-PAR |
 | John Fezza, MD (Oculoplastics) | Aetna Commercial PPO | No Ref/No Auth Required | PAR |
 | Joseph Sowka, OD | Aetna Commercial PPO | No Ref/No Auth Required | PAR |
 | Joshua Kim, MD | Aetna Commercial PPO | No Ref/No Auth Required | PAR |
@@ -40,12 +40,11 @@
 | Rachael Randolph, OD | Aetna Commercial PPO | No Ref/No Auth Required | PAR |
 | Scott Stevens, OD | Aetna Commercial PPO | No Ref/No Auth Required | PAR |
 | Shannon Bednarz, PA | Aetna Commercial PPO | No Ref/No Auth Required | PAR |
-| Tanuj Banker, MD (RETINA) | Aetna Commercial PPO | No Ref/No Auth Required | PAR |
 | Todd Lang, OD | Aetna Commercial PPO | No Ref/No Auth Required | PAR |
 | Trisha Werner, OD | Aetna Commercial PPO | No Ref/No Auth Required | PAR |
 | William Soscia, MD | Aetna Commercial PPO | No Ref/No Auth Required | PAR |
 
-## US Eye Insurance Guide(Center for Sight-Naples)
+## Center for Sight-Naples
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|

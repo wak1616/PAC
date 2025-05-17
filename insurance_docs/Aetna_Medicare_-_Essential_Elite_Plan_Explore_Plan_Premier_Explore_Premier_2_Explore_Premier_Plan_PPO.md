@@ -4,7 +4,7 @@
 
 <details open><summary>Provider Details for Aetna Medicare - Essential/Elite Plan/Explore Plan, Explore Premier, Explore Premier 2, Explore Premier Plan (PPO)</summary>
 
-## US Eye Insurance Guide(Retina Health Center)
+## Retina Health Center
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|

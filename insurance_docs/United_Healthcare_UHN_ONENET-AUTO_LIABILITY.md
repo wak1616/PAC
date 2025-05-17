@@ -4,12 +4,12 @@
 
 <details open><summary>Provider Details for United Healthcare UHN ONENET-AUTO LIABILITY</summary>
 
-## US Eye Insurance Guide(Retina Health Center)
+## Retina Health Center
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
-| Alexander Eaton, MD | Self Pay Non-Par with Ins | N/A | Non-PAR |
-| Veronica Kon Graversen, MD | Self Pay Non-Par with Ins | N/A | Non-PAR |
+| Alexander Eaton, MD | Self Pay Non-Par with Ins | nan | Non-PAR |
+| Veronica Kon Graversen, MD | Self Pay Non-Par with Ins | nan | Non-PAR |
 
 </details>
 

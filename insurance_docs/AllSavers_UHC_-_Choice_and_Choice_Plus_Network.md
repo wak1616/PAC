@@ -4,7 +4,7 @@
 
 <details open><summary>Provider Details for AllSavers (UHC - Choice and Choice Plus Network)</summary>
 
-## US Eye Insurance Guide(Center for Sight)
+## Center for Sight
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
@@ -15,12 +15,12 @@
 | Daniel Hadland, OD | All Savers Commercial - UHC | No Ref/No Auth Required | PAR |
 | David Mertzlufft, OD | All Savers Commercial - UHC | No Ref/No Auth Required | PAR |
 | David Shoemaker, MD | All Savers Commercial - UHC | No Ref/No Auth Required | PAR |
-| Elizabeth Davis, MD                      Start Date 05/30/25 | All Savers Commercial - UHC | No Ref/No Auth Required | Non-PAR |
+| Elizabeth Davis, MD                      Start Date 05/30/25 | All Savers Commercial - UHC | No Ref/No Auth Required | PAR |
 | Erin Hardie, OD | All Savers Commercial - UHC | No Ref/No Auth Required | PAR |
 | George Hurwitz, OD | All Savers Commercial - UHC | No Ref/No Auth Required | PAR |
 | Hunter Vittone, OD | All Savers Commercial - UHC | No Ref/No Auth Required | PAR |
 | James Lenhart, OD | All Savers Commercial - UHC | No Ref/No Auth Required | PAR |
-| Joaquin De Rojas, MD | All Savers Commercial - UHC | No Ref/No Auth Required | PAR |
+| Joaquin De Rojas, MD | All Savers Commercial - UHC | No Ref/No Auth Required | Non-PAR |
 | John Fezza, MD (Oculoplastics) | All Savers Commercial - UHC | No Ref/No Auth Required | PAR |
 | Joseph Sowka, OD | All Savers Commercial - UHC | No Ref/No Auth Required | PAR |
 | Joshua Kim, MD | All Savers Commercial - UHC | No Ref/No Auth Required | PAR |
@@ -40,7 +40,6 @@
 | Rachael Randolph, OD | All Savers Commercial - UHC | No Ref/No Auth Required | PAR |
 | Scott Stevens, OD | All Savers Commercial - UHC | No Ref/No Auth Required | PAR |
 | Shannon Bednarz, PA | All Savers Commercial - UHC | No Ref/No Auth Required | PAR |
-| Tanuj Banker, MD (RETINA) | All Savers Commercial - UHC | No Ref/No Auth Required | PAR |
 | Todd Lang, OD | All Savers Commercial - UHC | No Ref/No Auth Required | PAR |
 | Trisha Werner, OD | All Savers Commercial - UHC | No Ref/No Auth Required | PAR |
 | William Soscia, MD | All Savers Commercial - UHC | No Ref/No Auth Required | PAR |

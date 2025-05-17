@@ -4,7 +4,7 @@
 
 <details open><summary>Provider Details for Aetna Medicare- SmartFit/SmartFit Plan (PPO)</summary>
 
-## US Eye Insurance Guide(Center for Sight-Naples)
+## Center for Sight-Naples
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|

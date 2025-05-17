@@ -4,7 +4,7 @@
 
 <details open><summary>Provider Details for Surest (United Healthcare Choice Plus Network)</summary>
 
-## US Eye Insurance Guide(Center for Sight)
+## Center for Sight
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
@@ -15,12 +15,12 @@
 | Daniel Hadland, OD | Surest Commercial - UHC | No Ref/No Auth Required | PAR |
 | David Mertzlufft, OD | Surest Commercial - UHC | No Ref/No Auth Required | PAR |
 | David Shoemaker, MD | Surest Commercial - UHC | No Ref/No Auth Required | PAR |
-| Elizabeth Davis, MD                      Start Date 05/30/25 | Surest Commercial - UHC | No Ref/No Auth Required | Non-PAR |
+| Elizabeth Davis, MD                      Start Date 05/30/25 | Surest Commercial - UHC | No Ref/No Auth Required | PAR |
 | Erin Hardie, OD | Surest Commercial - UHC | No Ref/No Auth Required | PAR |
 | George Hurwitz, OD | Surest Commercial - UHC | No Ref/No Auth Required | PAR |
 | Hunter Vittone, OD | Surest Commercial - UHC | No Ref/No Auth Required | PAR |
 | James Lenhart, OD | Surest Commercial - UHC | No Ref/No Auth Required | PAR |
-| Joaquin De Rojas, MD | Surest Commercial - UHC | No Ref/No Auth Required | PAR |
+| Joaquin De Rojas, MD | Surest Commercial - UHC | No Ref/No Auth Required | Non-PAR |
 | John Fezza, MD (Oculoplastics) | Surest Commercial - UHC | No Ref/No Auth Required | PAR |
 | Joseph Sowka, OD | Surest Commercial - UHC | No Ref/No Auth Required | PAR |
 | Joshua Kim, MD | Surest Commercial - UHC | No Ref/No Auth Required | PAR |
@@ -40,12 +40,11 @@
 | Rachael Randolph, OD | Surest Commercial - UHC | No Ref/No Auth Required | PAR |
 | Scott Stevens, OD | Surest Commercial - UHC | No Ref/No Auth Required | PAR |
 | Shannon Bednarz, PA | Surest Commercial - UHC | No Ref/No Auth Required | PAR |
-| Tanuj Banker, MD (RETINA) | Surest Commercial - UHC | No Ref/No Auth Required | PAR |
 | Todd Lang, OD | Surest Commercial - UHC | No Ref/No Auth Required | PAR |
 | Trisha Werner, OD | Surest Commercial - UHC | No Ref/No Auth Required | PAR |
 | William Soscia, MD | Surest Commercial - UHC | No Ref/No Auth Required | PAR |
 
-## US Eye Insurance Guide(Center for Sight-Naples)
+## Center for Sight-Naples
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
@@ -54,7 +53,7 @@
 | Jon Berlie, MD | Surest Commercial - UHC | No Ref/No Auth Required | PAR |
 | Julie Carter, MD | Surest Commercial - UHC | No Ref/No Auth Required | PAR |
 
-## US Eye Insurance Guide(Lake Eye )
+## Lake Eye 
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
@@ -67,14 +66,14 @@
 | Scott Wehrly, MD | Surest Commercial - UHC | No Ref/No Auth Required | PAR |
 | Vinay Gutti, MD | Surest Commercial - UHC | No Ref/No Auth Required | PAR |
 
-## US Eye Insurance Guide(Retina Health Center)
+## Retina Health Center
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
 | Alexander Eaton, MD | Surest Commercial - UHC | No Ref/No Auth Required | PAR |
 | Veronica Kon Graversen, MD | Surest Commercial - UHC | No Ref/No Auth Required | PAR |
 
-## US Eye Insurance Guide(SW FL Eye)
+## SW FL Eye
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|

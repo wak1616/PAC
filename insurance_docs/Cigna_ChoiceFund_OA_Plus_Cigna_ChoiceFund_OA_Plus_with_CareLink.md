@@ -4,7 +4,7 @@
 
 <details open><summary>Provider Details for Cigna ChoiceFund OA Plus/Cigna ChoiceFund OA Plus with CareLink</summary>
 
-## US Eye Insurance Guide(Retina Health Center)
+## Retina Health Center
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|

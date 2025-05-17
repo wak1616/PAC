@@ -4,7 +4,7 @@
 
 <details open><summary>Provider Details for Aetna Choice POS II/ POS (Aetna HealthFund®)/POS II (Aetna HealthFund®)</summary>
 
-## US Eye Insurance Guide(SW FL Eye)
+## SW FL Eye
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|

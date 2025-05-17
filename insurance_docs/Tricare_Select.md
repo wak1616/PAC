@@ -4,7 +4,7 @@
 
 <details open><summary>Provider Details for Tricare Select</summary>
 
-## US Eye Insurance Guide(Retina Health Center)
+## Retina Health Center
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|

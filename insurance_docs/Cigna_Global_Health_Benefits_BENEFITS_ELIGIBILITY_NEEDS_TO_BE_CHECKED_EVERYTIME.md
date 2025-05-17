@@ -4,7 +4,7 @@
 
 <details open><summary>Provider Details for Cigna Global Health Benefits (BENEFITS/ELIGIBILITY NEEDS TO BE CHECKED EVERYTIME)</summary>
 
-## US Eye Insurance Guide(Center for Sight)
+## Center for Sight
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
@@ -15,12 +15,12 @@
 | Daniel Hadland, OD | Cigna International | Authorization Required | PAR |
 | David Mertzlufft, OD | Cigna International | Authorization Required | PAR |
 | David Shoemaker, MD | Cigna International | Authorization Required | PAR |
-| Elizabeth Davis, MD                      Start Date 05/30/25 | Cigna International | Authorization Required | Non-PAR |
+| Elizabeth Davis, MD                      Start Date 05/30/25 | Cigna International | Authorization Required | PAR |
 | Erin Hardie, OD | Cigna International | Authorization Required | PAR |
 | George Hurwitz, OD | Cigna International | Authorization Required | PAR |
 | Hunter Vittone, OD | Cigna International | Authorization Required | PAR |
 | James Lenhart, OD | Cigna International | Authorization Required | PAR |
-| Joaquin De Rojas, MD | Cigna International | Authorization Required | PAR |
+| Joaquin De Rojas, MD | Cigna International | Authorization Required | Non-PAR |
 | John Fezza, MD (Oculoplastics) | Cigna International | Authorization Required | PAR |
 | Joseph Sowka, OD | Cigna International | Authorization Required | PAR |
 | Joshua Kim, MD | Cigna International | Authorization Required | PAR |
@@ -40,12 +40,11 @@
 | Rachael Randolph, OD | Cigna International | Authorization Required | PAR |
 | Scott Stevens, OD | Cigna International | Authorization Required | PAR |
 | Shannon Bednarz, PA | Cigna International | Authorization Required | PAR |
-| Tanuj Banker, MD (RETINA) | Cigna International | Authorization Required | PAR |
 | Todd Lang, OD | Cigna International | Authorization Required | PAR |
 | Trisha Werner, OD | Cigna International | Authorization Required | PAR |
 | William Soscia, MD | Cigna International | Authorization Required | PAR |
 
-## US Eye Insurance Guide(Center for Sight-Naples)
+## Center for Sight-Naples
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
@@ -54,7 +53,7 @@
 | Jon Berlie, MD | Cigna International | Authorization Required | PAR |
 | Julie Carter, MD | Cigna International | Authorization Required | PAR |
 
-## US Eye Insurance Guide(Lake Eye )
+## Lake Eye 
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
@@ -67,14 +66,14 @@
 | Scott Wehrly, MD | Cigna International | Authorization Required | PAR |
 | Vinay Gutti, MD | Cigna International | Authorization Required | PAR |
 
-## US Eye Insurance Guide(Retina Health Center)
+## Retina Health Center
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
 | Alexander Eaton, MD | Cigna International | Authorization Required | PAR |
 | Veronica Kon Graversen, MD | Cigna International | Authorization Required | PAR |
 
-## US Eye Insurance Guide(SW FL Eye)
+## SW FL Eye
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|

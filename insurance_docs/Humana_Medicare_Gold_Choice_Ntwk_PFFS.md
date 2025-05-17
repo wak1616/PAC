@@ -4,7 +4,7 @@
 
 <details open><summary>Provider Details for Humana Medicare Gold Choice Ntwk PFFS</summary>
 
-## US Eye Insurance Guide(SW FL Eye)
+## SW FL Eye
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|

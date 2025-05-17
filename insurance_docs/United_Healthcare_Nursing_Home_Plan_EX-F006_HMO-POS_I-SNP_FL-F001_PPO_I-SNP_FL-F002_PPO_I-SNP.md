@@ -4,14 +4,14 @@
 
 <details open><summary>Provider Details for United Healthcare Nursing Home Plan EX-F006 (HMO-POS I-SNP)/FL-F001 (PPO I-SNP)/FL-F002 (PPO I-SNP)</summary>
 
-## US Eye Insurance Guide(Retina Health Center)
+## Retina Health Center
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
 | Alexander Eaton, MD | UHC MDCR Nursing Plan | No Ref/No Auth Required | PAR |
 | Veronica Kon Graversen, MD | UHC MDCR Nursing Plan | No Ref/No Auth Required | PAR |
 
-## US Eye Insurance Guide(SW FL Eye)
+## SW FL Eye
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|

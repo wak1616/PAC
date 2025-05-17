@@ -4,7 +4,7 @@
 
 <details open><summary>Provider Details for Medicare</summary>
 
-## US Eye Insurance Guide(Center for Sight)
+## Center for Sight
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
@@ -40,12 +40,11 @@
 | Rachael Randolph, OD | Medicare Part B | No Ref/No Auth Required | PAR |
 | Scott Stevens, OD | Medicare Part B | No Ref/No Auth Required | PAR |
 | Shannon Bednarz, PA | Medicare Part B | No Ref/No Auth Required | PAR |
-| Tanuj Banker, MD (RETINA) | Medicare Part B | No Ref/No Auth Required | PAR |
 | Todd Lang, OD | Medicare Part B | No Ref/No Auth Required | PAR |
 | Trisha Werner, OD | Medicare Part B | No Ref/No Auth Required | PAR |
 | William Soscia, MD | Medicare Part B | No Ref/No Auth Required | PAR |
 
-## US Eye Insurance Guide(Center for Sight-Naples)
+## Center for Sight-Naples
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
@@ -54,7 +53,7 @@
 | Jon Berlie, MD | Medicare Part B | No Ref/No Auth Required | PAR |
 | Julie Carter, MD | Medicare Part B | No Ref/No Auth Required | PAR |
 
-## US Eye Insurance Guide(Lake Eye )
+## Lake Eye 
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
@@ -67,14 +66,14 @@
 | Scott Wehrly, MD | Medicare Part B | No Ref/No Auth Required | PAR |
 | Vinay Gutti, MD | Medicare Part B | No Ref/No Auth Required | PAR |
 
-## US Eye Insurance Guide(Retina Health Center)
+## Retina Health Center
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
 | Alexander Eaton, MD | Medicare Part B | No Ref/No Auth Required | PAR |
 | Veronica Kon Graversen, MD | Medicare Part B | No Ref/No Auth Required | PAR |
 
-## US Eye Insurance Guide(SW FL Eye)
+## SW FL Eye
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|

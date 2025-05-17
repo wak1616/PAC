@@ -4,7 +4,7 @@
 
 <details open><summary>Provider Details for United Healthcare NHP-Neighborhood Health Plan Direct Access</summary>
 
-## US Eye Insurance Guide(Center for Sight)
+## Center for Sight
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
@@ -22,8 +22,8 @@
 | David Mertzlufft, OD | UHC Commercial HMO | No Ref/No Auth Required | PAR |
 | David Shoemaker, MD | UHC Commercial - NHP HMO Access | No Ref/No Auth Required | PAR |
 | David Shoemaker, MD | UHC Commercial HMO | No Ref/No Auth Required | PAR |
-| Elizabeth Davis, MD                      Start Date 05/30/25 | UHC Commercial - NHP HMO Access | No Ref/No Auth Required | Non-PAR |
-| Elizabeth Davis, MD                      Start Date 05/30/25 | UHC Commercial HMO | No Ref/No Auth Required | Non-PAR |
+| Elizabeth Davis, MD                      Start Date 05/30/25 | UHC Commercial - NHP HMO Access | No Ref/No Auth Required | PAR |
+| Elizabeth Davis, MD                      Start Date 05/30/25 | UHC Commercial HMO | No Ref/No Auth Required | PAR |
 | Erin Hardie, OD | UHC Commercial - NHP HMO Access | No Ref/No Auth Required | PAR |
 | Erin Hardie, OD | UHC Commercial HMO | No Ref/No Auth Required | PAR |
 | George Hurwitz, OD | UHC Commercial - NHP HMO Access | No Ref/No Auth Required | PAR |
@@ -32,8 +32,8 @@
 | Hunter Vittone, OD | UHC Commercial HMO | No Ref/No Auth Required | PAR |
 | James Lenhart, OD | UHC Commercial - NHP HMO Access | No Ref/No Auth Required | PAR |
 | James Lenhart, OD | UHC Commercial HMO | No Ref/No Auth Required | PAR |
-| Joaquin De Rojas, MD | UHC Commercial - NHP HMO Access | No Ref/No Auth Required | PAR |
-| Joaquin De Rojas, MD | UHC Commercial HMO | No Ref/No Auth Required | PAR |
+| Joaquin De Rojas, MD | UHC Commercial - NHP HMO Access | No Ref/No Auth Required | Non-PAR |
+| Joaquin De Rojas, MD | UHC Commercial HMO | No Ref/No Auth Required | Non-PAR |
 | John Fezza, MD (Oculoplastics) | UHC Commercial - NHP HMO Access | No Ref/No Auth Required | PAR |
 | John Fezza, MD (Oculoplastics) | UHC Commercial HMO | No Ref/No Auth Required | PAR |
 | Joseph Sowka, OD | UHC Commercial - NHP HMO Access | No Ref/No Auth Required | PAR |
@@ -72,8 +72,6 @@
 | Scott Stevens, OD | UHC Commercial HMO | No Ref/No Auth Required | PAR |
 | Shannon Bednarz, PA | UHC Commercial - NHP HMO Access | No Ref/No Auth Required | PAR |
 | Shannon Bednarz, PA | UHC Commercial HMO | No Ref/No Auth Required | PAR |
-| Tanuj Banker, MD (RETINA) | UHC Commercial - NHP HMO Access | No Ref/No Auth Required | PAR |
-| Tanuj Banker, MD (RETINA) | UHC Commercial HMO | No Ref/No Auth Required | PAR |
 | Todd Lang, OD | UHC Commercial - NHP HMO Access | No Ref/No Auth Required | PAR |
 | Todd Lang, OD | UHC Commercial HMO | No Ref/No Auth Required | PAR |
 | Trisha Werner, OD | UHC Commercial - NHP HMO Access | No Ref/No Auth Required | PAR |
@@ -81,7 +79,7 @@
 | William Soscia, MD | UHC Commercial - NHP HMO Access | No Ref/No Auth Required | PAR |
 | William Soscia, MD | UHC Commercial HMO | No Ref/No Auth Required | PAR |
 
-## US Eye Insurance Guide(Center for Sight-Naples)
+## Center for Sight-Naples
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
@@ -90,14 +88,14 @@
 | Jon Berlie, MD | UHC Commercial - NHP HMO Access | No Ref/No Auth Required | PAR |
 | Julie Carter, MD | UHC Commercial - NHP HMO Access | No Ref/No Auth Required | PAR |
 
-## US Eye Insurance Guide(Retina Health Center)
+## Retina Health Center
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
 | Alexander Eaton, MD | UHC Commercial - NHP HMO Access | No Ref/No Auth Required | PAR |
 | Veronica Kon Graversen, MD | UHC Commercial - NHP HMO Access | No Ref/No Auth Required | PAR |
 
-## US Eye Insurance Guide(SW FL Eye)
+## SW FL Eye
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|

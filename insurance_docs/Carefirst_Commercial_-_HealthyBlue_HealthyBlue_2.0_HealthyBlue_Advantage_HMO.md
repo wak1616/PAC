@@ -4,7 +4,7 @@
 
 <details open><summary>Provider Details for Carefirst Commercial - HealthyBlue/HealthyBlue 2.0/HealthyBlue Advantage (HMO)</summary>
 
-## US Eye Insurance Guide(Center for Sight-Naples)
+## Center for Sight-Naples
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
@@ -13,7 +13,7 @@
 | Jon Berlie, MD | Carefirst BCBS Medicare HMO | No Ref/No Auth Required | PAR |
 | Julie Carter, MD | Carefirst BCBS Medicare HMO | No Ref/No Auth Required | PAR |
 
-## US Eye Insurance Guide(Lake Eye )
+## Lake Eye 
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|

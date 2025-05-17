@@ -4,7 +4,7 @@
 
 <details open><summary>Provider Details for Aetna Medicare - Eagle/Smartfit Elite Plan (HMO POS)/Signature/Silver/Sunrise Plan (HMO-POS)</summary>
 
-## US Eye Insurance Guide(Retina Health Center)
+## Retina Health Center
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|

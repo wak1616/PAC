@@ -4,7 +4,7 @@
 
 <details open><summary>Provider Details for Carefirst BCBS Commercial - BlueChoice Plus/BlueHPN/BluePreferred</summary>
 
-## US Eye Insurance Guide(Center for Sight-Naples)
+## Center for Sight-Naples
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|

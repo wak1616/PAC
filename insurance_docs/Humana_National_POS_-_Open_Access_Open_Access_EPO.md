@@ -4,7 +4,7 @@
 
 <details open><summary>Provider Details for Humana National POS - Open Access/Open Access EPO</summary>
 
-## US Eye Insurance Guide(Retina Health Center)
+## Retina Health Center
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|

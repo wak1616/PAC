@@ -4,7 +4,69 @@
 
 <details open><summary>Provider Details for Aetna Medicare - Select (HMO)</summary>
 
-## US Eye Insurance Guide(SW FL Eye)
+## Center for Sight
+
+| Provider | NextGen Name | Referral/Auth | Status |
+|----------|-------------|--------------|--------|
+| Bradley Middaugh, OD | Aetna Medicare HMO REFERRAL REQ | Referral Required | Non-PAR |
+| Brittany Coyle, OD | Aetna Medicare HMO REFERRAL REQ | Referral Required | Non-PAR |
+| Callista Wlaschin, OD | Aetna Medicare HMO REFERRAL REQ | Referral Required | Non-PAR |
+| Charles Putrino, OD | Aetna Medicare HMO REFERRAL REQ | Referral Required | Non-PAR |
+| Daniel Hadland, OD | Aetna Medicare HMO REFERRAL REQ | Referral Required | PAR |
+| David Mertzlufft, OD | Aetna Medicare HMO REFERRAL REQ | Referral Required | Non-PAR |
+| David Shoemaker, MD | Aetna Medicare HMO REFERRAL REQ | Referral Required | Non-PAR |
+| Elizabeth Davis, MD                      Start Date 05/30/25 | Aetna Medicare HMO REFERRAL REQ | Referral Required | Non-PAR |
+| Erin Hardie, OD | Aetna Medicare HMO REFERRAL REQ | Referral Required | Non-PAR |
+| George Hurwitz, OD | Aetna Medicare HMO REFERRAL REQ | Referral Required | Non-PAR |
+| Hunter Vittone, OD | Aetna Medicare HMO REFERRAL REQ | Referral Required | Non-PAR |
+| James Lenhart, OD | Aetna Medicare HMO REFERRAL REQ | Referral Required | Non-PAR |
+| Joaquin De Rojas, MD | Aetna Medicare HMO REFERRAL REQ | Referral Required | Non-PAR |
+| John Fezza, MD (Oculoplastics) | Aetna Medicare HMO REFERRAL REQ | Referral Required | Non-PAR |
+| Joseph Sowka, OD | Aetna Medicare HMO REFERRAL REQ | Referral Required | PAR |
+| Joshua Kim, MD | Aetna Medicare HMO REFERRAL REQ | Referral Required | Non-PAR |
+| Joshua Newman, MD | Aetna Medicare HMO REFERRAL REQ | Referral Required | Non-PAR |
+| Kalie Kosek, PA | Aetna Medicare HMO REFERRAL REQ | Referral Required | Non-PAR |
+| Kyle Schaub, OD | Aetna Medicare HMO REFERRAL REQ | Referral Required | Non-PAR |
+| Len Brown, OD | Aetna Medicare HMO REFERRAL REQ | Referral Required | Non-PAR |
+| Lori Long, OD | Aetna Medicare HMO REFERRAL REQ | Referral Required | Non-PAR |
+| Lori Vollmer, OD | Aetna Medicare HMO REFERRAL REQ | Referral Required | Non-PAR |
+| Mary Mcvey, OD | Aetna Medicare HMO REFERRAL REQ | Referral Required | Non-PAR |
+| Maureen Traina, PA | Aetna Medicare HMO REFERRAL REQ | Referral Required | Non-PAR |
+| Melissa Hammond, OD | Aetna Medicare HMO REFERRAL REQ | Referral Required | Non-PAR |
+| Michael Maloney, OD | Aetna Medicare HMO REFERRAL REQ | Referral Required | Non-PAR |
+| Page Logan, OD | Aetna Medicare HMO REFERRAL REQ | Referral Required | PAR |
+| Patrick Nelson, OD | Aetna Medicare HMO REFERRAL REQ | Referral Required | Non-PAR |
+| Priya Mathews, MD | Aetna Medicare HMO REFERRAL REQ | Referral Required | Non-PAR |
+| Rachael Randolph, OD | Aetna Medicare HMO REFERRAL REQ | Referral Required | Non-PAR |
+| Scott Stevens, OD | Aetna Medicare HMO REFERRAL REQ | Referral Required | Non-PAR |
+| Shannon Bednarz, PA | Aetna Medicare HMO REFERRAL REQ | Referral Required | Non-PAR |
+| Todd Lang, OD | Aetna Medicare HMO REFERRAL REQ | Referral Required | Non-PAR |
+| Trisha Werner, OD | Aetna Medicare HMO REFERRAL REQ | Referral Required | Non-PAR |
+| William Soscia, MD | Aetna Medicare HMO REFERRAL REQ | Referral Required | PAR |
+
+## Center for Sight-Naples
+
+| Provider | NextGen Name | Referral/Auth | Status |
+|----------|-------------|--------------|--------|
+| George Brinnig-Jastrzebski, MD | Aetna Medicare HMO REFERRAL REQ | Referral Required | PAR |
+| Hunter Vittone, OD | Aetna Medicare HMO REFERRAL REQ | Referral Required | Non-PAR |
+| Jon Berlie, MD | Aetna Medicare HMO REFERRAL REQ | Referral Required | PAR |
+| Julie Carter, MD | Aetna Medicare HMO REFERRAL REQ | Referral Required | PAR |
+
+## Lake Eye 
+
+| Provider | NextGen Name | Referral/Auth | Status |
+|----------|-------------|--------------|--------|
+| Alexandria Rawls, OD | Aetna Medicare HMO REFERRAL REQ | Referral Required | Non-PAR |
+| Christine Bui, OD | Aetna Medicare HMO REFERRAL REQ | Referral Required | Non-PAR |
+| Diba Ossareh, OD | Aetna Medicare HMO REFERRAL REQ | Referral Required | Non-PAR |
+| Jose Vazques-Diaz, MD | Aetna Medicare HMO REFERRAL REQ | Referral Required | PAR |
+| Mari Holderby, OD | Aetna Medicare HMO REFERRAL REQ | Referral Required | Non-PAR |
+| Scot Holman, MD | Aetna Medicare HMO REFERRAL REQ | Referral Required | PAR |
+| Scott Wehrly, MD | Aetna Medicare HMO REFERRAL REQ | Referral Required | PAR |
+| Vinay Gutti, MD | Aetna Medicare HMO REFERRAL REQ | Referral Required | Non-PAR |
+
+## SW FL Eye
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|

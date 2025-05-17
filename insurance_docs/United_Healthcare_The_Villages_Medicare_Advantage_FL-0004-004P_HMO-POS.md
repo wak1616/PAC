@@ -4,7 +4,7 @@
 
 <details open><summary>Provider Details for United Healthcare The Villages Medicare Advantage FL-0004-004P (HMO-POS)</summary>
 
-## US Eye Insurance Guide(Retina Health Center)
+## Retina Health Center
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|

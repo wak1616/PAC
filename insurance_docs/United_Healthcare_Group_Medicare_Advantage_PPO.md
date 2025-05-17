@@ -4,7 +4,7 @@
 
 <details open><summary>Provider Details for United Healthcare Group Medicare Advantage (PPO)</summary>
 
-## US Eye Insurance Guide(Center for Sight)
+## Center for Sight
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
@@ -15,12 +15,12 @@
 | Daniel Hadland, OD | UHC Medicare PPO | No Ref/No Auth Required | PAR |
 | David Mertzlufft, OD | UHC Medicare PPO | No Ref/No Auth Required | PAR |
 | David Shoemaker, MD | UHC Medicare PPO | No Ref/No Auth Required | PAR |
-| Elizabeth Davis, MD                      Start Date 05/30/25 | UHC Medicare PPO | No Ref/No Auth Required | Non-PAR |
+| Elizabeth Davis, MD                      Start Date 05/30/25 | UHC Medicare PPO | No Ref/No Auth Required | PAR |
 | Erin Hardie, OD | UHC Medicare PPO | No Ref/No Auth Required | PAR |
 | George Hurwitz, OD | UHC Medicare PPO | No Ref/No Auth Required | PAR |
 | Hunter Vittone, OD | UHC Medicare PPO | No Ref/No Auth Required | PAR |
 | James Lenhart, OD | UHC Medicare PPO | No Ref/No Auth Required | PAR |
-| Joaquin De Rojas, MD | UHC Medicare PPO | No Ref/No Auth Required | PAR |
+| Joaquin De Rojas, MD | UHC Medicare PPO | No Ref/No Auth Required | Non-PAR |
 | John Fezza, MD (Oculoplastics) | UHC Medicare PPO | No Ref/No Auth Required | PAR |
 | Joseph Sowka, OD | UHC Medicare PPO | No Ref/No Auth Required | PAR |
 | Joshua Kim, MD | UHC Medicare PPO | No Ref/No Auth Required | PAR |
@@ -40,12 +40,11 @@
 | Rachael Randolph, OD | UHC Medicare PPO | No Ref/No Auth Required | PAR |
 | Scott Stevens, OD | UHC Medicare PPO | No Ref/No Auth Required | PAR |
 | Shannon Bednarz, PA | UHC Medicare PPO | No Ref/No Auth Required | PAR |
-| Tanuj Banker, MD (RETINA) | UHC Medicare PPO | No Ref/No Auth Required | PAR |
 | Todd Lang, OD | UHC Medicare PPO | No Ref/No Auth Required | PAR |
 | Trisha Werner, OD | UHC Medicare PPO | No Ref/No Auth Required | PAR |
 | William Soscia, MD | UHC Medicare PPO | No Ref/No Auth Required | PAR |
 
-## US Eye Insurance Guide(Center for Sight-Naples)
+## Center for Sight-Naples
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
@@ -54,7 +53,7 @@
 | Jon Berlie, MD | UHC Medicare PPO | No Ref/No Auth Required | PAR |
 | Julie Carter, MD | UHC Medicare PPO | No Ref/No Auth Required | PAR |
 
-## US Eye Insurance Guide(Lake Eye )
+## Lake Eye 
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
@@ -67,14 +66,14 @@
 | Scott Wehrly, MD | UHC Medicare PPO | No Ref/No Auth Required | PAR |
 | Vinay Gutti, MD | UHC Medicare PPO | No Ref/No Auth Required | PAR |
 
-## US Eye Insurance Guide(Retina Health Center)
+## Retina Health Center
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
 | Alexander Eaton, MD | UHC Medicare PPO | No Ref/No Auth Required | PAR |
 | Veronica Kon Graversen, MD | UHC Medicare PPO | No Ref/No Auth Required | PAR |
 
-## US Eye Insurance Guide(SW FL Eye)
+## SW FL Eye
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|

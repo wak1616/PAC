@@ -4,7 +4,7 @@
 
 <details open><summary>Provider Details for NALC Health Benefit Plan (Cigna Open Access Plus Network)</summary>
 
-## US Eye Insurance Guide(Center for Sight)
+## Center for Sight
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
@@ -15,23 +15,23 @@
 | Daniel Hadland, OD | NALC Health Benefit Plan- Cigna | No Ref/No Auth Required | PAR |
 | David Mertzlufft, OD | NALC Health Benefit Plan- Cigna | No Ref/No Auth Required | PAR |
 | David Shoemaker, MD | NALC Health Benefit Plan- Cigna | No Ref/No Auth Required | PAR |
-| Elizabeth Davis, MD                      Start Date 05/30/25 | NALC Health Benefit Plan- Cigna | No Ref/No Auth Required | Non-PAR |
+| Elizabeth Davis, MD                      Start Date 05/30/25 | NALC Health Benefit Plan- Cigna | No Ref/No Auth Required | PAR |
 | Erin Hardie, OD | NALC Health Benefit Plan- Cigna | No Ref/No Auth Required | PAR |
 | George Hurwitz, OD | NALC Health Benefit Plan- Cigna | No Ref/No Auth Required | PAR |
-| Hunter Vittone, OD | NALC Health Benefit Plan- Cigna | No Ref/No Auth Required | PAR |
+| Hunter Vittone, OD | NALC Health Benefit Plan- Cigna | No Ref/No Auth Required | Non-PAR |
 | James Lenhart, OD | NALC Health Benefit Plan- Cigna | No Ref/No Auth Required | PAR |
-| Joaquin De Rojas, MD | NALC Health Benefit Plan- Cigna | No Ref/No Auth Required | PAR |
+| Joaquin De Rojas, MD | NALC Health Benefit Plan- Cigna | No Ref/No Auth Required | Non-PAR |
 | John Fezza, MD (Oculoplastics) | NALC Health Benefit Plan- Cigna | No Ref/No Auth Required | PAR |
 | Joseph Sowka, OD | NALC Health Benefit Plan- Cigna | No Ref/No Auth Required | PAR |
 | Joshua Kim, MD | NALC Health Benefit Plan- Cigna | No Ref/No Auth Required | PAR |
 | Joshua Newman, MD | NALC Health Benefit Plan- Cigna | No Ref/No Auth Required | PAR |
-| Kalie Kosek, PA | NALC Health Benefit Plan- Cigna | No Ref/No Auth Required | Non-PAR |
+| Kalie Kosek, PA | NALC Health Benefit Plan- Cigna | No Ref/No Auth Required | PAR |
 | Kyle Schaub, OD | NALC Health Benefit Plan- Cigna | No Ref/No Auth Required | PAR |
 | Len Brown, OD | NALC Health Benefit Plan- Cigna | No Ref/No Auth Required | PAR |
 | Lori Long, OD | NALC Health Benefit Plan- Cigna | No Ref/No Auth Required | PAR |
 | Lori Vollmer, OD | NALC Health Benefit Plan- Cigna | No Ref/No Auth Required | PAR |
 | Mary Mcvey, OD | NALC Health Benefit Plan- Cigna | No Ref/No Auth Required | PAR |
-| Maureen Traina, PA | NALC Health Benefit Plan- Cigna | No Ref/No Auth Required | Non-PAR |
+| Maureen Traina, PA | NALC Health Benefit Plan- Cigna | No Ref/No Auth Required | PAR |
 | Melissa Hammond, OD | NALC Health Benefit Plan- Cigna | No Ref/No Auth Required | PAR |
 | Michael Maloney, OD | NALC Health Benefit Plan- Cigna | No Ref/No Auth Required | PAR |
 | Page Logan, OD | NALC Health Benefit Plan- Cigna | No Ref/No Auth Required | PAR |
@@ -40,12 +40,11 @@
 | Rachael Randolph, OD | NALC Health Benefit Plan- Cigna | No Ref/No Auth Required | PAR |
 | Scott Stevens, OD | NALC Health Benefit Plan- Cigna | No Ref/No Auth Required | PAR |
 | Shannon Bednarz, PA | NALC Health Benefit Plan- Cigna | No Ref/No Auth Required | PAR |
-| Tanuj Banker, MD (RETINA) | NALC Health Benefit Plan- Cigna | No Ref/No Auth Required | PAR |
-| Todd Lang, OD | NALC Health Benefit Plan- Cigna | No Ref/No Auth Required | PAR |
+| Todd Lang, OD | NALC Health Benefit Plan- Cigna | No Ref/No Auth Required | Non-PAR |
 | Trisha Werner, OD | NALC Health Benefit Plan- Cigna | No Ref/No Auth Required | PAR |
 | William Soscia, MD | NALC Health Benefit Plan- Cigna | No Ref/No Auth Required | PAR |
 
-## US Eye Insurance Guide(Center for Sight-Naples)
+## Center for Sight-Naples
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
@@ -54,7 +53,7 @@
 | Jon Berlie, MD | NALC Health Benefit Plan- Cigna | No Ref/No Auth Required | PAR |
 | Julie Carter, MD | NALC Health Benefit Plan- Cigna | No Ref/No Auth Required | PAR |
 
-## US Eye Insurance Guide(Lake Eye )
+## Lake Eye 
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
@@ -67,14 +66,14 @@
 | Scott Wehrly, MD | NALC Health Benefit Plan- Cigna | No Ref/No Auth Required | PAR |
 | Vinay Gutti, MD | NALC Health Benefit Plan- Cigna | No Ref/No Auth Required | PAR |
 
-## US Eye Insurance Guide(Retina Health Center)
+## Retina Health Center
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
 | Alexander Eaton, MD | NALC Health Benefit Plan- Cigna | No Ref/No Auth Required | PAR |
 | Veronica Kon Graversen, MD | NALC Health Benefit Plan- Cigna | No Ref/No Auth Required | PAR |
 
-## US Eye Insurance Guide(SW FL Eye)
+## SW FL Eye
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|

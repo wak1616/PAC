@@ -4,7 +4,7 @@
 
 <details open><summary>Provider Details for United Healthcare Nursing Home Plan EX-F006 (HMO-POS I-SNP)/F001-F002 (PPO I-SNP)</summary>
 
-## US Eye Insurance Guide(Lake Eye )
+## Lake Eye 
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|

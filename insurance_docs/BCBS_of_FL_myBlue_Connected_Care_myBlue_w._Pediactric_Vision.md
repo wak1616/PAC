@@ -4,7 +4,7 @@
 
 <details open><summary>Provider Details for BCBS of FL myBlue Connected Care/myBlue w. Pediactric Vision</summary>
 
-## US Eye Insurance Guide(Center for Sight-Naples)
+## Center for Sight-Naples
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
@@ -13,7 +13,7 @@
 | Jon Berlie, MD | BCBS FL myBlue HMO REFERRAL REQ | Referral Required | PAR |
 | Julie Carter, MD | BCBS FL myBlue HMO REFERRAL REQ | Referral Required | PAR |
 
-## US Eye Insurance Guide(SW FL Eye)
+## SW FL Eye
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|

@@ -4,7 +4,7 @@
 
 <details open><summary>Provider Details for Wellcare Medicare PPO CFS is OUT OF NETWORK. PATIENT HAS OON BENEFITS. PLEASE INFORM PATIENT OF POSSIBLE HIGHER OUT OF POCKET COSTS. BENEFIT MUST BE CHECKED PRIOR TO APPT</summary>
 
-## US Eye Insurance Guide(Center for Sight)
+## Center for Sight
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
@@ -40,7 +40,6 @@
 | Rachael Randolph, OD | WellCare Medicare PPO | Authorization MAY BE Required | Non-PAR -OON Benefits |
 | Scott Stevens, OD | WellCare Medicare PPO | Authorization MAY BE Required | Non-PAR -OON Benefits |
 | Shannon Bednarz, PA | WellCare Medicare PPO | Authorization MAY BE Required | Non-PAR -OON Benefits |
-| Tanuj Banker, MD (RETINA) | WellCare Medicare PPO | Authorization MAY BE Required | Non-PAR -OON Benefits |
 | Todd Lang, OD | WellCare Medicare PPO | Authorization MAY BE Required | Non-PAR -OON Benefits |
 | Trisha Werner, OD | WellCare Medicare PPO | Authorization MAY BE Required | Non-PAR -OON Benefits |
 | William Soscia, MD | WellCare Medicare PPO | Authorization MAY BE Required | Non-PAR -OON Benefits |

@@ -4,7 +4,7 @@
 
 <details open><summary>Provider Details for Aetna Medicare Enhanced Select (PPO) - H1608-064</summary>
 
-## US Eye Insurance Guide(Lake Eye )
+## Lake Eye 
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|

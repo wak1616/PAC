@@ -4,7 +4,7 @@
 
 <details open><summary>Provider Details for BCBS of FL BlueMedicare Group PPO (Employer PPO)</summary>
 
-## US Eye Insurance Guide(Center for Sight-Naples)
+## Center for Sight-Naples
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
@@ -13,7 +13,7 @@
 | Jon Berlie, MD | BCBS FL Medicare PPO | No Ref/No Auth Required | PAR |
 | Julie Carter, MD | BCBS FL Medicare PPO | No Ref/No Auth Required | PAR |
 
-## US Eye Insurance Guide(Lake Eye )
+## Lake Eye 
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
@@ -26,7 +26,7 @@
 | Scott Wehrly, MD | BCBS FL Medicare PPO | No Ref/No Auth Required | PAR |
 | Vinay Gutti, MD | BCBS FL Medicare PPO | No Ref/No Auth Required | PAR |
 
-## US Eye Insurance Guide(SW FL Eye)
+## SW FL Eye
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|

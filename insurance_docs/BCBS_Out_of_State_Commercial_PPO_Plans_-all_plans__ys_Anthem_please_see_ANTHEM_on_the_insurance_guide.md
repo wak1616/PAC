@@ -4,7 +4,7 @@
 
 <details open><summary>Provider Details for BCBS Out of State Commercial PPO Plans -all plans that are not BCBS of Florida; please ask the patient to check the front and back copy of the card for the state. If the card says "Anthem", please see ANTHEM on the insurance guide</summary>
 
-## US Eye Insurance Guide(Center for Sight)
+## Center for Sight
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
@@ -40,12 +40,11 @@
 | Rachael Randolph, OD | BCBS Out of State Commercial PPO | No Ref/No Auth Required | PAR |
 | Scott Stevens, OD | BCBS Out of State Commercial PPO | No Ref/No Auth Required | PAR |
 | Shannon Bednarz, PA | BCBS Out of State Commercial PPO | No Ref/No Auth Required | PAR |
-| Tanuj Banker, MD (RETINA) | BCBS Out of State Commercial PPO | No Ref/No Auth Required | PAR |
 | Todd Lang, OD | BCBS Out of State Commercial PPO | No Ref/No Auth Required | PAR |
 | Trisha Werner, OD | BCBS Out of State Commercial PPO | No Ref/No Auth Required | PAR |
 | William Soscia, MD | BCBS Out of State Commercial PPO | No Ref/No Auth Required | PAR |
 
-## US Eye Insurance Guide(Center for Sight-Naples)
+## Center for Sight-Naples
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
@@ -54,7 +53,7 @@
 | Jon Berlie, MD | BCBS Out of State Commercial PPO | No Ref/No Auth Required | PAR |
 | Julie Carter, MD | BCBS Out of State Commercial PPO | No Ref/No Auth Required | PAR |
 
-## US Eye Insurance Guide(Lake Eye )
+## Lake Eye 
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
@@ -67,14 +66,14 @@
 | Scott Wehrly, MD | BCBS Out of State Commercial PPO | No Ref/No Auth Required | PAR |
 | Vinay Gutti, MD | BCBS Out of State Commercial PPO | No Ref/No Auth Required | PAR |
 
-## US Eye Insurance Guide(Retina Health Center)
+## Retina Health Center
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
 | Alexander Eaton, MD | BCBS Out of State Commercial PPO | No Ref/No Auth Required | PAR |
 | Veronica Kon Graversen, MD | BCBS Out of State Commercial PPO | No Ref/No Auth Required | PAR |
 
-## US Eye Insurance Guide(SW FL Eye)
+## SW FL Eye
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|

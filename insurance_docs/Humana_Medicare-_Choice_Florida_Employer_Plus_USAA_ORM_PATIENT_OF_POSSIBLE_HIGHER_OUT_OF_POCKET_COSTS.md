@@ -4,7 +4,7 @@
 
 <details open><summary>Provider Details for Humana Medicare- Choice Florida/Employer Plus/USAA Honor/Gold Choice Network PFFS (PPO) LEA is OUT OF NETWORK. PATIENT HAS OON BENEFITS. PLEASE INFORM PATIENT OF POSSIBLE HIGHER OUT OF POCKET COSTS</summary>
 
-## US Eye Insurance Guide(Lake Eye )
+## Lake Eye 
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|

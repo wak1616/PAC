@@ -4,7 +4,7 @@
 
 <details open><summary>Provider Details for United Healthcare Nursing Home Plan FL-F002 PPO I-SNP</summary>
 
-## US Eye Insurance Guide(Center for Sight)
+## Center for Sight
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
@@ -15,12 +15,12 @@
 | Daniel Hadland, OD | UHC MDCR Nursing Plan | No Ref/No Auth Required | PAR |
 | David Mertzlufft, OD | UHC MDCR Nursing Plan | No Ref/No Auth Required | PAR |
 | David Shoemaker, MD | UHC MDCR Nursing Plan | No Ref/No Auth Required | PAR |
-| Elizabeth Davis, MD                      Start Date 05/30/25 | UHC MDCR Nursing Plan | No Ref/No Auth Required | Non-PAR |
+| Elizabeth Davis, MD                      Start Date 05/30/25 | UHC MDCR Nursing Plan | No Ref/No Auth Required | PAR |
 | Erin Hardie, OD | UHC MDCR Nursing Plan | No Ref/No Auth Required | PAR |
 | George Hurwitz, OD | UHC MDCR Nursing Plan | No Ref/No Auth Required | PAR |
 | Hunter Vittone, OD | UHC MDCR Nursing Plan | No Ref/No Auth Required | PAR |
 | James Lenhart, OD | UHC MDCR Nursing Plan | No Ref/No Auth Required | PAR |
-| Joaquin De Rojas, MD | UHC MDCR Nursing Plan | No Ref/No Auth Required | PAR |
+| Joaquin De Rojas, MD | UHC MDCR Nursing Plan | No Ref/No Auth Required | Non-PAR |
 | John Fezza, MD (Oculoplastics) | UHC MDCR Nursing Plan | No Ref/No Auth Required | PAR |
 | Joseph Sowka, OD | UHC MDCR Nursing Plan | No Ref/No Auth Required | PAR |
 | Joshua Kim, MD | UHC MDCR Nursing Plan | No Ref/No Auth Required | PAR |
@@ -40,7 +40,6 @@
 | Rachael Randolph, OD | UHC MDCR Nursing Plan | No Ref/No Auth Required | PAR |
 | Scott Stevens, OD | UHC MDCR Nursing Plan | No Ref/No Auth Required | PAR |
 | Shannon Bednarz, PA | UHC MDCR Nursing Plan | No Ref/No Auth Required | PAR |
-| Tanuj Banker, MD (RETINA) | UHC MDCR Nursing Plan | No Ref/No Auth Required | PAR |
 | Todd Lang, OD | UHC MDCR Nursing Plan | No Ref/No Auth Required | PAR |
 | Trisha Werner, OD | UHC MDCR Nursing Plan | No Ref/No Auth Required | PAR |
 | William Soscia, MD | UHC MDCR Nursing Plan | No Ref/No Auth Required | PAR |

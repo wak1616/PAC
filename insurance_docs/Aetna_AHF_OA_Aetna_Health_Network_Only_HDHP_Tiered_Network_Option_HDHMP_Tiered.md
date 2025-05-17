@@ -4,7 +4,7 @@
 
 <details open><summary>Provider Details for Aetna AHF OA Aetna Health Network Only/HDHP/Tiered/Network Option HDHMP/Tiered</summary>
 
-## US Eye Insurance Guide(SW FL Eye)
+## SW FL Eye
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|

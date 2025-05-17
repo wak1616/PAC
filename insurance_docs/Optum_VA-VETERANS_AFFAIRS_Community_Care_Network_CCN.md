@@ -4,7 +4,7 @@
 
 <details open><summary>Provider Details for Optum VA-VETERANS AFFAIRS Community Care Network (CCN)</summary>
 
-## US Eye Insurance Guide(Center for Sight-Naples)
+## Center for Sight-Naples
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
@@ -13,7 +13,7 @@
 | Jon Berlie, MD | Optum VA Community Care | Authorization Required | PAR |
 | Julie Carter, MD | Optum VA Community Care | Authorization Required | PAR |
 
-## US Eye Insurance Guide(Lake Eye )
+## Lake Eye 
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
@@ -26,14 +26,14 @@
 | Scott Wehrly, MD | Optum VA Community Care | Authorization Required | PAR |
 | Vinay Gutti, MD | Optum VA Community Care | Authorization Required | PAR |
 
-## US Eye Insurance Guide(Retina Health Center)
+## Retina Health Center
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
 | Alexander Eaton, MD | Optum VA Community Care | Authorization Required | PAR |
 | Veronica Kon Graversen, MD | Optum VA Community Care | Authorization Required | PAR |
 
-## US Eye Insurance Guide(SW FL Eye)
+## SW FL Eye
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|

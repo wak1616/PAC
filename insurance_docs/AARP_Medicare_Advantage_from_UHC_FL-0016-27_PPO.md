@@ -4,7 +4,7 @@
 
 <details open><summary>Provider Details for AARP Medicare Advantage from UHC FL-0016-27 (PPO)</summary>
 
-## US Eye Insurance Guide(Retina Health Center)
+## Retina Health Center
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|

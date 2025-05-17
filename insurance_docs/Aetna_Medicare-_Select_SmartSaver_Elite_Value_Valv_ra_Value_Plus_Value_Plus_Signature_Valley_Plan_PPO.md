@@ -4,7 +4,7 @@
 
 <details open><summary>Provider Details for Aetna Medicare- Select/SmartSaver Elite/Value/Valve Plan/Value Advantra/Value Plus/Value Plus Signature/Valley Plan(PPO)</summary>
 
-## US Eye Insurance Guide(Retina Health Center)
+## Retina Health Center
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|

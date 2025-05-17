@@ -4,7 +4,7 @@
 
 <details open><summary>Provider Details for BCBS BlueOptions/Blue Options Hospial Surgical Plus/Blue Options with Pediactric Vision</summary>
 
-## US Eye Insurance Guide(Lake Eye )
+## Lake Eye 
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|

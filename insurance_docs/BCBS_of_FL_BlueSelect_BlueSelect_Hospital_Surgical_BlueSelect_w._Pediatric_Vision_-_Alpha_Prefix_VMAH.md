@@ -4,7 +4,7 @@
 
 <details open><summary>Provider Details for BCBS of FL BlueSelect/BlueSelect Hospital Surgical Plus/BlueSelect w. Pediatric Vision - Alpha Prefix VMAH</summary>
 
-## US Eye Insurance Guide(Center for Sight)
+## Center for Sight
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
@@ -40,7 +40,6 @@
 | Rachael Randolph, OD | BCBS FL Commercial PPO | No Ref/No Auth Required | PAR |
 | Scott Stevens, OD | BCBS FL Commercial PPO | No Ref/No Auth Required | PAR |
 | Shannon Bednarz, PA | BCBS FL Commercial PPO | No Ref/No Auth Required | PAR |
-| Tanuj Banker, MD (RETINA) | BCBS FL Commercial PPO | No Ref/No Auth Required | PAR |
 | Todd Lang, OD | BCBS FL Commercial PPO | No Ref/No Auth Required | PAR |
 | Trisha Werner, OD | BCBS FL Commercial PPO | No Ref/No Auth Required | PAR |
 | William Soscia, MD | BCBS FL Commercial PPO | No Ref/No Auth Required | PAR |

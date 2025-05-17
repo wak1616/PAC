@@ -4,7 +4,7 @@
 
 <details open><summary>Provider Details for Priority Health Medicare- Priority Medicare Ideal/Travel Pass (Multiplan) PPO</summary>
 
-## US Eye Insurance Guide(Center for Sight)
+## Center for Sight
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
@@ -15,12 +15,12 @@
 | Daniel Hadland, OD | Priority Health Medicare PPO - Multiplan | No Ref/No Auth Required | PAR |
 | David Mertzlufft, OD | Priority Health Medicare PPO - Multiplan | No Ref/No Auth Required | PAR |
 | David Shoemaker, MD | Priority Health Medicare PPO - Multiplan | No Ref/No Auth Required | PAR |
-| Elizabeth Davis, MD                      Start Date 05/30/25 | Priority Health Medicare PPO - Multiplan | No Ref/No Auth Required | Non-PAR |
+| Elizabeth Davis, MD                      Start Date 05/30/25 | Priority Health Medicare PPO - Multiplan | No Ref/No Auth Required | PAR |
 | Erin Hardie, OD | Priority Health Medicare PPO - Multiplan | No Ref/No Auth Required | PAR |
 | George Hurwitz, OD | Priority Health Medicare PPO - Multiplan | No Ref/No Auth Required | PAR |
 | Hunter Vittone, OD | Priority Health Medicare PPO - Multiplan | No Ref/No Auth Required | PAR |
 | James Lenhart, OD | Priority Health Medicare PPO - Multiplan | No Ref/No Auth Required | PAR |
-| Joaquin De Rojas, MD | Priority Health Medicare PPO - Multiplan | No Ref/No Auth Required | PAR |
+| Joaquin De Rojas, MD | Priority Health Medicare PPO - Multiplan | No Ref/No Auth Required | Non-PAR |
 | John Fezza, MD (Oculoplastics) | Priority Health Medicare PPO - Multiplan | No Ref/No Auth Required | PAR |
 | Joseph Sowka, OD | Priority Health Medicare PPO - Multiplan | No Ref/No Auth Required | PAR |
 | Joshua Kim, MD | Priority Health Medicare PPO - Multiplan | No Ref/No Auth Required | PAR |
@@ -40,12 +40,11 @@
 | Rachael Randolph, OD | Priority Health Medicare PPO - Multiplan | No Ref/No Auth Required | PAR |
 | Scott Stevens, OD | Priority Health Medicare PPO - Multiplan | No Ref/No Auth Required | PAR |
 | Shannon Bednarz, PA | Priority Health Medicare PPO - Multiplan | No Ref/No Auth Required | PAR |
-| Tanuj Banker, MD (RETINA) | Priority Health Medicare PPO - Multiplan | No Ref/No Auth Required | PAR |
 | Todd Lang, OD | Priority Health Medicare PPO - Multiplan | No Ref/No Auth Required | PAR |
 | Trisha Werner, OD | Priority Health Medicare PPO - Multiplan | No Ref/No Auth Required | PAR |
 | William Soscia, MD | Priority Health Medicare PPO - Multiplan | No Ref/No Auth Required | PAR |
 
-## US Eye Insurance Guide(Center for Sight-Naples)
+## Center for Sight-Naples
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
@@ -54,7 +53,7 @@
 | Jon Berlie, MD | Priority Health Medicare PPO - Multiplan | No Ref/No Auth Required | PAR |
 | Julie Carter, MD | Priority Health Medicare PPO - Multiplan | No Ref/No Auth Required | PAR |
 
-## US Eye Insurance Guide(Retina Health Center)
+## Retina Health Center
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|

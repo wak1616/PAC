@@ -4,7 +4,7 @@
 
 <details open><summary>Provider Details for Aetna Medicare- Bronze Plan (PPO) /Core Plan (PPO)/Deluxe Plan (PPO)/Discover Plan (PPO)</summary>
 
-## US Eye Insurance Guide(Lake Eye )
+## Lake Eye 
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|

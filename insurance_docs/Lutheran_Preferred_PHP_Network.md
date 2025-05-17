@@ -4,7 +4,7 @@
 
 <details open><summary>Provider Details for Lutheran Preferred (PHP Network)</summary>
 
-## US Eye Insurance Guide(Center for Sight)
+## Center for Sight
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
@@ -40,12 +40,11 @@
 | Rachael Randolph, OD | Lutheran Preferred - PHP | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Scott Stevens, OD | Lutheran Preferred - PHP | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Shannon Bednarz, PA | Lutheran Preferred - PHP | No Ref/No Auth Required | Non-PAR -OON Benefits |
-| Tanuj Banker, MD (RETINA) | Lutheran Preferred - PHP | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Todd Lang, OD | Lutheran Preferred - PHP | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Trisha Werner, OD | Lutheran Preferred - PHP | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | William Soscia, MD | Lutheran Preferred - PHP | No Ref/No Auth Required | Non-PAR -OON Benefits |
 
-## US Eye Insurance Guide(Center for Sight-Naples)
+## Center for Sight-Naples
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
@@ -54,7 +53,7 @@
 | Jon Berlie, MD | Lutheran Preferred - PHP | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Julie Carter, MD | Lutheran Preferred - PHP | No Ref/No Auth Required | Non-PAR -OON Benefits |
 
-## US Eye Insurance Guide(Lake Eye )
+## Lake Eye 
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
@@ -67,14 +66,14 @@
 | Scott Wehrly, MD | Lutheran Preferred - PHP | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Vinay Gutti, MD | Lutheran Preferred - PHP | No Ref/No Auth Required | Non-PAR -OON Benefits |
 
-## US Eye Insurance Guide(Retina Health Center)
+## Retina Health Center
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
 | Alexander Eaton, MD | Lutheran Preferred - PHP | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Veronica Kon Graversen, MD | Lutheran Preferred - PHP | No Ref/No Auth Required | Non-PAR -OON Benefits |
 
-## US Eye Insurance Guide(SW FL Eye)
+## SW FL Eye
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|

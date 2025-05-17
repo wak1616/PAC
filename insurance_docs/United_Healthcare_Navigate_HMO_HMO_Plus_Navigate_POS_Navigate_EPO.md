@@ -4,7 +4,7 @@
 
 <details open><summary>Provider Details for United Healthcare Navigate HMO/ HMO Plus/ Navigate POS/Navigate EPO</summary>
 
-## US Eye Insurance Guide(Center for Sight-Naples)
+## Center for Sight-Naples
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
@@ -13,7 +13,7 @@
 | Jon Berlie, MD | UHC Navigate REFERRAL REQ | Referral Required | PAR |
 | Julie Carter, MD | UHC Navigate REFERRAL REQ | Referral Required | PAR |
 
-## US Eye Insurance Guide(Lake Eye )
+## Lake Eye 
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
@@ -26,14 +26,14 @@
 | Scott Wehrly, MD | UHC Navigate REFERRAL REQ | Referral Required | PAR |
 | Vinay Gutti, MD | UHC Navigate REFERRAL REQ | Referral Required | PAR |
 
-## US Eye Insurance Guide(Retina Health Center)
+## Retina Health Center
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
 | Alexander Eaton, MD | UHC Navigate REFERRAL REQ | Referral Required | PAR |
 | Veronica Kon Graversen, MD | UHC Navigate REFERRAL REQ | Referral Required | PAR |
 
-## US Eye Insurance Guide(SW FL Eye)
+## SW FL Eye
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|

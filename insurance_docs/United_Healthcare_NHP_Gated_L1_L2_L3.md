@@ -4,7 +4,7 @@
 
 <details open><summary>Provider Details for United Healthcare NHP Gated L1, L2, L3</summary>
 
-## US Eye Insurance Guide(Center for Sight)
+## Center for Sight
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
@@ -15,12 +15,12 @@
 | Daniel Hadland, OD | UHC Comm HMO REFERRAL REQ | Referral Required | PAR |
 | David Mertzlufft, OD | UHC Comm HMO REFERRAL REQ | Referral Required | PAR |
 | David Shoemaker, MD | UHC Comm HMO REFERRAL REQ | Referral Required | PAR |
-| Elizabeth Davis, MD                      Start Date 05/30/25 | UHC Comm HMO REFERRAL REQ | Referral Required | Non-PAR |
+| Elizabeth Davis, MD                      Start Date 05/30/25 | UHC Comm HMO REFERRAL REQ | Referral Required | PAR |
 | Erin Hardie, OD | UHC Comm HMO REFERRAL REQ | Referral Required | PAR |
 | George Hurwitz, OD | UHC Comm HMO REFERRAL REQ | Referral Required | PAR |
 | Hunter Vittone, OD | UHC Comm HMO REFERRAL REQ | Referral Required | PAR |
 | James Lenhart, OD | UHC Comm HMO REFERRAL REQ | Referral Required | PAR |
-| Joaquin De Rojas, MD | UHC Comm HMO REFERRAL REQ | Referral Required | PAR |
+| Joaquin De Rojas, MD | UHC Comm HMO REFERRAL REQ | Referral Required | Non-PAR |
 | John Fezza, MD (Oculoplastics) | UHC Comm HMO REFERRAL REQ | Referral Required | PAR |
 | Joseph Sowka, OD | UHC Comm HMO REFERRAL REQ | Referral Required | PAR |
 | Joshua Kim, MD | UHC Comm HMO REFERRAL REQ | Referral Required | PAR |
@@ -40,12 +40,11 @@
 | Rachael Randolph, OD | UHC Comm HMO REFERRAL REQ | Referral Required | PAR |
 | Scott Stevens, OD | UHC Comm HMO REFERRAL REQ | Referral Required | PAR |
 | Shannon Bednarz, PA | UHC Comm HMO REFERRAL REQ | Referral Required | PAR |
-| Tanuj Banker, MD (RETINA) | UHC Comm HMO REFERRAL REQ | Referral Required | PAR |
 | Todd Lang, OD | UHC Comm HMO REFERRAL REQ | Referral Required | PAR |
 | Trisha Werner, OD | UHC Comm HMO REFERRAL REQ | Referral Required | PAR |
 | William Soscia, MD | UHC Comm HMO REFERRAL REQ | Referral Required | PAR |
 
-## US Eye Insurance Guide(Center for Sight-Naples)
+## Center for Sight-Naples
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
@@ -54,14 +53,14 @@
 | Jon Berlie, MD | UHC Comm HMO REFERRAL REQ | Referral Required | PAR |
 | Julie Carter, MD | UHC Comm HMO REFERRAL REQ | Referral Required | PAR |
 
-## US Eye Insurance Guide(Retina Health Center)
+## Retina Health Center
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
 | Alexander Eaton, MD | UHC Comm HMO REFERRAL REQ | Referral Required | PAR |
 | Veronica Kon Graversen, MD | UHC Comm HMO REFERRAL REQ | Referral Required | PAR |
 
-## US Eye Insurance Guide(SW FL Eye)
+## SW FL Eye
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|

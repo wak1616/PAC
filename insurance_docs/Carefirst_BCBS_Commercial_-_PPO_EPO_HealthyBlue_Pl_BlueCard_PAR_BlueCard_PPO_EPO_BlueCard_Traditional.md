@@ -4,7 +4,7 @@
 
 <details open><summary>Provider Details for Carefirst BCBS Commercial - PPO/EPO/HealthyBlue Plus/HealthyBlue PPO/ BlueCard PAR/ BlueCard PPO/ EPO/ BlueCard Traditional</summary>
 
-## US Eye Insurance Guide(Center for Sight)
+## Center for Sight
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
@@ -40,19 +40,18 @@
 | Rachael Randolph, OD | Carefirst BCBS Commercial PPO | No Ref/No Auth Required | PAR |
 | Scott Stevens, OD | Carefirst BCBS Commercial PPO | No Ref/No Auth Required | PAR |
 | Shannon Bednarz, PA | Carefirst BCBS Commercial PPO | No Ref/No Auth Required | PAR |
-| Tanuj Banker, MD (RETINA) | Carefirst BCBS Commercial PPO | No Ref/No Auth Required | PAR |
 | Todd Lang, OD | Carefirst BCBS Commercial PPO | No Ref/No Auth Required | PAR |
 | Trisha Werner, OD | Carefirst BCBS Commercial PPO | No Ref/No Auth Required | PAR |
 | William Soscia, MD | Carefirst BCBS Commercial PPO | No Ref/No Auth Required | PAR |
 
-## US Eye Insurance Guide(Retina Health Center)
+## Retina Health Center
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
 | Alexander Eaton, MD | Carefirst BCBS Commercial PPO | No Ref/No Auth Required | PAR |
 | Veronica Kon Graversen, MD | Carefirst BCBS Commercial PPO | No Ref/No Auth Required | PAR |
 
-## US Eye Insurance Guide(SW FL Eye)
+## SW FL Eye
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|

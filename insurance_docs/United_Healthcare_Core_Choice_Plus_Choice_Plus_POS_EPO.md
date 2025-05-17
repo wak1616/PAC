@@ -4,7 +4,7 @@
 
 <details open><summary>Provider Details for United Healthcare Core Choice Plus/Choice Plus POS/EPO</summary>
 
-## US Eye Insurance Guide(Center for Sight-Naples)
+## Center for Sight-Naples
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|

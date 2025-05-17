@@ -4,7 +4,7 @@
 
 <details open><summary>Provider Details for BCBS Out of State California ONLY</summary>
 
-## US Eye Insurance Guide(Center for Sight)
+## Center for Sight
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
@@ -40,12 +40,11 @@
 | Rachael Randolph, OD | BCBS OOS CA - REFERRAL AND AUTH REQ- | Authorization Required | PAR |
 | Scott Stevens, OD | BCBS OOS CA - REFERRAL AND AUTH REQ- | Authorization Required | PAR |
 | Shannon Bednarz, PA | BCBS OOS CA - REFERRAL AND AUTH REQ- | Authorization Required | PAR |
-| Tanuj Banker, MD (RETINA) | BCBS OOS CA - REFERRAL AND AUTH REQ- | Authorization Required | PAR |
 | Todd Lang, OD | BCBS OOS CA - REFERRAL AND AUTH REQ- | Authorization Required | PAR |
 | Trisha Werner, OD | BCBS OOS CA - REFERRAL AND AUTH REQ- | Authorization Required | PAR |
 | William Soscia, MD | BCBS OOS CA - REFERRAL AND AUTH REQ- | Authorization Required | PAR |
 
-## US Eye Insurance Guide(Center for Sight-Naples)
+## Center for Sight-Naples
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
@@ -54,7 +53,7 @@
 | Jon Berlie, MD | BCBS OOS CA - REFERRAL AND AUTH REQ- | Authorization Required | PAR |
 | Julie Carter, MD | BCBS OOS CA - REFERRAL AND AUTH REQ- | Authorization Required | PAR |
 
-## US Eye Insurance Guide(Retina Health Center)
+## Retina Health Center
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|

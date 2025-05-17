@@ -4,7 +4,7 @@
 
 <details open><summary>Provider Details for Tricare Prime LEA is OUT OF NETWORK. PATIENT HAS OON BENEFITS. PLEASE INFORM PATIENT OF POSSIBLE HIGHER OUT OF POCKET COSTS (see note). covered for a Routine Eye Exam every two years</summary>
 
-## US Eye Insurance Guide(Lake Eye )
+## Lake Eye 
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|

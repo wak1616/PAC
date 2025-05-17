@@ -1,10 +1,10 @@
-# Aetna Whole Health -  Southwest Florida - Open Access Elect Choice/ Southwest Florida Open Access Aetna Select - Insurance Guide
+# Aetna Whole Health - Southwest Florida - Open Access Elect Choice/ Southwest Florida Open Access Aetna Select - Insurance Guide
 
-*This page lists providers who accept Aetna Whole Health -  Southwest Florida - Open Access Elect Choice/ Southwest Florida Open Access Aetna Select, grouped by location.*
+*This page lists providers who accept Aetna Whole Health - Southwest Florida - Open Access Elect Choice/ Southwest Florida Open Access Aetna Select, grouped by location.*
 
-<details open><summary>Provider Details for Aetna Whole Health -  Southwest Florida - Open Access Elect Choice/ Southwest Florida Open Access Aetna Select</summary>
+<details open><summary>Provider Details for Aetna Whole Health - Southwest Florida - Open Access Elect Choice/ Southwest Florida Open Access Aetna Select</summary>
 
-## US Eye Insurance Guide(Center for Sight-Naples)
+## Center for Sight-Naples
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|

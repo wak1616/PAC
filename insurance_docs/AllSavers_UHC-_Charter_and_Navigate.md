@@ -4,7 +4,7 @@
 
 <details open><summary>Provider Details for AllSavers (UHC- Charter and Navigate)</summary>
 
-## US Eye Insurance Guide(Center for Sight)
+## Center for Sight
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
@@ -15,12 +15,12 @@
 | Daniel Hadland, OD | All Savers Comm REFERRAL REQ - UHC | Referral Required | PAR |
 | David Mertzlufft, OD | All Savers Comm REFERRAL REQ - UHC | Referral Required | PAR |
 | David Shoemaker, MD | All Savers Comm REFERRAL REQ - UHC | Referral Required | PAR |
-| Elizabeth Davis, MD                      Start Date 05/30/25 | All Savers Comm REFERRAL REQ - UHC | Referral Required | Non-PAR |
+| Elizabeth Davis, MD                      Start Date 05/30/25 | All Savers Comm REFERRAL REQ - UHC | Referral Required | PAR |
 | Erin Hardie, OD | All Savers Comm REFERRAL REQ - UHC | Referral Required | PAR |
 | George Hurwitz, OD | All Savers Comm REFERRAL REQ - UHC | Referral Required | PAR |
 | Hunter Vittone, OD | All Savers Comm REFERRAL REQ - UHC | Referral Required | PAR |
 | James Lenhart, OD | All Savers Comm REFERRAL REQ - UHC | Referral Required | PAR |
-| Joaquin De Rojas, MD | All Savers Comm REFERRAL REQ - UHC | Referral Required | PAR |
+| Joaquin De Rojas, MD | All Savers Comm REFERRAL REQ - UHC | Referral Required | Non-PAR |
 | John Fezza, MD (Oculoplastics) | All Savers Comm REFERRAL REQ - UHC | Referral Required | PAR |
 | Joseph Sowka, OD | All Savers Comm REFERRAL REQ - UHC | Referral Required | PAR |
 | Joshua Kim, MD | All Savers Comm REFERRAL REQ - UHC | Referral Required | PAR |
@@ -40,7 +40,6 @@
 | Rachael Randolph, OD | All Savers Comm REFERRAL REQ - UHC | Referral Required | PAR |
 | Scott Stevens, OD | All Savers Comm REFERRAL REQ - UHC | Referral Required | PAR |
 | Shannon Bednarz, PA | All Savers Comm REFERRAL REQ - UHC | Referral Required | PAR |
-| Tanuj Banker, MD (RETINA) | All Savers Comm REFERRAL REQ - UHC | Referral Required | PAR |
 | Todd Lang, OD | All Savers Comm REFERRAL REQ - UHC | Referral Required | PAR |
 | Trisha Werner, OD | All Savers Comm REFERRAL REQ - UHC | Referral Required | PAR |
 | William Soscia, MD | All Savers Comm REFERRAL REQ - UHC | Referral Required | PAR |

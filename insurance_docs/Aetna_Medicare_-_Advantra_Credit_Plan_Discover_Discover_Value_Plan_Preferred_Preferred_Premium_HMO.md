@@ -4,7 +4,7 @@
 
 <details open><summary>Provider Details for Aetna Medicare - Advantra/Credit Plan/Discover/Discover Value Plan/Preferred/Preferred Premium (HMO)</summary>
 
-## US Eye Insurance Guide(Retina Health Center)
+## Retina Health Center
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|

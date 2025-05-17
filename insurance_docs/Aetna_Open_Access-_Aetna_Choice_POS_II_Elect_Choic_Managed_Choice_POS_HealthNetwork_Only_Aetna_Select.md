@@ -4,7 +4,7 @@
 
 <details open><summary>Provider Details for Aetna Open Access- Aetna Choice® POS II/Elect Choice EPO/Health Network Option/Managed Choice POS/ HealthNetwork Only/Aetna Select</summary>
 
-## US Eye Insurance Guide(Lake Eye )
+## Lake Eye 
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|

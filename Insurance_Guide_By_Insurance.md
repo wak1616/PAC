@@ -1,6 +1,10 @@
 # Insurance Guide By Insurance Plan
 
+*Last Updated: 05/15/2025 (based on data from Excel file: US Eye Insurance Guide_051525.xlsx)*
+
 *This guide lists insurance participation by insurance plan. Click an insurance plan to view all providers who accept that insurance, grouped by location.*
+
+> **Note:** If you don't see an insurance plan listed below, please refer to the [Generic Insurance Protocol](https://useyecorp.sharepoint.com/RCM/Shared%20Documents/Forms/AllItems.aspx?id=%2FRCM%2FShared%20Documents%2FFinancial%20Clearance%2FFinancial%20Clearance%20Team%20Protocols%2FGeneric%20Insurance%20Protocol%20%2D%20PAC%2C%20Front%20Desk%2C%20and%20Customer%20Service%2Epdf&parent=%2FRCM%2FShared%20Documents%2FFinancial%20Clearance%2FFinancial%20Clearance%20Team%20Protocols&p=true&ga=1) for guidance.
 
 * [AARP Medicare Advantage HMO- WELLMED (Payer ID is WELM2)](insurance_docs/AARP_Medicare_Advantage_HMO-_WELLMED_Payer_ID_is_WELM2.md)
 * [AARP Medicare Advantage PPO- WELLMED (Payer ID is WELM2)](insurance_docs/AARP_Medicare_Advantage_PPO-_WELLMED_Payer_ID_is_WELM2.md)
@@ -58,7 +62,7 @@
 * [Aetna Medicare - Connect Plus(PPO)/Core Plan/Core Elite Plan (PPO)/Credit Plan (PPO)](insurance_docs/Aetna_Medicare_-_Connect_Plus_PPO_Core_Plan_Core_Elite_Plan_PPO_Credit_Plan_PPO.md)
 * [Aetna Medicare - Credit Plan (PPO)](insurance_docs/Aetna_Medicare_-_Credit_Plan_PPO.md)
 * [Aetna Medicare - Credit/Discover/Discover Value Plan (HMO)](insurance_docs/Aetna_Medicare_-_Credit_Discover_Discover_Value_Plan_HMO.md)
-* [Aetna Medicare - Credit/Discover/Discover Value Plan/Select  (HMO)](insurance_docs/Aetna_Medicare_-_Credit_Discover_Discover_Value_Plan_Select_HMO.md)
+* [Aetna Medicare - Credit/Discover/Discover Value Plan/Select (HMO)](insurance_docs/Aetna_Medicare_-_Credit_Discover_Discover_Value_Plan_Select_HMO.md)
 * [Aetna Medicare - Eagle/Premier Preferred/Premium/Select/Select Plus/Signature/Smartfit Elite Plan HMO](insurance_docs/Aetna_Medicare_-_Eagle_Premier_Preferred_Premium_S_lect_Select_Plus_Signature_Smartfit_Elite_Plan_HMO.md)
 * [Aetna Medicare - Eagle/Smartfit Elite Plan (HMO POS)/Signature/Silver/Sunrise Plan (HMO-POS)](insurance_docs/Aetna_Medicare_-_Eagle_Smartfit_Elite_Plan_HMO_POS_Signature_Silver_Sunrise_Plan_HMO-POS.md)
 * [Aetna Medicare - Essential/ Essential Elite/ Essentials PPO](insurance_docs/Aetna_Medicare_-_Essential_Essential_Elite_Essentials_PPO.md)
@@ -67,7 +71,6 @@
 * [Aetna Medicare - Explorer Premier, Explore Value Plan (HMO-POS)/Platinum Plan/Platinum Plan Pus/Premium (HMO-POS)](insurance_docs/Aetna_Medicare_-_Explorer_Premier_Explore_Value_Pl_OS_Platinum_Plan_Platinum_Plan_Pus_Premium_HMO-POS.md)
 * [Aetna Medicare - Preferred/ Preferred Premium PPO](insurance_docs/Aetna_Medicare_-_Preferred_Preferred_Premium_PPO.md)
 * [Aetna Medicare - Preferred/Preferred Premium (PPO)](insurance_docs/Aetna_Medicare_-_Preferred_Preferred_Premium_PPO.md)
-* [Aetna Medicare - Select  (HMO)](insurance_docs/Aetna_Medicare_-_Select_HMO.md)
 * [Aetna Medicare - Select (HMO)](insurance_docs/Aetna_Medicare_-_Select_HMO.md)
 * [Aetna Medicare -Advanta Credit Value/Deluxe Plan/Discover Plan/SmartFit/SmartFit Plan (PPO)/Silver Back PPO](insurance_docs/Aetna_Medicare_-Advanta_Credit_Value_Deluxe_Plan_D_er_Plan_SmartFit_SmartFit_Plan_PPO_Silver_Back_PPO.md)
 * [Aetna Medicare Enhanced Select (PPO) - H1608-064](insurance_docs/Aetna_Medicare_Enhanced_Select_PPO_-_H1608-064.md)
@@ -110,7 +113,7 @@
 * [Aetna Medicare- Platinum Plan (PPO)](insurance_docs/Aetna_Medicare-_Platinum_Plan_PPO.md)
 * [Aetna Medicare- Premier (PPO)](insurance_docs/Aetna_Medicare-_Premier_PPO.md)
 * [Aetna Medicare- Premier/ Premier Regional/ Premier 1 & 2/ Premier Plus PPO](insurance_docs/Aetna_Medicare-_Premier_Premier_Regional_Premier_1_2_Premier_Plus_PPO.md)
-* [Aetna Medicare- Premier/Premier Plan/Premier Plus/ Premier Plus 1,2,3/ Premier Plus 1 and 2 Regional/Premier Plus/Premier Advantra  (PPO)](insurance_docs/Aetna_Medicare-_Premier_Premier_Plan_Premier_Plus__1_and_2_Regional_Premier_Plus_Premier_Advantra_PPO.md)
+* [Aetna Medicare- Premier/Premier Plan/Premier Plus/ Premier Plus 1,2,3/ Premier Plus 1 and 2 Regional/Premier Plus/Premier Advantra (PPO)](insurance_docs/Aetna_Medicare-_Premier_Premier_Plan_Premier_Plus__1_and_2_Regional_Premier_Plus_Premier_Advantra_PPO.md)
 * [Aetna Medicare- Premier/Premier Regional PPO/Premier 1 & 2/Premier Plus (PPO)](insurance_docs/Aetna_Medicare-_Premier_Premier_Regional_PPO_Premier_1_2_Premier_Plus_PPO.md)
 * [Aetna Medicare- Select/SmartSaver Elite/Value/Valve Plan/Value Advantra/Value Plus/Value Plus Signature/Valley Plan(PPO)](insurance_docs/Aetna_Medicare-_Select_SmartSaver_Elite_Value_Valv_ra_Value_Plus_Value_Plus_Signature_Valley_Plan_PPO.md)
 * [Aetna Medicare- SmartFit/ SmartFit Plan PPO](insurance_docs/Aetna_Medicare-_SmartFit_SmartFit_Plan_PPO.md)
@@ -118,7 +121,7 @@
 * [Aetna Medicare- SmartFit/SmartFit Plan (PPO) / SamrtSaver Elite Plan PPO](insurance_docs/Aetna_Medicare-_SmartFit_SmartFit_Plan_PPO_SamrtSaver_Elite_Plan_PPO.md)
 * [Aetna Medicare- SmartSaver Elite (PPO)](insurance_docs/Aetna_Medicare-_SmartSaver_Elite_PPO.md)
 * [Aetna Medicare- SmartSaver Elite PPO](insurance_docs/Aetna_Medicare-_SmartSaver_Elite_PPO.md)
-* [Aetna Medicare- Value   (HMO/HMO POS)](insurance_docs/Aetna_Medicare-_Value_HMO_HMO_POS.md)
+* [Aetna Medicare- Value (HMO/HMO POS)](insurance_docs/Aetna_Medicare-_Value_HMO_HMO_POS.md)
 * [Aetna Medicare- Value Plan/ Value Advantra/ Value Plus/ Value Plus Signature PPO](insurance_docs/Aetna_Medicare-_Value_Plan_Value_Advantra_Value_Plus_Value_Plus_Signature_PPO.md)
 * [Aetna Medicare- Value Plan/Value Advantra/Value Plus/Value Plus Signature (PPO)](insurance_docs/Aetna_Medicare-_Value_Plan_Value_Advantra_Value_Plus_Value_Plus_Signature_PPO.md)
 * [Aetna Medicare-Core Elite Plan (PPO)](insurance_docs/Aetna_Medicare-Core_Elite_Plan_PPO.md)
@@ -169,15 +172,14 @@
 * [Aetna Standard Plan- Aetna Voluntary Plans](insurance_docs/Aetna_Standard_Plan-_Aetna_Voluntary_Plans.md)
 * [Aetna Standard PlansAetna Affordable Health Choices® limited benefits insurance plan (SRC only) - Limited Benefits](insurance_docs/Aetna_Standard_PlansAetna_Affordable_Health_Choice_enefits_insurance_plan_SRC_only_-_Limited_Benefits.md)
 * [Aetna Voluntary Plans](insurance_docs/Aetna_Voluntary_Plans.md)
-* [Aetna Whole Health -  Southwest Florida - Open Access Elect Choice/ Southwest Florida Open Access Aetna Select](insurance_docs/Aetna_Whole_Health_-_Southwest_Florida_-_Open_Acce__Choice_Southwest_Florida_Open_Access_Aetna_Select.md)
-* [Aetna Whole Health-  Southwest Florida - Open Access Elect Choice/ Southwest Florida Open Access Aetna Select/ Southwest Florida Health Network Only](insurance_docs/Aetna_Whole_Health-_Southwest_Florida_-_Open_Acces_Aetna_Select_Southwest_Florida_Health_Network_Only.md)
+* [Aetna Whole Health - Southwest Florida - Open Access Elect Choice/ Southwest Florida Open Access Aetna Select](insurance_docs/Aetna_Whole_Health_-_Southwest_Florida_-_Open_Acce__Choice_Southwest_Florida_Open_Access_Aetna_Select.md)
 * [Aetna Whole Health- Orlando HNO/Orlando Open Access Aetna Select/Open Access Elect Choice](insurance_docs/Aetna_Whole_Health-_Orlando_HNO_Orlando_Open_Access_Aetna_Select_Open_Access_Elect_Choice.md)
+* [Aetna Whole Health- Southwest Florida - Open Access Elect Choice/ Southwest Florida Open Access Aetna Select/ Southwest Florida Health Network Only](insurance_docs/Aetna_Whole_Health-_Southwest_Florida_-_Open_Acces_Aetna_Select_Southwest_Florida_Health_Network_Only.md)
 * [Aetna Whole Health- Southwest Florida Health Network Only](insurance_docs/Aetna_Whole_Health-_Southwest_Florida_Health_Network_Only.md)
 * [Aetna Whole Health℠ - Southwest Florida - Open Access Elect Choice/Southwest Florida Health Network Only/Southwest Florida Open Access Aetna Select](insurance_docs/Aetna_Whole_Health_-_Southwest_Florida_-_Open_Acce_rk_Only_Southwest_Florida_Open_Access_Aetna_Select.md)
 * [Aetna with Innovation Health Aetna Select/Innovation Health POS/Innovation Health PPO](insurance_docs/Aetna_with_Innovation_Health_Aetna_Select_Innovation_Health_POS_Innovation_Health_PPO.md)
 * [All Savers Alternate Funding- United Healthcare Core Network](insurance_docs/All_Savers_Alternate_Funding-_United_Healthcare_Core_Network.md)
 * [AllSavers (UHC - Choice and Choice Plus Network)](insurance_docs/AllSavers_UHC_-_Choice_and_Choice_Plus_Network.md)
-* [AllSavers (UHC)  (Choice and Choice Plus)](insurance_docs/AllSavers_UHC_Choice_and_Choice_Plus.md)
 * [AllSavers (UHC) (Charter and Navigate)](insurance_docs/AllSavers_UHC_Charter_and_Navigate.md)
 * [AllSavers (UHC) (Choice and Choice Plus)](insurance_docs/AllSavers_UHC_Choice_and_Choice_Plus.md)
 * [AllSavers (UHC- Charter and Navigate)](insurance_docs/AllSavers_UHC-_Charter_and_Navigate.md)
@@ -228,6 +230,7 @@
 * [BCBS of FL BlueOptions/Blue Options Hospial Surgical Plus/Blue Options with Pediactric Vision](insurance_docs/BCBS_of_FL_BlueOptions_Blue_Options_Hospial_Surgical_Plus_Blue_Options_with_Pediactric_Vision.md)
 * [BCBS of FL BlueOptions/Blue Options Hospital Surgical Plus/Blue Options with Pediactric Vision/Commercial PPO](insurance_docs/BCBS_of_FL_BlueOptions_Blue_Options_Hospital_Surgi_Blue_Options_with_Pediactric_Vision_Commercial_PPO.md)
 * [BCBS of FL BlueSelect Commercial PPO - Alpha Prefix VMAH](insurance_docs/BCBS_of_FL_BlueSelect_Commercial_PPO_-_Alpha_Prefix_VMAH.md)
+* [BCBS of FL BlueSelect/BlueSelect Hospital Surgical Plus](insurance_docs/BCBS_of_FL_BlueSelect_BlueSelect_Hospital_Surgical_Plus.md)
 * [BCBS of FL BlueSelect/BlueSelect Hospital Surgical Plus/BlueSelect w. Pediatric Vision](insurance_docs/BCBS_of_FL_BlueSelect_BlueSelect_Hospital_Surgical_Plus_BlueSelect_w._Pediatric_Vision.md)
 * [BCBS of FL BlueSelect/BlueSelect Hospital Surgical Plus/BlueSelect w. Pediatric Vision - Alpha Prefix VMAH](insurance_docs/BCBS_of_FL_BlueSelect_BlueSelect_Hospital_Surgical_BlueSelect_w._Pediatric_Vision_-_Alpha_Prefix_VMAH.md)
 * [BCBS of FL Federal Employee Program - alpha prefix R](insurance_docs/BCBS_of_FL_Federal_Employee_Program_-_alpha_prefix_R.md)
@@ -237,6 +240,7 @@
 * [BCBS of FL myBlue Connected Care/myBlue w. Pediactric Vision - Alpha Prefix VMYH](insurance_docs/BCBS_of_FL_myBlue_Connected_Care_myBlue_w._Pediactric_Vision_-_Alpha_Prefix_VMYH.md)
 * [BCBS- FEP Blue Vision](insurance_docs/BCBS-_FEP_Blue_Vision.md)
 * [Best Care Alliance (Former Innovatus Health)](insurance_docs/Best_Care_Alliance_Former_Innovatus_Health.md)
+* [BlueSelect Pediatric Vision](insurance_docs/BlueSelect_Pediatric_Vision.md)
 * [CIGNA Commercial - HealthCare of Florida, Inc. - Fort Myers HMO](insurance_docs/CIGNA_Commercial_-_HealthCare_of_Florida_Inc._-_Fort_Myers_HMO.md)
 * [CIGNA Commercial - HealthCare of Florida, Inc. - Tampa HMO](insurance_docs/CIGNA_Commercial_-_HealthCare_of_Florida_Inc._-_Tampa_HMO.md)
 * [CIGNA Commercial- HealthCare Seamless Network - Florida](insurance_docs/CIGNA_Commercial-_HealthCare_Seamless_Network_-_Florida.md)
@@ -263,9 +267,7 @@
 * [Carefirst Commercial - BlueChoice Opt-Out Open Access/BlueChoice Opt-Out Plus Open Access (HMO)](insurance_docs/Carefirst_Commercial_-_BlueChoice_Opt-Out_Open_Access_BlueChoice_Opt-Out_Plus_Open_Access_HMO.md)
 * [Carefirst Commercial - BlueChoice Plus/BlueHPN/BluePreferred](insurance_docs/Carefirst_Commercial_-_BlueChoice_Plus_BlueHPN_BluePreferred.md)
 * [Carefirst Commercial - CareFirst Regional](insurance_docs/Carefirst_Commercial_-_CareFirst_Regional.md)
-* [Carefirst Commercial - CareFirst Regional-BlueChoice Plus Gold/
-BlueChoice HMO Standard/BlueChoice HMO HSA/HRA Gold 
-BlueChoice HMO Gold Virtual Connect](insurance_docs/Carefirst_Commercial_-_CareFirst_Regional-BlueChoi_O_HSA_HRA_Gold_BlueChoice_HMO_Gold_Virtual_Connect.md)
+* [Carefirst Commercial - CareFirst Regional-BlueChoice Plus Gold/ BlueChoice HMO Standard/BlueChoice HMO HSA/HRA Gold BlueChoice HMO Gold Virtual Connect](insurance_docs/Carefirst_Commercial_-_CareFirst_Regional-BlueChoi_O_HSA_HRA_Gold_BlueChoice_HMO_Gold_Virtual_Connect.md)
 * [Carefirst Commercial - HealthyBlue Plus/HealthyBlue PPO](insurance_docs/Carefirst_Commercial_-_HealthyBlue_Plus_HealthyBlue_PPO.md)
 * [Carefirst Commercial - HealthyBlue/HealthyBlue 2.0/HealthyBlue Advantage (HMO)](insurance_docs/Carefirst_Commercial_-_HealthyBlue_HealthyBlue_2.0_HealthyBlue_Advantage_HMO.md)
 * [Carefirst Commercial - PPO/EPO (Exclusive Provider Organization)](insurance_docs/Carefirst_Commercial_-_PPO_EPO_Exclusive_Provider_Organization.md)
@@ -283,7 +285,7 @@ BlueChoice HMO Gold Virtual Connect](insurance_docs/Carefirst_Commercial_-_CareF
 * [Cigna Commercial - Florida Connect](insurance_docs/Cigna_Commercial_-_Florida_Connect.md)
 * [Cigna Commercial - Florida Network (HMO)/HealthCare of Florida, Inc. - Orlando HMO](insurance_docs/Cigna_Commercial_-_Florida_Network_HMO_HealthCare_of_Florida_Inc._-_Orlando_HMO.md)
 * [Cigna Commercial - Local Plus](insurance_docs/Cigna_Commercial_-_Local_Plus.md)
-* [Cigna Commercial - Local Plus  - Oscar](insurance_docs/Cigna_Commercial_-_Local_Plus_-_Oscar.md)
+* [Cigna Commercial - Local Plus - Oscar](insurance_docs/Cigna_Commercial_-_Local_Plus_-_Oscar.md)
 * [Cigna Commercial - Open Access Plus - Oscar](insurance_docs/Cigna_Commercial_-_Open_Access_Plus_-_Oscar.md)
 * [Cigna Commercial - Orlando HMO Network](insurance_docs/Cigna_Commercial_-_Orlando_HMO_Network.md)
 * [Cigna Commercial - PPO](insurance_docs/Cigna_Commercial_-_PPO.md)
@@ -297,13 +299,13 @@ BlueChoice HMO Gold Virtual Connect](insurance_docs/Carefirst_Commercial_-_CareF
 * [Cigna Florida Connect EPO](insurance_docs/Cigna_Florida_Connect_EPO.md)
 * [Cigna Global Health Benefits (BENEFITS/ELIGIBILITY NEEDS TO BE CHECKED EVERYTIME)](insurance_docs/Cigna_Global_Health_Benefits_BENEFITS_ELIGIBILITY_NEEDS_TO_BE_CHECKED_EVERYTIME.md)
 * [Cigna Local Plus](insurance_docs/Cigna_Local_Plus.md)
-* [Cigna Local Plus  - Oscar](insurance_docs/Cigna_Local_Plus_-_Oscar.md)
+* [Cigna Local Plus - Oscar](insurance_docs/Cigna_Local_Plus_-_Oscar.md)
 * [Cigna Medicare - Courage/Preferred/Preferred Group Plans/Preferred Savings(HMO)](insurance_docs/Cigna_Medicare_-_Courage_Preferred_Preferred_Group_Plans_Preferred_Savings_HMO.md)
 * [Cigna Medicare - TotalCare (HMO D-SNP)](insurance_docs/Cigna_Medicare_-_TotalCare_HMO_D-SNP.md)
 * [Cigna Medicare - TotalCare Plus (HMO D-SNP)](insurance_docs/Cigna_Medicare_-_TotalCare_Plus_HMO_D-SNP.md)
 * [Cigna Medicare HMO- Preferred/Preferred Savings Medicare/Courage](insurance_docs/Cigna_Medicare_HMO-_Preferred_Preferred_Savings_Medicare_Courage.md)
 * [Cigna Medicare PPO](insurance_docs/Cigna_Medicare_PPO.md)
-* [Cigna Medicare PPO - ALL PLANS  - AS OF 01/01/25- PLAN IS NO LONGER OFFERED IN FL MARKETS](insurance_docs/Cigna_Medicare_PPO_-_ALL_PLANS_-_AS_OF_01_01_25-_PLAN_IS_NO_LONGER_OFFERED_IN_FL_MARKETS.md)
+* [Cigna Medicare PPO - ALL PLANS - AS OF 01/01/25- PLAN IS NO LONGER OFFERED IN FL MARKETS](insurance_docs/Cigna_Medicare_PPO_-_ALL_PLANS_-_AS_OF_01_01_25-_PLAN_IS_NO_LONGER_OFFERED_IN_FL_MARKETS.md)
 * [Cigna Medicare- TotalCare/Total Care Plus HMO D-SNP](insurance_docs/Cigna_Medicare-_TotalCare_Total_Care_Plus_HMO_D-SNP.md)
 * [Cigna Medicare-Courage/Preferred/Savings (HMO)](insurance_docs/Cigna_Medicare-Courage_Preferred_Savings_HMO.md)
 * [Cigna OA Plus - Carelink](insurance_docs/Cigna_OA_Plus_-_Carelink.md)
@@ -324,13 +326,10 @@ BlueChoice HMO Gold Virtual Connect](insurance_docs/Carefirst_Commercial_-_CareF
 * [Golden Rule (UHC Choice Plus Network)](insurance_docs/Golden_Rule_UHC_Choice_Plus_Network.md)
 * [Harvard Pilgrim Healthcare (UHC Choice Plus Network)](insurance_docs/Harvard_Pilgrim_Healthcare_UHC_Choice_Plus_Network.md)
 * [Health Care Support (ministry plan with PHCS network)](insurance_docs/Health_Care_Support_ministry_plan_with_PHCS_network.md)
-* [Humana  Medicare Choice Florida SNP-DE (PPO D-SNP)](insurance_docs/Humana_Medicare_Choice_Florida_SNP-DE_PPO_D-SNP.md)
-* [Humana  Medicare Choice Florida SNP-DE (PPO D-SNP)-CFS (except Naples) is OUT OF NETWORK. PATIENT HAS OON BENEFITS. PLEASE INFORM PATIENT OF POSSIBLE HIGHER OUT OF POCKET COSTS](insurance_docs/Humana_Medicare_Choice_Florida_SNP-DE_PPO_D-SNP_-C_ORM_PATIENT_OF_POSSIBLE_HIGHER_OUT_OF_POCKET_COSTS.md)
-* [Humana  Medicare- DUAL  Gold Plus SNP-DE HMO D-SNP](insurance_docs/Humana_Medicare-_DUAL_Gold_Plus_SNP-DE_HMO_D-SNP.md)
-* [Humana  Medicare- DUAL Choice Florida SNP-DE PPO D-SNP LEA is OUT OF NETWORK. PATIENT HAS OON BENEFITS. PLEASE INFORM PATIENT OF POSSIBLE HIGHER OUT OF POCKET COSTS](insurance_docs/Humana_Medicare-_DUAL_Choice_Florida_SNP-DE_PPO_D-_ORM_PATIENT_OF_POSSIBLE_HIGHER_OUT_OF_POCKET_COSTS.md)
-* [Humana  Medicare-DUAL Choice Florida SNP-DE (PPO D-SNP)](insurance_docs/Humana_Medicare-DUAL_Choice_Florida_SNP-DE_PPO_D-SNP.md)
-* [Humana Commercial - ALL PLANS  - AS OF 01/01/25- PLAN IS NO LONGER OFFERED IN FL MARKETS](insurance_docs/Humana_Commercial_-_ALL_PLANS_-_AS_OF_01_01_25-_PLAN_IS_NO_LONGER_OFFERED_IN_FL_MARKETS.md)
+* [Humana Commercial - ALL PLANS - AS OF 01/01/25- PLAN IS NO LONGER OFFERED IN FL MARKETS](insurance_docs/Humana_Commercial_-_ALL_PLANS_-_AS_OF_01_01_25-_PLAN_IS_NO_LONGER_OFFERED_IN_FL_MARKETS.md)
 * [Humana Medicaid](insurance_docs/Humana_Medicaid.md)
+* [Humana Medicare Choice Florida SNP-DE (PPO D-SNP)](insurance_docs/Humana_Medicare_Choice_Florida_SNP-DE_PPO_D-SNP.md)
+* [Humana Medicare Choice Florida SNP-DE (PPO D-SNP)-CFS (except Naples) is OUT OF NETWORK. PATIENT HAS OON BENEFITS. PLEASE INFORM PATIENT OF POSSIBLE HIGHER OUT OF POCKET COSTS](insurance_docs/Humana_Medicare_Choice_Florida_SNP-DE_PPO_D-SNP_-C_ORM_PATIENT_OF_POSSIBLE_HIGHER_OUT_OF_POCKET_COSTS.md)
 * [Humana Medicare Choice Florida SNP-DE H5216 (PPO D-SNP)](insurance_docs/Humana_Medicare_Choice_Florida_SNP-DE_H5216_PPO_D-SNP.md)
 * [Humana Medicare Fully Integrated (HMO D-SNP)](insurance_docs/Humana_Medicare_Fully_Integrated_HMO_D-SNP.md)
 * [Humana Medicare Gold Choice Ntwk PFFS](insurance_docs/Humana_Medicare_Gold_Choice_Ntwk_PFFS.md)
@@ -348,8 +347,11 @@ BlueChoice HMO Gold Virtual Connect](insurance_docs/Carefirst_Commercial_-_CareF
 * [Humana Medicare- Choice Florida PPO/ Choice Regional PPO/ USAA Honor PPO LEA is OUT OF NETWORK. PATIENT HAS OON BENEFITS. PLEASE INFORM PATIENT OF POSSIBLE HIGHER OUT OF POCKET COSTS](insurance_docs/Humana_Medicare-_Choice_Florida_PPO_Choice_Regiona_ORM_PATIENT_OF_POSSIBLE_HIGHER_OUT_OF_POCKET_COSTS.md)
 * [Humana Medicare- Choice Florida/Employer Plus/USAA Honor/Gold Choice Network PFFS (PPO) LEA is OUT OF NETWORK. PATIENT HAS OON BENEFITS. PLEASE INFORM PATIENT OF POSSIBLE HIGHER OUT OF POCKET COSTS](insurance_docs/Humana_Medicare-_Choice_Florida_Employer_Plus_USAA_ORM_PATIENT_OF_POSSIBLE_HIGHER_OUT_OF_POCKET_COSTS.md)
 * [Humana Medicare- ChoiceCare Network/Medicare National POS Open Access/Open Access EPO or PPO](insurance_docs/Humana_Medicare-_ChoiceCare_Network_Medicare_National_POS_Open_Access_Open_Access_EPO_or_PPO.md)
+* [Humana Medicare- DUAL Choice Florida SNP-DE PPO D-SNP LEA is OUT OF NETWORK. PATIENT HAS OON BENEFITS. PLEASE INFORM PATIENT OF POSSIBLE HIGHER OUT OF POCKET COSTS](insurance_docs/Humana_Medicare-_DUAL_Choice_Florida_SNP-DE_PPO_D-_ORM_PATIENT_OF_POSSIBLE_HIGHER_OUT_OF_POCKET_COSTS.md)
+* [Humana Medicare- DUAL Gold Plus SNP-DE HMO D-SNP](insurance_docs/Humana_Medicare-_DUAL_Gold_Plus_SNP-DE_HMO_D-SNP.md)
 * [Humana Medicare- HMO ALL PLANS](insurance_docs/Humana_Medicare-_HMO_ALL_PLANS.md)
 * [Humana Medicare- Medicare PPO/Employee PPO Plus/Gold Choice Ntek PFFS](insurance_docs/Humana_Medicare-_Medicare_PPO_Employee_PPO_Plus_Gold_Choice_Ntek_PFFS.md)
+* [Humana Medicare-DUAL Choice Florida SNP-DE (PPO D-SNP)](insurance_docs/Humana_Medicare-DUAL_Choice_Florida_SNP-DE_PPO_D-SNP.md)
 * [Humana National POS - Open Access/Open Access EPO](insurance_docs/Humana_National_POS_-_Open_Access_Open_Access_EPO.md)
 * [Humana National POS - OpenAccess Plus/Choice POS/PPO](insurance_docs/Humana_National_POS_-_OpenAccess_Plus_Choice_POS_PPO.md)
 * [Independent Health (UHC)](insurance_docs/Independent_Health_UHC.md)
@@ -371,7 +373,7 @@ BlueChoice HMO Gold Virtual Connect](insurance_docs/Carefirst_Commercial_-_CareF
 * [Priority Health Commercial- (Cigna Open Access Network) HMO](insurance_docs/Priority_Health_Commercial-_Cigna_Open_Access_Network_HMO.md)
 * [Priority Health Commercial- (Cigna Open Access Network) PPO](insurance_docs/Priority_Health_Commercial-_Cigna_Open_Access_Network_PPO.md)
 * [Priority Health Medicare- Priority Medicare Ideal/Travel Pass (Multiplan) PPO](insurance_docs/Priority_Health_Medicare-_Priority_Medicare_Ideal_Travel_Pass_Multiplan_PPO.md)
-* [Priority Health Medicare- Priority Medicare Value/Travel Pass (Multiplan)  HMO -POS](insurance_docs/Priority_Health_Medicare-_Priority_Medicare_Value_Travel_Pass_Multiplan_HMO_-POS.md)
+* [Priority Health Medicare- Priority Medicare Value/Travel Pass (Multiplan) HMO -POS](insurance_docs/Priority_Health_Medicare-_Priority_Medicare_Value_Travel_Pass_Multiplan_HMO_-POS.md)
 * [ROTC/Military Screening - Dr. MIDDAUGH ONLY. pATIENT WILL NOT HAVE AN ID CARD AS THEY ARE PRESENTING FOR A ROTC/MILITARY SCREENING](insurance_docs/ROTC_Military_Screening_-_Dr._MIDDAUGH_ONLY._pATIE__THEY_ARE_PRESENTING_FOR_A_ROTC_MILITARY_SCREENING.md)
 * [Railroad Medicare - CONFIRM WITH PT AT THE BOTTOM OF THE ID CARD IT SAYS "RAILROAD RETIREMENT BOARD"](insurance_docs/Railroad_Medicare_-_CONFIRM_WITH_PT_AT_THE_BOTTOM_OF_THE_ID_CARD_IT_SAYS_RAILROAD_RETIREMENT_BOARD.md)
 * [Simply Healthcare](insurance_docs/Simply_Healthcare.md)
@@ -384,7 +386,6 @@ BlueChoice HMO Gold Virtual Connect](insurance_docs/Carefirst_Commercial_-_CareF
 * [Tricare Prime Covered for a Routine Eye Exam every two years. FOR THE PROVIDERS THAT ARE OUT-OF-NETWORK, SEE NOTE. PLEASE PROCEED WITH SCHEDULING](insurance_docs/Tricare_Prime_Covered_for_a_Routine_Eye_Exam_every_F-NETWORK_SEE_NOTE._PLEASE_PROCEED_WITH_SCHEDULING.md)
 * [Tricare Prime LEA is OUT OF NETWORK. PATIENT HAS OON BENEFITS. PLEASE INFORM PATIENT OF POSSIBLE HIGHER OUT OF POCKET COSTS (see note). covered for a Routine Eye Exam every two years](insurance_docs/Tricare_Prime_LEA_is_OUT_OF_NETWORK._PATIENT_HAS_O_e_._covered_for_a_Routine_Eye_Exam_every_two_years.md)
 * [Tricare Select](insurance_docs/Tricare_Select.md)
-* [Tricare Select  Routine Eye Exams are NON-covered. FOR THE PROVIDERS THAT ARE NON-PAR PATIENT HAS OON BENEFITS. PLEASE INFORM PATIENT OF POSSIBLE HIGHER OUT OF POCKET COSTS](insurance_docs/Tricare_Select_Routine_Eye_Exams_are_NON-covered.__ORM_PATIENT_OF_POSSIBLE_HIGHER_OUT_OF_POCKET_COSTS.md)
 * [Tricare Select CFS is OUT OF NETWORK. PATIENT HAS OON BENEFITS. PLEASE INFORM PATIENT OF POSSIBLE HIGHER OUT OF POCKET COSTS. Routine Eye Exams are NON-covered](insurance_docs/Tricare_Select_CFS_is_OUT_OF_NETWORK._PATIENT_HAS__OF_POCKET_COSTS._Routine_Eye_Exams_are_NON-covered.md)
 * [Tricare Select Routine Eye Exams are NON-covered. FOR THE PROVIDERS THAT ARE NON-PAR PATIENT HAS OON BENEFITS. PLEASE INFORM PATIENT OF POSSIBLE HIGHER OUT OF POCKET COSTS](insurance_docs/Tricare_Select_Routine_Eye_Exams_are_NON-covered.__ORM_PATIENT_OF_POSSIBLE_HIGHER_OUT_OF_POCKET_COSTS.md)
 * [UCare Medicare HMO CFS is OUT OF NETWORK. PATIENT HAS OON BENEFITS. PLEASE INFORM PATIENT OF POSSIBLE HIGHER OUT OF POCKET COSTS.](insurance_docs/UCare_Medicare_HMO_CFS_is_OUT_OF_NETWORK._PATIENT__RM_PATIENT_OF_POSSIBLE_HIGHER_OUT_OF_POCKET_COSTS..md)
@@ -394,7 +395,6 @@ BlueChoice HMO Gold Virtual Connect](insurance_docs/Carefirst_Commercial_-_CareF
 * [UMR (UHC Choice Plus Network, Core, Freedom, NEXAUSACO OAP, Options PPO, Select Plus POS)](insurance_docs/UMR_UHC_Choice_Plus_Network_Core_Freedom_NEXAUSACO_OAP_Options_PPO_Select_Plus_POS.md)
 * [UMR (UHC Choice Plus, Core, Freedom, NEXAUSACO OAP, Options PPO, Select Plus POS Networks)](insurance_docs/UMR_UHC_Choice_Plus_Core_Freedom_NEXAUSACO_OAP_Options_PPO_Select_Plus_POS_Networks.md)
 * [UMR (United Healthcare Core Network)](insurance_docs/UMR_United_Healthcare_Core_Network.md)
-* [United Healthcare  The Villages Medicare Advantage FL-0004/004P (HMO-POS)](insurance_docs/United_Healthcare_The_Villages_Medicare_Advantage_FL-0004_004P_HMO-POS.md)
 * [United Healthcare CORE HMO](insurance_docs/United_Healthcare_CORE_HMO.md)
 * [United Healthcare Care Advantage FL-E001 (PPO I-SNP)](insurance_docs/United_Healthcare_Care_Advantage_FL-E001_PPO_I-SNP.md)
 * [United Healthcare Care Advantage FL-E001 PPO I-SNP](insurance_docs/United_Healthcare_Care_Advantage_FL-E001_PPO_I-SNP.md)
@@ -454,9 +454,9 @@ BlueChoice HMO Gold Virtual Connect](insurance_docs/Carefirst_Commercial_-_CareF
 * [United Healthcare Navigate HMO/ HMO Plus/ Navigate POS/Navigate EPO](insurance_docs/United_Healthcare_Navigate_HMO_HMO_Plus_Navigate_POS_Navigate_EPO.md)
 * [United Healthcare NexusACO NR EPO, NR POS, R EPO, R POS/ NR HMO/ R HMO](insurance_docs/United_Healthcare_NexusACO_NR_EPO_NR_POS_R_EPO_R_POS_NR_HMO_R_HMO.md)
 * [United Healthcare NexusACO NR EPO,NR POS, R EPO, R POS/NR HMO/R HMO](insurance_docs/United_Healthcare_NexusACO_NR_EPO_NR_POS_R_EPO_R_POS_NR_HMO_R_HMO.md)
-* [United Healthcare NexusACO OA  POS/ OA EPO](insurance_docs/United_Healthcare_NexusACO_OA_POS_OA_EPO.md)
-* [United Healthcare NexusACO OA  POS/OA EPO](insurance_docs/United_Healthcare_NexusACO_OA_POS_OA_EPO.md)
-* [United Healthcare NexusACO OA HMO](insurance_docs/United_Healthcare_NexusACO_OA_HMO.md)
+* [United Healthcare NexusACO OA HMO](insurance_docs/United_Healthcare_NexusACO_OA_HMO.md)
+* [United Healthcare NexusACO OA POS/ OA EPO](insurance_docs/United_Healthcare_NexusACO_OA_POS_OA_EPO.md)
+* [United Healthcare NexusACO OA POS/OA EPO](insurance_docs/United_Healthcare_NexusACO_OA_POS_OA_EPO.md)
 * [United Healthcare Nursing Home Plan EX-F006 (HMO-POS I-SNP)](insurance_docs/United_Healthcare_Nursing_Home_Plan_EX-F006_HMO-POS_I-SNP.md)
 * [United Healthcare Nursing Home Plan EX-F006 (HMO-POS I-SNP)/F001-F002 (PPO I-SNP)](insurance_docs/United_Healthcare_Nursing_Home_Plan_EX-F006_HMO-POS_I-SNP_F001-F002_PPO_I-SNP.md)
 * [United Healthcare Nursing Home Plan EX-F006 (HMO-POS I-SNP)/FL-F001 (PPO I-SNP)/FL-F002 (PPO I-SNP)](insurance_docs/United_Healthcare_Nursing_Home_Plan_EX-F006_HMO-POS_I-SNP_FL-F001_PPO_I-SNP_FL-F002_PPO_I-SNP.md)
@@ -481,7 +481,7 @@ BlueChoice HMO Gold Virtual Connect](insurance_docs/Carefirst_Commercial_-_CareF
 * [United Healthcare UHN OneNet-Workers Comp](insurance_docs/United_Healthcare_UHN_OneNet-Workers_Comp.md)
 * [UnitedHealthcare Group Medicare Advantage (HMO)](insurance_docs/UnitedHealthcare_Group_Medicare_Advantage_HMO.md)
 * [VSP Vision](insurance_docs/VSP_Vision.md)
-* [VSP Vision - DO NOT SCHEDULE ANY VSP AFTER 1/1/2025 WITH DR. GUTTI, DR. HOLMAN AND DR. WEHRLY](insurance_docs/VSP_Vision_-_DO_NOT_SCHEDULE_ANY_VSP_AFTER_1_1_2025_WITH_DR._GUTTI_DR._HOLMAN_AND_DR._WEHRLY.md)
+* [VSP Vision - DO NOT SCHEDULE ANY VSP AFTER 1/1/2025 WITH DR. GUTTI AND DR. HOLMAN](insurance_docs/VSP_Vision_-_DO_NOT_SCHEDULE_ANY_VSP_AFTER_1_1_2025_WITH_DR._GUTTI_AND_DR._HOLMAN.md)
 * [Versant: Davis Vision](insurance_docs/Versant_Davis_Vision.md)
 * [Versant: Superior Vision](insurance_docs/Versant_Superior_Vision.md)
 * [Versant: Superior Vision (PAR FOR VITTONE ONLY; PLEASE USE PAYER NAME: SUPERIOR VISION)](insurance_docs/Versant_Superior_Vision_PAR_FOR_VITTONE_ONLY_PLEASE_USE_PAYER_NAME_SUPERIOR_VISION.md)
@@ -492,6 +492,17 @@ BlueChoice HMO Gold Virtual Connect](insurance_docs/Carefirst_Commercial_-_CareF
 * [Wellcare Medicare PPO CFS is OUT OF NETWORK. PATIENT HAS OON BENEFITS. PLEASE INFORM PATIENT OF POSSIBLE HIGHER OUT OF POCKET COSTS](insurance_docs/Wellcare_Medicare_PPO_CFS_is_OUT_OF_NETWORK._PATIE_ORM_PATIENT_OF_POSSIBLE_HIGHER_OUT_OF_POCKET_COSTS.md)
 * [Wellcare Medicare PPO CFS is OUT OF NETWORK. PATIENT HAS OON BENEFITS. PLEASE INFORM PATIENT OF POSSIBLE HIGHER OUT OF POCKET COSTS. BENEFIT MUST BE CHECKED PRIOR TO APPT](insurance_docs/Wellcare_Medicare_PPO_CFS_is_OUT_OF_NETWORK._PATIE_OCKET_COSTS._BENEFIT_MUST_BE_CHECKED_PRIOR_TO_APPT.md)
 * [Worker Comp](insurance_docs/Worker_Comp.md)
+
+
+## Status Legend
+
+<div class="status-legend">
+<p><strong>PAR</strong>: Participating (PAR) providers contract with the patient's health plan. There is a direct contract between the provider/practice and an insurance company that allows our claims to be processed and paid, based on our contracted amounts negotiated per CPT code. Patients save a considerable amount of money when they are seen by a participating provider than a non-participating provider.</p>
+
+<p><strong>Non-PAR-OON Benefits</strong>: If a patient has a plan NON-PAR or OON, they may have OON benefits. OON benefits may be available with PPO plans. OON with benefits means that the insurance company will pay us based on usual and customary (U&C), but not based on a contract since the provider/practice does not have a direct contract with the payer. If the patient has OON benefits, the insurance typically applies a higher benefit (i.e., copay is $40 to see a participating provider, but may increase to $75 due to OON, etc.)</p>
+
+<p><strong>Non-PAR</strong>: Non-participating (NON-PAR) means the provider/practice does not have a contract with the patient's health plan. This is also called a non-preferred provider or OUT-OF-NETWORK (OON). If the patient chooses to be seen by a non-participating provider, the patient will pay more as a self-pay patient. OON plans may or may not have OON benefits. HMO plans do not have OON benefits, therefore, the patient must be seen as self-pay.</p>
+</div>
 
 ## Insurance FAQ
 

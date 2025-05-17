@@ -4,14 +4,14 @@
 
 <details open><summary>Provider Details for UMR (Choice Plus, Core, Freedom, NexusACO OAP, Options PPO, Select Plus POS Network)</summary>
 
-## US Eye Insurance Guide(Retina Health Center)
+## Retina Health Center
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
 | Alexander Eaton, MD | UMR Commercial PPO - UHC | No Ref/No Auth Required | PAR |
 | Veronica Kon Graversen, MD | UMR Commercial PPO - UHC | No Ref/No Auth Required | PAR |
 
-## US Eye Insurance Guide(SW FL Eye)
+## SW FL Eye
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|

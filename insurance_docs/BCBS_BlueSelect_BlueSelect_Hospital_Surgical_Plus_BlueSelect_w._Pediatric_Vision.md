@@ -4,7 +4,7 @@
 
 <details open><summary>Provider Details for BCBS BlueSelect/BlueSelect Hospital Surgical Plus/BlueSelect w. Pediatric Vision</summary>
 
-## US Eye Insurance Guide(Lake Eye )
+## Lake Eye 
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|

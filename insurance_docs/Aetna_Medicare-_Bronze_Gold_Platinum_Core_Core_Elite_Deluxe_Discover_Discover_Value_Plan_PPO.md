@@ -4,7 +4,7 @@
 
 <details open><summary>Provider Details for Aetna Medicare- Bronze/ Gold/ Platinum/ Core/ Core Elite/ Deluxe/ Discover/ Discover Value Plan PPO</summary>
 
-## US Eye Insurance Guide(Center for Sight)
+## Center for Sight
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
@@ -15,12 +15,12 @@
 | Daniel Hadland, OD | Aetna Medicare PPO | No Ref/No Auth Required | PAR |
 | David Mertzlufft, OD | Aetna Medicare PPO | No Ref/No Auth Required | PAR |
 | David Shoemaker, MD | Aetna Medicare PPO | No Ref/No Auth Required | PAR |
-| Elizabeth Davis, MD                      Start Date 05/30/25 | Aetna Medicare PPO | No Ref/No Auth Required | Non-PAR |
+| Elizabeth Davis, MD                      Start Date 05/30/25 | Aetna Medicare PPO | No Ref/No Auth Required | PAR |
 | Erin Hardie, OD | Aetna Medicare PPO | No Ref/No Auth Required | PAR |
 | George Hurwitz, OD | Aetna Medicare PPO | No Ref/No Auth Required | PAR |
 | Hunter Vittone, OD | Aetna Medicare PPO | No Ref/No Auth Required | PAR |
 | James Lenhart, OD | Aetna Medicare PPO | No Ref/No Auth Required | PAR |
-| Joaquin De Rojas, MD | Aetna Medicare PPO | No Ref/No Auth Required | PAR |
+| Joaquin De Rojas, MD | Aetna Medicare PPO | No Ref/No Auth Required | Non-PAR |
 | John Fezza, MD (Oculoplastics) | Aetna Medicare PPO | No Ref/No Auth Required | PAR |
 | Joseph Sowka, OD | Aetna Medicare PPO | No Ref/No Auth Required | PAR |
 | Joshua Kim, MD | Aetna Medicare PPO | No Ref/No Auth Required | PAR |
@@ -40,12 +40,11 @@
 | Rachael Randolph, OD | Aetna Medicare PPO | No Ref/No Auth Required | PAR |
 | Scott Stevens, OD | Aetna Medicare PPO | No Ref/No Auth Required | PAR |
 | Shannon Bednarz, PA | Aetna Medicare PPO | No Ref/No Auth Required | PAR |
-| Tanuj Banker, MD (RETINA) | Aetna Medicare PPO | No Ref/No Auth Required | PAR |
 | Todd Lang, OD | Aetna Medicare PPO | No Ref/No Auth Required | PAR |
 | Trisha Werner, OD | Aetna Medicare PPO | No Ref/No Auth Required | PAR |
 | William Soscia, MD | Aetna Medicare PPO | No Ref/No Auth Required | PAR |
 
-## US Eye Insurance Guide(SW FL Eye)
+## SW FL Eye
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|

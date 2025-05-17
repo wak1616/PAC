@@ -4,7 +4,7 @@
 
 <details open><summary>Provider Details for Humana Medicare National POS - Open Access Plus/Choice POS/Choice Florida PPO/USAA Honor (PPO)/Choice Regional PPO</summary>
 
-## US Eye Insurance Guide(SW FL Eye)
+## SW FL Eye
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|

@@ -4,7 +4,7 @@
 
 <details open><summary>Provider Details for United Healthcare Dual Complete™ HMO SNP</summary>
 
-## US Eye Insurance Guide(Center for Sight)
+## Center for Sight
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
@@ -15,12 +15,12 @@
 | Daniel Hadland, OD | Primary: UHC Dual Complete Medicare HMO Primary                                                                  Secondary: UHC Dual Medicaid HMO Secondary | No Ref/No Auth Required | PAR |
 | David Mertzlufft, OD | Primary: UHC Dual Complete Medicare HMO Primary                                                                  Secondary: UHC Dual Medicaid HMO Secondary | No Ref/No Auth Required | PAR |
 | David Shoemaker, MD | Primary: UHC Dual Complete Medicare HMO Primary                                                                  Secondary: UHC Dual Medicaid HMO Secondary | No Ref/No Auth Required | PAR |
-| Elizabeth Davis, MD                      Start Date 05/30/25 | Primary: UHC Dual Complete Medicare HMO Primary                                                                  Secondary: UHC Dual Medicaid HMO Secondary | No Ref/No Auth Required | Non-PAR |
+| Elizabeth Davis, MD                      Start Date 05/30/25 | Primary: UHC Dual Complete Medicare HMO Primary                                                                  Secondary: UHC Dual Medicaid HMO Secondary | No Ref/No Auth Required | PAR |
 | Erin Hardie, OD | Primary: UHC Dual Complete Medicare HMO Primary                                                                  Secondary: UHC Dual Medicaid HMO Secondary | No Ref/No Auth Required | PAR |
 | George Hurwitz, OD | Primary: UHC Dual Complete Medicare HMO Primary                                                                  Secondary: UHC Dual Medicaid HMO Secondary | No Ref/No Auth Required | PAR |
 | Hunter Vittone, OD | Primary: UHC Dual Complete Medicare HMO Primary                                                                  Secondary: UHC Dual Medicaid HMO Secondary | No Ref/No Auth Required | PAR |
 | James Lenhart, OD | Primary: UHC Dual Complete Medicare HMO Primary                                                                  Secondary: UHC Dual Medicaid HMO Secondary | No Ref/No Auth Required | PAR |
-| Joaquin De Rojas, MD | Primary: UHC Dual Complete Medicare HMO Primary                                                                  Secondary: UHC Dual Medicaid HMO Secondary | No Ref/No Auth Required | PAR |
+| Joaquin De Rojas, MD | Primary: UHC Dual Complete Medicare HMO Primary                                                                  Secondary: UHC Dual Medicaid HMO Secondary | No Ref/No Auth Required | Non-PAR |
 | John Fezza, MD (Oculoplastics) | Primary: UHC Dual Complete Medicare HMO Primary                                                                  Secondary: UHC Dual Medicaid HMO Secondary | No Ref/No Auth Required | PAR |
 | Joseph Sowka, OD | Primary: UHC Dual Complete Medicare HMO Primary                                                                  Secondary: UHC Dual Medicaid HMO Secondary | No Ref/No Auth Required | PAR |
 | Joshua Kim, MD | Primary: UHC Dual Complete Medicare HMO Primary                                                                  Secondary: UHC Dual Medicaid HMO Secondary | No Ref/No Auth Required | PAR |
@@ -39,8 +39,7 @@
 | Priya Mathews, MD | Primary: UHC Dual Complete Medicare HMO Primary                                                                  Secondary: UHC Dual Medicaid HMO Secondary | No Ref/No Auth Required | PAR |
 | Rachael Randolph, OD | Primary: UHC Dual Complete Medicare HMO Primary                                                                  Secondary: UHC Dual Medicaid HMO Secondary | No Ref/No Auth Required | PAR |
 | Scott Stevens, OD | Primary: UHC Dual Complete Medicare HMO Primary                                                                  Secondary: UHC Dual Medicaid HMO Secondary | No Ref/No Auth Required | PAR |
-| Shannon Bednarz, PA | Primary: UHC Dual Complete Medicare HMO Primary                                                                  Secondary: UHC Dual Medicaid HMO Secondary | No Ref/No Auth Required | PAR |
-| Tanuj Banker, MD (RETINA) | Primary: UHC Dual Complete Medicare HMO Primary                                                                  Secondary: UHC Dual Medicaid HMO Secondary | No Ref/No Auth Required | Non-PAR |
+| Shannon Bednarz, PA | Primary: UHC Dual Complete Medicare HMO Primary                                                                  Secondary: UHC Dual Medicaid HMO Secondary | No Ref/No Auth Required | Non-PAR |
 | Todd Lang, OD | Primary: UHC Dual Complete Medicare HMO Primary                                                                  Secondary: UHC Dual Medicaid HMO Secondary | No Ref/No Auth Required | PAR |
 | Trisha Werner, OD | Primary: UHC Dual Complete Medicare HMO Primary                                                                  Secondary: UHC Dual Medicaid HMO Secondary | No Ref/No Auth Required | PAR |
 | William Soscia, MD | Primary: UHC Dual Complete Medicare HMO Primary                                                                  Secondary: UHC Dual Medicaid HMO Secondary | No Ref/No Auth Required | PAR |

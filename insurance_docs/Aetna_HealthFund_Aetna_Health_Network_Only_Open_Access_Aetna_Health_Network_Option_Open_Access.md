@@ -4,7 +4,7 @@
 
 <details open><summary>Provider Details for Aetna HealthFund® Aetna Health Network Only℠ (Open Access)/Aetna Health Network Option℠ (Open Access)</summary>
 
-## US Eye Insurance Guide(SW FL Eye)
+## SW FL Eye
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|

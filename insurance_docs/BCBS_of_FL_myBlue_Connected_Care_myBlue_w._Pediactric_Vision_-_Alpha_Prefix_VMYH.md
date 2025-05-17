@@ -4,7 +4,7 @@
 
 <details open><summary>Provider Details for BCBS of FL myBlue Connected Care/myBlue w. Pediactric Vision - Alpha Prefix VMYH</summary>
 
-## US Eye Insurance Guide(Center for Sight)
+## Center for Sight
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
@@ -39,8 +39,7 @@
 | Priya Mathews, MD | BCBS FL myBlue HMO REFERRAL REQ | Referral Required | PAR |
 | Rachael Randolph, OD | BCBS FL myBlue HMO REFERRAL REQ | Referral Required | PAR |
 | Scott Stevens, OD | BCBS FL myBlue HMO REFERRAL REQ | Referral Required | PAR |
-| Shannon Bednarz, PA | BCBS FL myBlue HMO REFERRAL REQ | Referral Required | PAR |
-| Tanuj Banker, MD (RETINA) | BCBS FL myBlue HMO REFERRAL REQ | Referral Required | Non-PAR |
+| Shannon Bednarz, PA | BCBS FL myBlue HMO REFERRAL REQ | Referral Required | Non-PAR |
 | Todd Lang, OD | BCBS FL myBlue HMO REFERRAL REQ | Referral Required | PAR |
 | Trisha Werner, OD | BCBS FL myBlue HMO REFERRAL REQ | Referral Required | PAR |
 | William Soscia, MD | BCBS FL myBlue HMO REFERRAL REQ | Referral Required | PAR |

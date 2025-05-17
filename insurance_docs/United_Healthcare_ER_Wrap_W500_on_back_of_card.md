@@ -4,7 +4,7 @@
 
 <details open><summary>Provider Details for United Healthcare ER Wrap (W500 on back of card)</summary>
 
-## US Eye Insurance Guide(Center for Sight)
+## Center for Sight
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
@@ -15,12 +15,12 @@
 | Daniel Hadland, OD | UHC ER Wrap | Authorization Required | PAR |
 | David Mertzlufft, OD | UHC ER Wrap | Authorization Required | PAR |
 | David Shoemaker, MD | UHC ER Wrap | Authorization Required | PAR |
-| Elizabeth Davis, MD                      Start Date 05/30/25 | UHC ER Wrap | Authorization Required | Non-PAR |
+| Elizabeth Davis, MD                      Start Date 05/30/25 | UHC ER Wrap | Authorization Required | PAR |
 | Erin Hardie, OD | UHC ER Wrap | Authorization Required | PAR |
 | George Hurwitz, OD | UHC ER Wrap | Authorization Required | PAR |
 | Hunter Vittone, OD | UHC ER Wrap | Authorization Required | PAR |
 | James Lenhart, OD | UHC ER Wrap | Authorization Required | PAR |
-| Joaquin De Rojas, MD | UHC ER Wrap | Authorization Required | PAR |
+| Joaquin De Rojas, MD | UHC ER Wrap | Authorization Required | Non-PAR |
 | John Fezza, MD (Oculoplastics) | UHC ER Wrap | Authorization Required | PAR |
 | Joseph Sowka, OD | UHC ER Wrap | Authorization Required | PAR |
 | Joshua Kim, MD | UHC ER Wrap | Authorization Required | PAR |
@@ -40,12 +40,11 @@
 | Rachael Randolph, OD | UHC ER Wrap | Authorization Required | PAR |
 | Scott Stevens, OD | UHC ER Wrap | Authorization Required | PAR |
 | Shannon Bednarz, PA | UHC ER Wrap | Authorization Required | PAR |
-| Tanuj Banker, MD (RETINA) | UHC ER Wrap | Authorization Required | PAR |
 | Todd Lang, OD | UHC ER Wrap | Authorization Required | PAR |
 | Trisha Werner, OD | UHC ER Wrap | Authorization Required | PAR |
 | William Soscia, MD | UHC ER Wrap | Authorization Required | PAR |
 
-## US Eye Insurance Guide(Center for Sight-Naples)
+## Center for Sight-Naples
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
@@ -54,7 +53,7 @@
 | Jon Berlie, MD | UHC ER Wrap | Authorization Required | PAR |
 | Julie Carter, MD | UHC ER Wrap | Authorization Required | PAR |
 
-## US Eye Insurance Guide(Lake Eye )
+## Lake Eye 
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
@@ -67,14 +66,14 @@
 | Scott Wehrly, MD | UHC ER Wrap | Authorization Required | PAR |
 | Vinay Gutti, MD | UHC ER Wrap | Authorization Required | PAR |
 
-## US Eye Insurance Guide(Retina Health Center)
+## Retina Health Center
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
 | Alexander Eaton, MD | UHC ER Wrap | Authorization Required | PAR |
 | Veronica Kon Graversen, MD | UHC ER Wrap | Authorization Required | PAR |
 
-## US Eye Insurance Guide(SW FL Eye)
+## SW FL Eye
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|

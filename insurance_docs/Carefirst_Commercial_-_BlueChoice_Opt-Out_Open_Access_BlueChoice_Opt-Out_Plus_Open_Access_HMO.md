@@ -4,7 +4,7 @@
 
 <details open><summary>Provider Details for Carefirst Commercial - BlueChoice Opt-Out Open Access/BlueChoice Opt-Out Plus Open Access (HMO)</summary>
 
-## US Eye Insurance Guide(Lake Eye )
+## Lake Eye 
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|

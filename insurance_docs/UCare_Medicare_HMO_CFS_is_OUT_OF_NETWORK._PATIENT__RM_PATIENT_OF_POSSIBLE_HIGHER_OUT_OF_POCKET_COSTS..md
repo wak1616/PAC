@@ -4,7 +4,7 @@
 
 <details open><summary>Provider Details for UCare Medicare HMO CFS is OUT OF NETWORK. PATIENT HAS OON BENEFITS. PLEASE INFORM PATIENT OF POSSIBLE HIGHER OUT OF POCKET COSTS.</summary>
 
-## US Eye Insurance Guide(Center for Sight)
+## Center for Sight
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
@@ -15,12 +15,12 @@
 | Daniel Hadland, OD | UCare Medicare HMO | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | David Mertzlufft, OD | UCare Medicare HMO | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | David Shoemaker, MD | UCare Medicare HMO | No Ref/No Auth Required | Non-PAR -OON Benefits |
-| Elizabeth Davis, MD                      Start Date 05/30/25 | UCare Medicare HMO | No Ref/No Auth Required | Non-PAR |
+| Elizabeth Davis, MD                      Start Date 05/30/25 | UCare Medicare HMO | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Erin Hardie, OD | UCare Medicare HMO | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | George Hurwitz, OD | UCare Medicare HMO | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Hunter Vittone, OD | UCare Medicare HMO | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | James Lenhart, OD | UCare Medicare HMO | No Ref/No Auth Required | Non-PAR -OON Benefits |
-| Joaquin De Rojas, MD | UCare Medicare HMO | No Ref/No Auth Required | Non-PAR -OON Benefits |
+| Joaquin De Rojas, MD | UCare Medicare HMO | No Ref/No Auth Required | Non-PAR |
 | John Fezza, MD (Oculoplastics) | UCare Medicare HMO | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Joseph Sowka, OD | UCare Medicare HMO | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Joshua Kim, MD | UCare Medicare HMO | No Ref/No Auth Required | Non-PAR -OON Benefits |
@@ -39,13 +39,12 @@
 | Priya Mathews, MD | UCare Medicare HMO | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Rachael Randolph, OD | UCare Medicare HMO | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Scott Stevens, OD | UCare Medicare HMO | No Ref/No Auth Required | Non-PAR -OON Benefits |
-| Shannon Bednarz, PA | UCare Medicare HMO | No Ref/No Auth Required | Non-PAR -OON Benefits |
-| Tanuj Banker, MD (RETINA) | UCare Medicare HMO | No Ref/No Auth Required | Non-PAR |
+| Shannon Bednarz, PA | UCare Medicare HMO | No Ref/No Auth Required | Non-PAR |
 | Todd Lang, OD | UCare Medicare HMO | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Trisha Werner, OD | UCare Medicare HMO | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | William Soscia, MD | UCare Medicare HMO | No Ref/No Auth Required | Non-PAR -OON Benefits |
 
-## US Eye Insurance Guide(Center for Sight-Naples)
+## Center for Sight-Naples
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|

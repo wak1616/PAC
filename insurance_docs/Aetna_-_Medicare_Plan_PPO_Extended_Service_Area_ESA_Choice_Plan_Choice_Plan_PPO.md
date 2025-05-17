@@ -4,7 +4,7 @@
 
 <details open><summary>Provider Details for Aetna - Medicare Plan (PPO)/Extended Service Area (ESA)/Choice Plan/Choice Plan PPO</summary>
 
-## US Eye Insurance Guide(Retina Health Center)
+## Retina Health Center
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|

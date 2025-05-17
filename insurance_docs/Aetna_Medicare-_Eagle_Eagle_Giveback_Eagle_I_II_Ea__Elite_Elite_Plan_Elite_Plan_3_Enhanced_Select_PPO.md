@@ -4,7 +4,7 @@
 
 <details open><summary>Provider Details for Aetna Medicare- Eagle/Eagle Giveback/Eagle I & II/ Eagle Plus/Elite/Elite Plan, Elite Plan 3/Enhanced Select(PPO)</summary>
 
-## US Eye Insurance Guide(Retina Health Center)
+## Retina Health Center
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|

@@ -4,7 +4,7 @@
 
 <details open><summary>Provider Details for United Healthcare The Villages Medicare Advantage FL-0004/004P (HMO-POS)</summary>
 
-## US Eye Insurance Guide(Lake Eye )
+## Lake Eye 
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
@@ -16,6 +16,16 @@
 | Scot Holman, MD | UHC Medicare HMO | No Ref/No Auth Required | PAR |
 | Scott Wehrly, MD | UHC Medicare HMO | No Ref/No Auth Required | PAR |
 | Vinay Gutti, MD | UHC Medicare HMO | No Ref/No Auth Required | PAR |
+
+## SW FL Eye
+
+| Provider | NextGen Name | Referral/Auth | Status |
+|----------|-------------|--------------|--------|
+| Albert Smolyar, MD | UHC Medicare HMO | No Ref/No Auth Required | PAR |
+| Brian Marhue, OD | UHC Medicare HMO | No Ref/No Auth Required | PAR |
+| Hunter Vittone, OD | UHC Medicare HMO | No Ref/No Auth Required | PAR |
+| Penny Orr, OD | UHC Medicare HMO | No Ref/No Auth Required | PAR |
+| Sarah Johnson, OD | UHC Medicare HMO | No Ref/No Auth Required | PAR |
 
 </details>
 

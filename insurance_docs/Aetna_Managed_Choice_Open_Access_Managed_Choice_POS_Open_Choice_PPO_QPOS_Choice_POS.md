@@ -4,7 +4,7 @@
 
 <details open><summary>Provider Details for Aetna Managed Choice Open Access/Managed Choice/POS/Open Choice PPO/QPOS?Choice POS</summary>
 
-## US Eye Insurance Guide(SW FL Eye)
+## SW FL Eye
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|

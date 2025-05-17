@@ -4,7 +4,7 @@
 
 <details open><summary>Provider Details for Cigna Commercial - Choice Fund PPO/ChoiceFund OA Plus/ OA Plus with CareLink/Local Plus/Open Access Plus</summary>
 
-## US Eye Insurance Guide(Lake Eye )
+## Lake Eye 
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|

@@ -4,7 +4,7 @@
 
 <details open><summary>Provider Details for BCBS of FL BlueMedicare Value PPO/ BlueMedicare Value w. Level 1 - PLEASE DO NOT SCHEDULE ANY APPTS AFTER 12/31/2024 AS THIS PLAN IS NO LONGER OFFERED AS OF 01/01/2025 FOR RHC-NAPLES OFFICE ONLY</summary>
 
-## US Eye Insurance Guide(Retina Health Center)
+## Retina Health Center
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|

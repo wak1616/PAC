@@ -4,7 +4,7 @@
 
 <details open><summary>Provider Details for Division of Blind</summary>
 
-## US Eye Insurance Guide(Center for Sight)
+## Center for Sight
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
@@ -15,17 +15,17 @@
 | Daniel Hadland, OD | Division of Blind | Authorization Required | PAR |
 | David Mertzlufft, OD | Division of Blind | Authorization Required | PAR |
 | David Shoemaker, MD | Division of Blind | Authorization Required | PAR |
-| Elizabeth Davis, MD                      Start Date 05/30/25 | Division of Blind | Authorization Required | Non-PAR |
+| Elizabeth Davis, MD                      Start Date 05/30/25 | Division of Blind | Authorization Required | PAR |
 | Erin Hardie, OD | Division of Blind | Authorization Required | PAR |
 | George Hurwitz, OD | Division of Blind | Authorization Required | PAR |
 | Hunter Vittone, OD | Division of Blind | Authorization Required | PAR |
 | James Lenhart, OD | Division of Blind | Authorization Required | PAR |
-| Joaquin De Rojas, MD | Division of Blind | Authorization Required | PAR |
+| Joaquin De Rojas, MD | Division of Blind | Authorization Required | Non-PAR |
 | John Fezza, MD (Oculoplastics) | Division of Blind | Authorization Required | PAR |
 | Joseph Sowka, OD | Division of Blind | Authorization Required | PAR |
 | Joshua Kim, MD | Division of Blind | Authorization Required | PAR |
 | Joshua Newman, MD | Division of Blind | Authorization Required | PAR |
-| Kalie Kosek, PA | Division of Blind | Authorization Required | Non-PAR |
+| Kalie Kosek, PA | Division of Blind | Authorization Required | PAR |
 | Kyle Schaub, OD | Division of Blind | Authorization Required | PAR |
 | Len Brown, OD | Division of Blind | Authorization Required | PAR |
 | Lori Long, OD | Division of Blind | Authorization Required | PAR |
@@ -40,12 +40,11 @@
 | Rachael Randolph, OD | Division of Blind | Authorization Required | PAR |
 | Scott Stevens, OD | Division of Blind | Authorization Required | PAR |
 | Shannon Bednarz, PA | Division of Blind | Authorization Required | PAR |
-| Tanuj Banker, MD (RETINA) | Division of Blind | Authorization Required | PAR |
-| Todd Lang, OD | Division of Blind | Authorization Required | PAR |
+| Todd Lang, OD | Division of Blind | Authorization Required | Non-PAR |
 | Trisha Werner, OD | Division of Blind | Authorization Required | PAR |
 | William Soscia, MD | Division of Blind | Authorization Required | PAR |
 
-## US Eye Insurance Guide(Center for Sight-Naples)
+## Center for Sight-Naples
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
@@ -54,14 +53,14 @@
 | Jon Berlie, MD | Division of Blind | Authorization Required | PAR |
 | Julie Carter, MD | Division of Blind | Authorization Required | PAR |
 
-## US Eye Insurance Guide(Retina Health Center)
+## Retina Health Center
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
 | Alexander Eaton, MD | Division of Blind | Authorization Required | PAR |
 | Veronica Kon Graversen, MD | Division of Blind | Authorization Required | PAR |
 
-## US Eye Insurance Guide(SW FL Eye)
+## SW FL Eye
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|

@@ -113,7 +113,8 @@ def parse_locations(markdown_file_path="Location Reference Guide.md"):
 
 def create_location_map(locations, output_filename="locations_map.html"):
     """
-    Creates an HTML map with markers for each location using hardcoded coordinates.
+    Creates an HTML map with markers for each location using hardcoded coordinates,
+    and adds functionality to calculate distance from an entered ZIP code.
     """
     # Define color scheme for groups
     group_colors = {
@@ -134,33 +135,261 @@ def create_location_map(locations, output_filename="locations_map.html"):
     # Add markers for each location
     missing_coords = []
     
-    for loc in locations:
+    # HTML and JavaScript for ZIP code input and distance calculation
+    zip_input_html = """
+    <div id="zipControl" style="position: fixed; top: 10px; right: 10px; z-index:1000; background-color:white; padding:10px; border:1px solid grey; border-radius:5px; box-shadow: 0 0 10px rgba(0,0,0,0.2);">
+        <label for="zipCodeInput" style="font-weight:bold;">Enter Patient's ZIP Code: </label>
+        <input type="text" id="zipCodeInput" placeholder="e.g., 34201" style="padding: 5px; border: 1px solid #ccc; border-radius: 3px;">
+        <p id="zipErrorMessage" style="color:red; font-size:0.9em; margin-top:5px;"></p>
+    </div>
+    """
+
+    # IMPORTANT: The geocoding function below uses Nominatim (OpenStreetMap).
+    # This is a free service with usage policies (e.g., rate limits, no heavy use).
+    # For production applications, consider using a dedicated geocoding service with an API key.
+    distance_calculation_js = """
+    <script>
+        var zipCodeMarker = null; // To keep track of the ZIP code marker on the map
+        var leafletMapInstance = null; // To store the reference to the Leaflet map object
+        var distancePolyline = null; // To keep track of the distance line on the map
+
+        function getLeafletMap() {
+            if (leafletMapInstance) return leafletMapInstance;
+            // Try to find the map instance Folium creates (often global like map_xxxx)
+            for (const key in window) {
+                if (window[key] instanceof L.Map && document.getElementById(window[key]._container.id)) {
+                    leafletMapInstance = window[key];
+                    return leafletMapInstance;
+                }
+            }
+            // Fallback if the global variable isn't found directly or is obfuscated
+            const mapDiv = document.querySelector('.folium-map'); // Common class for Folium map container
+            if (mapDiv && mapDiv._leaflet_map) { // _leaflet_map is an internal Leaflet property
+                leafletMapInstance = mapDiv._leaflet_map;
+                return leafletMapInstance;
+            }
+            console.warn("Leaflet map object not found. ZIP marker functionality may be limited.");
+            return null;
+        }
+
+        function updateZipMarker(lat, lon) {
+            const map = getLeafletMap();
+            if (!map) return;
+
+            if (zipCodeMarker) {
+                map.removeLayer(zipCodeMarker);
+                zipCodeMarker = null;
+            }
+
+            if (lat !== undefined && lon !== undefined) {
+                try {
+                    var personIcon;
+                    if (L.AwesomeMarkers && L.AwesomeMarkers.icon) { // Folium usually includes AwesomeMarkers
+                         personIcon = L.AwesomeMarkers.icon({
+                            icon: 'user',
+                            prefix: 'fa', // Font Awesome
+                            markerColor: 'cadetblue',
+                            iconColor: 'white'
+                        });
+                    } else { // Fallback basic icon if AwesomeMarkers isn't available for some reason
+                        console.warn("L.AwesomeMarkers.icon not available, using default marker for ZIP location.");
+                        personIcon = L.icon({ // A very basic fallback
+                            iconUrl: 'data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA8AAAAWCAYAAAAfD8YZAAAAAXNSR0IArs4c6QAAADhlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAA6ABAAMAAAABAAEAAKACAAQAAAABAAAAD6ADAAQAAAABAAAAFgAAAAAVfLGDAAAAYklEQVQoFY3RQQrAIAwEwXNUIcGLXoILEkNFfCgmhDpTqZCGuLdwHzf5g+D5AvsJ8wQGM9UPmjVIwGgqjNptxN2M1xMVR3e1U7C0B3D9K4e8n0gKHNoJ08h61gAAAABJRU5ErkJggg==', // Tiny blue dot
+                            iconSize: [15, 22],
+                            iconAnchor: [7, 22],
+                        });
+                    }
+                    zipCodeMarker = L.marker([lat, lon], { icon: personIcon, zIndexOffset: 1000 }).addTo(map);
+                    map.setView([lat, lon], 10); // Pan and zoom to the ZIP code location
+                } catch (e) {
+                    console.error("Error creating ZIP marker:", e);
+                }
+            }
+        }
+
+        function clearDistanceLine() {
+            const map = getLeafletMap();
+            if (!map) return;
+            if (distancePolyline) {
+                map.removeLayer(distancePolyline);
+                distancePolyline = null;
+            }
+        }
+
+        async function getCoordsFromZip(zip) {
+            const zipErrorMsg = document.getElementById('zipErrorMessage');
+            if (zipErrorMsg) zipErrorMsg.textContent = "";
+
+            if (!zip || !/^\\d{5}$/.test(zip)) {
+                if (zipErrorMsg && zip !== "") zipErrorMsg.textContent = "Please enter a valid 5-digit ZIP code.";
+                updateZipMarker(undefined, undefined); // Remove marker if ZIP is invalid
+                clearDistanceLine(); // Remove line if ZIP is invalid
+                return null;
+            }
+            try {
+                const response = await fetch(`https://nominatim.openstreetmap.org/search?postalcode=${zip}&country=US&format=json&limit=1`);
+                if (!response.ok) {
+                    console.error("Geocoding API request failed:", response.status);
+                    if (zipErrorMsg) zipErrorMsg.textContent = "Geocoding service error. Try again later.";
+                    updateZipMarker(undefined, undefined);
+                    clearDistanceLine();
+                    return null;
+                }
+                const data = await response.json();
+                if (data && data.length > 0) {
+                    const coords = { lat: parseFloat(data[0].lat), lon: parseFloat(data[0].lon) };
+                    updateZipMarker(coords.lat, coords.lon); // Add/update marker
+                    // Do not clear distance line here, wait for button click or new zip input
+                    return coords;
+                } else {
+                    if (zipErrorMsg) zipErrorMsg.textContent = "ZIP code not found.";
+                    updateZipMarker(undefined, undefined); // Remove marker if ZIP not found
+                    clearDistanceLine(); // Remove line if ZIP not found
+                    return null;
+                }
+            } catch (error) {
+                console.error("Error fetching ZIP coordinates:", error);
+                if (zipErrorMsg) zipErrorMsg.textContent = "Network error during geocoding.";
+                updateZipMarker(undefined, undefined);
+                clearDistanceLine();
+                return null;
+            }
+        }
+
+        function haversineDistance(coords1, coords2) { // coords = {lat, lon} in degrees
+            function toRad(x) { return x * Math.PI / 180; }
+            const R = 3958.8; // Earth radius in miles
+            const dLat = toRad(coords2.lat - coords1.lat);
+            const dLon = toRad(coords2.lon - coords1.lon);
+            const lat1Rad = toRad(coords1.lat);
+            const lat2Rad = toRad(coords2.lat);
+            const a = Math.sin(dLat / 2) * Math.sin(dLat / 2) +
+                      Math.cos(lat1Rad) * Math.cos(lat2Rad) *
+                      Math.sin(dLon / 2) * Math.sin(dLon / 2);
+            const c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1 - a));
+            return R * c;
+        }
+
+        async function calculateAndShowDistance(markerId, locLat, locLon) {
+            const zipInput = document.getElementById('zipCodeInput');
+            const zipCode = zipInput.value.trim();
+            const distanceDiv = document.getElementById(`distance-info-${markerId}`);
+            const button = document.getElementById(`calc-button-${markerId}`);
+
+            if (!distanceDiv || !button) {
+                console.error("Popup elements not found for markerId:", markerId);
+                return;
+            }
+
+            distanceDiv.innerHTML = "<em>Calculating...</em>";
+            button.disabled = true;
+            document.getElementById('zipErrorMessage').textContent = ""; // Clear global zip error
+            clearDistanceLine(); // Clear previous line before drawing a new one
+
+            const zipCoords = await getCoordsFromZip(zipCode);
+
+            if (zipCoords) {
+                const locCoords = { lat: locLat, lon: locLon };
+                const distance = haversineDistance(zipCoords, locCoords);
+                distanceDiv.innerHTML = `Distance from ${zipCode}: <strong>${distance.toFixed(2)} miles</strong>.`;
+                
+                // Draw the line
+                const map = getLeafletMap();
+                if (map) {
+                    const latlngs = [
+                        [locLat, locLon],       // Location coordinates
+                        [zipCoords.lat, zipCoords.lon] // ZIP code coordinates
+                    ];
+                    try {
+                         distancePolyline = L.polyline(latlngs, {color: '#ff7800', weight: 3, opacity: 0.7, dashArray: '5, 5'}).addTo(map);
+                    } catch (e) {
+                        console.error("Error drawing distance line:", e);
+                    }
+                }
+
+            } else {
+                // Error message is handled by getCoordsFromZip or if zipCoords is null
+                distanceDiv.innerHTML = `<span style='color:red;'>Could not calculate distance. Check ZIP code in the input box.</span>`;
+                // No line to draw if zipCoords are invalid
+            }
+            button.disabled = false;
+        }
+
+        document.addEventListener('DOMContentLoaded', (event) => {
+            // Initialize map instance early
+            getLeafletMap();
+
+            const zipInput = document.getElementById('zipCodeInput');
+            if (zipInput) {
+                zipInput.addEventListener('input', async () => {
+                    const zipCode = zipInput.value.trim();
+                    const zipErrorMsg = document.getElementById('zipErrorMessage');
+                    if (zipErrorMsg) zipErrorMsg.textContent = ""; // Clear previous error on new input
+
+                    // Reset distance displays in popups
+                    const allDistanceDivs = document.querySelectorAll('[id^="distance-info-"]');
+                    allDistanceDivs.forEach(div => {
+                        if (div.innerHTML.includes("miles") || div.innerHTML.includes("Calculating") || div.innerHTML.includes("Could not calculate")) {
+                             div.innerHTML = "<span style=\\'color: #e09600;\\'>ZIP changed. Click button to recalculate.</span>";
+                        }
+                    });
+                    const allCalcButtons = document.querySelectorAll('[id^="calc-button-"]');
+                    allCalcButtons.forEach(btn => btn.disabled = false);
+                    clearDistanceLine(); // Clear line when zip input changes
+
+                    if (/^\\d{5}$/.test(zipCode)) {
+                        await getCoordsFromZip(zipCode); // This will geocode and attempt to place the marker
+                    } else {
+                        if (zipCode !== "") { // Only show error if not empty and invalid
+                           if (zipErrorMsg) zipErrorMsg.textContent = "Enter a valid 5-digit ZIP.";
+                        }
+                        updateZipMarker(undefined, undefined); // Remove marker if ZIP is invalid or cleared
+                        clearDistanceLine(); // Also clear line if zip becomes invalid
+                    }
+                });
+            }
+        });
+    </script>
+    """
+
+    for idx, loc in enumerate(locations):
         name = loc['name']
         group = loc.get('group', "")
-        # Default to gray if group not in color mapping
-        color = group_colors.get(group, "gray")
+        color = group_colors.get(group, "gray") # Default to gray if group not in color mapping
         address = loc['address']
+        marker_id_str = f"marker-{idx}"
         
-        # Get coordinates from hardcoded dictionary
         coords = HARDCODED_COORDS.get(name)
         
+        popup_html_content = ""
+
         if coords:
             latlon = coords
-            popup_html = f"<b>{name}</b><br>Group: {group}<br>Address: {address}"
+            popup_html_content = f"""
+<b>{name}</b><br>
+Group: {group}<br>
+Address: {address}<br>
+<div id="distance-info-{marker_id_str}" style="margin-top:5px; margin-bottom:5px;"></div>
+<button id="calc-button-{marker_id_str}" onclick="calculateAndShowDistance('{marker_id_str}', {latlon[0]}, {latlon[1]})" style="margin-top:5px; padding: 3px 7px; font-size:0.9em; cursor:pointer; border:1px solid #007bff; background-color:#007bff; color:white; border-radius:3px;">Calculate distance from ZIP</button>
+"""
         else:
-            # If no coordinates are found, place at map center and mark
             missing_coords.append(name)
-            latlon = map_center
-            color = "gray"
-            popup_html = f"<b>{name}</b><br><span style='color:red;'>No coordinates found!</span><br>Address: {address}"
+            latlon = map_center # Place at map center if no coords
+            color = "gray" # Mark as gray
+            popup_html_content = f"<b>{name}</b><br><span style='color:red;'>No coordinates found for this location!</span><br>Address: {address}"
         
-        # Add marker
         folium.Marker(
             location=latlon,
-            popup=folium.Popup(popup_html, max_width=300),
+            popup=folium.Popup(popup_html_content, max_width=350),
             tooltip=name,
             icon=folium.Icon(color=color)
         ).add_to(location_map)
+
+    # Add the ZIP code input box to the map
+    location_map.get_root().html.add_child(folium.Element(zip_input_html))
+    
+    # Add the JavaScript for distance calculation to the map
+    location_map.get_root().html.add_child(folium.Element(distance_calculation_js))
 
     # Add a legend to the map
     legend_html = '''

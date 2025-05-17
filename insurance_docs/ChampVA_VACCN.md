@@ -4,7 +4,7 @@
 
 <details open><summary>Provider Details for ChampVA (VACCN)</summary>
 
-## US Eye Insurance Guide(Center for Sight)
+## Center for Sight
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
@@ -15,12 +15,12 @@
 | Daniel Hadland, OD | Champva | No Ref/No Auth Required | PAR |
 | David Mertzlufft, OD | Champva | No Ref/No Auth Required | PAR |
 | David Shoemaker, MD | Champva | No Ref/No Auth Required | PAR |
-| Elizabeth Davis, MD                      Start Date 05/30/25 | Champva | No Ref/No Auth Required | Non-PAR |
+| Elizabeth Davis, MD                      Start Date 05/30/25 | Champva | No Ref/No Auth Required | PAR |
 | Erin Hardie, OD | Champva | No Ref/No Auth Required | PAR |
 | George Hurwitz, OD | Champva | No Ref/No Auth Required | PAR |
 | Hunter Vittone, OD | Champva | No Ref/No Auth Required | PAR |
 | James Lenhart, OD | Champva | No Ref/No Auth Required | PAR |
-| Joaquin De Rojas, MD | Champva | No Ref/No Auth Required | PAR |
+| Joaquin De Rojas, MD | Champva | No Ref/No Auth Required | Non-PAR |
 | John Fezza, MD (Oculoplastics) | Champva | No Ref/No Auth Required | PAR |
 | Joseph Sowka, OD | Champva | No Ref/No Auth Required | PAR |
 | Joshua Kim, MD | Champva | No Ref/No Auth Required | PAR |
@@ -40,12 +40,11 @@
 | Rachael Randolph, OD | Champva | No Ref/No Auth Required | PAR |
 | Scott Stevens, OD | Champva | No Ref/No Auth Required | PAR |
 | Shannon Bednarz, PA | Champva | No Ref/No Auth Required | PAR |
-| Tanuj Banker, MD (RETINA) | Champva | No Ref/No Auth Required | PAR |
 | Todd Lang, OD | Champva | No Ref/No Auth Required | PAR |
 | Trisha Werner, OD | Champva | No Ref/No Auth Required | PAR |
 | William Soscia, MD | Champva | No Ref/No Auth Required | PAR |
 
-## US Eye Insurance Guide(Center for Sight-Naples)
+## Center for Sight-Naples
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
@@ -54,7 +53,7 @@
 | Jon Berlie, MD | Champva | No Ref/No Auth Required | PAR |
 | Julie Carter, MD | Champva | No Ref/No Auth Required | PAR |
 
-## US Eye Insurance Guide(Lake Eye )
+## Lake Eye 
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
@@ -67,7 +66,7 @@
 | Scott Wehrly, MD | ChampVA | No Ref/No Auth Required | PAR |
 | Vinay Gutti, MD | ChampVA | No Ref/No Auth Required | PAR |
 
-## US Eye Insurance Guide(SW FL Eye)
+## SW FL Eye
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|

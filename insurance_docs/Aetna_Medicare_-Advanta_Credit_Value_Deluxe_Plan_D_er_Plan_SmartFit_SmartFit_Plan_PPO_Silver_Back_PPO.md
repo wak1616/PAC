@@ -4,7 +4,7 @@
 
 <details open><summary>Provider Details for Aetna Medicare -Advanta Credit Value/Deluxe Plan/Discover Plan/SmartFit/SmartFit Plan (PPO)/Silver Back PPO</summary>
 
-## US Eye Insurance Guide(Retina Health Center)
+## Retina Health Center
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|

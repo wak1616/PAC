@@ -4,7 +4,7 @@
 
 <details open><summary>Provider Details for Aetna Medicare- Coventry Plan (HMO) (CVTY)</summary>
 
-## US Eye Insurance Guide(Retina Health Center)
+## Retina Health Center
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|

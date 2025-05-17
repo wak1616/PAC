@@ -1,10 +1,10 @@
-# Aetna Medicare- Value   (HMO/HMO POS) - Insurance Guide
+# Aetna Medicare- Value (HMO/HMO POS) - Insurance Guide
 
-*This page lists providers who accept Aetna Medicare- Value   (HMO/HMO POS), grouped by location.*
+*This page lists providers who accept Aetna Medicare- Value (HMO/HMO POS), grouped by location.*
 
-<details open><summary>Provider Details for Aetna Medicare- Value   (HMO/HMO POS)</summary>
+<details open><summary>Provider Details for Aetna Medicare- Value (HMO/HMO POS)</summary>
 
-## US Eye Insurance Guide(Retina Health Center)
+## Retina Health Center
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|

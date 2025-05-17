@@ -4,7 +4,7 @@
 
 <details open><summary>Provider Details for AARP Medicare Advantage from UHC FL-0005-0015/003P (HMO-POS)</summary>
 
-## US Eye Insurance Guide(SW FL Eye)
+## SW FL Eye
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|

@@ -4,7 +4,7 @@
 
 <details open><summary>Provider Details for Harvard Pilgrim Healthcare (UHC Choice Plus Network)</summary>
 
-## US Eye Insurance Guide(Center for Sight)
+## Center for Sight
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
@@ -15,12 +15,12 @@
 | Daniel Hadland, OD | Harvard Pilgrim - UHC | No Ref/No Auth Required | PAR |
 | David Mertzlufft, OD | Harvard Pilgrim - UHC | No Ref/No Auth Required | PAR |
 | David Shoemaker, MD | Harvard Pilgrim - UHC | No Ref/No Auth Required | PAR |
-| Elizabeth Davis, MD                      Start Date 05/30/25 | Harvard Pilgrim - UHC | No Ref/No Auth Required | Non-PAR |
+| Elizabeth Davis, MD                      Start Date 05/30/25 | Harvard Pilgrim - UHC | No Ref/No Auth Required | PAR |
 | Erin Hardie, OD | Harvard Pilgrim - UHC | No Ref/No Auth Required | PAR |
 | George Hurwitz, OD | Harvard Pilgrim - UHC | No Ref/No Auth Required | PAR |
 | Hunter Vittone, OD | Harvard Pilgrim - UHC | No Ref/No Auth Required | PAR |
 | James Lenhart, OD | Harvard Pilgrim - UHC | No Ref/No Auth Required | PAR |
-| Joaquin De Rojas, MD | Harvard Pilgrim - UHC | No Ref/No Auth Required | PAR |
+| Joaquin De Rojas, MD | Harvard Pilgrim - UHC | No Ref/No Auth Required | Non-PAR |
 | John Fezza, MD (Oculoplastics) | Harvard Pilgrim - UHC | No Ref/No Auth Required | PAR |
 | Joseph Sowka, OD | Harvard Pilgrim - UHC | No Ref/No Auth Required | PAR |
 | Joshua Kim, MD | Harvard Pilgrim - UHC | No Ref/No Auth Required | PAR |
@@ -40,12 +40,11 @@
 | Rachael Randolph, OD | Harvard Pilgrim - UHC | No Ref/No Auth Required | PAR |
 | Scott Stevens, OD | Harvard Pilgrim - UHC | No Ref/No Auth Required | PAR |
 | Shannon Bednarz, PA | Harvard Pilgrim - UHC | No Ref/No Auth Required | PAR |
-| Tanuj Banker, MD (RETINA) | Harvard Pilgrim - UHC | No Ref/No Auth Required | PAR |
 | Todd Lang, OD | Harvard Pilgrim - UHC | No Ref/No Auth Required | PAR |
 | Trisha Werner, OD | Harvard Pilgrim - UHC | No Ref/No Auth Required | PAR |
 | William Soscia, MD | Harvard Pilgrim - UHC | No Ref/No Auth Required | PAR |
 
-## US Eye Insurance Guide(Center for Sight-Naples)
+## Center for Sight-Naples
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|

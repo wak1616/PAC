@@ -4,7 +4,7 @@
 
 <details open><summary>Provider Details for Tricare Select CFS is OUT OF NETWORK. PATIENT HAS OON BENEFITS. PLEASE INFORM PATIENT OF POSSIBLE HIGHER OUT OF POCKET COSTS. Routine Eye Exams are NON-covered</summary>
 
-## US Eye Insurance Guide(Center for Sight)
+## Center for Sight
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
@@ -15,12 +15,12 @@
 | Daniel Hadland, OD | Tricare Select | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | David Mertzlufft, OD | Tricare Select | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | David Shoemaker, MD | Tricare Select | No Ref/No Auth Required | Non-PAR -OON Benefits |
-| Elizabeth Davis, MD                      Start Date 05/30/25 | Tricare Select | No Ref/No Auth Required | Non-PAR |
+| Elizabeth Davis, MD                      Start Date 05/30/25 | Tricare Select | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Erin Hardie, OD | Tricare Select | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | George Hurwitz, OD | Tricare Select | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Hunter Vittone, OD | Tricare Select | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | James Lenhart, OD | Tricare Select | No Ref/No Auth Required | Non-PAR -OON Benefits |
-| Joaquin De Rojas, MD | Tricare Select | No Ref/No Auth Required | Non-PAR -OON Benefits |
+| Joaquin De Rojas, MD | Tricare Select | No Ref/No Auth Required | Non-PAR |
 | John Fezza, MD (Oculoplastics) | Tricare Select | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Joseph Sowka, OD | Tricare Select | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Joshua Kim, MD | Tricare Select | No Ref/No Auth Required | Non-PAR -OON Benefits |
@@ -40,12 +40,11 @@
 | Rachael Randolph, OD | Tricare Select | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Scott Stevens, OD | Tricare Select | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Shannon Bednarz, PA | Tricare Select | No Ref/No Auth Required | Non-PAR -OON Benefits |
-| Tanuj Banker, MD (RETINA) | Tricare Select | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Todd Lang, OD | Tricare Select | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Trisha Werner, OD | Tricare Select | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | William Soscia, MD | Tricare Select | No Ref/No Auth Required | Non-PAR -OON Benefits |
 
-## US Eye Insurance Guide(Center for Sight-Naples)
+## Center for Sight-Naples
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|

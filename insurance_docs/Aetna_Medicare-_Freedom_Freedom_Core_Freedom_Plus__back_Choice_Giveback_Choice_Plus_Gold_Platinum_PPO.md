@@ -4,7 +4,7 @@
 
 <details open><summary>Provider Details for Aetna Medicare- Freedom/Freedom Core/Freedom Plus/Freedom Preferred/Giveback Choice/Giveback Choice Plus/Gold/Platinum (PPO)</summary>
 
-## US Eye Insurance Guide(Retina Health Center)
+## Retina Health Center
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|

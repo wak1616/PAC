@@ -4,7 +4,7 @@
 
 <details open><summary>Provider Details for United Healthcare Charter EPO/Charter POS</summary>
 
-## US Eye Insurance Guide(Lake Eye )
+## Lake Eye 
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
@@ -17,14 +17,14 @@
 | Scott Wehrly, MD | UHC Commercial PPO | No Ref/No Auth Required | PAR |
 | Vinay Gutti, MD | UHC Commercial PPO | No Ref/No Auth Required | PAR |
 
-## US Eye Insurance Guide(Retina Health Center)
+## Retina Health Center
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
 | Alexander Eaton, MD | UHC Commercial PPO | No Ref/No Auth Required | PAR |
 | Veronica Kon Graversen, MD | UHC Commercial PPO | No Ref/No Auth Required | PAR |
 
-## US Eye Insurance Guide(SW FL Eye)
+## SW FL Eye
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|

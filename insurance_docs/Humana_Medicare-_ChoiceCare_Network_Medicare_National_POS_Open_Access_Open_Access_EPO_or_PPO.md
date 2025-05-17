@@ -4,7 +4,7 @@
 
 <details open><summary>Provider Details for Humana Medicare- ChoiceCare Network/Medicare National POS Open Access/Open Access EPO or PPO</summary>
 
-## US Eye Insurance Guide(SW FL Eye)
+## SW FL Eye
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|

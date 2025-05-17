@@ -4,7 +4,7 @@
 
 <details open><summary>Provider Details for Aetna HealthFund- Aetna Health Network Only/Network Option℠ (Open Access)</summary>
 
-## US Eye Insurance Guide(Center for Sight-Naples)
+## Center for Sight-Naples
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
@@ -13,7 +13,7 @@
 | Jon Berlie, MD | Aetna Commercial PPO | No Ref/No Auth Required | PAR |
 | Julie Carter, MD | Aetna Commercial PPO | No Ref/No Auth Required | PAR |
 
-## US Eye Insurance Guide(Lake Eye )
+## Lake Eye 
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|

@@ -4,7 +4,7 @@
 
 <details open><summary>Provider Details for Humana Medicare- Medicare PPO/Employee PPO Plus/Gold Choice Ntek PFFS</summary>
 
-## US Eye Insurance Guide(Center for Sight-Naples)
+## Center for Sight-Naples
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|

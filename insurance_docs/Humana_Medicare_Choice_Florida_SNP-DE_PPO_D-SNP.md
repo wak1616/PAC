@@ -1,10 +1,10 @@
-# Humana  Medicare Choice Florida SNP-DE (PPO D-SNP) - Insurance Guide
+# Humana Medicare Choice Florida SNP-DE (PPO D-SNP) - Insurance Guide
 
-*This page lists providers who accept Humana  Medicare Choice Florida SNP-DE (PPO D-SNP), grouped by location.*
+*This page lists providers who accept Humana Medicare Choice Florida SNP-DE (PPO D-SNP), grouped by location.*
 
-<details open><summary>Provider Details for Humana  Medicare Choice Florida SNP-DE (PPO D-SNP)</summary>
+<details open><summary>Provider Details for Humana Medicare Choice Florida SNP-DE (PPO D-SNP)</summary>
 
-## US Eye Insurance Guide(Retina Health Center)
+## Retina Health Center
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|

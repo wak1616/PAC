@@ -4,7 +4,7 @@
 
 <details open><summary>Provider Details for BCBS of FL BlueMedicare Select PPO</summary>
 
-## US Eye Insurance Guide(Center for Sight)
+## Center for Sight
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
@@ -40,7 +40,6 @@
 | Rachael Randolph, OD | BCBS FL Medicare PPO | No Ref/No Auth Required | PAR |
 | Scott Stevens, OD | BCBS FL Medicare PPO | No Ref/No Auth Required | PAR |
 | Shannon Bednarz, PA | BCBS FL Medicare PPO | No Ref/No Auth Required | PAR |
-| Tanuj Banker, MD (RETINA) | BCBS FL Medicare PPO | No Ref/No Auth Required | PAR |
 | Todd Lang, OD | BCBS FL Medicare PPO | No Ref/No Auth Required | PAR |
 | Trisha Werner, OD | BCBS FL Medicare PPO | No Ref/No Auth Required | PAR |
 | William Soscia, MD | BCBS FL Medicare PPO | No Ref/No Auth Required | PAR |

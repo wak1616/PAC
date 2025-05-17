@@ -4,7 +4,7 @@
 
 <details open><summary>Provider Details for Aetna Medicare- Dual Choice/Dual Preferred Plan/Dual Select Choice/Dual Select Signature (PPO D-SNP)</summary>
 
-## US Eye Insurance Guide(Center for Sight-Naples)
+## Center for Sight-Naples
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|

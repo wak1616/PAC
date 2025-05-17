@@ -4,7 +4,7 @@
 
 <details open><summary>Provider Details for Aetna Commercial-Standard Plan- Aetna Affordable Health Choices® limited benefits insurance plan (SRC only)</summary>
 
-## US Eye Insurance Guide(Retina Health Center)
+## Retina Health Center
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|

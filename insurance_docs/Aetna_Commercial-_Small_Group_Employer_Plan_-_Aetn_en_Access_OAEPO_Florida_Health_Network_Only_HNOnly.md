@@ -4,7 +4,7 @@
 
 <details open><summary>Provider Details for Aetna Commercial- Small Group Employer Plan - Aetna Florida Elect Choice Open Access (OAEPO)/Florida Health Network Only (HNOnly)</summary>
 
-## US Eye Insurance Guide(Retina Health Center)
+## Retina Health Center
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|

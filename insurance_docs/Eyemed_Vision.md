@@ -4,7 +4,7 @@
 
 <details open><summary>Provider Details for Eyemed Vision</summary>
 
-## US Eye Insurance Guide(Center for Sight)
+## Center for Sight
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
@@ -12,49 +12,48 @@
 | Brittany Coyle, OD | Eyemed Vision | No Ref/No Auth Required | PAR |
 | Callista Wlaschin, OD | Eyemed Vision | No Ref/No Auth Required | PAR |
 | Charles Putrino, OD | Eyemed Vision | No Ref/No Auth Required | PAR |
-| Daniel Hadland, OD | Eyemed Vision | No Ref/No Auth Required | PAR |
+| Daniel Hadland, OD | Eyemed Vision | No Ref/No Auth Required | Non-PAR |
 | David Mertzlufft, OD | Eyemed Vision | No Ref/No Auth Required | PAR |
-| David Shoemaker, MD | Eyemed Vision | No Ref/No Auth Required | Non-PAR |
-| Elizabeth Davis, MD                      Start Date 05/30/25 | Eyemed Vision | No Ref/No Auth Required | Non-PAR |
+| David Shoemaker, MD | Eyemed Vision | No Ref/No Auth Required | PAR |
+| Elizabeth Davis, MD                      Start Date 05/30/25 | Eyemed Vision | No Ref/No Auth Required | PAR |
 | Erin Hardie, OD | Eyemed Vision | No Ref/No Auth Required | PAR |
-| George Hurwitz, OD | Eyemed Vision | No Ref/No Auth Required | Non-PAR |
-| Hunter Vittone, OD | Eyemed Vision | No Ref/No Auth Required | PAR |
-| James Lenhart, OD | Eyemed Vision | No Ref/No Auth Required | PAR |
-| Joaquin De Rojas, MD | Eyemed Vision | No Ref/No Auth Required | PAR |
-| John Fezza, MD (Oculoplastics) | Eyemed Vision | No Ref/No Auth Required | Non-PAR |
-| Joseph Sowka, OD | Eyemed Vision | No Ref/No Auth Required | PAR |
+| George Hurwitz, OD | Eyemed Vision | No Ref/No Auth Required | PAR |
+| Hunter Vittone, OD | Eyemed Vision | No Ref/No Auth Required | Non-PAR |
+| James Lenhart, OD | Eyemed Vision | No Ref/No Auth Required | Non-PAR |
+| Joaquin De Rojas, MD | Eyemed Vision | No Ref/No Auth Required | Non-PAR |
+| John Fezza, MD (Oculoplastics) | Eyemed Vision | No Ref/No Auth Required | PAR |
+| Joseph Sowka, OD | Eyemed Vision | No Ref/No Auth Required | Non-PAR |
 | Joshua Kim, MD | Eyemed Vision | No Ref/No Auth Required | Non-PAR |
-| Joshua Newman, MD | Eyemed Vision | No Ref/No Auth Required | Non-PAR |
+| Joshua Newman, MD | Eyemed Vision | No Ref/No Auth Required | PAR |
 | Kalie Kosek, PA | Eyemed Vision | No Ref/No Auth Required | Non-PAR |
 | Kyle Schaub, OD | Eyemed Vision | No Ref/No Auth Required | PAR |
-| Len Brown, OD | Eyemed Vision | No Ref/No Auth Required | PAR |
+| Len Brown, OD | Eyemed Vision | No Ref/No Auth Required | Non-PAR |
 | Lori Long, OD | Eyemed Vision | No Ref/No Auth Required | PAR |
 | Lori Vollmer, OD | Eyemed Vision | No Ref/No Auth Required | PAR |
-| Mary Mcvey, OD | Eyemed Vision | No Ref/No Auth Required | PAR |
-| Maureen Traina, PA | Eyemed Vision | No Ref/No Auth Required | Non-PAR |
+| Mary Mcvey, OD | Eyemed Vision | No Ref/No Auth Required | Non-PAR |
+| Maureen Traina, PA | Eyemed Vision | No Ref/No Auth Required | PAR |
 | Melissa Hammond, OD | Eyemed Vision | No Ref/No Auth Required | PAR |
 | Michael Maloney, OD | Eyemed Vision | No Ref/No Auth Required | PAR |
-| Page Logan, OD | Eyemed Vision | No Ref/No Auth Required | PAR |
+| Page Logan, OD | Eyemed Vision | No Ref/No Auth Required | Non-PAR |
 | Patrick Nelson, OD | Eyemed Vision | No Ref/No Auth Required | PAR |
-| Priya Mathews, MD | Eyemed Vision | No Ref/No Auth Required | Non-PAR |
+| Priya Mathews, MD | Eyemed Vision | No Ref/No Auth Required | PAR |
 | Rachael Randolph, OD | Eyemed Vision | No Ref/No Auth Required | PAR |
 | Scott Stevens, OD | Eyemed Vision | No Ref/No Auth Required | PAR |
-| Shannon Bednarz, PA | Eyemed Vision | No Ref/No Auth Required | Non-PAR |
-| Tanuj Banker, MD (RETINA) | Eyemed Vision | No Ref/No Auth Required | PAR |
+| Shannon Bednarz, PA | Eyemed Vision | No Ref/No Auth Required | PAR |
 | Todd Lang, OD | Eyemed Vision | No Ref/No Auth Required | Non-PAR |
 | Trisha Werner, OD | Eyemed Vision | No Ref/No Auth Required | PAR |
 | William Soscia, MD | Eyemed Vision | No Ref/No Auth Required | Non-PAR |
 
-## US Eye Insurance Guide(Center for Sight-Naples)
+## Center for Sight-Naples
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
-| George Brinnig-Jastrzebski, MD | EyeMed Vision | N/A | Non-PAR |
-| Hunter Vittone, OD | EyeMed Vision | N/A | PAR |
-| Jon Berlie, MD | EyeMed Vision | N/A | Non-PAR |
-| Julie Carter, MD | EyeMed Vision | N/A | PAR |
+| George Brinnig-Jastrzebski, MD | EyeMed Vision | nan | Non-PAR |
+| Hunter Vittone, OD | EyeMed Vision | nan | PAR |
+| Jon Berlie, MD | EyeMed Vision | nan | Non-PAR |
+| Julie Carter, MD | EyeMed Vision | nan | PAR |
 
-## US Eye Insurance Guide(Lake Eye )
+## Lake Eye 
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
@@ -67,7 +66,7 @@
 | Scott Wehrly, MD | Eyemed Vision | No Ref/No Auth Required | Non-PAR |
 | Vinay Gutti, MD | Eyemed Vision | No Ref/No Auth Required | Non-PAR |
 
-## US Eye Insurance Guide(SW FL Eye)
+## SW FL Eye
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|

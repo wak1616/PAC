@@ -4,7 +4,7 @@
 
 <details open><summary>Provider Details for United Healthcare Choice Plan Network- The Oxford Plan (Freedom With Choice Plus)</summary>
 
-## US Eye Insurance Guide(Retina Health Center)
+## Retina Health Center
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|

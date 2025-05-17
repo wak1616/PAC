@@ -4,7 +4,7 @@
 
 <details open><summary>Provider Details for United Healthcare Choice Plan Network- The Oxford Plan</summary>
 
-## US Eye Insurance Guide(Center for Sight)
+## Center for Sight
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
@@ -15,12 +15,12 @@
 | Daniel Hadland, OD | UHC Oxford PPO | No Ref/No Auth Required | PAR |
 | David Mertzlufft, OD | UHC Oxford PPO | No Ref/No Auth Required | PAR |
 | David Shoemaker, MD | UHC Oxford PPO | No Ref/No Auth Required | PAR |
-| Elizabeth Davis, MD                      Start Date 05/30/25 | UHC Oxford PPO | No Ref/No Auth Required | Non-PAR |
+| Elizabeth Davis, MD                      Start Date 05/30/25 | UHC Oxford PPO | No Ref/No Auth Required | PAR |
 | Erin Hardie, OD | UHC Oxford PPO | No Ref/No Auth Required | PAR |
 | George Hurwitz, OD | UHC Oxford PPO | No Ref/No Auth Required | PAR |
 | Hunter Vittone, OD | UHC Oxford PPO | No Ref/No Auth Required | PAR |
 | James Lenhart, OD | UHC Oxford PPO | No Ref/No Auth Required | PAR |
-| Joaquin De Rojas, MD | UHC Oxford PPO | No Ref/No Auth Required | PAR |
+| Joaquin De Rojas, MD | UHC Oxford PPO | No Ref/No Auth Required | Non-PAR |
 | John Fezza, MD (Oculoplastics) | UHC Oxford PPO | No Ref/No Auth Required | PAR |
 | Joseph Sowka, OD | UHC Oxford PPO | No Ref/No Auth Required | PAR |
 | Joshua Kim, MD | UHC Oxford PPO | No Ref/No Auth Required | PAR |
@@ -40,12 +40,11 @@
 | Rachael Randolph, OD | UHC Oxford PPO | No Ref/No Auth Required | PAR |
 | Scott Stevens, OD | UHC Oxford PPO | No Ref/No Auth Required | PAR |
 | Shannon Bednarz, PA | UHC Oxford PPO | No Ref/No Auth Required | PAR |
-| Tanuj Banker, MD (RETINA) | UHC Oxford PPO | No Ref/No Auth Required | PAR |
 | Todd Lang, OD | UHC Oxford PPO | No Ref/No Auth Required | PAR |
 | Trisha Werner, OD | UHC Oxford PPO | No Ref/No Auth Required | PAR |
 | William Soscia, MD | UHC Oxford PPO | No Ref/No Auth Required | PAR |
 
-## US Eye Insurance Guide(Center for Sight-Naples)
+## Center for Sight-Naples
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
@@ -54,7 +53,7 @@
 | Jon Berlie, MD | UHC Oxford PPO | No Ref/No Auth Required | PAR |
 | Julie Carter, MD | UHC Oxford PPO | No Ref/No Auth Required | PAR |
 
-## US Eye Insurance Guide(Lake Eye )
+## Lake Eye 
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|

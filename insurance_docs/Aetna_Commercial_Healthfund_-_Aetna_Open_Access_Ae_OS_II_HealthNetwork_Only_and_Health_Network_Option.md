@@ -4,7 +4,7 @@
 
 <details open><summary>Provider Details for Aetna Commercial Healthfund - Aetna Open Access Aetna Select℠/Elect Choice® EPO /Managed Choice POS/Open Choice PPO/Choice POS & POS II/HealthNetwork Only and Health Network Option</summary>
 
-## US Eye Insurance Guide(Retina Health Center)
+## Retina Health Center
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|

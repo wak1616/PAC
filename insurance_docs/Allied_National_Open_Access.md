@@ -4,7 +4,7 @@
 
 <details open><summary>Provider Details for Allied National Open Access</summary>
 
-## US Eye Insurance Guide(Center for Sight)
+## Center for Sight
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
@@ -40,12 +40,11 @@
 | Rachael Randolph, OD | Allied National Open Access | No Ref/No Auth Required | PAR |
 | Scott Stevens, OD | Allied National Open Access | No Ref/No Auth Required | PAR |
 | Shannon Bednarz, PA | Allied National Open Access | No Ref/No Auth Required | PAR |
-| Tanuj Banker, MD (RETINA) | Allied National Open Access | No Ref/No Auth Required | PAR |
 | Todd Lang, OD | Allied National Open Access | No Ref/No Auth Required | PAR |
 | Trisha Werner, OD | Allied National Open Access | No Ref/No Auth Required | PAR |
 | William Soscia, MD | Allied National Open Access | No Ref/No Auth Required | PAR |
 
-## US Eye Insurance Guide(Center for Sight-Naples)
+## Center for Sight-Naples
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
