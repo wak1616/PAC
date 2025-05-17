@@ -54,6 +54,19 @@
 | Jon Berlie, MD | Railroad Medicare | No Ref/No Auth Required | PAR |
 | Julie Carter, MD | Railroad Medicare | No Ref/No Auth Required | PAR |
 
+## Lake Eye 
+
+| Provider | NextGen Name | Referral/Auth | Status |
+|----------|-------------|--------------|--------|
+| Alexandria Rawls, OD | Railroad Medicare | No Ref/No Auth Required | PAR |
+| Christine Bui, OD | Railroad Medicare | No Ref/No Auth Required | PAR |
+| Diba Ossareh, OD | Railroad Medicare | No Ref/No Auth Required | PAR |
+| Jose Vazques-Diaz, MD | Railroad Medicare | No Ref/No Auth Required | PAR |
+| Mari Holderby, OD | Railroad Medicare | No Ref/No Auth Required | PAR |
+| Scot Holman, MD | Railroad Medicare | No Ref/No Auth Required | PAR |
+| Scott Wehrly, MD | Railroad Medicare | No Ref/No Auth Required | PAR |
+| Vinay Gutti, MD | Railroad Medicare | No Ref/No Auth Required | PAR |
+
 ## Retina Health Center
 
 | Provider | NextGen Name | Referral/Auth | Status |

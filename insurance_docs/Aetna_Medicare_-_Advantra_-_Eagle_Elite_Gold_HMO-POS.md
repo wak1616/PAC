@@ -49,11 +49,11 @@
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
-| Albert Smolyar, MD | Aetna Medicare HMO POS | nan | PAR |
-| Brian Marhue, OD | Aetna Medicare HMO POS | nan | PAR |
-| Hunter Vittone, OD | Aetna Medicare HMO POS | nan | PAR |
-| Penny Orr, OD | Aetna Medicare HMO POS | nan | PAR |
-| Sarah Johnson, OD | Aetna Medicare HMO POS | nan | PAR |
+| Albert Smolyar, MD | Aetna Medicare HMO POS |  | PAR |
+| Brian Marhue, OD | Aetna Medicare HMO POS |  | PAR |
+| Hunter Vittone, OD | Aetna Medicare HMO POS |  | PAR |
+| Penny Orr, OD | Aetna Medicare HMO POS |  | PAR |
+| Sarah Johnson, OD | Aetna Medicare HMO POS |  | PAR |
 
 </details>
 

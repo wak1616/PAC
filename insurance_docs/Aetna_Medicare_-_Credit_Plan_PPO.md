@@ -54,6 +54,19 @@
 | Jon Berlie, MD | Aetna Medicare PPO | No Ref/No Auth Required | PAR |
 | Julie Carter, MD | Aetna Medicare PPO | No Ref/No Auth Required | PAR |
 
+## Lake Eye 
+
+| Provider | NextGen Name | Referral/Auth | Status |
+|----------|-------------|--------------|--------|
+| Alexandria Rawls, OD | Aetna Medicare PPO | No Ref/No Auth Required | PAR |
+| Christine Bui, OD | Aetna Medicare PPO | No Ref/No Auth Required | PAR |
+| Diba Ossareh, OD | Aetna Medicare PPO | No Ref/No Auth Required | PAR |
+| Jose Vazques-Diaz, MD | Aetna Medicare PPO | No Ref/No Auth Required | PAR |
+| Mari Holderby, OD | Aetna Medicare PPO | No Ref/No Auth Required | PAR |
+| Scot Holman, MD | Aetna Medicare PPO | No Ref/No Auth Required | PAR |
+| Scott Wehrly, MD | Aetna Medicare PPO | No Ref/No Auth Required | PAR |
+| Vinay Gutti, MD | Aetna Medicare PPO | No Ref/No Auth Required | PAR |
+
 ## SW FL Eye
 
 | Provider | NextGen Name | Referral/Auth | Status |

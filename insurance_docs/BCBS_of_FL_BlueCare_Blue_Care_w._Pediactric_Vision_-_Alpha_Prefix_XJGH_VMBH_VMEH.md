@@ -54,6 +54,19 @@
 | Jon Berlie, MD | BCBS FL Commercial HMO | Authorization Required | PAR |
 | Julie Carter, MD | BCBS FL Commercial HMO | Authorization Required | PAR |
 
+## Lake Eye 
+
+| Provider | NextGen Name | Referral/Auth | Status |
+|----------|-------------|--------------|--------|
+| Alexandria Rawls, OD | BCBS FL myBlue HMO REFERRAL REQ | Referral Required | PAR |
+| Christine Bui, OD | BCBS FL myBlue HMO REFERRAL REQ | Referral Required | PAR |
+| Diba Ossareh, OD | BCBS FL myBlue HMO REFERRAL REQ | Referral Required | PAR |
+| Jose Vazques-Diaz, MD | BCBS FL myBlue HMO REFERRAL REQ | Referral Required | PAR |
+| Mari Holderby, OD | BCBS FL myBlue HMO REFERRAL REQ | Referral Required | PAR |
+| Scot Holman, MD | BCBS FL myBlue HMO REFERRAL REQ | Referral Required | PAR |
+| Scott Wehrly, MD | BCBS FL myBlue HMO REFERRAL REQ | Referral Required | PAR |
+| Vinay Gutti, MD | BCBS FL myBlue HMO REFERRAL REQ | Referral Required | PAR |
+
 ## SW FL Eye
 
 | Provider | NextGen Name | Referral/Auth | Status |

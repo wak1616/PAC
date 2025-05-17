@@ -54,6 +54,19 @@
 | Jon Berlie, MD | Medicare Part B | No Ref/No Auth Required | PAR |
 | Julie Carter, MD | Medicare Part B | No Ref/No Auth Required | PAR |
 
+## Lake Eye 
+
+| Provider | NextGen Name | Referral/Auth | Status |
+|----------|-------------|--------------|--------|
+| Alexandria Rawls, OD | Medicare Part B | No Ref/No Auth Required | PAR |
+| Christine Bui, OD | Medicare Part B | No Ref/No Auth Required | PAR |
+| Diba Ossareh, OD | Medicare Part B | No Ref/No Auth Required | OK to Schedule - HOLD CLAIMS UNTIL PAR |
+| Jose Vazques-Diaz, MD | Medicare Part B | No Ref/No Auth Required | PAR |
+| Mari Holderby, OD | Medicare Part B | No Ref/No Auth Required | PAR |
+| Scot Holman, MD | Medicare Part B | No Ref/No Auth Required | PAR |
+| Scott Wehrly, MD | Medicare Part B | No Ref/No Auth Required | PAR |
+| Vinay Gutti, MD | Medicare Part B | No Ref/No Auth Required | PAR |
+
 ## Retina Health Center
 
 | Provider | NextGen Name | Referral/Auth | Status |

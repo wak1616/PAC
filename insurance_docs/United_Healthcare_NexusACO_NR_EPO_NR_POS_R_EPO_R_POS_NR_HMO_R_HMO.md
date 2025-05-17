@@ -13,6 +13,19 @@
 | Jon Berlie, MD | UHC Comm HMO REFERRAL REQ | Referral Required | PAR |
 | Julie Carter, MD | UHC Comm HMO REFERRAL REQ | Referral Required | PAR |
 
+## Lake Eye 
+
+| Provider | NextGen Name | Referral/Auth | Status |
+|----------|-------------|--------------|--------|
+| Alexandria Rawls, OD | UHC Comm HMO Referral REQ | Referral Required | PAR |
+| Christine Bui, OD | UHC Comm HMO Referral REQ | Referral Required | PAR |
+| Diba Ossareh, OD | UHC Comm HMO Referral REQ | Referral Required | PAR |
+| Jose Vazques-Diaz, MD | UHC Comm HMO Referral REQ | Referral Required | PAR |
+| Mari Holderby, OD | UHC Comm HMO Referral REQ | Referral Required | PAR |
+| Scot Holman, MD | UHC Comm HMO Referral REQ | Referral Required | PAR |
+| Scott Wehrly, MD | UHC Comm HMO Referral REQ | Referral Required | PAR |
+| Vinay Gutti, MD | UHC Comm HMO Referral REQ | Referral Required | PAR |
+
 ## Retina Health Center
 
 | Provider | NextGen Name | Referral/Auth | Status |

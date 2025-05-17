@@ -54,6 +54,19 @@
 | Jon Berlie, MD | Champva | No Ref/No Auth Required | PAR |
 | Julie Carter, MD | Champva | No Ref/No Auth Required | PAR |
 
+## Lake Eye 
+
+| Provider | NextGen Name | Referral/Auth | Status |
+|----------|-------------|--------------|--------|
+| Alexandria Rawls, OD | ChampVA | No Ref/No Auth Required | Non-PAR |
+| Christine Bui, OD | ChampVA | No Ref/No Auth Required | PAR |
+| Diba Ossareh, OD | ChampVA | No Ref/No Auth Required | Non-PAR |
+| Jose Vazques-Diaz, MD | ChampVA | No Ref/No Auth Required | PAR |
+| Mari Holderby, OD | ChampVA | No Ref/No Auth Required | PAR |
+| Scot Holman, MD | ChampVA | No Ref/No Auth Required | PAR |
+| Scott Wehrly, MD | ChampVA | No Ref/No Auth Required | PAR |
+| Vinay Gutti, MD | ChampVA | No Ref/No Auth Required | PAR |
+
 ## SW FL Eye
 
 | Provider | NextGen Name | Referral/Auth | Status |

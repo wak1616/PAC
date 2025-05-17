@@ -54,5 +54,18 @@
 | Jon Berlie, MD | UHC Oxford PPO | No Ref/No Auth Required | PAR |
 | Julie Carter, MD | UHC Oxford PPO | No Ref/No Auth Required | PAR |
 
+## Lake Eye 
+
+| Provider | NextGen Name | Referral/Auth | Status |
+|----------|-------------|--------------|--------|
+| Alexandria Rawls, OD | UHC Oxford PPO | No Ref/No Auth Required | PAR |
+| Christine Bui, OD | UHC Oxford PPO | No Ref/No Auth Required | PAR |
+| Diba Ossareh, OD | UHC Oxford PPO | No Ref/No Auth Required | PAR |
+| Jose Vazques-Diaz, MD | UHC Oxford PPO | No Ref/No Auth Required | PAR |
+| Mari Holderby, OD | UHC Oxford PPO | No Ref/No Auth Required | PAR |
+| Scot Holman, MD | UHC Oxford PPO | No Ref/No Auth Required | PAR |
+| Scott Wehrly, MD | UHC Oxford PPO | No Ref/No Auth Required | PAR |
+| Vinay Gutti, MD | UHC Oxford PPO | No Ref/No Auth Required | PAR |
+
 </details>
 

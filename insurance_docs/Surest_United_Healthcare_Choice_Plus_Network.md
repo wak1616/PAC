@@ -54,6 +54,19 @@
 | Jon Berlie, MD | Surest Commercial - UHC | No Ref/No Auth Required | PAR |
 | Julie Carter, MD | Surest Commercial - UHC | No Ref/No Auth Required | PAR |
 
+## Lake Eye 
+
+| Provider | NextGen Name | Referral/Auth | Status |
+|----------|-------------|--------------|--------|
+| Alexandria Rawls, OD | Surest Commercial - UHC | No Ref/No Auth Required | PAR |
+| Christine Bui, OD | Surest Commercial - UHC | No Ref/No Auth Required | PAR |
+| Diba Ossareh, OD | Surest Commercial - UHC | No Ref/No Auth Required | Non-PAR |
+| Jose Vazques-Diaz, MD | Surest Commercial - UHC | No Ref/No Auth Required | PAR |
+| Mari Holderby, OD | Surest Commercial - UHC | No Ref/No Auth Required | PAR |
+| Scot Holman, MD | Surest Commercial - UHC | No Ref/No Auth Required | PAR |
+| Scott Wehrly, MD | Surest Commercial - UHC | No Ref/No Auth Required | PAR |
+| Vinay Gutti, MD | Surest Commercial - UHC | No Ref/No Auth Required | PAR |
+
 ## Retina Health Center
 
 | Provider | NextGen Name | Referral/Auth | Status |

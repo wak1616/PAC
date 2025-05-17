@@ -54,6 +54,19 @@
 | Jon Berlie, MD | NALC Health Benefit Plan- Cigna | No Ref/No Auth Required | PAR |
 | Julie Carter, MD | NALC Health Benefit Plan- Cigna | No Ref/No Auth Required | PAR |
 
+## Lake Eye 
+
+| Provider | NextGen Name | Referral/Auth | Status |
+|----------|-------------|--------------|--------|
+| Alexandria Rawls, OD | NALC Health Benefit Plan- Cigna | No Ref/No Auth Required | PAR |
+| Christine Bui, OD | NALC Health Benefit Plan- Cigna | No Ref/No Auth Required | PAR |
+| Diba Ossareh, OD | NALC Health Benefit Plan- Cigna | No Ref/No Auth Required | Non-PAR |
+| Jose Vazques-Diaz, MD | NALC Health Benefit Plan- Cigna | No Ref/No Auth Required | PAR |
+| Mari Holderby, OD | NALC Health Benefit Plan- Cigna | No Ref/No Auth Required | PAR |
+| Scot Holman, MD | NALC Health Benefit Plan- Cigna | No Ref/No Auth Required | PAR |
+| Scott Wehrly, MD | NALC Health Benefit Plan- Cigna | No Ref/No Auth Required | PAR |
+| Vinay Gutti, MD | NALC Health Benefit Plan- Cigna | No Ref/No Auth Required | PAR |
+
 ## Retina Health Center
 
 | Provider | NextGen Name | Referral/Auth | Status |

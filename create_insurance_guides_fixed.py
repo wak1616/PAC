@@ -3,6 +3,17 @@ import os
 from collections import defaultdict
 import re
 from datetime import datetime
+import logging
+
+# Set up logging
+logging.basicConfig(
+    level=logging.INFO,
+    format='%(asctime)s - %(levelname)s - %(message)s',
+    handlers=[
+        logging.FileHandler("insurance_guide_generation.log"),
+        logging.StreamHandler()
+    ]
+)
 
 def sanitize_filename(name):
     """Sanitize a string to be used as a filename."""
@@ -50,9 +61,6 @@ def generate_status_legend():
 """
     return legend_content
 
-# Note: generate_markdown_for_excel_sheet_data is not directly used as provider/insurance page structures differ.
-# Specific markdown generation logic is kept within their respective generation functions.
-
 def find_latest_excel_file(directory):
     """
     Finds the Excel file in the given directory that matches the pattern
@@ -74,9 +82,48 @@ def find_latest_excel_file(directory):
                     latest_date = file_date
                     latest_file = os.path.join(directory, filename)
             except ValueError:
-                print(f"Warning: Found file '{filename}' with a date part ('{date_str}') that could not be parsed. Skipping.")
+                logging.warning(f"Found file '{filename}' with a date part ('{date_str}') that could not be parsed. Skipping.")
                 continue
     return latest_file, latest_date
+
+def detect_column_structure(df, sheet_name):
+    """Detect column structure and identify doctor columns correctly"""
+    headers = [str(col).strip('\ufeff').strip() for col in df.columns.tolist()]
+    logging.info(f"Headers in sheet '{sheet_name}': {headers}")
+    
+    # Base columns should always be present 
+    insurance_col_idx = 0
+    nextgen_col_idx = 1
+    referral_col_idx = 2
+    
+    # Special column check
+    doctor_column_start_idx = 3  # Default 
+    special_col_text = "Is this plan only accepted at specific practice locations?".lower().strip()
+    
+    # Look for the location column in any position
+    for i, header in enumerate(headers):
+        if i >= 3 and header.lower().strip() == special_col_text:
+            doctor_column_start_idx = i + 1
+            logging.info(f"Found location-specific column at position {i}, doctors start at {doctor_column_start_idx}")
+            break
+    
+    # List all doctor column names
+    doctor_column_names = headers[doctor_column_start_idx:]
+    
+    # Filter out columns that are not actual doctor names (might be empty or contain misleading text)
+    doctor_column_names = [name for name in doctor_column_names 
+                         if name and name.strip() and name.lower() != 'nan' and special_col_text not in name.lower()]
+    
+    logging.info(f"Detected {len(doctor_column_names)} doctor columns in sheet '{sheet_name}': {doctor_column_names}")
+    
+    return {
+        'insurance_col_idx': insurance_col_idx,
+        'nextgen_col_idx': nextgen_col_idx,
+        'referral_col_idx': referral_col_idx,
+        'doctor_column_start_idx': doctor_column_start_idx,
+        'doctor_column_names': doctor_column_names,
+        'headers': headers
+    }
 
 def main():
     output_dir = "insurance_docs"
@@ -87,15 +134,15 @@ def main():
         script_dir = os.path.dirname(os.path.abspath(__file__))
     except NameError: # __file__ is not defined (e.g. interactive interpreter)
         script_dir = os.path.abspath(".")
-        print(f"Warning: __file__ not defined, using current working directory for Excel file search: {script_dir}")
+        logging.warning(f"__file__ not defined, using current working directory for Excel file search: {script_dir}")
 
     excel_file_path, excel_file_date_obj = find_latest_excel_file(script_dir)
 
     if not excel_file_path:
-        print(f"Error: No Excel file matching the pattern 'US Eye Insurance Guide_MMDDYY.xlsx' found in {script_dir}. Exiting.")
+        logging.error(f"No Excel file matching the pattern 'US Eye Insurance Guide_MMDDYY.xlsx' found in {script_dir}. Exiting.")
         return 
     else:
-        print(f"Using Excel file: {excel_file_path}")
+        logging.info(f"Using Excel file: {excel_file_path}")
     
     last_updated_text = ""
     if excel_file_date_obj:
@@ -105,17 +152,13 @@ def main():
     else:
         last_updated_text = "*Last Updated: Date not available*\n"
     
+    # Normalize sheet names to handle trailing/leading spaces
     sheets_to_process = [
         "Center for Sight",
         "Center for Sight-Naples",
-        "Lake Eye ",
+        "Lake Eye",  # Will match with any variations of leading/trailing spaces
         "Retina Health Center",
         "SW FL Eye"
-    ]
-    sheets_with_extra_location_column_behavior = [
-        "Center for Sight",
-        "SW FL Eye",
-        "Center for Sight-Naples"
     ]
 
     # Data structures for both guides
@@ -125,99 +168,123 @@ def main():
     try:
         xls = pd.ExcelFile(excel_file_path)
     except FileNotFoundError:
-        print(f"Error: Excel file '{excel_file_path}' not found. Please ensure it's in the root directory.")
+        logging.error(f"Excel file '{excel_file_path}' not found. Please ensure it's in the root directory.")
         return
     except Exception as e:
-        print(f"Error reading Excel file '{excel_file_path}': {e}")
+        logging.error(f"Error reading Excel file '{excel_file_path}': {e}")
         return
 
     # Debugging: Print all sheet names to verify
-    print(f"Excel sheets available: {xls.sheet_names}")
+    logging.info(f"Excel sheets available: {xls.sheet_names}")
     
-    print("Processing Excel sheets for data extraction...")
+    logging.info("Processing Excel sheets for data extraction...")
+    
+    # Track if any problems were encountered
+    data_issues = []
+    
     for sheet_name in xls.sheet_names:
         # Normalize sheet name for comparison
         normalized_sheet_name = sheet_name.strip()
         
         if normalized_sheet_name not in sheets_to_process:
-            continue
+            # Check if any sheet name matches after stripping spaces
+            sheet_match = False
+            for process_sheet in sheets_to_process:
+                if normalized_sheet_name.strip() == process_sheet.strip():
+                    sheet_match = True
+                    break
+            
+            if not sheet_match:
+                continue
 
         location = sheet_name
-        print(f"  Processing sheet: {location}")
+        logging.info(f"Processing sheet: {location}")
         
         try:
             df = xls.parse(sheet_name)
         except Exception as e:
-            print(f"    Error parsing sheet '{sheet_name}': {e}")
+            logging.error(f"Error parsing sheet '{sheet_name}': {e}")
+            data_issues.append(f"Could not parse sheet '{sheet_name}': {e}")
             continue
 
         if df.empty:
-            print(f"    Sheet '{sheet_name}' is empty. Skipping.")
+            logging.warning(f"Sheet '{sheet_name}' is empty. Skipping.")
+            continue
+        
+        # Detect column structure for this sheet
+        column_info = detect_column_structure(df, sheet_name)
+        
+        if not column_info['doctor_column_names']:
+            logging.warning(f"No doctor columns detected in sheet '{sheet_name}'. Skipping.")
+            data_issues.append(f"No doctor columns found in sheet '{sheet_name}'")
             continue
             
-        headers = [str(header).strip('\ufeff').strip() for header in df.columns.tolist()]
-        print(f"    Sheet headers: {headers}")
-
-        doctor_column_start_index = 3 
-        # Use normalized sheet name for comparison
-        if normalized_sheet_name in [name.strip() for name in sheets_with_extra_location_column_behavior]:
-            if len(headers) > 3 and headers[3].strip().lower() == "Is this plan only accepted at specific practice locations?".lower().strip():
-                doctor_column_start_index = 4
-                print(f"    Using special column start index {doctor_column_start_index} for sheet '{sheet_name}'")
+        doctor_column_start_idx = column_info['doctor_column_start_idx']
+        doctor_column_names = column_info['doctor_column_names']
+        headers = column_info['headers']
         
-        if len(headers) <= doctor_column_start_index:
-            print(f"    Warning: No doctor columns found in sheet '{sheet_name}' based on start index {doctor_column_start_index}.")
-            continue
-
-        doctor_column_names = headers[doctor_column_start_index:]
-        # Explicitly filter out the problematic header if it's treated as a doctor name
-        problematic_header_text = "is this plan only accepted at specific practice locations?".lower()
-        doctor_column_names = [name for name in doctor_column_names if name.strip().lower() != problematic_header_text]
-        
-        print(f"    Found {len(doctor_column_names)} doctor column names: {doctor_column_names}")
-        
+        # Process rows
+        processed_rows = 0
         for _, row_series in df.iterrows():
-            row_list = [str(cell) for cell in row_series.tolist()]
+            row_list = row_series.tolist()
             
-            if not row_list or not any(cell.strip() for cell in row_list if pd.notna(cell)):
+            if not row_list or not any(cell.strip() for cell in map(str, row_list) if pd.notna(cell)):
                 continue
             
+            processed_rows += 1
+            
             # Normalize plan name whitespace
-            raw_plan_name = str(row_list[0]).strip() if len(row_list) > 0 and pd.notna(row_list[0]) else ""
+            raw_plan_name = str(row_list[column_info['insurance_col_idx']]).strip() if len(row_list) > column_info['insurance_col_idx'] and pd.notna(row_list[column_info['insurance_col_idx']]) else ""
             plan_name = re.sub(r'\s+', ' ', raw_plan_name).strip()
             
-            nextgen_name = str(row_list[1]).strip() if len(row_list) > 1 and pd.notna(row_list[1]) else ""
-            referral_auth = str(row_list[2]).strip() if len(row_list) > 2 and pd.notna(row_list[2]) else ""
+            if not plan_name or plan_name.lower() == 'nan':
+                continue  # Skip rows without a valid insurance plan name
             
-            # Populate doctor_data
-            for i, doctor_name_header in enumerate(doctor_column_names):
-                doctor_name = str(doctor_name_header).strip()
-                status_index = i + doctor_column_start_index
-                status = str(row_list[status_index]).strip() if len(row_list) > status_index and pd.notna(row_list[status_index]) else ""
+            nextgen_name = str(row_list[column_info['nextgen_col_idx']]).strip() if len(row_list) > column_info['nextgen_col_idx'] and pd.notna(row_list[column_info['nextgen_col_idx']]) else ""
+            referral_auth = str(row_list[column_info['referral_col_idx']]).strip() if len(row_list) > column_info['referral_col_idx'] and pd.notna(row_list[column_info['referral_col_idx']]) else ""
+            
+            # Populate doctor_data and insurance_data
+            for i, doctor_name in enumerate(doctor_column_names):
+                doctor_idx = doctor_column_start_idx + i
+                status = ""
                 
-                if doctor_name and doctor_name.lower() != 'nan':
-                    doctor_data[doctor_name][location].append((plan_name, nextgen_name, referral_auth, status))
-                    # Debug for Joaquin De Rojas
-                    if "joaquin" in doctor_name.lower() and plan_name:
-                        print(f"      Adding for {doctor_name}: {plan_name} - Status: {status}")
-
-            # Populate insurance_data
-            if plan_name and plan_name.lower() != 'nan':
-                for i, doctor_name_header in enumerate(doctor_column_names):
-                    doctor_name = str(doctor_name_header).strip()
-                    status_index = i + doctor_column_start_index
-                    status = str(row_list[status_index]).strip() if len(row_list) > status_index and pd.notna(row_list[status_index]) else ""
+                # Verify doctor index is valid
+                if doctor_idx < len(row_list):
+                    raw_status = row_list[doctor_idx]
+                    if pd.notna(raw_status):
+                        status = str(raw_status).strip()
+                else:
+                    # If index is out of range, log the issue
+                    logging.warning(f"Doctor index {doctor_idx} out of range for row with plan '{plan_name}' in sheet '{sheet_name}'")
+                    data_issues.append(f"Data alignment issue in sheet '{sheet_name}', plan '{plan_name}': doctor column index out of range")
+                    continue
+                
+                if doctor_name and status:
+                    # Debug for problematic rows
+                    if "Joaquin De Rojas" in doctor_name and "Aetna" in plan_name:
+                        logging.info(f"DEBUG: Adding for {doctor_name} with plan {plan_name} - Status: {status}")
                     
-                    if doctor_name and doctor_name.lower() != 'nan' and status and status.lower() != 'nan':
-                        insurance_data[plan_name][location][doctor_name].append({
-                            'nextgen_name': nextgen_name,
-                            'referral_auth': referral_auth,
-                            'status': status
-                        })
-    print("Data extraction complete.")
+                    # Add to doctor data
+                    doctor_data[doctor_name][location].append((plan_name, nextgen_name, referral_auth, status))
+                    
+                    # Add to insurance data 
+                    insurance_data[plan_name][location][doctor_name].append({
+                        'nextgen_name': nextgen_name,
+                        'referral_auth': referral_auth,
+                        'status': status
+                    })
+        
+        logging.info(f"Processed {processed_rows} rows in sheet '{sheet_name}'")
+    
+    if data_issues:
+        logging.warning("The following data issues were detected during processing:")
+        for issue in data_issues:
+            logging.warning(f"  - {issue}")
+    
+    logging.info("Data extraction complete.")
 
     # --- Generate "Insurance Guide By Provider" ---
-    print("Generating Insurance Guide By Provider...")
+    logging.info("Generating Insurance Guide By Provider...")
     summary_doctor_entries = []
     doctor_files_links = []
 
@@ -230,7 +297,6 @@ def main():
         doctor_filepath = os.path.join(output_dir, doctor_filename)
         
         doctor_files_links.append(f"* [{doctor_name_key} ({locations_str})]({output_dir}/{doctor_filename})")
-        # Keep this line for future reference, but don't use it in SUMMARY.md
         summary_doctor_entries.append(f"  * [{doctor_name_key}]({output_dir}/{doctor_filename})")
 
         with open(doctor_filepath, "w", encoding='utf-8') as doc_outfile:
@@ -259,10 +325,10 @@ def main():
         outfile.write("\n\n")
         # Add status legend to provider guide
         outfile.write(generate_status_legend())
-    print(f"Generated {provider_guide_md_path}")
+    logging.info(f"Generated {provider_guide_md_path}")
 
     # --- Generate "Insurance Guide By Insurance" ---
-    print("Generating Insurance Guide By Insurance...")
+    logging.info("Generating Insurance Guide By Insurance...")
     summary_insurance_entries = []
     insurance_files_links = []
     processed_insurances = set()
@@ -277,7 +343,6 @@ def main():
         insurance_filepath = os.path.join(output_dir, insurance_filename)
         
         insurance_files_links.append(f"* [{insurance_name_key}]({output_dir}/{insurance_filename})")
-        # Keep this line for future reference, but don't use it in SUMMARY.md
         summary_insurance_entries.append(f"  * [{insurance_name_key}]({output_dir}/{insurance_filename})")
 
         with open(insurance_filepath, "w", encoding='utf-8') as ins_outfile:
@@ -309,10 +374,10 @@ def main():
         outfile.write("\n\n")
         # Add status legend to insurance guide
         outfile.write(generate_status_legend())
-    print(f"Generated {insurance_guide_md_path}")
+    logging.info(f"Generated {insurance_guide_md_path}")
 
     # --- Generate FAQ content once and append to both files ---
-    print("Generating FAQ section...")
+    logging.info("Generating FAQ section...")
     faq_markdown_content = ""
     faq_sheet_name = "Insurance Directory Overview"
     if faq_sheet_name in xls.sheet_names:
@@ -336,23 +401,23 @@ def main():
                 if not faq_df_for_markdown.empty:
                     faq_markdown_content = "## Insurance FAQ\n\n" + generate_markdown_for_faq(faq_df_for_markdown) + "\n"
                 else:
-                    print(f"Warning: FAQ data in sheet '{faq_sheet_name}' (range A19:B36) appears to be empty after processing.")
+                    logging.warning(f"FAQ data in sheet '{faq_sheet_name}' (range A19:B36) appears to be empty after processing.")
             else:
-                print(f"Warning: Sheet '{faq_sheet_name}' does not have enough rows/columns for the specified FAQ range (A19:B36). FAQ section will be skipped.")
+                logging.warning(f"Sheet '{faq_sheet_name}' does not have enough rows/columns for the specified FAQ range (A19:B36). FAQ section will be skipped.")
         except Exception as e:
-            print(f"Error processing FAQ from sheet '{faq_sheet_name}' using specific range: {e}")
+            logging.error(f"Error processing FAQ from sheet '{faq_sheet_name}' using specific range: {e}")
     else:
-        print(f"Warning: FAQ sheet '{faq_sheet_name}' not found in Excel file. FAQ section will be skipped.")
+        logging.warning(f"FAQ sheet '{faq_sheet_name}' not found in Excel file. FAQ section will be skipped.")
 
     if faq_markdown_content:
         with open(provider_guide_md_path, "a", encoding='utf-8') as outfile:
             outfile.write(faq_markdown_content)
         with open(insurance_guide_md_path, "a", encoding='utf-8') as outfile:
             outfile.write(faq_markdown_content)
-        print("FAQ section appended to both main guide files.")
+        logging.info("FAQ section appended to both main guide files.")
     
     # --- Update SUMMARY.md ---
-    print("Updating SUMMARY.md...")
+    logging.info("Updating SUMMARY.md...")
     summary_path = "SUMMARY.md"
     provider_guide_title_text = "* [Insurance Guide By Provider](<Insurance_Guide_By_Provider.md>)"
     insurance_guide_title_text = "* [Insurance Guide By Insurance](<Insurance_Guide_By_Insurance.md>)"
@@ -385,19 +450,17 @@ def main():
 
     # Only add main guide titles to SUMMARY.md, not individual entries
     new_summary_lines.append(provider_guide_title_text + "\n")
-    # Don't add individual doctor entries
-    # for entry in summary_doctor_entries:
-    #     new_summary_lines.append(entry + "\n")
-    
     new_summary_lines.append(insurance_guide_title_text + "\n")
-    # Don't add individual insurance entries
-    # for entry in summary_insurance_entries:
-    #     new_summary_lines.append(entry + "\n")
 
     with open(summary_path, "w", encoding="utf-8") as f_summary:
         f_summary.writelines(new_summary_lines)
-    print(f"SUMMARY.md updated.")
-    print("All guides generated successfully.")
+    logging.info(f"SUMMARY.md updated.")
+    
+    # Report any data issues at the end
+    if data_issues:
+        logging.warning("Some data issues were encountered during processing. Please review the log file for details.")
+    else:
+        logging.info("All guides generated successfully with no detected data issues.")
 
 if __name__ == "__main__":
     main() 

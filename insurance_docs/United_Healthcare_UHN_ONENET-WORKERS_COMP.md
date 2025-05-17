@@ -8,8 +8,8 @@
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
-| Alexander Eaton, MD | Self Pay Non-Par with Ins | nan | Non-PAR |
-| Veronica Kon Graversen, MD | Self Pay Non-Par with Ins | nan | Non-PAR |
+| Alexander Eaton, MD | Self Pay Non-Par with Ins |  | Non-PAR |
+| Veronica Kon Graversen, MD | Self Pay Non-Par with Ins |  | Non-PAR |
 
 </details>
 

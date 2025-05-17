@@ -54,6 +54,19 @@
 | Jon Berlie, MD | UHC Medicare PPO | No Ref/No Auth Required | PAR |
 | Julie Carter, MD | UHC Medicare PPO | No Ref/No Auth Required | PAR |
 
+## Lake Eye 
+
+| Provider | NextGen Name | Referral/Auth | Status |
+|----------|-------------|--------------|--------|
+| Alexandria Rawls, OD | UHC Medicare PPO | No Ref/No Auth Required | PAR |
+| Christine Bui, OD | UHC Medicare PPO | No Ref/No Auth Required | PAR |
+| Diba Ossareh, OD | UHC Medicare PPO | No Ref/No Auth Required | PAR |
+| Jose Vazques-Diaz, MD | UHC Medicare PPO | No Ref/No Auth Required | PAR |
+| Mari Holderby, OD | UHC Medicare PPO | No Ref/No Auth Required | PAR |
+| Scot Holman, MD | UHC Medicare PPO | No Ref/No Auth Required | PAR |
+| Scott Wehrly, MD | UHC Medicare PPO | No Ref/No Auth Required | PAR |
+| Vinay Gutti, MD | UHC Medicare PPO | No Ref/No Auth Required | PAR |
+
 ## Retina Health Center
 
 | Provider | NextGen Name | Referral/Auth | Status |

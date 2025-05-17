@@ -54,6 +54,19 @@
 | Jon Berlie, MD | Allegiance Benefit Plan Management-Cigna | No Ref/No Auth Required | PAR |
 | Julie Carter, MD | Allegiance Benefit Plan Management-Cigna | No Ref/No Auth Required | PAR |
 
+## Lake Eye 
+
+| Provider | NextGen Name | Referral/Auth | Status |
+|----------|-------------|--------------|--------|
+| Alexandria Rawls, OD | Allegiance Benefit Plan Management-Cigna | No Ref/No Auth Required | PAR |
+| Christine Bui, OD | Allegiance Benefit Plan Management-Cigna | No Ref/No Auth Required | PAR |
+| Diba Ossareh, OD | Allegiance Benefit Plan Management-Cigna | No Ref/No Auth Required | Non-PAR |
+| Jose Vazques-Diaz, MD | Allegiance Benefit Plan Management-Cigna | No Ref/No Auth Required | PAR |
+| Mari Holderby, OD | Allegiance Benefit Plan Management-Cigna | No Ref/No Auth Required | PAR |
+| Scot Holman, MD | Allegiance Benefit Plan Management-Cigna | No Ref/No Auth Required | PAR |
+| Scott Wehrly, MD | Allegiance Benefit Plan Management-Cigna | No Ref/No Auth Required | PAR |
+| Vinay Gutti, MD | Allegiance Benefit Plan Management-Cigna | No Ref/No Auth Required | PAR |
+
 ## Retina Health Center
 
 | Provider | NextGen Name | Referral/Auth | Status |

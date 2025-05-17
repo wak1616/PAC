@@ -8,42 +8,42 @@
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
-| Bradley Middaugh, OD | BCBS FL Commercial HMO-POS | nan | PAR |
-| Brittany Coyle, OD | BCBS FL Commercial HMO-POS | nan | PAR |
-| Callista Wlaschin, OD | BCBS FL Commercial HMO-POS | nan | PAR |
-| Charles Putrino, OD | BCBS FL Commercial HMO-POS | nan | PAR |
-| Daniel Hadland, OD | BCBS FL Commercial HMO-POS | nan | PAR |
-| David Mertzlufft, OD | BCBS FL Commercial HMO-POS | nan | PAR |
-| David Shoemaker, MD | BCBS FL Commercial HMO-POS | nan | PAR |
-| Elizabeth Davis, MD                      Start Date 05/30/25 | BCBS FL Commercial HMO-POS | nan | PAR |
-| Erin Hardie, OD | BCBS FL Commercial HMO-POS | nan | PAR |
-| George Hurwitz, OD | BCBS FL Commercial HMO-POS | nan | PAR |
-| Hunter Vittone, OD | BCBS FL Commercial HMO-POS | nan | PAR |
-| James Lenhart, OD | BCBS FL Commercial HMO-POS | nan | PAR |
-| Joaquin De Rojas, MD | BCBS FL Commercial HMO-POS | nan | PAR |
-| John Fezza, MD (Oculoplastics) | BCBS FL Commercial HMO-POS | nan | PAR |
-| Joseph Sowka, OD | BCBS FL Commercial HMO-POS | nan | PAR |
-| Joshua Kim, MD | BCBS FL Commercial HMO-POS | nan | PAR |
-| Joshua Newman, MD | BCBS FL Commercial HMO-POS | nan | PAR |
-| Kalie Kosek, PA | BCBS FL Commercial HMO-POS | nan | PAR |
-| Kyle Schaub, OD | BCBS FL Commercial HMO-POS | nan | PAR |
-| Len Brown, OD | BCBS FL Commercial HMO-POS | nan | PAR |
-| Lori Long, OD | BCBS FL Commercial HMO-POS | nan | PAR |
-| Lori Vollmer, OD | BCBS FL Commercial HMO-POS | nan | PAR |
-| Mary Mcvey, OD | BCBS FL Commercial HMO-POS | nan | PAR |
-| Maureen Traina, PA | BCBS FL Commercial HMO-POS | nan | PAR |
-| Melissa Hammond, OD | BCBS FL Commercial HMO-POS | nan | PAR |
-| Michael Maloney, OD | BCBS FL Commercial HMO-POS | nan | PAR |
-| Page Logan, OD | BCBS FL Commercial HMO-POS | nan | PAR |
-| Patrick Nelson, OD | BCBS FL Commercial HMO-POS | nan | PAR |
-| Priya Mathews, MD | BCBS FL Commercial HMO-POS | nan | PAR |
-| Rachael Randolph, OD | BCBS FL Commercial HMO-POS | nan | PAR |
-| Scott Stevens, OD | BCBS FL Commercial HMO-POS | nan | PAR |
-| Shannon Bednarz, PA | BCBS FL Commercial HMO-POS | nan | PAR |
-| Tanuj Banker, MD (RETINA) | BCBS FL Commercial HMO-POS | nan | PAR |
-| Todd Lang, OD | BCBS FL Commercial HMO-POS | nan | PAR |
-| Trisha Werner, OD | BCBS FL Commercial HMO-POS | nan | PAR |
-| William Soscia, MD | BCBS FL Commercial HMO-POS | nan | PAR |
+| Bradley Middaugh, OD | BCBS FL Commercial HMO-POS |  | PAR |
+| Brittany Coyle, OD | BCBS FL Commercial HMO-POS |  | PAR |
+| Callista Wlaschin, OD | BCBS FL Commercial HMO-POS |  | PAR |
+| Charles Putrino, OD | BCBS FL Commercial HMO-POS |  | PAR |
+| Daniel Hadland, OD | BCBS FL Commercial HMO-POS |  | PAR |
+| David Mertzlufft, OD | BCBS FL Commercial HMO-POS |  | PAR |
+| David Shoemaker, MD | BCBS FL Commercial HMO-POS |  | PAR |
+| Elizabeth Davis, MD                      Start Date 05/30/25 | BCBS FL Commercial HMO-POS |  | PAR |
+| Erin Hardie, OD | BCBS FL Commercial HMO-POS |  | PAR |
+| George Hurwitz, OD | BCBS FL Commercial HMO-POS |  | PAR |
+| Hunter Vittone, OD | BCBS FL Commercial HMO-POS |  | PAR |
+| James Lenhart, OD | BCBS FL Commercial HMO-POS |  | PAR |
+| Joaquin De Rojas, MD | BCBS FL Commercial HMO-POS |  | PAR |
+| John Fezza, MD (Oculoplastics) | BCBS FL Commercial HMO-POS |  | PAR |
+| Joseph Sowka, OD | BCBS FL Commercial HMO-POS |  | PAR |
+| Joshua Kim, MD | BCBS FL Commercial HMO-POS |  | PAR |
+| Joshua Newman, MD | BCBS FL Commercial HMO-POS |  | PAR |
+| Kalie Kosek, PA | BCBS FL Commercial HMO-POS |  | PAR |
+| Kyle Schaub, OD | BCBS FL Commercial HMO-POS |  | PAR |
+| Len Brown, OD | BCBS FL Commercial HMO-POS |  | PAR |
+| Lori Long, OD | BCBS FL Commercial HMO-POS |  | PAR |
+| Lori Vollmer, OD | BCBS FL Commercial HMO-POS |  | PAR |
+| Mary Mcvey, OD | BCBS FL Commercial HMO-POS |  | PAR |
+| Maureen Traina, PA | BCBS FL Commercial HMO-POS |  | PAR |
+| Melissa Hammond, OD | BCBS FL Commercial HMO-POS |  | PAR |
+| Michael Maloney, OD | BCBS FL Commercial HMO-POS |  | PAR |
+| Page Logan, OD | BCBS FL Commercial HMO-POS |  | PAR |
+| Patrick Nelson, OD | BCBS FL Commercial HMO-POS |  | PAR |
+| Priya Mathews, MD | BCBS FL Commercial HMO-POS |  | PAR |
+| Rachael Randolph, OD | BCBS FL Commercial HMO-POS |  | PAR |
+| Scott Stevens, OD | BCBS FL Commercial HMO-POS |  | PAR |
+| Shannon Bednarz, PA | BCBS FL Commercial HMO-POS |  | PAR |
+| Tanuj Banker, MD (RETINA) | BCBS FL Commercial HMO-POS |  | PAR |
+| Todd Lang, OD | BCBS FL Commercial HMO-POS |  | PAR |
+| Trisha Werner, OD | BCBS FL Commercial HMO-POS |  | PAR |
+| William Soscia, MD | BCBS FL Commercial HMO-POS |  | PAR |
 
 </details>
 

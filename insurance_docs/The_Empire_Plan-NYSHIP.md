@@ -13,6 +13,19 @@
 | Jon Berlie, MD | UHC Empire PPO | No Ref/No Auth Required | PAR |
 | Julie Carter, MD | UHC Empire PPO | No Ref/No Auth Required | PAR |
 
+## Lake Eye 
+
+| Provider | NextGen Name | Referral/Auth | Status |
+|----------|-------------|--------------|--------|
+| Alexandria Rawls, OD | UHC Empire PPO | No Ref/No Auth Required | Non-PAR |
+| Christine Bui, OD | UHC Empire PPO | No Ref/No Auth Required | Non-PAR |
+| Diba Ossareh, OD | UHC Empire PPO | No Ref/No Auth Required | Non-PAR |
+| Jose Vazques-Diaz, MD | UHC Empire PPO | No Ref/No Auth Required | Non-PAR |
+| Mari Holderby, OD | UHC Empire PPO | No Ref/No Auth Required | Non-PAR |
+| Scot Holman, MD | UHC Empire PPO | No Ref/No Auth Required | Non-PAR |
+| Scott Wehrly, MD | UHC Empire PPO | No Ref/No Auth Required | Non-PAR |
+| Vinay Gutti, MD | UHC Empire PPO | No Ref/No Auth Required | Non-PAR |
+
 ## Retina Health Center
 
 | Provider | NextGen Name | Referral/Auth | Status |

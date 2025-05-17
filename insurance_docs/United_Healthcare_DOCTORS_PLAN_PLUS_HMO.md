@@ -13,6 +13,19 @@
 | Jon Berlie, MD | UHC Commercial HMO | No Ref/No Auth Required | PAR |
 | Julie Carter, MD | UHC Commercial HMO | No Ref/No Auth Required | PAR |
 
+## Lake Eye 
+
+| Provider | NextGen Name | Referral/Auth | Status |
+|----------|-------------|--------------|--------|
+| Alexandria Rawls, OD | UHC Commercial PPO | No Ref/No Auth Required | PAR |
+| Christine Bui, OD | UHC Commercial PPO | No Ref/No Auth Required | PAR |
+| Diba Ossareh, OD | UHC Commercial PPO | No Ref/No Auth Required | PAR |
+| Jose Vazques-Diaz, MD | UHC Commercial PPO | No Ref/No Auth Required | PAR |
+| Mari Holderby, OD | UHC Commercial PPO | No Ref/No Auth Required | PAR |
+| Scot Holman, MD | UHC Commercial PPO | No Ref/No Auth Required | PAR |
+| Scott Wehrly, MD | UHC Commercial PPO | No Ref/No Auth Required | PAR |
+| Vinay Gutti, MD | UHC Commercial PPO | No Ref/No Auth Required | PAR |
+
 ## Retina Health Center
 
 | Provider | NextGen Name | Referral/Auth | Status |

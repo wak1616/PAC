@@ -54,6 +54,19 @@
 | Jon Berlie, MD | Anthem BCBS Vision | No Ref/No Auth Required | Non-PAR |
 | Julie Carter, MD | Anthem BCBS Vision | No Ref/No Auth Required | PAR |
 
+## Lake Eye 
+
+| Provider | NextGen Name | Referral/Auth | Status |
+|----------|-------------|--------------|--------|
+| Alexandria Rawls, OD | Anthem BCBS Vision | No Ref/No Auth Required | PAR |
+| Christine Bui, OD | Anthem BCBS Vision | No Ref/No Auth Required | PAR |
+| Diba Ossareh, OD | Anthem BCBS Vision | No Ref/No Auth Required | PAR |
+| Jose Vazques-Diaz, MD | Anthem BCBS Vision | No Ref/No Auth Required | Non-PAR |
+| Mari Holderby, OD | Anthem BCBS Vision | No Ref/No Auth Required | PAR |
+| Scot Holman, MD | Anthem BCBS Vision | No Ref/No Auth Required | PAR |
+| Scott Wehrly, MD | Anthem BCBS Vision | No Ref/No Auth Required | Non-PAR |
+| Vinay Gutti, MD | Anthem BCBS Vision | No Ref/No Auth Required | Non-PAR |
+
 ## SW FL Eye
 
 | Provider | NextGen Name | Referral/Auth | Status |

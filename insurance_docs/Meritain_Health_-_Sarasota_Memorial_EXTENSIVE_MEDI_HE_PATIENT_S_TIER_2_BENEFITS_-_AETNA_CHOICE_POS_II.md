@@ -54,6 +54,19 @@
 | Jon Berlie, MD | Meritain Health SMH Extd  Pln | Authorization MAY be Required | PAR |
 | Julie Carter, MD | Meritain Health SMH Extd  Pln | Authorization MAY be Required | PAR |
 
+## Lake Eye 
+
+| Provider | NextGen Name | Referral/Auth | Status |
+|----------|-------------|--------------|--------|
+| Alexandria Rawls, OD | Meritain Health SMH Extd  Pln | Authorization MAY be Required | PAR |
+| Christine Bui, OD | Meritain Health SMH Extd  Pln | Authorization MAY be Required | PAR |
+| Diba Ossareh, OD | Meritain Health SMH Extd  Pln | Authorization MAY be Required | Non-PAR |
+| Jose Vazques-Diaz, MD | Meritain Health SMH Extd  Pln | Authorization MAY be Required | PAR |
+| Mari Holderby, OD | Meritain Health SMH Extd  Pln | Authorization MAY be Required | PAR |
+| Scot Holman, MD | Meritain Health SMH Extd  Pln | Authorization MAY be Required | PAR |
+| Scott Wehrly, MD | Meritain Health SMH Extd  Pln | Authorization MAY be Required | PAR |
+| Vinay Gutti, MD | Meritain Health SMH Extd  Pln | Authorization MAY be Required | PAR |
+
 ## Retina Health Center
 
 | Provider | NextGen Name | Referral/Auth | Status |

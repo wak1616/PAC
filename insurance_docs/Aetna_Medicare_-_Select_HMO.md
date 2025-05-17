@@ -54,6 +54,19 @@
 | Jon Berlie, MD | Aetna Medicare HMO REFERRAL REQ | Referral Required | PAR |
 | Julie Carter, MD | Aetna Medicare HMO REFERRAL REQ | Referral Required | PAR |
 
+## Lake Eye 
+
+| Provider | NextGen Name | Referral/Auth | Status |
+|----------|-------------|--------------|--------|
+| Alexandria Rawls, OD | Aetna Medicare HMO REFERRAL REQ | Referral Required | Non-PAR |
+| Christine Bui, OD | Aetna Medicare HMO REFERRAL REQ | Referral Required | Non-PAR |
+| Diba Ossareh, OD | Aetna Medicare HMO REFERRAL REQ | Referral Required | Non-PAR |
+| Jose Vazques-Diaz, MD | Aetna Medicare HMO REFERRAL REQ | Referral Required | PAR |
+| Mari Holderby, OD | Aetna Medicare HMO REFERRAL REQ | Referral Required | Non-PAR |
+| Scot Holman, MD | Aetna Medicare HMO REFERRAL REQ | Referral Required | PAR |
+| Scott Wehrly, MD | Aetna Medicare HMO REFERRAL REQ | Referral Required | PAR |
+| Vinay Gutti, MD | Aetna Medicare HMO REFERRAL REQ | Referral Required | Non-PAR |
+
 ## SW FL Eye
 
 | Provider | NextGen Name | Referral/Auth | Status |

@@ -3,21 +3,13 @@
 <head>
     
     <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
-    
-        <script>
-            L_NO_TOUCH = false;
-            L_DISABLE_3D = false;
-        </script>
-    
-    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
-    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
     <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
     <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
-    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css"/>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
@@ -25,7 +17,7 @@
             <meta name="viewport" content="width=device-width,
                 initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
             <style>
-                #map_fe4c8c2352aa7a3e285e62d344e6c71d {
+                #map_1eb76b068858a27e60a0fb934be3624a {
                     position: relative;
                     width: 100.0%;
                     height: 100.0%;
@@ -34,9 +26,243 @@
                 }
                 .leaflet-container { font-size: 1rem; }
             </style>
+
+            <style>html, body {
+                width: 100%;
+                height: 100%;
+                margin: 0;
+                padding: 0;
+            }
+            </style>
+
+            <style>#map {
+                position:absolute;
+                top:0;
+                bottom:0;
+                right:0;
+                left:0;
+                }
+            </style>
+
+            <script>
+                L_NO_TOUCH = false;
+                L_DISABLE_3D = false;
+            </script>
+
         
 </head>
 <body>
+    
+    
+    <div id="zipControl" style="position: fixed; top: 10px; right: 10px; z-index:1000; background-color:white; padding:10px; border:1px solid grey; border-radius:5px; box-shadow: 0 0 10px rgba(0,0,0,0.2);">
+        <label for="zipCodeInput" style="font-weight:bold;">Enter Patient's ZIP Code: </label>
+        <input type="text" id="zipCodeInput" placeholder="e.g., 34201" style="padding: 5px; border: 1px solid #ccc; border-radius: 3px;">
+        <p id="zipErrorMessage" style="color:red; font-size:0.9em; margin-top:5px;"></p>
+    </div>
+    
+    
+    <script>
+        var zipCodeMarker = null; // To keep track of the ZIP code marker on the map
+        var leafletMapInstance = null; // To store the reference to the Leaflet map object
+        var distancePolyline = null; // To keep track of the distance line on the map
+
+        function getLeafletMap() {
+            if (leafletMapInstance) return leafletMapInstance;
+            // Try to find the map instance Folium creates (often global like map_xxxx)
+            for (const key in window) {
+                if (window[key] instanceof L.Map && document.getElementById(window[key]._container.id)) {
+                    leafletMapInstance = window[key];
+                    return leafletMapInstance;
+                }
+            }
+            // Fallback if the global variable isn't found directly or is obfuscated
+            const mapDiv = document.querySelector('.folium-map'); // Common class for Folium map container
+            if (mapDiv && mapDiv._leaflet_map) { // _leaflet_map is an internal Leaflet property
+                leafletMapInstance = mapDiv._leaflet_map;
+                return leafletMapInstance;
+            }
+            console.warn("Leaflet map object not found. ZIP marker functionality may be limited.");
+            return null;
+        }
+
+        function updateZipMarker(lat, lon) {
+            const map = getLeafletMap();
+            if (!map) return;
+
+            if (zipCodeMarker) {
+                map.removeLayer(zipCodeMarker);
+                zipCodeMarker = null;
+            }
+
+            if (lat !== undefined && lon !== undefined) {
+                try {
+                    var personIcon;
+                    if (L.AwesomeMarkers && L.AwesomeMarkers.icon) { // Folium usually includes AwesomeMarkers
+                         personIcon = L.AwesomeMarkers.icon({
+                            icon: 'user',
+                            prefix: 'fa', // Font Awesome
+                            markerColor: 'cadetblue',
+                            iconColor: 'white'
+                        });
+                    } else { // Fallback basic icon if AwesomeMarkers isn't available for some reason
+                        console.warn("L.AwesomeMarkers.icon not available, using default marker for ZIP location.");
+                        personIcon = L.icon({ // A very basic fallback
+                            iconUrl: 'data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA8AAAAWCAYAAAAfD8YZAAAAAXNSR0IArs4c6QAAADhlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAA6ABAAMAAAABAAEAAKACAAQAAAABAAAAD6ADAAQAAAABAAAAFgAAAAAVfLGDAAAAYklEQVQoFY3RQQrAIAwEwXNUIcGLXoILEkNFfCgmhDpTqZCGuLdwHzf5g+D5AvsJ8wQGM9UPmjVIwGgqjNptxN2M1xMVR3e1U7C0B3D9K4e8n0gKHNoJ08h61gAAAABJRU5ErkJggg==', // Tiny blue dot
+                            iconSize: [15, 22],
+                            iconAnchor: [7, 22],
+                        });
+                    }
+                    zipCodeMarker = L.marker([lat, lon], { icon: personIcon, zIndexOffset: 1000 }).addTo(map);
+                    map.setView([lat, lon], 10); // Pan and zoom to the ZIP code location
+                } catch (e) {
+                    console.error("Error creating ZIP marker:", e);
+                }
+            }
+        }
+
+        function clearDistanceLine() {
+            const map = getLeafletMap();
+            if (!map) return;
+            if (distancePolyline) {
+                map.removeLayer(distancePolyline);
+                distancePolyline = null;
+            }
+        }
+
+        async function getCoordsFromZip(zip) {
+            const zipErrorMsg = document.getElementById('zipErrorMessage');
+            if (zipErrorMsg) zipErrorMsg.textContent = "";
+
+            if (!zip || !/^\d{5}$/.test(zip)) {
+                if (zipErrorMsg && zip !== "") zipErrorMsg.textContent = "Please enter a valid 5-digit ZIP code.";
+                updateZipMarker(undefined, undefined); // Remove marker if ZIP is invalid
+                clearDistanceLine(); // Remove line if ZIP is invalid
+                return null;
+            }
+            try {
+                const response = await fetch(`https://nominatim.openstreetmap.org/search?postalcode=${zip}&country=US&format=json&limit=1`);
+                if (!response.ok) {
+                    console.error("Geocoding API request failed:", response.status);
+                    if (zipErrorMsg) zipErrorMsg.textContent = "Geocoding service error. Try again later.";
+                    updateZipMarker(undefined, undefined);
+                    clearDistanceLine();
+                    return null;
+                }
+                const data = await response.json();
+                if (data && data.length > 0) {
+                    const coords = { lat: parseFloat(data[0].lat), lon: parseFloat(data[0].lon) };
+                    updateZipMarker(coords.lat, coords.lon); // Add/update marker
+                    // Do not clear distance line here, wait for button click or new zip input
+                    return coords;
+                } else {
+                    if (zipErrorMsg) zipErrorMsg.textContent = "ZIP code not found.";
+                    updateZipMarker(undefined, undefined); // Remove marker if ZIP not found
+                    clearDistanceLine(); // Remove line if ZIP not found
+                    return null;
+                }
+            } catch (error) {
+                console.error("Error fetching ZIP coordinates:", error);
+                if (zipErrorMsg) zipErrorMsg.textContent = "Network error during geocoding.";
+                updateZipMarker(undefined, undefined);
+                clearDistanceLine();
+                return null;
+            }
+        }
+
+        function haversineDistance(coords1, coords2) { // coords = {lat, lon} in degrees
+            function toRad(x) { return x * Math.PI / 180; }
+            const R = 3958.8; // Earth radius in miles
+            const dLat = toRad(coords2.lat - coords1.lat);
+            const dLon = toRad(coords2.lon - coords1.lon);
+            const lat1Rad = toRad(coords1.lat);
+            const lat2Rad = toRad(coords2.lat);
+            const a = Math.sin(dLat / 2) * Math.sin(dLat / 2) +
+                      Math.cos(lat1Rad) * Math.cos(lat2Rad) *
+                      Math.sin(dLon / 2) * Math.sin(dLon / 2);
+            const c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1 - a));
+            return R * c;
+        }
+
+        async function calculateAndShowDistance(markerId, locLat, locLon) {
+            const zipInput = document.getElementById('zipCodeInput');
+            const zipCode = zipInput.value.trim();
+            const distanceDiv = document.getElementById(`distance-info-${markerId}`);
+            const button = document.getElementById(`calc-button-${markerId}`);
+
+            if (!distanceDiv || !button) {
+                console.error("Popup elements not found for markerId:", markerId);
+                return;
+            }
+
+            distanceDiv.innerHTML = "<em>Calculating...</em>";
+            button.disabled = true;
+            document.getElementById('zipErrorMessage').textContent = ""; // Clear global zip error
+            clearDistanceLine(); // Clear previous line before drawing a new one
+
+            const zipCoords = await getCoordsFromZip(zipCode);
+
+            if (zipCoords) {
+                const locCoords = { lat: locLat, lon: locLon };
+                const distance = haversineDistance(zipCoords, locCoords);
+                distanceDiv.innerHTML = `Distance from ${zipCode}: <strong>${distance.toFixed(2)} miles</strong>.`;
+                
+                // Draw the line
+                const map = getLeafletMap();
+                if (map) {
+                    const latlngs = [
+                        [locLat, locLon],       // Location coordinates
+                        [zipCoords.lat, zipCoords.lon] // ZIP code coordinates
+                    ];
+                    try {
+                         distancePolyline = L.polyline(latlngs, {color: '#ff7800', weight: 3, opacity: 0.7, dashArray: '5, 5'}).addTo(map);
+                    } catch (e) {
+                        console.error("Error drawing distance line:", e);
+                    }
+                }
+
+            } else {
+                // Error message is handled by getCoordsFromZip or if zipCoords is null
+                distanceDiv.innerHTML = `<span style='color:red;'>Could not calculate distance. Check ZIP code in the input box.</span>`;
+                // No line to draw if zipCoords are invalid
+            }
+            button.disabled = false;
+        }
+
+        document.addEventListener('DOMContentLoaded', (event) => {
+            // Initialize map instance early
+            getLeafletMap();
+
+            const zipInput = document.getElementById('zipCodeInput');
+            if (zipInput) {
+                zipInput.addEventListener('input', async () => {
+                    const zipCode = zipInput.value.trim();
+                    const zipErrorMsg = document.getElementById('zipErrorMessage');
+                    if (zipErrorMsg) zipErrorMsg.textContent = ""; // Clear previous error on new input
+
+                    // Reset distance displays in popups
+                    const allDistanceDivs = document.querySelectorAll('[id^="distance-info-"]');
+                    allDistanceDivs.forEach(div => {
+                        if (div.innerHTML.includes("miles") || div.innerHTML.includes("Calculating") || div.innerHTML.includes("Could not calculate")) {
+                             div.innerHTML = "<span style=\'color: #e09600;\'>ZIP changed. Click button to recalculate.</span>";
+                        }
+                    });
+                    const allCalcButtons = document.querySelectorAll('[id^="calc-button-"]');
+                    allCalcButtons.forEach(btn => btn.disabled = false);
+                    clearDistanceLine(); // Clear line when zip input changes
+
+                    if (/^\d{5}$/.test(zipCode)) {
+                        await getCoordsFromZip(zipCode); // This will geocode and attempt to place the marker
+                    } else {
+                        if (zipCode !== "") { // Only show error if not empty and invalid
+                           if (zipErrorMsg) zipErrorMsg.textContent = "Enter a valid 5-digit ZIP.";
+                        }
+                        updateZipMarker(undefined, undefined); // Remove marker if ZIP is invalid or cleared
+                        clearDistanceLine(); // Also clear line if zip becomes invalid
+                    }
+                });
+            }
+        });
+    </script>
     
     
     <div style="position: fixed; 
@@ -55,20 +281,23 @@
     </div>
     
     
-            <div class="folium-map" id="map_fe4c8c2352aa7a3e285e62d344e6c71d" ></div>
+            <div class="folium-map" id="map_1eb76b068858a27e60a0fb934be3624a" ></div>
         
 </body>
 <script>
     
     
-            var map_fe4c8c2352aa7a3e285e62d344e6c71d = L.map(
-                "map_fe4c8c2352aa7a3e285e62d344e6c71d",
+            var map_1eb76b068858a27e60a0fb934be3624a = L.map(
+                "map_1eb76b068858a27e60a0fb934be3624a",
                 {
                     center: [28.0, -81.5],
                     crs: L.CRS.EPSG3857,
-                    zoom: 7,
-                    zoomControl: true,
-                    preferCanvas: false,
+                    ...{
+  "zoom": 7,
+  "zoomControl": true,
+  "preferCanvas": false,
+}
+
                 }
             );
 
@@ -76,818 +305,1128 @@
 
         
     
-            var tile_layer_8719dc4e7db4b241fcc89f2d85bfd44c = L.tileLayer(
+            var tile_layer_5bcb44be0ec7604d3894b5a0dd3742f5 = L.tileLayer(
                 "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
-                {"attribution": "\u0026copy; \u003ca href=\"https://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors", "detectRetina": false, "maxNativeZoom": 19, "maxZoom": 19, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+                {
+  "minZoom": 0,
+  "maxZoom": 19,
+  "maxNativeZoom": 19,
+  "noWrap": false,
+  "attribution": "\u0026copy; \u003ca href=\"https://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors",
+  "subdomains": "abc",
+  "detectRetina": false,
+  "tms": false,
+  "opacity": 1,
+}
+
             );
         
     
-            tile_layer_8719dc4e7db4b241fcc89f2d85bfd44c.addTo(map_fe4c8c2352aa7a3e285e62d344e6c71d);
+            tile_layer_5bcb44be0ec7604d3894b5a0dd3742f5.addTo(map_1eb76b068858a27e60a0fb934be3624a);
         
     
-            var marker_2acb92990106014383c00c5d7037af0a = L.marker(
+            var marker_4e0295c6f1e4d89113f0c26d7f8acd2c = L.marker(
                 [27.3881, -82.4637],
-                {}
-            ).addTo(map_fe4c8c2352aa7a3e285e62d344e6c71d);
+                {
+}
+            ).addTo(map_1eb76b068858a27e60a0fb934be3624a);
         
     
-            var icon_0afe3227f643c59bf84c267c43cb5241 = L.AwesomeMarkers.icon(
-                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "red", "prefix": "glyphicon"}
+            var icon_ef5f2c44c088feb8ba85a0859a2de6ad = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
             );
-            marker_2acb92990106014383c00c5d7037af0a.setIcon(icon_0afe3227f643c59bf84c267c43cb5241);
         
     
-        var popup_914120206e6afbe686422a7f2d814d4c = L.popup({"maxWidth": 300});
+        var popup_012e762ab338589174eac637ee050f43 = L.popup({
+  "maxWidth": 350,
+});
 
         
             
-                var html_efca07d92650839c69e8f05913e1554d = $(`<div id="html_efca07d92650839c69e8f05913e1554d" style="width: 100.0%; height: 100.0%;"><b>Center For Sight-University Park</b><br>Group: CFS North<br>Address: 5409 University Parkway, University Park, FL 34201-2012</div>`)[0];
-                popup_914120206e6afbe686422a7f2d814d4c.setContent(html_efca07d92650839c69e8f05913e1554d);
+                var html_bff7ef25b0357be16844ceca6d0f0c70 = $(`<div id="html_bff7ef25b0357be16844ceca6d0f0c70" style="width: 100.0%; height: 100.0%;"> <b>Center For Sight-University Park</b><br> Group: CFS North<br> Address: 5409 University Parkway, University Park, FL 34201-2012<br> <div id="distance-info-marker-0" style="margin-top:5px; margin-bottom:5px;"></div> <button id="calc-button-marker-0" onclick="calculateAndShowDistance('marker-0', 27.3881, -82.4637)" style="margin-top:5px; padding: 3px 7px; font-size:0.9em; cursor:pointer; border:1px solid #007bff; background-color:#007bff; color:white; border-radius:3px;">Calculate distance from ZIP</button> </div>`)[0];
+                popup_012e762ab338589174eac637ee050f43.setContent(html_bff7ef25b0357be16844ceca6d0f0c70);
             
         
 
-        marker_2acb92990106014383c00c5d7037af0a.bindPopup(popup_914120206e6afbe686422a7f2d814d4c)
+        marker_4e0295c6f1e4d89113f0c26d7f8acd2c.bindPopup(popup_012e762ab338589174eac637ee050f43)
         ;
 
         
     
     
-            marker_2acb92990106014383c00c5d7037af0a.bindTooltip(
+            marker_4e0295c6f1e4d89113f0c26d7f8acd2c.bindTooltip(
                 `<div>
                      Center For Sight-University Park
                  </div>`,
-                {"sticky": true}
+                {
+  "sticky": true,
+}
             );
         
     
-            var marker_3abbe9fb801da6b231c15d700fa306e6 = L.marker(
+                marker_4e0295c6f1e4d89113f0c26d7f8acd2c.setIcon(icon_ef5f2c44c088feb8ba85a0859a2de6ad);
+            
+    
+            var marker_f92fc00f7bc2bd1fdf8d2daf6ff7d36c = L.marker(
                 [27.2324, -82.4969],
-                {}
-            ).addTo(map_fe4c8c2352aa7a3e285e62d344e6c71d);
+                {
+}
+            ).addTo(map_1eb76b068858a27e60a0fb934be3624a);
         
     
-            var icon_637ec2151ad11a7cbd00a155315b2af9 = L.AwesomeMarkers.icon(
-                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "red", "prefix": "glyphicon"}
+            var icon_b8009bf0aa4b7d531d80efe4938764a7 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
             );
-            marker_3abbe9fb801da6b231c15d700fa306e6.setIcon(icon_637ec2151ad11a7cbd00a155315b2af9);
         
     
-        var popup_747c5ef0e1c4ad2ca602b7ed432b2d3e = L.popup({"maxWidth": 300});
+        var popup_dab2ee8b85c9d947df43e921b63cb2da = L.popup({
+  "maxWidth": 350,
+});
 
         
             
-                var html_512a718b2d42be2da99776be011ea9d8 = $(`<div id="html_512a718b2d42be2da99776be011ea9d8" style="width: 100.0%; height: 100.0%;"><b>Center For Sight-Pelican Plaza</b><br>Group: CFS North<br>Address: 8224 South Tamiami Trail, Sarasota, FL 34238-2931</div>`)[0];
-                popup_747c5ef0e1c4ad2ca602b7ed432b2d3e.setContent(html_512a718b2d42be2da99776be011ea9d8);
+                var html_c39247ee74e532bc665fe258329a84b2 = $(`<div id="html_c39247ee74e532bc665fe258329a84b2" style="width: 100.0%; height: 100.0%;"> <b>Center For Sight-Pelican Plaza</b><br> Group: CFS North<br> Address: 8224 South Tamiami Trail, Sarasota, FL 34238-2931<br> <div id="distance-info-marker-1" style="margin-top:5px; margin-bottom:5px;"></div> <button id="calc-button-marker-1" onclick="calculateAndShowDistance('marker-1', 27.2324, -82.4969)" style="margin-top:5px; padding: 3px 7px; font-size:0.9em; cursor:pointer; border:1px solid #007bff; background-color:#007bff; color:white; border-radius:3px;">Calculate distance from ZIP</button> </div>`)[0];
+                popup_dab2ee8b85c9d947df43e921b63cb2da.setContent(html_c39247ee74e532bc665fe258329a84b2);
             
         
 
-        marker_3abbe9fb801da6b231c15d700fa306e6.bindPopup(popup_747c5ef0e1c4ad2ca602b7ed432b2d3e)
+        marker_f92fc00f7bc2bd1fdf8d2daf6ff7d36c.bindPopup(popup_dab2ee8b85c9d947df43e921b63cb2da)
         ;
 
         
     
     
-            marker_3abbe9fb801da6b231c15d700fa306e6.bindTooltip(
+            marker_f92fc00f7bc2bd1fdf8d2daf6ff7d36c.bindTooltip(
                 `<div>
                      Center For Sight-Pelican Plaza
                  </div>`,
-                {"sticky": true}
+                {
+  "sticky": true,
+}
             );
         
     
-            var marker_6daa2cad289e3f53fa46ac6c71651127 = L.marker(
+                marker_f92fc00f7bc2bd1fdf8d2daf6ff7d36c.setIcon(icon_b8009bf0aa4b7d531d80efe4938764a7);
+            
+    
+            var marker_a8747401e8bc625980d738e902604619 = L.marker(
                 [27.3109, -82.5298],
-                {}
-            ).addTo(map_fe4c8c2352aa7a3e285e62d344e6c71d);
+                {
+}
+            ).addTo(map_1eb76b068858a27e60a0fb934be3624a);
         
     
-            var icon_06eff428af87ff1bb75033fdb06a94a8 = L.AwesomeMarkers.icon(
-                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "red", "prefix": "glyphicon"}
+            var icon_edc5d2a29e420934d1295cd04197394b = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
             );
-            marker_6daa2cad289e3f53fa46ac6c71651127.setIcon(icon_06eff428af87ff1bb75033fdb06a94a8);
         
     
-        var popup_638a1b3066929a8afbc750fa43604bed = L.popup({"maxWidth": 300});
+        var popup_39ce5b2a1fdb8252a86970a218c6500c = L.popup({
+  "maxWidth": 350,
+});
 
         
             
-                var html_41f573dd6a4f64c5b66c233044f818f6 = $(`<div id="html_41f573dd6a4f64c5b66c233044f818f6" style="width: 100.0%; height: 100.0%;"><b>Center For Sight-US41 Sarasota</b><br>Group: CFS North<br>Address: 2601 S Tamiami Trail, Sarasota, FL 34239-4504</div>`)[0];
-                popup_638a1b3066929a8afbc750fa43604bed.setContent(html_41f573dd6a4f64c5b66c233044f818f6);
+                var html_7e43f1aeb7447cdbadfe421ebd145cea = $(`<div id="html_7e43f1aeb7447cdbadfe421ebd145cea" style="width: 100.0%; height: 100.0%;"> <b>Center For Sight-US41 Sarasota</b><br> Group: CFS North<br> Address: 2601 S Tamiami Trail, Sarasota, FL 34239-4504<br> <div id="distance-info-marker-2" style="margin-top:5px; margin-bottom:5px;"></div> <button id="calc-button-marker-2" onclick="calculateAndShowDistance('marker-2', 27.3109, -82.5298)" style="margin-top:5px; padding: 3px 7px; font-size:0.9em; cursor:pointer; border:1px solid #007bff; background-color:#007bff; color:white; border-radius:3px;">Calculate distance from ZIP</button> </div>`)[0];
+                popup_39ce5b2a1fdb8252a86970a218c6500c.setContent(html_7e43f1aeb7447cdbadfe421ebd145cea);
             
         
 
-        marker_6daa2cad289e3f53fa46ac6c71651127.bindPopup(popup_638a1b3066929a8afbc750fa43604bed)
+        marker_a8747401e8bc625980d738e902604619.bindPopup(popup_39ce5b2a1fdb8252a86970a218c6500c)
         ;
 
         
     
     
-            marker_6daa2cad289e3f53fa46ac6c71651127.bindTooltip(
+            marker_a8747401e8bc625980d738e902604619.bindTooltip(
                 `<div>
                      Center For Sight-US41 Sarasota
                  </div>`,
-                {"sticky": true}
+                {
+  "sticky": true,
+}
             );
         
     
-            var marker_5614929ac41ee834cff0797e0bead630 = L.marker(
+                marker_a8747401e8bc625980d738e902604619.setIcon(icon_edc5d2a29e420934d1295cd04197394b);
+            
+    
+            var marker_c627d2f6d734459f1434b8dd14f71e9e = L.marker(
                 [27.3027, -82.5335],
-                {}
-            ).addTo(map_fe4c8c2352aa7a3e285e62d344e6c71d);
+                {
+}
+            ).addTo(map_1eb76b068858a27e60a0fb934be3624a);
         
     
-            var icon_a9647c35cc0eea85c6cb56ba3bef5a2c = L.AwesomeMarkers.icon(
-                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "red", "prefix": "glyphicon"}
+            var icon_655e963f15b435e5e53ee1c89268aaa7 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
             );
-            marker_5614929ac41ee834cff0797e0bead630.setIcon(icon_a9647c35cc0eea85c6cb56ba3bef5a2c);
         
     
-        var popup_e903cc1391e51668de5a1e3eb7537ec9 = L.popup({"maxWidth": 300});
+        var popup_42e6ee341c8f6402d49691a350cbe39f = L.popup({
+  "maxWidth": 350,
+});
 
         
             
-                var html_6600698a4c582460af57d994e30b3c7d = $(`<div id="html_6600698a4c582460af57d994e30b3c7d" style="width: 100.0%; height: 100.0%;"><b>Center For Sight-Siesta Drive</b><br>Group: CFS North<br>Address: 1800 Siesta Drive, Sarasota, FL 34239-6009</div>`)[0];
-                popup_e903cc1391e51668de5a1e3eb7537ec9.setContent(html_6600698a4c582460af57d994e30b3c7d);
+                var html_3cb050e0a451dead29bae340bd071465 = $(`<div id="html_3cb050e0a451dead29bae340bd071465" style="width: 100.0%; height: 100.0%;"> <b>Center For Sight-Siesta Drive</b><br> Group: CFS North<br> Address: 1800 Siesta Drive, Sarasota, FL 34239-6009<br> <div id="distance-info-marker-3" style="margin-top:5px; margin-bottom:5px;"></div> <button id="calc-button-marker-3" onclick="calculateAndShowDistance('marker-3', 27.3027, -82.5335)" style="margin-top:5px; padding: 3px 7px; font-size:0.9em; cursor:pointer; border:1px solid #007bff; background-color:#007bff; color:white; border-radius:3px;">Calculate distance from ZIP</button> </div>`)[0];
+                popup_42e6ee341c8f6402d49691a350cbe39f.setContent(html_3cb050e0a451dead29bae340bd071465);
             
         
 
-        marker_5614929ac41ee834cff0797e0bead630.bindPopup(popup_e903cc1391e51668de5a1e3eb7537ec9)
+        marker_c627d2f6d734459f1434b8dd14f71e9e.bindPopup(popup_42e6ee341c8f6402d49691a350cbe39f)
         ;
 
         
     
     
-            marker_5614929ac41ee834cff0797e0bead630.bindTooltip(
+            marker_c627d2f6d734459f1434b8dd14f71e9e.bindTooltip(
                 `<div>
                      Center For Sight-Siesta Drive
                  </div>`,
-                {"sticky": true}
+                {
+  "sticky": true,
+}
             );
         
     
-            var marker_dc5c5da99c951a4c72962a8f7b40b5ed = L.marker(
+                marker_c627d2f6d734459f1434b8dd14f71e9e.setIcon(icon_655e963f15b435e5e53ee1c89268aaa7);
+            
+    
+            var marker_ba2f1412a7aea3ccda72ee560839cc5f = L.marker(
                 [27.0999, -82.4159],
-                {}
-            ).addTo(map_fe4c8c2352aa7a3e285e62d344e6c71d);
+                {
+}
+            ).addTo(map_1eb76b068858a27e60a0fb934be3624a);
         
     
-            var icon_e5171df69ce78b39027b0307de1ea355 = L.AwesomeMarkers.icon(
-                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            var icon_fbb16230359da0b98d58957b2040970a = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
             );
-            marker_dc5c5da99c951a4c72962a8f7b40b5ed.setIcon(icon_e5171df69ce78b39027b0307de1ea355);
         
     
-        var popup_ded2f93c13974932bdb46c81a5c3aa64 = L.popup({"maxWidth": 300});
+        var popup_134eb6bd63a56b446df9972f0aaddd41 = L.popup({
+  "maxWidth": 350,
+});
 
         
             
-                var html_fbbb817893b38b3d6019801b160d0b57 = $(`<div id="html_fbbb817893b38b3d6019801b160d0b57" style="width: 100.0%; height: 100.0%;"><b>Center For Sight-Venice</b><br>Group: CFS Mid<br>Address: 1360 East Venice Avenue, Venice, FL 34285-9066</div>`)[0];
-                popup_ded2f93c13974932bdb46c81a5c3aa64.setContent(html_fbbb817893b38b3d6019801b160d0b57);
+                var html_b531fbe4f4aab0badecdab6676f354e6 = $(`<div id="html_b531fbe4f4aab0badecdab6676f354e6" style="width: 100.0%; height: 100.0%;"> <b>Center For Sight-Venice</b><br> Group: CFS Mid<br> Address: 1360 East Venice Avenue, Venice, FL 34285-9066<br> <div id="distance-info-marker-4" style="margin-top:5px; margin-bottom:5px;"></div> <button id="calc-button-marker-4" onclick="calculateAndShowDistance('marker-4', 27.0999, -82.4159)" style="margin-top:5px; padding: 3px 7px; font-size:0.9em; cursor:pointer; border:1px solid #007bff; background-color:#007bff; color:white; border-radius:3px;">Calculate distance from ZIP</button> </div>`)[0];
+                popup_134eb6bd63a56b446df9972f0aaddd41.setContent(html_b531fbe4f4aab0badecdab6676f354e6);
             
         
 
-        marker_dc5c5da99c951a4c72962a8f7b40b5ed.bindPopup(popup_ded2f93c13974932bdb46c81a5c3aa64)
+        marker_ba2f1412a7aea3ccda72ee560839cc5f.bindPopup(popup_134eb6bd63a56b446df9972f0aaddd41)
         ;
 
         
     
     
-            marker_dc5c5da99c951a4c72962a8f7b40b5ed.bindTooltip(
+            marker_ba2f1412a7aea3ccda72ee560839cc5f.bindTooltip(
                 `<div>
                      Center For Sight-Venice
                  </div>`,
-                {"sticky": true}
+                {
+  "sticky": true,
+}
             );
         
     
-            var marker_1b96f8bc29be64505719957d0c77c9db = L.marker(
+                marker_ba2f1412a7aea3ccda72ee560839cc5f.setIcon(icon_fbb16230359da0b98d58957b2040970a);
+            
+    
+            var marker_52ca35dd18c2b98f45fcaedd0924d946 = L.marker(
                 [27.1291, -82.3798],
-                {}
-            ).addTo(map_fe4c8c2352aa7a3e285e62d344e6c71d);
+                {
+}
+            ).addTo(map_1eb76b068858a27e60a0fb934be3624a);
         
     
-            var icon_b937a58a42b75ad971e4c77caad9a703 = L.AwesomeMarkers.icon(
-                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            var icon_baa1890938f6ec04f7bdf6ae18d3a5f9 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
             );
-            marker_1b96f8bc29be64505719957d0c77c9db.setIcon(icon_b937a58a42b75ad971e4c77caad9a703);
         
     
-        var popup_8dfb31cec0d5c68edd25886bcd539b71 = L.popup({"maxWidth": 300});
+        var popup_b58fc4ae902076f7874c65296bca5e97 = L.popup({
+  "maxWidth": 350,
+});
 
         
             
-                var html_68e8e001200096744c4a81377eea9ce3 = $(`<div id="html_68e8e001200096744c4a81377eea9ce3" style="width: 100.0%; height: 100.0%;"><b>Center For Sight-Jacaranda</b><br>Group: CFS Mid<br>Address: 1236 Jacaranda Blvd, Venice, FL 34292-4507</div>`)[0];
-                popup_8dfb31cec0d5c68edd25886bcd539b71.setContent(html_68e8e001200096744c4a81377eea9ce3);
+                var html_9b6c6201f9f01c8de499edbb6093d779 = $(`<div id="html_9b6c6201f9f01c8de499edbb6093d779" style="width: 100.0%; height: 100.0%;"> <b>Center For Sight-Jacaranda</b><br> Group: CFS Mid<br> Address: 1236 Jacaranda Blvd, Venice, FL 34292-4507<br> <div id="distance-info-marker-5" style="margin-top:5px; margin-bottom:5px;"></div> <button id="calc-button-marker-5" onclick="calculateAndShowDistance('marker-5', 27.1291, -82.3798)" style="margin-top:5px; padding: 3px 7px; font-size:0.9em; cursor:pointer; border:1px solid #007bff; background-color:#007bff; color:white; border-radius:3px;">Calculate distance from ZIP</button> </div>`)[0];
+                popup_b58fc4ae902076f7874c65296bca5e97.setContent(html_9b6c6201f9f01c8de499edbb6093d779);
             
         
 
-        marker_1b96f8bc29be64505719957d0c77c9db.bindPopup(popup_8dfb31cec0d5c68edd25886bcd539b71)
+        marker_52ca35dd18c2b98f45fcaedd0924d946.bindPopup(popup_b58fc4ae902076f7874c65296bca5e97)
         ;
 
         
     
     
-            marker_1b96f8bc29be64505719957d0c77c9db.bindTooltip(
+            marker_52ca35dd18c2b98f45fcaedd0924d946.bindTooltip(
                 `<div>
                      Center For Sight-Jacaranda
                  </div>`,
-                {"sticky": true}
+                {
+  "sticky": true,
+}
             );
         
     
-            var marker_350752b57caf72803b3fed9936c18c7a = L.marker(
+                marker_52ca35dd18c2b98f45fcaedd0924d946.setIcon(icon_baa1890938f6ec04f7bdf6ae18d3a5f9);
+            
+    
+            var marker_46d9270001cffb30b8bd1d624c446dfc = L.marker(
                 [27.0987, -82.4142],
-                {}
-            ).addTo(map_fe4c8c2352aa7a3e285e62d344e6c71d);
+                {
+}
+            ).addTo(map_1eb76b068858a27e60a0fb934be3624a);
         
     
-            var icon_30689fb157edf26655966991defece79 = L.AwesomeMarkers.icon(
-                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            var icon_ec719b38429711349cfdac7569f6e4f7 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
             );
-            marker_350752b57caf72803b3fed9936c18c7a.setIcon(icon_30689fb157edf26655966991defece79);
         
     
-        var popup_385dc36310f70c1915ce6ad04eb7ba9c = L.popup({"maxWidth": 300});
+        var popup_2b73fb8c2f283f0bb6f307742623e69b = L.popup({
+  "maxWidth": 350,
+});
 
         
             
-                var html_5480125c66d554a44c9eee82e9f0d245 = $(`<div id="html_5480125c66d554a44c9eee82e9f0d245" style="width: 100.0%; height: 100.0%;"><b>Center For Sight-AMARA (1370 Venice)</b><br>Group: CFS Mid<br>Address: 1370 East Venice Avenue, Suite 205, Venice, FL 34285-9084</div>`)[0];
-                popup_385dc36310f70c1915ce6ad04eb7ba9c.setContent(html_5480125c66d554a44c9eee82e9f0d245);
+                var html_5c7c1b7f25dd809517674a1dc6976140 = $(`<div id="html_5c7c1b7f25dd809517674a1dc6976140" style="width: 100.0%; height: 100.0%;"> <b>Center For Sight-AMARA (1370 Venice)</b><br> Group: CFS Mid<br> Address: 1370 East Venice Avenue, Suite 205, Venice, FL 34285-9084<br> <div id="distance-info-marker-6" style="margin-top:5px; margin-bottom:5px;"></div> <button id="calc-button-marker-6" onclick="calculateAndShowDistance('marker-6', 27.0987, -82.4142)" style="margin-top:5px; padding: 3px 7px; font-size:0.9em; cursor:pointer; border:1px solid #007bff; background-color:#007bff; color:white; border-radius:3px;">Calculate distance from ZIP</button> </div>`)[0];
+                popup_2b73fb8c2f283f0bb6f307742623e69b.setContent(html_5c7c1b7f25dd809517674a1dc6976140);
             
         
 
-        marker_350752b57caf72803b3fed9936c18c7a.bindPopup(popup_385dc36310f70c1915ce6ad04eb7ba9c)
+        marker_46d9270001cffb30b8bd1d624c446dfc.bindPopup(popup_2b73fb8c2f283f0bb6f307742623e69b)
         ;
 
         
     
     
-            marker_350752b57caf72803b3fed9936c18c7a.bindTooltip(
+            marker_46d9270001cffb30b8bd1d624c446dfc.bindTooltip(
                 `<div>
                      Center For Sight-AMARA (1370 Venice)
                  </div>`,
-                {"sticky": true}
+                {
+  "sticky": true,
+}
             );
         
     
-            var marker_aca3ccc0a5511c47ba9049d391cbfc26 = L.marker(
+                marker_46d9270001cffb30b8bd1d624c446dfc.setIcon(icon_ec719b38429711349cfdac7569f6e4f7);
+            
+    
+            var marker_49b76553544b3811704ae9829e99151d = L.marker(
                 [26.9387, -82.3372],
-                {}
-            ).addTo(map_fe4c8c2352aa7a3e285e62d344e6c71d);
+                {
+}
+            ).addTo(map_1eb76b068858a27e60a0fb934be3624a);
         
     
-            var icon_6edc063977bd90f9c27f46c2486b4fc7 = L.AwesomeMarkers.icon(
-                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            var icon_5f7a230f0a153718eceae7587a2267cd = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
             );
-            marker_aca3ccc0a5511c47ba9049d391cbfc26.setIcon(icon_6edc063977bd90f9c27f46c2486b4fc7);
         
     
-        var popup_61ec2536b5031e472eab28881188b368 = L.popup({"maxWidth": 300});
+        var popup_d8a25eab55a15dcba56ad94b4a2cb879 = L.popup({
+  "maxWidth": 350,
+});
 
         
             
-                var html_a61d67194927bdb1fc3e4c2ef54f187b = $(`<div id="html_a61d67194927bdb1fc3e4c2ef54f187b" style="width: 100.0%; height: 100.0%;"><b>Center For Sight-Englewood</b><br>Group: CFS Mid<br>Address: 1800 S McCall Road, Englewood, FL 34223-4958</div>`)[0];
-                popup_61ec2536b5031e472eab28881188b368.setContent(html_a61d67194927bdb1fc3e4c2ef54f187b);
+                var html_e2bf2849d771af6cb39f8e1e7286ba1f = $(`<div id="html_e2bf2849d771af6cb39f8e1e7286ba1f" style="width: 100.0%; height: 100.0%;"> <b>Center For Sight-Englewood</b><br> Group: CFS Mid<br> Address: 1800 S McCall Road, Englewood, FL 34223-4958<br> <div id="distance-info-marker-7" style="margin-top:5px; margin-bottom:5px;"></div> <button id="calc-button-marker-7" onclick="calculateAndShowDistance('marker-7', 26.9387, -82.3372)" style="margin-top:5px; padding: 3px 7px; font-size:0.9em; cursor:pointer; border:1px solid #007bff; background-color:#007bff; color:white; border-radius:3px;">Calculate distance from ZIP</button> </div>`)[0];
+                popup_d8a25eab55a15dcba56ad94b4a2cb879.setContent(html_e2bf2849d771af6cb39f8e1e7286ba1f);
             
         
 
-        marker_aca3ccc0a5511c47ba9049d391cbfc26.bindPopup(popup_61ec2536b5031e472eab28881188b368)
+        marker_49b76553544b3811704ae9829e99151d.bindPopup(popup_d8a25eab55a15dcba56ad94b4a2cb879)
         ;
 
         
     
     
-            marker_aca3ccc0a5511c47ba9049d391cbfc26.bindTooltip(
+            marker_49b76553544b3811704ae9829e99151d.bindTooltip(
                 `<div>
                      Center For Sight-Englewood
                  </div>`,
-                {"sticky": true}
+                {
+  "sticky": true,
+}
             );
         
     
-            var marker_854ac408265eba677e2f4c1804681ae7 = L.marker(
+                marker_49b76553544b3811704ae9829e99151d.setIcon(icon_5f7a230f0a153718eceae7587a2267cd);
+            
+    
+            var marker_2f02ceaa81cf86f447fd5445395b5092 = L.marker(
                 [27.0431, -82.2352],
-                {}
-            ).addTo(map_fe4c8c2352aa7a3e285e62d344e6c71d);
+                {
+}
+            ).addTo(map_1eb76b068858a27e60a0fb934be3624a);
         
     
-            var icon_a8a40443b7cfbee47fb580dcc30fe5cd = L.AwesomeMarkers.icon(
-                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            var icon_684c60624606d1fd446fdbb526fa4c17 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
             );
-            marker_854ac408265eba677e2f4c1804681ae7.setIcon(icon_a8a40443b7cfbee47fb580dcc30fe5cd);
         
     
-        var popup_5ad153bd2f2e072b135d3d78f567f676 = L.popup({"maxWidth": 300});
+        var popup_cfae699ced9ab14f79784bbfd63de18d = L.popup({
+  "maxWidth": 350,
+});
 
         
             
-                var html_6ded83d9be843813a878494b27176d4c = $(`<div id="html_6ded83d9be843813a878494b27176d4c" style="width: 100.0%; height: 100.0%;"><b>Center For Sight-North Port</b><br>Group: CFS Mid<br>Address: 14844 South Tamiami Trail, North Port, FL 34287-2701</div>`)[0];
-                popup_5ad153bd2f2e072b135d3d78f567f676.setContent(html_6ded83d9be843813a878494b27176d4c);
+                var html_013aae39cee4699576c1865b5c59ac51 = $(`<div id="html_013aae39cee4699576c1865b5c59ac51" style="width: 100.0%; height: 100.0%;"> <b>Center For Sight-North Port</b><br> Group: CFS Mid<br> Address: 14844 South Tamiami Trail, North Port, FL 34287-2701<br> <div id="distance-info-marker-8" style="margin-top:5px; margin-bottom:5px;"></div> <button id="calc-button-marker-8" onclick="calculateAndShowDistance('marker-8', 27.0431, -82.2352)" style="margin-top:5px; padding: 3px 7px; font-size:0.9em; cursor:pointer; border:1px solid #007bff; background-color:#007bff; color:white; border-radius:3px;">Calculate distance from ZIP</button> </div>`)[0];
+                popup_cfae699ced9ab14f79784bbfd63de18d.setContent(html_013aae39cee4699576c1865b5c59ac51);
             
         
 
-        marker_854ac408265eba677e2f4c1804681ae7.bindPopup(popup_5ad153bd2f2e072b135d3d78f567f676)
+        marker_2f02ceaa81cf86f447fd5445395b5092.bindPopup(popup_cfae699ced9ab14f79784bbfd63de18d)
         ;
 
         
     
     
-            marker_854ac408265eba677e2f4c1804681ae7.bindTooltip(
+            marker_2f02ceaa81cf86f447fd5445395b5092.bindTooltip(
                 `<div>
                      Center For Sight-North Port
                  </div>`,
-                {"sticky": true}
+                {
+  "sticky": true,
+}
             );
         
     
-            var marker_262afa3117ce7e388520438dc689af25 = L.marker(
+                marker_2f02ceaa81cf86f447fd5445395b5092.setIcon(icon_684c60624606d1fd446fdbb526fa4c17);
+            
+    
+            var marker_ddd499b76f7e995bcf99fe2e2c7dfdc0 = L.marker(
                 [27.0122, -82.0522],
-                {}
-            ).addTo(map_fe4c8c2352aa7a3e285e62d344e6c71d);
+                {
+}
+            ).addTo(map_1eb76b068858a27e60a0fb934be3624a);
         
     
-            var icon_465be18f3c76f97b4c2558bac8172630 = L.AwesomeMarkers.icon(
-                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            var icon_5a812bcd3495dba1c4be6dfde72755db = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
             );
-            marker_262afa3117ce7e388520438dc689af25.setIcon(icon_465be18f3c76f97b4c2558bac8172630);
         
     
-        var popup_ba1430a278f16dccf30a16b87b1e873b = L.popup({"maxWidth": 300});
+        var popup_d32d503b0903059fe95335513ed49e8f = L.popup({
+  "maxWidth": 350,
+});
 
         
             
-                var html_81ff60b2932b8c6bceeb1ffb659b85a0 = $(`<div id="html_81ff60b2932b8c6bceeb1ffb659b85a0" style="width: 100.0%; height: 100.0%;"><b>Center For Sight-Kings Hwy</b><br>Group: CFS Mid<br>Address: 970 Kings Highway, Suite 2, Punta Gorda, FL 33980-4213</div>`)[0];
-                popup_ba1430a278f16dccf30a16b87b1e873b.setContent(html_81ff60b2932b8c6bceeb1ffb659b85a0);
+                var html_70cbd60b6fbb1bed92675e8df416fa72 = $(`<div id="html_70cbd60b6fbb1bed92675e8df416fa72" style="width: 100.0%; height: 100.0%;"> <b>Center For Sight-Kings Hwy</b><br> Group: CFS Mid<br> Address: 970 Kings Highway, Suite 2, Punta Gorda, FL 33980-4213<br> <div id="distance-info-marker-9" style="margin-top:5px; margin-bottom:5px;"></div> <button id="calc-button-marker-9" onclick="calculateAndShowDistance('marker-9', 27.0122, -82.0522)" style="margin-top:5px; padding: 3px 7px; font-size:0.9em; cursor:pointer; border:1px solid #007bff; background-color:#007bff; color:white; border-radius:3px;">Calculate distance from ZIP</button> </div>`)[0];
+                popup_d32d503b0903059fe95335513ed49e8f.setContent(html_70cbd60b6fbb1bed92675e8df416fa72);
             
         
 
-        marker_262afa3117ce7e388520438dc689af25.bindPopup(popup_ba1430a278f16dccf30a16b87b1e873b)
+        marker_ddd499b76f7e995bcf99fe2e2c7dfdc0.bindPopup(popup_d32d503b0903059fe95335513ed49e8f)
         ;
 
         
     
     
-            marker_262afa3117ce7e388520438dc689af25.bindTooltip(
+            marker_ddd499b76f7e995bcf99fe2e2c7dfdc0.bindTooltip(
                 `<div>
                      Center For Sight-Kings Hwy
                  </div>`,
-                {"sticky": true}
+                {
+  "sticky": true,
+}
             );
         
     
-            var marker_874d100fee7b70645b0802e0bc8a1505 = L.marker(
+                marker_ddd499b76f7e995bcf99fe2e2c7dfdc0.setIcon(icon_5a812bcd3495dba1c4be6dfde72755db);
+            
+    
+            var marker_26af6ae7083a02f07ef376d75ed624e6 = L.marker(
                 [26.5617, -81.8762],
-                {}
-            ).addTo(map_fe4c8c2352aa7a3e285e62d344e6c71d);
+                {
+}
+            ).addTo(map_1eb76b068858a27e60a0fb934be3624a);
         
     
-            var icon_ef4a57d6108b69cd550a51c4968d2c31 = L.AwesomeMarkers.icon(
-                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "green", "prefix": "glyphicon"}
+            var icon_6d9ec200997d28770b2c18eb3b2126b3 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
             );
-            marker_874d100fee7b70645b0802e0bc8a1505.setIcon(icon_ef4a57d6108b69cd550a51c4968d2c31);
         
     
-        var popup_677005f353b9b8bd1eea573259f43795 = L.popup({"maxWidth": 300});
+        var popup_e3fc001d134543d861f80696cdb2656b = L.popup({
+  "maxWidth": 350,
+});
 
         
             
-                var html_88d8faa8cf4d27af850397c9d2751c12 = $(`<div id="html_88d8faa8cf4d27af850397c9d2751c12" style="width: 100.0%; height: 100.0%;"><b>Center For Sight-Brantley Road</b><br>Group: CFS South<br>Address: 1537 Brantley Road, Unit A2, Fort Myers, FL 33907-3923</div>`)[0];
-                popup_677005f353b9b8bd1eea573259f43795.setContent(html_88d8faa8cf4d27af850397c9d2751c12);
+                var html_7458b4efff7eba35bf0ada7f90bd35a9 = $(`<div id="html_7458b4efff7eba35bf0ada7f90bd35a9" style="width: 100.0%; height: 100.0%;"> <b>Center For Sight-Brantley Road</b><br> Group: CFS South<br> Address: 1537 Brantley Road, Unit A2, Fort Myers, FL 33907-3923<br> <div id="distance-info-marker-10" style="margin-top:5px; margin-bottom:5px;"></div> <button id="calc-button-marker-10" onclick="calculateAndShowDistance('marker-10', 26.5617, -81.8762)" style="margin-top:5px; padding: 3px 7px; font-size:0.9em; cursor:pointer; border:1px solid #007bff; background-color:#007bff; color:white; border-radius:3px;">Calculate distance from ZIP</button> </div>`)[0];
+                popup_e3fc001d134543d861f80696cdb2656b.setContent(html_7458b4efff7eba35bf0ada7f90bd35a9);
             
         
 
-        marker_874d100fee7b70645b0802e0bc8a1505.bindPopup(popup_677005f353b9b8bd1eea573259f43795)
+        marker_26af6ae7083a02f07ef376d75ed624e6.bindPopup(popup_e3fc001d134543d861f80696cdb2656b)
         ;
 
         
     
     
-            marker_874d100fee7b70645b0802e0bc8a1505.bindTooltip(
+            marker_26af6ae7083a02f07ef376d75ed624e6.bindTooltip(
                 `<div>
                      Center For Sight-Brantley Road
                  </div>`,
-                {"sticky": true}
+                {
+  "sticky": true,
+}
             );
         
     
-            var marker_e361491d09cc23d1e506e11fbab31036 = L.marker(
+                marker_26af6ae7083a02f07ef376d75ed624e6.setIcon(icon_6d9ec200997d28770b2c18eb3b2126b3);
+            
+    
+            var marker_31e3a9a247b10916b6cc9a7f5201ef0a = L.marker(
                 [26.2027, -81.8039],
-                {}
-            ).addTo(map_fe4c8c2352aa7a3e285e62d344e6c71d);
+                {
+}
+            ).addTo(map_1eb76b068858a27e60a0fb934be3624a);
         
     
-            var icon_73cab2031357620dc7deb0c78c0ff14b = L.AwesomeMarkers.icon(
-                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "green", "prefix": "glyphicon"}
+            var icon_7c6d9bd7534f06c50f1cc6d8ea134cc1 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
             );
-            marker_e361491d09cc23d1e506e11fbab31036.setIcon(icon_73cab2031357620dc7deb0c78c0ff14b);
         
     
-        var popup_c84ec9136d770fba2b3bddbb61ecb897 = L.popup({"maxWidth": 300});
+        var popup_e0340e6c6bdd21a3d4d90358eb483035 = L.popup({
+  "maxWidth": 350,
+});
 
         
             
-                var html_84a386aed757989ed8e330f5f1116ebb = $(`<div id="html_84a386aed757989ed8e330f5f1116ebb" style="width: 100.0%; height: 100.0%;"><b>Center For Sight-Naples</b><br>Group: CFS South<br>Address: 700 Neapolitan Way, Naples, FL 34103-8570</div>`)[0];
-                popup_c84ec9136d770fba2b3bddbb61ecb897.setContent(html_84a386aed757989ed8e330f5f1116ebb);
+                var html_57a1c2c7f152fdfb59730753bfc2bbc5 = $(`<div id="html_57a1c2c7f152fdfb59730753bfc2bbc5" style="width: 100.0%; height: 100.0%;"> <b>Center For Sight-Naples</b><br> Group: CFS South<br> Address: 700 Neapolitan Way, Naples, FL 34103-8570<br> <div id="distance-info-marker-11" style="margin-top:5px; margin-bottom:5px;"></div> <button id="calc-button-marker-11" onclick="calculateAndShowDistance('marker-11', 26.2027, -81.8039)" style="margin-top:5px; padding: 3px 7px; font-size:0.9em; cursor:pointer; border:1px solid #007bff; background-color:#007bff; color:white; border-radius:3px;">Calculate distance from ZIP</button> </div>`)[0];
+                popup_e0340e6c6bdd21a3d4d90358eb483035.setContent(html_57a1c2c7f152fdfb59730753bfc2bbc5);
             
         
 
-        marker_e361491d09cc23d1e506e11fbab31036.bindPopup(popup_c84ec9136d770fba2b3bddbb61ecb897)
+        marker_31e3a9a247b10916b6cc9a7f5201ef0a.bindPopup(popup_e0340e6c6bdd21a3d4d90358eb483035)
         ;
 
         
     
     
-            marker_e361491d09cc23d1e506e11fbab31036.bindTooltip(
+            marker_31e3a9a247b10916b6cc9a7f5201ef0a.bindTooltip(
                 `<div>
                      Center For Sight-Naples
                  </div>`,
-                {"sticky": true}
+                {
+  "sticky": true,
+}
             );
         
     
-            var marker_e42bebe271eac75a6265a43cac99fb0a = L.marker(
+                marker_31e3a9a247b10916b6cc9a7f5201ef0a.setIcon(icon_7c6d9bd7534f06c50f1cc6d8ea134cc1);
+            
+    
+            var marker_5bad47b3d6e6a82c19c7e9302e4caa3c = L.marker(
                 [26.4897, -81.9392],
-                {}
-            ).addTo(map_fe4c8c2352aa7a3e285e62d344e6c71d);
+                {
+}
+            ).addTo(map_1eb76b068858a27e60a0fb934be3624a);
         
     
-            var icon_b41671c2725d62917d8dc936be3f60d5 = L.AwesomeMarkers.icon(
-                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "green", "prefix": "glyphicon"}
+            var icon_89b9e5046d290fc4fc1de9a3f57d6f50 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
             );
-            marker_e42bebe271eac75a6265a43cac99fb0a.setIcon(icon_b41671c2725d62917d8dc936be3f60d5);
         
     
-        var popup_f5cdea8bc7fb4135fe81b0867004ebe5 = L.popup({"maxWidth": 300});
+        var popup_cd9ac5d0726cfa5724201f52cbc7da86 = L.popup({
+  "maxWidth": 350,
+});
 
         
             
-                var html_3158ecee7a21f22572090dd1153e53c7 = $(`<div id="html_3158ecee7a21f22572090dd1153e53c7" style="width: 100.0%; height: 100.0%;"><b>Center For Sight-San Carlos Blvd</b><br>Group: CFS South<br>Address: 15661 San Carlos Blvd, Unit 4, Fort Myers, FL 33908-2797</div>`)[0];
-                popup_f5cdea8bc7fb4135fe81b0867004ebe5.setContent(html_3158ecee7a21f22572090dd1153e53c7);
+                var html_81b7fd081195667173074e0c34f5f08a = $(`<div id="html_81b7fd081195667173074e0c34f5f08a" style="width: 100.0%; height: 100.0%;"> <b>Center For Sight-San Carlos Blvd</b><br> Group: CFS South<br> Address: 15661 San Carlos Blvd, Unit 4, Fort Myers, FL 33908-2797<br> <div id="distance-info-marker-12" style="margin-top:5px; margin-bottom:5px;"></div> <button id="calc-button-marker-12" onclick="calculateAndShowDistance('marker-12', 26.4897, -81.9392)" style="margin-top:5px; padding: 3px 7px; font-size:0.9em; cursor:pointer; border:1px solid #007bff; background-color:#007bff; color:white; border-radius:3px;">Calculate distance from ZIP</button> </div>`)[0];
+                popup_cd9ac5d0726cfa5724201f52cbc7da86.setContent(html_81b7fd081195667173074e0c34f5f08a);
             
         
 
-        marker_e42bebe271eac75a6265a43cac99fb0a.bindPopup(popup_f5cdea8bc7fb4135fe81b0867004ebe5)
+        marker_5bad47b3d6e6a82c19c7e9302e4caa3c.bindPopup(popup_cd9ac5d0726cfa5724201f52cbc7da86)
         ;
 
         
     
     
-            marker_e42bebe271eac75a6265a43cac99fb0a.bindTooltip(
+            marker_5bad47b3d6e6a82c19c7e9302e4caa3c.bindTooltip(
                 `<div>
                      Center For Sight-San Carlos Blvd
                  </div>`,
-                {"sticky": true}
+                {
+  "sticky": true,
+}
             );
         
     
-            var marker_b5c62f61932f8eef9bf337b0487e925a = L.marker(
+                marker_5bad47b3d6e6a82c19c7e9302e4caa3c.setIcon(icon_89b9e5046d290fc4fc1de9a3f57d6f50);
+            
+    
+            var marker_a0f676521f02ccd727700f605a451e5d = L.marker(
                 [28.9172, -81.9402],
-                {}
-            ).addTo(map_fe4c8c2352aa7a3e285e62d344e6c71d);
+                {
+}
+            ).addTo(map_1eb76b068858a27e60a0fb934be3624a);
         
     
-            var icon_9491d31b82f169d785b93101598e7007 = L.AwesomeMarkers.icon(
-                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "purple", "prefix": "glyphicon"}
+            var icon_0d3407210bfbd04be0ee4ee1330e9620 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "purple",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
             );
-            marker_b5c62f61932f8eef9bf337b0487e925a.setIcon(icon_9491d31b82f169d785b93101598e7007);
         
     
-        var popup_7b258235e71bf96e75218748b3f3a703 = L.popup({"maxWidth": 300});
+        var popup_fc859eab5d682624f1d1a226b4a7ae1d = L.popup({
+  "maxWidth": 350,
+});
 
         
             
-                var html_7985eace13a07d9ccbf3228b47a9e89c = $(`<div id="html_7985eace13a07d9ccbf3228b47a9e89c" style="width: 100.0%; height: 100.0%;"><b>LEA-Lady Lake Sunset Plaza</b><br>Group: LEA<br>Address: 801 County Road 466, Suite 102, Lady Lake, FL 32159-4205</div>`)[0];
-                popup_7b258235e71bf96e75218748b3f3a703.setContent(html_7985eace13a07d9ccbf3228b47a9e89c);
+                var html_a9a141c72e1b43d80e7555e9156f7fd5 = $(`<div id="html_a9a141c72e1b43d80e7555e9156f7fd5" style="width: 100.0%; height: 100.0%;"> <b>LEA-Lady Lake Sunset Plaza</b><br> Group: LEA<br> Address: 801 County Road 466, Suite 102, Lady Lake, FL 32159-4205<br> <div id="distance-info-marker-13" style="margin-top:5px; margin-bottom:5px;"></div> <button id="calc-button-marker-13" onclick="calculateAndShowDistance('marker-13', 28.9172, -81.9402)" style="margin-top:5px; padding: 3px 7px; font-size:0.9em; cursor:pointer; border:1px solid #007bff; background-color:#007bff; color:white; border-radius:3px;">Calculate distance from ZIP</button> </div>`)[0];
+                popup_fc859eab5d682624f1d1a226b4a7ae1d.setContent(html_a9a141c72e1b43d80e7555e9156f7fd5);
             
         
 
-        marker_b5c62f61932f8eef9bf337b0487e925a.bindPopup(popup_7b258235e71bf96e75218748b3f3a703)
+        marker_a0f676521f02ccd727700f605a451e5d.bindPopup(popup_fc859eab5d682624f1d1a226b4a7ae1d)
         ;
 
         
     
     
-            marker_b5c62f61932f8eef9bf337b0487e925a.bindTooltip(
+            marker_a0f676521f02ccd727700f605a451e5d.bindTooltip(
                 `<div>
                      LEA-Lady Lake Sunset Plaza
                  </div>`,
-                {"sticky": true}
+                {
+  "sticky": true,
+}
             );
         
     
-            var marker_074785b1c31fd22b6e0bcc9803190cec = L.marker(
+                marker_a0f676521f02ccd727700f605a451e5d.setIcon(icon_0d3407210bfbd04be0ee4ee1330e9620);
+            
+    
+            var marker_40af366662166ba4976c9a9aa53905a8 = L.marker(
                 [28.8101, -81.8701],
-                {}
-            ).addTo(map_fe4c8c2352aa7a3e285e62d344e6c71d);
+                {
+}
+            ).addTo(map_1eb76b068858a27e60a0fb934be3624a);
         
     
-            var icon_0f0df0562af47bcf93ce3c77e847f12b = L.AwesomeMarkers.icon(
-                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "purple", "prefix": "glyphicon"}
+            var icon_9c6423908eea969cbba38a66f7ad62d0 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "purple",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
             );
-            marker_074785b1c31fd22b6e0bcc9803190cec.setIcon(icon_0f0df0562af47bcf93ce3c77e847f12b);
         
     
-        var popup_2bea3f118de223cc593d8c3c0a64da97 = L.popup({"maxWidth": 300});
+        var popup_bf34ff6451bad4800766ea7409a2e945 = L.popup({
+  "maxWidth": 350,
+});
 
         
             
-                var html_a7604e53f1c2e6f9781dd1a04d7f4430 = $(`<div id="html_a7604e53f1c2e6f9781dd1a04d7f4430" style="width: 100.0%; height: 100.0%;"><b>LEA-Leesburg</b><br>Group: LEA<br>Address: 601 East Dixie Avenue, Medical Plaza 201, Leesburg, FL 34748-5953</div>`)[0];
-                popup_2bea3f118de223cc593d8c3c0a64da97.setContent(html_a7604e53f1c2e6f9781dd1a04d7f4430);
+                var html_260b59104d99bb400c567e3c44dde790 = $(`<div id="html_260b59104d99bb400c567e3c44dde790" style="width: 100.0%; height: 100.0%;"> <b>LEA-Leesburg</b><br> Group: LEA<br> Address: 601 East Dixie Avenue, Medical Plaza 201, Leesburg, FL 34748-5953<br> <div id="distance-info-marker-14" style="margin-top:5px; margin-bottom:5px;"></div> <button id="calc-button-marker-14" onclick="calculateAndShowDistance('marker-14', 28.8101, -81.8701)" style="margin-top:5px; padding: 3px 7px; font-size:0.9em; cursor:pointer; border:1px solid #007bff; background-color:#007bff; color:white; border-radius:3px;">Calculate distance from ZIP</button> </div>`)[0];
+                popup_bf34ff6451bad4800766ea7409a2e945.setContent(html_260b59104d99bb400c567e3c44dde790);
             
         
 
-        marker_074785b1c31fd22b6e0bcc9803190cec.bindPopup(popup_2bea3f118de223cc593d8c3c0a64da97)
+        marker_40af366662166ba4976c9a9aa53905a8.bindPopup(popup_bf34ff6451bad4800766ea7409a2e945)
         ;
 
         
     
     
-            marker_074785b1c31fd22b6e0bcc9803190cec.bindTooltip(
+            marker_40af366662166ba4976c9a9aa53905a8.bindTooltip(
                 `<div>
                      LEA-Leesburg
                  </div>`,
-                {"sticky": true}
+                {
+  "sticky": true,
+}
             );
         
     
-            var marker_815f42eb7d596d4ccacf370d608166d5 = L.marker(
+                marker_40af366662166ba4976c9a9aa53905a8.setIcon(icon_9c6423908eea969cbba38a66f7ad62d0);
+            
+    
+            var marker_ab36eb55a25fb9177b8ac8fd7183b606 = L.marker(
                 [28.8196, -81.7103],
-                {}
-            ).addTo(map_fe4c8c2352aa7a3e285e62d344e6c71d);
+                {
+}
+            ).addTo(map_1eb76b068858a27e60a0fb934be3624a);
         
     
-            var icon_ca838f2e3eb460d3e5a859f695039def = L.AwesomeMarkers.icon(
-                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "purple", "prefix": "glyphicon"}
+            var icon_1c71c626ec96360fd2ed270d6ff5d254 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "purple",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
             );
-            marker_815f42eb7d596d4ccacf370d608166d5.setIcon(icon_ca838f2e3eb460d3e5a859f695039def);
         
     
-        var popup_f02a35478eb4e686474812e8dfe564fb = L.popup({"maxWidth": 300});
+        var popup_6512073009521b7b426cac67646f89bf = L.popup({
+  "maxWidth": 350,
+});
 
         
             
-                var html_268202790edcf03e8c6b53db201450fd = $(`<div id="html_268202790edcf03e8c6b53db201450fd" style="width: 100.0%; height: 100.0%;"><b>LEA-Tavares</b><br>Group: LEA<br>Address: 1852 Mayo Drive, Tavares, FL 32778-4320</div>`)[0];
-                popup_f02a35478eb4e686474812e8dfe564fb.setContent(html_268202790edcf03e8c6b53db201450fd);
+                var html_f3e8489909e3bf69815490f8c6612b29 = $(`<div id="html_f3e8489909e3bf69815490f8c6612b29" style="width: 100.0%; height: 100.0%;"> <b>LEA-Tavares</b><br> Group: LEA<br> Address: 1852 Mayo Drive, Tavares, FL 32778-4320<br> <div id="distance-info-marker-15" style="margin-top:5px; margin-bottom:5px;"></div> <button id="calc-button-marker-15" onclick="calculateAndShowDistance('marker-15', 28.8196, -81.7103)" style="margin-top:5px; padding: 3px 7px; font-size:0.9em; cursor:pointer; border:1px solid #007bff; background-color:#007bff; color:white; border-radius:3px;">Calculate distance from ZIP</button> </div>`)[0];
+                popup_6512073009521b7b426cac67646f89bf.setContent(html_f3e8489909e3bf69815490f8c6612b29);
             
         
 
-        marker_815f42eb7d596d4ccacf370d608166d5.bindPopup(popup_f02a35478eb4e686474812e8dfe564fb)
+        marker_ab36eb55a25fb9177b8ac8fd7183b606.bindPopup(popup_6512073009521b7b426cac67646f89bf)
         ;
 
         
     
     
-            marker_815f42eb7d596d4ccacf370d608166d5.bindTooltip(
+            marker_ab36eb55a25fb9177b8ac8fd7183b606.bindTooltip(
                 `<div>
                      LEA-Tavares
                  </div>`,
-                {"sticky": true}
+                {
+  "sticky": true,
+}
             );
         
     
-            var marker_0621491ae8cab9ea5c92b5f014d27eab = L.marker(
+                marker_ab36eb55a25fb9177b8ac8fd7183b606.setIcon(icon_1c71c626ec96360fd2ed270d6ff5d254);
+            
+    
+            var marker_a067131c13e910f3899d852168198f8f = L.marker(
                 [28.9341, -81.9592],
-                {}
-            ).addTo(map_fe4c8c2352aa7a3e285e62d344e6c71d);
+                {
+}
+            ).addTo(map_1eb76b068858a27e60a0fb934be3624a);
         
     
-            var icon_07cd0a62228ccb650a1a33b463034083 = L.AwesomeMarkers.icon(
-                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "purple", "prefix": "glyphicon"}
+            var icon_e2b5c4385d5a9fbf46d464ba08914952 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "purple",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
             );
-            marker_0621491ae8cab9ea5c92b5f014d27eab.setIcon(icon_07cd0a62228ccb650a1a33b463034083);
         
     
-        var popup_c1ece911ca705449978d2b3e55e05455 = L.popup({"maxWidth": 300});
+        var popup_6867e7c7248384a3b4ddfed9f116fe2a = L.popup({
+  "maxWidth": 350,
+});
 
         
             
-                var html_289c87ef95096cbcb2994f94cf7964a3 = $(`<div id="html_289c87ef95096cbcb2994f94cf7964a3" style="width: 100.0%; height: 100.0%;"><b>LEA-The Villages</b><br>Group: LEA<br>Address: 1400 US Hwy 441 North, Suite 521, The Villages, FL 32159-8983</div>`)[0];
-                popup_c1ece911ca705449978d2b3e55e05455.setContent(html_289c87ef95096cbcb2994f94cf7964a3);
+                var html_034c225efe9ea6a19da40304efeca611 = $(`<div id="html_034c225efe9ea6a19da40304efeca611" style="width: 100.0%; height: 100.0%;"> <b>LEA-The Villages</b><br> Group: LEA<br> Address: 1400 US Hwy 441 North, Suite 521, The Villages, FL 32159-8983<br> <div id="distance-info-marker-16" style="margin-top:5px; margin-bottom:5px;"></div> <button id="calc-button-marker-16" onclick="calculateAndShowDistance('marker-16', 28.9341, -81.9592)" style="margin-top:5px; padding: 3px 7px; font-size:0.9em; cursor:pointer; border:1px solid #007bff; background-color:#007bff; color:white; border-radius:3px;">Calculate distance from ZIP</button> </div>`)[0];
+                popup_6867e7c7248384a3b4ddfed9f116fe2a.setContent(html_034c225efe9ea6a19da40304efeca611);
             
         
 
-        marker_0621491ae8cab9ea5c92b5f014d27eab.bindPopup(popup_c1ece911ca705449978d2b3e55e05455)
+        marker_a067131c13e910f3899d852168198f8f.bindPopup(popup_6867e7c7248384a3b4ddfed9f116fe2a)
         ;
 
         
     
     
-            marker_0621491ae8cab9ea5c92b5f014d27eab.bindTooltip(
+            marker_a067131c13e910f3899d852168198f8f.bindTooltip(
                 `<div>
                      LEA-The Villages
                  </div>`,
-                {"sticky": true}
+                {
+  "sticky": true,
+}
             );
         
     
-            var marker_ef4894b6f0468ef2f9be62bb1cc35d75 = L.marker(
+                marker_a067131c13e910f3899d852168198f8f.setIcon(icon_e2b5c4385d5a9fbf46d464ba08914952);
+            
+    
+            var marker_7dab31fb24aa6712c2020348687a0550 = L.marker(
                 [28.8622, -82.0592],
-                {}
-            ).addTo(map_fe4c8c2352aa7a3e285e62d344e6c71d);
+                {
+}
+            ).addTo(map_1eb76b068858a27e60a0fb934be3624a);
         
     
-            var icon_151dfc70910921ec8abfdbe186672b98 = L.AwesomeMarkers.icon(
-                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "purple", "prefix": "glyphicon"}
+            var icon_7da9e30fe603c2592c13bc4a525ec888 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "purple",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
             );
-            marker_ef4894b6f0468ef2f9be62bb1cc35d75.setIcon(icon_151dfc70910921ec8abfdbe186672b98);
         
     
-        var popup_c0f1514107b8fea04a0a6df12e663bc4 = L.popup({"maxWidth": 300});
+        var popup_34cc77cc729483f4e56b5a8070211732 = L.popup({
+  "maxWidth": 350,
+});
 
         
             
-                var html_de7d3dd501bb0b42ba188cd526aea859 = $(`<div id="html_de7d3dd501bb0b42ba188cd526aea859" style="width: 100.0%; height: 100.0%;"><b>LEA-Wildwood</b><br>Group: LEA<br>Address: 5431 State Road 44, Suite 1, Wildwood, FL 34785-8294</div>`)[0];
-                popup_c0f1514107b8fea04a0a6df12e663bc4.setContent(html_de7d3dd501bb0b42ba188cd526aea859);
+                var html_985501a0b125d02afd2cd3e9d7d97adb = $(`<div id="html_985501a0b125d02afd2cd3e9d7d97adb" style="width: 100.0%; height: 100.0%;"> <b>LEA-Wildwood</b><br> Group: LEA<br> Address: 5431 State Road 44, Suite 1, Wildwood, FL 34785-8294<br> <div id="distance-info-marker-17" style="margin-top:5px; margin-bottom:5px;"></div> <button id="calc-button-marker-17" onclick="calculateAndShowDistance('marker-17', 28.8622, -82.0592)" style="margin-top:5px; padding: 3px 7px; font-size:0.9em; cursor:pointer; border:1px solid #007bff; background-color:#007bff; color:white; border-radius:3px;">Calculate distance from ZIP</button> </div>`)[0];
+                popup_34cc77cc729483f4e56b5a8070211732.setContent(html_985501a0b125d02afd2cd3e9d7d97adb);
             
         
 
-        marker_ef4894b6f0468ef2f9be62bb1cc35d75.bindPopup(popup_c0f1514107b8fea04a0a6df12e663bc4)
+        marker_7dab31fb24aa6712c2020348687a0550.bindPopup(popup_34cc77cc729483f4e56b5a8070211732)
         ;
 
         
     
     
-            marker_ef4894b6f0468ef2f9be62bb1cc35d75.bindTooltip(
+            marker_7dab31fb24aa6712c2020348687a0550.bindTooltip(
                 `<div>
                      LEA-Wildwood
                  </div>`,
-                {"sticky": true}
+                {
+  "sticky": true,
+}
             );
         
     
-            var marker_daef14889d42cac8e9a8a302563e2dde = L.marker(
+                marker_7dab31fb24aa6712c2020348687a0550.setIcon(icon_7da9e30fe603c2592c13bc4a525ec888);
+            
+    
+            var marker_e714a280c52b13de190c88c0363aa158 = L.marker(
                 [26.5661, -81.8702],
-                {}
-            ).addTo(map_fe4c8c2352aa7a3e285e62d344e6c71d);
+                {
+}
+            ).addTo(map_1eb76b068858a27e60a0fb934be3624a);
         
     
-            var icon_7f94e9712b4b7ebee419e4d2e2471f17 = L.AwesomeMarkers.icon(
-                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "orange", "prefix": "glyphicon"}
+            var icon_c1d71cfc818e6cb2355c5e07d476f0fe = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "orange",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
             );
-            marker_daef14889d42cac8e9a8a302563e2dde.setIcon(icon_7f94e9712b4b7ebee419e4d2e2471f17);
         
     
-        var popup_28da2df644810051532d5bebdeb4fcaf = L.popup({"maxWidth": 300});
+        var popup_5b24fc687094467b24e43278c512a57a = L.popup({
+  "maxWidth": 350,
+});
 
         
             
-                var html_77876bee7313387abd20a3735f8c6627 = $(`<div id="html_77876bee7313387abd20a3735f8c6627" style="width: 100.0%; height: 100.0%;"><b>RHC-Fort Myers</b><br>Group: RHC<br>Address: 1567 Hayley Lane, Suite 101, Fort Myers, FL 33907-2109</div>`)[0];
-                popup_28da2df644810051532d5bebdeb4fcaf.setContent(html_77876bee7313387abd20a3735f8c6627);
+                var html_f6fa0fedf8e5cefa0cd6f8417a4aa657 = $(`<div id="html_f6fa0fedf8e5cefa0cd6f8417a4aa657" style="width: 100.0%; height: 100.0%;"> <b>RHC-Fort Myers</b><br> Group: RHC<br> Address: 1567 Hayley Lane, Suite 101, Fort Myers, FL 33907-2109<br> <div id="distance-info-marker-18" style="margin-top:5px; margin-bottom:5px;"></div> <button id="calc-button-marker-18" onclick="calculateAndShowDistance('marker-18', 26.5661, -81.8702)" style="margin-top:5px; padding: 3px 7px; font-size:0.9em; cursor:pointer; border:1px solid #007bff; background-color:#007bff; color:white; border-radius:3px;">Calculate distance from ZIP</button> </div>`)[0];
+                popup_5b24fc687094467b24e43278c512a57a.setContent(html_f6fa0fedf8e5cefa0cd6f8417a4aa657);
             
         
 
-        marker_daef14889d42cac8e9a8a302563e2dde.bindPopup(popup_28da2df644810051532d5bebdeb4fcaf)
+        marker_e714a280c52b13de190c88c0363aa158.bindPopup(popup_5b24fc687094467b24e43278c512a57a)
         ;
 
         
     
     
-            marker_daef14889d42cac8e9a8a302563e2dde.bindTooltip(
+            marker_e714a280c52b13de190c88c0363aa158.bindTooltip(
                 `<div>
                      RHC-Fort Myers
                  </div>`,
-                {"sticky": true}
+                {
+  "sticky": true,
+}
             );
         
     
-            var marker_243acb1b00bcdffea4ea685739da1a6a = L.marker(
+                marker_e714a280c52b13de190c88c0363aa158.setIcon(icon_c1d71cfc818e6cb2355c5e07d476f0fe);
+            
+    
+            var marker_81be138f2cb3a420bd14886d1bcba612 = L.marker(
                 [26.2432, -81.7746],
-                {}
-            ).addTo(map_fe4c8c2352aa7a3e285e62d344e6c71d);
+                {
+}
+            ).addTo(map_1eb76b068858a27e60a0fb934be3624a);
         
     
-            var icon_c34089baa3a8dc6203521cd55a7b846d = L.AwesomeMarkers.icon(
-                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "orange", "prefix": "glyphicon"}
+            var icon_d0d1fe471f53fedd108476880108e478 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "orange",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
             );
-            marker_243acb1b00bcdffea4ea685739da1a6a.setIcon(icon_c34089baa3a8dc6203521cd55a7b846d);
         
     
-        var popup_a71b0b47744b552fe23db5ba8436e097 = L.popup({"maxWidth": 300});
+        var popup_195d745e3da7eb9fc1ecc86323b16e77 = L.popup({
+  "maxWidth": 350,
+});
 
         
             
-                var html_858be5c1c69f213a17a1ba0bcd89aeb8 = $(`<div id="html_858be5c1c69f213a17a1ba0bcd89aeb8" style="width: 100.0%; height: 100.0%;"><b>RHC-Naples</b><br>Group: RHC<br>Address: 2210 Vanderbilt Beach Rd, Suite 1100, Naples, FL 34109-8727</div>`)[0];
-                popup_a71b0b47744b552fe23db5ba8436e097.setContent(html_858be5c1c69f213a17a1ba0bcd89aeb8);
+                var html_6829d232f904810a4dc66341e206d5fa = $(`<div id="html_6829d232f904810a4dc66341e206d5fa" style="width: 100.0%; height: 100.0%;"> <b>RHC-Naples</b><br> Group: RHC<br> Address: 2210 Vanderbilt Beach Rd, Suite 1100, Naples, FL 34109-8727<br> <div id="distance-info-marker-19" style="margin-top:5px; margin-bottom:5px;"></div> <button id="calc-button-marker-19" onclick="calculateAndShowDistance('marker-19', 26.2432, -81.7746)" style="margin-top:5px; padding: 3px 7px; font-size:0.9em; cursor:pointer; border:1px solid #007bff; background-color:#007bff; color:white; border-radius:3px;">Calculate distance from ZIP</button> </div>`)[0];
+                popup_195d745e3da7eb9fc1ecc86323b16e77.setContent(html_6829d232f904810a4dc66341e206d5fa);
             
         
 
-        marker_243acb1b00bcdffea4ea685739da1a6a.bindPopup(popup_a71b0b47744b552fe23db5ba8436e097)
+        marker_81be138f2cb3a420bd14886d1bcba612.bindPopup(popup_195d745e3da7eb9fc1ecc86323b16e77)
         ;
 
         
     
     
-            marker_243acb1b00bcdffea4ea685739da1a6a.bindTooltip(
+            marker_81be138f2cb3a420bd14886d1bcba612.bindTooltip(
                 `<div>
                      RHC-Naples
                  </div>`,
-                {"sticky": true}
+                {
+  "sticky": true,
+}
             );
         
     
-            var marker_9b5bd75fa22434b7aa9b602e5a3f49a5 = L.marker(
+                marker_81be138f2cb3a420bd14886d1bcba612.setIcon(icon_d0d1fe471f53fedd108476880108e478);
+            
+    
+            var marker_0d0946faff1ba418b34bb39489bf777c = L.marker(
                 [26.6358, -81.9747],
-                {}
-            ).addTo(map_fe4c8c2352aa7a3e285e62d344e6c71d);
+                {
+}
+            ).addTo(map_1eb76b068858a27e60a0fb934be3624a);
         
     
-            var icon_d933c3fd2148e3a46164eb2200694dc2 = L.AwesomeMarkers.icon(
-                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "darkred", "prefix": "glyphicon"}
+            var icon_788db28e42dfa89d96a87b34b0dad939 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "darkred",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
             );
-            marker_9b5bd75fa22434b7aa9b602e5a3f49a5.setIcon(icon_d933c3fd2148e3a46164eb2200694dc2);
         
     
-        var popup_62bb264d6856ab77e00bf20e4ff2d04a = L.popup({"maxWidth": 300});
+        var popup_e600af46ed071fc42cfc358a91229b91 = L.popup({
+  "maxWidth": 350,
+});
 
         
             
-                var html_4b6b2c6ec84cf3bd04b3e8b69623cab3 = $(`<div id="html_4b6b2c6ec84cf3bd04b3e8b69623cab3" style="width: 100.0%; height: 100.0%;"><b>SFEC-Cape Coral</b><br>Group: SFEC<br>Address: 2221 Santa Barbara Blvd, Suite 107, Cape Coral, FL 33991-4318</div>`)[0];
-                popup_62bb264d6856ab77e00bf20e4ff2d04a.setContent(html_4b6b2c6ec84cf3bd04b3e8b69623cab3);
+                var html_de200d9457212b4a58121eafedfe1330 = $(`<div id="html_de200d9457212b4a58121eafedfe1330" style="width: 100.0%; height: 100.0%;"> <b>SFEC-Cape Coral</b><br> Group: SFEC<br> Address: 2221 Santa Barbara Blvd, Suite 107, Cape Coral, FL 33991-4318<br> <div id="distance-info-marker-20" style="margin-top:5px; margin-bottom:5px;"></div> <button id="calc-button-marker-20" onclick="calculateAndShowDistance('marker-20', 26.6358, -81.9747)" style="margin-top:5px; padding: 3px 7px; font-size:0.9em; cursor:pointer; border:1px solid #007bff; background-color:#007bff; color:white; border-radius:3px;">Calculate distance from ZIP</button> </div>`)[0];
+                popup_e600af46ed071fc42cfc358a91229b91.setContent(html_de200d9457212b4a58121eafedfe1330);
             
         
 
-        marker_9b5bd75fa22434b7aa9b602e5a3f49a5.bindPopup(popup_62bb264d6856ab77e00bf20e4ff2d04a)
+        marker_0d0946faff1ba418b34bb39489bf777c.bindPopup(popup_e600af46ed071fc42cfc358a91229b91)
         ;
 
         
     
     
-            marker_9b5bd75fa22434b7aa9b602e5a3f49a5.bindTooltip(
+            marker_0d0946faff1ba418b34bb39489bf777c.bindTooltip(
                 `<div>
                      SFEC-Cape Coral
                  </div>`,
-                {"sticky": true}
+                {
+  "sticky": true,
+}
             );
         
     
-            var marker_0212fdce032518fc21c82242f5f99374 = L.marker(
+                marker_0d0946faff1ba418b34bb39489bf777c.setIcon(icon_788db28e42dfa89d96a87b34b0dad939);
+            
+    
+            var marker_e2c6b90be8ff0900330addb73c7f6eb7 = L.marker(
                 [26.5372, -81.8492],
-                {}
-            ).addTo(map_fe4c8c2352aa7a3e285e62d344e6c71d);
+                {
+}
+            ).addTo(map_1eb76b068858a27e60a0fb934be3624a);
         
     
-            var icon_ae7696a178abf26c24a679a59231cfb3 = L.AwesomeMarkers.icon(
-                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "darkred", "prefix": "glyphicon"}
+            var icon_d75cb11e9387689cd7c6e3763d8f8a0e = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "darkred",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
             );
-            marker_0212fdce032518fc21c82242f5f99374.setIcon(icon_ae7696a178abf26c24a679a59231cfb3);
         
     
-        var popup_98abafd3c7da065ed023f7dcbc74489f = L.popup({"maxWidth": 300});
+        var popup_17ea3349511f1f49e6c5b3b54731f911 = L.popup({
+  "maxWidth": 350,
+});
 
         
             
-                var html_8185d1eea9a44cda594dcc2694eb48e7 = $(`<div id="html_8185d1eea9a44cda594dcc2694eb48e7" style="width: 100.0%; height: 100.0%;"><b>SFEC-Fort Myers</b><br>Group: SFEC<br>Address: 6850 International Center Blvd, Fort Myers, FL 33912-7129</div>`)[0];
-                popup_98abafd3c7da065ed023f7dcbc74489f.setContent(html_8185d1eea9a44cda594dcc2694eb48e7);
+                var html_e91400009b661aefbe374120c3dc1c50 = $(`<div id="html_e91400009b661aefbe374120c3dc1c50" style="width: 100.0%; height: 100.0%;"> <b>SFEC-Fort Myers</b><br> Group: SFEC<br> Address: 6850 International Center Blvd, Fort Myers, FL 33912-7129<br> <div id="distance-info-marker-21" style="margin-top:5px; margin-bottom:5px;"></div> <button id="calc-button-marker-21" onclick="calculateAndShowDistance('marker-21', 26.5372, -81.8492)" style="margin-top:5px; padding: 3px 7px; font-size:0.9em; cursor:pointer; border:1px solid #007bff; background-color:#007bff; color:white; border-radius:3px;">Calculate distance from ZIP</button> </div>`)[0];
+                popup_17ea3349511f1f49e6c5b3b54731f911.setContent(html_e91400009b661aefbe374120c3dc1c50);
             
         
 
-        marker_0212fdce032518fc21c82242f5f99374.bindPopup(popup_98abafd3c7da065ed023f7dcbc74489f)
+        marker_e2c6b90be8ff0900330addb73c7f6eb7.bindPopup(popup_17ea3349511f1f49e6c5b3b54731f911)
         ;
 
         
     
     
-            marker_0212fdce032518fc21c82242f5f99374.bindTooltip(
+            marker_e2c6b90be8ff0900330addb73c7f6eb7.bindTooltip(
                 `<div>
                      SFEC-Fort Myers
                  </div>`,
-                {"sticky": true}
+                {
+  "sticky": true,
+}
             );
         
     
-            var marker_32e9517312463ab5e2a7887eb40585de = L.marker(
+                marker_e2c6b90be8ff0900330addb73c7f6eb7.setIcon(icon_d75cb11e9387689cd7c6e3763d8f8a0e);
+            
+    
+            var marker_291ec61a4f44dafad5e54a5864c336d4 = L.marker(
                 [26.2727, -81.8007],
-                {}
-            ).addTo(map_fe4c8c2352aa7a3e285e62d344e6c71d);
+                {
+}
+            ).addTo(map_1eb76b068858a27e60a0fb934be3624a);
         
     
-            var icon_b3749060bff2112ae3b69820661d4332 = L.AwesomeMarkers.icon(
-                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "darkred", "prefix": "glyphicon"}
+            var icon_6c37fba2591f5bad6176dbef15dfd5a7 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "darkred",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
             );
-            marker_32e9517312463ab5e2a7887eb40585de.setIcon(icon_b3749060bff2112ae3b69820661d4332);
         
     
-        var popup_890ff5cc96872b5884e8f85b252db44a = L.popup({"maxWidth": 300});
+        var popup_7ba5f276d1f49a9bad8fa28a901ebbd2 = L.popup({
+  "maxWidth": 350,
+});
 
         
             
-                var html_ef97bd1e1c3573d75a9085ff0bc44a33 = $(`<div id="html_ef97bd1e1c3573d75a9085ff0bc44a33" style="width: 100.0%; height: 100.0%;"><b>SFEC-Naples</b><br>Group: SFEC<br>Address: 11176 Tamiami Trail North, Naples, FL 34110-1640</div>`)[0];
-                popup_890ff5cc96872b5884e8f85b252db44a.setContent(html_ef97bd1e1c3573d75a9085ff0bc44a33);
+                var html_947f232157e8185d021d78032079b98c = $(`<div id="html_947f232157e8185d021d78032079b98c" style="width: 100.0%; height: 100.0%;"> <b>SFEC-Naples</b><br> Group: SFEC<br> Address: 11176 Tamiami Trail North, Naples, FL 34110-1640<br> <div id="distance-info-marker-22" style="margin-top:5px; margin-bottom:5px;"></div> <button id="calc-button-marker-22" onclick="calculateAndShowDistance('marker-22', 26.2727, -81.8007)" style="margin-top:5px; padding: 3px 7px; font-size:0.9em; cursor:pointer; border:1px solid #007bff; background-color:#007bff; color:white; border-radius:3px;">Calculate distance from ZIP</button> </div>`)[0];
+                popup_7ba5f276d1f49a9bad8fa28a901ebbd2.setContent(html_947f232157e8185d021d78032079b98c);
             
         
 
-        marker_32e9517312463ab5e2a7887eb40585de.bindPopup(popup_890ff5cc96872b5884e8f85b252db44a)
+        marker_291ec61a4f44dafad5e54a5864c336d4.bindPopup(popup_7ba5f276d1f49a9bad8fa28a901ebbd2)
         ;
 
         
     
     
-            marker_32e9517312463ab5e2a7887eb40585de.bindTooltip(
+            marker_291ec61a4f44dafad5e54a5864c336d4.bindTooltip(
                 `<div>
                      SFEC-Naples
                  </div>`,
-                {"sticky": true}
+                {
+  "sticky": true,
+}
             );
         
+    
+                marker_291ec61a4f44dafad5e54a5864c336d4.setIcon(icon_6c37fba2591f5bad6176dbef15dfd5a7);
+            
 </script>
 </html>

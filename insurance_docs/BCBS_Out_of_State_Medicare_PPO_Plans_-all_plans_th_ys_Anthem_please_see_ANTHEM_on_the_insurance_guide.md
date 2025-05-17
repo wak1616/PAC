@@ -54,6 +54,19 @@
 | Jon Berlie, MD | BCBS Out of State Medicare PPO | No Ref/No Auth Required | PAR |
 | Julie Carter, MD | BCBS Out of State Medicare PPO | No Ref/No Auth Required | PAR |
 
+## Lake Eye 
+
+| Provider | NextGen Name | Referral/Auth | Status |
+|----------|-------------|--------------|--------|
+| Alexandria Rawls, OD | BCBS Out of State Medicare PPO | No Ref/No Auth Required | PAR |
+| Christine Bui, OD | BCBS Out of State Medicare PPO | No Ref/No Auth Required | PAR |
+| Diba Ossareh, OD | BCBS Out of State Medicare PPO | No Ref/No Auth Required | PAR |
+| Jose Vazques-Diaz, MD | BCBS Out of State Medicare PPO | No Ref/No Auth Required | PAR |
+| Mari Holderby, OD | BCBS Out of State Medicare PPO | No Ref/No Auth Required | PAR |
+| Scot Holman, MD | BCBS Out of State Medicare PPO | No Ref/No Auth Required | PAR |
+| Scott Wehrly, MD | BCBS Out of State Medicare PPO | No Ref/No Auth Required | PAR |
+| Vinay Gutti, MD | BCBS Out of State Medicare PPO | No Ref/No Auth Required | PAR |
+
 ## Retina Health Center
 
 | Provider | NextGen Name | Referral/Auth | Status |

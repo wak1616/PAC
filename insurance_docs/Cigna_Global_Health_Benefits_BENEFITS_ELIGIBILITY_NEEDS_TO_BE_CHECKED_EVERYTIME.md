@@ -54,6 +54,19 @@
 | Jon Berlie, MD | Cigna International | Authorization Required | PAR |
 | Julie Carter, MD | Cigna International | Authorization Required | PAR |
 
+## Lake Eye 
+
+| Provider | NextGen Name | Referral/Auth | Status |
+|----------|-------------|--------------|--------|
+| Alexandria Rawls, OD | Cigna International | Authorization Required | PAR |
+| Christine Bui, OD | Cigna International | Authorization Required | PAR |
+| Diba Ossareh, OD | Cigna International | Authorization Required | Non-PAR |
+| Jose Vazques-Diaz, MD | Cigna International | Authorization Required | PAR |
+| Mari Holderby, OD | Cigna International | Authorization Required | PAR |
+| Scot Holman, MD | Cigna International | Authorization Required | PAR |
+| Scott Wehrly, MD | Cigna International | Authorization Required | PAR |
+| Vinay Gutti, MD | Cigna International | Authorization Required | PAR |
+
 ## Retina Health Center
 
 | Provider | NextGen Name | Referral/Auth | Status |

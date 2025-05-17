@@ -54,6 +54,19 @@
 | Jon Berlie, MD | UHC ER Wrap | Authorization Required | PAR |
 | Julie Carter, MD | UHC ER Wrap | Authorization Required | PAR |
 
+## Lake Eye 
+
+| Provider | NextGen Name | Referral/Auth | Status |
+|----------|-------------|--------------|--------|
+| Alexandria Rawls, OD | UHC ER Wrap | Authorization Required | PAR |
+| Christine Bui, OD | UHC ER Wrap | Authorization Required | PAR |
+| Diba Ossareh, OD | UHC ER Wrap | Authorization Required | PAR |
+| Jose Vazques-Diaz, MD | UHC ER Wrap | Authorization Required | PAR |
+| Mari Holderby, OD | UHC ER Wrap | Authorization Required | PAR |
+| Scot Holman, MD | UHC ER Wrap | Authorization Required | PAR |
+| Scott Wehrly, MD | UHC ER Wrap | Authorization Required | PAR |
+| Vinay Gutti, MD | UHC ER Wrap | Authorization Required | PAR |
+
 ## Retina Health Center
 
 | Provider | NextGen Name | Referral/Auth | Status |

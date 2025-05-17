@@ -54,6 +54,19 @@
 | Jon Berlie, MD | GEHA Commercial - UHC | No Ref/No Auth Required | PAR |
 | Julie Carter, MD | GEHA Commercial - UHC | No Ref/No Auth Required | PAR |
 
+## Lake Eye 
+
+| Provider | NextGen Name | Referral/Auth | Status |
+|----------|-------------|--------------|--------|
+| Alexandria Rawls, OD | GEHA Commercial - UHC | No Ref/No Auth Required | PAR |
+| Christine Bui, OD | GEHA Commercial - UHC | No Ref/No Auth Required | PAR |
+| Diba Ossareh, OD | GEHA Commercial - UHC | No Ref/No Auth Required | Non-PAR |
+| Jose Vazques-Diaz, MD | GEHA Commercial - UHC | No Ref/No Auth Required | PAR |
+| Mari Holderby, OD | GEHA Commercial - UHC | No Ref/No Auth Required | PAR |
+| Scot Holman, MD | GEHA Commercial - UHC | No Ref/No Auth Required | PAR |
+| Scott Wehrly, MD | GEHA Commercial - UHC | No Ref/No Auth Required | PAR |
+| Vinay Gutti, MD | GEHA Commercial - UHC | No Ref/No Auth Required | PAR |
+
 ## Retina Health Center
 
 | Provider | NextGen Name | Referral/Auth | Status |

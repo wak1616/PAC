@@ -8,11 +8,11 @@
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
-| Albert Smolyar, MD | nan | nan | Non-PAR -OON Benefits |
-| Brian Marhue, OD | nan | nan | Non-PAR -OON Benefits |
-| Hunter Vittone, OD | nan | nan | Non-PAR -OON Benefits |
-| Penny Orr, OD | nan | nan | Non-PAR -OON Benefits |
-| Sarah Johnson, OD | nan | nan | Non-PAR -OON Benefits |
+| Albert Smolyar, MD |  |  | Non-PAR -OON Benefits |
+| Brian Marhue, OD |  |  | Non-PAR -OON Benefits |
+| Hunter Vittone, OD |  |  | Non-PAR -OON Benefits |
+| Penny Orr, OD |  |  | Non-PAR -OON Benefits |
+| Sarah Johnson, OD |  |  | Non-PAR -OON Benefits |
 
 </details>
 

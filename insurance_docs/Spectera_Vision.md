@@ -49,20 +49,33 @@
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
-| George Brinnig-Jastrzebski, MD | Self Pay Non-Par with Ins | nan | Non-PAR |
-| Hunter Vittone, OD | Self Pay Non-Par with Ins | nan | Non-PAR |
-| Jon Berlie, MD | Self Pay Non-Par with Ins | nan | Non-PAR |
-| Julie Carter, MD | Self Pay Non-Par with Ins | nan | Non-PAR |
+| George Brinnig-Jastrzebski, MD | Self Pay Non-Par with Ins |  | Non-PAR |
+| Hunter Vittone, OD | Self Pay Non-Par with Ins |  | Non-PAR |
+| Jon Berlie, MD | Self Pay Non-Par with Ins |  | Non-PAR |
+| Julie Carter, MD | Self Pay Non-Par with Ins |  | Non-PAR |
+
+## Lake Eye 
+
+| Provider | NextGen Name | Referral/Auth | Status |
+|----------|-------------|--------------|--------|
+| Alexandria Rawls, OD | Spectera Vision | No Ref/No Auth Required | PAR |
+| Christine Bui, OD | Spectera Vision | No Ref/No Auth Required | PAR |
+| Diba Ossareh, OD | Spectera Vision | No Ref/No Auth Required | Non-PAR |
+| Jose Vazques-Diaz, MD | Spectera Vision | No Ref/No Auth Required | PAR |
+| Mari Holderby, OD | Spectera Vision | No Ref/No Auth Required | PAR |
+| Scot Holman, MD | Spectera Vision | No Ref/No Auth Required | PAR |
+| Scott Wehrly, MD | Spectera Vision | No Ref/No Auth Required | PAR |
+| Vinay Gutti, MD | Spectera Vision | No Ref/No Auth Required | PAR |
 
 ## SW FL Eye
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
-| Albert Smolyar, MD | Self Pay Non-Par with Ins | nan | Non-PAR |
-| Brian Marhue, OD | Self Pay Non-Par with Ins | nan | Non-PAR |
-| Hunter Vittone, OD | Self Pay Non-Par with Ins | nan | Non-PAR |
-| Penny Orr, OD | Self Pay Non-Par with Ins | nan | Non-PAR |
-| Sarah Johnson, OD | Self Pay Non-Par with Ins | nan | Non-PAR |
+| Albert Smolyar, MD | Self Pay Non-Par with Ins |  | Non-PAR |
+| Brian Marhue, OD | Self Pay Non-Par with Ins |  | Non-PAR |
+| Hunter Vittone, OD | Self Pay Non-Par with Ins |  | Non-PAR |
+| Penny Orr, OD | Self Pay Non-Par with Ins |  | Non-PAR |
+| Sarah Johnson, OD | Self Pay Non-Par with Ins |  | Non-PAR |
 
 </details>
 

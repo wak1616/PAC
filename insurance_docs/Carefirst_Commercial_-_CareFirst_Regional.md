@@ -54,6 +54,19 @@
 | Jon Berlie, MD | Carefirst BCBS Commercial HMO | No Ref/No Auth Required | PAR |
 | Julie Carter, MD | Carefirst BCBS Commercial HMO | No Ref/No Auth Required | PAR |
 
+## Lake Eye 
+
+| Provider | NextGen Name | Referral/Auth | Status |
+|----------|-------------|--------------|--------|
+| Alexandria Rawls, OD | Carefirst BCBS Commercial HMO | No Ref/No Auth Required | PAR |
+| Christine Bui, OD | Carefirst BCBS Commercial HMO | No Ref/No Auth Required | PAR |
+| Diba Ossareh, OD | Carefirst BCBS Commercial HMO | No Ref/No Auth Required | PAR |
+| Jose Vazques-Diaz, MD | Carefirst BCBS Commercial HMO | No Ref/No Auth Required | PAR |
+| Mari Holderby, OD | Carefirst BCBS Commercial HMO | No Ref/No Auth Required | PAR |
+| Scot Holman, MD | Carefirst BCBS Commercial HMO | No Ref/No Auth Required | PAR |
+| Scott Wehrly, MD | Carefirst BCBS Commercial HMO | No Ref/No Auth Required | PAR |
+| Vinay Gutti, MD | Carefirst BCBS Commercial HMO | No Ref/No Auth Required | PAR |
+
 ## Retina Health Center
 
 | Provider | NextGen Name | Referral/Auth | Status |

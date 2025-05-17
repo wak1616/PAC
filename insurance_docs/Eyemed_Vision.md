@@ -49,10 +49,23 @@
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
-| George Brinnig-Jastrzebski, MD | EyeMed Vision | nan | Non-PAR |
-| Hunter Vittone, OD | EyeMed Vision | nan | PAR |
-| Jon Berlie, MD | EyeMed Vision | nan | Non-PAR |
-| Julie Carter, MD | EyeMed Vision | nan | PAR |
+| George Brinnig-Jastrzebski, MD | EyeMed Vision |  | Non-PAR |
+| Hunter Vittone, OD | EyeMed Vision |  | PAR |
+| Jon Berlie, MD | EyeMed Vision |  | Non-PAR |
+| Julie Carter, MD | EyeMed Vision |  | PAR |
+
+## Lake Eye 
+
+| Provider | NextGen Name | Referral/Auth | Status |
+|----------|-------------|--------------|--------|
+| Alexandria Rawls, OD | Eyemed Vision | No Ref/No Auth Required | PAR |
+| Christine Bui, OD | Eyemed Vision | No Ref/No Auth Required | PAR |
+| Diba Ossareh, OD | Eyemed Vision | No Ref/No Auth Required | PAR |
+| Jose Vazques-Diaz, MD | Eyemed Vision | No Ref/No Auth Required | Non-PAR |
+| Mari Holderby, OD | Eyemed Vision | No Ref/No Auth Required | PAR |
+| Scot Holman, MD | Eyemed Vision | No Ref/No Auth Required | Non-PAR |
+| Scott Wehrly, MD | Eyemed Vision | No Ref/No Auth Required | Non-PAR |
+| Vinay Gutti, MD | Eyemed Vision | No Ref/No Auth Required | Non-PAR |
 
 ## SW FL Eye
 

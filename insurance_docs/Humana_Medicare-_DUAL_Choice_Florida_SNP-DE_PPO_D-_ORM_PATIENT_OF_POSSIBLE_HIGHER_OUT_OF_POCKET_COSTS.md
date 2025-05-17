@@ -8,14 +8,14 @@
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
-| Alexandria Rawls, OD | Primary: Humana Dual Medicare PPO Primary                                                 Secondary: Humana Dual Medicaid Secondary | nan | Non-PAR -OON Benefits |
-| Christine Bui, OD | Primary: Humana Dual Medicare PPO Primary                                                 Secondary: Humana Dual Medicaid Secondary | nan | Non-PAR -OON Benefits |
-| Diba Ossareh, OD | Primary: Humana Dual Medicare PPO Primary                                                 Secondary: Humana Dual Medicaid Secondary | nan | Non-PAR -OON Benefits |
-| Jose Vazques-Diaz, MD | Primary: Humana Dual Medicare PPO Primary                                                 Secondary: Humana Dual Medicaid Secondary | nan | Non-PAR -OON Benefits |
-| Mari Holderby, OD | Primary: Humana Dual Medicare PPO Primary                                                 Secondary: Humana Dual Medicaid Secondary | nan | Non-PAR -OON Benefits |
-| Scot Holman, MD | Primary: Humana Dual Medicare PPO Primary                                                 Secondary: Humana Dual Medicaid Secondary | nan | Non-PAR -OON Benefits |
-| Scott Wehrly, MD | Primary: Humana Dual Medicare PPO Primary                                                 Secondary: Humana Dual Medicaid Secondary | nan | Non-PAR -OON Benefits |
-| Vinay Gutti, MD | Primary: Humana Dual Medicare PPO Primary                                                 Secondary: Humana Dual Medicaid Secondary | nan | Non-PAR -OON Benefits |
+| Alexandria Rawls, OD | Primary: Humana Dual Medicare PPO Primary                                                 Secondary: Humana Dual Medicaid Secondary |  | Non-PAR -OON Benefits |
+| Christine Bui, OD | Primary: Humana Dual Medicare PPO Primary                                                 Secondary: Humana Dual Medicaid Secondary |  | Non-PAR -OON Benefits |
+| Diba Ossareh, OD | Primary: Humana Dual Medicare PPO Primary                                                 Secondary: Humana Dual Medicaid Secondary |  | Non-PAR -OON Benefits |
+| Jose Vazques-Diaz, MD | Primary: Humana Dual Medicare PPO Primary                                                 Secondary: Humana Dual Medicaid Secondary |  | Non-PAR -OON Benefits |
+| Mari Holderby, OD | Primary: Humana Dual Medicare PPO Primary                                                 Secondary: Humana Dual Medicaid Secondary |  | Non-PAR -OON Benefits |
+| Scot Holman, MD | Primary: Humana Dual Medicare PPO Primary                                                 Secondary: Humana Dual Medicaid Secondary |  | Non-PAR -OON Benefits |
+| Scott Wehrly, MD | Primary: Humana Dual Medicare PPO Primary                                                 Secondary: Humana Dual Medicaid Secondary |  | Non-PAR -OON Benefits |
+| Vinay Gutti, MD | Primary: Humana Dual Medicare PPO Primary                                                 Secondary: Humana Dual Medicaid Secondary |  | Non-PAR -OON Benefits |
 
 </details>
 

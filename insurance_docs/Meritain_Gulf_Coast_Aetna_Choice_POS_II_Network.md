@@ -54,6 +54,19 @@
 | Jon Berlie, MD | Meritain Health Commercial - Aetna | No Ref/No Auth Required | PAR |
 | Julie Carter, MD | Meritain Health Commercial - Aetna | No Ref/No Auth Required | PAR |
 
+## Lake Eye 
+
+| Provider | NextGen Name | Referral/Auth | Status |
+|----------|-------------|--------------|--------|
+| Alexandria Rawls, OD | Meritain Health Commercial - Aetna | No Ref/No Auth Required | Non-PAR |
+| Christine Bui, OD | Meritain Health Commercial - Aetna | No Ref/No Auth Required | PAR |
+| Diba Ossareh, OD | Meritain Health Commercial - Aetna | No Ref/No Auth Required | Non-PAR |
+| Jose Vazques-Diaz, MD | Meritain Health Commercial - Aetna | No Ref/No Auth Required | PAR |
+| Mari Holderby, OD | Meritain Health Commercial - Aetna | No Ref/No Auth Required | PAR |
+| Scot Holman, MD | Meritain Health Commercial - Aetna | No Ref/No Auth Required | PAR |
+| Scott Wehrly, MD | Meritain Health Commercial - Aetna | No Ref/No Auth Required | PAR |
+| Vinay Gutti, MD | Meritain Health Commercial - Aetna | No Ref/No Auth Required | PAR |
+
 ## Retina Health Center
 
 | Provider | NextGen Name | Referral/Auth | Status |

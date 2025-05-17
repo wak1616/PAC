@@ -436,4 +436,4 @@ if __name__ == "__main__":
     print(f"Successfully parsed {len(locations)} locations.")
     
     # Create map using hardcoded coordinates
-    create_location_map(locations) 
+    create_location_map(locations, output_filename="docs/locations_map.html") 
