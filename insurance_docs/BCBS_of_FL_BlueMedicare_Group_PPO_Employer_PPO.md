@@ -13,19 +13,6 @@
 | Jon Berlie, MD | BCBS FL Medicare PPO | No Ref/No Auth Required | PAR |
 | Julie Carter, MD | BCBS FL Medicare PPO | No Ref/No Auth Required | PAR |
 
-## Lake Eye 
-
-| Provider | NextGen Name | Referral/Auth | Status |
-|----------|-------------|--------------|--------|
-| Alexandria Rawls, OD | BCBS FL Medicare PPO | No Ref/No Auth Required | PAR |
-| Christine Bui, OD | BCBS FL Medicare PPO | No Ref/No Auth Required | PAR |
-| Diba Ossareh, OD | BCBS FL Medicare PPO | No Ref/No Auth Required | PAR |
-| Jose Vazques-Diaz, MD | BCBS FL Medicare PPO | No Ref/No Auth Required | PAR |
-| Mari Holderby, OD | BCBS FL Medicare PPO | No Ref/No Auth Required | PAR |
-| Scot Holman, MD | BCBS FL Medicare PPO | No Ref/No Auth Required | PAR |
-| Scott Wehrly, MD | BCBS FL Medicare PPO | No Ref/No Auth Required | PAR |
-| Vinay Gutti, MD | BCBS FL Medicare PPO | No Ref/No Auth Required | PAR |
-
 ## SW FL Eye
 
 | Provider | NextGen Name | Referral/Auth | Status |

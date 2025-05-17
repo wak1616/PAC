@@ -21,14 +21,14 @@
 | Aetna Innovation - Innovation Health Aetna Select/National Advantage Program (NAP)/Innovataion Health Aetna POS/PPO | Aetna Commercial PPO | No Ref/No Auth Required | PAR |
 | Aetna Medicare - Advantra - Eagle, Elite, Gold (HMO-POS) | Aetna Medicare HMO POS | No Ref/No Auth Required | PAR |
 | Aetna Medicare - Credit Plan (PPO) | Aetna Medicare PPO | No Ref/No Auth Required | PAR |
-| Aetna Medicare - Credit/Discover/Discover Value Plan (HMO) | Aetna Medicare HMO REFERRAL REQ | Referral Required | Non-PAR |
+| Aetna Medicare - Credit/Discover/Discover Value Plan (HMO) | Aetna Medicare HMO REFERRAL REQ | Referral Required | PAR |
 | Aetna Medicare - Select (HMO) | Aetna Medicare HMO REFERRAL REQ | Referral Required | Non-PAR |
 | Aetna Medicare - Essential/ Essential Elite/ Essentials PPO | Aetna Medicare PPO | No Ref/No Auth Required | PAR |
 | Aetna Medicare - Preferred/ Preferred Premium PPO | Aetna Medicare PPO | No Ref/No Auth Required | PAR |
 | Aetna Medicare- Advantra Credit Value/ Advantra Gold/ Advtantra Silver/ Advantra Preferred/ Advantra Premier/ Advantra Premier Plus/ Advantra Value PPO | Aetna Medicare PPO | No Ref/No Auth Required | PAR |
 | Aetna Medicare- Bronze/ Gold/ Platinum/ Core/ Core Elite/ Deluxe/ Discover/ Discover Value Plan PPO | Aetna Medicare PPO | No Ref/No Auth Required | PAR |
-| Aetna Medicare- Dual Choice/ Dual Preferred Plan/ Dual Select Choice/ Dual Select Signature HMO D-SNP | Primary: Aetna Dual MCR HMO Primary REFERRAL REQ                                                             Secondary: Aetna Dual Complete MCD HMO Secondary | Referral Required | Non-PAR |
-| Aetna Medicare- Dual Choice/ Dual Preferred Plan/ Dual Select Choice/ Dual Select Signature PPO D-SNP | Primary: Aetna Dual Complete Medicare PPO Primary                                                               Secondary: Aetna Dual Complete MCD PPO Secondary | No Ref/No Auth Required | Non-PAR |
+| Aetna Medicare- Dual Choice/ Dual Preferred Plan/ Dual Select Choice/ Dual Select Signature HMO D-SNP | Primary: Aetna Dual MCR HMO Primary REFERRAL REQ                                                             Secondary: Aetna Dual Complete MCD HMO Secondary | Referral Required | PAR |
+| Aetna Medicare- Dual Choice/ Dual Preferred Plan/ Dual Select Choice/ Dual Select Signature PPO D-SNP | Primary: Aetna Dual Complete Medicare PPO Primary                                                               Secondary: Aetna Dual Complete MCD PPO Secondary | No Ref/No Auth Required | PAR |
 | Aetna Medicare- Eagle/ Eagle Giveback/ Eagle I & II/ Eagle Plus PPO | Aetna Medicare PPO | No Ref/No Auth Required | PAR |
 | Aetna Medicare- Elite/Elite Plan 3 PPO | Aetna Medicare PPO | No Ref/No Auth Required | PAR |
 | Aetna Medicare- Enhanced Select PPO | Aetna Medicare PPO | No Ref/No Auth Required | PAR |
@@ -68,11 +68,11 @@
 | Anthem Blue- POS | Anthem BCBS Commercial PPO | No Ref/No Auth Required | PAR |
 | Anthem Blue-Pathway Essentials/Essentials Standard PPO/EPO | Anthem BCBS Commercial PPO | No Ref/No Auth Required | PAR |
 | Anthem Blue-Preferred POS (Select Network) | Anthem BCBS Commercial PPO | No Ref/No Auth Required | PAR |
-| Anthem BCBS-Blue View Vision/Blue Vision Insight/Blue Vision Insight Plus/Vision Insight Plus Select/IBM Vision Plan/Vision Access Value/Vision Minimum Premium Plan | Anthem BCBS Vision | No Ref/No Auth Required | PAR |
+| Anthem BCBS-Blue View Vision/Blue Vision Insight/Blue Vision Insight Plus/Vision Insight Plus Select/IBM Vision Plan/Vision Access Value/Vision Minimum Premium Plan | Anthem BCBS Vision | No Ref/No Auth Required | Non-PAR |
 | Avesis Vision | Avesis Vision | Authorization Required | Non-PAR |
-| AvMed HMO (State of Florida High Deductible Health Plan and State of Florida Standard HMO Plan) | AvMed Commercial HMO | No Ref/No Auth Required | PAR |
+| AvMed HMO (State of Florida High Deductible Health Plan and State of Florida Standard HMO Plan) | AvMed Commercial HMO | No Ref/No Auth Required | Non-PAR |
 | BCBS- FEP Blue Vision | Self Pay Non-Par with Ins | nan | Non-PAR |
-| BCBS of FL BlueCare/Blue Care w. Pediactric Vision - Alpha Prefix XJGH, VMBH, VMEH | BCBS FL Commercial HMO | Authorization Required | Non-PAR |
+| BCBS of FL BlueCare/Blue Care w. Pediactric Vision - Alpha Prefix XJGH, VMBH, VMEH | BCBS FL Commercial HMO | Authorization Required | PAR |
 | BCBS of FL BlueChoice | BCBS FL Commercial PPO | No Ref/No Auth Required | PAR |
 | BCBS of FL Blue High-Deductible Health Plan (HDHP), HMO- POS | BCBS FL Commercial HMO-POS | nan | PAR |
 | BCBS of FL BlueMedicare Classic/Classic Plus HMO - Alpha Prefix XJRH | BCBS FL Medicare HMO REFERRAL REQ | Referral Required | PAR |
@@ -82,11 +82,11 @@
 | BCBS of FL BlueMedicare Select PPO | BCBS FL Medicare PPO | No Ref/No Auth Required | PAR |
 | BCBS of FL BlueMedicare Value PPO/ BlueMedicare Value w. Level 1 - | BCBS FL Medicare PPO | No Ref/No Auth Required | PAR |
 | BCBS of FL BlueOptions Temporary Insurance/Blue Select Temporary Insurance | BCBS FL Commercial PPO | No Ref/No Auth Required | PAR |
-| BCBS of FL BlueOptions/Blue Options Hospial Surgical Plus/Blue Options with Pediactric Vision | BCBS FL Commercial PPO | No Ref/No Auth Required | Non-PAR |
+| BCBS of FL BlueOptions/Blue Options Hospial Surgical Plus/Blue Options with Pediactric Vision | BCBS FL Commercial PPO | No Ref/No Auth Required | PAR |
 | BCBS of FL BlueSelect/BlueSelect Hospital Surgical Plus/BlueSelect w. Pediatric Vision - Alpha Prefix VMAH | BCBS FL Commercial PPO | No Ref/No Auth Required | PAR |
 | BCBS of FL Federal Employee Program - alpha prefix R | BCBS Federal | No Ref/No Auth Required | PAR |
-| BCBS of FL myBlue Connected Care/myBlue w. Pediactric Vision - Alpha Prefix VMYH | BCBS FL myBlue HMO REFERRAL REQ | Referral Required | Non-PAR |
-| BCBS of FL SimplyBlue - Alpha Prefix FSOH | BCBS FL Commercial HMO | Authorization Required | Non-PAR |
+| BCBS of FL myBlue Connected Care/myBlue w. Pediactric Vision - Alpha Prefix VMYH | BCBS FL myBlue HMO REFERRAL REQ | Referral Required | PAR |
+| BCBS of FL SimplyBlue - Alpha Prefix FSOH | BCBS FL Commercial HMO | Authorization Required | PAR |
 | BCBS Out of State California ONLY | BCBS OOS CA - REFERRAL AND AUTH REQ- | Authorization Required | PAR |
 | BCBS Out of State Commercial PPO Plans -all plans that are not BCBS of Florida; please ask the patient to check the front and back copy of the card for the state. If the card says "Anthem", please see ANTHEM on the insurance guide | BCBS Out of State Commercial PPO | No Ref/No Auth Required | PAR |
 | BCBS Out of State HMO Plans - ALL PLANS Commercial and Medicare HMO PLANS | Self Pay Non-Par with Ins | nan | Non-PAR |
@@ -108,29 +108,29 @@
 | Cigna - NALC Benefit Health Plan | NALC Health Benefit Plan- Cigna | No Ref/No Auth Required | PAR |
 | Cigna Commercial- ChoiceFund OA Plus/ Cigna ChoiceFund OA Plus with CareLink | Cigna Commercial PPO | No Ref/No Auth Required | PAR |
 | Cigna Commercial- Florida Connect EPO | Self Pay Non-Par with Ins | nan | Non-PAR |
-| Cigna Commercial- HealthCare of Florida, Inc. - Fort Myers HMO | Cigna Commercial HMO | No Ref/No Auth Required | PAR |
+| Cigna Commercial- HealthCare of Florida, Inc. - Fort Myers HMO | Cigna Commercial HMO | No Ref/No Auth Required | Non-PAR |
 | CIGNA Commercial- HealthCare of Florida, Inc. - Tampa HMO | Cigna Commercial HMO | No Ref/No Auth Required | Non-PAR |
-| CIGNA Commercial- HealthCare Seamless Network - Florida | Cigna Commercial PPO | No Ref/No Auth Required | PAR |
+| CIGNA Commercial- HealthCare Seamless Network - Florida | Cigna Commercial PPO | No Ref/No Auth Required | Non-PAR |
 | Cigna Commercial -Local Plus | Cigna Commercial PPO | No Ref/No Auth Required | Non-PAR |
-| Cigna Commercial- Open Access Plus/ Carelink Open Access Plus/PPO/Choice Fund PPO | Cigna Commercial PPO | No Ref/No Auth Required | PAR |
+| Cigna Commercial- Open Access Plus/ Carelink Open Access Plus/PPO/Choice Fund PPO | Cigna Commercial PPO | No Ref/No Auth Required | Non-PAR |
 | Cigna Global Health Benefits (BENEFITS/ELIGIBILITY NEEDS TO BE CHECKED EVERYTIME) | Cigna International | Authorization Required | PAR |
 | Cigna Medicare PPO | Cigna Medicare PPO | nan | PAR |
-| Cigna Medicare HMO- Preferred/Preferred Savings Medicare/Courage | Cigna Medicare HMO REFERRAL REQUIRED | Referral Required | PAR |
+| Cigna Medicare HMO- Preferred/Preferred Savings Medicare/Courage | Cigna Medicare HMO REFERRAL REQUIRED | Referral Required | Non-PAR |
 | Cigna Medicare- TotalCare/Total Care Plus HMO D-SNP | Primary: Cigna Dual MDCR HMO Primary-REFERRAL REQ                                                      Secondary: Cigna Dual Medicaid HMO Secondary | Referral Required | Non-PAR |
 | Cigna Oscar- Open Access Plus/Local Plus | Self Pay Non-Par with Ins | nan | Non-PAR |
 | Cigna TotalCare Plus HMO D-SNP | Primary: Cigna Dual MDCR HMO Primary-REFERRAL REQ                                                      Secondary: Cigna Dual Medicaid HMO Secondary | Referral Required | Non-PAR |
 | Division of Blind | Division of Blind | Authorization Required | PAR |
 | Employee Benefits Management Services (EMBS) with Aetna Network | EBMS Commercial PPO - Aetna | No Ref/No Auth Required | PAR |
 | Evolution PPO | Evolutions PPO | No Ref/No Auth Required | PAR |
-| Eyemed Vision | Eyemed Vision | No Ref/No Auth Required | PAR |
+| Eyemed Vision | Eyemed Vision | No Ref/No Auth Required | Non-PAR |
 | First Health Network (through Aetna and/or PHP Network) PLEASE ASK THE PATIENT FOR THE HEALTH PLAN NAME ON THE CARD AND LOAD THE PLAN INTO NEXTGEN ACCORDING TO THEIR HEALTH PLAN | PLEASE ASK THE PATIENT FOR THE HEALTH PLAN NAME ON THE CARD. IF THE PAYER IS NOT LOADED INTO THE SYSTEM, USE: INS NOT IN NEXTGEN. SEE: Generic Insurance Protocol - PAC, Front Desk, and Customer Service.pdf | nan | PAR |
 | Freedom/Optimum Health Medicare ID # STARTS WITH P or T | Self Pay Non-Par with Ins | nan | Non-PAR |
 | GEHA (United Healthcare Choice Plus Network) PLEASE INCLUDE THE SUFFIX IN THE POLICY # ON THE ID CARD AS GEHA (EX: 1234567GEHA) | GEHA Commercial - UHC | No Ref/No Auth Required | PAR |
 | Golden Rule (UHC Choice Plus Network) | Golden Rule Commercial - UHC | No Ref/No Auth Required | PAR |
 | Harvard Pilgrim Healthcare (UHC Choice Plus Network) | Harvard Pilgrim - UHC | No Ref/No Auth Required | PAR |
-| Health Care Support (ministry plan with PHCS network) | Health Care Support - PHCS | No Ref/No Auth Required | Non-PAR |
+| Health Care Support (ministry plan with PHCS network) | Health Care Support - PHCS | No Ref/No Auth Required | PAR |
 | Humana Commercial - ALL PLANS - AS OF 01/01/25- PLAN IS NO LONGER OFFERED IN FL MARKETS | Self Pay Non-Par with Ins | nan | Non-PAR |
-| Humana Medicare Choice Florida SNP-DE (PPO D-SNP)-CFS (except Naples) is OUT OF NETWORK. PATIENT HAS OON BENEFITS. PLEASE INFORM PATIENT OF POSSIBLE HIGHER OUT OF POCKET COSTS | Primary: Humana Dual Medicare PPO Primary                                                 Secondary: Humana Dual Medicaid Secondary | No Ref/No Auth Required | Non-PAR |
+| Humana Medicare Choice Florida SNP-DE (PPO D-SNP)-CFS (except Naples) is OUT OF NETWORK. PATIENT HAS OON BENEFITS. PLEASE INFORM PATIENT OF POSSIBLE HIGHER OUT OF POCKET COSTS | Primary: Humana Dual Medicare PPO Primary                                                 Secondary: Humana Dual Medicaid Secondary | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Humana Medicare- Choice Florida (PPO)/Choice (Regional PPO)/USAA Honor PPO -CFS (except Naples) is OUT OF NETWORK. PATIENT HAS OON BENEFITS. PLEASE INFORM PATIENT OF POSSIBLE HIGHER OUT OF POCKET COSTS | Humana Medicare PPO | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Humana Medicare- HMO ALL PLANS | Self Pay Non-Par with Ins | nan | Non-PAR |
 | Independent Health (UHC) | Independent Health - UHC | No Ref/No Auth Required | PAR |
@@ -146,10 +146,10 @@
 | Multiplan PLEASE ASK THE PATIENT FOR THE HEALTH PLAN NAME ON THE CARD AND LOAD THE PLAN INTO NEXTGEN ACCORDING TO THEIR HEALTH PLAN | PLEASE ASK THE PATIENT FOR THE HEALTH PLAN NAME ON THE CARD. IF THE PAYER IS NOT LOADED INTO THE SYSTEM, USE: INS NOT IN NEXTGEN. SEE: Generic Insurance Protocol - PAC, Front Desk, and Customer Service.pdf | nan | PAR |
 | NALC Health Benefit Plan (Cigna Open Access Plus Network) | NALC Health Benefit Plan- Cigna | No Ref/No Auth Required | PAR |
 | Optum VA-Veterans Affairs Community Care Network CCN | Optum VA Community Care | Authorization Required | PAR |
-| PHCS PLEASE ASK THE PATIENT FOR THE HEALTH PLAN NAME ON THE CARD AND LOAD THE PLAN INTO NEXTGEN ACCORDING TO THEIR HEALTH PLAN | PLEASE ASK THE PATIENT FOR THE HEALTH PLAN NAME ON THE CARD. IF THE PAYER IS NOT LOADED INTO THE SYSTEM, USE: INS NOT IN NEXTGEN. SEE: Generic Insurance Protocol - PAC, Front Desk, and Customer Service.pdf | nan | Non-PAR |
+| PHCS PLEASE ASK THE PATIENT FOR THE HEALTH PLAN NAME ON THE CARD AND LOAD THE PLAN INTO NEXTGEN ACCORDING TO THEIR HEALTH PLAN | PLEASE ASK THE PATIENT FOR THE HEALTH PLAN NAME ON THE CARD. IF THE PAYER IS NOT LOADED INTO THE SYSTEM, USE: INS NOT IN NEXTGEN. SEE: Generic Insurance Protocol - PAC, Front Desk, and Customer Service.pdf | nan | PAR |
 | Presbyterian HMO | Self Pay Non-Par with Ins | nan | Non-PAR |
-| Priority Health Commercial- (Cigna Open Access Network) HMO | Priority Health Comm HMO REFERRAL -Cigna | Referral Required | PAR |
-| Priority Health Commercial- (Cigna Open Access Network) PPO | Priority Health Commercial PPO - Cigna | No Ref/No Auth Required | PAR |
+| Priority Health Commercial- (Cigna Open Access Network) HMO | Priority Health Comm HMO REFERRAL -Cigna | Referral Required | Non-PAR |
+| Priority Health Commercial- (Cigna Open Access Network) PPO | Priority Health Commercial PPO - Cigna | No Ref/No Auth Required | Non-PAR |
 | Priority Health Medicare- Priority Medicare Ideal/Travel Pass (Multiplan) PPO | Priority Health Medicare PPO - Multiplan | No Ref/No Auth Required | PAR |
 | Priority Health Medicare- Priority Medicare Value/Travel Pass (Multiplan) HMO -POS | Priority Health Medicare HMO - Multiplan | No Ref/No Auth Required | PAR |
 | Railroad Medicare - CONFIRM WITH PT AT THE BOTTOM OF THE ID CARD IT SAYS "RAILROAD RETIREMENT BOARD" | Railroad Medicare | No Ref/No Auth Required | PAR |
@@ -159,7 +159,7 @@
 | The Empire Plan- NYSHIP | UHC Empire PPO | No Ref/No Auth Required | PAR |
 | Tricare Prime CFS is OUT OF NETWORK. PATIENT HAS OON BENEFITS. PLEASE INFORM PATIENT OF POSSIBLE HIGHER OUT OF POCKET COSTS (see note). covered for a Routine Eye Exam every two years | Tricare Prime HMO-REFERRAL REQ | Referral Required | Non-PAR -OON Benefits |
 | Tricare Select CFS is OUT OF NETWORK. PATIENT HAS OON BENEFITS. PLEASE INFORM PATIENT OF POSSIBLE HIGHER OUT OF POCKET COSTS. Routine Eye Exams are NON-covered | Tricare Select | No Ref/No Auth Required | Non-PAR -OON Benefits |
-| UCare Medicare HMO CFS is OUT OF NETWORK. PATIENT HAS OON BENEFITS. PLEASE INFORM PATIENT OF POSSIBLE HIGHER OUT OF POCKET COSTS. | UCare Medicare HMO | No Ref/No Auth Required | Non-PAR |
+| UCare Medicare HMO CFS is OUT OF NETWORK. PATIENT HAS OON BENEFITS. PLEASE INFORM PATIENT OF POSSIBLE HIGHER OUT OF POCKET COSTS. | UCare Medicare HMO | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | UMR (UHC Choice Plus, Core, Freedom, NEXAUSACO OAP, Options PPO, Select Plus POS Networks) | UMR Commercial - UHC | No Ref/No Auth Required | PAR |
 | United Healthcare Care Advantage FL-E001 PPO I-SNP | Self Pay Non-Par with Ins | nan | Non-PAR |
 | United Healthcare Charter EPO/ POS | UHC Commercial PPO | No Ref/No Auth Required | PAR |
@@ -175,8 +175,8 @@
 | United Healthcare Core HMO | UHC Commercial HMO | No Ref/No Auth Required | PAR |
 | United Healthcare Doctors Plan EPO/ Plan Plus POS | UHC Commercial PPO | No Ref/No Auth Required | PAR |
 | United Healthcare Doctors Plan Plus HMO | UHC Commercial HMO | No Ref/No Auth Required | PAR |
-| United Healthcare Dual Complete™ HMO SNP | Primary: UHC Dual Complete Medicare HMO Primary                                                                  Secondary: UHC Dual Medicaid HMO Secondary | No Ref/No Auth Required | Non-PAR |
-| United Healthcare Dual Complete™ PPO SNP | Primary: UHC Dual Complete Medicare PPO Primary                                                                   Secondary: UHC Dual Medicaid PPO Secondary | No Ref/No Auth Required | Non-PAR |
+| United Healthcare Dual Complete™ HMO SNP | Primary: UHC Dual Complete Medicare HMO Primary                                                                  Secondary: UHC Dual Medicaid HMO Secondary | No Ref/No Auth Required | PAR |
+| United Healthcare Dual Complete™ PPO SNP | Primary: UHC Dual Complete Medicare PPO Primary                                                                   Secondary: UHC Dual Medicaid PPO Secondary | No Ref/No Auth Required | PAR |
 | United Healthcare ER Wrap (W500 on back of card) | UHC ER Wrap | Authorization Required | PAR |
 | United Healthcare FL CHIP ALL MEDICAID | Self Pay Non-Par with Ins | nan | Non-PAR |
 | United Healthcare Group Plan - employer group SHL Solutions. Card will say SHL Solutions Group | UHC Commercial - SHL Emp Group | No Ref/No Auth Required | PAR |

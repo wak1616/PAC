@@ -22,8 +22,8 @@
 | David Mertzlufft, OD | UHC Commercial HCA Plan | No Ref/No Auth Required | PAR |
 | David Shoemaker, MD | UHC Commercial HCA Plan | No Ref/No Auth Required | PAR |
 | David Shoemaker, MD | UHC Commercial HCA Plan | No Ref/No Auth Required | PAR |
-| Elizabeth Davis, MD                      Start Date 05/30/25 | UHC Commercial HCA Plan | No Ref/No Auth Required | PAR |
-| Elizabeth Davis, MD                      Start Date 05/30/25 | UHC Commercial HCA Plan | No Ref/No Auth Required | PAR |
+| Elizabeth Davis, MD                      Start Date 05/30/25 | UHC Commercial HCA Plan | No Ref/No Auth Required | Non-PAR |
+| Elizabeth Davis, MD                      Start Date 05/30/25 | UHC Commercial HCA Plan | No Ref/No Auth Required | Non-PAR |
 | Erin Hardie, OD | UHC Commercial HCA Plan | No Ref/No Auth Required | PAR |
 | Erin Hardie, OD | UHC Commercial HCA Plan | No Ref/No Auth Required | PAR |
 | George Hurwitz, OD | UHC Commercial HCA Plan | No Ref/No Auth Required | PAR |
@@ -32,8 +32,8 @@
 | Hunter Vittone, OD | UHC Commercial HCA Plan | No Ref/No Auth Required | PAR |
 | James Lenhart, OD | UHC Commercial HCA Plan | No Ref/No Auth Required | PAR |
 | James Lenhart, OD | UHC Commercial HCA Plan | No Ref/No Auth Required | PAR |
-| Joaquin De Rojas, MD | UHC Commercial HCA Plan | No Ref/No Auth Required | Non-PAR |
-| Joaquin De Rojas, MD | UHC Commercial HCA Plan | No Ref/No Auth Required | Non-PAR |
+| Joaquin De Rojas, MD | UHC Commercial HCA Plan | No Ref/No Auth Required | PAR |
+| Joaquin De Rojas, MD | UHC Commercial HCA Plan | No Ref/No Auth Required | PAR |
 | John Fezza, MD (Oculoplastics) | UHC Commercial HCA Plan | No Ref/No Auth Required | PAR |
 | John Fezza, MD (Oculoplastics) | UHC Commercial HCA Plan | No Ref/No Auth Required | PAR |
 | Joseph Sowka, OD | UHC Commercial HCA Plan | No Ref/No Auth Required | PAR |
@@ -72,6 +72,8 @@
 | Scott Stevens, OD | UHC Commercial HCA Plan | No Ref/No Auth Required | PAR |
 | Shannon Bednarz, PA | UHC Commercial HCA Plan | No Ref/No Auth Required | PAR |
 | Shannon Bednarz, PA | UHC Commercial HCA Plan | No Ref/No Auth Required | PAR |
+| Tanuj Banker, MD (RETINA) | UHC Commercial HCA Plan | No Ref/No Auth Required | PAR |
+| Tanuj Banker, MD (RETINA) | UHC Commercial HCA Plan | No Ref/No Auth Required | PAR |
 | Todd Lang, OD | UHC Commercial HCA Plan | No Ref/No Auth Required | PAR |
 | Todd Lang, OD | UHC Commercial HCA Plan | No Ref/No Auth Required | PAR |
 | Trisha Werner, OD | UHC Commercial HCA Plan | No Ref/No Auth Required | PAR |
@@ -91,19 +93,6 @@
 | Jon Berlie, MD | UHC Commercial HCA Plan | No Ref/No Auth Required | PAR |
 | Julie Carter, MD | UHC Commercial HCA Plan | No Ref/No Auth Required | PAR |
 | Julie Carter, MD | UHC Commercial HCA Plan | No Ref/No Auth Required | PAR |
-
-## Lake Eye 
-
-| Provider | NextGen Name | Referral/Auth | Status |
-|----------|-------------|--------------|--------|
-| Alexandria Rawls, OD | UHC Commercial HCA Plan | No Ref/No Auth Required | PAR |
-| Christine Bui, OD | UHC Commercial HCA Plan | No Ref/No Auth Required | PAR |
-| Diba Ossareh, OD | UHC Commercial HCA Plan | No Ref/No Auth Required | PAR |
-| Jose Vazques-Diaz, MD | UHC Commercial HCA Plan | No Ref/No Auth Required | PAR |
-| Mari Holderby, OD | UHC Commercial HCA Plan | No Ref/No Auth Required | PAR |
-| Scot Holman, MD | UHC Commercial HCA Plan | No Ref/No Auth Required | PAR |
-| Scott Wehrly, MD | UHC Commercial HCA Plan | No Ref/No Auth Required | PAR |
-| Vinay Gutti, MD | UHC Commercial HCA Plan | No Ref/No Auth Required | PAR |
 
 ## Retina Health Center
 

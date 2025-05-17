@@ -15,12 +15,12 @@
 | Daniel Hadland, OD | Cigna International | Authorization Required | PAR |
 | David Mertzlufft, OD | Cigna International | Authorization Required | PAR |
 | David Shoemaker, MD | Cigna International | Authorization Required | PAR |
-| Elizabeth Davis, MD                      Start Date 05/30/25 | Cigna International | Authorization Required | PAR |
+| Elizabeth Davis, MD                      Start Date 05/30/25 | Cigna International | Authorization Required | Non-PAR |
 | Erin Hardie, OD | Cigna International | Authorization Required | PAR |
 | George Hurwitz, OD | Cigna International | Authorization Required | PAR |
 | Hunter Vittone, OD | Cigna International | Authorization Required | PAR |
 | James Lenhart, OD | Cigna International | Authorization Required | PAR |
-| Joaquin De Rojas, MD | Cigna International | Authorization Required | Non-PAR |
+| Joaquin De Rojas, MD | Cigna International | Authorization Required | PAR |
 | John Fezza, MD (Oculoplastics) | Cigna International | Authorization Required | PAR |
 | Joseph Sowka, OD | Cigna International | Authorization Required | PAR |
 | Joshua Kim, MD | Cigna International | Authorization Required | PAR |
@@ -40,6 +40,7 @@
 | Rachael Randolph, OD | Cigna International | Authorization Required | PAR |
 | Scott Stevens, OD | Cigna International | Authorization Required | PAR |
 | Shannon Bednarz, PA | Cigna International | Authorization Required | PAR |
+| Tanuj Banker, MD (RETINA) | Cigna International | Authorization Required | PAR |
 | Todd Lang, OD | Cigna International | Authorization Required | PAR |
 | Trisha Werner, OD | Cigna International | Authorization Required | PAR |
 | William Soscia, MD | Cigna International | Authorization Required | PAR |
@@ -52,19 +53,6 @@
 | Hunter Vittone, OD | Cigna International | Authorization Required | PAR |
 | Jon Berlie, MD | Cigna International | Authorization Required | PAR |
 | Julie Carter, MD | Cigna International | Authorization Required | PAR |
-
-## Lake Eye 
-
-| Provider | NextGen Name | Referral/Auth | Status |
-|----------|-------------|--------------|--------|
-| Alexandria Rawls, OD | Cigna International | Authorization Required | PAR |
-| Christine Bui, OD | Cigna International | Authorization Required | PAR |
-| Diba Ossareh, OD | Cigna International | Authorization Required | Non-PAR |
-| Jose Vazques-Diaz, MD | Cigna International | Authorization Required | PAR |
-| Mari Holderby, OD | Cigna International | Authorization Required | PAR |
-| Scot Holman, MD | Cigna International | Authorization Required | PAR |
-| Scott Wehrly, MD | Cigna International | Authorization Required | PAR |
-| Vinay Gutti, MD | Cigna International | Authorization Required | PAR |
 
 ## Retina Health Center
 

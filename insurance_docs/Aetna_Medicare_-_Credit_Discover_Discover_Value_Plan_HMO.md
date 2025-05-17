@@ -15,12 +15,12 @@
 | Daniel Hadland, OD | Aetna Medicare HMO REFERRAL REQ | Referral Required | PAR |
 | David Mertzlufft, OD | Aetna Medicare HMO REFERRAL REQ | Referral Required | PAR |
 | David Shoemaker, MD | Aetna Medicare HMO REFERRAL REQ | Referral Required | PAR |
-| Elizabeth Davis, MD                      Start Date 05/30/25 | Aetna Medicare HMO REFERRAL REQ | Referral Required | PAR |
+| Elizabeth Davis, MD                      Start Date 05/30/25 | Aetna Medicare HMO REFERRAL REQ | Referral Required | Non-PAR |
 | Erin Hardie, OD | Aetna Medicare HMO REFERRAL REQ | Referral Required | PAR |
 | George Hurwitz, OD | Aetna Medicare HMO REFERRAL REQ | Referral Required | PAR |
 | Hunter Vittone, OD | Aetna Medicare HMO REFERRAL REQ | Referral Required | PAR |
 | James Lenhart, OD | Aetna Medicare HMO REFERRAL REQ | Referral Required | PAR |
-| Joaquin De Rojas, MD | Aetna Medicare HMO REFERRAL REQ | Referral Required | Non-PAR |
+| Joaquin De Rojas, MD | Aetna Medicare HMO REFERRAL REQ | Referral Required | PAR |
 | John Fezza, MD (Oculoplastics) | Aetna Medicare HMO REFERRAL REQ | Referral Required | PAR |
 | Joseph Sowka, OD | Aetna Medicare HMO REFERRAL REQ | Referral Required | PAR |
 | Joshua Kim, MD | Aetna Medicare HMO REFERRAL REQ | Referral Required | PAR |
@@ -39,7 +39,8 @@
 | Priya Mathews, MD | Aetna Medicare HMO REFERRAL REQ | Referral Required | PAR |
 | Rachael Randolph, OD | Aetna Medicare HMO REFERRAL REQ | Referral Required | PAR |
 | Scott Stevens, OD | Aetna Medicare HMO REFERRAL REQ | Referral Required | PAR |
-| Shannon Bednarz, PA | Aetna Medicare HMO REFERRAL REQ | Referral Required | Non-PAR |
+| Shannon Bednarz, PA | Aetna Medicare HMO REFERRAL REQ | Referral Required | PAR |
+| Tanuj Banker, MD (RETINA) | Aetna Medicare HMO REFERRAL REQ | Referral Required | Non-PAR |
 | Todd Lang, OD | Aetna Medicare HMO REFERRAL REQ | Referral Required | PAR |
 | Trisha Werner, OD | Aetna Medicare HMO REFERRAL REQ | Referral Required | PAR |
 | William Soscia, MD | Aetna Medicare HMO REFERRAL REQ | Referral Required | PAR |

@@ -15,12 +15,12 @@
 | Daniel Hadland, OD | GEHA Commercial - UHC | No Ref/No Auth Required | PAR |
 | David Mertzlufft, OD | GEHA Commercial - UHC | No Ref/No Auth Required | PAR |
 | David Shoemaker, MD | GEHA Commercial - UHC | No Ref/No Auth Required | PAR |
-| Elizabeth Davis, MD                      Start Date 05/30/25 | GEHA Commercial - UHC | No Ref/No Auth Required | PAR |
+| Elizabeth Davis, MD                      Start Date 05/30/25 | GEHA Commercial - UHC | No Ref/No Auth Required | Non-PAR |
 | Erin Hardie, OD | GEHA Commercial - UHC | No Ref/No Auth Required | PAR |
 | George Hurwitz, OD | GEHA Commercial - UHC | No Ref/No Auth Required | PAR |
 | Hunter Vittone, OD | GEHA Commercial - UHC | No Ref/No Auth Required | PAR |
 | James Lenhart, OD | GEHA Commercial - UHC | No Ref/No Auth Required | PAR |
-| Joaquin De Rojas, MD | GEHA Commercial - UHC | No Ref/No Auth Required | Non-PAR |
+| Joaquin De Rojas, MD | GEHA Commercial - UHC | No Ref/No Auth Required | PAR |
 | John Fezza, MD (Oculoplastics) | GEHA Commercial - UHC | No Ref/No Auth Required | PAR |
 | Joseph Sowka, OD | GEHA Commercial - UHC | No Ref/No Auth Required | PAR |
 | Joshua Kim, MD | GEHA Commercial - UHC | No Ref/No Auth Required | PAR |
@@ -40,6 +40,7 @@
 | Rachael Randolph, OD | GEHA Commercial - UHC | No Ref/No Auth Required | PAR |
 | Scott Stevens, OD | GEHA Commercial - UHC | No Ref/No Auth Required | PAR |
 | Shannon Bednarz, PA | GEHA Commercial - UHC | No Ref/No Auth Required | PAR |
+| Tanuj Banker, MD (RETINA) | GEHA Commercial - UHC | No Ref/No Auth Required | PAR |
 | Todd Lang, OD | GEHA Commercial - UHC | No Ref/No Auth Required | PAR |
 | Trisha Werner, OD | GEHA Commercial - UHC | No Ref/No Auth Required | PAR |
 | William Soscia, MD | GEHA Commercial - UHC | No Ref/No Auth Required | PAR |
@@ -52,19 +53,6 @@
 | Hunter Vittone, OD | GEHA Commercial - UHC | No Ref/No Auth Required | PAR |
 | Jon Berlie, MD | GEHA Commercial - UHC | No Ref/No Auth Required | PAR |
 | Julie Carter, MD | GEHA Commercial - UHC | No Ref/No Auth Required | PAR |
-
-## Lake Eye 
-
-| Provider | NextGen Name | Referral/Auth | Status |
-|----------|-------------|--------------|--------|
-| Alexandria Rawls, OD | GEHA Commercial - UHC | No Ref/No Auth Required | PAR |
-| Christine Bui, OD | GEHA Commercial - UHC | No Ref/No Auth Required | PAR |
-| Diba Ossareh, OD | GEHA Commercial - UHC | No Ref/No Auth Required | Non-PAR |
-| Jose Vazques-Diaz, MD | GEHA Commercial - UHC | No Ref/No Auth Required | PAR |
-| Mari Holderby, OD | GEHA Commercial - UHC | No Ref/No Auth Required | PAR |
-| Scot Holman, MD | GEHA Commercial - UHC | No Ref/No Auth Required | PAR |
-| Scott Wehrly, MD | GEHA Commercial - UHC | No Ref/No Auth Required | PAR |
-| Vinay Gutti, MD | GEHA Commercial - UHC | No Ref/No Auth Required | PAR |
 
 ## Retina Health Center
 

@@ -15,12 +15,12 @@
 | Daniel Hadland, OD | Tricare Prime HMO-REFERRAL REQ | Referral Required | Non-PAR -OON Benefits |
 | David Mertzlufft, OD | Tricare Prime HMO-REFERRAL REQ | Referral Required | Non-PAR -OON Benefits |
 | David Shoemaker, MD | Tricare Prime HMO-REFERRAL REQ | Referral Required | Non-PAR -OON Benefits |
-| Elizabeth Davis, MD                      Start Date 05/30/25 | Tricare Prime HMO-REFERRAL REQ | Referral Required | Non-PAR -OON Benefits |
+| Elizabeth Davis, MD                      Start Date 05/30/25 | Tricare Prime HMO-REFERRAL REQ | Referral Required | Non-PAR |
 | Erin Hardie, OD | Tricare Prime HMO-REFERRAL REQ | Referral Required | Non-PAR -OON Benefits |
 | George Hurwitz, OD | Tricare Prime HMO-REFERRAL REQ | Referral Required | Non-PAR -OON Benefits |
 | Hunter Vittone, OD | Tricare Prime HMO-REFERRAL REQ | Referral Required | Non-PAR -OON Benefits |
 | James Lenhart, OD | Tricare Prime HMO-REFERRAL REQ | Referral Required | Non-PAR -OON Benefits |
-| Joaquin De Rojas, MD | Tricare Prime HMO-REFERRAL REQ | Referral Required | Non-PAR |
+| Joaquin De Rojas, MD | Tricare Prime HMO-REFERRAL REQ | Referral Required | Non-PAR -OON Benefits |
 | John Fezza, MD (Oculoplastics) | Tricare Prime HMO-REFERRAL REQ | Referral Required | Non-PAR -OON Benefits |
 | Joseph Sowka, OD | Tricare Prime HMO-REFERRAL REQ | Referral Required | Non-PAR -OON Benefits |
 | Joshua Kim, MD | Tricare Prime HMO-REFERRAL REQ | Referral Required | Non-PAR -OON Benefits |
@@ -40,6 +40,7 @@
 | Rachael Randolph, OD | Tricare Prime HMO-REFERRAL REQ | Referral Required | Non-PAR -OON Benefits |
 | Scott Stevens, OD | Tricare Prime HMO-REFERRAL REQ | Referral Required | Non-PAR -OON Benefits |
 | Shannon Bednarz, PA | Tricare Prime HMO-REFERRAL REQ | Referral Required | Non-PAR -OON Benefits |
+| Tanuj Banker, MD (RETINA) | Tricare Prime HMO-REFERRAL REQ | Referral Required | Non-PAR -OON Benefits |
 | Todd Lang, OD | Tricare Prime HMO-REFERRAL REQ | Referral Required | Non-PAR -OON Benefits |
 | Trisha Werner, OD | Tricare Prime HMO-REFERRAL REQ | Referral Required | Non-PAR -OON Benefits |
 | William Soscia, MD | Tricare Prime HMO-REFERRAL REQ | Referral Required | Non-PAR -OON Benefits |

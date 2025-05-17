@@ -123,7 +123,7 @@
 | Employee Benefits Management Services (EMBS) with Aetna Network | EBMS Commercial PPO - Aetna | No Ref/No Auth Required | PAR |
 | Evolution PPO | Evolutions PPO | No Ref/No Auth Required | PAR |
 | Eyemed Vision | Eyemed Vision | No Ref/No Auth Required | PAR |
-| First Health Network (through Aetna and/or PHP Network) PLEASE ASK THE PATIENT FOR THE HEALTH PLAN NAME ON THE CARD AND LOAD THE PLAN INTO NEXTGEN ACCORDING TO THEIR HEALTH PLAN | PLEASE ASK THE PATIENT FOR THE HEALTH PLAN NAME ON THE CARD. IF THE PAYER IS NOT LOADED INTO THE SYSTEM, USE: INS NOT IN NEXTGEN. SEE: Generic Insurance Protocol - PAC, Front Desk, and Customer Service.pdf | nan | PAR |
+| First Health Network (through Aetna and/or PHP Network) PLEASE ASK THE PATIENT FOR THE HEALTH PLAN NAME ON THE CARD AND LOAD THE PLAN INTO NEXTGEN ACCORDING TO THEIR HEALTH PLAN | PLEASE ASK THE PATIENT FOR THE HEALTH PLAN NAME ON THE CARD. IF THE PAYER IS NOT LOADED INTO THE SYSTEM, USE: INS NOT IN NEXTGEN. SEE: Generic Insurance Protocol - PAC, Front Desk, and Customer Service.pdf | nan | Non-PAR |
 | Freedom/Optimum Health Medicare ID # STARTS WITH P or T | Self Pay Non-Par with Ins | nan | Non-PAR |
 | GEHA (United Healthcare Choice Plus Network) PLEASE INCLUDE THE SUFFIX IN THE POLICY # ON THE ID CARD AS GEHA (EX: 1234567GEHA) | GEHA Commercial - UHC | No Ref/No Auth Required | PAR |
 | Golden Rule (UHC Choice Plus Network) | Golden Rule Commercial - UHC | No Ref/No Auth Required | PAR |
@@ -154,7 +154,7 @@
 | Priority Health Medicare- Priority Medicare Value/Travel Pass (Multiplan) HMO -POS | Priority Health Medicare HMO - Multiplan | No Ref/No Auth Required | PAR |
 | Railroad Medicare - CONFIRM WITH PT AT THE BOTTOM OF THE ID CARD IT SAYS "RAILROAD RETIREMENT BOARD" | Railroad Medicare | No Ref/No Auth Required | PAR |
 | ROTC/Military Screening - Dr. MIDDAUGH ONLY. pATIENT WILL NOT HAVE AN ID CARD AS THEY ARE PRESENTING FOR A ROTC/MILITARY SCREENING | Concorde Inc | Authorization Required- ROTC Fom is required for the Clinical Team | Non-PAR |
-| Spectera Vision | Spectera Vision | No Ref/No Auth Required | PAR |
+| Spectera Vision | Spectera Vision | No Ref/No Auth Required | Non-PAR |
 | Surest (United Healthcare Choice Plus Network) | Surest Commercial - UHC | No Ref/No Auth Required | PAR |
 | The Empire Plan- NYSHIP | UHC Empire PPO | No Ref/No Auth Required | PAR |
 | Tricare Prime CFS is OUT OF NETWORK. PATIENT HAS OON BENEFITS. PLEASE INFORM PATIENT OF POSSIBLE HIGHER OUT OF POCKET COSTS (see note). covered for a Routine Eye Exam every two years | Tricare Prime HMO-REFERRAL REQ | Referral Required | Non-PAR -OON Benefits |
@@ -209,7 +209,7 @@
 | Versant: Superior Vision | Superior Vision | Authorization Required | PAR |
 | Vitori Health Open Access Plan | Vitori Health Open Access Plan | No Ref/No Auth Required | PAR |
 | VSP Vision | Vision Service Plan | Authorization Required | PAR |
-| Web TPA | Web TPA | No Ref/No Auth Required | PAR |
+| Web TPA | Web TPA | No Ref/No Auth Required | Non-PAR |
 | Wellcare Medicare HMO | Self Pay Non-Par with Ins | nan | Non-PAR |
 | Wellcare Medicare PPO CFS is OUT OF NETWORK. PATIENT HAS OON BENEFITS. PLEASE INFORM PATIENT OF POSSIBLE HIGHER OUT OF POCKET COSTS. BENEFIT MUST BE CHECKED PRIOR TO APPT | WellCare Medicare PPO | Authorization MAY BE Required | Non-PAR -OON Benefits |
 

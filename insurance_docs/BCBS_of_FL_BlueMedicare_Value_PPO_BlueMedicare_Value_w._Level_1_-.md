@@ -40,22 +40,10 @@
 | Rachael Randolph, OD | BCBS FL Medicare PPO | No Ref/No Auth Required | PAR |
 | Scott Stevens, OD | BCBS FL Medicare PPO | No Ref/No Auth Required | PAR |
 | Shannon Bednarz, PA | BCBS FL Medicare PPO | No Ref/No Auth Required | PAR |
+| Tanuj Banker, MD (RETINA) | BCBS FL Medicare PPO | No Ref/No Auth Required | PAR |
 | Todd Lang, OD | BCBS FL Medicare PPO | No Ref/No Auth Required | PAR |
 | Trisha Werner, OD | BCBS FL Medicare PPO | No Ref/No Auth Required | PAR |
 | William Soscia, MD | BCBS FL Medicare PPO | No Ref/No Auth Required | PAR |
-
-## Lake Eye 
-
-| Provider | NextGen Name | Referral/Auth | Status |
-|----------|-------------|--------------|--------|
-| Alexandria Rawls, OD | BCBS FL Medicare PPO | No Ref/No Auth Required | PAR |
-| Christine Bui, OD | BCBS FL Medicare PPO | No Ref/No Auth Required | PAR |
-| Diba Ossareh, OD | BCBS FL Medicare PPO | No Ref/No Auth Required | PAR |
-| Jose Vazques-Diaz, MD | BCBS FL Medicare PPO | No Ref/No Auth Required | PAR |
-| Mari Holderby, OD | BCBS FL Medicare PPO | No Ref/No Auth Required | PAR |
-| Scot Holman, MD | BCBS FL Medicare PPO | No Ref/No Auth Required | PAR |
-| Scott Wehrly, MD | BCBS FL Medicare PPO | No Ref/No Auth Required | PAR |
-| Vinay Gutti, MD | BCBS FL Medicare PPO | No Ref/No Auth Required | PAR |
 
 </details>
 

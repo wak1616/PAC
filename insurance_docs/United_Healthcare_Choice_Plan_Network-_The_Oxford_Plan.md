@@ -15,12 +15,12 @@
 | Daniel Hadland, OD | UHC Oxford PPO | No Ref/No Auth Required | PAR |
 | David Mertzlufft, OD | UHC Oxford PPO | No Ref/No Auth Required | PAR |
 | David Shoemaker, MD | UHC Oxford PPO | No Ref/No Auth Required | PAR |
-| Elizabeth Davis, MD                      Start Date 05/30/25 | UHC Oxford PPO | No Ref/No Auth Required | PAR |
+| Elizabeth Davis, MD                      Start Date 05/30/25 | UHC Oxford PPO | No Ref/No Auth Required | Non-PAR |
 | Erin Hardie, OD | UHC Oxford PPO | No Ref/No Auth Required | PAR |
 | George Hurwitz, OD | UHC Oxford PPO | No Ref/No Auth Required | PAR |
 | Hunter Vittone, OD | UHC Oxford PPO | No Ref/No Auth Required | PAR |
 | James Lenhart, OD | UHC Oxford PPO | No Ref/No Auth Required | PAR |
-| Joaquin De Rojas, MD | UHC Oxford PPO | No Ref/No Auth Required | Non-PAR |
+| Joaquin De Rojas, MD | UHC Oxford PPO | No Ref/No Auth Required | PAR |
 | John Fezza, MD (Oculoplastics) | UHC Oxford PPO | No Ref/No Auth Required | PAR |
 | Joseph Sowka, OD | UHC Oxford PPO | No Ref/No Auth Required | PAR |
 | Joshua Kim, MD | UHC Oxford PPO | No Ref/No Auth Required | PAR |
@@ -40,6 +40,7 @@
 | Rachael Randolph, OD | UHC Oxford PPO | No Ref/No Auth Required | PAR |
 | Scott Stevens, OD | UHC Oxford PPO | No Ref/No Auth Required | PAR |
 | Shannon Bednarz, PA | UHC Oxford PPO | No Ref/No Auth Required | PAR |
+| Tanuj Banker, MD (RETINA) | UHC Oxford PPO | No Ref/No Auth Required | PAR |
 | Todd Lang, OD | UHC Oxford PPO | No Ref/No Auth Required | PAR |
 | Trisha Werner, OD | UHC Oxford PPO | No Ref/No Auth Required | PAR |
 | William Soscia, MD | UHC Oxford PPO | No Ref/No Auth Required | PAR |
@@ -52,19 +53,6 @@
 | Hunter Vittone, OD | UHC Oxford PPO | No Ref/No Auth Required | PAR |
 | Jon Berlie, MD | UHC Oxford PPO | No Ref/No Auth Required | PAR |
 | Julie Carter, MD | UHC Oxford PPO | No Ref/No Auth Required | PAR |
-
-## Lake Eye 
-
-| Provider | NextGen Name | Referral/Auth | Status |
-|----------|-------------|--------------|--------|
-| Alexandria Rawls, OD | UHC Oxford PPO | No Ref/No Auth Required | PAR |
-| Christine Bui, OD | UHC Oxford PPO | No Ref/No Auth Required | PAR |
-| Diba Ossareh, OD | UHC Oxford PPO | No Ref/No Auth Required | PAR |
-| Jose Vazques-Diaz, MD | UHC Oxford PPO | No Ref/No Auth Required | PAR |
-| Mari Holderby, OD | UHC Oxford PPO | No Ref/No Auth Required | PAR |
-| Scot Holman, MD | UHC Oxford PPO | No Ref/No Auth Required | PAR |
-| Scott Wehrly, MD | UHC Oxford PPO | No Ref/No Auth Required | PAR |
-| Vinay Gutti, MD | UHC Oxford PPO | No Ref/No Auth Required | PAR |
 
 </details>
 

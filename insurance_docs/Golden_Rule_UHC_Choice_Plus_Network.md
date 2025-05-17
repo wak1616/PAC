@@ -15,12 +15,12 @@
 | Daniel Hadland, OD | Golden Rule Commercial - UHC | No Ref/No Auth Required | PAR |
 | David Mertzlufft, OD | Golden Rule Commercial - UHC | No Ref/No Auth Required | PAR |
 | David Shoemaker, MD | Golden Rule Commercial - UHC | No Ref/No Auth Required | PAR |
-| Elizabeth Davis, MD                      Start Date 05/30/25 | Golden Rule Commercial - UHC | No Ref/No Auth Required | PAR |
+| Elizabeth Davis, MD                      Start Date 05/30/25 | Golden Rule Commercial - UHC | No Ref/No Auth Required | Non-PAR |
 | Erin Hardie, OD | Golden Rule Commercial - UHC | No Ref/No Auth Required | PAR |
 | George Hurwitz, OD | Golden Rule Commercial - UHC | No Ref/No Auth Required | PAR |
 | Hunter Vittone, OD | Golden Rule Commercial - UHC | No Ref/No Auth Required | PAR |
 | James Lenhart, OD | Golden Rule Commercial - UHC | No Ref/No Auth Required | PAR |
-| Joaquin De Rojas, MD | Golden Rule Commercial - UHC | No Ref/No Auth Required | Non-PAR |
+| Joaquin De Rojas, MD | Golden Rule Commercial - UHC | No Ref/No Auth Required | PAR |
 | John Fezza, MD (Oculoplastics) | Golden Rule Commercial - UHC | No Ref/No Auth Required | PAR |
 | Joseph Sowka, OD | Golden Rule Commercial - UHC | No Ref/No Auth Required | PAR |
 | Joshua Kim, MD | Golden Rule Commercial - UHC | No Ref/No Auth Required | PAR |
@@ -40,6 +40,7 @@
 | Rachael Randolph, OD | Golden Rule Commercial - UHC | No Ref/No Auth Required | PAR |
 | Scott Stevens, OD | Golden Rule Commercial - UHC | No Ref/No Auth Required | PAR |
 | Shannon Bednarz, PA | Golden Rule Commercial - UHC | No Ref/No Auth Required | PAR |
+| Tanuj Banker, MD (RETINA) | Golden Rule Commercial - UHC | No Ref/No Auth Required | PAR |
 | Todd Lang, OD | Golden Rule Commercial - UHC | No Ref/No Auth Required | PAR |
 | Trisha Werner, OD | Golden Rule Commercial - UHC | No Ref/No Auth Required | PAR |
 | William Soscia, MD | Golden Rule Commercial - UHC | No Ref/No Auth Required | PAR |
@@ -52,19 +53,6 @@
 | Hunter Vittone, OD | Golden Rule Commercial - UHC | No Ref/No Auth Required | PAR |
 | Jon Berlie, MD | Golden Rule Commercial - UHC | No Ref/No Auth Required | PAR |
 | Julie Carter, MD | Golden Rule Commercial - UHC | No Ref/No Auth Required | PAR |
-
-## Lake Eye 
-
-| Provider | NextGen Name | Referral/Auth | Status |
-|----------|-------------|--------------|--------|
-| Alexandria Rawls, OD | Golden Rule Commercial - UHC | No Ref/No Auth Required | PAR |
-| Christine Bui, OD | Golden Rule Commercial - UHC | No Ref/No Auth Required | PAR |
-| Diba Ossareh, OD | Golden Rule Commercial - UHC | No Ref/No Auth Required | Non-PAR |
-| Jose Vazques-Diaz, MD | Golden Rule Commercial - UHC | No Ref/No Auth Required | PAR |
-| Mari Holderby, OD | Golden Rule Commercial - UHC | No Ref/No Auth Required | PAR |
-| Scot Holman, MD | Golden Rule Commercial - UHC | No Ref/No Auth Required | PAR |
-| Scott Wehrly, MD | Golden Rule Commercial - UHC | No Ref/No Auth Required | PAR |
-| Vinay Gutti, MD | Golden Rule Commercial - UHC | No Ref/No Auth Required | PAR |
 
 ## Retina Health Center
 

@@ -70,7 +70,7 @@
 | Anthem Blue-Preferred POS (Select Network) | Anthem BCBS Commercial PPO | No Ref/No Auth Required | PAR |
 | Anthem BCBS-Blue View Vision/Blue Vision Insight/Blue Vision Insight Plus/Vision Insight Plus Select/IBM Vision Plan/Vision Access Value/Vision Minimum Premium Plan | Anthem BCBS Vision | No Ref/No Auth Required | PAR |
 | Avesis Vision | Avesis Vision | Authorization Required | Non-PAR |
-| AvMed HMO (State of Florida High Deductible Health Plan and State of Florida Standard HMO Plan) | AvMed Commercial HMO | No Ref/No Auth Required | Non-PAR |
+| AvMed HMO (State of Florida High Deductible Health Plan and State of Florida Standard HMO Plan) | AvMed Commercial HMO | No Ref/No Auth Required | PAR |
 | BCBS- FEP Blue Vision | Self Pay Non-Par with Ins | nan | Non-PAR |
 | BCBS of FL BlueCare/Blue Care w. Pediactric Vision - Alpha Prefix XJGH, VMBH, VMEH | BCBS FL Commercial HMO | Authorization Required | PAR |
 | BCBS of FL BlueChoice | BCBS FL Commercial PPO | No Ref/No Auth Required | PAR |
@@ -109,7 +109,7 @@
 | Cigna Commercial- ChoiceFund OA Plus/ Cigna ChoiceFund OA Plus with CareLink | Cigna Commercial PPO | No Ref/No Auth Required | PAR |
 | Cigna Commercial- Florida Connect EPO | Self Pay Non-Par with Ins | nan | Non-PAR |
 | Cigna Commercial- HealthCare of Florida, Inc. - Fort Myers HMO | Cigna Commercial HMO | No Ref/No Auth Required | PAR |
-| CIGNA Commercial- HealthCare of Florida, Inc. - Tampa HMO | Cigna Commercial HMO | No Ref/No Auth Required | PAR |
+| CIGNA Commercial- HealthCare of Florida, Inc. - Tampa HMO | Cigna Commercial HMO | No Ref/No Auth Required | Non-PAR |
 | CIGNA Commercial- HealthCare Seamless Network - Florida | Cigna Commercial PPO | No Ref/No Auth Required | PAR |
 | Cigna Commercial -Local Plus | Cigna Commercial PPO | No Ref/No Auth Required | Non-PAR |
 | Cigna Commercial- Open Access Plus/ Carelink Open Access Plus/PPO/Choice Fund PPO | Cigna Commercial PPO | No Ref/No Auth Required | PAR |
@@ -123,7 +123,7 @@
 | Employee Benefits Management Services (EMBS) with Aetna Network | EBMS Commercial PPO - Aetna | No Ref/No Auth Required | PAR |
 | Evolution PPO | Evolutions PPO | No Ref/No Auth Required | PAR |
 | Eyemed Vision | Eyemed Vision | No Ref/No Auth Required | PAR |
-| First Health Network (through Aetna and/or PHP Network) PLEASE ASK THE PATIENT FOR THE HEALTH PLAN NAME ON THE CARD AND LOAD THE PLAN INTO NEXTGEN ACCORDING TO THEIR HEALTH PLAN | PLEASE ASK THE PATIENT FOR THE HEALTH PLAN NAME ON THE CARD. IF THE PAYER IS NOT LOADED INTO THE SYSTEM, USE: INS NOT IN NEXTGEN. SEE: Generic Insurance Protocol - PAC, Front Desk, and Customer Service.pdf | nan | PAR |
+| First Health Network (through Aetna and/or PHP Network) PLEASE ASK THE PATIENT FOR THE HEALTH PLAN NAME ON THE CARD AND LOAD THE PLAN INTO NEXTGEN ACCORDING TO THEIR HEALTH PLAN | PLEASE ASK THE PATIENT FOR THE HEALTH PLAN NAME ON THE CARD. IF THE PAYER IS NOT LOADED INTO THE SYSTEM, USE: INS NOT IN NEXTGEN. SEE: Generic Insurance Protocol - PAC, Front Desk, and Customer Service.pdf | nan | Non-PAR |
 | Freedom/Optimum Health Medicare ID # STARTS WITH P or T | Self Pay Non-Par with Ins | nan | Non-PAR |
 | GEHA (United Healthcare Choice Plus Network) PLEASE INCLUDE THE SUFFIX IN THE POLICY # ON THE ID CARD AS GEHA (EX: 1234567GEHA) | GEHA Commercial - UHC | No Ref/No Auth Required | PAR |
 | Golden Rule (UHC Choice Plus Network) | Golden Rule Commercial - UHC | No Ref/No Auth Required | PAR |

@@ -40,6 +40,7 @@
 | Rachael Randolph, OD | BCBS OOS MDCR HMO POS - REFERRAL REQ | Referral Required | PAR |
 | Scott Stevens, OD | BCBS OOS MDCR HMO POS - REFERRAL REQ | Referral Required | PAR |
 | Shannon Bednarz, PA | BCBS OOS MDCR HMO POS - REFERRAL REQ | Referral Required | PAR |
+| Tanuj Banker, MD (RETINA) | BCBS OOS MDCR HMO POS - REFERRAL REQ | Referral Required | PAR |
 | Todd Lang, OD | BCBS OOS MDCR HMO POS - REFERRAL REQ | Referral Required | PAR |
 | Trisha Werner, OD | BCBS OOS MDCR HMO POS - REFERRAL REQ | Referral Required | PAR |
 | William Soscia, MD | BCBS OOS MDCR HMO POS - REFERRAL REQ | Referral Required | PAR |
@@ -52,19 +53,6 @@
 | Hunter Vittone, OD | BCBS OOS MDCR HMO POS - REFERRAL REQ | Referral Required | PAR |
 | Jon Berlie, MD | BCBS OOS MDCR HMO POS - REFERRAL REQ | Referral Required | PAR |
 | Julie Carter, MD | BCBS OOS MDCR HMO POS - REFERRAL REQ | Referral Required | PAR |
-
-## Lake Eye 
-
-| Provider | NextGen Name | Referral/Auth | Status |
-|----------|-------------|--------------|--------|
-| Alexandria Rawls, OD | BCBS OOS MDCR HMO POS - REFERRAL REQ | Referral Required | PAR |
-| Christine Bui, OD | BCBS OOS MDCR HMO POS - REFERRAL REQ | Referral Required | PAR |
-| Diba Ossareh, OD | BCBS OOS MDCR HMO POS - REFERRAL REQ | Referral Required | PAR |
-| Jose Vazques-Diaz, MD | BCBS OOS MDCR HMO POS - REFERRAL REQ | Referral Required | PAR |
-| Mari Holderby, OD | BCBS OOS MDCR HMO POS - REFERRAL REQ | Referral Required | PAR |
-| Scot Holman, MD | BCBS OOS MDCR HMO POS - REFERRAL REQ | Referral Required | PAR |
-| Scott Wehrly, MD | BCBS OOS MDCR HMO POS - REFERRAL REQ | Referral Required | PAR |
-| Vinay Gutti, MD | BCBS OOS MDCR HMO POS - REFERRAL REQ | Referral Required | PAR |
 
 ## SW FL Eye
 

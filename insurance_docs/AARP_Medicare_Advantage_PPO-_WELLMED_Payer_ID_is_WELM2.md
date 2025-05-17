@@ -15,12 +15,12 @@
 | Daniel Hadland, OD | AARP WellMed Medicare PPO | No Ref/No Auth Required | PAR |
 | David Mertzlufft, OD | AARP WellMed Medicare PPO | No Ref/No Auth Required | PAR |
 | David Shoemaker, MD | AARP WellMed Medicare PPO | No Ref/No Auth Required | PAR |
-| Elizabeth Davis, MD                      Start Date 05/30/25 | AARP WellMed Medicare PPO | No Ref/No Auth Required | PAR |
+| Elizabeth Davis, MD                      Start Date 05/30/25 | AARP WellMed Medicare PPO | No Ref/No Auth Required | Non-PAR |
 | Erin Hardie, OD | AARP WellMed Medicare PPO | No Ref/No Auth Required | PAR |
 | George Hurwitz, OD | AARP WellMed Medicare PPO | No Ref/No Auth Required | PAR |
 | Hunter Vittone, OD | AARP WellMed Medicare PPO | No Ref/No Auth Required | PAR |
 | James Lenhart, OD | AARP WellMed Medicare PPO | No Ref/No Auth Required | PAR |
-| Joaquin De Rojas, MD | AARP WellMed Medicare PPO | No Ref/No Auth Required | Non-PAR |
+| Joaquin De Rojas, MD | AARP WellMed Medicare PPO | No Ref/No Auth Required | PAR |
 | John Fezza, MD (Oculoplastics) | AARP WellMed Medicare PPO | No Ref/No Auth Required | PAR |
 | Joseph Sowka, OD | AARP WellMed Medicare PPO | No Ref/No Auth Required | PAR |
 | Joshua Kim, MD | AARP WellMed Medicare PPO | No Ref/No Auth Required | PAR |
@@ -40,6 +40,7 @@
 | Rachael Randolph, OD | AARP WellMed Medicare PPO | No Ref/No Auth Required | PAR |
 | Scott Stevens, OD | AARP WellMed Medicare PPO | No Ref/No Auth Required | PAR |
 | Shannon Bednarz, PA | AARP WellMed Medicare PPO | No Ref/No Auth Required | PAR |
+| Tanuj Banker, MD (RETINA) | AARP WellMed Medicare PPO | No Ref/No Auth Required | PAR |
 | Todd Lang, OD | AARP WellMed Medicare PPO | No Ref/No Auth Required | PAR |
 | Trisha Werner, OD | AARP WellMed Medicare PPO | No Ref/No Auth Required | PAR |
 | William Soscia, MD | AARP WellMed Medicare PPO | No Ref/No Auth Required | PAR |
@@ -52,19 +53,6 @@
 | Hunter Vittone, OD | AARP WellMed Medicare PPO | No Ref/No Auth Required | PAR |
 | Jon Berlie, MD | AARP WellMed Medicare PPO | No Ref/No Auth Required | PAR |
 | Julie Carter, MD | AARP WellMed Medicare PPO | No Ref/No Auth Required | PAR |
-
-## Lake Eye 
-
-| Provider | NextGen Name | Referral/Auth | Status |
-|----------|-------------|--------------|--------|
-| Alexandria Rawls, OD | AARP WellMed Medicare PPO | No Ref/No Auth Required | PAR |
-| Christine Bui, OD | AARP WellMed Medicare PPO | No Ref/No Auth Required | PAR |
-| Diba Ossareh, OD | AARP WellMed Medicare PPO | No Ref/No Auth Required | PAR |
-| Jose Vazques-Diaz, MD | AARP WellMed Medicare PPO | No Ref/No Auth Required | PAR |
-| Mari Holderby, OD | AARP WellMed Medicare PPO | No Ref/No Auth Required | PAR |
-| Scot Holman, MD | AARP WellMed Medicare PPO | No Ref/No Auth Required | PAR |
-| Scott Wehrly, MD | AARP WellMed Medicare PPO | No Ref/No Auth Required | PAR |
-| Vinay Gutti, MD | AARP WellMed Medicare PPO | No Ref/No Auth Required | PAR |
 
 ## Retina Health Center
 

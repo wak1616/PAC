@@ -40,6 +40,7 @@
 | Rachael Randolph, OD | Anthem BCBS Medicare PPO | No Ref/No Auth Required | PAR |
 | Scott Stevens, OD | Anthem BCBS Medicare PPO | No Ref/No Auth Required | PAR |
 | Shannon Bednarz, PA | Anthem BCBS Medicare PPO | No Ref/No Auth Required | PAR |
+| Tanuj Banker, MD (RETINA) | Anthem BCBS Medicare PPO | No Ref/No Auth Required | PAR |
 | Todd Lang, OD | Anthem BCBS Medicare PPO | No Ref/No Auth Required | PAR |
 | Trisha Werner, OD | Anthem BCBS Medicare PPO | No Ref/No Auth Required | PAR |
 | William Soscia, MD | Anthem BCBS Medicare PPO | No Ref/No Auth Required | PAR |
@@ -52,19 +53,6 @@
 | Hunter Vittone, OD | Anthem BCBS Medicare PPO | No Ref/No Auth Required | PAR |
 | Jon Berlie, MD | Anthem BCBS Medicare PPO | No Ref/No Auth Required | PAR |
 | Julie Carter, MD | Anthem BCBS Medicare PPO | No Ref/No Auth Required | PAR |
-
-## Lake Eye 
-
-| Provider | NextGen Name | Referral/Auth | Status |
-|----------|-------------|--------------|--------|
-| Alexandria Rawls, OD | Anthem BCBS Medicare PPO | No Ref/No Auth Required | PAR |
-| Christine Bui, OD | Anthem BCBS Medicare PPO | No Ref/No Auth Required | PAR |
-| Diba Ossareh, OD | Anthem BCBS Medicare PPO | No Ref/No Auth Required | PAR |
-| Jose Vazques-Diaz, MD | Anthem BCBS Medicare PPO | No Ref/No Auth Required | PAR |
-| Mari Holderby, OD | Anthem BCBS Medicare PPO | No Ref/No Auth Required | PAR |
-| Scot Holman, MD | Anthem BCBS Medicare PPO | No Ref/No Auth Required | PAR |
-| Scott Wehrly, MD | Anthem BCBS Medicare PPO | No Ref/No Auth Required | PAR |
-| Vinay Gutti, MD | Anthem BCBS Medicare PPO | No Ref/No Auth Required | PAR |
 
 ## Retina Health Center
 

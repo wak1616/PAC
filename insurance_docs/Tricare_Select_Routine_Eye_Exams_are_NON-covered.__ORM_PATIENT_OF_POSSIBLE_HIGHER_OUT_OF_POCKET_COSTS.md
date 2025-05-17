@@ -4,19 +4,6 @@
 
 <details open><summary>Provider Details for Tricare Select Routine Eye Exams are NON-covered. FOR THE PROVIDERS THAT ARE NON-PAR PATIENT HAS OON BENEFITS. PLEASE INFORM PATIENT OF POSSIBLE HIGHER OUT OF POCKET COSTS</summary>
 
-## Lake Eye 
-
-| Provider | NextGen Name | Referral/Auth | Status |
-|----------|-------------|--------------|--------|
-| Alexandria Rawls, OD | Tricare Select | No Ref/No Auth Required | Non-PAR |
-| Christine Bui, OD | Tricare Select | No Ref/No Auth Required | PAR |
-| Diba Ossareh, OD | Tricare Select | No Ref/No Auth Required | Non-PAR |
-| Jose Vazques-Diaz, MD | Tricare Select | No Ref/No Auth Required | PAR |
-| Mari Holderby, OD | Tricare Select | No Ref/No Auth Required | Non-PAR -OON Benefits |
-| Scot Holman, MD | Tricare Select | No Ref/No Auth Required | PAR |
-| Scott Wehrly, MD | Tricare Select | No Ref/No Auth Required | PAR |
-| Vinay Gutti, MD | Tricare Select | No Ref/No Auth Required | PAR |
-
 ## SW FL Eye
 
 | Provider | NextGen Name | Referral/Auth | Status |

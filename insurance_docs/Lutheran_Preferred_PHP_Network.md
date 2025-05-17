@@ -40,6 +40,7 @@
 | Rachael Randolph, OD | Lutheran Preferred - PHP | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Scott Stevens, OD | Lutheran Preferred - PHP | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Shannon Bednarz, PA | Lutheran Preferred - PHP | No Ref/No Auth Required | Non-PAR -OON Benefits |
+| Tanuj Banker, MD (RETINA) | Lutheran Preferred - PHP | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Todd Lang, OD | Lutheran Preferred - PHP | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Trisha Werner, OD | Lutheran Preferred - PHP | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | William Soscia, MD | Lutheran Preferred - PHP | No Ref/No Auth Required | Non-PAR -OON Benefits |
@@ -52,19 +53,6 @@
 | Hunter Vittone, OD | Lutheran Preferred - PHP | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Jon Berlie, MD | Lutheran Preferred - PHP | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Julie Carter, MD | Lutheran Preferred - PHP | No Ref/No Auth Required | Non-PAR -OON Benefits |
-
-## Lake Eye 
-
-| Provider | NextGen Name | Referral/Auth | Status |
-|----------|-------------|--------------|--------|
-| Alexandria Rawls, OD | Lutheran Preferred - PHP | No Ref/No Auth Required | Non-PAR -OON Benefits |
-| Christine Bui, OD | Lutheran Preferred - PHP | No Ref/No Auth Required | Non-PAR -OON Benefits |
-| Diba Ossareh, OD | Lutheran Preferred - PHP | No Ref/No Auth Required | Non-PAR -OON Benefits |
-| Jose Vazques-Diaz, MD | Lutheran Preferred - PHP | No Ref/No Auth Required | Non-PAR -OON Benefits |
-| Mari Holderby, OD | Lutheran Preferred - PHP | No Ref/No Auth Required | Non-PAR -OON Benefits |
-| Scot Holman, MD | Lutheran Preferred - PHP | No Ref/No Auth Required | Non-PAR -OON Benefits |
-| Scott Wehrly, MD | Lutheran Preferred - PHP | No Ref/No Auth Required | Non-PAR -OON Benefits |
-| Vinay Gutti, MD | Lutheran Preferred - PHP | No Ref/No Auth Required | Non-PAR -OON Benefits |
 
 ## Retina Health Center
 

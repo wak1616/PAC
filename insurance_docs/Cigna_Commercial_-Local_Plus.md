@@ -30,16 +30,17 @@
 | Len Brown, OD | Cigna Commercial PPO | No Ref/No Auth Required | Non-PAR |
 | Lori Long, OD | Cigna Commercial PPO | No Ref/No Auth Required | Non-PAR |
 | Lori Vollmer, OD | Cigna Commercial PPO | No Ref/No Auth Required | Non-PAR |
-| Mary Mcvey, OD | Cigna Commercial PPO | No Ref/No Auth Required | PAR |
+| Mary Mcvey, OD | Cigna Commercial PPO | No Ref/No Auth Required | Non-PAR |
 | Maureen Traina, PA | Cigna Commercial PPO | No Ref/No Auth Required | Non-PAR |
 | Melissa Hammond, OD | Cigna Commercial PPO | No Ref/No Auth Required | Non-PAR |
 | Michael Maloney, OD | Cigna Commercial PPO | No Ref/No Auth Required | Non-PAR |
 | Page Logan, OD | Cigna Commercial PPO | No Ref/No Auth Required | Non-PAR |
 | Patrick Nelson, OD | Cigna Commercial PPO | No Ref/No Auth Required | Non-PAR |
-| Priya Mathews, MD | Cigna Commercial PPO | No Ref/No Auth Required | Non-PAR |
+| Priya Mathews, MD | Cigna Commercial PPO | No Ref/No Auth Required | PAR |
 | Rachael Randolph, OD | Cigna Commercial PPO | No Ref/No Auth Required | Non-PAR |
 | Scott Stevens, OD | Cigna Commercial PPO | No Ref/No Auth Required | Non-PAR |
 | Shannon Bednarz, PA | Cigna Commercial PPO | No Ref/No Auth Required | Non-PAR |
+| Tanuj Banker, MD (RETINA) | Cigna Commercial PPO | No Ref/No Auth Required | Non-PAR |
 | Todd Lang, OD | Cigna Commercial PPO | No Ref/No Auth Required | Non-PAR |
 | Trisha Werner, OD | Cigna Commercial PPO | No Ref/No Auth Required | Non-PAR |
 | William Soscia, MD | Cigna Commercial PPO | No Ref/No Auth Required | Non-PAR |

@@ -15,12 +15,12 @@
 | Daniel Hadland, OD | UHC Empire PPO | No Ref/No Auth Required | PAR |
 | David Mertzlufft, OD | UHC Empire PPO | No Ref/No Auth Required | PAR |
 | David Shoemaker, MD | UHC Empire PPO | No Ref/No Auth Required | PAR |
-| Elizabeth Davis, MD                      Start Date 05/30/25 | UHC Empire PPO | No Ref/No Auth Required | PAR |
+| Elizabeth Davis, MD                      Start Date 05/30/25 | UHC Empire PPO | No Ref/No Auth Required | Non-PAR |
 | Erin Hardie, OD | UHC Empire PPO | No Ref/No Auth Required | PAR |
 | George Hurwitz, OD | UHC Empire PPO | No Ref/No Auth Required | PAR |
 | Hunter Vittone, OD | UHC Empire PPO | No Ref/No Auth Required | PAR |
 | James Lenhart, OD | UHC Empire PPO | No Ref/No Auth Required | PAR |
-| Joaquin De Rojas, MD | UHC Empire PPO | No Ref/No Auth Required | Non-PAR |
+| Joaquin De Rojas, MD | UHC Empire PPO | No Ref/No Auth Required | PAR |
 | John Fezza, MD (Oculoplastics) | UHC Empire PPO | No Ref/No Auth Required | PAR |
 | Joseph Sowka, OD | UHC Empire PPO | No Ref/No Auth Required | PAR |
 | Joshua Kim, MD | UHC Empire PPO | No Ref/No Auth Required | PAR |
@@ -40,6 +40,7 @@
 | Rachael Randolph, OD | UHC Empire PPO | No Ref/No Auth Required | PAR |
 | Scott Stevens, OD | UHC Empire PPO | No Ref/No Auth Required | PAR |
 | Shannon Bednarz, PA | UHC Empire PPO | No Ref/No Auth Required | PAR |
+| Tanuj Banker, MD (RETINA) | UHC Empire PPO | No Ref/No Auth Required | PAR |
 | Todd Lang, OD | UHC Empire PPO | No Ref/No Auth Required | PAR |
 | Trisha Werner, OD | UHC Empire PPO | No Ref/No Auth Required | PAR |
 | William Soscia, MD | UHC Empire PPO | No Ref/No Auth Required | PAR |

@@ -39,7 +39,8 @@
 | Priya Mathews, MD | BCBS FL Commercial PPO | No Ref/No Auth Required | PAR |
 | Rachael Randolph, OD | BCBS FL Commercial PPO | No Ref/No Auth Required | PAR |
 | Scott Stevens, OD | BCBS FL Commercial PPO | No Ref/No Auth Required | PAR |
-| Shannon Bednarz, PA | BCBS FL Commercial PPO | No Ref/No Auth Required | Non-PAR |
+| Shannon Bednarz, PA | BCBS FL Commercial PPO | No Ref/No Auth Required | PAR |
+| Tanuj Banker, MD (RETINA) | BCBS FL Commercial PPO | No Ref/No Auth Required | Non-PAR |
 | Todd Lang, OD | BCBS FL Commercial PPO | No Ref/No Auth Required | PAR |
 | Trisha Werner, OD | BCBS FL Commercial PPO | No Ref/No Auth Required | PAR |
 | William Soscia, MD | BCBS FL Commercial PPO | No Ref/No Auth Required | PAR |

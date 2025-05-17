@@ -15,12 +15,12 @@
 | Daniel Hadland, OD | Cigna Medicare PPO | nan | PAR |
 | David Mertzlufft, OD | Cigna Medicare PPO | nan | PAR |
 | David Shoemaker, MD | Cigna Medicare PPO | nan | PAR |
-| Elizabeth Davis, MD                      Start Date 05/30/25 | Cigna Medicare PPO | nan | PAR |
+| Elizabeth Davis, MD                      Start Date 05/30/25 | Cigna Medicare PPO | nan | Non-PAR |
 | Erin Hardie, OD | Cigna Medicare PPO | nan | PAR |
 | George Hurwitz, OD | Cigna Medicare PPO | nan | PAR |
 | Hunter Vittone, OD | Cigna Medicare PPO | nan | PAR |
 | James Lenhart, OD | Cigna Medicare PPO | nan | PAR |
-| Joaquin De Rojas, MD | Cigna Medicare PPO | nan | Non-PAR |
+| Joaquin De Rojas, MD | Cigna Medicare PPO | nan | PAR |
 | John Fezza, MD (Oculoplastics) | Cigna Medicare PPO | nan | PAR |
 | Joseph Sowka, OD | Cigna Medicare PPO | nan | PAR |
 | Joshua Kim, MD | Cigna Medicare PPO | nan | PAR |
@@ -40,6 +40,7 @@
 | Rachael Randolph, OD | Cigna Medicare PPO | nan | PAR |
 | Scott Stevens, OD | Cigna Medicare PPO | nan | PAR |
 | Shannon Bednarz, PA | Cigna Medicare PPO | nan | PAR |
+| Tanuj Banker, MD (RETINA) | Cigna Medicare PPO | nan | PAR |
 | Todd Lang, OD | Cigna Medicare PPO | nan | PAR |
 | Trisha Werner, OD | Cigna Medicare PPO | nan | PAR |
 | William Soscia, MD | Cigna Medicare PPO | nan | PAR |

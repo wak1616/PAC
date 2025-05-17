@@ -113,7 +113,7 @@ def main():
         "SW FL Eye"
     ]
     sheets_with_extra_location_column_behavior = [
-        "Center For Sight",
+        "Center for Sight",
         "SW FL Eye",
         "Center for Sight-Naples"
     ]
@@ -131,9 +131,15 @@ def main():
         print(f"Error reading Excel file '{excel_file_path}': {e}")
         return
 
+    # Debugging: Print all sheet names to verify
+    print(f"Excel sheets available: {xls.sheet_names}")
+    
     print("Processing Excel sheets for data extraction...")
     for sheet_name in xls.sheet_names:
-        if sheet_name not in sheets_to_process:
+        # Normalize sheet name for comparison
+        normalized_sheet_name = sheet_name.strip()
+        
+        if normalized_sheet_name not in sheets_to_process:
             continue
 
         location = sheet_name
@@ -150,11 +156,14 @@ def main():
             continue
             
         headers = [str(header).strip('\ufeff').strip() for header in df.columns.tolist()]
+        print(f"    Sheet headers: {headers}")
 
         doctor_column_start_index = 3 
-        if sheet_name in sheets_with_extra_location_column_behavior:
-            if len(headers) > 3 and headers[3].strip() == "Is this plan only accepted at specific practice locations?".strip():
+        # Use normalized sheet name for comparison
+        if normalized_sheet_name in [name.strip() for name in sheets_with_extra_location_column_behavior]:
+            if len(headers) > 3 and headers[3].strip().lower() == "Is this plan only accepted at specific practice locations?".lower().strip():
                 doctor_column_start_index = 4
+                print(f"    Using special column start index {doctor_column_start_index} for sheet '{sheet_name}'")
         
         if len(headers) <= doctor_column_start_index:
             print(f"    Warning: No doctor columns found in sheet '{sheet_name}' based on start index {doctor_column_start_index}.")
@@ -164,6 +173,8 @@ def main():
         # Explicitly filter out the problematic header if it's treated as a doctor name
         problematic_header_text = "is this plan only accepted at specific practice locations?".lower()
         doctor_column_names = [name for name in doctor_column_names if name.strip().lower() != problematic_header_text]
+        
+        print(f"    Found {len(doctor_column_names)} doctor column names: {doctor_column_names}")
         
         for _, row_series in df.iterrows():
             row_list = [str(cell) for cell in row_series.tolist()]
@@ -186,6 +197,9 @@ def main():
                 
                 if doctor_name and doctor_name.lower() != 'nan':
                     doctor_data[doctor_name][location].append((plan_name, nextgen_name, referral_auth, status))
+                    # Debug for Joaquin De Rojas
+                    if "joaquin" in doctor_name.lower() and plan_name:
+                        print(f"      Adding for {doctor_name}: {plan_name} - Status: {status}")
 
             # Populate insurance_data
             if plan_name and plan_name.lower() != 'nan':

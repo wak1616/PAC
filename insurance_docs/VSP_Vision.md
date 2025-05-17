@@ -12,37 +12,38 @@
 | Brittany Coyle, OD | Vision Service Plan | Authorization Required | PAR |
 | Callista Wlaschin, OD | Vision Service Plan | Authorization Required | PAR |
 | Charles Putrino, OD | Vision Service Plan | Authorization Required | PAR |
-| Daniel Hadland, OD | Vision Service Plan | Authorization Required | Non-PAR |
+| Daniel Hadland, OD | Vision Service Plan | Authorization Required | PAR |
 | David Mertzlufft, OD | Vision Service Plan | Authorization Required | PAR |
 | David Shoemaker, MD | Vision Service Plan | Authorization Required | PAR |
-| Elizabeth Davis, MD                      Start Date 05/30/25 | Vision Service Plan | Authorization Required | PAR |
+| Elizabeth Davis, MD                      Start Date 05/30/25 | Vision Service Plan | Authorization Required | Non-PAR |
 | Erin Hardie, OD | Vision Service Plan | Authorization Required | PAR |
-| George Hurwitz, OD | Vision Service Plan | Authorization Required | PAR |
-| Hunter Vittone, OD | Vision Service Plan | Authorization Required | Non-PAR |
-| James Lenhart, OD | Vision Service Plan | Authorization Required | Non-PAR |
+| George Hurwitz, OD | Vision Service Plan | Authorization Required | Non-PAR |
+| Hunter Vittone, OD | Vision Service Plan | Authorization Required | PAR |
+| James Lenhart, OD | Vision Service Plan | Authorization Required | PAR |
 | Joaquin De Rojas, MD | Vision Service Plan | Authorization Required | Non-PAR |
 | John Fezza, MD (Oculoplastics) | Vision Service Plan | Authorization Required | Non-PAR |
-| Joseph Sowka, OD | Vision Service Plan | Authorization Required | Non-PAR |
+| Joseph Sowka, OD | Vision Service Plan | Authorization Required | PAR |
 | Joshua Kim, MD | Vision Service Plan | Authorization Required | Non-PAR |
-| Joshua Newman, MD | Vision Service Plan | Authorization Required | Non-PAR |
+| Joshua Newman, MD | Vision Service Plan | Authorization Required | PAR |
 | Kalie Kosek, PA | Vision Service Plan | Authorization Required | Non-PAR |
 | Kyle Schaub, OD | Vision Service Plan | Authorization Required | PAR |
-| Len Brown, OD | Vision Service Plan | Authorization Required | Non-PAR |
+| Len Brown, OD | Vision Service Plan | Authorization Required | PAR |
 | Lori Long, OD | Vision Service Plan | Authorization Required | PAR |
 | Lori Vollmer, OD | Vision Service Plan | Authorization Required | PAR |
-| Mary Mcvey, OD | Vision Service Plan | Authorization Required | Non-PAR |
-| Maureen Traina, PA | Vision Service Plan | Authorization Required | PAR |
+| Mary Mcvey, OD | Vision Service Plan | Authorization Required | PAR |
+| Maureen Traina, PA | Vision Service Plan | Authorization Required | Non-PAR |
 | Melissa Hammond, OD | Vision Service Plan | Authorization Required | PAR |
-| Michael Maloney, OD | Vision Service Plan | Authorization Required | PAR |
+| Michael Maloney, OD | Vision Service Plan | Authorization Required | Non-PAR |
 | Page Logan, OD | Vision Service Plan | Authorization Required | PAR |
-| Patrick Nelson, OD | Vision Service Plan | Authorization Required | PAR |
+| Patrick Nelson, OD | Vision Service Plan | Authorization Required | Non-PAR |
 | Priya Mathews, MD | Vision Service Plan | Authorization Required | Non-PAR |
 | Rachael Randolph, OD | Vision Service Plan | Authorization Required | PAR |
 | Scott Stevens, OD | Vision Service Plan | Authorization Required | PAR |
 | Shannon Bednarz, PA | Vision Service Plan | Authorization Required | Non-PAR |
+| Tanuj Banker, MD (RETINA) | Vision Service Plan | Authorization Required | Non-PAR |
 | Todd Lang, OD | Vision Service Plan | Authorization Required | Non-PAR |
 | Trisha Werner, OD | Vision Service Plan | Authorization Required | PAR |
-| William Soscia, MD | Vision Service Plan | Authorization Required | PAR |
+| William Soscia, MD | Vision Service Plan | Authorization Required | Non-PAR |
 
 ## Center for Sight-Naples
 

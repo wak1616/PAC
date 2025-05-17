@@ -15,12 +15,12 @@
 | Daniel Hadland, OD | UCare Medicare HMO | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | David Mertzlufft, OD | UCare Medicare HMO | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | David Shoemaker, MD | UCare Medicare HMO | No Ref/No Auth Required | Non-PAR -OON Benefits |
-| Elizabeth Davis, MD                      Start Date 05/30/25 | UCare Medicare HMO | No Ref/No Auth Required | Non-PAR -OON Benefits |
+| Elizabeth Davis, MD                      Start Date 05/30/25 | UCare Medicare HMO | No Ref/No Auth Required | Non-PAR |
 | Erin Hardie, OD | UCare Medicare HMO | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | George Hurwitz, OD | UCare Medicare HMO | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Hunter Vittone, OD | UCare Medicare HMO | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | James Lenhart, OD | UCare Medicare HMO | No Ref/No Auth Required | Non-PAR -OON Benefits |
-| Joaquin De Rojas, MD | UCare Medicare HMO | No Ref/No Auth Required | Non-PAR |
+| Joaquin De Rojas, MD | UCare Medicare HMO | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | John Fezza, MD (Oculoplastics) | UCare Medicare HMO | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Joseph Sowka, OD | UCare Medicare HMO | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Joshua Kim, MD | UCare Medicare HMO | No Ref/No Auth Required | Non-PAR -OON Benefits |
@@ -39,7 +39,8 @@
 | Priya Mathews, MD | UCare Medicare HMO | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Rachael Randolph, OD | UCare Medicare HMO | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Scott Stevens, OD | UCare Medicare HMO | No Ref/No Auth Required | Non-PAR -OON Benefits |
-| Shannon Bednarz, PA | UCare Medicare HMO | No Ref/No Auth Required | Non-PAR |
+| Shannon Bednarz, PA | UCare Medicare HMO | No Ref/No Auth Required | Non-PAR -OON Benefits |
+| Tanuj Banker, MD (RETINA) | UCare Medicare HMO | No Ref/No Auth Required | Non-PAR |
 | Todd Lang, OD | UCare Medicare HMO | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Trisha Werner, OD | UCare Medicare HMO | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | William Soscia, MD | UCare Medicare HMO | No Ref/No Auth Required | Non-PAR -OON Benefits |

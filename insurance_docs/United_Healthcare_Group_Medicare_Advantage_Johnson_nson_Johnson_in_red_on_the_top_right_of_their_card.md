@@ -15,12 +15,12 @@
 | Daniel Hadland, OD | UHC Medicare PPO – J&J Retiree | No Ref/No Auth Required | PAR |
 | David Mertzlufft, OD | UHC Medicare PPO – J&J Retiree | No Ref/No Auth Required | PAR |
 | David Shoemaker, MD | UHC Medicare PPO – J&J Retiree | No Ref/No Auth Required | PAR |
-| Elizabeth Davis, MD                      Start Date 05/30/25 | UHC Medicare PPO – J&J Retiree | No Ref/No Auth Required | PAR |
+| Elizabeth Davis, MD                      Start Date 05/30/25 | UHC Medicare PPO – J&J Retiree | No Ref/No Auth Required | Non-PAR |
 | Erin Hardie, OD | UHC Medicare PPO – J&J Retiree | No Ref/No Auth Required | PAR |
 | George Hurwitz, OD | UHC Medicare PPO – J&J Retiree | No Ref/No Auth Required | PAR |
 | Hunter Vittone, OD | UHC Medicare PPO – J&J Retiree | No Ref/No Auth Required | PAR |
 | James Lenhart, OD | UHC Medicare PPO – J&J Retiree | No Ref/No Auth Required | PAR |
-| Joaquin De Rojas, MD | UHC Medicare PPO – J&J Retiree | No Ref/No Auth Required | Non-PAR |
+| Joaquin De Rojas, MD | UHC Medicare PPO – J&J Retiree | No Ref/No Auth Required | PAR |
 | John Fezza, MD (Oculoplastics) | UHC Medicare PPO – J&J Retiree | No Ref/No Auth Required | PAR |
 | Joseph Sowka, OD | UHC Medicare PPO – J&J Retiree | No Ref/No Auth Required | PAR |
 | Joshua Kim, MD | UHC Medicare PPO – J&J Retiree | No Ref/No Auth Required | PAR |
@@ -40,6 +40,7 @@
 | Rachael Randolph, OD | UHC Medicare PPO – J&J Retiree | No Ref/No Auth Required | PAR |
 | Scott Stevens, OD | UHC Medicare PPO – J&J Retiree | No Ref/No Auth Required | PAR |
 | Shannon Bednarz, PA | UHC Medicare PPO – J&J Retiree | No Ref/No Auth Required | PAR |
+| Tanuj Banker, MD (RETINA) | UHC Medicare PPO – J&J Retiree | No Ref/No Auth Required | PAR |
 | Todd Lang, OD | UHC Medicare PPO – J&J Retiree | No Ref/No Auth Required | PAR |
 | Trisha Werner, OD | UHC Medicare PPO – J&J Retiree | No Ref/No Auth Required | PAR |
 | William Soscia, MD | UHC Medicare PPO – J&J Retiree | No Ref/No Auth Required | PAR |

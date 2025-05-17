@@ -15,12 +15,12 @@
 | Daniel Hadland, OD | Meritain Health SMH Extd  Pln | Authorization MAY be Required | PAR |
 | David Mertzlufft, OD | Meritain Health SMH Extd  Pln | Authorization MAY be Required | PAR |
 | David Shoemaker, MD | Meritain Health SMH Extd  Pln | Authorization MAY be Required | PAR |
-| Elizabeth Davis, MD                      Start Date 05/30/25 | Meritain Health SMH Extd  Pln | Authorization MAY be Required | PAR |
+| Elizabeth Davis, MD                      Start Date 05/30/25 | Meritain Health SMH Extd  Pln | Authorization MAY be Required | Non-PAR |
 | Erin Hardie, OD | Meritain Health SMH Extd  Pln | Authorization MAY be Required | PAR |
 | George Hurwitz, OD | Meritain Health SMH Extd  Pln | Authorization MAY be Required | PAR |
 | Hunter Vittone, OD | Meritain Health SMH Extd  Pln | Authorization MAY be Required | PAR |
 | James Lenhart, OD | Meritain Health SMH Extd  Pln | Authorization MAY be Required | PAR |
-| Joaquin De Rojas, MD | Meritain Health SMH Extd  Pln | Authorization MAY be Required | Non-PAR |
+| Joaquin De Rojas, MD | Meritain Health SMH Extd  Pln | Authorization MAY be Required | PAR |
 | John Fezza, MD (Oculoplastics) | Meritain Health SMH Extd  Pln | Authorization MAY be Required | PAR |
 | Joseph Sowka, OD | Meritain Health SMH Extd  Pln | Authorization MAY be Required | PAR |
 | Joshua Kim, MD | Meritain Health SMH Extd  Pln | Authorization MAY be Required | PAR |
@@ -40,6 +40,7 @@
 | Rachael Randolph, OD | Meritain Health SMH Extd  Pln | Authorization MAY be Required | PAR |
 | Scott Stevens, OD | Meritain Health SMH Extd  Pln | Authorization MAY be Required | PAR |
 | Shannon Bednarz, PA | Meritain Health SMH Extd  Pln | Authorization MAY be Required | PAR |
+| Tanuj Banker, MD (RETINA) | Meritain Health SMH Extd  Pln | Authorization MAY be Required | PAR |
 | Todd Lang, OD | Meritain Health SMH Extd  Pln | Authorization MAY be Required | PAR |
 | Trisha Werner, OD | Meritain Health SMH Extd  Pln | Authorization MAY be Required | PAR |
 | William Soscia, MD | Meritain Health SMH Extd  Pln | Authorization MAY be Required | PAR |
@@ -52,19 +53,6 @@
 | Hunter Vittone, OD | Meritain Health SMH Extd  Pln | Authorization MAY be Required | PAR |
 | Jon Berlie, MD | Meritain Health SMH Extd  Pln | Authorization MAY be Required | PAR |
 | Julie Carter, MD | Meritain Health SMH Extd  Pln | Authorization MAY be Required | PAR |
-
-## Lake Eye 
-
-| Provider | NextGen Name | Referral/Auth | Status |
-|----------|-------------|--------------|--------|
-| Alexandria Rawls, OD | Meritain Health SMH Extd  Pln | Authorization MAY be Required | PAR |
-| Christine Bui, OD | Meritain Health SMH Extd  Pln | Authorization MAY be Required | PAR |
-| Diba Ossareh, OD | Meritain Health SMH Extd  Pln | Authorization MAY be Required | Non-PAR |
-| Jose Vazques-Diaz, MD | Meritain Health SMH Extd  Pln | Authorization MAY be Required | PAR |
-| Mari Holderby, OD | Meritain Health SMH Extd  Pln | Authorization MAY be Required | PAR |
-| Scot Holman, MD | Meritain Health SMH Extd  Pln | Authorization MAY be Required | PAR |
-| Scott Wehrly, MD | Meritain Health SMH Extd  Pln | Authorization MAY be Required | PAR |
-| Vinay Gutti, MD | Meritain Health SMH Extd  Pln | Authorization MAY be Required | PAR |
 
 ## Retina Health Center
 

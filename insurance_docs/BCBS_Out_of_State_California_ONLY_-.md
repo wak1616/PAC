@@ -4,19 +4,6 @@
 
 <details open><summary>Provider Details for BCBS Out of State California ONLY -</summary>
 
-## Lake Eye 
-
-| Provider | NextGen Name | Referral/Auth | Status |
-|----------|-------------|--------------|--------|
-| Alexandria Rawls, OD | BCBS OOS CA - REFERRAL AND AUTH REQ | Authorization Required | PAR |
-| Christine Bui, OD | BCBS OOS CA - REFERRAL AND AUTH REQ | Authorization Required | PAR |
-| Diba Ossareh, OD | BCBS OOS CA - REFERRAL AND AUTH REQ | Authorization Required | PAR |
-| Jose Vazques-Diaz, MD | BCBS OOS CA - REFERRAL AND AUTH REQ | Authorization Required | PAR |
-| Mari Holderby, OD | BCBS OOS CA - REFERRAL AND AUTH REQ | Authorization Required | PAR |
-| Scot Holman, MD | BCBS OOS CA - REFERRAL AND AUTH REQ | Authorization Required | PAR |
-| Scott Wehrly, MD | BCBS OOS CA - REFERRAL AND AUTH REQ | Authorization Required | PAR |
-| Vinay Gutti, MD | BCBS OOS CA - REFERRAL AND AUTH REQ | Authorization Required | PAR |
-
 ## SW FL Eye
 
 | Provider | NextGen Name | Referral/Auth | Status |

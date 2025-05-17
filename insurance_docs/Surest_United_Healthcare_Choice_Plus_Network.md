@@ -15,12 +15,12 @@
 | Daniel Hadland, OD | Surest Commercial - UHC | No Ref/No Auth Required | PAR |
 | David Mertzlufft, OD | Surest Commercial - UHC | No Ref/No Auth Required | PAR |
 | David Shoemaker, MD | Surest Commercial - UHC | No Ref/No Auth Required | PAR |
-| Elizabeth Davis, MD                      Start Date 05/30/25 | Surest Commercial - UHC | No Ref/No Auth Required | PAR |
+| Elizabeth Davis, MD                      Start Date 05/30/25 | Surest Commercial - UHC | No Ref/No Auth Required | Non-PAR |
 | Erin Hardie, OD | Surest Commercial - UHC | No Ref/No Auth Required | PAR |
 | George Hurwitz, OD | Surest Commercial - UHC | No Ref/No Auth Required | PAR |
 | Hunter Vittone, OD | Surest Commercial - UHC | No Ref/No Auth Required | PAR |
 | James Lenhart, OD | Surest Commercial - UHC | No Ref/No Auth Required | PAR |
-| Joaquin De Rojas, MD | Surest Commercial - UHC | No Ref/No Auth Required | Non-PAR |
+| Joaquin De Rojas, MD | Surest Commercial - UHC | No Ref/No Auth Required | PAR |
 | John Fezza, MD (Oculoplastics) | Surest Commercial - UHC | No Ref/No Auth Required | PAR |
 | Joseph Sowka, OD | Surest Commercial - UHC | No Ref/No Auth Required | PAR |
 | Joshua Kim, MD | Surest Commercial - UHC | No Ref/No Auth Required | PAR |
@@ -40,6 +40,7 @@
 | Rachael Randolph, OD | Surest Commercial - UHC | No Ref/No Auth Required | PAR |
 | Scott Stevens, OD | Surest Commercial - UHC | No Ref/No Auth Required | PAR |
 | Shannon Bednarz, PA | Surest Commercial - UHC | No Ref/No Auth Required | PAR |
+| Tanuj Banker, MD (RETINA) | Surest Commercial - UHC | No Ref/No Auth Required | PAR |
 | Todd Lang, OD | Surest Commercial - UHC | No Ref/No Auth Required | PAR |
 | Trisha Werner, OD | Surest Commercial - UHC | No Ref/No Auth Required | PAR |
 | William Soscia, MD | Surest Commercial - UHC | No Ref/No Auth Required | PAR |
@@ -52,19 +53,6 @@
 | Hunter Vittone, OD | Surest Commercial - UHC | No Ref/No Auth Required | PAR |
 | Jon Berlie, MD | Surest Commercial - UHC | No Ref/No Auth Required | PAR |
 | Julie Carter, MD | Surest Commercial - UHC | No Ref/No Auth Required | PAR |
-
-## Lake Eye 
-
-| Provider | NextGen Name | Referral/Auth | Status |
-|----------|-------------|--------------|--------|
-| Alexandria Rawls, OD | Surest Commercial - UHC | No Ref/No Auth Required | PAR |
-| Christine Bui, OD | Surest Commercial - UHC | No Ref/No Auth Required | PAR |
-| Diba Ossareh, OD | Surest Commercial - UHC | No Ref/No Auth Required | Non-PAR |
-| Jose Vazques-Diaz, MD | Surest Commercial - UHC | No Ref/No Auth Required | PAR |
-| Mari Holderby, OD | Surest Commercial - UHC | No Ref/No Auth Required | PAR |
-| Scot Holman, MD | Surest Commercial - UHC | No Ref/No Auth Required | PAR |
-| Scott Wehrly, MD | Surest Commercial - UHC | No Ref/No Auth Required | PAR |
-| Vinay Gutti, MD | Surest Commercial - UHC | No Ref/No Auth Required | PAR |
 
 ## Retina Health Center
 

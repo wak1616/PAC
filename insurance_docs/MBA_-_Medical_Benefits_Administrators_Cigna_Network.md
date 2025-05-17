@@ -15,12 +15,12 @@
 | Daniel Hadland, OD | MBA TPA Commercial - Cigna | No Ref/No Auth Required | PAR |
 | David Mertzlufft, OD | MBA TPA Commercial - Cigna | No Ref/No Auth Required | PAR |
 | David Shoemaker, MD | MBA TPA Commercial - Cigna | No Ref/No Auth Required | PAR |
-| Elizabeth Davis, MD                      Start Date 05/30/25 | MBA TPA Commercial - Cigna | No Ref/No Auth Required | PAR |
+| Elizabeth Davis, MD                      Start Date 05/30/25 | MBA TPA Commercial - Cigna | No Ref/No Auth Required | Non-PAR |
 | Erin Hardie, OD | MBA TPA Commercial - Cigna | No Ref/No Auth Required | PAR |
 | George Hurwitz, OD | MBA TPA Commercial - Cigna | No Ref/No Auth Required | PAR |
 | Hunter Vittone, OD | MBA TPA Commercial - Cigna | No Ref/No Auth Required | PAR |
 | James Lenhart, OD | MBA TPA Commercial - Cigna | No Ref/No Auth Required | PAR |
-| Joaquin De Rojas, MD | MBA TPA Commercial - Cigna | No Ref/No Auth Required | Non-PAR |
+| Joaquin De Rojas, MD | MBA TPA Commercial - Cigna | No Ref/No Auth Required | PAR |
 | John Fezza, MD (Oculoplastics) | MBA TPA Commercial - Cigna | No Ref/No Auth Required | PAR |
 | Joseph Sowka, OD | MBA TPA Commercial - Cigna | No Ref/No Auth Required | PAR |
 | Joshua Kim, MD | MBA TPA Commercial - Cigna | No Ref/No Auth Required | PAR |
@@ -40,6 +40,7 @@
 | Rachael Randolph, OD | MBA TPA Commercial - Cigna | No Ref/No Auth Required | PAR |
 | Scott Stevens, OD | MBA TPA Commercial - Cigna | No Ref/No Auth Required | PAR |
 | Shannon Bednarz, PA | MBA TPA Commercial - Cigna | No Ref/No Auth Required | PAR |
+| Tanuj Banker, MD (RETINA) | MBA TPA Commercial - Cigna | No Ref/No Auth Required | PAR |
 | Todd Lang, OD | MBA TPA Commercial - Cigna | No Ref/No Auth Required | PAR |
 | Trisha Werner, OD | MBA TPA Commercial - Cigna | No Ref/No Auth Required | PAR |
 | William Soscia, MD | MBA TPA Commercial - Cigna | No Ref/No Auth Required | PAR |

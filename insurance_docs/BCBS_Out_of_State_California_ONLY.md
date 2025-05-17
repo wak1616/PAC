@@ -40,6 +40,7 @@
 | Rachael Randolph, OD | BCBS OOS CA - REFERRAL AND AUTH REQ- | Authorization Required | PAR |
 | Scott Stevens, OD | BCBS OOS CA - REFERRAL AND AUTH REQ- | Authorization Required | PAR |
 | Shannon Bednarz, PA | BCBS OOS CA - REFERRAL AND AUTH REQ- | Authorization Required | PAR |
+| Tanuj Banker, MD (RETINA) | BCBS OOS CA - REFERRAL AND AUTH REQ- | Authorization Required | PAR |
 | Todd Lang, OD | BCBS OOS CA - REFERRAL AND AUTH REQ- | Authorization Required | PAR |
 | Trisha Werner, OD | BCBS OOS CA - REFERRAL AND AUTH REQ- | Authorization Required | PAR |
 | William Soscia, MD | BCBS OOS CA - REFERRAL AND AUTH REQ- | Authorization Required | PAR |

@@ -8,7 +8,7 @@
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
-| Bradley Middaugh, OD | Concorde Inc | Authorization Required- ROTC Fom is required for the Clinical Team | Non-PAR |
+| Bradley Middaugh, OD | Concorde Inc | Authorization Required- ROTC Fom is required for the Clinical Team | PAR |
 | Brittany Coyle, OD | Concorde Inc | Authorization Required- ROTC Fom is required for the Clinical Team | Non-PAR |
 | Callista Wlaschin, OD | Concorde Inc | Authorization Required- ROTC Fom is required for the Clinical Team | Non-PAR |
 | Charles Putrino, OD | Concorde Inc | Authorization Required- ROTC Fom is required for the Clinical Team | Non-PAR |
@@ -35,11 +35,12 @@
 | Melissa Hammond, OD | Concorde Inc | Authorization Required- ROTC Fom is required for the Clinical Team | Non-PAR |
 | Michael Maloney, OD | Concorde Inc | Authorization Required- ROTC Fom is required for the Clinical Team | Non-PAR |
 | Page Logan, OD | Concorde Inc | Authorization Required- ROTC Fom is required for the Clinical Team | Non-PAR |
-| Patrick Nelson, OD | Concorde Inc | Authorization Required- ROTC Fom is required for the Clinical Team | PAR |
+| Patrick Nelson, OD | Concorde Inc | Authorization Required- ROTC Fom is required for the Clinical Team | Non-PAR |
 | Priya Mathews, MD | Concorde Inc | Authorization Required- ROTC Fom is required for the Clinical Team | Non-PAR |
 | Rachael Randolph, OD | Concorde Inc | Authorization Required- ROTC Fom is required for the Clinical Team | Non-PAR |
 | Scott Stevens, OD | Concorde Inc | Authorization Required- ROTC Fom is required for the Clinical Team | Non-PAR |
 | Shannon Bednarz, PA | Concorde Inc | Authorization Required- ROTC Fom is required for the Clinical Team | Non-PAR |
+| Tanuj Banker, MD (RETINA) | Concorde Inc | Authorization Required- ROTC Fom is required for the Clinical Team | Non-PAR |
 | Todd Lang, OD | Concorde Inc | Authorization Required- ROTC Fom is required for the Clinical Team | Non-PAR |
 | Trisha Werner, OD | Concorde Inc | Authorization Required- ROTC Fom is required for the Clinical Team | Non-PAR |
 | William Soscia, MD | Concorde Inc | Authorization Required- ROTC Fom is required for the Clinical Team | Non-PAR |

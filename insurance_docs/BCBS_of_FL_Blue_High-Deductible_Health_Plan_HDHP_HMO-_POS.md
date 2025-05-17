@@ -40,6 +40,7 @@
 | Rachael Randolph, OD | BCBS FL Commercial HMO-POS | nan | PAR |
 | Scott Stevens, OD | BCBS FL Commercial HMO-POS | nan | PAR |
 | Shannon Bednarz, PA | BCBS FL Commercial HMO-POS | nan | PAR |
+| Tanuj Banker, MD (RETINA) | BCBS FL Commercial HMO-POS | nan | PAR |
 | Todd Lang, OD | BCBS FL Commercial HMO-POS | nan | PAR |
 | Trisha Werner, OD | BCBS FL Commercial HMO-POS | nan | PAR |
 | William Soscia, MD | BCBS FL Commercial HMO-POS | nan | PAR |

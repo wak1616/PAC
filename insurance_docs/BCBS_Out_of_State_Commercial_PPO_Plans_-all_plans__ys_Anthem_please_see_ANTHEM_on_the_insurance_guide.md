@@ -40,6 +40,7 @@
 | Rachael Randolph, OD | BCBS Out of State Commercial PPO | No Ref/No Auth Required | PAR |
 | Scott Stevens, OD | BCBS Out of State Commercial PPO | No Ref/No Auth Required | PAR |
 | Shannon Bednarz, PA | BCBS Out of State Commercial PPO | No Ref/No Auth Required | PAR |
+| Tanuj Banker, MD (RETINA) | BCBS Out of State Commercial PPO | No Ref/No Auth Required | PAR |
 | Todd Lang, OD | BCBS Out of State Commercial PPO | No Ref/No Auth Required | PAR |
 | Trisha Werner, OD | BCBS Out of State Commercial PPO | No Ref/No Auth Required | PAR |
 | William Soscia, MD | BCBS Out of State Commercial PPO | No Ref/No Auth Required | PAR |
@@ -52,19 +53,6 @@
 | Hunter Vittone, OD | BCBS Out of State Commercial PPO | No Ref/No Auth Required | PAR |
 | Jon Berlie, MD | BCBS Out of State Commercial PPO | No Ref/No Auth Required | PAR |
 | Julie Carter, MD | BCBS Out of State Commercial PPO | No Ref/No Auth Required | PAR |
-
-## Lake Eye 
-
-| Provider | NextGen Name | Referral/Auth | Status |
-|----------|-------------|--------------|--------|
-| Alexandria Rawls, OD | BCBS Out of State Commercial PPO | No Ref/No Auth Required | PAR |
-| Christine Bui, OD | BCBS Out of State Commercial PPO | No Ref/No Auth Required | PAR |
-| Diba Ossareh, OD | BCBS Out of State Commercial PPO | No Ref/No Auth Required | PAR |
-| Jose Vazques-Diaz, MD | BCBS Out of State Commercial PPO | No Ref/No Auth Required | PAR |
-| Mari Holderby, OD | BCBS Out of State Commercial PPO | No Ref/No Auth Required | PAR |
-| Scot Holman, MD | BCBS Out of State Commercial PPO | No Ref/No Auth Required | PAR |
-| Scott Wehrly, MD | BCBS Out of State Commercial PPO | No Ref/No Auth Required | PAR |
-| Vinay Gutti, MD | BCBS Out of State Commercial PPO | No Ref/No Auth Required | PAR |
 
 ## Retina Health Center
 

@@ -15,12 +15,12 @@
 | Daniel Hadland, OD | Aetna Medicare HMO POS | No Ref/No Auth Required | PAR |
 | David Mertzlufft, OD | Aetna Medicare HMO POS | No Ref/No Auth Required | PAR |
 | David Shoemaker, MD | Aetna Medicare HMO POS | No Ref/No Auth Required | PAR |
-| Elizabeth Davis, MD                      Start Date 05/30/25 | Aetna Medicare HMO POS | No Ref/No Auth Required | PAR |
+| Elizabeth Davis, MD                      Start Date 05/30/25 | Aetna Medicare HMO POS | No Ref/No Auth Required | Non-PAR |
 | Erin Hardie, OD | Aetna Medicare HMO POS | No Ref/No Auth Required | PAR |
 | George Hurwitz, OD | Aetna Medicare HMO POS | No Ref/No Auth Required | PAR |
 | Hunter Vittone, OD | Aetna Medicare HMO POS | No Ref/No Auth Required | PAR |
 | James Lenhart, OD | Aetna Medicare HMO POS | No Ref/No Auth Required | PAR |
-| Joaquin De Rojas, MD | Aetna Medicare HMO POS | No Ref/No Auth Required | Non-PAR |
+| Joaquin De Rojas, MD | Aetna Medicare HMO POS | No Ref/No Auth Required | PAR |
 | John Fezza, MD (Oculoplastics) | Aetna Medicare HMO POS | No Ref/No Auth Required | PAR |
 | Joseph Sowka, OD | Aetna Medicare HMO POS | No Ref/No Auth Required | PAR |
 | Joshua Kim, MD | Aetna Medicare HMO POS | No Ref/No Auth Required | PAR |
@@ -40,6 +40,7 @@
 | Rachael Randolph, OD | Aetna Medicare HMO POS | No Ref/No Auth Required | PAR |
 | Scott Stevens, OD | Aetna Medicare HMO POS | No Ref/No Auth Required | PAR |
 | Shannon Bednarz, PA | Aetna Medicare HMO POS | No Ref/No Auth Required | PAR |
+| Tanuj Banker, MD (RETINA) | Aetna Medicare HMO POS | No Ref/No Auth Required | PAR |
 | Todd Lang, OD | Aetna Medicare HMO POS | No Ref/No Auth Required | PAR |
 | Trisha Werner, OD | Aetna Medicare HMO POS | No Ref/No Auth Required | PAR |
 | William Soscia, MD | Aetna Medicare HMO POS | No Ref/No Auth Required | PAR |

@@ -15,12 +15,12 @@
 | Daniel Hadland, OD | Aetna Commercial HMO REFERRAL REQ | Referral Required | PAR |
 | David Mertzlufft, OD | Aetna Commercial HMO REFERRAL REQ | Referral Required | PAR |
 | David Shoemaker, MD | Aetna Commercial HMO REFERRAL REQ | Referral Required | PAR |
-| Elizabeth Davis, MD                      Start Date 05/30/25 | Aetna Commercial HMO REFERRAL REQ | Referral Required | PAR |
+| Elizabeth Davis, MD                      Start Date 05/30/25 | Aetna Commercial HMO REFERRAL REQ | Referral Required | Non-PAR |
 | Erin Hardie, OD | Aetna Commercial HMO REFERRAL REQ | Referral Required | PAR |
 | George Hurwitz, OD | Aetna Commercial HMO REFERRAL REQ | Referral Required | PAR |
 | Hunter Vittone, OD | Aetna Commercial HMO REFERRAL REQ | Referral Required | PAR |
 | James Lenhart, OD | Aetna Commercial HMO REFERRAL REQ | Referral Required | PAR |
-| Joaquin De Rojas, MD | Aetna Commercial HMO REFERRAL REQ | Referral Required | Non-PAR |
+| Joaquin De Rojas, MD | Aetna Commercial HMO REFERRAL REQ | Referral Required | PAR |
 | John Fezza, MD (Oculoplastics) | Aetna Commercial HMO REFERRAL REQ | Referral Required | PAR |
 | Joseph Sowka, OD | Aetna Commercial HMO REFERRAL REQ | Referral Required | PAR |
 | Joshua Kim, MD | Aetna Commercial HMO REFERRAL REQ | Referral Required | PAR |
@@ -40,6 +40,7 @@
 | Rachael Randolph, OD | Aetna Commercial HMO REFERRAL REQ | Referral Required | PAR |
 | Scott Stevens, OD | Aetna Commercial HMO REFERRAL REQ | Referral Required | PAR |
 | Shannon Bednarz, PA | Aetna Commercial HMO REFERRAL REQ | Referral Required | PAR |
+| Tanuj Banker, MD (RETINA) | Aetna Commercial HMO REFERRAL REQ | Referral Required | PAR |
 | Todd Lang, OD | Aetna Commercial HMO REFERRAL REQ | Referral Required | PAR |
 | Trisha Werner, OD | Aetna Commercial HMO REFERRAL REQ | Referral Required | PAR |
 | William Soscia, MD | Aetna Commercial HMO REFERRAL REQ | Referral Required | PAR |

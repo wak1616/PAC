@@ -40,6 +40,7 @@
 | Rachael Randolph, OD | Self Pay Non-Par with Ins | nan | Non-PAR |
 | Scott Stevens, OD | Self Pay Non-Par with Ins | nan | Non-PAR |
 | Shannon Bednarz, PA | Self Pay Non-Par with Ins | nan | Non-PAR |
+| Tanuj Banker, MD (RETINA) | Self Pay Non-Par with Ins | nan | Non-PAR |
 | Todd Lang, OD | Self Pay Non-Par with Ins | nan | Non-PAR |
 | Trisha Werner, OD | Self Pay Non-Par with Ins | nan | Non-PAR |
 | William Soscia, MD | Self Pay Non-Par with Ins | nan | Non-PAR |

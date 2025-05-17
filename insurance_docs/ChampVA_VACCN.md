@@ -15,12 +15,12 @@
 | Daniel Hadland, OD | Champva | No Ref/No Auth Required | PAR |
 | David Mertzlufft, OD | Champva | No Ref/No Auth Required | PAR |
 | David Shoemaker, MD | Champva | No Ref/No Auth Required | PAR |
-| Elizabeth Davis, MD                      Start Date 05/30/25 | Champva | No Ref/No Auth Required | PAR |
+| Elizabeth Davis, MD                      Start Date 05/30/25 | Champva | No Ref/No Auth Required | Non-PAR |
 | Erin Hardie, OD | Champva | No Ref/No Auth Required | PAR |
 | George Hurwitz, OD | Champva | No Ref/No Auth Required | PAR |
 | Hunter Vittone, OD | Champva | No Ref/No Auth Required | PAR |
 | James Lenhart, OD | Champva | No Ref/No Auth Required | PAR |
-| Joaquin De Rojas, MD | Champva | No Ref/No Auth Required | Non-PAR |
+| Joaquin De Rojas, MD | Champva | No Ref/No Auth Required | PAR |
 | John Fezza, MD (Oculoplastics) | Champva | No Ref/No Auth Required | PAR |
 | Joseph Sowka, OD | Champva | No Ref/No Auth Required | PAR |
 | Joshua Kim, MD | Champva | No Ref/No Auth Required | PAR |
@@ -40,6 +40,7 @@
 | Rachael Randolph, OD | Champva | No Ref/No Auth Required | PAR |
 | Scott Stevens, OD | Champva | No Ref/No Auth Required | PAR |
 | Shannon Bednarz, PA | Champva | No Ref/No Auth Required | PAR |
+| Tanuj Banker, MD (RETINA) | Champva | No Ref/No Auth Required | PAR |
 | Todd Lang, OD | Champva | No Ref/No Auth Required | PAR |
 | Trisha Werner, OD | Champva | No Ref/No Auth Required | PAR |
 | William Soscia, MD | Champva | No Ref/No Auth Required | PAR |
@@ -52,19 +53,6 @@
 | Hunter Vittone, OD | Champva | No Ref/No Auth Required | PAR |
 | Jon Berlie, MD | Champva | No Ref/No Auth Required | PAR |
 | Julie Carter, MD | Champva | No Ref/No Auth Required | PAR |
-
-## Lake Eye 
-
-| Provider | NextGen Name | Referral/Auth | Status |
-|----------|-------------|--------------|--------|
-| Alexandria Rawls, OD | ChampVA | No Ref/No Auth Required | Non-PAR |
-| Christine Bui, OD | ChampVA | No Ref/No Auth Required | PAR |
-| Diba Ossareh, OD | ChampVA | No Ref/No Auth Required | Non-PAR |
-| Jose Vazques-Diaz, MD | ChampVA | No Ref/No Auth Required | PAR |
-| Mari Holderby, OD | ChampVA | No Ref/No Auth Required | PAR |
-| Scot Holman, MD | ChampVA | No Ref/No Auth Required | PAR |
-| Scott Wehrly, MD | ChampVA | No Ref/No Auth Required | PAR |
-| Vinay Gutti, MD | ChampVA | No Ref/No Auth Required | PAR |
 
 ## SW FL Eye
 

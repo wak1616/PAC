@@ -11,12 +11,12 @@
 | Bradley Middaugh, OD | Cigna Commercial HMO | No Ref/No Auth Required | Non-PAR |
 | Brittany Coyle, OD | Cigna Commercial HMO | No Ref/No Auth Required | Non-PAR |
 | Callista Wlaschin, OD | Cigna Commercial HMO | No Ref/No Auth Required | Non-PAR |
-| Charles Putrino, OD | Cigna Commercial HMO | No Ref/No Auth Required | Non-PAR |
+| Charles Putrino, OD | Cigna Commercial HMO | No Ref/No Auth Required | PAR |
 | Daniel Hadland, OD | Cigna Commercial HMO | No Ref/No Auth Required | Non-PAR |
 | David Mertzlufft, OD | Cigna Commercial HMO | No Ref/No Auth Required | Non-PAR |
 | David Shoemaker, MD | Cigna Commercial HMO | No Ref/No Auth Required | Non-PAR |
 | Elizabeth Davis, MD                      Start Date 05/30/25 | Cigna Commercial HMO | No Ref/No Auth Required | Non-PAR |
-| Erin Hardie, OD | Cigna Commercial HMO | No Ref/No Auth Required | PAR |
+| Erin Hardie, OD | Cigna Commercial HMO | No Ref/No Auth Required | Non-PAR |
 | George Hurwitz, OD | Cigna Commercial HMO | No Ref/No Auth Required | Non-PAR |
 | Hunter Vittone, OD | Cigna Commercial HMO | No Ref/No Auth Required | Non-PAR |
 | James Lenhart, OD | Cigna Commercial HMO | No Ref/No Auth Required | Non-PAR |
@@ -32,14 +32,15 @@
 | Lori Vollmer, OD | Cigna Commercial HMO | No Ref/No Auth Required | Non-PAR |
 | Mary Mcvey, OD | Cigna Commercial HMO | No Ref/No Auth Required | Non-PAR |
 | Maureen Traina, PA | Cigna Commercial HMO | No Ref/No Auth Required | Non-PAR |
-| Melissa Hammond, OD | Cigna Commercial HMO | No Ref/No Auth Required | Non-PAR |
+| Melissa Hammond, OD | Cigna Commercial HMO | No Ref/No Auth Required | PAR |
 | Michael Maloney, OD | Cigna Commercial HMO | No Ref/No Auth Required | Non-PAR |
 | Page Logan, OD | Cigna Commercial HMO | No Ref/No Auth Required | Non-PAR |
 | Patrick Nelson, OD | Cigna Commercial HMO | No Ref/No Auth Required | Non-PAR |
 | Priya Mathews, MD | Cigna Commercial HMO | No Ref/No Auth Required | Non-PAR |
-| Rachael Randolph, OD | Cigna Commercial HMO | No Ref/No Auth Required | PAR |
+| Rachael Randolph, OD | Cigna Commercial HMO | No Ref/No Auth Required | Non-PAR |
 | Scott Stevens, OD | Cigna Commercial HMO | No Ref/No Auth Required | Non-PAR |
 | Shannon Bednarz, PA | Cigna Commercial HMO | No Ref/No Auth Required | Non-PAR |
+| Tanuj Banker, MD (RETINA) | Cigna Commercial HMO | No Ref/No Auth Required | Non-PAR |
 | Todd Lang, OD | Cigna Commercial HMO | No Ref/No Auth Required | Non-PAR |
 | Trisha Werner, OD | Cigna Commercial HMO | No Ref/No Auth Required | Non-PAR |
 | William Soscia, MD | Cigna Commercial HMO | No Ref/No Auth Required | Non-PAR |

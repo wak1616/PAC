@@ -105,7 +105,7 @@
 | Carefirst Commercial - CareFirst Regional | Carefirst BCBS Commercial HMO | No Ref/No Auth Required | PAR |
 | Carefirst Commercial - CareFirst Regional-BlueChoice Plus Gold/ BlueChoice HMO Standard/BlueChoice HMO HSA/HRA Gold BlueChoice HMO Gold Virtual Connect | Carefirst BCBS Commercial HMO | No Ref/No Auth Required | PAR |
 | ChampVA (VACCN) | Champva | No Ref/No Auth Required | PAR |
-| Cigna - NALC Benefit Health Plan | NALC Health Benefit Plan- Cigna | No Ref/No Auth Required | PAR |
+| Cigna - NALC Benefit Health Plan | NALC Health Benefit Plan- Cigna | No Ref/No Auth Required | Non-PAR |
 | Cigna Commercial- ChoiceFund OA Plus/ Cigna ChoiceFund OA Plus with CareLink | Cigna Commercial PPO | No Ref/No Auth Required | PAR |
 | Cigna Commercial- Florida Connect EPO | Self Pay Non-Par with Ins | nan | Non-PAR |
 | Cigna Commercial- HealthCare of Florida, Inc. - Fort Myers HMO | Cigna Commercial HMO | No Ref/No Auth Required | PAR |
@@ -115,10 +115,10 @@
 | Cigna Commercial- Open Access Plus/ Carelink Open Access Plus/PPO/Choice Fund PPO | Cigna Commercial PPO | No Ref/No Auth Required | PAR |
 | Cigna Global Health Benefits (BENEFITS/ELIGIBILITY NEEDS TO BE CHECKED EVERYTIME) | Cigna International | Authorization Required | PAR |
 | Cigna Medicare PPO | Cigna Medicare PPO | nan | PAR |
-| Cigna Medicare HMO- Preferred/Preferred Savings Medicare/Courage | Cigna Medicare HMO REFERRAL REQUIRED | Referral Required | PAR |
-| Cigna Medicare- TotalCare/Total Care Plus HMO D-SNP | Primary: Cigna Dual MDCR HMO Primary-REFERRAL REQ                                                      Secondary: Cigna Dual Medicaid HMO Secondary | Referral Required | PAR |
+| Cigna Medicare HMO- Preferred/Preferred Savings Medicare/Courage | Cigna Medicare HMO REFERRAL REQUIRED | Referral Required | Non-PAR |
+| Cigna Medicare- TotalCare/Total Care Plus HMO D-SNP | Primary: Cigna Dual MDCR HMO Primary-REFERRAL REQ                                                      Secondary: Cigna Dual Medicaid HMO Secondary | Referral Required | Non-PAR |
 | Cigna Oscar- Open Access Plus/Local Plus | Self Pay Non-Par with Ins | nan | Non-PAR |
-| Cigna TotalCare Plus HMO D-SNP | Primary: Cigna Dual MDCR HMO Primary-REFERRAL REQ                                                      Secondary: Cigna Dual Medicaid HMO Secondary | Referral Required | PAR |
+| Cigna TotalCare Plus HMO D-SNP | Primary: Cigna Dual MDCR HMO Primary-REFERRAL REQ                                                      Secondary: Cigna Dual Medicaid HMO Secondary | Referral Required | Non-PAR |
 | Division of Blind | Division of Blind | Authorization Required | PAR |
 | Employee Benefits Management Services (EMBS) with Aetna Network | EBMS Commercial PPO - Aetna | No Ref/No Auth Required | PAR |
 | Evolution PPO | Evolutions PPO | No Ref/No Auth Required | PAR |
@@ -203,10 +203,10 @@
 | United Healthcare Select EPO/ Select Plus POS | UHC Commercial PPO | No Ref/No Auth Required | PAR |
 | United Healthcare Select Plus HMO | UHC Commercial HMO | No Ref/No Auth Required | PAR |
 | United Healthcare The Villages Medicare Advantage FL-0004/FL-004P HMO-POS | UHC Medicare HMO | No Ref/No Auth Required | PAR |
-| United Healthcare UHN OneNet-Auto Liability | Self Pay Non-Par with Ins | nan | Non-PAR |
-| United Healthcare UHN OneNet-Workers Comp | Self Pay Non-Par with Ins | nan | Non-PAR |
+| United Healthcare UHN OneNet-Auto Liability | Self Pay Non-Par with Ins | nan | PAR |
+| United Healthcare UHN OneNet-Workers Comp | Self Pay Non-Par with Ins | nan | PAR |
 | Versant: Davis Vision | Self Pay Non-Par with Ins | nan | Non-PAR |
-| Versant: Superior Vision | Superior Vision | Authorization Required | Non-PAR |
+| Versant: Superior Vision | Superior Vision | Authorization Required | PAR |
 | Vitori Health Open Access Plan | Vitori Health Open Access Plan | No Ref/No Auth Required | PAR |
 | VSP Vision | Vision Service Plan | Authorization Required | PAR |
 | Web TPA | Web TPA | No Ref/No Auth Required | Non-PAR |

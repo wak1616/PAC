@@ -22,8 +22,8 @@
 | David Mertzlufft, OD | UHC Commercial HMO | No Ref/No Auth Required | PAR |
 | David Shoemaker, MD | UHC Commercial - NHP HMO Access | No Ref/No Auth Required | PAR |
 | David Shoemaker, MD | UHC Commercial HMO | No Ref/No Auth Required | PAR |
-| Elizabeth Davis, MD                      Start Date 05/30/25 | UHC Commercial - NHP HMO Access | No Ref/No Auth Required | PAR |
-| Elizabeth Davis, MD                      Start Date 05/30/25 | UHC Commercial HMO | No Ref/No Auth Required | PAR |
+| Elizabeth Davis, MD                      Start Date 05/30/25 | UHC Commercial - NHP HMO Access | No Ref/No Auth Required | Non-PAR |
+| Elizabeth Davis, MD                      Start Date 05/30/25 | UHC Commercial HMO | No Ref/No Auth Required | Non-PAR |
 | Erin Hardie, OD | UHC Commercial - NHP HMO Access | No Ref/No Auth Required | PAR |
 | Erin Hardie, OD | UHC Commercial HMO | No Ref/No Auth Required | PAR |
 | George Hurwitz, OD | UHC Commercial - NHP HMO Access | No Ref/No Auth Required | PAR |
@@ -32,8 +32,8 @@
 | Hunter Vittone, OD | UHC Commercial HMO | No Ref/No Auth Required | PAR |
 | James Lenhart, OD | UHC Commercial - NHP HMO Access | No Ref/No Auth Required | PAR |
 | James Lenhart, OD | UHC Commercial HMO | No Ref/No Auth Required | PAR |
-| Joaquin De Rojas, MD | UHC Commercial - NHP HMO Access | No Ref/No Auth Required | Non-PAR |
-| Joaquin De Rojas, MD | UHC Commercial HMO | No Ref/No Auth Required | Non-PAR |
+| Joaquin De Rojas, MD | UHC Commercial - NHP HMO Access | No Ref/No Auth Required | PAR |
+| Joaquin De Rojas, MD | UHC Commercial HMO | No Ref/No Auth Required | PAR |
 | John Fezza, MD (Oculoplastics) | UHC Commercial - NHP HMO Access | No Ref/No Auth Required | PAR |
 | John Fezza, MD (Oculoplastics) | UHC Commercial HMO | No Ref/No Auth Required | PAR |
 | Joseph Sowka, OD | UHC Commercial - NHP HMO Access | No Ref/No Auth Required | PAR |
@@ -72,6 +72,8 @@
 | Scott Stevens, OD | UHC Commercial HMO | No Ref/No Auth Required | PAR |
 | Shannon Bednarz, PA | UHC Commercial - NHP HMO Access | No Ref/No Auth Required | PAR |
 | Shannon Bednarz, PA | UHC Commercial HMO | No Ref/No Auth Required | PAR |
+| Tanuj Banker, MD (RETINA) | UHC Commercial - NHP HMO Access | No Ref/No Auth Required | PAR |
+| Tanuj Banker, MD (RETINA) | UHC Commercial HMO | No Ref/No Auth Required | PAR |
 | Todd Lang, OD | UHC Commercial - NHP HMO Access | No Ref/No Auth Required | PAR |
 | Todd Lang, OD | UHC Commercial HMO | No Ref/No Auth Required | PAR |
 | Trisha Werner, OD | UHC Commercial - NHP HMO Access | No Ref/No Auth Required | PAR |

@@ -40,6 +40,7 @@
 | Rachael Randolph, OD | Carefirst BCBS Commercial HMO | No Ref/No Auth Required | PAR |
 | Scott Stevens, OD | Carefirst BCBS Commercial HMO | No Ref/No Auth Required | PAR |
 | Shannon Bednarz, PA | Carefirst BCBS Commercial HMO | No Ref/No Auth Required | PAR |
+| Tanuj Banker, MD (RETINA) | Carefirst BCBS Commercial HMO | No Ref/No Auth Required | PAR |
 | Todd Lang, OD | Carefirst BCBS Commercial HMO | No Ref/No Auth Required | PAR |
 | Trisha Werner, OD | Carefirst BCBS Commercial HMO | No Ref/No Auth Required | PAR |
 | William Soscia, MD | Carefirst BCBS Commercial HMO | No Ref/No Auth Required | PAR |

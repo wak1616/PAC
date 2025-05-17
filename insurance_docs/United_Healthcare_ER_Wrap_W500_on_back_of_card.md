@@ -15,12 +15,12 @@
 | Daniel Hadland, OD | UHC ER Wrap | Authorization Required | PAR |
 | David Mertzlufft, OD | UHC ER Wrap | Authorization Required | PAR |
 | David Shoemaker, MD | UHC ER Wrap | Authorization Required | PAR |
-| Elizabeth Davis, MD                      Start Date 05/30/25 | UHC ER Wrap | Authorization Required | PAR |
+| Elizabeth Davis, MD                      Start Date 05/30/25 | UHC ER Wrap | Authorization Required | Non-PAR |
 | Erin Hardie, OD | UHC ER Wrap | Authorization Required | PAR |
 | George Hurwitz, OD | UHC ER Wrap | Authorization Required | PAR |
 | Hunter Vittone, OD | UHC ER Wrap | Authorization Required | PAR |
 | James Lenhart, OD | UHC ER Wrap | Authorization Required | PAR |
-| Joaquin De Rojas, MD | UHC ER Wrap | Authorization Required | Non-PAR |
+| Joaquin De Rojas, MD | UHC ER Wrap | Authorization Required | PAR |
 | John Fezza, MD (Oculoplastics) | UHC ER Wrap | Authorization Required | PAR |
 | Joseph Sowka, OD | UHC ER Wrap | Authorization Required | PAR |
 | Joshua Kim, MD | UHC ER Wrap | Authorization Required | PAR |
@@ -40,6 +40,7 @@
 | Rachael Randolph, OD | UHC ER Wrap | Authorization Required | PAR |
 | Scott Stevens, OD | UHC ER Wrap | Authorization Required | PAR |
 | Shannon Bednarz, PA | UHC ER Wrap | Authorization Required | PAR |
+| Tanuj Banker, MD (RETINA) | UHC ER Wrap | Authorization Required | PAR |
 | Todd Lang, OD | UHC ER Wrap | Authorization Required | PAR |
 | Trisha Werner, OD | UHC ER Wrap | Authorization Required | PAR |
 | William Soscia, MD | UHC ER Wrap | Authorization Required | PAR |
@@ -52,19 +53,6 @@
 | Hunter Vittone, OD | UHC ER Wrap | Authorization Required | PAR |
 | Jon Berlie, MD | UHC ER Wrap | Authorization Required | PAR |
 | Julie Carter, MD | UHC ER Wrap | Authorization Required | PAR |
-
-## Lake Eye 
-
-| Provider | NextGen Name | Referral/Auth | Status |
-|----------|-------------|--------------|--------|
-| Alexandria Rawls, OD | UHC ER Wrap | Authorization Required | PAR |
-| Christine Bui, OD | UHC ER Wrap | Authorization Required | PAR |
-| Diba Ossareh, OD | UHC ER Wrap | Authorization Required | PAR |
-| Jose Vazques-Diaz, MD | UHC ER Wrap | Authorization Required | PAR |
-| Mari Holderby, OD | UHC ER Wrap | Authorization Required | PAR |
-| Scot Holman, MD | UHC ER Wrap | Authorization Required | PAR |
-| Scott Wehrly, MD | UHC ER Wrap | Authorization Required | PAR |
-| Vinay Gutti, MD | UHC ER Wrap | Authorization Required | PAR |
 
 ## Retina Health Center
 

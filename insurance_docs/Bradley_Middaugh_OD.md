@@ -56,7 +56,7 @@
 | Aetna Standard Plan- Aetna Open Choice® PPO | Aetna Commercial PPO | No Ref/No Auth Required | PAR |
 | Aetna Standard Plan- Aetna QPOS®/ Select/ Voluntary Plans | Aetna Commercial PPO | No Ref/No Auth Required | PAR |
 | Aetna Whole Health- Southwest Florida - Open Access Elect Choice/ Southwest Florida Open Access Aetna Select/ Southwest Florida Health Network Only | Aetna Commercial PPO | No Ref/No Auth Required | PAR |
-| Allegiance Benefit Plan (Cigna Open Access Plus Network) | Allegiance Benefit Plan Management-Cigna | No Ref/No Auth Required | Non-PAR |
+| Allegiance Benefit Plan (Cigna Open Access Plus Network) | Allegiance Benefit Plan Management-Cigna | No Ref/No Auth Required | PAR |
 | Allied National Open Access | Allied National Open Access | No Ref/No Auth Required | PAR |
 | AllSavers (UHC - Choice and Choice Plus Network) | All Savers Commercial - UHC | No Ref/No Auth Required | PAR |
 | AllSavers (UHC- Charter and Navigate) | All Savers Comm REFERRAL REQ - UHC | Referral Required | PAR |
@@ -69,8 +69,8 @@
 | Anthem Blue-Pathway Essentials/Essentials Standard PPO/EPO | Anthem BCBS Commercial PPO | No Ref/No Auth Required | PAR |
 | Anthem Blue-Preferred POS (Select Network) | Anthem BCBS Commercial PPO | No Ref/No Auth Required | PAR |
 | Anthem BCBS-Blue View Vision/Blue Vision Insight/Blue Vision Insight Plus/Vision Insight Plus Select/IBM Vision Plan/Vision Access Value/Vision Minimum Premium Plan | Anthem BCBS Vision | No Ref/No Auth Required | PAR |
-| Avesis Vision | Avesis Vision | Authorization Required | Non-PAR |
-| AvMed HMO (State of Florida High Deductible Health Plan and State of Florida Standard HMO Plan) | AvMed Commercial HMO | No Ref/No Auth Required | PAR |
+| Avesis Vision | Avesis Vision | Authorization Required | PAR |
+| AvMed HMO (State of Florida High Deductible Health Plan and State of Florida Standard HMO Plan) | AvMed Commercial HMO | No Ref/No Auth Required | Non-PAR |
 | BCBS- FEP Blue Vision | Self Pay Non-Par with Ins | nan | Non-PAR |
 | BCBS of FL BlueCare/Blue Care w. Pediactric Vision - Alpha Prefix XJGH, VMBH, VMEH | BCBS FL Commercial HMO | Authorization Required | PAR |
 | BCBS of FL BlueChoice | BCBS FL Commercial PPO | No Ref/No Auth Required | PAR |
@@ -92,7 +92,7 @@
 | BCBS Out of State HMO Plans - ALL PLANS Commercial and Medicare HMO PLANS | Self Pay Non-Par with Ins | nan | Non-PAR |
 | BCBS Out of State Medicare HMO-POS Plans - Medicare HMO POS Plans do have OON benefits. Note: BCBS Michigan Medicare HMO-POS (alpha prefix XYK) | BCBS OOS MDCR HMO POS - REFERRAL REQ | Referral Required | PAR |
 | BCBS Out of State Medicare PPO Plans -all plans that are not BCBS of Florida; please ask the patient to check the front and back copy of the card for the state. If the card says "Anthem", please see ANTHEM on the insurance guide | BCBS Out of State Medicare PPO | No Ref/No Auth Required | PAR |
-| Best Care Alliance (Former Innovatus Health) | PENDING | No Ref/No Auth Required | Non-PAR |
+| Best Care Alliance (Former Innovatus Health) | PENDING | No Ref/No Auth Required | PAR |
 | Carefirst BCBS Commercial - BlueChoice Advantage/BlueChoice Advantage HDHP/BlueChoice Plus/BlueHPN/BluePreferred (PPO) | Carefirst BCBS Commercial PPO | No Ref/No Auth Required | PAR |
 | Carefirst BCBS Commercial - BlueChoice Opt-Out Open Access/BlueChoice Opt-Out Plus Open Access/CareFirst Regional (HMO) | Carefirst BCBS Commercial HMO | No Ref/No Auth Required | PAR |
 | Carefirst BCBS Commercial - Comprehensive Major Medical | Carefirst BCBS Commercial PPO | No Ref/No Auth Required | PAR |
@@ -123,7 +123,7 @@
 | Employee Benefits Management Services (EMBS) with Aetna Network | EBMS Commercial PPO - Aetna | No Ref/No Auth Required | PAR |
 | Evolution PPO | Evolutions PPO | No Ref/No Auth Required | PAR |
 | Eyemed Vision | Eyemed Vision | No Ref/No Auth Required | PAR |
-| First Health Network (through Aetna and/or PHP Network) PLEASE ASK THE PATIENT FOR THE HEALTH PLAN NAME ON THE CARD AND LOAD THE PLAN INTO NEXTGEN ACCORDING TO THEIR HEALTH PLAN | PLEASE ASK THE PATIENT FOR THE HEALTH PLAN NAME ON THE CARD. IF THE PAYER IS NOT LOADED INTO THE SYSTEM, USE: INS NOT IN NEXTGEN. SEE: Generic Insurance Protocol - PAC, Front Desk, and Customer Service.pdf | nan | PAR |
+| First Health Network (through Aetna and/or PHP Network) PLEASE ASK THE PATIENT FOR THE HEALTH PLAN NAME ON THE CARD AND LOAD THE PLAN INTO NEXTGEN ACCORDING TO THEIR HEALTH PLAN | PLEASE ASK THE PATIENT FOR THE HEALTH PLAN NAME ON THE CARD. IF THE PAYER IS NOT LOADED INTO THE SYSTEM, USE: INS NOT IN NEXTGEN. SEE: Generic Insurance Protocol - PAC, Front Desk, and Customer Service.pdf | nan | Non-PAR |
 | Freedom/Optimum Health Medicare ID # STARTS WITH P or T | Self Pay Non-Par with Ins | nan | Non-PAR |
 | GEHA (United Healthcare Choice Plus Network) PLEASE INCLUDE THE SUFFIX IN THE POLICY # ON THE ID CARD AS GEHA (EX: 1234567GEHA) | GEHA Commercial - UHC | No Ref/No Auth Required | PAR |
 | Golden Rule (UHC Choice Plus Network) | Golden Rule Commercial - UHC | No Ref/No Auth Required | PAR |
@@ -153,8 +153,8 @@
 | Priority Health Medicare- Priority Medicare Ideal/Travel Pass (Multiplan) PPO | Priority Health Medicare PPO - Multiplan | No Ref/No Auth Required | PAR |
 | Priority Health Medicare- Priority Medicare Value/Travel Pass (Multiplan) HMO -POS | Priority Health Medicare HMO - Multiplan | No Ref/No Auth Required | PAR |
 | Railroad Medicare - CONFIRM WITH PT AT THE BOTTOM OF THE ID CARD IT SAYS "RAILROAD RETIREMENT BOARD" | Railroad Medicare | No Ref/No Auth Required | PAR |
-| ROTC/Military Screening - Dr. MIDDAUGH ONLY. pATIENT WILL NOT HAVE AN ID CARD AS THEY ARE PRESENTING FOR A ROTC/MILITARY SCREENING | Concorde Inc | Authorization Required- ROTC Fom is required for the Clinical Team | Non-PAR |
-| Spectera Vision | Spectera Vision | No Ref/No Auth Required | Non-PAR |
+| ROTC/Military Screening - Dr. MIDDAUGH ONLY. pATIENT WILL NOT HAVE AN ID CARD AS THEY ARE PRESENTING FOR A ROTC/MILITARY SCREENING | Concorde Inc | Authorization Required- ROTC Fom is required for the Clinical Team | PAR |
+| Spectera Vision | Spectera Vision | No Ref/No Auth Required | PAR |
 | Surest (United Healthcare Choice Plus Network) | Surest Commercial - UHC | No Ref/No Auth Required | PAR |
 | The Empire Plan- NYSHIP | UHC Empire PPO | No Ref/No Auth Required | PAR |
 | Tricare Prime CFS is OUT OF NETWORK. PATIENT HAS OON BENEFITS. PLEASE INFORM PATIENT OF POSSIBLE HIGHER OUT OF POCKET COSTS (see note). covered for a Routine Eye Exam every two years | Tricare Prime HMO-REFERRAL REQ | Referral Required | Non-PAR -OON Benefits |

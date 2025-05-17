@@ -40,6 +40,7 @@
 | Rachael Randolph, OD | Allied National Open Access | No Ref/No Auth Required | PAR |
 | Scott Stevens, OD | Allied National Open Access | No Ref/No Auth Required | PAR |
 | Shannon Bednarz, PA | Allied National Open Access | No Ref/No Auth Required | PAR |
+| Tanuj Banker, MD (RETINA) | Allied National Open Access | No Ref/No Auth Required | PAR |
 | Todd Lang, OD | Allied National Open Access | No Ref/No Auth Required | PAR |
 | Trisha Werner, OD | Allied National Open Access | No Ref/No Auth Required | PAR |
 | William Soscia, MD | Allied National Open Access | No Ref/No Auth Required | PAR |

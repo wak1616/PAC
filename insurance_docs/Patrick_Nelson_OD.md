@@ -69,7 +69,7 @@
 | Anthem Blue-Pathway Essentials/Essentials Standard PPO/EPO | Anthem BCBS Commercial PPO | No Ref/No Auth Required | PAR |
 | Anthem Blue-Preferred POS (Select Network) | Anthem BCBS Commercial PPO | No Ref/No Auth Required | PAR |
 | Anthem BCBS-Blue View Vision/Blue Vision Insight/Blue Vision Insight Plus/Vision Insight Plus Select/IBM Vision Plan/Vision Access Value/Vision Minimum Premium Plan | Anthem BCBS Vision | No Ref/No Auth Required | PAR |
-| Avesis Vision | Avesis Vision | Authorization Required | PAR |
+| Avesis Vision | Avesis Vision | Authorization Required | Non-PAR |
 | AvMed HMO (State of Florida High Deductible Health Plan and State of Florida Standard HMO Plan) | AvMed Commercial HMO | No Ref/No Auth Required | Non-PAR |
 | BCBS- FEP Blue Vision | Self Pay Non-Par with Ins | nan | Non-PAR |
 | BCBS of FL BlueCare/Blue Care w. Pediactric Vision - Alpha Prefix XJGH, VMBH, VMEH | BCBS FL Commercial HMO | Authorization Required | PAR |
@@ -92,7 +92,7 @@
 | BCBS Out of State HMO Plans - ALL PLANS Commercial and Medicare HMO PLANS | Self Pay Non-Par with Ins | nan | Non-PAR |
 | BCBS Out of State Medicare HMO-POS Plans - Medicare HMO POS Plans do have OON benefits. Note: BCBS Michigan Medicare HMO-POS (alpha prefix XYK) | BCBS OOS MDCR HMO POS - REFERRAL REQ | Referral Required | PAR |
 | BCBS Out of State Medicare PPO Plans -all plans that are not BCBS of Florida; please ask the patient to check the front and back copy of the card for the state. If the card says "Anthem", please see ANTHEM on the insurance guide | BCBS Out of State Medicare PPO | No Ref/No Auth Required | PAR |
-| Best Care Alliance (Former Innovatus Health) | PENDING | No Ref/No Auth Required | PAR |
+| Best Care Alliance (Former Innovatus Health) | PENDING | No Ref/No Auth Required | Non-PAR |
 | Carefirst BCBS Commercial - BlueChoice Advantage/BlueChoice Advantage HDHP/BlueChoice Plus/BlueHPN/BluePreferred (PPO) | Carefirst BCBS Commercial PPO | No Ref/No Auth Required | PAR |
 | Carefirst BCBS Commercial - BlueChoice Opt-Out Open Access/BlueChoice Opt-Out Plus Open Access/CareFirst Regional (HMO) | Carefirst BCBS Commercial HMO | No Ref/No Auth Required | PAR |
 | Carefirst BCBS Commercial - Comprehensive Major Medical | Carefirst BCBS Commercial PPO | No Ref/No Auth Required | PAR |
@@ -153,8 +153,8 @@
 | Priority Health Medicare- Priority Medicare Ideal/Travel Pass (Multiplan) PPO | Priority Health Medicare PPO - Multiplan | No Ref/No Auth Required | PAR |
 | Priority Health Medicare- Priority Medicare Value/Travel Pass (Multiplan) HMO -POS | Priority Health Medicare HMO - Multiplan | No Ref/No Auth Required | PAR |
 | Railroad Medicare - CONFIRM WITH PT AT THE BOTTOM OF THE ID CARD IT SAYS "RAILROAD RETIREMENT BOARD" | Railroad Medicare | No Ref/No Auth Required | PAR |
-| ROTC/Military Screening - Dr. MIDDAUGH ONLY. pATIENT WILL NOT HAVE AN ID CARD AS THEY ARE PRESENTING FOR A ROTC/MILITARY SCREENING | Concorde Inc | Authorization Required- ROTC Fom is required for the Clinical Team | PAR |
-| Spectera Vision | Spectera Vision | No Ref/No Auth Required | PAR |
+| ROTC/Military Screening - Dr. MIDDAUGH ONLY. pATIENT WILL NOT HAVE AN ID CARD AS THEY ARE PRESENTING FOR A ROTC/MILITARY SCREENING | Concorde Inc | Authorization Required- ROTC Fom is required for the Clinical Team | Non-PAR |
+| Spectera Vision | Spectera Vision | No Ref/No Auth Required | Non-PAR |
 | Surest (United Healthcare Choice Plus Network) | Surest Commercial - UHC | No Ref/No Auth Required | PAR |
 | The Empire Plan- NYSHIP | UHC Empire PPO | No Ref/No Auth Required | PAR |
 | Tricare Prime CFS is OUT OF NETWORK. PATIENT HAS OON BENEFITS. PLEASE INFORM PATIENT OF POSSIBLE HIGHER OUT OF POCKET COSTS (see note). covered for a Routine Eye Exam every two years | Tricare Prime HMO-REFERRAL REQ | Referral Required | Non-PAR -OON Benefits |
@@ -206,9 +206,9 @@
 | United Healthcare UHN OneNet-Auto Liability | Self Pay Non-Par with Ins | nan | Non-PAR |
 | United Healthcare UHN OneNet-Workers Comp | Self Pay Non-Par with Ins | nan | Non-PAR |
 | Versant: Davis Vision | Self Pay Non-Par with Ins | nan | Non-PAR |
-| Versant: Superior Vision | Superior Vision | Authorization Required | PAR |
+| Versant: Superior Vision | Superior Vision | Authorization Required | Non-PAR |
 | Vitori Health Open Access Plan | Vitori Health Open Access Plan | No Ref/No Auth Required | PAR |
-| VSP Vision | Vision Service Plan | Authorization Required | PAR |
+| VSP Vision | Vision Service Plan | Authorization Required | Non-PAR |
 | Web TPA | Web TPA | No Ref/No Auth Required | PAR |
 | Wellcare Medicare HMO | Self Pay Non-Par with Ins | nan | Non-PAR |
 | Wellcare Medicare PPO CFS is OUT OF NETWORK. PATIENT HAS OON BENEFITS. PLEASE INFORM PATIENT OF POSSIBLE HIGHER OUT OF POCKET COSTS. BENEFIT MUST BE CHECKED PRIOR TO APPT | WellCare Medicare PPO | Authorization MAY BE Required | Non-PAR -OON Benefits |

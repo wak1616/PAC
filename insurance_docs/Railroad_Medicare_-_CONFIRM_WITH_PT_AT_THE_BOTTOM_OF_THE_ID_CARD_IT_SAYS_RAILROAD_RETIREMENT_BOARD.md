@@ -40,6 +40,7 @@
 | Rachael Randolph, OD | Railroad Medicare | No Ref/No Auth Required | PAR |
 | Scott Stevens, OD | Railroad Medicare | No Ref/No Auth Required | PAR |
 | Shannon Bednarz, PA | Railroad Medicare | No Ref/No Auth Required | PAR |
+| Tanuj Banker, MD (RETINA) | Railroad Medicare | No Ref/No Auth Required | PAR |
 | Todd Lang, OD | Railroad Medicare | No Ref/No Auth Required | PAR |
 | Trisha Werner, OD | Railroad Medicare | No Ref/No Auth Required | PAR |
 | William Soscia, MD | Railroad Medicare | No Ref/No Auth Required | PAR |
@@ -52,19 +53,6 @@
 | Hunter Vittone, OD | Railroad Medicare | No Ref/No Auth Required | PAR |
 | Jon Berlie, MD | Railroad Medicare | No Ref/No Auth Required | PAR |
 | Julie Carter, MD | Railroad Medicare | No Ref/No Auth Required | PAR |
-
-## Lake Eye 
-
-| Provider | NextGen Name | Referral/Auth | Status |
-|----------|-------------|--------------|--------|
-| Alexandria Rawls, OD | Railroad Medicare | No Ref/No Auth Required | PAR |
-| Christine Bui, OD | Railroad Medicare | No Ref/No Auth Required | PAR |
-| Diba Ossareh, OD | Railroad Medicare | No Ref/No Auth Required | PAR |
-| Jose Vazques-Diaz, MD | Railroad Medicare | No Ref/No Auth Required | PAR |
-| Mari Holderby, OD | Railroad Medicare | No Ref/No Auth Required | PAR |
-| Scot Holman, MD | Railroad Medicare | No Ref/No Auth Required | PAR |
-| Scott Wehrly, MD | Railroad Medicare | No Ref/No Auth Required | PAR |
-| Vinay Gutti, MD | Railroad Medicare | No Ref/No Auth Required | PAR |
 
 ## Retina Health Center
 

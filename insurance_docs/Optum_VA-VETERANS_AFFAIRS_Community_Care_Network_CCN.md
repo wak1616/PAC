@@ -13,19 +13,6 @@
 | Jon Berlie, MD | Optum VA Community Care | Authorization Required | PAR |
 | Julie Carter, MD | Optum VA Community Care | Authorization Required | PAR |
 
-## Lake Eye 
-
-| Provider | NextGen Name | Referral/Auth | Status |
-|----------|-------------|--------------|--------|
-| Alexandria Rawls, OD | Optum VA Community Care | Authorization Required | Non-PAR |
-| Christine Bui, OD | Optum VA Community Care | Authorization Required | PAR |
-| Diba Ossareh, OD | Optum VA Community Care | Authorization Required | Non-PAR |
-| Jose Vazques-Diaz, MD | Optum VA Community Care | Authorization Required | PAR |
-| Mari Holderby, OD | Optum VA Community Care | Authorization Required | PAR |
-| Scot Holman, MD | Optum VA Community Care | Authorization Required | PAR |
-| Scott Wehrly, MD | Optum VA Community Care | Authorization Required | PAR |
-| Vinay Gutti, MD | Optum VA Community Care | Authorization Required | PAR |
-
 ## Retina Health Center
 
 | Provider | NextGen Name | Referral/Auth | Status |

@@ -40,6 +40,7 @@
 | Rachael Randolph, OD | Vitori Health Open Access Plan | No Ref/No Auth Required | PAR |
 | Scott Stevens, OD | Vitori Health Open Access Plan | No Ref/No Auth Required | PAR |
 | Shannon Bednarz, PA | Vitori Health Open Access Plan | No Ref/No Auth Required | PAR |
+| Tanuj Banker, MD (RETINA) | Vitori Health Open Access Plan | No Ref/No Auth Required | PAR |
 | Todd Lang, OD | Vitori Health Open Access Plan | No Ref/No Auth Required | PAR |
 | Trisha Werner, OD | Vitori Health Open Access Plan | No Ref/No Auth Required | PAR |
 | William Soscia, MD | Vitori Health Open Access Plan | No Ref/No Auth Required | PAR |

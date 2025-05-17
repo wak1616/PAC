@@ -15,12 +15,12 @@
 | Daniel Hadland, OD | Optum VA Community Care | Authorization Required | PAR |
 | David Mertzlufft, OD | Optum VA Community Care | Authorization Required | PAR |
 | David Shoemaker, MD | Optum VA Community Care | Authorization Required | PAR |
-| Elizabeth Davis, MD                      Start Date 05/30/25 | Optum VA Community Care | Authorization Required | PAR |
+| Elizabeth Davis, MD                      Start Date 05/30/25 | Optum VA Community Care | Authorization Required | Non-PAR |
 | Erin Hardie, OD | Optum VA Community Care | Authorization Required | PAR |
 | George Hurwitz, OD | Optum VA Community Care | Authorization Required | PAR |
 | Hunter Vittone, OD | Optum VA Community Care | Authorization Required | PAR |
 | James Lenhart, OD | Optum VA Community Care | Authorization Required | PAR |
-| Joaquin De Rojas, MD | Optum VA Community Care | Authorization Required | Non-PAR |
+| Joaquin De Rojas, MD | Optum VA Community Care | Authorization Required | PAR |
 | John Fezza, MD (Oculoplastics) | Optum VA Community Care | Authorization Required | PAR |
 | Joseph Sowka, OD | Optum VA Community Care | Authorization Required | PAR |
 | Joshua Kim, MD | Optum VA Community Care | Authorization Required | PAR |
@@ -40,6 +40,7 @@
 | Rachael Randolph, OD | Optum VA Community Care | Authorization Required | PAR |
 | Scott Stevens, OD | Optum VA Community Care | Authorization Required | PAR |
 | Shannon Bednarz, PA | Optum VA Community Care | Authorization Required | PAR |
+| Tanuj Banker, MD (RETINA) | Optum VA Community Care | Authorization Required | PAR |
 | Todd Lang, OD | Optum VA Community Care | Authorization Required | PAR |
 | Trisha Werner, OD | Optum VA Community Care | Authorization Required | PAR |
 | William Soscia, MD | Optum VA Community Care | Authorization Required | PAR |

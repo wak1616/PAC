@@ -40,6 +40,7 @@
 | Rachael Randolph, OD | WellCare Medicare PPO | Authorization MAY BE Required | Non-PAR -OON Benefits |
 | Scott Stevens, OD | WellCare Medicare PPO | Authorization MAY BE Required | Non-PAR -OON Benefits |
 | Shannon Bednarz, PA | WellCare Medicare PPO | Authorization MAY BE Required | Non-PAR -OON Benefits |
+| Tanuj Banker, MD (RETINA) | WellCare Medicare PPO | Authorization MAY BE Required | Non-PAR -OON Benefits |
 | Todd Lang, OD | WellCare Medicare PPO | Authorization MAY BE Required | Non-PAR -OON Benefits |
 | Trisha Werner, OD | WellCare Medicare PPO | Authorization MAY BE Required | Non-PAR -OON Benefits |
 | William Soscia, MD | WellCare Medicare PPO | Authorization MAY BE Required | Non-PAR -OON Benefits |
