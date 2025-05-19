@@ -3,29 +3,29 @@ import folium
 
 # Hardcoded coordinates for all locations
 HARDCODED_COORDS = {
-    "Center For Sight-University Park": (27.3881, -82.4637),
-    "Center For Sight-Pelican Plaza": (27.2324, -82.4969),
-    "Center For Sight-US41 Sarasota": (27.3109, -82.5298),
-    "Center For Sight-Siesta Drive": (27.3027, -82.5335),
-    "Center For Sight-Venice": (27.0999, -82.4159),
-    "Center For Sight-Jacaranda": (27.1291, -82.3798),
-    "Center For Sight-AMARA (1370 Venice)": (27.0987, -82.4142),  # Renamed from "Center For Sight-1370 Venice"
-    "Center For Sight-Englewood": (26.9387, -82.3372),
-    "Center For Sight-North Port": (27.0431, -82.2352),
-    "Center For Sight-Kings Hwy": (27.0122, -82.0522),
-    "Center For Sight-Brantley Road": (26.5617, -81.8762),
-    "Center For Sight-Naples": (26.2027, -81.8039),
-    "Center For Sight-San Carlos Blvd": (26.4897, -81.9392),
-    "LEA-Lady Lake Sunset Plaza": (28.9172, -81.9402),
-    "LEA-Leesburg": (28.8101, -81.8701),
-    "LEA-Tavares": (28.8196, -81.7103),
-    "LEA-The Villages": (28.9341, -81.9592),
-    "LEA-Wildwood": (28.8622, -82.0592),
-    "RHC-Fort Myers": (26.5661, -81.8702),
-    "RHC-Naples": (26.2432, -81.7746),
-    "SFEC-Cape Coral": (26.6358, -81.9747),
-    "SFEC-Fort Myers": (26.5372, -81.8492),
-    "SFEC-Naples": (26.2727, -81.8007),
+    "Center For Sight-University Park": (27.389269014575213, -82.46249526984089),
+    "Center For Sight-Pelican Plaza": (27.231481974254564, -82.49669843309735),
+    "Center For Sight-US41 Sarasota": (27.31076564637082, -82.52956163814017),
+    "Center For Sight-Siesta Drive": (27.302669054593846, -82.53344236491891),
+    "Center For Sight-Venice": (27.100941781802703, -82.41515428012592),
+    "Center For Sight-Jacaranda": (27.08152171356384, -82.38731766124684),
+    "Center For Sight-AMARA (1370 Venice)": (27.100439160498723, -82.41337541971313),  
+    "Center For Sight-Englewood": (26.938782628717103, -82.33682124208161),
+    "Center For Sight-North Port": (27.03943408428842, -82.22570558429699),
+    "Center For Sight-Kings Hwy": (27.01522244288819, -82.05200616507142),
+    "Center For Sight-Brantley Road": (26.561461082846446, -81.88328730931528),
+    "Center For Sight-Naples": (26.202648101539374, -81.80371133888552),
+    "Center For Sight-San Carlos Blvd": (26.51374251832621, -81.94328835659982),
+    "LEA-Lady Lake Sunset Plaza": (28.918076696732687, -81.93895435384474),
+    "LEA-Leesburg": (28.806846590745423, -81.86892587282159),
+    "LEA-Tavares": (28.819885551729413, -81.71020523885362),
+    "LEA-The Villages": (28.951221988583804, -81.95729030848999),
+    "LEA-Wildwood": (28.837694824377323, -82.01425100992849),
+    "RHC-Fort Myers": (26.583382951038544, -81.88049135177776),
+    "RHC-Naples": (26.24340667002786, -81.77360867236648),
+    "SFEC-Cape Coral": (26.610014016562296, -81.9735417097375),
+    "SFEC-Fort Myers": (26.540066822472934, -81.8433808271569),
+    "SFEC-Naples": (26.273262802262114, -81.80147676774403),
 }
 
 # Function to handle location name mapping (for updated location names)
@@ -35,6 +35,7 @@ def update_location_name(original_name):
     """
     name_mapping = {
         "Center For Sight-1370 Venice": "Center For Sight-AMARA (1370 Venice)",
+        "Center For Sight-Kings Hwy (Port Charlotte)": "Center For Sight-Kings Hwy",
     }
     return name_mapping.get(original_name, original_name)
 

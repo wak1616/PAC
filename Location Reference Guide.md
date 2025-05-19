@@ -75,7 +75,7 @@
 - **Hours:** M-W, F 8:00-5:00, Th 8:00-6:00
 - **Directions:** Across US41 from Lowe's in the same plaza as Quest Diagnostics lab.
 
-#### Center For Sight-Kings Hwy
+#### Center For Sight-Kings Hwy (Port Charlotte)
 - **Address:** 970 Kings Highway, Suite 2, Punta Gorda, FL 33980-4213
 - **Phone:** (941) 637-0202
 - **Fax:** (941) 637-0425
