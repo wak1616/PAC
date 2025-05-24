@@ -31,4 +31,7 @@ wheels/
 .idea/
 .vscode/
 *.swp
-*.swo 
+*.swo
+
+# PowerPoint presentations and related files
+ppt/ 
