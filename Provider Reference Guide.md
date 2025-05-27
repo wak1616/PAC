@@ -285,16 +285,16 @@
 
 ### Christine Bui, OD
 - **Patient Types**: Young Child (3-7 Years), Teen (8-17 Years), Adult (18 & Over)
-- **Specialties**: Primary Eye Care, Soft CL, RGP CL, Vision Plan
+- **Specialties**: Primary Eye Care, Soft CL, Vision Plan
 - **Patient Care Team**: LEA
-- **Office Locations**: The Villages, Wildwood
+- **Office Locations**: Wildwood
 - **NPI**: 1396313607
 
 ### Vinay Gutti, MD
 - **Patient Types**: Adult (18 & Over)
-- **Specialties**: Cataract, Refractive (LASIK/PRK), Cornea
+- **Specialties**: Cataract, Cornea
 - **Patient Care Team**: LEA
-- **Office Locations**: Leesburg, Tavares, Wildwood
+- **Office Locations**: Leesburg, Tavares, The Villages, Wildwood
 - **NPI**: 1942400262
 
 ### Mari Holderby, OD
@@ -311,6 +311,20 @@
 - **Office Locations**: Tavares, The Villages, Wildwood
 - **NPI**: 1467533505
 
+### Diba Ossareh, OD
+- **Patient Types**: Young Child (3-7 Years), Teen (8-17 Years), Adult (18 & Over)
+- **Specialties**: Primary Eye Care, Soft CL, RGP CL, Vision Plan
+- **Patient Care Team**: LEA
+- **Office Locations**: Wildwood
+- **NPI**: 1235816067
+
+### Alexandria Rawls, OD
+- **Patient Types**: Young Child (3-7 Years), Teen (8-17 Years), Adult (18 & Over)
+- **Specialties**: Primary Eye Care, Soft CL, RGP CL, Vision Plan
+- **Patient Care Team**: LEA
+- **Office Locations**: Lady Lake, The Villages
+- **NPI**: 1780241513
+
 ### Jose Vazquez, MD
 - **Patient Types**: Adult (18 & Over)
 - **Specialties**: Primary Eye Care
@@ -324,13 +338,6 @@
 - **Patient Care Team**: LEA
 - **Office Locations**: Leesburg, Tavares, The Villages, Wildwood
 - **NPI**: 1174563696
-
-### Alexandria Rawls, OD
-- **Patient Types**: Young Child (3-7 Years), Teen (8-17 Years), Adult (18 & Over)
-- **Specialties**: Primary Eye Care, Soft CL, RGP CL, Vision Plan
-- **Patient Care Team**: LEA
-- **Office Locations**: Lady Lake, The Villages
-- **NPI**: 1780241513
 
 ## RHC
 
