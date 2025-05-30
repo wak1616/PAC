@@ -652,8 +652,8 @@ US Eye offers **Light Adjustable Lens**, **Advanced**, **Custom**, and **Basic**
 1. **Do cataract consultations require dilation?**\
    Yes. _"As part of the examination process, your eyes will be dilated. This can cause blurry vision and light sensitivity for several hours. Please arrange transportation, as you should not drive afterward."_
    * Advise patient dilation is required. _(See_ [_Dilation Key_](./#dilation-key) _for standard scripting)_
-2. **How long is the appointment?**\
-   \&#xNAN;_"Your consultation will take approximately 2–3 hours. This time allows for a comprehensive exam and all necessary testing to ensure the highest level of care."_
+2. **How long is the appointment?**
+   "Your consultation will take approximately 2–3 hours. This time allows for a comprehensive exam and all necessary testing to ensure the highest level of care."
 
 #### Pre-Op / Post-Op Care
 
