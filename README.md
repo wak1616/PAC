@@ -845,8 +845,8 @@ For cornea consultations - especially for keratoconus evaluations - patients sho
    * Sjogren's Syndrome
    * Ocular Rosacea
 
-> **Scheduling Protocol**:
->  * **New Patients WITHOUT a formal diagnosis of dry eye** or related dx:
+* **Scheduling Protocol**:
+   * **New Patients WITHOUT a formal diagnosis of dry eye** or related dx:
       * Schedule with an internal optometrist for a comprehensive exam (see [Primary Eye Care Protocol](./#scheduling-primary-eye-care))
    * **New Patients WITH a formal diagnosis of dry eye** or related dx who are being referred directly for a procedure or treatment:
       * Forward call to the Referral Coordinator Group (Ext: 103624)
