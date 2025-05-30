@@ -1,5 +1,7 @@
 # Patient Access Center Master Guide
 
+**Last Updated:** May 29, 2025
+
 Note: For detailed navigation, please use the GitBook sidebar menu on the **right** 👉
 
 ## Introduction
@@ -330,14 +332,52 @@ Use this rule to override standard appointment templates if attempting to schedu
 
 ## Standard Closing Procedures (Scripting)
 
-* Confirm appointment details: date, time, and location.
-* Inform patient about pre-visit registration via Phreesia:
+### Basic Call Closing Steps
 
-> "You may receive a Phreesia registration message. Please complete this in advance to streamline your check-in. Contact us if you have questions."
+Follow these steps for **every** patient call to ensure consistent, professional service:
 
-* Final confirmation:
+1. **Ask if additional assistance is needed**
+   * "Is there anything else I can help you with today?"
 
-> "Thank you, \[Mr./Ms. Patient Last Name]. Can we assist you with anything else today? We look forward to seeing you on \[date] at \[time] at our \[location] office."
+2. **Encourage Phreesia pre-visit workflow** (5 days before appointment)
+   * "You'll receive a message from Phreesia 5 days before your visit. Please complete registration online to streamline check-in and help us prepare for your care. If you have any trouble with registration, please contact us."
+
+3. **Confirm appointment details**
+   * Date, time, and location
+   * If location differs from their usual office, **emphasize** the change
+
+4. **Final confirmation**
+   * "Thank you, [Mr./Ms. Patient Last Name]. We look forward to seeing you on [date] at [time] at our [location] office."
+
+### Specialty-Specific Reminders
+
+Include these additional reminders based on the appointment type:
+
+#### Dilation Requirements
+For appointments requiring dilation (most consultations and comprehensive exams):
+* "As part of the examination process, your eyes will be dilated, causing blurry vision and light sensitivity for several hours. Please arrange transportation home, as you should not drive afterward."
+
+#### Extended Appointment Duration
+For consultations (typically 2-3 hours):
+* "Due to the complexity of the exam and comprehensive diagnostic testing, your appointment may last 2-3 hours. This ensures we provide the highest level of care."
+
+#### Contact Lens Discontinuation
+When contact lens discontinuation is required:
+* Confirm discontinuation period was explained
+* "Remember to discontinue your contact lenses [timeframe] before your appointment as discussed."
+* For detailed contact lens discontinuation protocols, refer to the [Contact Lens Discontinuation Guide](Contact_Lens_Discontinuation_Guide.md)
+
+#### Self-Pay/Fee Notifications
+For appointments with fees not covered by insurance:
+* Confirm fee amount and payment expectations
+* "As discussed, the consultation fee is $[amount] and payment is due at check-in."
+
+#### Routine vs. Medical Coverage
+For routine eye exams:
+* "Your routine eye exam is scheduled for [date/time]. If a medical condition is found, the physician will let you know about any insurance or financial responsibilities before proceeding with treatment that day. You can choose to proceed immediately or schedule the care for another time."
+
+### Quick Reference
+For detailed specialty-specific protocols, refer to the individual scheduling sections in this guide.
 
 ***
 
@@ -400,13 +440,11 @@ These exams are usually performed annually and help maintain overall eye health.
 
 #### Closing Reminders
 
-1. Ask if there's anything else the patient needs.
-2.  **Routine vs. Medical** Coverage Note:
+Follow the [Standard Closing Procedures](#standard-closing-procedures-scripting) with these specific additions:
 
-    > "Your routine eye exam is on \[date/time]. If a medical condition is found, the physician will let you know about any insurance or financial responsibilities before proceeding with treatment that day. You can choose to proceed immediately or schedule the care for another time."
-3. Encourage completing the **Phreesia** pre-visit workflow \~5 days before the appointment.
-4. Thank the patient and confirm date/time/location. If different from their usual location, **emphasize** the change.
-   * **Suggested**: "Thank you \[Mr./Ms. Patient Last Name]. Is there anything else we can help you with? We look forward to seeing you for your comprehensive eye exam on \[date] at \[time] at our \[office] location."_(_[_Standard Closing Procedures_](./#standard-closing-procedures-scripting)_)_
+* **Routine vs. Medical Coverage Notice**: Include the routine vs. medical coverage script for routine eye exams
+* **Dilation Requirements**: Inform patient about likely dilation and 90-120 minute duration
+* If location differs from usual, emphasize the change
 
 ### Scheduling Established Patients
 
@@ -441,16 +479,10 @@ Appointments will typically be scheduled with the patient's existing provider un
 
 #### Closing Reminders
 
-1. **Ask if any further assistance is needed**
-   * Example: "Is there anything else I can help you with today?"
-2. **Routine vs. Medical Coverage Notice**
-   * **Script**:\
-     "Your appointment for a routine eye exam is scheduled for \[date] at \[time]. Should the physician identify a medical condition during your visit, we will give you updated insurance/financial information before proceeding. You can decide whether to address the medical condition then or schedule for a later time."
-3. **Encourage Pre-Visit Workflow**
-   * **Script**:\
-     "Five days before your appointment, you'll receive a message from Phreesia to confirm and complete registration. This helps speed up check-in and lets us focus on your care. If you have any trouble with registration, please let us know."
-4. **Confirm Appointment Details**
-   * **Suggested**: _(Follow_ [_Standard Closing Procedures_](./#standard-closing-procedures-scripting)_)_
+Follow the [Standard Closing Procedures](#standard-closing-procedures-scripting) with these specific additions:
+
+* **Routine vs. Medical Coverage Notice**: Include the routine vs. medical coverage script for routine eye exams
+* If location differs from usual, emphasize the change
 
 ### Handling Insurance Information During Scheduling
 
@@ -476,7 +508,6 @@ Use the **US Eye Insurance Guide** to confirm whether the plan is in-network, ou
 
 **1. Verify Information**
 
-* Ask if the patient has their **primary insurance card** available.
 * **Questions**:
   1. "What is the plan name on your insurance card?"
   2. "Is this a **Commercial, Medicare, or Medicaid** plan?"
@@ -638,21 +669,11 @@ US Eye offers **Light Adjustable Lens**, **Advanced**, **Custom**, and **Basic**
 
 #### Closing Reminders
 
-* Ask: _"Is there anything else I can help you with today?"_
-* Remind:
-  * Dilation and 2–3 hour exam
-  * Contact lens removal requirements
-  * Pre-visit workflow via **Phreesia** (5 days before appointment)
+Follow the [Standard Closing Procedures](#standard-closing-procedures-scripting) with these specific additions:
 
-> _"You'll receive a message from Phreesia 5 days before your visit. Please complete registration online to streamline check-in and help us prepare for your care."_
-
-* Confirm date/time/location and clarify if location is different than usual:
-
-> **Example**:\
-> \&#xNAN;_"Thank you, \[Mr./Ms. Last Name]. We look forward to seeing you on \[date] at \[time] at our \[location] office." (Follow_ [_Standard Closing Procedures_](./#standard-closing-procedures-scripting)_)_
-
-* Remind about potential dilation and 2–3 hour duration.
-* Reiterate contact lens discontinuation requirements if applicable.
+* **Dilation Requirements**: Inform patient about dilation and 2-3 hour duration
+* **Contact Lens Discontinuation**: Remind about contact lens requirements if applicable
+* If location differs from usual, emphasize the change
 
 ### Scheduling Refractive
 
@@ -732,8 +753,8 @@ Refractive procedures help improve the patient's vision to minimize dependence o
 1. **Will my eyes be dilated?**\
    Yes. _"As part of the examination, your eyes may be dilated to allow for a thorough assessment. Your vision may be blurry and your eyes sensitive to light for several hours. Please arrange transportation accordingly."_
    * Advise patient dilation is likely required. _(See_ [_Dilation Key_](./#dilation-key) _for standard scripting)_
-2. **How long is the consultation?**\
-   \&#xNAN;_"Due to the complexity of the exam and the comprehensive nature of diagnostic testing, your consultation may last up to three hours."_
+2. **How long is the consultation?**
+   "Due to the complexity of the exam and the comprehensive nature of diagnostic testing, your consultation may last up to three hours."
 
 #### Pre-Op / Post-Op Care
 
@@ -747,18 +768,12 @@ Refractive procedures help improve the patient's vision to minimize dependence o
 
 #### Closing Reminders
 
-* Ask if there is anything else the patient needs.
-* Confirm dilation and 2–3 hour appointment expectations.
-* Reiterate contact lens discontinuation requirements.
-*   Encourage the patient to complete the Phreesia pre-visit registration 5 days in advance:
+Follow the [Standard Closing Procedures](#standard-closing-procedures-scripting) with these specific additions:
 
-    > "Completing the registration in advance will help expedite check-in and allow more time for your care."
-* Confirm consultation fee and self-pay status.
-* Confirm potential dilation and 2–3 hour appointment expectations.
-* Reiterate contact lens discontinuation requirements.
-*   Confirm appointment date/time/location:
-
-    > "Thank you \[Mr./Ms. Last Name], we look forward to seeing you for your consultation on \[date] at \[time] at our \[location] office." _(Follow_ [_Standard Closing Procedures_](./#standard-closing-procedures-scripting)_)_
+* **Self-Pay Fee**: Confirm consultation fee and payment expectations
+* **Dilation Requirements**: Inform patient about dilation and 2-3 hour duration
+* **Contact Lens Discontinuation**: Remind about contact lens requirements if applicable
+* If location differs from usual, emphasize the change
 
 ### Scheduling Cornea
 
@@ -812,23 +827,32 @@ For cornea consultations - especially for keratoconus evaluations - patients sho
 4. If no surgeon preference, offer the next available at the requested/most convenient location.
 5. Enter the surgeon's name in the Referring Physician field to indicate self-referral (never leave it blank)._(Follow standard_ [_Referral Management Protocol_](./#referral-management-protocol)_)_
 
-#### Special Notes
+#### Dry Eye Procedures & Treatments (Center For Sight-Sarasota)
 
-**Dry Eye Treatments (Maureen Traina, PA)**
-
+* **Provider for treatment-only visits**: Maureen Traina, PA
 * **Location**: CFS – US41 Sarasota
 * **Procedures**:
   * IPL
   * Lipiflow
   * iLux
   * PRP / Serum Tears
+  * Punctal plugs/Punctal occlusion/Lacrifill
+* **Related Diagnoses (dx):**
+   * Dry Eye Disease
+   * Ocular surface disease
+   * Meibomian Gland Dysfunction
+   * Blepharitis
+   * Sjogren's Syndrome
+   * Ocular Rosacea
 
-> **Requirements**:
->
-> * Patient must be referred by a Center For Sight provider, or
-> * Records from an external provider must indicate a diagnosis of Dry Eye Syndrome (DES).
-> * For Serum/PRP Tears referrals, schedule at least 1 week out and add **DNM** in appointment notes.
-> * If records do not indicate DES or the patient is new to Center For Sight, schedule with an Optometrist (see **Primary Eye Care Protocol**).
+> **Scheduling Protocol**:
+>  * **New Patients WITHOUT a formal diagnosis of dry eye** or related dx:
+      * Schedule with an internal optometrist for a comprehensive exam (see [Primary Eye Care Protocol](./#scheduling-primary-eye-care))
+   * **New Patients WITH a formal diagnosis of dry eye** or related dx who are being referred directly for a procedure or treatment:
+      * Forward call to the Referral Coordinator Group (Ext: 103624)
+   * **Established patients who want to undergo a repeat treatment** for dry eye or related dx:
+      * Schedule directly with Maureen Traina, PA in CFS - US41 Sarsota
+      * Example: Patinet requests a new batch of PRP tears (lasts for ~3 months)
 
 #### FAQs
 
@@ -844,20 +868,7 @@ For cornea consultations - especially for keratoconus evaluations - patients sho
     > "Due to the complexity of the exam and the comprehensive nature of the diagnostic testing we'll be conducting, your consultation is likely to last between two to three hours. This extended time is necessary to ensure we gather all the information needed to provide you with the best possible care."
 
 #### Closing Reminders
-
-* Ask if there is anything else you can assist with.
-* Advise the patient of dilation and 2–3 hour duration.
-* Encourage Phreesia pre-registration 5 days prior to appointment.
-
-> "Five days prior to your appointment, you will receive a message from Phreesia, our registration platform. Please confirm your appointment and complete the registration. This ensures a faster check-in and allows us to focus more on your care. Contact our office with any questions."
-
-1. Ask if there is anything else you can assist the patient with.
-2.  Encourage the patient to complete their **pre-visit workflow** (Phreesia) about 5 days prior.
-
-    > "Five days prior to your appointment, you will receive a message from Phreesia, our registration platform. We kindly ask that you confirm your appointment and complete the registration process before your appointment date. This helps expedite check-in and allows us to spend more time on your care. If you have any issues with registration, please contact us."
-3. Thank the patient and confirm the **date/time/location**. If it differs from their usual location, reiterate that.
-4. **Example**:\
-   "Thank you \[Mr./Ms. Patient Last Name], we look forward to seeing you for your dermatology consultation on \[date] at \[time] at our \[office] location."_(Follow_ [_Standard Closing Procedures_](./#standard-closing-procedures-scripting)_)_
+_(See_ [_Standard Closing Procedures_](./#standard-closing-procedures-scripting) _for complete scripting)_
 
 ### Scheduling Glaucoma
 
@@ -914,15 +925,7 @@ All Pre-Op, Surgery, and 1-Day Post-Op visits are managed by the **surgical coun
    Typically **2–3 hours**, due to comprehensive diagnostic testing.
 
 #### Closing Reminders
-
-* Ask if there is anything else you can help with.
-* Remind the patient about the 2–3 hour duration and possible **dilation**.
-*   Encourage them to complete their **Phreesia** pre-visit workflow about 5 days before the appointment.
-
-    > "Completing registration in advance ensures all necessary information is in place and helps expedite check-in."
-* **Thank the patient** and confirm date/time/location.
-  * If the office differs from their usual location, reiterate the change.
-  * **Suggested**: "Thank you \[Mr./Ms. Patient Last Name], we look forward to seeing you for your glaucoma consultation on \[date] at \[time] at our \[office] location."_(Follow_ [_Standard Closing Procedures_](./#standard-closing-procedures-scripting)_)_
+_(See_ [_Standard Closing Procedures_](./#standard-closing-procedures-scripting) _for complete scripting)_
 
 ### Scheduling Retina
 
@@ -1014,15 +1017,11 @@ The **retina** is a delicate, light-sensitive tissue lining the interior of the 
 
 #### Closing Reminders
 
-1. Ask if there is anything else the patient needs.
-2. Remind them about **dilation** and the **2–3 hour** appointment duration.
-3. Encourage completion of the **Phreesia** pre-visit workflow about **5 days** prior to expedite check-in.
-4. Thank the patient, confirm date/time/location, and **emphasize** if the location differs from their usual site.
+Follow the [Standard Closing Procedures](#standard-closing-procedures-scripting) with these specific additions:
 
-> **Suggested**:\
-> "Thank you \[Mr./Ms. Patient Last Name]. We look forward to seeing you for your retina consultation on \[date] at \[time] at our \[office] location." _(Follow_ [_Standard Closing Procedures_](./#standard-closing-procedures-scripting)_)_
-
-* Remind patient about **mandatory dilation** and the potential **2–3 hour** appointment duration (or adjusted time for follow-ups).
+* **Dilation Requirements**: Inform patient about dilation and 2-3 hour duration (if applicable)
+* **Self-Pay Fee**: Confirm consultation fee and payment expectations (if applicable)
+* If location differs from usual, emphasize the change
 
 ### Scheduling Oculoplastics
 
@@ -1102,12 +1101,9 @@ Oculoplastics consultations focus on facial and eyelid conditions and treatments
 
 #### Closing Reminders
 
-1. Ask if there is anything else you can assist the patient with.
-2.  Encourage the patient to complete their **pre-visit workflow** (Phreesia) about five days before the appointment.
-
-    > "Completing the registration in advance ensures we have all necessary information and helps expedite check-in. If you have any difficulties with the registration, please call us."
-3. Thank the patient for calling; confirm the **date/time/location**. If they usually go to a different location, reiterate that it's a different office.
-   * **Suggested**: "Thank you \[Mr./Ms. Patient Last Name]. We look forward to seeing you for your oculoplastic consultation on \[date] at \[time] at our \[office] location." _(Follow_ [_Standard Closing Procedures_](./#standard-closing-procedures-scripting)_)_
+Follow the [Standard Closing Procedures](#standard-closing-procedures-scripting) with these specific additions:
+* **Self-Pay Fee**: Confirm consultation fee and payment expectations (if applicable)
+* If location differs from usual, emphasize the change
 
 ### Scheduling Dermatology
 
@@ -1176,13 +1172,9 @@ Include the patient's:
 
 #### Closing Reminders
 
-1. Ask if there is anything else you can assist the patient with.
-2.  Encourage the patient to complete their **pre-visit workflow** (Phreesia) about 5 days prior.
-
-    > "Five days prior to your appointment, you will receive a message from Phreesia, our registration platform. We kindly ask that you confirm your appointment and complete the registration process before your appointment date. This helps expedite check-in and allows us to spend more time on your care. If you have any issues with registration, please contact us."
-3. Thank the patient and confirm the **date/time/location**. If it differs from their usual location, reiterate that.
-4. **Example**:\
-   "Thank you \[Mr./Ms. Patient Last Name], we look forward to seeing you for your dermatology consultation on \[date] at \[time] at our \[office] location." _(Follow_ [_Standard Closing Procedures_](./#standard-closing-procedures-scripting)_)_
+Follow the [Standard Closing Procedures](#standard-closing-procedures-scripting) with these specific additions:
+* **Self-Pay Fee**: Confirm consultation fee and payment expectations (if applicable)
+* If location differs from usual, emphasize the change
 
 ### Scheduling Aesthetician
 
@@ -1280,9 +1272,6 @@ Below are the listed providers at Center For Sight, along with the services they
 
 #### Closing Reminders
 
-* Ask if there is anything else you can assist the patient with.
-* Encourage the patient to complete their **pre-visit workflow** (Phreesia) about five days before the appointment.
-* Thank the patient for calling and confirm the appointment **date/time/location**.
   * Emphasize if the location differs from their usual office.
 * Example Closing:\
   "Thank you \[Mr./Ms. Patient Last Name], we look forward to seeing you for your Aesthetic consultation on \[date] at \[time] at our \[office] location." _(Follow_ [_Standard Closing Procedures_](./#standard-closing-procedures-scripting)_)_
