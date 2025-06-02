@@ -34,7 +34,7 @@ US Eye encompasses the following practices:
 
 _Click on the map below to access the interactive version_
 
-[![Interactive Map of Practice Locations](images/florida-practices-map.jpg)](https://wak1616.github.io/PAC/docs/locations_map.html)
+[![Interactive Map of Practice Locations](images/florida-practices-map.jpg)](https://wak1616.github.io/PAC/locations_map.html)
 
 ### Websites (with physician biographies)
 
