@@ -15,7 +15,7 @@
 | Daniel Hadland, OD | Aetna Medicare HMO REFERRAL REQ | Referral Required | Non-PAR |
 | David Mertzlufft, OD | Aetna Medicare HMO REFERRAL REQ | Referral Required | Non-PAR |
 | David Shoemaker, MD | Aetna Medicare HMO REFERRAL REQ | Referral Required | PAR |
-| Elizabeth Davis, MD                      Start Date 05/30/25 | Aetna Medicare HMO REFERRAL REQ | Referral Required | Non-PAR |
+| Elizabeth Davis, MD | Aetna Medicare HMO REFERRAL REQ | Referral Required | PAR |
 | Erin Hardie, OD | Aetna Medicare HMO REFERRAL REQ | Referral Required | Non-PAR |
 | George Hurwitz, OD | Aetna Medicare HMO REFERRAL REQ | Referral Required | Non-PAR |
 | Hunter Vittone, OD | Aetna Medicare HMO REFERRAL REQ | Referral Required | Non-PAR |

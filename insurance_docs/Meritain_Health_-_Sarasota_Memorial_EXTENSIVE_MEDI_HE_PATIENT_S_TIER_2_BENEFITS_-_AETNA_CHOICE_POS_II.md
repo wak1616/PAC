@@ -15,7 +15,7 @@
 | Daniel Hadland, OD | Meritain Health SMH Extd  Pln | Authorization MAY be Required | PAR |
 | David Mertzlufft, OD | Meritain Health SMH Extd  Pln | Authorization MAY be Required | PAR |
 | David Shoemaker, MD | Meritain Health SMH Extd  Pln | Authorization MAY be Required | PAR |
-| Elizabeth Davis, MD                      Start Date 05/30/25 | Meritain Health SMH Extd  Pln | Authorization MAY be Required | Non-PAR |
+| Elizabeth Davis, MD | Meritain Health SMH Extd  Pln | Authorization MAY be Required | Non-PAR |
 | Erin Hardie, OD | Meritain Health SMH Extd  Pln | Authorization MAY be Required | PAR |
 | George Hurwitz, OD | Meritain Health SMH Extd  Pln | Authorization MAY be Required | PAR |
 | Hunter Vittone, OD | Meritain Health SMH Extd  Pln | Authorization MAY be Required | PAR |
@@ -58,14 +58,14 @@
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
-| Alexandria Rawls, OD | Meritain Health SMH Extd  Pln | Authorization MAY be Required | PAR |
-| Christine Bui, OD | Meritain Health SMH Extd  Pln | Authorization MAY be Required | PAR |
+| Alexandria Rawls, OD | Meritain Health SMH Extd  Pln | Authorization MAY be Required | Non-PAR |
+| Christine Bui, OD | Meritain Health SMH Extd  Pln | Authorization MAY be Required | Non-PAR |
 | Diba Ossareh, OD | Meritain Health SMH Extd  Pln | Authorization MAY be Required | Non-PAR |
-| Jose Vazques-Diaz, MD | Meritain Health SMH Extd  Pln | Authorization MAY be Required | PAR |
-| Mari Holderby, OD | Meritain Health SMH Extd  Pln | Authorization MAY be Required | PAR |
-| Scot Holman, MD | Meritain Health SMH Extd  Pln | Authorization MAY be Required | PAR |
-| Scott Wehrly, MD | Meritain Health SMH Extd  Pln | Authorization MAY be Required | PAR |
-| Vinay Gutti, MD | Meritain Health SMH Extd  Pln | Authorization MAY be Required | PAR |
+| Jose Vazques-Diaz, MD | Meritain Health SMH Extd  Pln | Authorization MAY be Required | Non-PAR |
+| Mari Holderby, OD | Meritain Health SMH Extd  Pln | Authorization MAY be Required | Non-PAR |
+| Scot Holman, MD | Meritain Health SMH Extd  Pln | Authorization MAY be Required | Non-PAR |
+| Scott Wehrly, MD | Meritain Health SMH Extd  Pln | Authorization MAY be Required | Non-PAR |
+| Vinay Gutti, MD | Meritain Health SMH Extd  Pln | Authorization MAY be Required | Non-PAR |
 
 ## Retina Health Center
 

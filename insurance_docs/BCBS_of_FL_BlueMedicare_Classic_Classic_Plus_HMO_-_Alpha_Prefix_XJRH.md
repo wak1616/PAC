@@ -15,7 +15,7 @@
 | Daniel Hadland, OD | BCBS FL Medicare HMO REFERRAL REQ | Referral Required | PAR |
 | David Mertzlufft, OD | BCBS FL Medicare HMO REFERRAL REQ | Referral Required | PAR |
 | David Shoemaker, MD | BCBS FL Medicare HMO REFERRAL REQ | Referral Required | PAR |
-| Elizabeth Davis, MD                      Start Date 05/30/25 | BCBS FL Medicare HMO REFERRAL REQ | Referral Required | PAR |
+| Elizabeth Davis, MD | BCBS FL Medicare HMO REFERRAL REQ | Referral Required | PAR |
 | Erin Hardie, OD | BCBS FL Medicare HMO REFERRAL REQ | Referral Required | PAR |
 | George Hurwitz, OD | BCBS FL Medicare HMO REFERRAL REQ | Referral Required | PAR |
 | Hunter Vittone, OD | BCBS FL Medicare HMO REFERRAL REQ | Referral Required | PAR |

@@ -8,8 +8,8 @@
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
-| Alexander Eaton, MD | BCBS FL Commercial PPO |  | Non-PAR |
-| Veronica Kon Graversen, MD | BCBS FL Commercial PPO |  | Non-PAR |
+| Alexander Eaton, MD | BCBS FL Commercial PPO |  | PAR |
+| Veronica Kon Graversen, MD | BCBS FL Commercial PPO |  | PAR |
 
 </details>
 

@@ -15,7 +15,7 @@
 | Daniel Hadland, OD | Vitori Health Open Access Plan | No Ref/No Auth Required | PAR |
 | David Mertzlufft, OD | Vitori Health Open Access Plan | No Ref/No Auth Required | PAR |
 | David Shoemaker, MD | Vitori Health Open Access Plan | No Ref/No Auth Required | PAR |
-| Elizabeth Davis, MD                      Start Date 05/30/25 | Vitori Health Open Access Plan | No Ref/No Auth Required | PAR |
+| Elizabeth Davis, MD | Vitori Health Open Access Plan | No Ref/No Auth Required | PAR |
 | Erin Hardie, OD | Vitori Health Open Access Plan | No Ref/No Auth Required | PAR |
 | George Hurwitz, OD | Vitori Health Open Access Plan | No Ref/No Auth Required | PAR |
 | Hunter Vittone, OD | Vitori Health Open Access Plan | No Ref/No Auth Required | PAR |

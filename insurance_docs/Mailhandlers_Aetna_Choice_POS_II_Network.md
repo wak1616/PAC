@@ -15,7 +15,7 @@
 | Daniel Hadland, OD | Mail Handlers Benefit Plan Comm - Aetna | No Ref/No Auth Required | PAR |
 | David Mertzlufft, OD | Mail Handlers Benefit Plan Comm - Aetna | No Ref/No Auth Required | PAR |
 | David Shoemaker, MD | Mail Handlers Benefit Plan Comm - Aetna | No Ref/No Auth Required | PAR |
-| Elizabeth Davis, MD                      Start Date 05/30/25 | Mail Handlers Benefit Plan Comm - Aetna | No Ref/No Auth Required | Non-PAR |
+| Elizabeth Davis, MD | Mail Handlers Benefit Plan Comm - Aetna | No Ref/No Auth Required | Non-PAR |
 | Erin Hardie, OD | Mail Handlers Benefit Plan Comm - Aetna | No Ref/No Auth Required | PAR |
 | George Hurwitz, OD | Mail Handlers Benefit Plan Comm - Aetna | No Ref/No Auth Required | PAR |
 | Hunter Vittone, OD | Mail Handlers Benefit Plan Comm - Aetna | No Ref/No Auth Required | PAR |

@@ -22,8 +22,8 @@
 | David Mertzlufft, OD | UHC Commercial HMO | No Ref/No Auth Required | PAR |
 | David Shoemaker, MD | UHC Commercial - NHP HMO Access | No Ref/No Auth Required | PAR |
 | David Shoemaker, MD | UHC Commercial HMO | No Ref/No Auth Required | PAR |
-| Elizabeth Davis, MD                      Start Date 05/30/25 | UHC Commercial - NHP HMO Access | No Ref/No Auth Required | Non-PAR |
-| Elizabeth Davis, MD                      Start Date 05/30/25 | UHC Commercial HMO | No Ref/No Auth Required | Non-PAR |
+| Elizabeth Davis, MD | UHC Commercial - NHP HMO Access | No Ref/No Auth Required | Non-PAR |
+| Elizabeth Davis, MD | UHC Commercial HMO | No Ref/No Auth Required | Non-PAR |
 | Erin Hardie, OD | UHC Commercial - NHP HMO Access | No Ref/No Auth Required | PAR |
 | Erin Hardie, OD | UHC Commercial HMO | No Ref/No Auth Required | PAR |
 | George Hurwitz, OD | UHC Commercial - NHP HMO Access | No Ref/No Auth Required | PAR |

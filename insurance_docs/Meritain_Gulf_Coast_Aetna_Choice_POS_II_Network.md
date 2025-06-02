@@ -15,7 +15,7 @@
 | Daniel Hadland, OD | Meritain Health Commercial - Aetna | No Ref/No Auth Required | PAR |
 | David Mertzlufft, OD | Meritain Health Commercial - Aetna | No Ref/No Auth Required | PAR |
 | David Shoemaker, MD | Meritain Health Commercial - Aetna | No Ref/No Auth Required | PAR |
-| Elizabeth Davis, MD                      Start Date 05/30/25 | Meritain Health Commercial - Aetna | No Ref/No Auth Required | Non-PAR |
+| Elizabeth Davis, MD | Meritain Health Commercial - Aetna | No Ref/No Auth Required | PAR |
 | Erin Hardie, OD | Meritain Health Commercial - Aetna | No Ref/No Auth Required | PAR |
 | George Hurwitz, OD | Meritain Health Commercial - Aetna | No Ref/No Auth Required | PAR |
 | Hunter Vittone, OD | Meritain Health Commercial - Aetna | No Ref/No Auth Required | PAR |

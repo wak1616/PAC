@@ -8,7 +8,7 @@
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
-| Alexandria Rawls, OD | Self Pay Non-Par with Ins |  | PAR |
+| Alexandria Rawls, OD | Self Pay Non-Par with Ins |  | Non-PAR |
 | Christine Bui, OD | Self Pay Non-Par with Ins |  | Non-PAR |
 | Diba Ossareh, OD | Self Pay Non-Par with Ins |  | Non-PAR |
 | Jose Vazques-Diaz, MD | Self Pay Non-Par with Ins |  | Non-PAR |

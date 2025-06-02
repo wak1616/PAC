@@ -21,7 +21,7 @@
 | Aetna Innovation - Innovation Health Aetna Select/National Advantage Program (NAP)/Innovataion Health Aetna POS/PPO | Aetna Commercial PPO | No Ref/No Auth Required | PAR |
 | Aetna Medicare - Advantra - Eagle, Elite, Gold (HMO-POS) | Aetna Medicare HMO POS | No Ref/No Auth Required | PAR |
 | Aetna Medicare - Credit Plan (PPO) | Aetna Medicare PPO | No Ref/No Auth Required | PAR |
-| Aetna Medicare - Credit/Discover/Discover Value Plan (HMO) | Aetna Medicare HMO REFERRAL REQ | Referral Required | PAR |
+| Aetna Medicare - Credit/Discover/Discover Value Plan/Silver (HMO) | Aetna Medicare HMO REFERRAL REQ | Referral Required | PAR |
 | Aetna Medicare - Select (HMO) | Aetna Medicare HMO REFERRAL REQ | Referral Required | Non-PAR |
 | Aetna Medicare - Essential/ Essential Elite/ Essentials PPO | Aetna Medicare PPO | No Ref/No Auth Required | PAR |
 | Aetna Medicare - Preferred/ Preferred Premium PPO | Aetna Medicare PPO | No Ref/No Auth Required | PAR |
@@ -56,7 +56,7 @@
 | Aetna Standard Plan- Aetna Open Choice® PPO | Aetna Commercial PPO | No Ref/No Auth Required | PAR |
 | Aetna Standard Plan- Aetna QPOS®/ Select/ Voluntary Plans | Aetna Commercial PPO | No Ref/No Auth Required | PAR |
 | Aetna Whole Health- Southwest Florida - Open Access Elect Choice/ Southwest Florida Open Access Aetna Select/ Southwest Florida Health Network Only | Aetna Commercial PPO | No Ref/No Auth Required | PAR |
-| Allegiance Benefit Plan (Cigna Open Access Plus Network) | Allegiance Benefit Plan Management-Cigna | No Ref/No Auth Required | Non-PAR |
+| Allegiance Benefit Plan (Cigna Open Access Plus Network) | Allegiance Benefit Plan Management-Cigna | No Ref/No Auth Required | PAR |
 | Allied National Open Access | Allied National Open Access | No Ref/No Auth Required | PAR |
 | AllSavers (UHC - Choice and Choice Plus Network) | All Savers Commercial - UHC | No Ref/No Auth Required | PAR |
 | AllSavers (UHC- Charter and Navigate) | All Savers Comm REFERRAL REQ - UHC | Referral Required | PAR |
@@ -105,6 +105,7 @@
 | Carefirst Commercial - CareFirst Regional | Carefirst BCBS Commercial HMO | No Ref/No Auth Required | PAR |
 | Carefirst Commercial - CareFirst Regional-BlueChoice Plus Gold/ BlueChoice HMO Standard/BlueChoice HMO HSA/HRA Gold BlueChoice HMO Gold Virtual Connect | Carefirst BCBS Commercial HMO | No Ref/No Auth Required | PAR |
 | ChampVA (VACCN) | Champva | No Ref/No Auth Required | PAR |
+| CHCBP Claims - Tricare East - CFS is OUT OF NETWORK. PATIENT HAS OON BENEFITS. PLEASE INFORM PATIENT OF POSSIBLE HIGHER OUT OF POCKET COSTS. Routine Eye Exams are NON-covered | CHCBP Claims | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Cigna - NALC Benefit Health Plan | NALC Health Benefit Plan- Cigna | No Ref/No Auth Required | PAR |
 | Cigna Commercial- ChoiceFund OA Plus/ Cigna ChoiceFund OA Plus with CareLink | Cigna Commercial PPO | No Ref/No Auth Required | PAR |
 | Cigna Commercial- Florida Connect EPO | Self Pay Non-Par with Ins |  | Non-PAR |
@@ -119,6 +120,7 @@
 | Cigna Medicare- TotalCare/Total Care Plus HMO D-SNP | Primary: Cigna Dual MDCR HMO Primary-REFERRAL REQ                                                      Secondary: Cigna Dual Medicaid HMO Secondary | Referral Required | PAR |
 | Cigna Oscar- Open Access Plus/Local Plus | Self Pay Non-Par with Ins |  | Non-PAR |
 | Cigna TotalCare Plus HMO D-SNP | Primary: Cigna Dual MDCR HMO Primary-REFERRAL REQ                                                      Secondary: Cigna Dual Medicaid HMO Secondary | Referral Required | PAR |
+| Dean Health Plan PPO - First Health | Dean Health Plan PPO | No Ref/No Auth Required | PAR |
 | Division of Blind | Division of Blind | Authorization Required | PAR |
 | Employee Benefits Management Services (EMBS) with Aetna Network | EBMS Commercial PPO - Aetna | No Ref/No Auth Required | PAR |
 | Evolution PPO | Evolutions PPO | No Ref/No Auth Required | PAR |
@@ -157,6 +159,7 @@
 | Spectera Vision | Spectera Vision | No Ref/No Auth Required | PAR |
 | Surest (United Healthcare Choice Plus Network) | Surest Commercial - UHC | No Ref/No Auth Required | PAR |
 | The Empire Plan- NYSHIP | UHC Empire PPO | No Ref/No Auth Required | PAR |
+| The Health Plan PPO - PHCS | The Health Plan PPO - PHCS | No Ref/No Auth Required | PAR |
 | Tricare Prime CFS is OUT OF NETWORK. PATIENT HAS OON BENEFITS. PLEASE INFORM PATIENT OF POSSIBLE HIGHER OUT OF POCKET COSTS (see note). covered for a Routine Eye Exam every two years | Tricare Prime HMO-REFERRAL REQ | Referral Required | Non-PAR -OON Benefits |
 | Tricare Select CFS is OUT OF NETWORK. PATIENT HAS OON BENEFITS. PLEASE INFORM PATIENT OF POSSIBLE HIGHER OUT OF POCKET COSTS. Routine Eye Exams are NON-covered | Tricare Select | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | UCare Medicare HMO CFS is OUT OF NETWORK. PATIENT HAS OON BENEFITS. PLEASE INFORM PATIENT OF POSSIBLE HIGHER OUT OF POCKET COSTS. | UCare Medicare HMO | No Ref/No Auth Required | Non-PAR -OON Benefits |
@@ -507,8 +510,8 @@
 | BCBS of FL BlueMedicare Value PPO/ BlueMedicare Value w. Level 1 - PLEASE DO NOT SCHEDULE ANY APPTS AFTER 12/31/2024 AS THIS PLAN IS NO LONGER OFFERED AS OF 01/01/2025 FOR SFEC-NAPLES OFFICE ONLY | BCBS FL Medicare PPO | No Ref/No Auth Required | PAR |
 | BCBS of FL BlueOptions Temporary Insurance/Blue Select Temporary Insurance | BCBS FL Commercial PPO | No Ref/No Auth Required | PAR |
 | BCBS of FL BlueOptions/Blue Options Hospial Surgical Plus/Blue Options with Pediactric Vision | BCBS FL Commercial PPO | No Ref/No Auth Required | PAR |
-| BCBS of FL BlueSelect/BlueSelect Hospital Surgical Plus |  |  | Non-PAR -OON Benefits |
-| BlueSelect Pediatric Vision | Self Pay Non-Par with Ins |  | Non-PAR |
+| BCBS of FL BlueSelect/BlueSelect Hospital Surgical Plus - Alpha Prefix VMAH | BCBS FL Commercial PPO | No Ref/No Auth Required | Non-PAR -OON Benefits |
+| BCBS of FL BlueSelect Pediatric Vision | Self Pay Non-Par with Ins |  | Non-PAR |
 | BCBS of FL Federal Employee Program - alpha prefix R | BCBS Federal | No Ref/No Auth Required | PAR |
 | BCBS of FL myBlue Connected Care/myBlue w. Pediactric Vision | BCBS FL myBlue HMO REFERRAL REQ | Referral Required | PAR |
 | BCBS of FL SimplyBlue | BCBS FL Commercial HMO | Authorization Required | PAR |

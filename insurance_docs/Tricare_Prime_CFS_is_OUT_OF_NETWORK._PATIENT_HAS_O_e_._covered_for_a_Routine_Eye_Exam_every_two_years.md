@@ -15,7 +15,7 @@
 | Daniel Hadland, OD | Tricare Prime HMO-REFERRAL REQ | Referral Required | Non-PAR -OON Benefits |
 | David Mertzlufft, OD | Tricare Prime HMO-REFERRAL REQ | Referral Required | Non-PAR -OON Benefits |
 | David Shoemaker, MD | Tricare Prime HMO-REFERRAL REQ | Referral Required | Non-PAR -OON Benefits |
-| Elizabeth Davis, MD                      Start Date 05/30/25 | Tricare Prime HMO-REFERRAL REQ | Referral Required | Non-PAR |
+| Elizabeth Davis, MD | Tricare Prime HMO-REFERRAL REQ | Referral Required | Non-PAR -OON Benefits |
 | Erin Hardie, OD | Tricare Prime HMO-REFERRAL REQ | Referral Required | Non-PAR -OON Benefits |
 | George Hurwitz, OD | Tricare Prime HMO-REFERRAL REQ | Referral Required | Non-PAR -OON Benefits |
 | Hunter Vittone, OD | Tricare Prime HMO-REFERRAL REQ | Referral Required | Non-PAR -OON Benefits |

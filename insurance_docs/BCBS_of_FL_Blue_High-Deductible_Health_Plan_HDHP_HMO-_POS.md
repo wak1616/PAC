@@ -15,7 +15,7 @@
 | Daniel Hadland, OD | BCBS FL Commercial HMO-POS |  | PAR |
 | David Mertzlufft, OD | BCBS FL Commercial HMO-POS |  | PAR |
 | David Shoemaker, MD | BCBS FL Commercial HMO-POS |  | PAR |
-| Elizabeth Davis, MD                      Start Date 05/30/25 | BCBS FL Commercial HMO-POS |  | PAR |
+| Elizabeth Davis, MD | BCBS FL Commercial HMO-POS |  | PAR |
 | Erin Hardie, OD | BCBS FL Commercial HMO-POS |  | PAR |
 | George Hurwitz, OD | BCBS FL Commercial HMO-POS |  | PAR |
 | Hunter Vittone, OD | BCBS FL Commercial HMO-POS |  | PAR |

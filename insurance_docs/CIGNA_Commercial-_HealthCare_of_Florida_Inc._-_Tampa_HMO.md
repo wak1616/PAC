@@ -15,7 +15,7 @@
 | Daniel Hadland, OD | Cigna Commercial HMO | No Ref/No Auth Required | Non-PAR |
 | David Mertzlufft, OD | Cigna Commercial HMO | No Ref/No Auth Required | Non-PAR |
 | David Shoemaker, MD | Cigna Commercial HMO | No Ref/No Auth Required | Non-PAR |
-| Elizabeth Davis, MD                      Start Date 05/30/25 | Cigna Commercial HMO | No Ref/No Auth Required | Non-PAR |
+| Elizabeth Davis, MD | Cigna Commercial HMO | No Ref/No Auth Required | Non-PAR |
 | Erin Hardie, OD | Cigna Commercial HMO | No Ref/No Auth Required | Non-PAR |
 | George Hurwitz, OD | Cigna Commercial HMO | No Ref/No Auth Required | Non-PAR |
 | Hunter Vittone, OD | Cigna Commercial HMO | No Ref/No Auth Required | Non-PAR |

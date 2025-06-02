@@ -15,7 +15,7 @@
 | Daniel Hadland, OD | BCBS OOS MDCR HMO POS - REFERRAL REQ | Referral Required | PAR |
 | David Mertzlufft, OD | BCBS OOS MDCR HMO POS - REFERRAL REQ | Referral Required | PAR |
 | David Shoemaker, MD | BCBS OOS MDCR HMO POS - REFERRAL REQ | Referral Required | PAR |
-| Elizabeth Davis, MD                      Start Date 05/30/25 | BCBS OOS MDCR HMO POS - REFERRAL REQ | Referral Required | PAR |
+| Elizabeth Davis, MD | BCBS OOS MDCR HMO POS - REFERRAL REQ | Referral Required | PAR |
 | Erin Hardie, OD | BCBS OOS MDCR HMO POS - REFERRAL REQ | Referral Required | PAR |
 | George Hurwitz, OD | BCBS OOS MDCR HMO POS - REFERRAL REQ | Referral Required | PAR |
 | Hunter Vittone, OD | BCBS OOS MDCR HMO POS - REFERRAL REQ | Referral Required | PAR |

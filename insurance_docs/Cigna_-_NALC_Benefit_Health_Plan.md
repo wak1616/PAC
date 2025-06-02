@@ -15,7 +15,7 @@
 | Daniel Hadland, OD | NALC Health Benefit Plan- Cigna | No Ref/No Auth Required | PAR |
 | David Mertzlufft, OD | NALC Health Benefit Plan- Cigna | No Ref/No Auth Required | PAR |
 | David Shoemaker, MD | NALC Health Benefit Plan- Cigna | No Ref/No Auth Required | PAR |
-| Elizabeth Davis, MD                      Start Date 05/30/25 | NALC Health Benefit Plan- Cigna | No Ref/No Auth Required | Non-PAR |
+| Elizabeth Davis, MD | NALC Health Benefit Plan- Cigna | No Ref/No Auth Required | PAR |
 | Erin Hardie, OD | NALC Health Benefit Plan- Cigna | No Ref/No Auth Required | PAR |
 | George Hurwitz, OD | NALC Health Benefit Plan- Cigna | No Ref/No Auth Required | PAR |
 | Hunter Vittone, OD | NALC Health Benefit Plan- Cigna | No Ref/No Auth Required | PAR |

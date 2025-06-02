@@ -15,7 +15,7 @@
 | Daniel Hadland, OD | Allied National Open Access | No Ref/No Auth Required | PAR |
 | David Mertzlufft, OD | Allied National Open Access | No Ref/No Auth Required | PAR |
 | David Shoemaker, MD | Allied National Open Access | No Ref/No Auth Required | PAR |
-| Elizabeth Davis, MD                      Start Date 05/30/25 | Allied National Open Access | No Ref/No Auth Required | PAR |
+| Elizabeth Davis, MD | Allied National Open Access | No Ref/No Auth Required | PAR |
 | Erin Hardie, OD | Allied National Open Access | No Ref/No Auth Required | PAR |
 | George Hurwitz, OD | Allied National Open Access | No Ref/No Auth Required | PAR |
 | Hunter Vittone, OD | Allied National Open Access | No Ref/No Auth Required | PAR |

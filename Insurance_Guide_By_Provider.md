@@ -1,8 +1,8 @@
 # Insurance Guide By Provider
 
-*Last Updated: 05/15/2025 (based on data from Excel file: US Eye Insurance Guide_051525.xlsx)*
+*Last Updated: 06/02/2025 (based on data from Excel file: US Eye Insurance Guide.xlsx)*
 
-*This guide lists insurance participation by doctor. Click a doctor's name to view all insurance info for that doctor, grouped by location/CSV.*
+This guide lists insurance participation by doctor. Click a doctor's name to view all insurance info for that doctor, grouped by location/CSV.
 
 * [Albert Smolyar, MD (SW FL Eye)](insurance_docs/Albert_Smolyar_MD.md)
 * [Alexander Eaton, MD (Retina Health Center)](insurance_docs/Alexander_Eaton_MD.md)
@@ -17,7 +17,7 @@
 * [David Mertzlufft, OD (Center for Sight)](insurance_docs/David_Mertzlufft_OD.md)
 * [David Shoemaker, MD (Center for Sight)](insurance_docs/David_Shoemaker_MD.md)
 * [Diba Ossareh, OD (Lake Eye )](insurance_docs/Diba_Ossareh_OD.md)
-* [Elizabeth Davis, MD                      Start Date 05/30/25 (Center for Sight)](insurance_docs/Elizabeth_Davis_MD_Start_Date_05_30_25.md)
+* [Elizabeth Davis, MD (Center for Sight)](insurance_docs/Elizabeth_Davis_MD.md)
 * [Erin Hardie, OD (Center for Sight)](insurance_docs/Erin_Hardie_OD.md)
 * [George Brinnig-Jastrzebski, MD (Center for Sight-Naples)](insurance_docs/George_Brinnig-Jastrzebski_MD.md)
 * [George Hurwitz, OD (Center for Sight)](insurance_docs/George_Hurwitz_OD.md)

@@ -15,7 +15,7 @@
 | Daniel Hadland, OD | Anthem BCBS Medicare PPO | No Ref/No Auth Required | PAR |
 | David Mertzlufft, OD | Anthem BCBS Medicare PPO | No Ref/No Auth Required | PAR |
 | David Shoemaker, MD | Anthem BCBS Medicare PPO | No Ref/No Auth Required | PAR |
-| Elizabeth Davis, MD                      Start Date 05/30/25 | Anthem BCBS Medicare PPO | No Ref/No Auth Required | PAR |
+| Elizabeth Davis, MD | Anthem BCBS Medicare PPO | No Ref/No Auth Required | PAR |
 | Erin Hardie, OD | Anthem BCBS Medicare PPO | No Ref/No Auth Required | PAR |
 | George Hurwitz, OD | Anthem BCBS Medicare PPO | No Ref/No Auth Required | PAR |
 | Hunter Vittone, OD | Anthem BCBS Medicare PPO | No Ref/No Auth Required | PAR |

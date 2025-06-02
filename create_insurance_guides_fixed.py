@@ -61,30 +61,18 @@ def generate_status_legend():
 """
     return legend_content
 
-def find_latest_excel_file(directory):
+def find_excel_file(directory):
     """
-    Finds the Excel file in the given directory that matches the pattern
-    "US Eye Insurance Guide_MMDDYY.xlsx" and has the latest date.
+    Finds the Excel file in the given directory that matches the name
+    "US Eye Insurance Guide.xlsx".
     """
-    latest_file = None
-    latest_date = None
-    # Regex to match "US Eye Insurance Guide_MMDDYY.xlsx" and capture MMDDYY
-    pattern = re.compile(r"^US Eye Insurance Guide_(\d{6})\.xlsx$")
-
-    for filename in os.listdir(directory):
-        match = pattern.match(filename)
-        if match:
-            date_str = match.group(1)
-            try:
-                # Assuming dates are MMDDYY. %y handles 20th/21st century.
-                file_date = datetime.strptime(date_str, "%m%d%y")
-                if latest_date is None or file_date > latest_date:
-                    latest_date = file_date
-                    latest_file = os.path.join(directory, filename)
-            except ValueError:
-                logging.warning(f"Found file '{filename}' with a date part ('{date_str}') that could not be parsed. Skipping.")
-                continue
-    return latest_file, latest_date
+    filename = "US Eye Insurance Guide.xlsx"
+    file_path = os.path.join(directory, filename)
+    
+    if os.path.exists(file_path):
+        return file_path
+    else:
+        return None
 
 def detect_column_structure(df, sheet_name):
     """Detect column structure and identify doctor columns correctly"""
@@ -136,20 +124,24 @@ def main():
         script_dir = os.path.abspath(".")
         logging.warning(f"__file__ not defined, using current working directory for Excel file search: {script_dir}")
 
-    excel_file_path, excel_file_date_obj = find_latest_excel_file(script_dir)
+    excel_file_path = find_excel_file(script_dir)
 
     if not excel_file_path:
-        logging.error(f"No Excel file matching the pattern 'US Eye Insurance Guide_MMDDYY.xlsx' found in {script_dir}. Exiting.")
+        logging.error(f"No Excel file named 'US Eye Insurance Guide.xlsx' found in {script_dir}. Exiting.")
         return 
     else:
         logging.info(f"Using Excel file: {excel_file_path}")
     
+    # Get the modification date of the Excel file for the last updated text
     last_updated_text = ""
-    if excel_file_date_obj:
-        update_date_str = excel_file_date_obj.strftime("%m/%d/%Y")
+    try:
+        excel_mod_time = os.path.getmtime(excel_file_path)
+        excel_mod_date = datetime.fromtimestamp(excel_mod_time)
+        update_date_str = excel_mod_date.strftime("%m/%d/%Y")
         excel_filename_for_display = os.path.basename(excel_file_path)
         last_updated_text = f"*Last Updated: {update_date_str} (based on data from Excel file: {excel_filename_for_display})*\n"
-    else:
+    except Exception as e:
+        logging.warning(f"Could not get modification date for Excel file: {e}")
         last_updated_text = "*Last Updated: Date not available*\n"
     
     # Normalize sheet names to handle trailing/leading spaces

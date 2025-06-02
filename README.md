@@ -1000,9 +1000,7 @@ The **retina** is a delicate, light-sensitive tissue lining the interior of the 
 **Injections**
 
 * Injections must adhere to strict timeframes. If rescheduling or canceling, verify the last injection date.
-* If the timing is unclear or the request is more than 10 days out, send an **ICP** message to the relevant team for guidance:
-  * **CFS Clinic**
-  * **RHC Clinic**
+* If the timing is unclear or the request is more than 10 days out, send an **ICP** message to the provider team for guidance.
 
 **Will the Patient Be Dilated?**
 

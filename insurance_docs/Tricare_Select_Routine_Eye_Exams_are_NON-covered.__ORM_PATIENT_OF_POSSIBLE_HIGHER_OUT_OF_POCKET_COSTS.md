@@ -8,9 +8,9 @@
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
-| Alexandria Rawls, OD | Tricare Select | No Ref/No Auth Required | Non-PAR |
+| Alexandria Rawls, OD | Tricare Select | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Christine Bui, OD | Tricare Select | No Ref/No Auth Required | PAR |
-| Diba Ossareh, OD | Tricare Select | No Ref/No Auth Required | Non-PAR |
+| Diba Ossareh, OD | Tricare Select | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Jose Vazques-Diaz, MD | Tricare Select | No Ref/No Auth Required | PAR |
 | Mari Holderby, OD | Tricare Select | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Scot Holman, MD | Tricare Select | No Ref/No Auth Required | PAR |

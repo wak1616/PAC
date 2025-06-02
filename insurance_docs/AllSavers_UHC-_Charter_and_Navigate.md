@@ -15,7 +15,7 @@
 | Daniel Hadland, OD | All Savers Comm REFERRAL REQ - UHC | Referral Required | PAR |
 | David Mertzlufft, OD | All Savers Comm REFERRAL REQ - UHC | Referral Required | PAR |
 | David Shoemaker, MD | All Savers Comm REFERRAL REQ - UHC | Referral Required | PAR |
-| Elizabeth Davis, MD                      Start Date 05/30/25 | All Savers Comm REFERRAL REQ - UHC | Referral Required | Non-PAR |
+| Elizabeth Davis, MD | All Savers Comm REFERRAL REQ - UHC | Referral Required | Non-PAR |
 | Erin Hardie, OD | All Savers Comm REFERRAL REQ - UHC | Referral Required | PAR |
 | George Hurwitz, OD | All Savers Comm REFERRAL REQ - UHC | Referral Required | PAR |
 | Hunter Vittone, OD | All Savers Comm REFERRAL REQ - UHC | Referral Required | PAR |

@@ -15,7 +15,7 @@
 | Daniel Hadland, OD | Cigna International | Authorization Required | PAR |
 | David Mertzlufft, OD | Cigna International | Authorization Required | PAR |
 | David Shoemaker, MD | Cigna International | Authorization Required | PAR |
-| Elizabeth Davis, MD                      Start Date 05/30/25 | Cigna International | Authorization Required | Non-PAR |
+| Elizabeth Davis, MD | Cigna International | Authorization Required | PAR |
 | Erin Hardie, OD | Cigna International | Authorization Required | PAR |
 | George Hurwitz, OD | Cigna International | Authorization Required | PAR |
 | Hunter Vittone, OD | Cigna International | Authorization Required | PAR |
@@ -60,7 +60,7 @@
 |----------|-------------|--------------|--------|
 | Alexandria Rawls, OD | Cigna International | Authorization Required | PAR |
 | Christine Bui, OD | Cigna International | Authorization Required | PAR |
-| Diba Ossareh, OD | Cigna International | Authorization Required | Non-PAR |
+| Diba Ossareh, OD | Cigna International | Authorization Required | PAR |
 | Jose Vazques-Diaz, MD | Cigna International | Authorization Required | PAR |
 | Mari Holderby, OD | Cigna International | Authorization Required | PAR |
 | Scot Holman, MD | Cigna International | Authorization Required | PAR |

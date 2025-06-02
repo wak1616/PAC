@@ -15,7 +15,7 @@
 | Daniel Hadland, OD | Concorde Inc | Authorization Required- ROTC Fom is required for the Clinical Team | Non-PAR |
 | David Mertzlufft, OD | Concorde Inc | Authorization Required- ROTC Fom is required for the Clinical Team | Non-PAR |
 | David Shoemaker, MD | Concorde Inc | Authorization Required- ROTC Fom is required for the Clinical Team | Non-PAR |
-| Elizabeth Davis, MD                      Start Date 05/30/25 | Concorde Inc | Authorization Required- ROTC Fom is required for the Clinical Team | Non-PAR |
+| Elizabeth Davis, MD | Concorde Inc | Authorization Required- ROTC Fom is required for the Clinical Team | Non-PAR |
 | Erin Hardie, OD | Concorde Inc | Authorization Required- ROTC Fom is required for the Clinical Team | Non-PAR |
 | George Hurwitz, OD | Concorde Inc | Authorization Required- ROTC Fom is required for the Clinical Team | Non-PAR |
 | Hunter Vittone, OD | Concorde Inc | Authorization Required- ROTC Fom is required for the Clinical Team | Non-PAR |

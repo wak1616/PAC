@@ -15,7 +15,7 @@
 | Daniel Hadland, OD | PENDING | No Ref/No Auth Required | Non-PAR |
 | David Mertzlufft, OD | PENDING | No Ref/No Auth Required | Non-PAR |
 | David Shoemaker, MD | PENDING | No Ref/No Auth Required | Non-PAR |
-| Elizabeth Davis, MD                      Start Date 05/30/25 | PENDING | No Ref/No Auth Required | Non-PAR |
+| Elizabeth Davis, MD | PENDING | No Ref/No Auth Required | Non-PAR |
 | Erin Hardie, OD | PENDING | No Ref/No Auth Required | Non-PAR |
 | George Hurwitz, OD | PENDING | No Ref/No Auth Required | Non-PAR |
 | Hunter Vittone, OD | PENDING | No Ref/No Auth Required | Non-PAR |

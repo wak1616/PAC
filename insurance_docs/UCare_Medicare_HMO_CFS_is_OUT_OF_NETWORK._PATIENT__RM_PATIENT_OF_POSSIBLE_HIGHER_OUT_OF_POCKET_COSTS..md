@@ -15,7 +15,7 @@
 | Daniel Hadland, OD | UCare Medicare HMO | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | David Mertzlufft, OD | UCare Medicare HMO | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | David Shoemaker, MD | UCare Medicare HMO | No Ref/No Auth Required | Non-PAR -OON Benefits |
-| Elizabeth Davis, MD                      Start Date 05/30/25 | UCare Medicare HMO | No Ref/No Auth Required | Non-PAR |
+| Elizabeth Davis, MD | UCare Medicare HMO | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Erin Hardie, OD | UCare Medicare HMO | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | George Hurwitz, OD | UCare Medicare HMO | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Hunter Vittone, OD | UCare Medicare HMO | No Ref/No Auth Required | Non-PAR -OON Benefits |

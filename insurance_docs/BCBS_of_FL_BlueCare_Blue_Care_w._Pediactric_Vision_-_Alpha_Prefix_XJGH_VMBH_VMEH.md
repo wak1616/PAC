@@ -15,7 +15,7 @@
 | Daniel Hadland, OD | BCBS FL Commercial HMO | Authorization Required | PAR |
 | David Mertzlufft, OD | BCBS FL Commercial HMO | Authorization Required | PAR |
 | David Shoemaker, MD | BCBS FL Commercial HMO | Authorization Required | PAR |
-| Elizabeth Davis, MD                      Start Date 05/30/25 | BCBS FL Commercial HMO | Authorization Required | PAR |
+| Elizabeth Davis, MD | BCBS FL Commercial HMO | Authorization Required | PAR |
 | Erin Hardie, OD | BCBS FL Commercial HMO | Authorization Required | PAR |
 | George Hurwitz, OD | BCBS FL Commercial HMO | Authorization Required | PAR |
 | Hunter Vittone, OD | BCBS FL Commercial HMO | Authorization Required | PAR |

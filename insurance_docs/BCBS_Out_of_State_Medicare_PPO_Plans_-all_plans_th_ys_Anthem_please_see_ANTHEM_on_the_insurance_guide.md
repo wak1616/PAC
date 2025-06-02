@@ -15,7 +15,7 @@
 | Daniel Hadland, OD | BCBS Out of State Medicare PPO | No Ref/No Auth Required | PAR |
 | David Mertzlufft, OD | BCBS Out of State Medicare PPO | No Ref/No Auth Required | PAR |
 | David Shoemaker, MD | BCBS Out of State Medicare PPO | No Ref/No Auth Required | PAR |
-| Elizabeth Davis, MD                      Start Date 05/30/25 | BCBS Out of State Medicare PPO | No Ref/No Auth Required | PAR |
+| Elizabeth Davis, MD | BCBS Out of State Medicare PPO | No Ref/No Auth Required | PAR |
 | Erin Hardie, OD | BCBS Out of State Medicare PPO | No Ref/No Auth Required | PAR |
 | George Hurwitz, OD | BCBS Out of State Medicare PPO | No Ref/No Auth Required | PAR |
 | Hunter Vittone, OD | BCBS Out of State Medicare PPO | No Ref/No Auth Required | PAR |

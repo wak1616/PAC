@@ -15,7 +15,7 @@
 | Daniel Hadland, OD | WellCare Medicare PPO | Authorization MAY BE Required | Non-PAR -OON Benefits |
 | David Mertzlufft, OD | WellCare Medicare PPO | Authorization MAY BE Required | Non-PAR -OON Benefits |
 | David Shoemaker, MD | WellCare Medicare PPO | Authorization MAY BE Required | Non-PAR -OON Benefits |
-| Elizabeth Davis, MD                      Start Date 05/30/25 | WellCare Medicare PPO | Authorization MAY BE Required | Non-PAR -OON Benefits |
+| Elizabeth Davis, MD | WellCare Medicare PPO | Authorization MAY BE Required | Non-PAR -OON Benefits |
 | Erin Hardie, OD | WellCare Medicare PPO | Authorization MAY BE Required | Non-PAR -OON Benefits |
 | George Hurwitz, OD | WellCare Medicare PPO | Authorization MAY BE Required | Non-PAR -OON Benefits |
 | Hunter Vittone, OD | WellCare Medicare PPO | Authorization MAY BE Required | Non-PAR -OON Benefits |

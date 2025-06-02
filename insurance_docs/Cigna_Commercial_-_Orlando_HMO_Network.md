@@ -10,7 +10,7 @@
 |----------|-------------|--------------|--------|
 | Alexandria Rawls, OD | Cigna Commercial HMO | No Ref/No Auth Required | PAR |
 | Christine Bui, OD | Cigna Commercial HMO | No Ref/No Auth Required | PAR |
-| Diba Ossareh, OD | Cigna Commercial HMO | No Ref/No Auth Required | Non-PAR |
+| Diba Ossareh, OD | Cigna Commercial HMO | No Ref/No Auth Required | PAR |
 | Jose Vazques-Diaz, MD | Cigna Commercial HMO | No Ref/No Auth Required | PAR |
 | Mari Holderby, OD | Cigna Commercial HMO | No Ref/No Auth Required | PAR |
 | Scot Holman, MD | Cigna Commercial HMO | No Ref/No Auth Required | PAR |

@@ -15,7 +15,7 @@
 | Daniel Hadland, OD | Primary: Humana Dual Medicare PPO Primary                                                 Secondary: Humana Dual Medicaid Secondary | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | David Mertzlufft, OD | Primary: Humana Dual Medicare PPO Primary                                                 Secondary: Humana Dual Medicaid Secondary | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | David Shoemaker, MD | Primary: Humana Dual Medicare PPO Primary                                                 Secondary: Humana Dual Medicaid Secondary | No Ref/No Auth Required | Non-PAR -OON Benefits |
-| Elizabeth Davis, MD                      Start Date 05/30/25 | Primary: Humana Dual Medicare PPO Primary                                                 Secondary: Humana Dual Medicaid Secondary | No Ref/No Auth Required | Non-PAR -OON Benefits |
+| Elizabeth Davis, MD | Primary: Humana Dual Medicare PPO Primary                                                 Secondary: Humana Dual Medicaid Secondary | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Erin Hardie, OD | Primary: Humana Dual Medicare PPO Primary                                                 Secondary: Humana Dual Medicaid Secondary | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | George Hurwitz, OD | Primary: Humana Dual Medicare PPO Primary                                                 Secondary: Humana Dual Medicaid Secondary | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Hunter Vittone, OD | Primary: Humana Dual Medicare PPO Primary                                                 Secondary: Humana Dual Medicaid Secondary | No Ref/No Auth Required | Non-PAR -OON Benefits |

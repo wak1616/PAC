@@ -15,7 +15,7 @@
 | Daniel Hadland, OD | UHC MDCR Nursing Plan | No Ref/No Auth Required | PAR |
 | David Mertzlufft, OD | UHC MDCR Nursing Plan | No Ref/No Auth Required | PAR |
 | David Shoemaker, MD | UHC MDCR Nursing Plan | No Ref/No Auth Required | PAR |
-| Elizabeth Davis, MD                      Start Date 05/30/25 | UHC MDCR Nursing Plan | No Ref/No Auth Required | Non-PAR |
+| Elizabeth Davis, MD | UHC MDCR Nursing Plan | No Ref/No Auth Required | Non-PAR |
 | Erin Hardie, OD | UHC MDCR Nursing Plan | No Ref/No Auth Required | PAR |
 | George Hurwitz, OD | UHC MDCR Nursing Plan | No Ref/No Auth Required | PAR |
 | Hunter Vittone, OD | UHC MDCR Nursing Plan | No Ref/No Auth Required | PAR |

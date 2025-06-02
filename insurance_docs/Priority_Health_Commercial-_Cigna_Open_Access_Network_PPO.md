@@ -15,7 +15,7 @@
 | Daniel Hadland, OD | Priority Health Commercial PPO - Cigna | No Ref/No Auth Required | PAR |
 | David Mertzlufft, OD | Priority Health Commercial PPO - Cigna | No Ref/No Auth Required | PAR |
 | David Shoemaker, MD | Priority Health Commercial PPO - Cigna | No Ref/No Auth Required | PAR |
-| Elizabeth Davis, MD                      Start Date 05/30/25 | Priority Health Commercial PPO - Cigna | No Ref/No Auth Required | Non-PAR |
+| Elizabeth Davis, MD | Priority Health Commercial PPO - Cigna | No Ref/No Auth Required | PAR |
 | Erin Hardie, OD | Priority Health Commercial PPO - Cigna | No Ref/No Auth Required | PAR |
 | George Hurwitz, OD | Priority Health Commercial PPO - Cigna | No Ref/No Auth Required | PAR |
 | Hunter Vittone, OD | Priority Health Commercial PPO - Cigna | No Ref/No Auth Required | PAR |

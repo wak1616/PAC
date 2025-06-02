@@ -1,8 +1,8 @@
 # Insurance Guide By Insurance Plan
 
-*Last Updated: 05/15/2025 (based on data from Excel file: US Eye Insurance Guide_051525.xlsx)*
+*Last Updated: 06/02/2025 (based on data from Excel file: US Eye Insurance Guide.xlsx)*
 
-*This guide lists insurance participation by insurance plan. Click an insurance plan to view all providers who accept that insurance, grouped by location.*
+This guide lists insurance participation by insurance plan. Click an insurance plan to view all providers who accept that insurance, grouped by location.
 
 > **Note:** If you don't see an insurance plan listed below, please refer to the [Generic Insurance Protocol](https://useyecorp.sharepoint.com/RCM/Shared%20Documents/Forms/AllItems.aspx?id=%2FRCM%2FShared%20Documents%2FFinancial%20Clearance%2FFinancial%20Clearance%20Team%20Protocols%2FGeneric%20Insurance%20Protocol%20%2D%20PAC%2C%20Front%20Desk%2C%20and%20Customer%20Service%2Epdf&parent=%2FRCM%2FShared%20Documents%2FFinancial%20Clearance%2FFinancial%20Clearance%20Team%20Protocols&p=true&ga=1) for guidance.
 
@@ -63,6 +63,7 @@
 * [Aetna Medicare - Credit Plan (PPO)](insurance_docs/Aetna_Medicare_-_Credit_Plan_PPO.md)
 * [Aetna Medicare - Credit/Discover/Discover Value Plan (HMO)](insurance_docs/Aetna_Medicare_-_Credit_Discover_Discover_Value_Plan_HMO.md)
 * [Aetna Medicare - Credit/Discover/Discover Value Plan/Select (HMO)](insurance_docs/Aetna_Medicare_-_Credit_Discover_Discover_Value_Plan_Select_HMO.md)
+* [Aetna Medicare - Credit/Discover/Discover Value Plan/Silver (HMO)](insurance_docs/Aetna_Medicare_-_Credit_Discover_Discover_Value_Plan_Silver_HMO.md)
 * [Aetna Medicare - Eagle/Premier Preferred/Premium/Select/Select Plus/Signature/Smartfit Elite Plan HMO](insurance_docs/Aetna_Medicare_-_Eagle_Premier_Preferred_Premium_S_lect_Select_Plus_Signature_Smartfit_Elite_Plan_HMO.md)
 * [Aetna Medicare - Eagle/Smartfit Elite Plan (HMO POS)/Signature/Silver/Sunrise Plan (HMO-POS)](insurance_docs/Aetna_Medicare_-_Eagle_Smartfit_Elite_Plan_HMO_POS_Signature_Silver_Sunrise_Plan_HMO-POS.md)
 * [Aetna Medicare - Essential/ Essential Elite/ Essentials PPO](insurance_docs/Aetna_Medicare_-_Essential_Essential_Elite_Essentials_PPO.md)
@@ -202,6 +203,7 @@
 * [BCBS BlueOptions/Blue Options Hospial Surgical Plus/Blue Options with Pediactric Vision](insurance_docs/BCBS_BlueOptions_Blue_Options_Hospial_Surgical_Plus_Blue_Options_with_Pediactric_Vision.md)
 * [BCBS BlueSelect/BlueSelect Hospital Surgical Plus/BlueSelect w. Pediatric Vision](insurance_docs/BCBS_BlueSelect_BlueSelect_Hospital_Surgical_Plus_BlueSelect_w._Pediatric_Vision.md)
 * [BCBS FL - ALL DUAL PLANS](insurance_docs/BCBS_FL_-_ALL_DUAL_PLANS.md)
+* [BCBS FL HMO Plans - ALL PLANS Commercial and Medicare HMO PLANS](insurance_docs/BCBS_FL_HMO_Plans_-_ALL_PLANS_Commercial_and_Medicare_HMO_PLANS.md)
 * [BCBS Out of State California ONLY](insurance_docs/BCBS_Out_of_State_California_ONLY.md)
 * [BCBS Out of State California ONLY -](insurance_docs/BCBS_Out_of_State_California_ONLY_-.md)
 * [BCBS Out of State Commercial PPO Plans -all plans that are not BCBS of Florida; please ask the patient to check the front and back copy of the card for the state. If the card says "Anthem", please see ANTHEM on the insurance guide](insurance_docs/BCBS_Out_of_State_Commercial_PPO_Plans_-all_plans__ys_Anthem_please_see_ANTHEM_on_the_insurance_guide.md)
@@ -230,7 +232,8 @@
 * [BCBS of FL BlueOptions/Blue Options Hospial Surgical Plus/Blue Options with Pediactric Vision](insurance_docs/BCBS_of_FL_BlueOptions_Blue_Options_Hospial_Surgical_Plus_Blue_Options_with_Pediactric_Vision.md)
 * [BCBS of FL BlueOptions/Blue Options Hospital Surgical Plus/Blue Options with Pediactric Vision/Commercial PPO](insurance_docs/BCBS_of_FL_BlueOptions_Blue_Options_Hospital_Surgi_Blue_Options_with_Pediactric_Vision_Commercial_PPO.md)
 * [BCBS of FL BlueSelect Commercial PPO - Alpha Prefix VMAH](insurance_docs/BCBS_of_FL_BlueSelect_Commercial_PPO_-_Alpha_Prefix_VMAH.md)
-* [BCBS of FL BlueSelect/BlueSelect Hospital Surgical Plus](insurance_docs/BCBS_of_FL_BlueSelect_BlueSelect_Hospital_Surgical_Plus.md)
+* [BCBS of FL BlueSelect Pediatric Vision](insurance_docs/BCBS_of_FL_BlueSelect_Pediatric_Vision.md)
+* [BCBS of FL BlueSelect/BlueSelect Hospital Surgical Plus - Alpha Prefix VMAH](insurance_docs/BCBS_of_FL_BlueSelect_BlueSelect_Hospital_Surgical_Plus_-_Alpha_Prefix_VMAH.md)
 * [BCBS of FL BlueSelect/BlueSelect Hospital Surgical Plus/BlueSelect w. Pediatric Vision](insurance_docs/BCBS_of_FL_BlueSelect_BlueSelect_Hospital_Surgical_Plus_BlueSelect_w._Pediatric_Vision.md)
 * [BCBS of FL BlueSelect/BlueSelect Hospital Surgical Plus/BlueSelect w. Pediatric Vision - Alpha Prefix VMAH](insurance_docs/BCBS_of_FL_BlueSelect_BlueSelect_Hospital_Surgical_BlueSelect_w._Pediatric_Vision_-_Alpha_Prefix_VMAH.md)
 * [BCBS of FL Federal Employee Program - alpha prefix R](insurance_docs/BCBS_of_FL_Federal_Employee_Program_-_alpha_prefix_R.md)
@@ -240,7 +243,7 @@
 * [BCBS of FL myBlue Connected Care/myBlue w. Pediactric Vision - Alpha Prefix VMYH](insurance_docs/BCBS_of_FL_myBlue_Connected_Care_myBlue_w._Pediactric_Vision_-_Alpha_Prefix_VMYH.md)
 * [BCBS- FEP Blue Vision](insurance_docs/BCBS-_FEP_Blue_Vision.md)
 * [Best Care Alliance (Former Innovatus Health)](insurance_docs/Best_Care_Alliance_Former_Innovatus_Health.md)
-* [BlueSelect Pediatric Vision](insurance_docs/BlueSelect_Pediatric_Vision.md)
+* [CHCBP Claims - Tricare East - CFS is OUT OF NETWORK. PATIENT HAS OON BENEFITS. PLEASE INFORM PATIENT OF POSSIBLE HIGHER OUT OF POCKET COSTS. Routine Eye Exams are NON-covered](insurance_docs/CHCBP_Claims_-_Tricare_East_-_CFS_is_OUT_OF_NETWOR_OF_POCKET_COSTS._Routine_Eye_Exams_are_NON-covered.md)
 * [CIGNA Commercial - HealthCare of Florida, Inc. - Fort Myers HMO](insurance_docs/CIGNA_Commercial_-_HealthCare_of_Florida_Inc._-_Fort_Myers_HMO.md)
 * [CIGNA Commercial - HealthCare of Florida, Inc. - Tampa HMO](insurance_docs/CIGNA_Commercial_-_HealthCare_of_Florida_Inc._-_Tampa_HMO.md)
 * [CIGNA Commercial- HealthCare Seamless Network - Florida](insurance_docs/CIGNA_Commercial-_HealthCare_Seamless_Network_-_Florida.md)
@@ -315,6 +318,7 @@
 * [Cigna Oscar- Open Access Plus/Local Plus](insurance_docs/Cigna_Oscar-_Open_Access_Plus_Local_Plus.md)
 * [Cigna PPO](insurance_docs/Cigna_PPO.md)
 * [Cigna TotalCare Plus HMO D-SNP](insurance_docs/Cigna_TotalCare_Plus_HMO_D-SNP.md)
+* [Dean Health Plan PPO - First Health](insurance_docs/Dean_Health_Plan_PPO_-_First_Health.md)
 * [Division of Blind](insurance_docs/Division_of_Blind.md)
 * [Employee Benefits Management Services (EMBS) with Aetna Network](insurance_docs/Employee_Benefits_Management_Services_EMBS_with_Aetna_Network.md)
 * [Evolution PPO](insurance_docs/Evolution_PPO.md)
@@ -381,6 +385,7 @@
 * [Surest (United Healthcare Choice Plus Network)](insurance_docs/Surest_United_Healthcare_Choice_Plus_Network.md)
 * [The Empire Plan- NYSHIP](insurance_docs/The_Empire_Plan-_NYSHIP.md)
 * [The Empire Plan-NYSHIP](insurance_docs/The_Empire_Plan-NYSHIP.md)
+* [The Health Plan PPO - PHCS](insurance_docs/The_Health_Plan_PPO_-_PHCS.md)
 * [Tricare Prime](insurance_docs/Tricare_Prime.md)
 * [Tricare Prime CFS is OUT OF NETWORK. PATIENT HAS OON BENEFITS. PLEASE INFORM PATIENT OF POSSIBLE HIGHER OUT OF POCKET COSTS (see note). covered for a Routine Eye Exam every two years](insurance_docs/Tricare_Prime_CFS_is_OUT_OF_NETWORK._PATIENT_HAS_O_e_._covered_for_a_Routine_Eye_Exam_every_two_years.md)
 * [Tricare Prime Covered for a Routine Eye Exam every two years. FOR THE PROVIDERS THAT ARE OUT-OF-NETWORK, SEE NOTE. PLEASE PROCEED WITH SCHEDULING](insurance_docs/Tricare_Prime_Covered_for_a_Routine_Eye_Exam_every_F-NETWORK_SEE_NOTE._PLEASE_PROCEED_WITH_SCHEDULING.md)

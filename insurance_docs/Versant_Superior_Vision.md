@@ -15,7 +15,7 @@
 | Daniel Hadland, OD | Superior Vision | Authorization Required | PAR |
 | David Mertzlufft, OD | Superior Vision | Authorization Required | PAR |
 | David Shoemaker, MD | Superior Vision | Authorization Required | Non-PAR |
-| Elizabeth Davis, MD                      Start Date 05/30/25 | Superior Vision | Authorization Required | Non-PAR |
+| Elizabeth Davis, MD | Superior Vision | Authorization Required | Non-PAR |
 | Erin Hardie, OD | Superior Vision | Authorization Required | PAR |
 | George Hurwitz, OD | Superior Vision | Authorization Required | Non-PAR |
 | Hunter Vittone, OD | Superior Vision | Authorization Required | PAR |

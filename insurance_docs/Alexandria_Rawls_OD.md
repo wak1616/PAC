@@ -115,7 +115,7 @@
 | Cigna Medicare - Courage/Preferred/Preferred Group Plans/Preferred Savings(HMO) | Cigna Medicare HMO REFERRAL REQ | Referral Required | PAR |
 | Cigna Medicare - TotalCare (HMO D-SNP) | Primary: Cigna Dual MDCR HMO Primary-REFERRAL REQ                                                Secondary: Cigna Dual Medicaid HMO Secondary | Referral Required | PAR |
 | Cigna Medicare - TotalCare Plus (HMO D-SNP) | Primary: Cigna Dual MDCR HMO Primary-REFERRAL REQ                                                Secondary: Cigna Dual Medicaid HMO Secondary | Referral Required | PAR |
-| Cigna Medicare PPO - ALL PLANS - AS OF 01/01/25- PLAN IS NO LONGER OFFERED IN FL MARKETS | Self Pay Non-Par with Ins |  | PAR |
+| Cigna Medicare PPO - ALL PLANS - AS OF 01/01/25- PLAN IS NO LONGER OFFERED IN FL MARKETS | Self Pay Non-Par with Ins |  | Non-PAR |
 | Eyemed Vision | Eyemed Vision | No Ref/No Auth Required | PAR |
 | FEP Blue Vision | Self Pay Non-Par with Ins |  | Non-PAR |
 | First Health Network (through Aetna and/or PHP Network) PLEASE ASK THE PATIENT FOR THE HEALTH PLAN NAME ON THE CARD AND LOAD THE PLAN INTO NEXTGEN ACCORDING TO THEIR HEALTH PLAN | PLEASE ASK THE PATIENT FOR THE HEALTH PLAN NAME ON THE CARD. IF THE PAYER IS NOT LOADED INTO THE SYSTEM, USE: INS NOT IN NEXTGEN. SEE: Generic Insurance Protocol - PAC, Front Desk, and Customer Service.pdf |  | PAR |
@@ -135,7 +135,7 @@
 | Medicare | Medicare Part B | No Ref/No Auth Required | PAR |
 | Meritain Gulf Coast (Aetna Choice POS II Network) | Meritain Health Commercial - Aetna | No Ref/No Auth Required | Non-PAR |
 | Meritain Health - Sarasota Memorial (BASIC AND/OR COMPREHENSIVE PLAN) PLEASE ASK THE PATIENT IF THE CARD HAS "SMH" ON THEIR CARD. IF THE CARD SAYS BASIC OR COMPREHENSIVE PLAN, WE ARE OUT OF NETWORK AND THERE ARE NO OON BENEFITS | Self Pay Non-Par with Ins |  | Non-PAR |
-| Meritain Health - Sarasota Memorial (EXTENSIVE MEDICAL PLAN) PLEASE ASK THE PATIENT IF THE CARD HAS "SMH" ON THEIR CARD AND THE CARD MUST SAY EXTENDED MEDICAL PLAN. THE EXTENDED MEDICAL PLAN APPLIES TOWARDS THE PATIENT'S TIER 2 BENEFITS - AETNA CHOICE POS II | Meritain Health SMH Extd  Pln | Authorization MAY be Required | PAR |
+| Meritain Health - Sarasota Memorial (EXTENSIVE MEDICAL PLAN) PLEASE ASK THE PATIENT IF THE CARD HAS "SMH" ON THEIR CARD AND THE CARD MUST SAY EXTENDED MEDICAL PLAN. THE EXTENDED MEDICAL PLAN APPLIES TOWARDS THE PATIENT'S TIER 2 BENEFITS - AETNA CHOICE POS II | Meritain Health SMH Extd  Pln | Authorization MAY be Required | Non-PAR |
 | Multiplan PLEASE ASK THE PATIENT FOR THE HEALTH PLAN NAME ON THE CARD AND LOAD THE PLAN INTO NEXTGEN ACCORDING TO THEIR HEALTH PLAN | PLEASE ASK THE PATIENT FOR THE HEALTH PLAN NAME ON THE CARD. IF THE PAYER IS NOT LOADED INTO THE SYSTEM, USE: INS NOT IN NEXTGEN. SEE: Generic Insurance Protocol - PAC, Front Desk, and Customer Service.pdf |  | PAR |
 | NALC Health Benefit Plan (Cigna Open Access Plus Network) | NALC Health Benefit Plan- Cigna | No Ref/No Auth Required | PAR |
 | Optum VA-VETERANS AFFAIRS Community Care Network (CCN) | Optum VA Community Care | Authorization Required | Non-PAR |
@@ -145,7 +145,7 @@
 | Surest (United Healthcare Choice Plus Network) | Surest Commercial - UHC | No Ref/No Auth Required | PAR |
 | The Empire Plan-NYSHIP | UHC Empire PPO | No Ref/No Auth Required | Non-PAR |
 | Tricare Prime LEA is OUT OF NETWORK. PATIENT HAS OON BENEFITS. PLEASE INFORM PATIENT OF POSSIBLE HIGHER OUT OF POCKET COSTS (see note). covered for a Routine Eye Exam every two years | Tricare Prime HMO-REFERRAL REQ | Referral Required | Non-PAR -OON Benefits |
-| Tricare Select Routine Eye Exams are NON-covered. FOR THE PROVIDERS THAT ARE NON-PAR PATIENT HAS OON BENEFITS. PLEASE INFORM PATIENT OF POSSIBLE HIGHER OUT OF POCKET COSTS | Tricare Select | No Ref/No Auth Required | Non-PAR |
+| Tricare Select Routine Eye Exams are NON-covered. FOR THE PROVIDERS THAT ARE NON-PAR PATIENT HAS OON BENEFITS. PLEASE INFORM PATIENT OF POSSIBLE HIGHER OUT OF POCKET COSTS | Tricare Select | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | UHP Management (PHCS Network) | UHP Management PPO | No Ref/No Auth Required | Non-PAR |
 | UMR (United Healthcare Core Network) | UMR Commercial - UHC | No Ref/No Auth Required | PAR |
 | United Healthcare Care Advantage FL-E001 (PPO I-SNP) | UHC Medicare PPO | No Ref/No Auth Required | PAR |

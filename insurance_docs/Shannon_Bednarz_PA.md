@@ -21,7 +21,7 @@
 | Aetna Innovation - Innovation Health Aetna Select/National Advantage Program (NAP)/Innovataion Health Aetna POS/PPO | Aetna Commercial PPO | No Ref/No Auth Required | PAR |
 | Aetna Medicare - Advantra - Eagle, Elite, Gold (HMO-POS) | Aetna Medicare HMO POS | No Ref/No Auth Required | PAR |
 | Aetna Medicare - Credit Plan (PPO) | Aetna Medicare PPO | No Ref/No Auth Required | PAR |
-| Aetna Medicare - Credit/Discover/Discover Value Plan (HMO) | Aetna Medicare HMO REFERRAL REQ | Referral Required | PAR |
+| Aetna Medicare - Credit/Discover/Discover Value Plan/Silver (HMO) | Aetna Medicare HMO REFERRAL REQ | Referral Required | PAR |
 | Aetna Medicare - Select (HMO) | Aetna Medicare HMO REFERRAL REQ | Referral Required | Non-PAR |
 | Aetna Medicare - Essential/ Essential Elite/ Essentials PPO | Aetna Medicare PPO | No Ref/No Auth Required | PAR |
 | Aetna Medicare - Preferred/ Preferred Premium PPO | Aetna Medicare PPO | No Ref/No Auth Required | PAR |
@@ -105,6 +105,7 @@
 | Carefirst Commercial - CareFirst Regional | Carefirst BCBS Commercial HMO | No Ref/No Auth Required | PAR |
 | Carefirst Commercial - CareFirst Regional-BlueChoice Plus Gold/ BlueChoice HMO Standard/BlueChoice HMO HSA/HRA Gold BlueChoice HMO Gold Virtual Connect | Carefirst BCBS Commercial HMO | No Ref/No Auth Required | PAR |
 | ChampVA (VACCN) | Champva | No Ref/No Auth Required | PAR |
+| CHCBP Claims - Tricare East - CFS is OUT OF NETWORK. PATIENT HAS OON BENEFITS. PLEASE INFORM PATIENT OF POSSIBLE HIGHER OUT OF POCKET COSTS. Routine Eye Exams are NON-covered | CHCBP Claims | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Cigna - NALC Benefit Health Plan | NALC Health Benefit Plan- Cigna | No Ref/No Auth Required | PAR |
 | Cigna Commercial- ChoiceFund OA Plus/ Cigna ChoiceFund OA Plus with CareLink | Cigna Commercial PPO | No Ref/No Auth Required | PAR |
 | Cigna Commercial- Florida Connect EPO | Self Pay Non-Par with Ins |  | Non-PAR |
@@ -119,6 +120,7 @@
 | Cigna Medicare- TotalCare/Total Care Plus HMO D-SNP | Primary: Cigna Dual MDCR HMO Primary-REFERRAL REQ                                                      Secondary: Cigna Dual Medicaid HMO Secondary | Referral Required | Non-PAR |
 | Cigna Oscar- Open Access Plus/Local Plus | Self Pay Non-Par with Ins |  | Non-PAR |
 | Cigna TotalCare Plus HMO D-SNP | Primary: Cigna Dual MDCR HMO Primary-REFERRAL REQ                                                      Secondary: Cigna Dual Medicaid HMO Secondary | Referral Required | Non-PAR |
+| Dean Health Plan PPO - First Health | Dean Health Plan PPO | No Ref/No Auth Required | PAR |
 | Division of Blind | Division of Blind | Authorization Required | PAR |
 | Employee Benefits Management Services (EMBS) with Aetna Network | EBMS Commercial PPO - Aetna | No Ref/No Auth Required | PAR |
 | Evolution PPO | Evolutions PPO | No Ref/No Auth Required | PAR |

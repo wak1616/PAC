@@ -15,7 +15,7 @@
 | Daniel Hadland, OD | Tricare Select | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | David Mertzlufft, OD | Tricare Select | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | David Shoemaker, MD | Tricare Select | No Ref/No Auth Required | Non-PAR -OON Benefits |
-| Elizabeth Davis, MD                      Start Date 05/30/25 | Tricare Select | No Ref/No Auth Required | Non-PAR |
+| Elizabeth Davis, MD | Tricare Select | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Erin Hardie, OD | Tricare Select | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | George Hurwitz, OD | Tricare Select | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Hunter Vittone, OD | Tricare Select | No Ref/No Auth Required | Non-PAR -OON Benefits |

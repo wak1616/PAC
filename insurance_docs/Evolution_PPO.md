@@ -15,7 +15,7 @@
 | Daniel Hadland, OD | Evolutions PPO | No Ref/No Auth Required | PAR |
 | David Mertzlufft, OD | Evolutions PPO | No Ref/No Auth Required | PAR |
 | David Shoemaker, MD | Evolutions PPO | No Ref/No Auth Required | PAR |
-| Elizabeth Davis, MD                      Start Date 05/30/25 | Evolutions PPO | No Ref/No Auth Required | Non-PAR |
+| Elizabeth Davis, MD | Evolutions PPO | No Ref/No Auth Required | Non-PAR |
 | Erin Hardie, OD | Evolutions PPO | No Ref/No Auth Required | PAR |
 | George Hurwitz, OD | Evolutions PPO | No Ref/No Auth Required | PAR |
 | Hunter Vittone, OD | Evolutions PPO | No Ref/No Auth Required | PAR |

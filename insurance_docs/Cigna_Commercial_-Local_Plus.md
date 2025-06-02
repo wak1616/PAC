@@ -15,7 +15,7 @@
 | Daniel Hadland, OD | Cigna Commercial PPO | No Ref/No Auth Required | Non-PAR |
 | David Mertzlufft, OD | Cigna Commercial PPO | No Ref/No Auth Required | Non-PAR |
 | David Shoemaker, MD | Cigna Commercial PPO | No Ref/No Auth Required | Non-PAR |
-| Elizabeth Davis, MD                      Start Date 05/30/25 | Cigna Commercial PPO | No Ref/No Auth Required | Non-PAR |
+| Elizabeth Davis, MD | Cigna Commercial PPO | No Ref/No Auth Required | Non-PAR |
 | Erin Hardie, OD | Cigna Commercial PPO | No Ref/No Auth Required | Non-PAR |
 | George Hurwitz, OD | Cigna Commercial PPO | No Ref/No Auth Required | Non-PAR |
 | Hunter Vittone, OD | Cigna Commercial PPO | No Ref/No Auth Required | Non-PAR |

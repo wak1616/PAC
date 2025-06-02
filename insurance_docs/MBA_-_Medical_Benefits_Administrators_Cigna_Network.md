@@ -15,7 +15,7 @@
 | Daniel Hadland, OD | MBA TPA Commercial - Cigna | No Ref/No Auth Required | PAR |
 | David Mertzlufft, OD | MBA TPA Commercial - Cigna | No Ref/No Auth Required | PAR |
 | David Shoemaker, MD | MBA TPA Commercial - Cigna | No Ref/No Auth Required | PAR |
-| Elizabeth Davis, MD                      Start Date 05/30/25 | MBA TPA Commercial - Cigna | No Ref/No Auth Required | Non-PAR |
+| Elizabeth Davis, MD | MBA TPA Commercial - Cigna | No Ref/No Auth Required | Non-PAR |
 | Erin Hardie, OD | MBA TPA Commercial - Cigna | No Ref/No Auth Required | PAR |
 | George Hurwitz, OD | MBA TPA Commercial - Cigna | No Ref/No Auth Required | PAR |
 | Hunter Vittone, OD | MBA TPA Commercial - Cigna | No Ref/No Auth Required | PAR |

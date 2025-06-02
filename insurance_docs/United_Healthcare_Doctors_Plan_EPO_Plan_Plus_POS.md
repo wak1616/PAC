@@ -15,7 +15,7 @@
 | Daniel Hadland, OD | UHC Commercial PPO | No Ref/No Auth Required | PAR |
 | David Mertzlufft, OD | UHC Commercial PPO | No Ref/No Auth Required | PAR |
 | David Shoemaker, MD | UHC Commercial PPO | No Ref/No Auth Required | PAR |
-| Elizabeth Davis, MD                      Start Date 05/30/25 | UHC Commercial PPO | No Ref/No Auth Required | Non-PAR |
+| Elizabeth Davis, MD | UHC Commercial PPO | No Ref/No Auth Required | Non-PAR |
 | Erin Hardie, OD | UHC Commercial PPO | No Ref/No Auth Required | PAR |
 | George Hurwitz, OD | UHC Commercial PPO | No Ref/No Auth Required | PAR |
 | Hunter Vittone, OD | UHC Commercial PPO | No Ref/No Auth Required | PAR |

@@ -15,7 +15,7 @@
 | Daniel Hadland, OD | Cigna Medicare PPO |  | PAR |
 | David Mertzlufft, OD | Cigna Medicare PPO |  | PAR |
 | David Shoemaker, MD | Cigna Medicare PPO |  | PAR |
-| Elizabeth Davis, MD                      Start Date 05/30/25 | Cigna Medicare PPO |  | Non-PAR |
+| Elizabeth Davis, MD | Cigna Medicare PPO |  | Non-PAR |
 | Erin Hardie, OD | Cigna Medicare PPO |  | PAR |
 | George Hurwitz, OD | Cigna Medicare PPO |  | PAR |
 | Hunter Vittone, OD | Cigna Medicare PPO |  | PAR |

@@ -15,7 +15,7 @@
 | Daniel Hadland, OD | Aetna Commercial HMO REFERRAL REQ | Referral Required | PAR |
 | David Mertzlufft, OD | Aetna Commercial HMO REFERRAL REQ | Referral Required | PAR |
 | David Shoemaker, MD | Aetna Commercial HMO REFERRAL REQ | Referral Required | PAR |
-| Elizabeth Davis, MD                      Start Date 05/30/25 | Aetna Commercial HMO REFERRAL REQ | Referral Required | Non-PAR |
+| Elizabeth Davis, MD | Aetna Commercial HMO REFERRAL REQ | Referral Required | PAR |
 | Erin Hardie, OD | Aetna Commercial HMO REFERRAL REQ | Referral Required | PAR |
 | George Hurwitz, OD | Aetna Commercial HMO REFERRAL REQ | Referral Required | PAR |
 | Hunter Vittone, OD | Aetna Commercial HMO REFERRAL REQ | Referral Required | PAR |

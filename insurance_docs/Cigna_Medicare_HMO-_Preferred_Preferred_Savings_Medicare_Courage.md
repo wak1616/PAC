@@ -15,7 +15,7 @@
 | Daniel Hadland, OD | Cigna Medicare HMO REFERRAL REQUIRED | Referral Required | PAR |
 | David Mertzlufft, OD | Cigna Medicare HMO REFERRAL REQUIRED | Referral Required | PAR |
 | David Shoemaker, MD | Cigna Medicare HMO REFERRAL REQUIRED | Referral Required | PAR |
-| Elizabeth Davis, MD                      Start Date 05/30/25 | Cigna Medicare HMO REFERRAL REQUIRED | Referral Required | Non-PAR |
+| Elizabeth Davis, MD | Cigna Medicare HMO REFERRAL REQUIRED | Referral Required | Non-PAR |
 | Erin Hardie, OD | Cigna Medicare HMO REFERRAL REQUIRED | Referral Required | PAR |
 | George Hurwitz, OD | Cigna Medicare HMO REFERRAL REQUIRED | Referral Required | PAR |
 | Hunter Vittone, OD | Cigna Medicare HMO REFERRAL REQUIRED | Referral Required | PAR |

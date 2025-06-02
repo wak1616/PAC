@@ -15,7 +15,7 @@
 | Daniel Hadland, OD | Avesis Vision | Authorization Required | Non-PAR |
 | David Mertzlufft, OD | Avesis Vision | Authorization Required | Non-PAR |
 | David Shoemaker, MD | Avesis Vision | Authorization Required | Non-PAR |
-| Elizabeth Davis, MD                      Start Date 05/30/25 | Avesis Vision | Authorization Required | Non-PAR |
+| Elizabeth Davis, MD | Avesis Vision | Authorization Required | Non-PAR |
 | Erin Hardie, OD | Avesis Vision | Authorization Required | Non-PAR |
 | George Hurwitz, OD | Avesis Vision | Authorization Required | Non-PAR |
 | Hunter Vittone, OD | Avesis Vision | Authorization Required | PAR |

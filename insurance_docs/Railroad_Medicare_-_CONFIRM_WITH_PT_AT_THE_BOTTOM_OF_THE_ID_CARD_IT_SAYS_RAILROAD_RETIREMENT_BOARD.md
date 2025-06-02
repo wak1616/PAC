@@ -15,7 +15,7 @@
 | Daniel Hadland, OD | Railroad Medicare | No Ref/No Auth Required | PAR |
 | David Mertzlufft, OD | Railroad Medicare | No Ref/No Auth Required | PAR |
 | David Shoemaker, MD | Railroad Medicare | No Ref/No Auth Required | PAR |
-| Elizabeth Davis, MD                      Start Date 05/30/25 | Railroad Medicare | No Ref/No Auth Required | PAR |
+| Elizabeth Davis, MD | Railroad Medicare | No Ref/No Auth Required | PAR |
 | Erin Hardie, OD | Railroad Medicare | No Ref/No Auth Required | PAR |
 | George Hurwitz, OD | Railroad Medicare | No Ref/No Auth Required | PAR |
 | Hunter Vittone, OD | Railroad Medicare | No Ref/No Auth Required | PAR |

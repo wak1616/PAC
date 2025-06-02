@@ -15,9 +15,9 @@
 | Daniel Hadland, OD | Eyemed Vision | No Ref/No Auth Required | PAR |
 | David Mertzlufft, OD | Eyemed Vision | No Ref/No Auth Required | PAR |
 | David Shoemaker, MD | Eyemed Vision | No Ref/No Auth Required | Non-PAR |
-| Elizabeth Davis, MD                      Start Date 05/30/25 | Eyemed Vision | No Ref/No Auth Required | Non-PAR |
+| Elizabeth Davis, MD | Eyemed Vision | No Ref/No Auth Required | Non-PAR |
 | Erin Hardie, OD | Eyemed Vision | No Ref/No Auth Required | PAR |
-| George Hurwitz, OD | Eyemed Vision | No Ref/No Auth Required | Non-PAR |
+| George Hurwitz, OD | Eyemed Vision | No Ref/No Auth Required | PAR |
 | Hunter Vittone, OD | Eyemed Vision | No Ref/No Auth Required | PAR |
 | James Lenhart, OD | Eyemed Vision | No Ref/No Auth Required | PAR |
 | Joaquin De Rojas, MD | Eyemed Vision | No Ref/No Auth Required | PAR |

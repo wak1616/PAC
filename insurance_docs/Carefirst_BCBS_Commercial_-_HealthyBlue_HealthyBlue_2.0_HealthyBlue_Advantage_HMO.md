@@ -15,7 +15,7 @@
 | Daniel Hadland, OD | Carefirst BCBS Commercial HMO | No Ref/No Auth Required | PAR |
 | David Mertzlufft, OD | Carefirst BCBS Commercial HMO | No Ref/No Auth Required | PAR |
 | David Shoemaker, MD | Carefirst BCBS Commercial HMO | No Ref/No Auth Required | PAR |
-| Elizabeth Davis, MD                      Start Date 05/30/25 | Carefirst BCBS Commercial HMO | No Ref/No Auth Required | PAR |
+| Elizabeth Davis, MD | Carefirst BCBS Commercial HMO | No Ref/No Auth Required | PAR |
 | Erin Hardie, OD | Carefirst BCBS Commercial HMO | No Ref/No Auth Required | PAR |
 | George Hurwitz, OD | Carefirst BCBS Commercial HMO | No Ref/No Auth Required | PAR |
 | Hunter Vittone, OD | Carefirst BCBS Commercial HMO | No Ref/No Auth Required | PAR |

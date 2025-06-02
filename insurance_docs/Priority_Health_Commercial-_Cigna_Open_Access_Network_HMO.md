@@ -15,7 +15,7 @@
 | Daniel Hadland, OD | Priority Health Comm HMO REFERRAL -Cigna | Referral Required | PAR |
 | David Mertzlufft, OD | Priority Health Comm HMO REFERRAL -Cigna | Referral Required | PAR |
 | David Shoemaker, MD | Priority Health Comm HMO REFERRAL -Cigna | Referral Required | PAR |
-| Elizabeth Davis, MD                      Start Date 05/30/25 | Priority Health Comm HMO REFERRAL -Cigna | Referral Required | Non-PAR |
+| Elizabeth Davis, MD | Priority Health Comm HMO REFERRAL -Cigna | Referral Required | PAR |
 | Erin Hardie, OD | Priority Health Comm HMO REFERRAL -Cigna | Referral Required | PAR |
 | George Hurwitz, OD | Priority Health Comm HMO REFERRAL -Cigna | Referral Required | PAR |
 | Hunter Vittone, OD | Priority Health Comm HMO REFERRAL -Cigna | Referral Required | PAR |

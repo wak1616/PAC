@@ -15,7 +15,7 @@
 | Daniel Hadland, OD | Vision Service Plan | Authorization Required | PAR |
 | David Mertzlufft, OD | Vision Service Plan | Authorization Required | PAR |
 | David Shoemaker, MD | Vision Service Plan | Authorization Required | PAR |
-| Elizabeth Davis, MD                      Start Date 05/30/25 | Vision Service Plan | Authorization Required | Non-PAR |
+| Elizabeth Davis, MD | Vision Service Plan | Authorization Required | Non-PAR |
 | Erin Hardie, OD | Vision Service Plan | Authorization Required | PAR |
 | George Hurwitz, OD | Vision Service Plan | Authorization Required | Non-PAR |
 | Hunter Vittone, OD | Vision Service Plan | Authorization Required | PAR |

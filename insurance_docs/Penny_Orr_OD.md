@@ -87,8 +87,8 @@
 | BCBS of FL BlueMedicare Value PPO/ BlueMedicare Value w. Level 1 - PLEASE DO NOT SCHEDULE ANY APPTS AFTER 12/31/2024 AS THIS PLAN IS NO LONGER OFFERED AS OF 01/01/2025 FOR SFEC-NAPLES OFFICE ONLY | BCBS FL Medicare PPO | No Ref/No Auth Required | PAR |
 | BCBS of FL BlueOptions Temporary Insurance/Blue Select Temporary Insurance | BCBS FL Commercial PPO | No Ref/No Auth Required | PAR |
 | BCBS of FL BlueOptions/Blue Options Hospial Surgical Plus/Blue Options with Pediactric Vision | BCBS FL Commercial PPO | No Ref/No Auth Required | PAR |
-| BCBS of FL BlueSelect/BlueSelect Hospital Surgical Plus |  |  | Non-PAR -OON Benefits |
-| BlueSelect Pediatric Vision | Self Pay Non-Par with Ins |  | Non-PAR |
+| BCBS of FL BlueSelect/BlueSelect Hospital Surgical Plus - Alpha Prefix VMAH | BCBS FL Commercial PPO | No Ref/No Auth Required | Non-PAR -OON Benefits |
+| BCBS of FL BlueSelect Pediatric Vision | Self Pay Non-Par with Ins |  | Non-PAR |
 | BCBS of FL Federal Employee Program - alpha prefix R | BCBS Federal | No Ref/No Auth Required | PAR |
 | BCBS of FL myBlue Connected Care/myBlue w. Pediactric Vision | BCBS FL myBlue HMO REFERRAL REQ | Referral Required | PAR |
 | BCBS of FL SimplyBlue | BCBS FL Commercial HMO | Authorization Required | PAR |

@@ -15,7 +15,7 @@
 | Daniel Hadland, OD | Medicare Part B | No Ref/No Auth Required | PAR |
 | David Mertzlufft, OD | Medicare Part B | No Ref/No Auth Required | PAR |
 | David Shoemaker, MD | Medicare Part B | No Ref/No Auth Required | PAR |
-| Elizabeth Davis, MD                      Start Date 05/30/25 | Medicare Part B | No Ref/No Auth Required | PAR |
+| Elizabeth Davis, MD | Medicare Part B | No Ref/No Auth Required | PAR |
 | Erin Hardie, OD | Medicare Part B | No Ref/No Auth Required | PAR |
 | George Hurwitz, OD | Medicare Part B | No Ref/No Auth Required | PAR |
 | Hunter Vittone, OD | Medicare Part B | No Ref/No Auth Required | PAR |

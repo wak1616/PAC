@@ -15,7 +15,7 @@
 | Daniel Hadland, OD | Spectera Vision | No Ref/No Auth Required | Non-PAR |
 | David Mertzlufft, OD | Spectera Vision | No Ref/No Auth Required | Non-PAR |
 | David Shoemaker, MD | Spectera Vision | No Ref/No Auth Required | Non-PAR |
-| Elizabeth Davis, MD                      Start Date 05/30/25 | Spectera Vision | No Ref/No Auth Required | Non-PAR |
+| Elizabeth Davis, MD | Spectera Vision | No Ref/No Auth Required | Non-PAR |
 | Erin Hardie, OD | Spectera Vision | No Ref/No Auth Required | Non-PAR |
 | George Hurwitz, OD | Spectera Vision | No Ref/No Auth Required | Non-PAR |
 | Hunter Vittone, OD | Spectera Vision | No Ref/No Auth Required | PAR |

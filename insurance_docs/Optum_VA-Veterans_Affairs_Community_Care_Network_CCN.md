@@ -15,7 +15,7 @@
 | Daniel Hadland, OD | Optum VA Community Care | Authorization Required | PAR |
 | David Mertzlufft, OD | Optum VA Community Care | Authorization Required | PAR |
 | David Shoemaker, MD | Optum VA Community Care | Authorization Required | PAR |
-| Elizabeth Davis, MD                      Start Date 05/30/25 | Optum VA Community Care | Authorization Required | Non-PAR |
+| Elizabeth Davis, MD | Optum VA Community Care | Authorization Required | Non-PAR |
 | Erin Hardie, OD | Optum VA Community Care | Authorization Required | PAR |
 | George Hurwitz, OD | Optum VA Community Care | Authorization Required | PAR |
 | Hunter Vittone, OD | Optum VA Community Care | Authorization Required | PAR |

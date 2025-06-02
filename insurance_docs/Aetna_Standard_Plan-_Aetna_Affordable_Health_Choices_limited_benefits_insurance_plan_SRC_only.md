@@ -15,7 +15,7 @@
 | Daniel Hadland, OD | Aetna Comm Fixed Benefits PPO | No Ref/No Auth Required | PAR |
 | David Mertzlufft, OD | Aetna Comm Fixed Benefits PPO | No Ref/No Auth Required | PAR |
 | David Shoemaker, MD | Aetna Comm Fixed Benefits PPO | No Ref/No Auth Required | PAR |
-| Elizabeth Davis, MD                      Start Date 05/30/25 | Aetna Comm Fixed Benefits PPO | No Ref/No Auth Required | Non-PAR |
+| Elizabeth Davis, MD | Aetna Comm Fixed Benefits PPO | No Ref/No Auth Required | PAR |
 | Erin Hardie, OD | Aetna Comm Fixed Benefits PPO | No Ref/No Auth Required | PAR |
 | George Hurwitz, OD | Aetna Comm Fixed Benefits PPO | No Ref/No Auth Required | PAR |
 | Hunter Vittone, OD | Aetna Comm Fixed Benefits PPO | No Ref/No Auth Required | PAR |

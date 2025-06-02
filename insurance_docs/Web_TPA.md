@@ -15,7 +15,7 @@
 | Daniel Hadland, OD | Web TPA | No Ref/No Auth Required | PAR |
 | David Mertzlufft, OD | Web TPA | No Ref/No Auth Required | PAR |
 | David Shoemaker, MD | Web TPA | No Ref/No Auth Required | PAR |
-| Elizabeth Davis, MD                      Start Date 05/30/25 | Web TPA | No Ref/No Auth Required | PAR |
+| Elizabeth Davis, MD | Web TPA | No Ref/No Auth Required | PAR |
 | Erin Hardie, OD | Web TPA | No Ref/No Auth Required | PAR |
 | George Hurwitz, OD | Web TPA | No Ref/No Auth Required | PAR |
 | Hunter Vittone, OD | Web TPA | No Ref/No Auth Required | PAR |
