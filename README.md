@@ -6,7 +6,7 @@ Note: For detailed navigation, please use the GitBook sidebar menu on the **righ
 
 ## Introduction
 
-The Florida Patient Access Center (PAC) serves as the centralized scheduling hub for multiple eye care practices within the US Eye network. This comprehensive guide provides the protocols, information, and scripting needed to accurately schedule appointments across all specialties and locations within Florida.
+The Florida Patient Access Center (PAC) serves as the centralized scheduling hub for multiple, Florida-based eye care practices within the US Eye network. This comprehensive guide provides the protocols, information, and scripting needed to accurately schedule appointments across all specialties and locations within Florida.
 
 ### Practice Locations (Florida)
 
