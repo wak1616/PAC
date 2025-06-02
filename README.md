@@ -1,4 +1,4 @@
-# Patient Access Center Master Guide
+# Patient Access Center Master Guide 📋
 
 **Last Updated:** May 29, 2025
 

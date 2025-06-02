@@ -34,4 +34,11 @@ wheels/
 *.swo
 
 # PowerPoint presentations and related files
-ppt/ 
+ppt/
+
+# GitHub Pages build exclusions
+*.log
+venv/
+__pycache__/
+*.pyc
+.DS_Store 
