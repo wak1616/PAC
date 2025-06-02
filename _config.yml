@@ -1,0 +1,4 @@
+# Exclude README.md from GitHub Pages processing
+# (Keep it available for GitBook but don't create a webpage from it)
+exclude:
+  - "README.md" 
