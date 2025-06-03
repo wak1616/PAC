@@ -1,8 +1,8 @@
 # Insurance Guide By Provider
 
-*Last Updated: 06/02/2025 (based on data from Excel file: US Eye Insurance Guide.xlsx)*
+*Last Updated: 06/03/2025 (based on data from Excel file: US Eye Insurance Guide.xlsx)*
 
-This guide lists insurance participation by doctor. Click a doctor's name to view all insurance info for that doctor, grouped by location/CSV.
+*This guide lists insurance participation by doctor. Click a doctor's name to view all insurance info for that doctor, grouped by location/CSV.*
 
 * [Albert Smolyar, MD (SW FL Eye)](insurance_docs/Albert_Smolyar_MD.md)
 * [Alexander Eaton, MD (Retina Health Center)](insurance_docs/Alexander_Eaton_MD.md)

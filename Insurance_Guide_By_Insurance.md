@@ -1,8 +1,8 @@
 # Insurance Guide By Insurance Plan
 
-*Last Updated: 06/02/2025 (based on data from Excel file: US Eye Insurance Guide.xlsx)*
+*Last Updated: 06/03/2025 (based on data from Excel file: US Eye Insurance Guide.xlsx)*
 
-This guide lists insurance participation by insurance plan. Click an insurance plan to view all providers who accept that insurance, grouped by location.
+*This guide lists insurance participation by insurance plan. Click an insurance plan to view all providers who accept that insurance, grouped by location.*
 
 > **Note:** If you don't see an insurance plan listed below, please refer to the [Generic Insurance Protocol](https://useyecorp.sharepoint.com/RCM/Shared%20Documents/Forms/AllItems.aspx?id=%2FRCM%2FShared%20Documents%2FFinancial%20Clearance%2FFinancial%20Clearance%20Team%20Protocols%2FGeneric%20Insurance%20Protocol%20%2D%20PAC%2C%20Front%20Desk%2C%20and%20Customer%20Service%2Epdf&parent=%2FRCM%2FShared%20Documents%2FFinancial%20Clearance%2FFinancial%20Clearance%20Team%20Protocols&p=true&ga=1) for guidance.
 
