@@ -189,6 +189,7 @@
 | Versant: Superior Vision | Self Pay Non-Par with Ins |  | Non-PAR |
 | VSP Vision - DO NOT SCHEDULE ANY VSP AFTER 1/1/2025 WITH DR. GUTTI AND DR. HOLMAN | Vision Service Plan | Authorization Required | PAR |
 | Web TPA | Self Pay Non-Par with Ins |  | Non-PAR |
+| Workers' Comp PLEASE SELECT THE APPROPRIATE WORKERS COMP PAYER IN NEXTGEN | See NEXTGEN "WC" PAYERS | Authorization Required | PAR |
 
 </details>
 

@@ -69,6 +69,7 @@
 | Anthem Blue-Pathway Essentials/Essentials Standard PPO/EPO | Anthem BCBS Commercial PPO | No Ref/No Auth Required | PAR |
 | Anthem Blue-Preferred POS (Select Network) | Anthem BCBS Commercial PPO | No Ref/No Auth Required | PAR |
 | Anthem BCBS-Blue View Vision/Blue Vision Insight/Blue Vision Insight Plus/Vision Insight Plus Select/IBM Vision Plan/Vision Access Value/Vision Minimum Premium Plan | Anthem BCBS Vision | No Ref/No Auth Required | PAR |
+| Auto Insurance | Self Pay Non-Par with Ins |  | Non-PAR |
 | Avesis Vision | Avesis Vision | Authorization Required | PAR |
 | AvMed HMO (State of Florida High Deductible Health Plan and State of Florida Standard HMO Plan) | AvMed Commercial HMO | No Ref/No Auth Required | Non-PAR |
 | BCBS- FEP Blue Vision | Self Pay Non-Par with Ins |  | Non-PAR |
@@ -215,6 +216,7 @@
 | Web TPA | Web TPA | No Ref/No Auth Required | PAR |
 | Wellcare Medicare HMO | Self Pay Non-Par with Ins |  | Non-PAR |
 | Wellcare Medicare PPO CFS is OUT OF NETWORK. PATIENT HAS OON BENEFITS. PLEASE INFORM PATIENT OF POSSIBLE HIGHER OUT OF POCKET COSTS. BENEFIT MUST BE CHECKED PRIOR TO APPT | WellCare Medicare PPO | Authorization MAY BE Required | Non-PAR -OON Benefits |
+| Workers' Comp | Self Pay Non-Par with Ins |  | Non-PAR |
 
 #### Center for Sight-Naples
 
@@ -292,6 +294,7 @@
 | Anthem Blue-Pathway Essentials/Essentials Standard PPO/EPO | Anthem BCBS Commercial PPO | No Ref/No Auth Required | PAR |
 | Anthem Blue-Preferred POS (Select Network) | Anthem BCBS Commercial PPO | No Ref/No Auth Required | PAR |
 | Anthem BCBS-Blue View Vision/Blue Vision Insight/Blue Vision Insight Plus/Vision Insight Plus Select/IBM Vision Plan/Vision Access Value/Vision Minimum Premium Plan | Anthem BCBS Vision | No Ref/No Auth Required | PAR |
+| Auto Insurance | Self Pay Non-Par with Ins |  | Non-PAR |
 | Avesis Vision | Self Pay Non-Par with Ins |  | Non-PAR |
 | AvMed HMO (State of Florida High Deductible Health Plan and State of Florida Standard HMO Plan) | AvMed Commercial HMO | No Ref/No Auth Required | Non-PAR |
 | BCBS- FEP Blue Vision | Self Pay Non-Par with Ins |  | Non-PAR |
@@ -426,6 +429,7 @@
 | Web TPA | Web TPA | No Ref/No Auth Required | PAR |
 | Wellcare Medicare HMO | Self Pay Non-Par with Ins |  | Non-PAR |
 | Wellcare Medicare PPO CFS is OUT OF NETWORK. PATIENT HAS OON BENEFITS. PLEASE INFORM PATIENT OF POSSIBLE HIGHER OUT OF POCKET COSTS | WellCare Medicare PPO | No Ref/No Auth Required | Non-PAR -OON Benefits |
+| Workers' Comp | Self Pay Non-Par with Ins |  | Non-PAR |
 
 #### SW FL Eye
 
@@ -499,6 +503,7 @@
 | Anthem Blue-Pathway Essentials/Essentials Standard PPO/EPO | Anthem BCBS Commercial PPO | No Ref/No Auth Required | PAR |
 | Anthem Blue-Preferred POS (Select Network) | Anthem BCBS Commercial PPO | No Ref/No Auth Required | PAR |
 | Anthem BCBS-Blue View Vision/Blue Vision Insight/Blue Vision Insight Plus/Vision Insight Plus Select/IBM Vision Plan/Vision Access Value/Vision Minimum Premium Plan | Anthem BCBS Vision | No Ref/No Auth Required | PAR |
+| Auto Insurance | Self Pay Non-Par with Ins |  | Non-PAR |
 | Avesis Vision | Avesion Vision | Authorization Required | Non-PAR |
 | BCBS of FL BlueCare/Blue Care w. Pediactric Vision - Alpha Prefix XJGH, VMBH, VMEH | BCBS FL Commercial HMO | Authorization Required | PAR |
 | BCBS of FL BlueChoice | BCBS FL Commercial PPO | No Ref/No Auth Required | PAR |

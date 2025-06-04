@@ -1,6 +1,6 @@
 # Insurance Guide By Insurance Plan
 
-*Last Updated: 06/03/2025 (based on data from Excel file: US Eye Insurance Guide.xlsx)*
+*Last Updated: 06/04/2025 (based on data from Excel file: US Eye Insurance Guide.xlsx)*
 
 *This guide lists insurance participation by insurance plan. Click an insurance plan to view all providers who accept that insurance, grouped by location.*
 
@@ -196,6 +196,7 @@
 * [Anthem Blue- POS](insurance_docs/Anthem_Blue-_POS.md)
 * [Anthem Blue-Pathway Essentials/Essentials Standard PPO/EPO](insurance_docs/Anthem_Blue-Pathway_Essentials_Essentials_Standard_PPO_EPO.md)
 * [Anthem Blue-Preferred POS (Select Network)](insurance_docs/Anthem_Blue-Preferred_POS_Select_Network.md)
+* [Auto Insurance](insurance_docs/Auto_Insurance.md)
 * [AvMed HMO (State of Florida High Deductible Health Plan and State of Florida Standard HMO Plan)](insurance_docs/AvMed_HMO_State_of_Florida_High_Deductible_Health_Plan_and_State_of_Florida_Standard_HMO_Plan.md)
 * [Avesis Vision](insurance_docs/Avesis_Vision.md)
 * [BCBS BlueCare/Blue Care w. Pediactric Vision - Alpha Prefix XJGH, VMBH](insurance_docs/BCBS_BlueCare_Blue_Care_w._Pediactric_Vision_-_Alpha_Prefix_XJGH_VMBH.md)
@@ -497,6 +498,8 @@
 * [Wellcare Medicare PPO CFS is OUT OF NETWORK. PATIENT HAS OON BENEFITS. PLEASE INFORM PATIENT OF POSSIBLE HIGHER OUT OF POCKET COSTS](insurance_docs/Wellcare_Medicare_PPO_CFS_is_OUT_OF_NETWORK._PATIE_ORM_PATIENT_OF_POSSIBLE_HIGHER_OUT_OF_POCKET_COSTS.md)
 * [Wellcare Medicare PPO CFS is OUT OF NETWORK. PATIENT HAS OON BENEFITS. PLEASE INFORM PATIENT OF POSSIBLE HIGHER OUT OF POCKET COSTS. BENEFIT MUST BE CHECKED PRIOR TO APPT](insurance_docs/Wellcare_Medicare_PPO_CFS_is_OUT_OF_NETWORK._PATIE_OCKET_COSTS._BENEFIT_MUST_BE_CHECKED_PRIOR_TO_APPT.md)
 * [Worker Comp](insurance_docs/Worker_Comp.md)
+* [Workers' Comp](insurance_docs/Workers_Comp.md)
+* [Workers' Comp PLEASE SELECT THE APPROPRIATE WORKERS COMP PAYER IN NEXTGEN](insurance_docs/Workers_Comp_PLEASE_SELECT_THE_APPROPRIATE_WORKERS_COMP_PAYER_IN_NEXTGEN.md)
 
 
 ## Status Legend
