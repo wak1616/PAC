@@ -1,8 +1,8 @@
 # Insurance Guide By Insurance Plan
 
-*Last Updated: 06/02/2025 (based on data from Excel file: US Eye Insurance Guide.xlsx)*
+*Last Updated: 06/09/2025 (based on data from Excel file: US Eye Insurance Guide.xlsx)*
 
-This guide lists insurance participation by insurance plan. Click an insurance plan to view all providers who accept that insurance, grouped by location.
+*This guide lists insurance participation by insurance plan. Click an insurance plan to view all providers who accept that insurance, grouped by location.*
 
 > **Note:** If you don't see an insurance plan listed below, please refer to the [Generic Insurance Protocol](https://useyecorp.sharepoint.com/RCM/Shared%20Documents/Forms/AllItems.aspx?id=%2FRCM%2FShared%20Documents%2FFinancial%20Clearance%2FFinancial%20Clearance%20Team%20Protocols%2FGeneric%20Insurance%20Protocol%20%2D%20PAC%2C%20Front%20Desk%2C%20and%20Customer%20Service%2Epdf&parent=%2FRCM%2FShared%20Documents%2FFinancial%20Clearance%2FFinancial%20Clearance%20Team%20Protocols&p=true&ga=1) for guidance.
 
@@ -196,6 +196,7 @@ This guide lists insurance participation by insurance plan. Click an insurance p
 * [Anthem Blue- POS](insurance_docs/Anthem_Blue-_POS.md)
 * [Anthem Blue-Pathway Essentials/Essentials Standard PPO/EPO](insurance_docs/Anthem_Blue-Pathway_Essentials_Essentials_Standard_PPO_EPO.md)
 * [Anthem Blue-Preferred POS (Select Network)](insurance_docs/Anthem_Blue-Preferred_POS_Select_Network.md)
+* [Auto Insurance](insurance_docs/Auto_Insurance.md)
 * [AvMed HMO (State of Florida High Deductible Health Plan and State of Florida Standard HMO Plan)](insurance_docs/AvMed_HMO_State_of_Florida_High_Deductible_Health_Plan_and_State_of_Florida_Standard_HMO_Plan.md)
 * [Avesis Vision](insurance_docs/Avesis_Vision.md)
 * [BCBS BlueCare/Blue Care w. Pediactric Vision - Alpha Prefix XJGH, VMBH](insurance_docs/BCBS_BlueCare_Blue_Care_w._Pediactric_Vision_-_Alpha_Prefix_XJGH_VMBH.md)
@@ -497,6 +498,8 @@ This guide lists insurance participation by insurance plan. Click an insurance p
 * [Wellcare Medicare PPO CFS is OUT OF NETWORK. PATIENT HAS OON BENEFITS. PLEASE INFORM PATIENT OF POSSIBLE HIGHER OUT OF POCKET COSTS](insurance_docs/Wellcare_Medicare_PPO_CFS_is_OUT_OF_NETWORK._PATIE_ORM_PATIENT_OF_POSSIBLE_HIGHER_OUT_OF_POCKET_COSTS.md)
 * [Wellcare Medicare PPO CFS is OUT OF NETWORK. PATIENT HAS OON BENEFITS. PLEASE INFORM PATIENT OF POSSIBLE HIGHER OUT OF POCKET COSTS. BENEFIT MUST BE CHECKED PRIOR TO APPT](insurance_docs/Wellcare_Medicare_PPO_CFS_is_OUT_OF_NETWORK._PATIE_OCKET_COSTS._BENEFIT_MUST_BE_CHECKED_PRIOR_TO_APPT.md)
 * [Worker Comp](insurance_docs/Worker_Comp.md)
+* [Workers' Comp](insurance_docs/Workers_Comp.md)
+* [Workers' Comp PLEASE SELECT THE APPROPRIATE WORKERS COMP PAYER IN NEXTGEN](insurance_docs/Workers_Comp_PLEASE_SELECT_THE_APPROPRIATE_WORKERS_COMP_PAYER_IN_NEXTGEN.md)
 
 
 ## Status Legend
@@ -508,26 +511,4 @@ This guide lists insurance participation by insurance plan. Click an insurance p
 
 <p><strong>Non-PAR</strong>: Non-participating (NON-PAR) means the provider/practice does not have a contract with the patient's health plan. This is also called a non-preferred provider or OUT-OF-NETWORK (OON). If the patient chooses to be seen by a non-participating provider, the patient will pay more as a self-pay patient. OON plans may or may not have OON benefits. HMO plans do not have OON benefits, therefore, the patient must be seen as self-pay.</p>
 </div>
-
-## Insurance FAQ
-
-| Common Insurance Questions | Definitions |
-| :-- | :-- |
-| What is a Commercial Insurance? | Commercial health insurance, also called private health insurance, is coverage issued by a private company or entity. It is not from government-issued insurance like Medicare or Medicaid. Commercial insurance can be offered through an employer and can be HMO or PPO. |
-| What is a copay? | A small fixed amount required by the insurance company to be paid by the patient for each office visit (tests do not typically require a copay). |
-| What is a deductible? | A specified amount of money that the patient must pay before an insurance company will pay a claim. The amount a patient pays for covered health services before the insurance plan starts to pay.  Deductibles usually are re-set annually at the beginning of the calendar year. |
-| What is a non-covered benefit? | A non-covered benefit is a health service in which the health plan will not pay, and the patient must cover the cost at 100% |
-| What is a Referral? | A written order from your primary care doctor for you to see a specialist or get certain medical services. In many Health Maintenance Organizations (HMOs), you need to get a referral before you can get medical care from anyone except your primary care doctor. If a referral is not on file prior to the visit, this can result in claim denials and non-payment for services. When scheduling an appt for a patient whose plan requires a referral we MUST inform the patient a referral is required from their PCP to be seen by a specialist. |
-| What is a supplemental/medigap insurance? | A Medigap policy is an insurance policy that helps supplement Original Medicare and is sold by private companies. A Medigap policy can help pay some of the remaining health care costs that Original Medicare doesn't pay for covered services and supplies, like copayments, coinsurance, and deductibles. Original Medicare pays for much, but not all, of the cost for covered health care services and supplies. These are “gaps” in Medicare coverage. Note - some patients have a Commercial or Medicaid insurance as a secondary plan, which is NOT a supplemental plan. |
-| What is a vision plan/vision insurance/routine? | Vision insurance is used for routine preventive eye care (eye exams) and prescription eyewear (eyeglasses and contact lenses). This is typically used for patients who are in need of their yearly eye exams for updated glasses prescriptions and/or contact lens. Blurry vision can be considered as routine (patient's cannot see far or near), but you must triage the patient to ensure there is no medical issues (i.e., dry eyes, cataracts, etc.) |
-| What is an Authorization? | Prior authorization (also called “preauthorization” and “precertification”) refers to a requirement by health plans for patients to obtain approval of a health care service or medication before the care is provided. This allows the plan to evaluate whether care is medically necessary and otherwise covered. Standards for this review are often developed by the plans themselves, based on medical guidelines, cost, utilization, and other information. If an authorization is not on file prior to the visit, this can result in claim denials and non-payment for services. |
-| What is an out-of-pocket? | An out-of-pocket maximum is a cap, or limit, on the amount of money you must pay for covered health care services in a plan year. If you meet that limit, your health plan will pay 100% of all covered health care costs for the rest of the plan year. |
-| What is coinsurance? | Coinsurance is the amount, generally expressed as a percentage, an insured must pay against a claim after the deductible is satisfied. |
-| What is considered a medical visit? | A medical visit is driven from the chief complaint of the patient's condition, EXCLUDING a routine eye exam. Pink eye, glaucoma, cataracts, retina tears are all considered to be medical and the patient must use their medical insurance for billing. Vision insurance WILL NOT cover any of these medical diagnosis codes |
-| What is HMO? | HMO means Health Maintenance Organization. HMO is a type of health insurance plan that usually limits coverage to care from doctors who work for or contract with the HMO. It generally won't cover out-of-network care except in an emergency. An HMO may require you to live or work in its service area to be eligible for coverage.Most HMO plans require referrals from the patient's primary care physician (PCP) to be seen by a specialist,as the PCP is the gatekeeper to manage the patient's care |
-| What is Medicaid? | Medicaid is a medical assistance program that helps many people who cannot afford medical care pay for some or all of their medical bills. Medicaid provides health coverage to millions of Americans, including eligible low-income adults, children, pregnant women, elderly adults and people with disabilities. Medicaid is administered by states, according to federal requirements. The program is funded jointly by states and the federal government. |
-| What is Medicare Advantage? | Medicare Advantage Plans are a type of Medicare health plan offered by a private insurance company that contracts with the government to provide all the subscribers Part A (hospital/facility) and Part B(provider/ancillary) benefits. Medicare advantage plans REPLACE Traditional Medicare; we should NOT have both insurances active in NextGen. |
-| What is PPO? | PPO stands for preferred provider organization. Unlike an HMO, a PPO offers you the freedom to receive care from any provider—in or out of your network. This means you can see any doctor or specialist, or use any hospital. In addition, PPO plans do not require you to choose a primary care physician (PCP) and do not require referrals. For example, if you already have a doctor you like, you can continue receiving care from that provider. If you need to see a specialist, you do not have to first consult with a PCP. No referrals are required for any doctor, specialist or hospital. |
-| What is secondary insurance? | Secondary insurance is when someone is covered under two health plans; one plan will be designated as the primary health insurance plan and the other will be the secondary insurance. The primary insurance is where health claims are submitted first. NOTE: Our practice/provider can be non-participating if the plan is PRIMARY. However, if the patient provides a secondary insurance and it is on the NON-PAR tab, please proceed with loading the insurance as secondary. We do NOT contract with any insurances that are secondary. |
-| What is the difference between Medicare vs. Medicare Advantage? | Traditional Medicare covers 80% and the patient is responsible for a 20% coinsurance, and patients may not have extended benefits, such as an eye exam, prescription drug coverage. Medicare Advantage plans are used to replace Traditional Medicare as patients have access to more benefits all in one, to include eye exams, prescription drug coverage, copays for specialists visits, and a lower out-of-pocket costs |
 
