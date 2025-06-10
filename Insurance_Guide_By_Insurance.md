@@ -1,6 +1,6 @@
 # Insurance Guide By Insurance Plan
 
-*Last Updated: 06/09/2025 (based on data from Excel file: US Eye Insurance Guide.xlsx)*
+*Last Updated: 06/10/2025 (based on data from Excel file: US Eye Insurance Guide.xlsx)*
 
 *This guide lists insurance participation by insurance plan. Click an insurance plan to view all providers who accept that insurance, grouped by location.*
 
