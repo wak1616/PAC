@@ -139,7 +139,7 @@ def main():
         excel_mod_date = datetime.fromtimestamp(excel_mod_time)
         update_date_str = excel_mod_date.strftime("%m/%d/%Y")
         excel_filename_for_display = os.path.basename(excel_file_path)
-        last_updated_text = f"*Last Updated: {update_date_str} (based on data from Excel file: {excel_filename_for_display})*\n"
+        last_updated_text = f"*Last Updated: {update_date_str} (based on data from Excel file: [{excel_filename_for_display}](https://useyecorp.sharepoint.com/:x:/r/RCM/Shared%20Documents/Insurance%20Guides/US%20Eye%20Insurance%20Guide.xlsx?d=w2a2138d41fa04bfa919fc4966998346a&csf=1&web=1&e=73a3Gf&nav=MTVfezIwMjg5MTIyLTdDRkEtNEE0OS1CODBGLTdFNTc3Njc3OTJDNX0))*\n"
     except Exception as e:
         logging.warning(f"Could not get modification date for Excel file: {e}")
         last_updated_text = "*Last Updated: Date not available*\n"
