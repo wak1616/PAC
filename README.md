@@ -165,7 +165,7 @@ This protocol details the steps taken to properly triage and schedule a patient 
 
 * **New Patient**: Schedule with **OD**.
 * **Established Patient**: Schedule with **primary provider**. For more information about scheduling non-urgent established patients, see "[Scheduling Established Patients](./#scheduling-established-patients)".
-* For post-op/comanaged, normal scheduling unless otherwise indicated.
+* **Problem Focused Visit**: Schedule with primary provider. Evaluation of a specific, non-emergent eye issue (e.g. dry eye, mild redness or irritation, eyelid problems). Scheduled based on availability; not time-critical.
 
 **Process**
 
