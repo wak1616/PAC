@@ -23,7 +23,7 @@
 | Joaquin De Rojas, MD | Aetna Medicare HMO REFERRAL REQ | Referral Required | Non-PAR |
 | John Fezza, MD (Oculoplastics) | Aetna Medicare HMO REFERRAL REQ | Referral Required | PAR |
 | Joseph Sowka, OD | Aetna Medicare HMO REFERRAL REQ | Referral Required | Non-PAR |
-| Joshua Kim, MD | Aetna Medicare HMO REFERRAL REQ | Referral Required | Non-PAR |
+| Joshua Kim, MD | Aetna Medicare HMO REFERRAL REQ | Referral Required | PAR |
 | Joshua Newman, MD | Aetna Medicare HMO REFERRAL REQ | Referral Required | PAR |
 | Kalie Kosek, PA | Aetna Medicare HMO REFERRAL REQ | Referral Required | Non-PAR |
 | Kyle Schaub, OD | Aetna Medicare HMO REFERRAL REQ | Referral Required | Non-PAR |

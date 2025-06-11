@@ -22,7 +22,7 @@
 | Aetna Medicare - Advantra - Eagle, Elite, Gold (HMO-POS) | Aetna Medicare HMO POS | No Ref/No Auth Required | PAR |
 | Aetna Medicare - Credit Plan (PPO) | Aetna Medicare PPO | No Ref/No Auth Required | PAR |
 | Aetna Medicare - Credit/Discover/Discover Value Plan/Silver (HMO) | Aetna Medicare HMO REFERRAL REQ | Referral Required | PAR |
-| Aetna Medicare - Select (HMO) | Aetna Medicare HMO REFERRAL REQ | Referral Required | Non-PAR |
+| Aetna Medicare - Select (HMO) | Aetna Medicare HMO REFERRAL REQ | Referral Required | PAR |
 | Aetna Medicare - Essential/ Essential Elite/ Essentials PPO | Aetna Medicare PPO | No Ref/No Auth Required | PAR |
 | Aetna Medicare - Preferred/ Preferred Premium PPO | Aetna Medicare PPO | No Ref/No Auth Required | PAR |
 | Aetna Medicare- Advantra Credit Value/ Advantra Gold/ Advtantra Silver/ Advantra Preferred/ Advantra Premier/ Advantra Premier Plus/ Advantra Value PPO | Aetna Medicare PPO | No Ref/No Auth Required | PAR |
