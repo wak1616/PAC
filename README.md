@@ -89,7 +89,8 @@ This protocol outlines the standard steps when scheduling patients who may or ma
 
 ### Scope
 
-This protocol details the steps taken to properly triage and schedule a patient with an acute issue.
+This protocol details the steps taken to properly triage and schedule a patient with an acute issue.  
+_**NO** medical advice should be given to the patient by PAC agents._
 
 ***
 
@@ -212,6 +213,7 @@ _Refer to **NextGen Transfer to ICP process** for new patient ICP tasks_
    * Double Vision
    * NEW Floaters
    * Curtain, Veil, or Spider webs
+4. Retina Health Center no longer sells vitamins. Please direct patients to call 855-479-3937 to order.
 
 ***
 

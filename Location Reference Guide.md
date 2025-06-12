@@ -170,7 +170,7 @@
 #### SFEC-Fort Myers
 - **Address:** 6850 International Center Blvd, Fort Myers, FL 33912-7129
 - **Phone:** (239) 768-0006
-- **Fax:** (239) 768-0006
+- **Fax:** (239) 768-0850
 - **Hours:** M-F 8:00-5:00
 - **Directions:** International Center Blvd runs between Plantation Rd and 6 Mile Cypress Pkwy. The road is 0.4 miles south of Daniels Pkwy. The office is on the SW corner of the roundabout on International Center Blvd.
 
