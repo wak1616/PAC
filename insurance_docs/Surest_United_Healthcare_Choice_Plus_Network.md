@@ -15,7 +15,7 @@
 | Daniel Hadland, OD | Surest Commercial - UHC | No Ref/No Auth Required | PAR |
 | David Mertzlufft, OD | Surest Commercial - UHC | No Ref/No Auth Required | PAR |
 | David Shoemaker, MD | Surest Commercial - UHC | No Ref/No Auth Required | PAR |
-| Elizabeth Davis, MD | Surest Commercial - UHC | No Ref/No Auth Required | Non-PAR |
+| Elizabeth Davis, MD | Surest Commercial - UHC | No Ref/No Auth Required | PAR |
 | Erin Hardie, OD | Surest Commercial - UHC | No Ref/No Auth Required | PAR |
 | George Hurwitz, OD | Surest Commercial - UHC | No Ref/No Auth Required | PAR |
 | Hunter Vittone, OD | Surest Commercial - UHC | No Ref/No Auth Required | PAR |

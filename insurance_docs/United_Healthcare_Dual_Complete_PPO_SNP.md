@@ -15,7 +15,7 @@
 | Daniel Hadland, OD | Primary: UHC Dual Complete Medicare PPO Primary                                                                   Secondary: UHC Dual Medicaid PPO Secondary | No Ref/No Auth Required | PAR |
 | David Mertzlufft, OD | Primary: UHC Dual Complete Medicare PPO Primary                                                                   Secondary: UHC Dual Medicaid PPO Secondary | No Ref/No Auth Required | PAR |
 | David Shoemaker, MD | Primary: UHC Dual Complete Medicare PPO Primary                                                                   Secondary: UHC Dual Medicaid PPO Secondary | No Ref/No Auth Required | PAR |
-| Elizabeth Davis, MD | Primary: UHC Dual Complete Medicare PPO Primary                                                                   Secondary: UHC Dual Medicaid PPO Secondary | No Ref/No Auth Required | Non-PAR |
+| Elizabeth Davis, MD | Primary: UHC Dual Complete Medicare PPO Primary                                                                   Secondary: UHC Dual Medicaid PPO Secondary | No Ref/No Auth Required | PAR |
 | Erin Hardie, OD | Primary: UHC Dual Complete Medicare PPO Primary                                                                   Secondary: UHC Dual Medicaid PPO Secondary | No Ref/No Auth Required | PAR |
 | George Hurwitz, OD | Primary: UHC Dual Complete Medicare PPO Primary                                                                   Secondary: UHC Dual Medicaid PPO Secondary | No Ref/No Auth Required | PAR |
 | Hunter Vittone, OD | Primary: UHC Dual Complete Medicare PPO Primary                                                                   Secondary: UHC Dual Medicaid PPO Secondary | No Ref/No Auth Required | PAR |

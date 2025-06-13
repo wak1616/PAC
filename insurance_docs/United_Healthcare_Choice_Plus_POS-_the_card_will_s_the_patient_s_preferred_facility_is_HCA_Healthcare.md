@@ -22,8 +22,8 @@
 | David Mertzlufft, OD | UHC Commercial HCA Plan | No Ref/No Auth Required | PAR |
 | David Shoemaker, MD | UHC Commercial HCA Plan | No Ref/No Auth Required | PAR |
 | David Shoemaker, MD | UHC Commercial HCA Plan | No Ref/No Auth Required | PAR |
-| Elizabeth Davis, MD | UHC Commercial HCA Plan | No Ref/No Auth Required | Non-PAR |
-| Elizabeth Davis, MD | UHC Commercial HCA Plan | No Ref/No Auth Required | Non-PAR |
+| Elizabeth Davis, MD | UHC Commercial HCA Plan | No Ref/No Auth Required | PAR |
+| Elizabeth Davis, MD | UHC Commercial HCA Plan | No Ref/No Auth Required | PAR |
 | Erin Hardie, OD | UHC Commercial HCA Plan | No Ref/No Auth Required | PAR |
 | Erin Hardie, OD | UHC Commercial HCA Plan | No Ref/No Auth Required | PAR |
 | George Hurwitz, OD | UHC Commercial HCA Plan | No Ref/No Auth Required | PAR |

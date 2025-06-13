@@ -15,7 +15,7 @@
 | Daniel Hadland, OD | Golden Rule Commercial - UHC | No Ref/No Auth Required | PAR |
 | David Mertzlufft, OD | Golden Rule Commercial - UHC | No Ref/No Auth Required | PAR |
 | David Shoemaker, MD | Golden Rule Commercial - UHC | No Ref/No Auth Required | PAR |
-| Elizabeth Davis, MD | Golden Rule Commercial - UHC | No Ref/No Auth Required | Non-PAR |
+| Elizabeth Davis, MD | Golden Rule Commercial - UHC | No Ref/No Auth Required | PAR |
 | Erin Hardie, OD | Golden Rule Commercial - UHC | No Ref/No Auth Required | PAR |
 | George Hurwitz, OD | Golden Rule Commercial - UHC | No Ref/No Auth Required | PAR |
 | Hunter Vittone, OD | Golden Rule Commercial - UHC | No Ref/No Auth Required | PAR |

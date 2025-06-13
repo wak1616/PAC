@@ -15,7 +15,7 @@
 | Daniel Hadland, OD | UHC Comm HMO REFERRAL REQ | Referral Required | PAR |
 | David Mertzlufft, OD | UHC Comm HMO REFERRAL REQ | Referral Required | PAR |
 | David Shoemaker, MD | UHC Comm HMO REFERRAL REQ | Referral Required | PAR |
-| Elizabeth Davis, MD | UHC Comm HMO REFERRAL REQ | Referral Required | Non-PAR |
+| Elizabeth Davis, MD | UHC Comm HMO REFERRAL REQ | Referral Required | PAR |
 | Erin Hardie, OD | UHC Comm HMO REFERRAL REQ | Referral Required | PAR |
 | George Hurwitz, OD | UHC Comm HMO REFERRAL REQ | Referral Required | PAR |
 | Hunter Vittone, OD | UHC Comm HMO REFERRAL REQ | Referral Required | PAR |

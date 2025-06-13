@@ -15,7 +15,7 @@
 | Daniel Hadland, OD | UHC Medicare HMO | No Ref/No Auth Required | PAR |
 | David Mertzlufft, OD | UHC Medicare HMO | No Ref/No Auth Required | PAR |
 | David Shoemaker, MD | UHC Medicare HMO | No Ref/No Auth Required | PAR |
-| Elizabeth Davis, MD | UHC Medicare HMO | No Ref/No Auth Required | Non-PAR |
+| Elizabeth Davis, MD | UHC Medicare HMO | No Ref/No Auth Required | PAR |
 | Erin Hardie, OD | UHC Medicare HMO | No Ref/No Auth Required | PAR |
 | George Hurwitz, OD | UHC Medicare HMO | No Ref/No Auth Required | PAR |
 | Hunter Vittone, OD | UHC Medicare HMO | No Ref/No Auth Required | PAR |

@@ -15,7 +15,7 @@
 | Daniel Hadland, OD | UHC ER Wrap | Authorization Required | PAR |
 | David Mertzlufft, OD | UHC ER Wrap | Authorization Required | PAR |
 | David Shoemaker, MD | UHC ER Wrap | Authorization Required | PAR |
-| Elizabeth Davis, MD | UHC ER Wrap | Authorization Required | Non-PAR |
+| Elizabeth Davis, MD | UHC ER Wrap | Authorization Required | PAR |
 | Erin Hardie, OD | UHC ER Wrap | Authorization Required | PAR |
 | George Hurwitz, OD | UHC ER Wrap | Authorization Required | PAR |
 | Hunter Vittone, OD | UHC ER Wrap | Authorization Required | PAR |

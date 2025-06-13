@@ -15,7 +15,7 @@
 | Daniel Hadland, OD | UMR Commercial - UHC | No Ref/No Auth Required | PAR |
 | David Mertzlufft, OD | UMR Commercial - UHC | No Ref/No Auth Required | PAR |
 | David Shoemaker, MD | UMR Commercial - UHC | No Ref/No Auth Required | PAR |
-| Elizabeth Davis, MD | UMR Commercial - UHC | No Ref/No Auth Required | Non-PAR |
+| Elizabeth Davis, MD | UMR Commercial - UHC | No Ref/No Auth Required | PAR |
 | Erin Hardie, OD | UMR Commercial - UHC | No Ref/No Auth Required | PAR |
 | George Hurwitz, OD | UMR Commercial - UHC | No Ref/No Auth Required | PAR |
 | Hunter Vittone, OD | UMR Commercial - UHC | No Ref/No Auth Required | PAR |

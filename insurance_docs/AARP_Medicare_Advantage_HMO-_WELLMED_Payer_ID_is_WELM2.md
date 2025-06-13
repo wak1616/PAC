@@ -15,7 +15,7 @@
 | Daniel Hadland, OD | AARP WellMed Medicare HMO | No Ref/No Auth Required | PAR |
 | David Mertzlufft, OD | AARP WellMed Medicare HMO | No Ref/No Auth Required | PAR |
 | David Shoemaker, MD | AARP WellMed Medicare HMO | No Ref/No Auth Required | PAR |
-| Elizabeth Davis, MD | AARP WellMed Medicare HMO | No Ref/No Auth Required | Non-PAR |
+| Elizabeth Davis, MD | AARP WellMed Medicare HMO | No Ref/No Auth Required | PAR |
 | Erin Hardie, OD | AARP WellMed Medicare HMO | No Ref/No Auth Required | PAR |
 | George Hurwitz, OD | AARP WellMed Medicare HMO | No Ref/No Auth Required | PAR |
 | Hunter Vittone, OD | AARP WellMed Medicare HMO | No Ref/No Auth Required | PAR |

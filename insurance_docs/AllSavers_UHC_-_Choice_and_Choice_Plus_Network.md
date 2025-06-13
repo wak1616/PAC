@@ -15,7 +15,7 @@
 | Daniel Hadland, OD | All Savers Commercial - UHC | No Ref/No Auth Required | PAR |
 | David Mertzlufft, OD | All Savers Commercial - UHC | No Ref/No Auth Required | PAR |
 | David Shoemaker, MD | All Savers Commercial - UHC | No Ref/No Auth Required | PAR |
-| Elizabeth Davis, MD | All Savers Commercial - UHC | No Ref/No Auth Required | Non-PAR |
+| Elizabeth Davis, MD | All Savers Commercial - UHC | No Ref/No Auth Required | PAR |
 | Erin Hardie, OD | All Savers Commercial - UHC | No Ref/No Auth Required | PAR |
 | George Hurwitz, OD | All Savers Commercial - UHC | No Ref/No Auth Required | PAR |
 | Hunter Vittone, OD | All Savers Commercial - UHC | No Ref/No Auth Required | PAR |

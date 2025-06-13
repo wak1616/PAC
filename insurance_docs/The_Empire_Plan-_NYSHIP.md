@@ -15,7 +15,7 @@
 | Daniel Hadland, OD | UHC Empire PPO | No Ref/No Auth Required | PAR |
 | David Mertzlufft, OD | UHC Empire PPO | No Ref/No Auth Required | PAR |
 | David Shoemaker, MD | UHC Empire PPO | No Ref/No Auth Required | PAR |
-| Elizabeth Davis, MD | UHC Empire PPO | No Ref/No Auth Required | Non-PAR |
+| Elizabeth Davis, MD | UHC Empire PPO | No Ref/No Auth Required | PAR |
 | Erin Hardie, OD | UHC Empire PPO | No Ref/No Auth Required | PAR |
 | George Hurwitz, OD | UHC Empire PPO | No Ref/No Auth Required | PAR |
 | Hunter Vittone, OD | UHC Empire PPO | No Ref/No Auth Required | PAR |
