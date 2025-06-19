@@ -166,7 +166,7 @@ _**NO** medical advice should be given to the patient by PAC agents._
 
 * **New Patient**: Schedule with **OD**.
 * **Established Patient**: Schedule with **primary provider**. For more information about scheduling non-urgent established patients, see "[Scheduling Established Patients](./#scheduling-established-patients)".
-* **Problem Focused Visit**: Schedule with primary provider. Evaluation of a specific, non-emergent eye issue (e.g. dry eye, mild redness or irritation, eyelid problems). Scheduled based on availability; not time-critical.
+* **Problem Focused Visit**: Schedule with primary provider. Evaluation of a specific, non-emergent eye issue (e.g. dry eye, mild redness or irritation, eyelid problems). Scheduled based on availability; not time-critical. Scheduled in a **blue short spot.**
 
 **Process**
 
@@ -1302,6 +1302,8 @@ Below are the listed providers at Center For Sight, along with the services they
 
 ### RCM Inquiries – Financial Requests
 
+_**Important Reminder:** The patient’s insurance company is the only entity that can provide accurate and up-to-date information about their policy, coverage, or costs. Since the insurance company writes and manages the patient’s policy, they have access to all the necessary details and are best positioned to answer questions. Please do not send these types of inquiries to RCM, instead put it back on the patient to reach out to their insurance company._       
+
 | **Request**                                                                                            | **Where to Direct**                                                                                                                                                                                                     |
 | ---------------------------------------------------------------------------------------                | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Surgery Costs / Estimates**                                                                          | <p>1. Submit request to: <a href="https://app.smartsheet.com/b/form/69536231a6ef45769be310dd757e8386">RCM Support Inquiries</a><br>2. Choose <strong>Financial Counseling – Estimate Review/Questions</strong></p>      |
@@ -1312,18 +1314,17 @@ Below are the listed providers at Center For Sight, along with the services they
 | **Retina Provider Questions** (Insurance Verification, Authorization, or Financial Counseling)         | <p> Submit request to: <a href="https://app.smartsheet.com/b/form/69536231a6ef45769be310dd757e8386">RCM Support Inquiries</a></p>                                                                                       |                                                                                                                     
 | **Billing / Customer Service** (past due balance, statements, itemized statements)                     | Transfer to **BILLING Quick Connect**                                                                                                                                                                                   |
 | **Audit Calls from Insurances**                                                                        | Email info to **Heather Hickman** (Accounts Receivable Manager)                                                                                                                                                         |                                                                              
-       
+
 
 ### ICP Patient Tasks Related to Clinical Questions / Medication Refills / DMV Forms
 
 Certain requests **only** clinical staff or providers can handle. Refer to the table below to know how to notify the correct group in ICP (IntelleChartPRO). Clinical staff monitor ICP tasks throughout the day and aim to respond within the same day if received in the morning or by the next day if received in the afternoon.
 
 **Important Notes**
-
 * **Do Not** send ICP communications to groups prefixed with `zzz` (inactive).
 * If a provider no longer works here and the patient hasn't established care with another provider, send the message to the [**Patient Care Team by region** ](<Provider Reference Guide.md>)(Florida)
 * Patients should be informed that the request is typically handled within **24–48 hours**.
-* **New Patients**: If they have clinical or medication questions, they must be scheduled for an appointment. Clinical staff cannot advise or fill out forms (DMV, tint, medical forms) without a prior exam.
+* **New Patients:** If they have clinical or medication questions, they must be scheduled for an appointment. Clinical staff cannot advise or fill out forms (DMV, tint, medical forms) without a prior exam.
 
 #### **ICP Patient Task Categories**
 
