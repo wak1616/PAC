@@ -16,6 +16,7 @@
 | AARP Medicare Advantage HMO- WELLMED (Payer ID is WELM2) | AARP WellMed Medicare HMO | No Ref/No Auth Required | PAR |
 | AARP Medicare Advantage Patriot No Rx FL-MA01 (Regional PPO) | AARP Medicare PPO | No Ref/No Auth Required | PAR |
 | AARP Medicare Advantage PPO- WELLMED (Payer ID is WELM2) | AARP WellMed Medicare HMO | No Ref/No Auth Required | PAR |
+| Aetna CVS Health HMO | Aetna Commercial HMO REFERRAL REQ | Referral Required | PAR |
 | Aetna - Medicare Plan (PPO)/Extended Service Area (ESA)/Choice Plan/Choice Plan PPO | Aetna Medicare PPO | No Ref/No Auth Required | PAR |
 | Aetna Commercial Healthfund - Aetna Open Access Aetna Select℠/Elect Choice® EPO /Managed Choice POS/Open Choice PPO/Choice POS & POS II/HealthNetwork Only and Health Network Option | Aetna Commercial PPO | No Ref/No Auth Required | PAR |
 | Aetna Commercial Innovation - Innovation Health Aetna Select/POS/PPO | Aetna Commercial PPO | No Ref/No Auth Required | PAR |
@@ -109,6 +110,7 @@
 | Humana National POS - OpenAccess Plus/Choice POS/PPO | Humana Commercial PPO | No Ref/No Auth Required | Non-PAR |
 | Mailhandlers (Aetna Choice® POS II Network) | Mail Handlers Benefit Plan Comm - Aetna | No Ref/No Auth Required | PAR |
 | Lutheran Preferred (PHP Network) | Lutheran Preferred - PHP | No Ref/No Auth Required | Non-PAR -OON Benefits |
+| Medica (United Healthcare Choice Plus Network) | Medica PPO |  | PAR |
 | Medicare | Medicare Part B | No Ref/No Auth Required | PAR |
 | Meritain Gulf Coast (Aetna Choice POS II Network) | Meritain Health Commercial - Aetna | No Ref/No Auth Required | PAR |
 | Meritain Health - Sarasota Memorial (BASIC AND/OR COMPREHENSIVE PLAN) PLEASE ASK THE PATIENT IF THE CARD HAS "SMH" ON THEIR CARD. IF THE CARD SAYS BASIC OR COMPREHENSIVE PLAN, WE ARE OUT OF NETWORK AND THERE ARE NO OON BENEFITS | Self Pay Non-Par with Ins |  | Non-PAR |

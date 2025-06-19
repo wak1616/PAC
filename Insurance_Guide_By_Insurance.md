@@ -1,6 +1,6 @@
 # Insurance Guide By Insurance Plan
 
-*Last Updated: 06/18/2025 (based on data from Excel file: [US Eye Insurance Guide.xlsx](https://useyecorp.sharepoint.com/:x:/r/RCM/Shared%20Documents/Insurance%20Guides/US%20Eye%20Insurance%20Guide.xlsx?d=w2a2138d41fa04bfa919fc4966998346a&csf=1&web=1&e=73a3Gf&nav=MTVfezIwMjg5MTIyLTdDRkEtNEE0OS1CODBGLTdFNTc3Njc3OTJDNX0))*
+*Last Updated: 06/19/2025 (based on data from Excel file: [US Eye Insurance Guide.xlsx](https://useyecorp.sharepoint.com/:x:/r/RCM/Shared%20Documents/Insurance%20Guides/US%20Eye%20Insurance%20Guide.xlsx?d=w2a2138d41fa04bfa919fc4966998346a&csf=1&web=1&e=73a3Gf&nav=MTVfezIwMjg5MTIyLTdDRkEtNEE0OS1CODBGLTdFNTc3Njc3OTJDNX0))*
 
 *This guide lists insurance participation by insurance plan. Click an insurance plan to view all providers who accept that insurance, grouped by location.*
 
@@ -23,6 +23,7 @@
 * [Aetna AHF OA Managed Choice POS/HDHP/Tiered/Open Choice PPO/Tiered](insurance_docs/Aetna_AHF_OA_Managed_Choice_POS_HDHP_Tiered_Open_Choice_PPO_Tiered.md)
 * [Aetna Affordable Health Choices® limited benefits insurance plan (SRC only)](insurance_docs/Aetna_Affordable_Health_Choices_limited_benefits_insurance_plan_SRC_only.md)
 * [Aetna Banner Choice POS II Multi Tier](insurance_docs/Aetna_Banner_Choice_POS_II_Multi_Tier.md)
+* [Aetna CVS Health HMO](insurance_docs/Aetna_CVS_Health_HMO.md)
 * [Aetna Choice POS II/ POS (Aetna HealthFund®)/POS II (Aetna HealthFund®)](insurance_docs/Aetna_Choice_POS_II_POS_Aetna_HealthFund_POS_II_Aetna_HealthFund.md)
 * [Aetna Commercial Healthfund - Aetna Open Access Aetna Select℠/Elect Choice® EPO /Managed Choice POS/Open Choice PPO/Choice POS & POS II/HealthNetwork Only and Health Network Option](insurance_docs/Aetna_Commercial_Healthfund_-_Aetna_Open_Access_Ae_OS_II_HealthNetwork_Only_and_Health_Network_Option.md)
 * [Aetna Commercial Innovation - Innovation Health Aetna Select/POS/PPO](insurance_docs/Aetna_Commercial_Innovation_-_Innovation_Health_Aetna_Select_POS_PPO.md)
@@ -364,6 +365,7 @@
 * [MBA - Medical Benefits Administrators (Cigna Network)](insurance_docs/MBA_-_Medical_Benefits_Administrators_Cigna_Network.md)
 * [Mailhandlers (Aetna Choice® POS II Network)](insurance_docs/Mailhandlers_Aetna_Choice_POS_II_Network.md)
 * [March Vision](insurance_docs/March_Vision.md)
+* [Medica (United Healthcare Choice Plus Network)](insurance_docs/Medica_United_Healthcare_Choice_Plus_Network.md)
 * [Medicaid of Florida/ All Medicaid (MCO) plans](insurance_docs/Medicaid_of_Florida_All_Medicaid_MCO_plans.md)
 * [Medicare](insurance_docs/Medicare.md)
 * [Meritain Gulf Coast (Aetna Choice POS II Network)](insurance_docs/Meritain_Gulf_Coast_Aetna_Choice_POS_II_Network.md)

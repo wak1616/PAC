@@ -14,6 +14,7 @@
 | AARP Medicare Advantage HMO- WELLMED (Payer ID is WELM2) | AARP WellMed Medicare HMO | No Ref/No Auth Required | PAR |
 | AARP Medicare Advantage Patriot No Rx FL-MA01 (Regional PPO) | AARP Medicare PPO | No Ref/No Auth Required | PAR |
 | AARP Medicare Advantage PPO- WELLMED (Payer ID is WELM2) | AARP WellMed Medicare PPO | No Ref/No Auth Required | PAR |
+| Aetna CVS Health HMO | Aetna Commercial HMO REFERRAL REQ | Referral Required | Non-PAR |
 | Aetna HealthFund- Aetna Health Network Only/ Network Option℠ (Open Access) | Aetna Commercial PPO | No Ref/No Auth Required | PAR |
 | Aetna Healthfund- Aetna Open Access Aetna Select/ Choice PPO / POS / POS II | Aetna Commercial PPO | No Ref/No Auth Required | PAR |
 | Aetna Healthfund- Aetna Open Access Elect Choice EPO | Aetna Commercial PPO | No Ref/No Auth Required | PAR |
@@ -141,6 +142,7 @@
 | Mailhandlers (Aetna Choice® POS II Network) | Mail Handlers Benefit Plan Comm - Aetna | No Ref/No Auth Required | PAR |
 | March Vision | Self Pay Non-Par with Ins |  | Non-PAR |
 | MBA - Medical Benefits Administrators (Cigna Network) | MBA TPA Commercial - Cigna | No Ref/No Auth Required | PAR |
+| Medica (United Healthcare Choice Plus Network) | Medica PPO |  | PAR |
 | Medicaid of Florida/ All Medicaid (MCO) plans | Self Pay Non-Par with Ins |  | Non-PAR |
 | Medicare | Medicare Part B | No Ref/No Auth Required | PAR |
 | Meritain Gulf Coast (Aetna Choice POS II Network) | Meritain Health Commercial - Aetna | No Ref/No Auth Required | PAR |
