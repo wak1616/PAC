@@ -119,7 +119,7 @@
 | NALC Health Benefit Plan (Cigna Open Access Plus Network) | NALC Health Benefit Plan- Cigna | No Ref/No Auth Required | PAR |
 | Optum VA-VETERANS AFFAIRS Community Care Network (CCN) | Optum VA Community Care | Authorization Required | PAR |
 | PHCS PLEASE ASK THE PATIENT FOR THE HEALTH PLAN NAME ON THE CARD AND LOAD THE PLAN INTO NEXTGEN ACCORDING TO THEIR HEALTH PLAN | PLEASE ASK THE PATIENT FOR THE HEALTH PLAN NAME ON THE CARD. IF THE PAYER IS NOT LOADED INTO THE SYSTEM, USE: INS NOT IN NEXTGEN. SEE: Generic Insurance Protocol - PAC, Front Desk, and Customer Service.pdf |  | PAR |
-| Priority Health Commercial- (Cigna Open Access Network) HMO | Priority Health Comm HMO REFERRAL -Cigna | Referral Required | PAR |
+| Priority Health Commercial- (Cigna Open Access Network) HMO | Priority Health Comm HMO | No Ref/No Auth Required | PAR |
 | Priority Health Commercial- (Cigna Open Access Network) PPO | Priority Health Commercial PPO - Cigna | No Ref/No Auth Required | PAR |
 | Priority Health Medicare- Priority Medicare Ideal/Travel Pass (Multiplan) PPO | Priority Health Medicare PPO - Multiplan | No Ref/No Auth Required | PAR |
 | Priority Health Medicare- Priority Medicare Value/Travel Pass (Multiplan) HMO -POS | Priority Health Medicare HMO - Multiplan | No Ref/No Auth Required | PAR |
