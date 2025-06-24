@@ -1,6 +1,6 @@
 # Insurance Guide By Insurance Plan
 
-*Last Updated: 06/23/2025 (based on data from Excel file: [US Eye Insurance Guide.xlsx](https://useyecorp.sharepoint.com/:x:/r/RCM/Shared%20Documents/Insurance%20Guides/US%20Eye%20Insurance%20Guide.xlsx?d=w2a2138d41fa04bfa919fc4966998346a&csf=1&web=1&e=73a3Gf&nav=MTVfezIwMjg5MTIyLTdDRkEtNEE0OS1CODBGLTdFNTc3Njc3OTJDNX0))*
+*Last Updated: 06/24/2025 (based on data from Excel file: [US Eye Insurance Guide.xlsx](https://useyecorp.sharepoint.com/:x:/r/RCM/Shared%20Documents/Insurance%20Guides/US%20Eye%20Insurance%20Guide.xlsx?d=w2a2138d41fa04bfa919fc4966998346a&csf=1&web=1&e=73a3Gf&nav=MTVfezIwMjg5MTIyLTdDRkEtNEE0OS1CODBGLTdFNTc3Njc3OTJDNX0))*
 
 *This guide lists insurance participation by insurance plan. Click an insurance plan to view all providers who accept that insurance, grouped by location.*
 
@@ -375,6 +375,7 @@
 * [NALC Health Benefit Plan (Cigna Open Access Plus Network)](insurance_docs/NALC_Health_Benefit_Plan_Cigna_Open_Access_Plus_Network.md)
 * [Optum VA-VETERANS AFFAIRS Community Care Network (CCN)](insurance_docs/Optum_VA-VETERANS_AFFAIRS_Community_Care_Network_CCN.md)
 * [Optum VA-Veterans Affairs Community Care Network CCN](insurance_docs/Optum_VA-Veterans_Affairs_Community_Care_Network_CCN.md)
+* [Oscar EPO](insurance_docs/Oscar_EPO.md)
 * [PHCS PLEASE ASK THE PATIENT FOR THE HEALTH PLAN NAME ON THE CARD AND LOAD THE PLAN INTO NEXTGEN ACCORDING TO THEIR HEALTH PLAN](insurance_docs/PHCS_PLEASE_ASK_THE_PATIENT_FOR_THE_HEALTH_PLAN_NA_E_PLAN_INTO_NEXTGEN_ACCORDING_TO_THEIR_HEALTH_PLAN.md)
 * [Presbyterian HMO](insurance_docs/Presbyterian_HMO.md)
 * [Priority Health Commercial- (Cigna Open Access Network) HMO](insurance_docs/Priority_Health_Commercial-_Cigna_Open_Access_Network_HMO.md)
