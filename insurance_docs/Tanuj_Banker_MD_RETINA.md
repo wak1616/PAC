@@ -20,7 +20,7 @@
 | Aetna Healthfund- Aetna Open Access Elect Choice EPO | Aetna Commercial PPO | No Ref/No Auth Required | PAR |
 | Aetna Healthfund- Aetna Open Access Managed Choice POS | Aetna Commercial PPO | No Ref/No Auth Required | PAR |
 | Aetna Innovation - Innovation Health Aetna Select/National Advantage Program (NAP)/Innovataion Health Aetna POS/PPO | Aetna Commercial PPO | No Ref/No Auth Required | PAR |
-| Aetna Medicare - Advantra - Eagle, Elite, Gold (HMO-POS) | Aetna Medicare HMO POS | No Ref/No Auth Required | PAR |
+| Aetna Medicare - Advantra - Eagle, Elite, Gold (HMO-POS) | Aetna Medicare HMO POS | No Ref/No Auth Required | Non-PAR |
 | Aetna Medicare - Credit Plan (PPO) | Aetna Medicare PPO | No Ref/No Auth Required | PAR |
 | Aetna Medicare - Credit/Discover/Discover Value Plan/Silver (HMO) | Aetna Medicare HMO REFERRAL REQ | Referral Required | Non-PAR |
 | Aetna Medicare - Select (HMO) | Aetna Medicare HMO REFERRAL REQ | Referral Required | Non-PAR |
@@ -52,7 +52,7 @@
 | Aetna Small Group Employer Plan- Aetna Florida Elect Choice Open Access (OAEPO) | Aetna Commercial PPO | No Ref/No Auth Required | PAR |
 | Aetna Small Group Employer Plan- Aetna Florida Health Network Only (HNOnly) | Aetna Commercial PPO | No Ref/No Auth Required | PAR |
 | Aetna Standard Plan- Aetna Affordable Health Choices® limited benefits insurance plan (SRC only) | Aetna Comm Fixed Benefits PPO | No Ref/No Auth Required | PAR |
-| Aetna Standard Plan- Aetna HMO/ HMO Gold/ Silver | Aetna Commercial HMO REFERRAL REQ | Referral Required | PAR |
+| Aetna Standard Plan- Aetna HMO/ HMO Gold/ Silver | Aetna Commercial HMO REFERRAL REQ | Referral Required | Non-PAR |
 | Aetna Standard Plan- Aetna Managed Choice® POS | Aetna Commercial PPO | No Ref/No Auth Required | PAR |
 | Aetna Standard Plan- Aetna Open Choice® PPO | Aetna Commercial PPO | No Ref/No Auth Required | PAR |
 | Aetna Standard Plan- Aetna QPOS®/ Select/ Voluntary Plans | Aetna Commercial PPO | No Ref/No Auth Required | PAR |

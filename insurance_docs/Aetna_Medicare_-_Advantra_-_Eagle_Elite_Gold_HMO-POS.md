@@ -40,7 +40,7 @@
 | Rachael Randolph, OD | Aetna Medicare HMO POS | No Ref/No Auth Required | PAR |
 | Scott Stevens, OD | Aetna Medicare HMO POS | No Ref/No Auth Required | PAR |
 | Shannon Bednarz, PA | Aetna Medicare HMO POS | No Ref/No Auth Required | PAR |
-| Tanuj Banker, MD (RETINA) | Aetna Medicare HMO POS | No Ref/No Auth Required | PAR |
+| Tanuj Banker, MD (RETINA) | Aetna Medicare HMO POS | No Ref/No Auth Required | Non-PAR |
 | Todd Lang, OD | Aetna Medicare HMO POS | No Ref/No Auth Required | PAR |
 | Trisha Werner, OD | Aetna Medicare HMO POS | No Ref/No Auth Required | PAR |
 | William Soscia, MD | Aetna Medicare HMO POS | No Ref/No Auth Required | PAR |

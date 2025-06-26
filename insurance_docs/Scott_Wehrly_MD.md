@@ -57,7 +57,7 @@
 | Aetna Standard Plan - Aetna HMO/Silver/Gold | Aetna Comm HMO REFERRAL REQ | Referral Required | PAR |
 | Aetna Standard Plan - Aetna Managed Choice® POS/Open Choice PPO/QPOS/Aetna Select/Aetna Voluntary Plan | Aetna Commercial PPO | No Ref/No Auth Required | PAR |
 | Aetna Standard Plan- Aetna Affordable Health Choices® limited benefits insurance plan (SRC only) | Aetna Comm Fixed Benefits PPO | No Ref/No Auth Required | PAR |
-| Aetna Whole Health- Orlando HNO/Orlando Open Access Aetna Select/Open Access Elect Choice | Aetna Commercial PPO | No Ref/No Auth Required | PAR |
+| Aetna Whole Health- Orlando HNO/Orlando Open Access Aetna Select/Open Access Elect Choice | Aetna Commercial PPO | No Ref/No Auth Required | Non-PAR |
 | Allegiance Benefit Plan (Cigna Open Access Plus Network) | Allegiance Benefit Plan Management-Cigna | No Ref/No Auth Required | PAR |
 | AllSavers (UHC) (Choice and Choice Plus) | All Savers Commercial - UHC | No Ref/No Auth Required | PAR |
 | AllSavers (UHC) (Charter and Navigate) | All Savers Comm REFERRAL REQ - UHC | Referral Required | PAR |

@@ -40,7 +40,7 @@
 | Rachael Randolph, OD | Aetna Commercial HMO REFERRAL REQ | Referral Required | PAR |
 | Scott Stevens, OD | Aetna Commercial HMO REFERRAL REQ | Referral Required | PAR |
 | Shannon Bednarz, PA | Aetna Commercial HMO REFERRAL REQ | Referral Required | PAR |
-| Tanuj Banker, MD (RETINA) | Aetna Commercial HMO REFERRAL REQ | Referral Required | PAR |
+| Tanuj Banker, MD (RETINA) | Aetna Commercial HMO REFERRAL REQ | Referral Required | Non-PAR |
 | Todd Lang, OD | Aetna Commercial HMO REFERRAL REQ | Referral Required | PAR |
 | Trisha Werner, OD | Aetna Commercial HMO REFERRAL REQ | Referral Required | PAR |
 | William Soscia, MD | Aetna Commercial HMO REFERRAL REQ | Referral Required | PAR |
