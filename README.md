@@ -413,6 +413,7 @@ These exams are usually performed annually and help maintain overall eye health.
 2. If a patient **hasn't been seen in 3+ months**, a **comprehensive exam** is scheduled, **not** just a refraction.
 3. **CFS/SFEC/LEA**: Do not schedule more than **two family members** in one day **per provider**.
 4. If you offer an appointment more than **10 days out**, you **must** offer to place the patient on the **waitlist** (in addition to scheduling them).
+5. ROTC exams are only done by Dr. Middaugh at the CFS Brantley Rd location. There is a limit of 2 per day (one in the AM and one on the PM). Scheduled as short visits with "ROTC Exam" in the appointment details.
 
 #### Process
 
