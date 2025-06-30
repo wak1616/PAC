@@ -59,12 +59,15 @@
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
 | Alexandria Rawls, OD | UHC Commercial HMO | No Ref/No Auth Required | PAR |
+| Alexandria Rawls, OD | UHC Commercial HMO | Referral MAY Be Required | PAR |
 | Christine Bui, OD | UHC Commercial HMO | No Ref/No Auth Required | PAR |
 | Diba Ossareh, OD | UHC Commercial HMO | No Ref/No Auth Required | PAR |
 | Jose Vazques-Diaz, MD | UHC Commercial HMO | No Ref/No Auth Required | PAR |
+| Jose Vazques-Diaz, MD | UHC Commercial HMO | Referral MAY Be Required | PAR |
 | Mari Holderby, OD | UHC Commercial HMO | No Ref/No Auth Required | PAR |
 | Scot Holman, MD | UHC Commercial HMO | No Ref/No Auth Required | PAR |
 | Scott Wehrly, MD | UHC Commercial HMO | No Ref/No Auth Required | PAR |
+| Scott Wehrly, MD | UHC Commercial HMO | Referral MAY Be Required | PAR |
 | Vinay Gutti, MD | UHC Commercial HMO | No Ref/No Auth Required | PAR |
 
 ## Retina Health Center

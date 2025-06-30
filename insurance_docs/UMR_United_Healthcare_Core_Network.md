@@ -8,14 +8,14 @@
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
-| Alexandria Rawls, OD | UMR Commercial - UHC | No Ref/No Auth Required | PAR |
-| Christine Bui, OD | UMR Commercial - UHC | No Ref/No Auth Required | PAR |
-| Diba Ossareh, OD | UMR Commercial - UHC | No Ref/No Auth Required | PAR |
-| Jose Vazques-Diaz, MD | UMR Commercial - UHC | No Ref/No Auth Required | PAR |
-| Mari Holderby, OD | UMR Commercial - UHC | No Ref/No Auth Required | PAR |
-| Scot Holman, MD | UMR Commercial - UHC | No Ref/No Auth Required | PAR |
-| Scott Wehrly, MD | UMR Commercial - UHC | No Ref/No Auth Required | PAR |
-| Vinay Gutti, MD | UMR Commercial - UHC | No Ref/No Auth Required | PAR |
+| Alexandria Rawls, OD | UHC UMR-39026 | No Ref/No Auth Required | PAR |
+| Christine Bui, OD | UHC UMR-39026 | No Ref/No Auth Required | PAR |
+| Diba Ossareh, OD | UHC UMR-39026 | No Ref/No Auth Required | PAR |
+| Jose Vazques-Diaz, MD | UHC UMR-39026 | No Ref/No Auth Required | PAR |
+| Mari Holderby, OD | UHC UMR-39026 | No Ref/No Auth Required | PAR |
+| Scot Holman, MD | UHC UMR-39026 | No Ref/No Auth Required | PAR |
+| Scott Wehrly, MD | UHC UMR-39026 | No Ref/No Auth Required | PAR |
+| Vinay Gutti, MD | UHC UMR-39026 | No Ref/No Auth Required | PAR |
 
 </details>
 

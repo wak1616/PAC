@@ -8,18 +8,8 @@
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
-| Alexander Eaton, MD | UHC MDCR Nursing Plan | No Ref/No Auth Required | PAR |
-| Veronica Kon Graversen, MD | UHC MDCR Nursing Plan | No Ref/No Auth Required | PAR |
-
-## SW FL Eye
-
-| Provider | NextGen Name | Referral/Auth | Status |
-|----------|-------------|--------------|--------|
-| Albert Smolyar, MD | UHC MDCR Nursing Plan | No Ref/No Auth Required | PAR |
-| Brian Marhue, OD | UHC MDCR Nursing Plan | No Ref/No Auth Required | PAR |
-| Hunter Vittone, OD | UHC MDCR Nursing Plan | No Ref/No Auth Required | PAR |
-| Penny Orr, OD | UHC MDCR Nursing Plan | No Ref/No Auth Required | PAR |
-| Sarah Johnson, OD | UHC MDCR Nursing Plan | No Ref/No Auth Required | PAR |
+| Alexander Eaton, MD | UHC Nursing Home Plan FL PPO-87726 | No Ref/No Auth Required | PAR |
+| Veronica Kon Graversen, MD | UHC Nursing Home Plan FL PPO-87726 | No Ref/No Auth Required | PAR |
 
 </details>
 

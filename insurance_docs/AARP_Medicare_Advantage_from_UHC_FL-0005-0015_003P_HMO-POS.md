@@ -8,11 +8,11 @@
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
-| Albert Smolyar, MD | AARP Medicare HMO | No Ref/No Auth Required | PAR |
-| Brian Marhue, OD | AARP Medicare HMO | No Ref/No Auth Required | PAR |
-| Hunter Vittone, OD | AARP Medicare HMO | No Ref/No Auth Required | PAR |
-| Penny Orr, OD | AARP Medicare HMO | No Ref/No Auth Required | PAR |
-| Sarah Johnson, OD | AARP Medicare HMO | No Ref/No Auth Required | PAR |
+| Albert Smolyar, MD | UHC AARP Advantage HMO-87726 | No Ref/No Auth Required | PAR |
+| Brian Marhue, OD | UHC AARP Advantage HMO-87726 | No Ref/No Auth Required | PAR |
+| Hunter Vittone, OD | UHC AARP Advantage HMO-87726 | No Ref/No Auth Required | PAR |
+| Penny Orr, OD | UHC AARP Advantage HMO-87726 | No Ref/No Auth Required | PAR |
+| Sarah Johnson, OD | UHC AARP Advantage HMO-87726 | No Ref/No Auth Required | PAR |
 
 </details>
 

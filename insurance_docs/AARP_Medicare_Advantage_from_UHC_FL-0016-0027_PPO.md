@@ -8,74 +8,74 @@
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
-| Bradley Middaugh, OD | AARP Medicare PPO | No Ref/No Auth Required | PAR |
-| Brittany Coyle, OD | AARP Medicare PPO | No Ref/No Auth Required | PAR |
-| Callista Wlaschin, OD | AARP Medicare PPO | No Ref/No Auth Required | PAR |
-| Charles Putrino, OD | AARP Medicare PPO | No Ref/No Auth Required | PAR |
-| Daniel Hadland, OD | AARP Medicare PPO | No Ref/No Auth Required | PAR |
-| David Mertzlufft, OD | AARP Medicare PPO | No Ref/No Auth Required | PAR |
-| David Shoemaker, MD | AARP Medicare PPO | No Ref/No Auth Required | PAR |
-| Elizabeth Davis, MD | AARP Medicare PPO | No Ref/No Auth Required | PAR |
-| Erin Hardie, OD | AARP Medicare PPO | No Ref/No Auth Required | PAR |
-| George Hurwitz, OD | AARP Medicare PPO | No Ref/No Auth Required | PAR |
-| Hunter Vittone, OD | AARP Medicare PPO | No Ref/No Auth Required | PAR |
-| James Lenhart, OD | AARP Medicare PPO | No Ref/No Auth Required | PAR |
-| Joaquin De Rojas, MD | AARP Medicare PPO | No Ref/No Auth Required | PAR |
-| John Fezza, MD (Oculoplastics) | AARP Medicare PPO | No Ref/No Auth Required | PAR |
-| Joseph Sowka, OD | AARP Medicare PPO | No Ref/No Auth Required | PAR |
-| Joshua Kim, MD | AARP Medicare PPO | No Ref/No Auth Required | PAR |
-| Joshua Newman, MD | AARP Medicare PPO | No Ref/No Auth Required | PAR |
-| Kalie Kosek, PA | AARP Medicare PPO | No Ref/No Auth Required | PAR |
-| Kyle Schaub, OD | AARP Medicare PPO | No Ref/No Auth Required | PAR |
-| Len Brown, OD | AARP Medicare PPO | No Ref/No Auth Required | PAR |
-| Lori Long, OD | AARP Medicare PPO | No Ref/No Auth Required | PAR |
-| Lori Vollmer, OD | AARP Medicare PPO | No Ref/No Auth Required | PAR |
-| Mary Mcvey, OD | AARP Medicare PPO | No Ref/No Auth Required | PAR |
-| Maureen Traina, PA | AARP Medicare PPO | No Ref/No Auth Required | PAR |
-| Melissa Hammond, OD | AARP Medicare PPO | No Ref/No Auth Required | PAR |
-| Michael Maloney, OD | AARP Medicare PPO | No Ref/No Auth Required | PAR |
-| Page Logan, OD | AARP Medicare PPO | No Ref/No Auth Required | PAR |
-| Patrick Nelson, OD | AARP Medicare PPO | No Ref/No Auth Required | PAR |
-| Priya Mathews, MD | AARP Medicare PPO | No Ref/No Auth Required | PAR |
-| Rachael Randolph, OD | AARP Medicare PPO | No Ref/No Auth Required | PAR |
-| Scott Stevens, OD | AARP Medicare PPO | No Ref/No Auth Required | PAR |
-| Shannon Bednarz, PA | AARP Medicare PPO | No Ref/No Auth Required | PAR |
-| Tanuj Banker, MD (RETINA) | AARP Medicare PPO | No Ref/No Auth Required | PAR |
-| Todd Lang, OD | AARP Medicare PPO | No Ref/No Auth Required | PAR |
-| Trisha Werner, OD | AARP Medicare PPO | No Ref/No Auth Required | PAR |
-| William Soscia, MD | AARP Medicare PPO | No Ref/No Auth Required | PAR |
+| Bradley Middaugh, OD | UHC AARP Medicare Advantage PPO-87726 | No Ref/No Auth Required | PAR |
+| Brittany Coyle, OD | UHC AARP Medicare Advantage PPO-87726 | No Ref/No Auth Required | PAR |
+| Callista Wlaschin, OD | UHC AARP Medicare Advantage PPO-87726 | No Ref/No Auth Required | PAR |
+| Charles Putrino, OD | UHC AARP Medicare Advantage PPO-87726 | No Ref/No Auth Required | PAR |
+| Daniel Hadland, OD | UHC AARP Medicare Advantage PPO-87726 | No Ref/No Auth Required | PAR |
+| David Mertzlufft, OD | UHC AARP Medicare Advantage PPO-87726 | No Ref/No Auth Required | PAR |
+| David Shoemaker, MD | UHC AARP Medicare Advantage PPO-87726 | No Ref/No Auth Required | PAR |
+| Elizabeth Davis, MD | UHC AARP Medicare Advantage PPO-87726 | No Ref/No Auth Required | PAR |
+| Erin Hardie, OD | UHC AARP Medicare Advantage PPO-87726 | No Ref/No Auth Required | PAR |
+| George Hurwitz, OD | UHC AARP Medicare Advantage PPO-87726 | No Ref/No Auth Required | PAR |
+| Hunter Vittone, OD | UHC AARP Medicare Advantage PPO-87726 | No Ref/No Auth Required | PAR |
+| James Lenhart, OD | UHC AARP Medicare Advantage PPO-87726 | No Ref/No Auth Required | PAR |
+| Joaquin De Rojas, MD | UHC AARP Medicare Advantage PPO-87726 | No Ref/No Auth Required | PAR |
+| John Fezza, MD (Oculoplastics) | UHC AARP Medicare Advantage PPO-87726 | No Ref/No Auth Required | PAR |
+| Joseph Sowka, OD | UHC AARP Medicare Advantage PPO-87726 | No Ref/No Auth Required | PAR |
+| Joshua Kim, MD | UHC AARP Medicare Advantage PPO-87726 | No Ref/No Auth Required | PAR |
+| Joshua Newman, MD | UHC AARP Medicare Advantage PPO-87726 | No Ref/No Auth Required | PAR |
+| Kalie Kosek, PA | UHC AARP Medicare Advantage PPO-87726 | No Ref/No Auth Required | PAR |
+| Kyle Schaub, OD | UHC AARP Medicare Advantage PPO-87726 | No Ref/No Auth Required | PAR |
+| Len Brown, OD | UHC AARP Medicare Advantage PPO-87726 | No Ref/No Auth Required | PAR |
+| Lori Long, OD | UHC AARP Medicare Advantage PPO-87726 | No Ref/No Auth Required | PAR |
+| Lori Vollmer, OD | UHC AARP Medicare Advantage PPO-87726 | No Ref/No Auth Required | PAR |
+| Mary Mcvey, OD | UHC AARP Medicare Advantage PPO-87726 | No Ref/No Auth Required | PAR |
+| Maureen Traina, PA | UHC AARP Medicare Advantage PPO-87726 | No Ref/No Auth Required | PAR |
+| Melissa Hammond, OD | UHC AARP Medicare Advantage PPO-87726 | No Ref/No Auth Required | PAR |
+| Michael Maloney, OD | UHC AARP Medicare Advantage PPO-87726 | No Ref/No Auth Required | PAR |
+| Page Logan, OD | UHC AARP Medicare Advantage PPO-87726 | No Ref/No Auth Required | PAR |
+| Patrick Nelson, OD | UHC AARP Medicare Advantage PPO-87726 | No Ref/No Auth Required | PAR |
+| Priya Mathews, MD | UHC AARP Medicare Advantage PPO-87726 | No Ref/No Auth Required | PAR |
+| Rachael Randolph, OD | UHC AARP Medicare Advantage PPO-87726 | No Ref/No Auth Required | PAR |
+| Scott Stevens, OD | UHC AARP Medicare Advantage PPO-87726 | No Ref/No Auth Required | PAR |
+| Shannon Bednarz, PA | UHC AARP Medicare Advantage PPO-87726 | No Ref/No Auth Required | PAR |
+| Tanuj Banker, MD (RETINA) | UHC AARP Medicare Advantage PPO-87726 | No Ref/No Auth Required | PAR |
+| Todd Lang, OD | UHC AARP Medicare Advantage PPO-87726 | No Ref/No Auth Required | PAR |
+| Trisha Werner, OD | UHC AARP Medicare Advantage PPO-87726 | No Ref/No Auth Required | PAR |
+| William Soscia, MD | UHC AARP Medicare Advantage PPO-87726 | No Ref/No Auth Required | PAR |
 
 ## Center for Sight-Naples
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
-| George Brinnig-Jastrzebski, MD | AARP Medicare PPO | No Ref/No Auth Required | PAR |
-| Hunter Vittone, OD | AARP Medicare PPO | No Ref/No Auth Required | PAR |
-| Jon Berlie, MD | AARP Medicare PPO | No Ref/No Auth Required | PAR |
-| Julie Carter, MD | AARP Medicare PPO | No Ref/No Auth Required | PAR |
+| George Brinnig-Jastrzebski, MD | UHC AARP Medicare Advantage PPO-87726 | No Ref/No Auth Required | PAR |
+| Hunter Vittone, OD | UHC AARP Medicare Advantage PPO-87726 | No Ref/No Auth Required | PAR |
+| Jon Berlie, MD | UHC AARP Medicare Advantage PPO-87726 | No Ref/No Auth Required | PAR |
+| Julie Carter, MD | UHC AARP Medicare Advantage PPO-87726 | No Ref/No Auth Required | PAR |
 
 ## Lake Eye 
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
-| Alexandria Rawls, OD | AARP Medicare PPO | No Ref/No Auth Required | PAR |
-| Christine Bui, OD | AARP Medicare PPO | No Ref/No Auth Required | PAR |
-| Diba Ossareh, OD | AARP Medicare PPO | No Ref/No Auth Required | PAR |
-| Jose Vazques-Diaz, MD | AARP Medicare PPO | No Ref/No Auth Required | PAR |
-| Mari Holderby, OD | AARP Medicare PPO | No Ref/No Auth Required | PAR |
-| Scot Holman, MD | AARP Medicare PPO | No Ref/No Auth Required | PAR |
-| Scott Wehrly, MD | AARP Medicare PPO | No Ref/No Auth Required | PAR |
-| Vinay Gutti, MD | AARP Medicare PPO | No Ref/No Auth Required | PAR |
+| Alexandria Rawls, OD | UHC AARP Medicare Advantage PPO-87726 | No Ref/No Auth Required | PAR |
+| Christine Bui, OD | UHC AARP Medicare Advantage PPO-87726 | No Ref/No Auth Required | PAR |
+| Diba Ossareh, OD | UHC AARP Medicare Advantage PPO-87726 | No Ref/No Auth Required | PAR |
+| Jose Vazques-Diaz, MD | UHC AARP Medicare Advantage PPO-87726 | No Ref/No Auth Required | PAR |
+| Mari Holderby, OD | UHC AARP Medicare Advantage PPO-87726 | No Ref/No Auth Required | PAR |
+| Scot Holman, MD | UHC AARP Medicare Advantage PPO-87726 | No Ref/No Auth Required | PAR |
+| Scott Wehrly, MD | UHC AARP Medicare Advantage PPO-87726 | No Ref/No Auth Required | PAR |
+| Vinay Gutti, MD | UHC AARP Medicare Advantage PPO-87726 | No Ref/No Auth Required | PAR |
 
 ## SW FL Eye
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
-| Albert Smolyar, MD | AARP Medicare PPO | No Ref/No Auth Required | PAR |
-| Brian Marhue, OD | AARP Medicare PPO | No Ref/No Auth Required | PAR |
-| Hunter Vittone, OD | AARP Medicare PPO | No Ref/No Auth Required | PAR |
-| Penny Orr, OD | AARP Medicare PPO | No Ref/No Auth Required | PAR |
-| Sarah Johnson, OD | AARP Medicare PPO | No Ref/No Auth Required | PAR |
+| Albert Smolyar, MD | UHC AARP Medicare Advantage PPO-87726 | No Ref/No Auth Required | PAR |
+| Brian Marhue, OD | UHC AARP Medicare Advantage PPO-87726 | No Ref/No Auth Required | PAR |
+| Hunter Vittone, OD | UHC AARP Medicare Advantage PPO-87726 | No Ref/No Auth Required | PAR |
+| Penny Orr, OD | UHC AARP Medicare Advantage PPO-87726 | No Ref/No Auth Required | PAR |
+| Sarah Johnson, OD | UHC AARP Medicare Advantage PPO-87726 | No Ref/No Auth Required | PAR |
 
 </details>
 

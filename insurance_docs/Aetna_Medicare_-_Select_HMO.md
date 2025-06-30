@@ -10,7 +10,7 @@
 |----------|-------------|--------------|--------|
 | Bradley Middaugh, OD | Aetna Medicare HMO REFERRAL REQ | Referral Required | Non-PAR |
 | Brittany Coyle, OD | Aetna Medicare HMO REFERRAL REQ | Referral Required | Non-PAR |
-| Callista Wlaschin, OD | Aetna Medicare HMO REFERRAL REQ | Referral Required | Non-PAR |
+| Callista Wlaschin, OD | Aetna Medicare HMO REFERRAL REQ | Referral Required | PAR |
 | Charles Putrino, OD | Aetna Medicare HMO REFERRAL REQ | Referral Required | Non-PAR |
 | Daniel Hadland, OD | Aetna Medicare HMO REFERRAL REQ | Referral Required | Non-PAR |
 | David Mertzlufft, OD | Aetna Medicare HMO REFERRAL REQ | Referral Required | Non-PAR |
@@ -50,7 +50,7 @@
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
 | George Brinnig-Jastrzebski, MD | Aetna Medicare HMO REFERRAL REQ | Referral Required | PAR |
-| Hunter Vittone, OD | Aetna Medicare HMO REFERRAL REQ | Referral Required | Non-PAR |
+| Hunter Vittone, OD | Aetna Medicare HMO REFERRAL REQ | Referral Required | PAR |
 | Jon Berlie, MD | Aetna Medicare HMO REFERRAL REQ | Referral Required | PAR |
 | Julie Carter, MD | Aetna Medicare HMO REFERRAL REQ | Referral Required | PAR |
 

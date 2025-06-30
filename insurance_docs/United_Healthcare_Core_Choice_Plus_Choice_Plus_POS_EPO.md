@@ -8,10 +8,10 @@
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
-| George Brinnig-Jastrzebski, MD | UHC Commercial PPO | No Ref/No Auth Required | PAR |
-| Hunter Vittone, OD | UHC Commercial PPO | No Ref/No Auth Required | PAR |
-| Jon Berlie, MD | UHC Commercial PPO | No Ref/No Auth Required | PAR |
-| Julie Carter, MD | UHC Commercial PPO | No Ref/No Auth Required | PAR |
+| George Brinnig-Jastrzebski, MD | UHC PPO/POS-87726 | No Ref/No Auth Required | PAR |
+| Hunter Vittone, OD | UHC PPO/POS-87726 | No Ref/No Auth Required | PAR |
+| Jon Berlie, MD | UHC PPO/POS-87726 | No Ref/No Auth Required | PAR |
+| Julie Carter, MD | UHC PPO/POS-87726 | No Ref/No Auth Required | PAR |
 
 </details>
 

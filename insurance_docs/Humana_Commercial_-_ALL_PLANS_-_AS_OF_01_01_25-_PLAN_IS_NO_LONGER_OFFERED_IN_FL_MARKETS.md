@@ -10,7 +10,7 @@
 |----------|-------------|--------------|--------|
 | Bradley Middaugh, OD | Self Pay Non-Par with Ins |  | Non-PAR |
 | Brittany Coyle, OD | Self Pay Non-Par with Ins |  | Non-PAR |
-| Callista Wlaschin, OD | Self Pay Non-Par with Ins |  | Non-PAR |
+| Callista Wlaschin, OD | Self Pay Non-Par with Ins |  | Non-PAR -OON Benefits |
 | Charles Putrino, OD | Self Pay Non-Par with Ins |  | Non-PAR |
 | Daniel Hadland, OD | Self Pay Non-Par with Ins |  | Non-PAR |
 | David Mertzlufft, OD | Self Pay Non-Par with Ins |  | Non-PAR |
@@ -50,7 +50,7 @@
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
 | George Brinnig-Jastrzebski, MD | Self Pay Non-Par with Ins |  | Non-PAR |
-| Hunter Vittone, OD | Self Pay Non-Par with Ins |  | Non-PAR |
+| Hunter Vittone, OD | Self Pay Non-Par with Ins |  | PAR |
 | Jon Berlie, MD | Self Pay Non-Par with Ins |  | Non-PAR |
 | Julie Carter, MD | Self Pay Non-Par with Ins |  | Non-PAR |
 

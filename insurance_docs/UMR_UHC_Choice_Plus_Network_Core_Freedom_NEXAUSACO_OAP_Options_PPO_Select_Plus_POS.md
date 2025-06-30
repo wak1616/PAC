@@ -8,10 +8,10 @@
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
-| George Brinnig-Jastrzebski, MD | UMR Commercial - UHC | No Ref/No Auth Required | PAR |
-| Hunter Vittone, OD | UMR Commercial - UHC | No Ref/No Auth Required | PAR |
-| Jon Berlie, MD | UMR Commercial - UHC | No Ref/No Auth Required | PAR |
-| Julie Carter, MD | UMR Commercial - UHC | No Ref/No Auth Required | PAR |
+| George Brinnig-Jastrzebski, MD | UHC UMR-39026 | No Ref/No Auth Required | PAR |
+| Hunter Vittone, OD | UHC UMR-39026 | No Ref/No Auth Required | PAR |
+| Jon Berlie, MD | UHC UMR-39026 | No Ref/No Auth Required | PAR |
+| Julie Carter, MD | UHC UMR-39026 | No Ref/No Auth Required | PAR |
 
 </details>
 

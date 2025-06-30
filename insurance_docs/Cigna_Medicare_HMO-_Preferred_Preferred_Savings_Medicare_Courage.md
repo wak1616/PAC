@@ -10,7 +10,7 @@
 |----------|-------------|--------------|--------|
 | Bradley Middaugh, OD | Cigna Medicare HMO REFERRAL REQUIRED | Referral Required | PAR |
 | Brittany Coyle, OD | Cigna Medicare HMO REFERRAL REQUIRED | Referral Required | PAR |
-| Callista Wlaschin, OD | Cigna Medicare HMO REFERRAL REQUIRED | Referral Required | Non-PAR |
+| Callista Wlaschin, OD | Cigna Medicare HMO REFERRAL REQUIRED | Referral Required | PAR |
 | Charles Putrino, OD | Cigna Medicare HMO REFERRAL REQUIRED | Referral Required | PAR |
 | Daniel Hadland, OD | Cigna Medicare HMO REFERRAL REQUIRED | Referral Required | PAR |
 | David Mertzlufft, OD | Cigna Medicare HMO REFERRAL REQUIRED | Referral Required | PAR |
@@ -50,7 +50,7 @@
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
 | George Brinnig-Jastrzebski, MD | Cigna Medicare HMO REFERRAL REQUIRED | Referral Required | Non-PAR |
-| Hunter Vittone, OD | Cigna Medicare HMO REFERRAL REQUIRED | Referral Required | PAR |
+| Hunter Vittone, OD | Cigna Medicare HMO REFERRAL REQUIRED | Referral Required | Non-PAR |
 | Jon Berlie, MD | Cigna Medicare HMO REFERRAL REQUIRED | Referral Required | Non-PAR |
 | Julie Carter, MD | Cigna Medicare HMO REFERRAL REQUIRED | Referral Required | PAR |
 

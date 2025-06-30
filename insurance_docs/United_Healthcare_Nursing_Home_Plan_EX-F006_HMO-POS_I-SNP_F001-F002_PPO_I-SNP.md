@@ -8,14 +8,14 @@
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
-| Alexandria Rawls, OD | UHC MDCR Nursing Plan | No Ref/No Auth Required | PAR |
-| Christine Bui, OD | UHC MDCR Nursing Plan | No Ref/No Auth Required | PAR |
-| Diba Ossareh, OD | UHC MDCR Nursing Plan | No Ref/No Auth Required | PAR |
-| Jose Vazques-Diaz, MD | UHC MDCR Nursing Plan | No Ref/No Auth Required | PAR |
-| Mari Holderby, OD | UHC MDCR Nursing Plan | No Ref/No Auth Required | PAR |
-| Scot Holman, MD | UHC MDCR Nursing Plan | No Ref/No Auth Required | PAR |
-| Scott Wehrly, MD | UHC MDCR Nursing Plan | No Ref/No Auth Required | PAR |
-| Vinay Gutti, MD | UHC MDCR Nursing Plan | No Ref/No Auth Required | PAR |
+| Alexandria Rawls, OD | UHC Nursing Home Plan FL PPO-87726 | No Ref/No Auth Required | PAR |
+| Christine Bui, OD | UHC Nursing Home Plan FL PPO-87726 | No Ref/No Auth Required | PAR |
+| Diba Ossareh, OD | UHC Nursing Home Plan FL PPO-87726 | No Ref/No Auth Required | PAR |
+| Jose Vazques-Diaz, MD | UHC Nursing Home Plan FL PPO-87726 | No Ref/No Auth Required | PAR |
+| Mari Holderby, OD | UHC Nursing Home Plan FL PPO-87726 | No Ref/No Auth Required | PAR |
+| Scot Holman, MD | UHC Nursing Home Plan FL PPO-87726 | No Ref/No Auth Required | PAR |
+| Scott Wehrly, MD | UHC Nursing Home Plan FL PPO-87726 | No Ref/No Auth Required | PAR |
+| Vinay Gutti, MD | UHC Nursing Home Plan FL PPO-87726 | No Ref/No Auth Required | PAR |
 
 </details>
 

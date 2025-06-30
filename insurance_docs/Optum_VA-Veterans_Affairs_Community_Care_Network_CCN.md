@@ -10,7 +10,7 @@
 |----------|-------------|--------------|--------|
 | Bradley Middaugh, OD | Optum VA Community Care | Authorization Required | PAR |
 | Brittany Coyle, OD | Optum VA Community Care | Authorization Required | PAR |
-| Callista Wlaschin, OD | Optum VA Community Care | Authorization Required | PAR |
+| Callista Wlaschin, OD | Optum VA Community Care | Authorization Required | Non-PAR |
 | Charles Putrino, OD | Optum VA Community Care | Authorization Required | PAR |
 | Daniel Hadland, OD | Optum VA Community Care | Authorization Required | PAR |
 | David Mertzlufft, OD | Optum VA Community Care | Authorization Required | PAR |

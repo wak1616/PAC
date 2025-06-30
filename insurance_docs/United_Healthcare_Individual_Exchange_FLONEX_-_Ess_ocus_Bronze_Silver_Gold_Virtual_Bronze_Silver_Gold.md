@@ -78,11 +78,11 @@
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
-| Albert Smolyar, MD | UHC Comm FLONEX - REFERRAL REQUIRED | Referral Required | PAR |
-| Brian Marhue, OD | UHC Comm FLONEX - REFERRAL REQUIRED | Referral Required | PAR |
-| Hunter Vittone, OD | UHC Comm FLONEX - REFERRAL REQUIRED | Referral Required | PAR |
-| Penny Orr, OD | UHC Comm FLONEX - REFERRAL REQUIRED | Referral Required | PAR |
-| Sarah Johnson, OD | UHC Comm FLONEX - REFERRAL REQUIRED | Referral Required | PAR |
+| Albert Smolyar, MD | UHC Flonex HMO-87726 | Referral Required | PAR |
+| Brian Marhue, OD | UHC Flonex HMO-87726 | Referral Required | PAR |
+| Hunter Vittone, OD | UHC Flonex HMO-87726 | Referral Required | PAR |
+| Penny Orr, OD | UHC Flonex HMO-87726 | Referral Required | PAR |
+| Sarah Johnson, OD | UHC Flonex HMO-87726 | Referral Required | PAR |
 
 </details>
 

@@ -9,7 +9,7 @@
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
 | George Brinnig-Jastrzebski, MD | Aetna Medicare PPO | No Ref/No Auth Required | PAR |
-| Hunter Vittone, OD | Aetna Medicare PPO | No Ref/No Auth Required | PAR |
+| Hunter Vittone, OD | Aetna Medicare PPO | No Ref/No Auth Required | Non-PAR |
 | Jon Berlie, MD | Aetna Medicare PPO | No Ref/No Auth Required | PAR |
 | Julie Carter, MD | Aetna Medicare PPO | No Ref/No Auth Required | PAR |
 

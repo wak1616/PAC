@@ -8,8 +8,8 @@
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
-| Alexander Eaton, MD | UHC Medicare HMO | No Ref/No Auth Required | PAR |
-| Veronica Kon Graversen, MD | UHC Medicare HMO | No Ref/No Auth Required | PAR |
+| Alexander Eaton, MD | UHC AARP Medicare Advantage PPO-87726 | No Ref/No Auth Required | PAR |
+| Veronica Kon Graversen, MD | UHC AARP Medicare Advantage PPO-87726 | No Ref/No Auth Required | PAR |
 
 </details>
 

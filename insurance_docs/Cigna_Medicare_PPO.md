@@ -10,7 +10,7 @@
 |----------|-------------|--------------|--------|
 | Bradley Middaugh, OD | Cigna Medicare PPO |  | PAR |
 | Brittany Coyle, OD | Cigna Medicare PPO |  | PAR |
-| Callista Wlaschin, OD | Cigna Medicare PPO |  | PAR |
+| Callista Wlaschin, OD | Cigna Medicare PPO |  | Non-PAR |
 | Charles Putrino, OD | Cigna Medicare PPO |  | PAR |
 | Daniel Hadland, OD | Cigna Medicare PPO |  | PAR |
 | David Mertzlufft, OD | Cigna Medicare PPO |  | PAR |

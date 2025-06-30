@@ -8,42 +8,42 @@
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
-| Bradley Middaugh, OD | UMR Commercial - UHC | No Ref/No Auth Required | PAR |
-| Brittany Coyle, OD | UMR Commercial - UHC | No Ref/No Auth Required | PAR |
-| Callista Wlaschin, OD | UMR Commercial - UHC | No Ref/No Auth Required | PAR |
-| Charles Putrino, OD | UMR Commercial - UHC | No Ref/No Auth Required | PAR |
-| Daniel Hadland, OD | UMR Commercial - UHC | No Ref/No Auth Required | PAR |
-| David Mertzlufft, OD | UMR Commercial - UHC | No Ref/No Auth Required | PAR |
-| David Shoemaker, MD | UMR Commercial - UHC | No Ref/No Auth Required | PAR |
-| Elizabeth Davis, MD | UMR Commercial - UHC | No Ref/No Auth Required | PAR |
-| Erin Hardie, OD | UMR Commercial - UHC | No Ref/No Auth Required | PAR |
-| George Hurwitz, OD | UMR Commercial - UHC | No Ref/No Auth Required | PAR |
-| Hunter Vittone, OD | UMR Commercial - UHC | No Ref/No Auth Required | PAR |
-| James Lenhart, OD | UMR Commercial - UHC | No Ref/No Auth Required | PAR |
-| Joaquin De Rojas, MD | UMR Commercial - UHC | No Ref/No Auth Required | PAR |
-| John Fezza, MD (Oculoplastics) | UMR Commercial - UHC | No Ref/No Auth Required | PAR |
-| Joseph Sowka, OD | UMR Commercial - UHC | No Ref/No Auth Required | PAR |
-| Joshua Kim, MD | UMR Commercial - UHC | No Ref/No Auth Required | PAR |
-| Joshua Newman, MD | UMR Commercial - UHC | No Ref/No Auth Required | PAR |
-| Kalie Kosek, PA | UMR Commercial - UHC | No Ref/No Auth Required | PAR |
-| Kyle Schaub, OD | UMR Commercial - UHC | No Ref/No Auth Required | PAR |
-| Len Brown, OD | UMR Commercial - UHC | No Ref/No Auth Required | PAR |
-| Lori Long, OD | UMR Commercial - UHC | No Ref/No Auth Required | PAR |
-| Lori Vollmer, OD | UMR Commercial - UHC | No Ref/No Auth Required | PAR |
-| Mary Mcvey, OD | UMR Commercial - UHC | No Ref/No Auth Required | PAR |
-| Maureen Traina, PA | UMR Commercial - UHC | No Ref/No Auth Required | PAR |
-| Melissa Hammond, OD | UMR Commercial - UHC | No Ref/No Auth Required | PAR |
-| Michael Maloney, OD | UMR Commercial - UHC | No Ref/No Auth Required | PAR |
-| Page Logan, OD | UMR Commercial - UHC | No Ref/No Auth Required | PAR |
-| Patrick Nelson, OD | UMR Commercial - UHC | No Ref/No Auth Required | PAR |
-| Priya Mathews, MD | UMR Commercial - UHC | No Ref/No Auth Required | PAR |
-| Rachael Randolph, OD | UMR Commercial - UHC | No Ref/No Auth Required | PAR |
-| Scott Stevens, OD | UMR Commercial - UHC | No Ref/No Auth Required | PAR |
-| Shannon Bednarz, PA | UMR Commercial - UHC | No Ref/No Auth Required | PAR |
-| Tanuj Banker, MD (RETINA) | UMR Commercial - UHC | No Ref/No Auth Required | PAR |
-| Todd Lang, OD | UMR Commercial - UHC | No Ref/No Auth Required | PAR |
-| Trisha Werner, OD | UMR Commercial - UHC | No Ref/No Auth Required | PAR |
-| William Soscia, MD | UMR Commercial - UHC | No Ref/No Auth Required | PAR |
+| Bradley Middaugh, OD | UHC UMR-39026 | No Ref/No Auth Required | PAR |
+| Brittany Coyle, OD | UHC UMR-39026 | No Ref/No Auth Required | PAR |
+| Callista Wlaschin, OD | UHC UMR-39026 | No Ref/No Auth Required | PAR |
+| Charles Putrino, OD | UHC UMR-39026 | No Ref/No Auth Required | PAR |
+| Daniel Hadland, OD | UHC UMR-39026 | No Ref/No Auth Required | PAR |
+| David Mertzlufft, OD | UHC UMR-39026 | No Ref/No Auth Required | PAR |
+| David Shoemaker, MD | UHC UMR-39026 | No Ref/No Auth Required | PAR |
+| Elizabeth Davis, MD | UHC UMR-39026 | No Ref/No Auth Required | PAR |
+| Erin Hardie, OD | UHC UMR-39026 | No Ref/No Auth Required | PAR |
+| George Hurwitz, OD | UHC UMR-39026 | No Ref/No Auth Required | PAR |
+| Hunter Vittone, OD | UHC UMR-39026 | No Ref/No Auth Required | PAR |
+| James Lenhart, OD | UHC UMR-39026 | No Ref/No Auth Required | PAR |
+| Joaquin De Rojas, MD | UHC UMR-39026 | No Ref/No Auth Required | PAR |
+| John Fezza, MD (Oculoplastics) | UHC UMR-39026 | No Ref/No Auth Required | PAR |
+| Joseph Sowka, OD | UHC UMR-39026 | No Ref/No Auth Required | PAR |
+| Joshua Kim, MD | UHC UMR-39026 | No Ref/No Auth Required | PAR |
+| Joshua Newman, MD | UHC UMR-39026 | No Ref/No Auth Required | PAR |
+| Kalie Kosek, PA | UHC UMR-39026 | No Ref/No Auth Required | PAR |
+| Kyle Schaub, OD | UHC UMR-39026 | No Ref/No Auth Required | PAR |
+| Len Brown, OD | UHC UMR-39026 | No Ref/No Auth Required | PAR |
+| Lori Long, OD | UHC UMR-39026 | No Ref/No Auth Required | PAR |
+| Lori Vollmer, OD | UHC UMR-39026 | No Ref/No Auth Required | PAR |
+| Mary Mcvey, OD | UHC UMR-39026 | No Ref/No Auth Required | PAR |
+| Maureen Traina, PA | UHC UMR-39026 | No Ref/No Auth Required | PAR |
+| Melissa Hammond, OD | UHC UMR-39026 | No Ref/No Auth Required | PAR |
+| Michael Maloney, OD | UHC UMR-39026 | No Ref/No Auth Required | PAR |
+| Page Logan, OD | UHC UMR-39026 | No Ref/No Auth Required | PAR |
+| Patrick Nelson, OD | UHC UMR-39026 | No Ref/No Auth Required | PAR |
+| Priya Mathews, MD | UHC UMR-39026 | No Ref/No Auth Required | PAR |
+| Rachael Randolph, OD | UHC UMR-39026 | No Ref/No Auth Required | PAR |
+| Scott Stevens, OD | UHC UMR-39026 | No Ref/No Auth Required | PAR |
+| Shannon Bednarz, PA | UHC UMR-39026 | No Ref/No Auth Required | PAR |
+| Tanuj Banker, MD (RETINA) | UHC UMR-39026 | No Ref/No Auth Required | PAR |
+| Todd Lang, OD | UHC UMR-39026 | No Ref/No Auth Required | PAR |
+| Trisha Werner, OD | UHC UMR-39026 | No Ref/No Auth Required | PAR |
+| William Soscia, MD | UHC UMR-39026 | No Ref/No Auth Required | PAR |
 
 </details>
 

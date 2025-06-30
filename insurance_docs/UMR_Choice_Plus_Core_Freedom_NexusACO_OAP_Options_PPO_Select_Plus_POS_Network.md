@@ -8,18 +8,18 @@
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
-| Alexander Eaton, MD | UMR Commercial PPO - UHC | No Ref/No Auth Required | PAR |
-| Veronica Kon Graversen, MD | UMR Commercial PPO - UHC | No Ref/No Auth Required | PAR |
+| Alexander Eaton, MD | UHC UMR-39026 | No Ref/No Auth Required | PAR |
+| Veronica Kon Graversen, MD | UHC UMR-39026 | No Ref/No Auth Required | PAR |
 
 ## SW FL Eye
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
-| Albert Smolyar, MD | UMR Commercial PPO - UHC | No Ref/No Auth Required | PAR |
-| Brian Marhue, OD | UMR Commercial PPO - UHC | No Ref/No Auth Required | PAR |
-| Hunter Vittone, OD | UMR Commercial PPO - UHC | No Ref/No Auth Required | PAR |
-| Penny Orr, OD | UMR Commercial PPO - UHC | No Ref/No Auth Required | PAR |
-| Sarah Johnson, OD | UMR Commercial PPO - UHC | No Ref/No Auth Required | PAR |
+| Albert Smolyar, MD | UHC UMR-39026 | No Ref/No Auth Required | PAR |
+| Brian Marhue, OD | UHC UMR-39026 | No Ref/No Auth Required | PAR |
+| Hunter Vittone, OD | UHC UMR-39026 | No Ref/No Auth Required | PAR |
+| Penny Orr, OD | UHC UMR-39026 | No Ref/No Auth Required | PAR |
+| Sarah Johnson, OD | UHC UMR-39026 | No Ref/No Auth Required | PAR |
 
 </details>
 

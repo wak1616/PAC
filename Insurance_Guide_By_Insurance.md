@@ -1,6 +1,6 @@
 # Insurance Guide By Insurance Plan
 
-*Last Updated: 06/27/2025 (based on data from Excel file: [US Eye Insurance Guide.xlsx](https://useyecorp.sharepoint.com/:x:/r/RCM/Shared%20Documents/Insurance%20Guides/US%20Eye%20Insurance%20Guide.xlsx?d=w2a2138d41fa04bfa919fc4966998346a&csf=1&web=1&e=73a3Gf&nav=MTVfezIwMjg5MTIyLTdDRkEtNEE0OS1CODBGLTdFNTc3Njc3OTJDNX0))*
+*Last Updated: 06/30/2025 (based on data from Excel file: [US Eye Insurance Guide.xlsx](https://useyecorp.sharepoint.com/:x:/r/RCM/Shared%20Documents/Insurance%20Guides/US%20Eye%20Insurance%20Guide.xlsx?d=w2a2138d41fa04bfa919fc4966998346a&csf=1&web=1&e=73a3Gf&nav=MTVfezIwMjg5MTIyLTdDRkEtNEE0OS1CODBGLTdFNTc3Njc3OTJDNX0))*
 
 *This guide lists insurance participation by insurance plan. Click an insurance plan to view all providers who accept that insurance, grouped by location.*
 
@@ -410,12 +410,11 @@
 * [United Healthcare Charter EPO/ POS](insurance_docs/United_Healthcare_Charter_EPO_POS.md)
 * [United Healthcare Charter EPO/Charter POS](insurance_docs/United_Healthcare_Charter_EPO_Charter_POS.md)
 * [United Healthcare Charter EPO/POS](insurance_docs/United_Healthcare_Charter_EPO_POS.md)
-* [United Healthcare Charter HMO/ HMO Plus](insurance_docs/United_Healthcare_Charter_HMO_HMO_Plus.md)
-* [United Healthcare Charter HMO/HMO Plus](insurance_docs/United_Healthcare_Charter_HMO_HMO_Plus.md)
 * [United Healthcare Choice EPO/Choice Plus POS](insurance_docs/United_Healthcare_Choice_EPO_Choice_Plus_POS.md)
 * [United Healthcare Choice Plan Network- The Oxford Plan](insurance_docs/United_Healthcare_Choice_Plan_Network-_The_Oxford_Plan.md)
 * [United Healthcare Choice Plan Network- The Oxford Plan (Freedom With Choice Plus)](insurance_docs/United_Healthcare_Choice_Plan_Network-_The_Oxford_Plan_Freedom_With_Choice_Plus.md)
 * [United Healthcare Choice Plan Network- The Oxford Plan with Freedom Choice Plus only](insurance_docs/United_Healthcare_Choice_Plan_Network-_The_Oxford_Plan_with_Freedom_Choice_Plus_only.md)
+* [United Healthcare Choice Plus - HRA/HSA](insurance_docs/United_Healthcare_Choice_Plus_-_HRA_HSA.md)
 * [United Healthcare Choice Plus HMO](insurance_docs/United_Healthcare_Choice_Plus_HMO.md)
 * [United Healthcare Choice Plus POS](insurance_docs/United_Healthcare_Choice_Plus_POS.md)
 * [United Healthcare Choice Plus POS- the card will say HCA Healthcare-If patient has surgery, OOP costs are higher at 75% coinsurance as the patient's preferred facility is HCA Healthcare](insurance_docs/United_Healthcare_Choice_Plus_POS-_the_card_will_s_the_patient_s_preferred_facility_is_HCA_Healthcare.md)
@@ -469,6 +468,7 @@
 * [United Healthcare Nursing Home Plan EX-F006 (HMO-POS I-SNP)](insurance_docs/United_Healthcare_Nursing_Home_Plan_EX-F006_HMO-POS_I-SNP.md)
 * [United Healthcare Nursing Home Plan EX-F006 (HMO-POS I-SNP)/F001-F002 (PPO I-SNP)](insurance_docs/United_Healthcare_Nursing_Home_Plan_EX-F006_HMO-POS_I-SNP_F001-F002_PPO_I-SNP.md)
 * [United Healthcare Nursing Home Plan EX-F006 (HMO-POS I-SNP)/FL-F001 (PPO I-SNP)/FL-F002 (PPO I-SNP)](insurance_docs/United_Healthcare_Nursing_Home_Plan_EX-F006_HMO-POS_I-SNP_FL-F001_PPO_I-SNP_FL-F002_PPO_I-SNP.md)
+* [United Healthcare Nursing Home Plan EX-F006 /FL-F001 (PPO I-SNP)/FL-F002 (PPO I-SNP)](insurance_docs/United_Healthcare_Nursing_Home_Plan_EX-F006_FL-F001_PPO_I-SNP_FL-F002_PPO_I-SNP.md)
 * [United Healthcare Nursing Home Plan EX-F006 HMO-POS I-SNP](insurance_docs/United_Healthcare_Nursing_Home_Plan_EX-F006_HMO-POS_I-SNP.md)
 * [United Healthcare Nursing Home Plan FL-F001 (PPO I-SNP)](insurance_docs/United_Healthcare_Nursing_Home_Plan_FL-F001_PPO_I-SNP.md)
 * [United Healthcare Nursing Home Plan FL-F001 PPO I-SNP](insurance_docs/United_Healthcare_Nursing_Home_Plan_FL-F001_PPO_I-SNP.md)
