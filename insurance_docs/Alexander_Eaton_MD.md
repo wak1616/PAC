@@ -138,13 +138,13 @@
 | United Healthcare Choice Plus HMO | UHC Commercial HMO | No Ref/No Auth Required | PAR |
 | United Healthcare Choice Plus POS- the card will say HCA Healthcare-If patient has surgery, OOP costs are higher at 75% coinsurance as the patient's preferred facility is HCA Healthcare | UHC HCA Healthcare-87726 | No Ref/No Auth Required | PAR |
 | United Healthcare Compass ALL Plans | Self Pay Non-Par with Ins |  | Non-PAR |
-| United Healthcare Complete Care Walgreens FL-0014 (HMO-POS C-SNP) | UHC AARP Medicare Advantage PPO-87726 | No Ref/No Auth Required | PAR |
+| United Healthcare Complete Care Walgreens FL-0014 (HMO-POS C-SNP) | UHC AARP Advantage HMO-87726 | No Ref/No Auth Required | PAR |
 | United Healthcare Core EPO/Core Choice Plus | UHC PPO/POS-87726 | No Ref/No Auth Required | PAR |
 | United Healthcare CORE HMO | UHC Commercial HMO | No Ref/No Auth Required | PAR |
 | United Healthcare DOCTORS PLAN EPO/PLAN PLUS POS | UHC PPO/POS-87726 | No Ref/No Auth Required | PAR |
 | United Healthcare DOCTORS PLAN PLUS HMO | UHC Commercial HMO | No Ref/No Auth Required | PAR |
-| United Healthcare Dual Complete™ (HMO SNP) | Primary: UHC Dual Complete FL HMO-87726                                                                 Secondary: Medicaid Secondary | No Ref/No Auth Required | PAR |
-| United Healthcare Dual Complete™ (PPO SNP) | Primary: UHC Dual Complete FL PPO-87726                                                                 Secondary: Medicaid Secondary | No Ref/No Auth Required | PAR |
+| United Healthcare Dual Complete™ (HMO SNP) | Primary: UHC Dual Complete HMO-87726                                                                 Secondary: Medicaid Secondary | No Ref/No Auth Required | PAR |
+| United Healthcare Dual Complete™ (PPO SNP) | Primary: UHC Dual Complete PPO-87726                                                                 Secondary: Medicaid Secondary | No Ref/No Auth Required | PAR |
 | United Healthcare ER Wrap (W500 on back of card) | UHC ER Wrap | Authorization Required | PAR |
 | United Healthcare FL ALL Medicaid plans | Self Pay Non-Par with Ins |  | Non-PAR |
 | United Healthcare FL CHIP | Self Pay Non-Par with Ins |  | Non-PAR |
@@ -169,7 +169,7 @@
 | United Healthcare The Villages Medicare Advantage FL-0004-004P (HMO-POS) | UHC AARP Medicare Advantage PPO-87726 | No Ref/No Auth Required | PAR |
 | United Healthcare UHN ONENET-AUTO LIABILITY | Self Pay Non-Par with Ins |  | Non-PAR |
 | United Healthcare UHN ONENET-WORKERS COMP | Self Pay Non-Par with Ins |  | Non-PAR |
-| UnitedHealthcare Group Medicare Advantage (HMO) | UHC AARP Medicare Advantage PPO-87726 | No Ref/No Auth Required | PAR |
+| UnitedHealthcare Group Medicare Advantage (HMO) | UHC AARP Advantage HMO-87726 | No Ref/No Auth Required | PAR |
 | Web TPA | Web TPA | No Ref/No Auth Required | PAR |
 
 </details>

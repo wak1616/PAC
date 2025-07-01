@@ -162,8 +162,8 @@
 | United Healthcare CORE HMO | UHC Commercial HMO | No Ref/No Auth Required | PAR |
 | United Healthcare DOCTORS PLAN EPO/ PLAN PLUS POS | UHC PPO/POS-87726 | No Ref/No Auth Required | PAR |
 | United Healthcare DOCTORS PLAN PLUS HMO | UHC PPO/POS-87726 | No Ref/No Auth Required | PAR |
-| United Healthcare Dual Complete™ (HMO SNP) | Primary: UHC Dual Complete FL HMO-87726                                                                 Secondary: Medicaid Secondary | No Ref/No Auth Required | PAR |
-| United Healthcare Dual Complete™ (PPO SNP) | Primary: UHC Dual Complete FL PPO-87726                                                                 Secondary: Medicaid Secondary | No Ref/No Auth Required | PAR |
+| United Healthcare Dual Complete™ (HMO SNP) | Primary: UHC Dual Complete HMO-87726                                                                 Secondary: Medicaid Secondary | No Ref/No Auth Required | PAR |
+| United Healthcare Dual Complete™ (PPO SNP) | Primary: UHC Dual Complete PPO-87726                                                                 Secondary: Medicaid Secondary | No Ref/No Auth Required | PAR |
 | United Healthcare ER Wrap (W500 on back of card) | UHC ER Wrap | Authorization Required | PAR |
 | United Healthcare FL ALL Medicaid Plans | Self Pay Non-Par with Ins |  | Non-PAR |
 | United Healthcare FL CHIP/Medicaid | Self Pay Non-Par with Ins |  | Non-PAR |
