@@ -187,7 +187,7 @@
 | United Healthcare FL CHIP ALL MEDICAID | Self Pay Non-Par with Ins |  | PAR |
 | United Healthcare Group Medicare Advantage (PPO) | UHC Medicare Advantage PPO-87726 | No Ref/No Auth Required | PAR |
 | United Healthcare Group Medicare Advantage HMO | UHC AARP Advantage HMO-87726 | No Ref/No Auth Required | PAR |
-| United Healthcare Group Medicare Advantage Johnson & Johnson Retiree Employees (PPO) patient will have Johnson & Johnson in red on the top right of their card | UHC Medicare Advantage PPO-87726 | No Ref/No Auth Required | PAR |
+| United Healthcare Group Medicare Advantage Johnson & Johnson Retiree Employees (PPO) patient will have Johnson & Johnson in red on the top right of their card | UHC Medicare PPO J and J Retiree-87726 | No Ref/No Auth Required | PAR |
 | United Healthcare Group Plan - employer group SHL Solutions. Card will say SHL Solutions Group | UHC Commercial - SHL Emp Group | No Ref/No Auth Required | PAR |
 | United Healthcare Heritage ALL PLANS | Self Pay Non-Par with Ins |  | Non-PAR |
 | United Healthcare Indemnity-we will only accept this plan as a secondary/supplement | Self Pay Non-Par with Ins |  | Non-PAR |
