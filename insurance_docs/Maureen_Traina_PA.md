@@ -62,7 +62,7 @@
 | AllSavers (UHC - Choice and Choice Plus Network) | UHC All Savers-81400 | No Ref/No Auth Required | PAR |
 | AllSavers (UHC- Charter and Navigate) | All Savers Comm REFERRAL REQ - UHC | Referral Required | PAR |
 | Ambetter ALL PLANS | Self Pay Non-Par with Ins |  | Non-PAR |
-| Anthem BCBS-Blue View Vision/Blue Vision Insight/Blue Vision Insight Plus/Vision Insight Plus Select/IBM Vision Plan/Vision Access Value/Vision Minimum Premium Plan | Anthem BCBS Vision | No Ref/No Auth Required | Non-PAR |
+| Anthem BCBS-Blue View Vision/Blue Vision Insight/Blue Vision Insight Plus/Vision Insight Plus Select/IBM Vision Plan/Vision Access Value/Vision Minimum Premium Plan (Eyemed Network) | Anthem BCBS Vision | No Ref/No Auth Required | Non-PAR |
 | Anthem Blue- (Select Network) Alliance/ Blue Choice Open Access/Blue Choice Options/Blue Value/HealthSync | Anthem BCBS Commercial PPO | No Ref/No Auth Required | PAR |
 | Anthem Blue- (Select Network) Century Preferred/High Value Network/Horizon Managed Care Network/National PPO/Network S/Network Blue/ Select PPO | Anthem BCBS Commercial PPO | No Ref/No Auth Required | PAR |
 | Anthem Blue- Grocery/Traditional/Traditional PPO | Anthem BCBS Commercial PPO | No Ref/No Auth Required | PAR |

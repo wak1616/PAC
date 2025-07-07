@@ -67,7 +67,7 @@
 | AllSavers (UHC) (Charter and Navigate) | All Savers Comm REFERRAL REQ - UHC | Referral Required | PAR |
 | AllSavers (UHC) (Choice and Choice Plus) | UHC All Savers-81400 | No Ref/No Auth Required | PAR |
 | Ambetter ALL PLANS | Self Pay Non-Par with Ins |  | Non-PAR |
-| Anthem BCBS-Blue View Vision/Blue Vision Insight/Blue Vision Insight Plus/Vision Insight Plus Select/IBM Vision Plan/Vision Access Value/Vision Minimum Premium Plan | Anthem BCBS Vision | No Ref/No Auth Required | PAR |
+| Anthem BCBS-Blue View Vision/Blue Vision Insight/Blue Vision Insight Plus/Vision Insight Plus Select/IBM Vision Plan/Vision Access Value/Vision Minimum Premium Plan - (Eyemed Network) | Anthem BCBS Vision | No Ref/No Auth Required | PAR |
 | Anthem Blue- (Select Network) Alliance/ Blue Choice Open Access/Blue Choice Options/Blue Value/HealthSync | Anthem BCBS Commercial PPO | No Ref/No Auth Required | PAR |
 | Anthem Blue- (Select Network) Century Preferred/High Value Network/Horizon Managed Care Network/National PPO/Network S/Network Blue/ Select PPO | Anthem BCBS Commercial PPO | No Ref/No Auth Required | PAR |
 | Anthem Blue- Grocery/Traditional/Traditional PPO | Anthem BCBS Commercial PPO | No Ref/No Auth Required | PAR |
@@ -124,6 +124,7 @@
 | Eyemed Vision | Eyemed Vision | No Ref/No Auth Required | PAR |
 | FEP Blue Vision | Self Pay Non-Par with Ins |  | Non-PAR |
 | First Health Network (through Aetna and/or PHP Network) PLEASE ASK THE PATIENT FOR THE HEALTH PLAN NAME ON THE CARD AND LOAD THE PLAN INTO NEXTGEN ACCORDING TO THEIR HEALTH PLAN | PLEASE ASK THE PATIENT FOR THE HEALTH PLAN NAME ON THE CARD. IF THE PAYER IS NOT LOADED INTO THE SYSTEM, USE: INS NOT IN NEXTGEN. SEE: Generic Insurance Protocol - PAC, Front Desk, and Customer Service.pdf |  | Non-PAR |
+| Guardian – Davis Vision | Self Pay Non-Par with Ins |  | Non-PAR |
 | GEHA (United Healthcare Choice Plus Network) PLEASE INCLUDE THE SUFFIX IN THE POLICY # ON THE ID CARD AS GEHA (EX: 1234567GEHA) | UHC GEHA-39026 | No Ref/No Auth Required | PAR |
 | Golden Rule (UHC Choice Plus Network) | UHC Golden Rule-37602 | No Ref/No Auth Required | PAR |
 | Harvard Pilgrim Healthcare (UHC Choice Plus Network) | UHC Harvard Pilgrim-39026 | No Ref/No Auth Required | PAR |

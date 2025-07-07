@@ -1,6 +1,6 @@
 # Insurance Guide By Insurance Plan
 
-*Last Updated: 07/03/2025 (based on data from Excel file: [US Eye Insurance Guide.xlsx](https://useyecorp.sharepoint.com/:x:/r/RCM/Shared%20Documents/Insurance%20Guides/US%20Eye%20Insurance%20Guide.xlsx?d=w2a2138d41fa04bfa919fc4966998346a&csf=1&web=1&e=73a3Gf&nav=MTVfezIwMjg5MTIyLTdDRkEtNEE0OS1CODBGLTdFNTc3Njc3OTJDNX0))*
+*Last Updated: 07/07/2025 (based on data from Excel file: [US Eye Insurance Guide.xlsx](https://useyecorp.sharepoint.com/:x:/r/RCM/Shared%20Documents/Insurance%20Guides/US%20Eye%20Insurance%20Guide.xlsx?d=w2a2138d41fa04bfa919fc4966998346a&csf=1&web=1&e=73a3Gf&nav=MTVfezIwMjg5MTIyLTdDRkEtNEE0OS1CODBGLTdFNTc3Njc3OTJDNX0))*
 
 *This guide lists insurance participation by insurance plan. Click an insurance plan to view all providers who accept that insurance, grouped by location.*
 
@@ -188,7 +188,8 @@
 * [Allegiance Benefit Plan (Cigna Open Access Plus Network)](insurance_docs/Allegiance_Benefit_Plan_Cigna_Open_Access_Plus_Network.md)
 * [Allied National Open Access](insurance_docs/Allied_National_Open_Access.md)
 * [Ambetter ALL PLANS](insurance_docs/Ambetter_ALL_PLANS.md)
-* [Anthem BCBS-Blue View Vision/Blue Vision Insight/Blue Vision Insight Plus/Vision Insight Plus Select/IBM Vision Plan/Vision Access Value/Vision Minimum Premium Plan](insurance_docs/Anthem_BCBS-Blue_View_Vision_Blue_Vision_Insight_B_an_Vision_Access_Value_Vision_Minimum_Premium_Plan.md)
+* [Anthem BCBS-Blue View Vision/Blue Vision Insight/Blue Vision Insight Plus/Vision Insight Plus Select/IBM Vision Plan/Vision Access Value/Vision Minimum Premium Plan (Eyemed Network)](insurance_docs/Anthem_BCBS-Blue_View_Vision_Blue_Vision_Insight_B_s_Value_Vision_Minimum_Premium_Plan_Eyemed_Network.md)
+* [Anthem BCBS-Blue View Vision/Blue Vision Insight/Blue Vision Insight Plus/Vision Insight Plus Select/IBM Vision Plan/Vision Access Value/Vision Minimum Premium Plan - (Eyemed Network)](insurance_docs/Anthem_BCBS-Blue_View_Vision_Blue_Vision_Insight_B_Value_Vision_Minimum_Premium_Plan_-_Eyemed_Network.md)
 * [Anthem Blue Medicare- Medicare Advantage (PPO)](insurance_docs/Anthem_Blue_Medicare-_Medicare_Advantage_PPO.md)
 * [Anthem Blue Medicare- Medicare Advantage HMO AND HMO-POS](insurance_docs/Anthem_Blue_Medicare-_Medicare_Advantage_HMO_AND_HMO-POS.md)
 * [Anthem Blue- (Select Network) Alliance/ Blue Choice Open Access/Blue Choice Options/Blue Value/HealthSync](insurance_docs/Anthem_Blue-_Select_Network_Alliance_Blue_Choice_O_n_Access_Blue_Choice_Options_Blue_Value_HealthSync.md)
@@ -330,6 +331,7 @@
 * [Freedom/Optimum Health Medicare ID # STARTS WITH P or T](insurance_docs/Freedom_Optimum_Health_Medicare_ID_STARTS_WITH_P_or_T.md)
 * [GEHA (United Healthcare Choice Plus Network) PLEASE INCLUDE THE SUFFIX IN THE POLICY # ON THE ID CARD AS GEHA (EX: 1234567GEHA)](insurance_docs/GEHA_United_Healthcare_Choice_Plus_Network_PLEASE__N_THE_POLICY_ON_THE_ID_CARD_AS_GEHA_EX_1234567GEHA.md)
 * [Golden Rule (UHC Choice Plus Network)](insurance_docs/Golden_Rule_UHC_Choice_Plus_Network.md)
+* [Guardian – Davis Vision](insurance_docs/Guardian_Davis_Vision.md)
 * [Harvard Pilgrim Healthcare (UHC Choice Plus Network)](insurance_docs/Harvard_Pilgrim_Healthcare_UHC_Choice_Plus_Network.md)
 * [Health Care Support (ministry plan with PHCS network)](insurance_docs/Health_Care_Support_ministry_plan_with_PHCS_network.md)
 * [Humana Commercial - ALL PLANS - AS OF 01/01/25- PLAN IS NO LONGER OFFERED IN FL MARKETS](insurance_docs/Humana_Commercial_-_ALL_PLANS_-_AS_OF_01_01_25-_PLAN_IS_NO_LONGER_OFFERED_IN_FL_MARKETS.md)
