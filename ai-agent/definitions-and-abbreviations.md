@@ -20,6 +20,7 @@ Here is a list of **US Eye-specific abbreviations and terms** that may not be ob
 * **NextGen** – The electronic health record (EHR) system used by US Eye practices
 * **Auth** – Authorization (usually referring to insurance pre-authorizations)
 * **Ref** – Referral (insurance or PCP referral)
+* **ICP** = NexTech Electronic Medical Records
 
 ***
 
