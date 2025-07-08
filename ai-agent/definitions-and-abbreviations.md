@@ -1,14 +1,50 @@
 # Definitions and Abbreviations
 
-Here are some definitions and abbreviations unique to US Eye and this AI Agent that may not be obvious to those outside of US Eye:
+Here is a list of **US Eye-specific abbreviations and terms** that may not be obvious to the average person, based on the uploaded documents:
 
-1. **PAR (Participating)**: Refers to providers who have a direct contract with the patient's health plan, allowing claims to be processed and paid based on negotiated amounts per CPT code .
-2. **Non-PAR - OON Benefits**: Refers to plans where the provider does not have a direct contract with the payer, but out-of-network (OON) benefits may be available, typically with PPO plans .
-3. **NextGen**: A system used for managing patient information and insurance details .
-4. **Phreesia**: A platform used for taking payments and managing patient check-ins .
-5. **ICP (Integrated Care Pathway)**: Used for confirming prescriptions and managing patient care processes .
-6. **RCM (Revenue Cycle Management)**: Refers to the financial process used to manage claims processing, payment, and revenue generation .
-7. **SLT (Selective Laser Trabeculoplasty)**: A type of laser surgery used to treat glaucoma .
-8. **LAL (Light Adjustable Lens)**: A type of vision correction option offered by US Eye .
-9. **CLE/RLE (Clear Lens Enhancement/Refractive Lens Exchange)**: Procedures to improve vision and reduce dependence on glasses or contacts .
-10. **OCT (Optical Coherence Tomography)**: A non-invasive imaging test used to capture detailed images of the retina .
+***
+
+#### 🏥 **Practice- and Workflow-Specific Abbreviations**
+
+* **PAC** – Patient Access Center (the centralized scheduling and patient services team)
+* **CFS** – Center for Sight (main US Eye organization/practice name)
+* **LE** – Licensed Esthetician (used in provider titles)
+* **CL** – Contact Lenses
+  * **Soft CL** – Soft Contact Lenses
+  * **RGP CL** – Rigid Gas Permeable Contact Lenses
+  * **Scleral CL** – Scleral Contact Lenses
+* **E\&B** – Eligibility & Benefits (used in Phreesia dashboard for insurance verification)
+* **NPI** – National Provider Identifier
+* **TIN** – Tax Identification Number
+* **Phreesia** – A third-party software used for checking benefits and eligibility
+* **NextGen** – The electronic health record (EHR) system used by US Eye practices
+* **Auth** – Authorization (usually referring to insurance pre-authorizations)
+* **Ref** – Referral (insurance or PCP referral)
+
+***
+
+#### 📄 **Insurance Status & Protocols**
+
+* **PAR** – Participating Provider (contracted with insurance)
+* **Non-PAR** – Non-Participating Provider (not contracted)
+* **OON** – Out of Network
+* **U\&C** – Usual and Customary (non-contracted reimbursement rate)
+* **Ref/No Auth Required** – No referral or prior authorization required
+* **Ref Req/Auth Req** – Referral or authorization is required
+* **Medigap** – Medicare Supplement Plan
+* **Secondary Plan** – Second health insurance policy (not necessarily supplemental)
+* **Routine** – Used to refer to routine eye exams (non-medical)
+
+***
+
+#### 👓 **Vision Plan Specifics**
+
+* **Vision Discount Plan** – A type of EyeMed plan where patients pay a flat rate (e.g., $49), not billed to insurance
+* **PEP** – Physician Eyecare Plan (terminating 12/31/24)
+* **PEN** – Physician Eyecare Network (terminating 12/31/24)
+* **Healthy Blue** – Medicaid vision plan under VSP in SC only
+* **VSP** – Vision Service Plan (may also show as Guardian, MetLife Vision, or Principle Vision)
+
+***
+
+&#x20;
