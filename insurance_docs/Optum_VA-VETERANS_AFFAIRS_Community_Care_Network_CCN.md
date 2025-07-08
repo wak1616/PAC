@@ -17,9 +17,9 @@
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
-| Alexandria Rawls, OD | Optum VA Community Care | Authorization Required | Non-PAR |
+| Alexandria Rawls, OD | Optum VA Community Care | Authorization Required | PAR |
 | Christine Bui, OD | Optum VA Community Care | Authorization Required | PAR |
-| Diba Ossareh, OD | Optum VA Community Care | Authorization Required | Non-PAR |
+| Diba Ossareh, OD | Optum VA Community Care | Authorization Required | PAR |
 | Jose Vazques-Diaz, MD | Optum VA Community Care | Authorization Required | PAR |
 | Mari Holderby, OD | Optum VA Community Care | Authorization Required | PAR |
 | Scot Holman, MD | Optum VA Community Care | Authorization Required | PAR |

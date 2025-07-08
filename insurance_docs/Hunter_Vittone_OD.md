@@ -160,6 +160,7 @@
 | Priority Health Medicare- Priority Medicare Value/Travel Pass (Multiplan) HMO -POS | Priority Health Medicare HMO - Multiplan | No Ref/No Auth Required | PAR |
 | Railroad Medicare - CONFIRM WITH PT AT THE BOTTOM OF THE ID CARD IT SAYS "RAILROAD RETIREMENT BOARD" | Railroad Medicare | No Ref/No Auth Required | PAR |
 | ROTC/Military Screening - Dr. MIDDAUGH ONLY. pATIENT WILL NOT HAVE AN ID CARD AS THEY ARE PRESENTING FOR A ROTC/MILITARY SCREENING | Concorde Inc | Authorization Required- ROTC Fom is required for the Clinical Team | Non-PAR |
+| Simply Health Care Medicare PPO (ICARE Network) | Self Pay Non-Par with Ins |  | Non-PAR |
 | Spectera Vision | Spectera Vision | No Ref/No Auth Required | PAR |
 | Surest (United Healthcare Choice Plus Network) | UHC Surest-25463 Commercial - UHC | No Ref/No Auth Required | PAR |
 | The Empire Plan- NYSHIP | UHC Empire Plan-NYSHIP-87726 | No Ref/No Auth Required | PAR |
@@ -393,7 +394,7 @@
 | United Healthcare Choice Plus - HRA/HSA | UHC HRA/HSA/POS-87726 | No Ref/No Auth Required | PAR |
 | United Healthcare Choice Plus HMO | UHC Commercial HMO | No Ref/No Auth Required | PAR |
 | United Healthcare Choice Plus POS | UHC PPO/POS-87726 | No Ref/No Auth Required | PAR |
-| United Healthcare Choice Plus POS- the card will say HCA Healthcare-If patient has surgery, OOP costs are higher at 75% coinsurance as the patient's preferred facility is HCA Healthcare | UHC HCA Healthcare-87726 | No Ref/No Auth Required | Non-PAR |
+| United Healthcare Choice Plus POS- the card will say HCA Healthcare-If patient has surgery, OOP costs are higher at 75% coinsurance as the patient's preferred facility is HCA Healthcare | UHC HCA Healthcare-87726 | No Ref/No Auth Required | PAR |
 | United Healthcare Compass ALL PLANS | Self Pay Non-Par with Ins |  | PAR |
 | United Healthcare Complete Care Walgreens FL-0014 (HMO-POS C-SNP) | UHC AARP Advantage HMO-87726 | No Ref/No Auth Required | PAR |
 | United Healthcare Core Choice Plus/Choice Plus POS/EPO | UHC PPO/POS-87726 | No Ref/No Auth Required | PAR |

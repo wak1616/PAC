@@ -103,7 +103,7 @@
 | Carefirst Commercial - Standard BlueChoice (HMO) | Carefirst BCBS Commercial HMO | No Ref/No Auth Required | PAR |
 | Carefirst Commercial - Traditional/Indemnity | Carefirst BCBS Commercial PPO | No Ref/No Auth Required | PAR |
 | Carefirst Commerical - BlueCard PAR/BlueCard PPO/EPO/BlueCard Traditional | Carefirst BCBS Commercial PPO | No Ref/No Auth Required | PAR |
-| ChampVA (VACCN) | ChampVA | No Ref/No Auth Required | Non-PAR |
+| ChampVA (VACCN) | ChampVA | No Ref/No Auth Required | PAR |
 | Cigna Commercial - Choice Fund PPO/ChoiceFund OA Plus/ OA Plus with CareLink/Local Plus/Open Access Plus | Cigna Commercial PPO | No Ref/No Auth Required | PAR |
 | Cigna Commercial - Florida Connect | Self Pay Non-Par with Ins |  | Non-PAR |
 | Cigna Commercial - Florida Network (HMO)/HealthCare of Florida, Inc. - Orlando HMO | Cigna Commercial HMO | No Ref/No Auth Required | PAR |
@@ -115,7 +115,7 @@
 | Cigna Medicare - Courage/Preferred/Preferred Group Plans/Preferred Savings(HMO) | Cigna Medicare HMO REFERRAL REQ | Referral Required | PAR |
 | Cigna Medicare - TotalCare (HMO D-SNP) | Primary: Cigna Dual MDCR HMO Primary-REFERRAL REQ                                                Secondary: Cigna Dual Medicaid HMO Secondary | Referral Required | PAR |
 | Cigna Medicare - TotalCare Plus (HMO D-SNP) | Primary: Cigna Dual MDCR HMO Primary-REFERRAL REQ                                                Secondary: Cigna Dual Medicaid HMO Secondary | Referral Required | PAR |
-| Cigna Medicare PPO - ALL PLANS - AS OF 01/01/25- PLAN IS NO LONGER OFFERED IN FL MARKETS | Self Pay Non-Par with Ins |  | Non-PAR |
+| Cigna Medicare PPO - ALL PLANS - AS OF 01/01/25- PLAN IS NO LONGER OFFERED IN FL MARKETS | Self Pay Non-Par with Ins |  | PAR |
 | Eyemed Vision | Eyemed Vision | No Ref/No Auth Required | PAR |
 | FEP Blue Vision | Self Pay Non-Par with Ins |  | Non-PAR |
 | First Health Network (through Aetna and/or PHP Network) PLEASE ASK THE PATIENT FOR THE HEALTH PLAN NAME ON THE CARD AND LOAD THE PLAN INTO NEXTGEN ACCORDING TO THEIR HEALTH PLAN | PLEASE ASK THE PATIENT FOR THE HEALTH PLAN NAME ON THE CARD. IF THE PAYER IS NOT LOADED INTO THE SYSTEM, USE: INS NOT IN NEXTGEN. SEE: Generic Insurance Protocol - PAC, Front Desk, and Customer Service.pdf |  | PAR |
@@ -130,16 +130,16 @@
 | Humana Medicare Fully Integrated (HMO D-SNP) | Self Pay Non-Par with Ins |  | Non-PAR |
 | Humana Medicare Gold Plus SNP-DE (HMO D-SNP) and H1036-102 (HMO-DNSP) | Self Pay Non-Par with Ins |  | Non-PAR |
 | Lutheran Preferred (PHP Network) | Lutheran Preferred - PHP | No Ref/No Auth Required | Non-PAR -OON Benefits |
-| Mailhandlers (Aetna Choice® POS II Network) | Mail Handlers Benefit Plan Comm - Aetna | No Ref/No Auth Required | Non-PAR |
+| Mailhandlers (Aetna Choice® POS II Network) | Mail Handlers Benefit Plan Comm - Aetna | No Ref/No Auth Required | PAR |
 | March Vision | Self Pay Non-Par with Ins |  | Non-PAR |
 | Medica (United Healthcare Choice Plus Network) | UHC Medica-94265 |  | PAR |
 | Medicare | Medicare Part B | No Ref/No Auth Required | PAR |
-| Meritain Gulf Coast (Aetna Choice POS II Network) | Meritain Health Commercial - Aetna | No Ref/No Auth Required | Non-PAR |
+| Meritain Gulf Coast (Aetna Choice POS II Network) | Meritain Health Commercial - Aetna | No Ref/No Auth Required | PAR |
 | Meritain Health - Sarasota Memorial (BASIC AND/OR COMPREHENSIVE PLAN) PLEASE ASK THE PATIENT IF THE CARD HAS "SMH" ON THEIR CARD. IF THE CARD SAYS BASIC OR COMPREHENSIVE PLAN, WE ARE OUT OF NETWORK AND THERE ARE NO OON BENEFITS | Self Pay Non-Par with Ins |  | Non-PAR |
 | Meritain Health - Sarasota Memorial (EXTENSIVE MEDICAL PLAN) PLEASE ASK THE PATIENT IF THE CARD HAS "SMH" ON THEIR CARD AND THE CARD MUST SAY EXTENDED MEDICAL PLAN. THE EXTENDED MEDICAL PLAN APPLIES TOWARDS THE PATIENT'S TIER 2 BENEFITS - AETNA CHOICE POS II | Meritain Health SMH Extd  Pln | Authorization MAY be Required | Non-PAR |
 | Multiplan PLEASE ASK THE PATIENT FOR THE HEALTH PLAN NAME ON THE CARD AND LOAD THE PLAN INTO NEXTGEN ACCORDING TO THEIR HEALTH PLAN | PLEASE ASK THE PATIENT FOR THE HEALTH PLAN NAME ON THE CARD. IF THE PAYER IS NOT LOADED INTO THE SYSTEM, USE: INS NOT IN NEXTGEN. SEE: Generic Insurance Protocol - PAC, Front Desk, and Customer Service.pdf |  | PAR |
 | NALC Health Benefit Plan (Cigna Open Access Plus Network) | NALC Health Benefit Plan- Cigna | No Ref/No Auth Required | PAR |
-| Optum VA-VETERANS AFFAIRS Community Care Network (CCN) | Optum VA Community Care | Authorization Required | Non-PAR |
+| Optum VA-VETERANS AFFAIRS Community Care Network (CCN) | Optum VA Community Care | Authorization Required | PAR |
 | PHCS PLEASE ASK THE PATIENT FOR THE HEALTH PLAN NAME ON THE CARD AND LOAD THE PLAN INTO NEXTGEN ACCORDING TO THEIR HEALTH PLAN | PLEASE ASK THE PATIENT FOR THE HEALTH PLAN NAME ON THE CARD. IF THE PAYER IS NOT LOADED INTO THE SYSTEM, USE: INS NOT IN NEXTGEN. SEE: Generic Insurance Protocol - PAC, Front Desk, and Customer Service.pdf |  | PAR |
 | Railroad Medicare - CONFIRM WITH PT AT THE BOTTOM OF THE ID CARD IT SAYS "RAILROAD RETIREMENT BOARD" | Railroad Medicare | No Ref/No Auth Required | PAR |
 | Spectera Vision | Spectera Vision | No Ref/No Auth Required | PAR |
@@ -147,7 +147,7 @@
 | The Empire Plan-NYSHIP | UHC Empire Plan-NYSHIP-87726 | No Ref/No Auth Required | Non-PAR |
 | Tricare Prime LEA is OUT OF NETWORK. PATIENT HAS OON BENEFITS. PLEASE INFORM PATIENT OF POSSIBLE HIGHER OUT OF POCKET COSTS (see note). covered for a Routine Eye Exam every two years | Tricare Prime HMO-REFERRAL REQ | Referral Required | Non-PAR -OON Benefits |
 | Tricare Select Routine Eye Exams are NON-covered. FOR THE PROVIDERS THAT ARE NON-PAR PATIENT HAS OON BENEFITS. PLEASE INFORM PATIENT OF POSSIBLE HIGHER OUT OF POCKET COSTS | Tricare Select | No Ref/No Auth Required | Non-PAR -OON Benefits |
-| UHP Management (PHCS Network) | UHP Management PPO | No Ref/No Auth Required | Non-PAR |
+| UHP Management (PHCS Network) | UHP Management PPO | No Ref/No Auth Required | PAR |
 | UMR (United Healthcare Core Network) | UHC UMR-39026 | No Ref/No Auth Required | PAR |
 | United Healthcare Care Advantage FL-E001 (PPO I-SNP) | UHC Medicare Advantage PPO-87726 | No Ref/No Auth Required | PAR |
 | United Healthcare Charter EPO/Charter POS | UHC PPO/POS-87726 | No Ref/No Auth Required | PAR |
@@ -179,7 +179,7 @@
 | United Healthcare NexusACO NR EPO,NR POS, R EPO, R POS/NR HMO/R HMO | UHC Comm HMO Referral REQ | Referral Required | PAR |
 | United Healthcare NexusACO OA POS/ OA EPO | UHC PPO/POS-87726 | No Ref/No Auth Required | PAR |
 | United Healthcare NexusACO OA HMO | UHC Commercial HMO | No Ref/No Auth Required | PAR |
-| United Healthcare NHP-Neighborhood Health Plan/ Direct Access, Gated L1, L2, L3 | Self Pay Non-Par with Ins |  | Non-PAR |
+| United Healthcare NHP-Neighborhood Health Plan/ Direct Access, Gated L1, L2, L3 | Self Pay Non-Par with Ins (Holderby and Ossareh are PAR |  | Non-PAR |
 | United Healthcare Nursing Home Plan EX-F006 (HMO-POS I-SNP)/F001-F002 (PPO I-SNP) | UHC Nursing Home Plan FL PPO-87726 | No Ref/No Auth Required | PAR |
 | United Healthcare PPO | UHC PPO/POS-87726 | No Ref/No Auth Required | PAR |
 | United Healthcare Select EPO/Select Plus POS | UHC PPO/POS-87726 | No Ref/No Auth Required | PAR |

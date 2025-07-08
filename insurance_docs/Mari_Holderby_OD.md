@@ -115,7 +115,7 @@
 | Cigna Medicare - Courage/Preferred/Preferred Group Plans/Preferred Savings(HMO) | Cigna Medicare HMO REFERRAL REQ | Referral Required | PAR |
 | Cigna Medicare - TotalCare (HMO D-SNP) | Primary: Cigna Dual MDCR HMO Primary-REFERRAL REQ                                                Secondary: Cigna Dual Medicaid HMO Secondary | Referral Required | PAR |
 | Cigna Medicare - TotalCare Plus (HMO D-SNP) | Primary: Cigna Dual MDCR HMO Primary-REFERRAL REQ                                                Secondary: Cigna Dual Medicaid HMO Secondary | Referral Required | PAR |
-| Cigna Medicare PPO - ALL PLANS - AS OF 01/01/25- PLAN IS NO LONGER OFFERED IN FL MARKETS | Self Pay Non-Par with Ins |  | Non-PAR |
+| Cigna Medicare PPO - ALL PLANS - AS OF 01/01/25- PLAN IS NO LONGER OFFERED IN FL MARKETS | Self Pay Non-Par with Ins |  | PAR |
 | Eyemed Vision | Eyemed Vision | No Ref/No Auth Required | PAR |
 | FEP Blue Vision | Self Pay Non-Par with Ins |  | Non-PAR |
 | First Health Network (through Aetna and/or PHP Network) PLEASE ASK THE PATIENT FOR THE HEALTH PLAN NAME ON THE CARD AND LOAD THE PLAN INTO NEXTGEN ACCORDING TO THEIR HEALTH PLAN | PLEASE ASK THE PATIENT FOR THE HEALTH PLAN NAME ON THE CARD. IF THE PAYER IS NOT LOADED INTO THE SYSTEM, USE: INS NOT IN NEXTGEN. SEE: Generic Insurance Protocol - PAC, Front Desk, and Customer Service.pdf |  | PAR |
@@ -179,7 +179,7 @@
 | United Healthcare NexusACO NR EPO,NR POS, R EPO, R POS/NR HMO/R HMO | UHC Comm HMO Referral REQ | Referral Required | PAR |
 | United Healthcare NexusACO OA POS/ OA EPO | UHC PPO/POS-87726 | No Ref/No Auth Required | PAR |
 | United Healthcare NexusACO OA HMO | UHC Commercial HMO | No Ref/No Auth Required | PAR |
-| United Healthcare NHP-Neighborhood Health Plan/ Direct Access, Gated L1, L2, L3 | Self Pay Non-Par with Ins |  | Non-PAR |
+| United Healthcare NHP-Neighborhood Health Plan/ Direct Access, Gated L1, L2, L3 | Self Pay Non-Par with Ins (Holderby and Ossareh are PAR |  | PAR |
 | United Healthcare Nursing Home Plan EX-F006 (HMO-POS I-SNP)/F001-F002 (PPO I-SNP) | UHC Nursing Home Plan FL PPO-87726 | No Ref/No Auth Required | PAR |
 | United Healthcare PPO | UHC PPO/POS-87726 | No Ref/No Auth Required | PAR |
 | United Healthcare Select EPO/Select Plus POS | UHC PPO/POS-87726 | No Ref/No Auth Required | PAR |

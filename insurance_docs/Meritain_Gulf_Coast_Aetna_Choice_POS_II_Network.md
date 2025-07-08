@@ -58,9 +58,9 @@
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
-| Alexandria Rawls, OD | Meritain Health Commercial - Aetna | No Ref/No Auth Required | Non-PAR |
+| Alexandria Rawls, OD | Meritain Health Commercial - Aetna | No Ref/No Auth Required | PAR |
 | Christine Bui, OD | Meritain Health Commercial - Aetna | No Ref/No Auth Required | PAR |
-| Diba Ossareh, OD | Meritain Health Commercial - Aetna | No Ref/No Auth Required | Non-PAR |
+| Diba Ossareh, OD | Meritain Health Commercial - Aetna | No Ref/No Auth Required | PAR |
 | Jose Vazques-Diaz, MD | Meritain Health Commercial - Aetna | No Ref/No Auth Required | PAR |
 | Mari Holderby, OD | Meritain Health Commercial - Aetna | No Ref/No Auth Required | PAR |
 | Scot Holman, MD | Meritain Health Commercial - Aetna | No Ref/No Auth Required | PAR |

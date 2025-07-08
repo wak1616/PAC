@@ -10,7 +10,7 @@
 |----------|-------------|--------------|--------|
 | Alexandria Rawls, OD | Tricare Prime HMO-REFERRAL REQ | Referral Required | Non-PAR -OON Benefits |
 | Christine Bui, OD | Tricare Prime HMO-REFERRAL REQ | Referral Required | Non-PAR -OON Benefits |
-| Diba Ossareh, OD | Tricare Prime HMO-REFERRAL REQ | Referral Required | Non-PAR |
+| Diba Ossareh, OD | Tricare Prime HMO-REFERRAL REQ | Referral Required | Non-PAR -OON Benefits |
 | Jose Vazques-Diaz, MD | Tricare Prime HMO-REFERRAL REQ | Referral Required | Non-PAR -OON Benefits |
 | Mari Holderby, OD | Tricare Prime HMO-REFERRAL REQ | Referral Required | Non-PAR -OON Benefits |
 | Scot Holman, MD | Tricare Prime HMO-REFERRAL REQ | Referral Required | Non-PAR -OON Benefits |

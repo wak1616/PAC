@@ -1,6 +1,6 @@
 # Insurance Guide By Insurance Plan
 
-*Last Updated: 07/07/2025 (based on data from Excel file: [US Eye Insurance Guide.xlsx](https://useyecorp.sharepoint.com/:x:/r/RCM/Shared%20Documents/Insurance%20Guides/US%20Eye%20Insurance%20Guide.xlsx?d=w2a2138d41fa04bfa919fc4966998346a&csf=1&web=1&e=73a3Gf&nav=MTVfezIwMjg5MTIyLTdDRkEtNEE0OS1CODBGLTdFNTc3Njc3OTJDNX0))*
+*Last Updated: 07/08/2025 (based on data from Excel file: [US Eye Insurance Guide.xlsx](https://useyecorp.sharepoint.com/:x:/r/RCM/Shared%20Documents/Insurance%20Guides/US%20Eye%20Insurance%20Guide.xlsx?d=w2a2138d41fa04bfa919fc4966998346a&csf=1&web=1&e=73a3Gf&nav=MTVfezIwMjg5MTIyLTdDRkEtNEE0OS1CODBGLTdFNTc3Njc3OTJDNX0))*
 
 *This guide lists insurance participation by insurance plan. Click an insurance plan to view all providers who accept that insurance, grouped by location.*
 
@@ -386,6 +386,7 @@
 * [Priority Health Medicare- Priority Medicare Value/Travel Pass (Multiplan) HMO -POS](insurance_docs/Priority_Health_Medicare-_Priority_Medicare_Value_Travel_Pass_Multiplan_HMO_-POS.md)
 * [ROTC/Military Screening - Dr. MIDDAUGH ONLY. pATIENT WILL NOT HAVE AN ID CARD AS THEY ARE PRESENTING FOR A ROTC/MILITARY SCREENING](insurance_docs/ROTC_Military_Screening_-_Dr._MIDDAUGH_ONLY._pATIE__THEY_ARE_PRESENTING_FOR_A_ROTC_MILITARY_SCREENING.md)
 * [Railroad Medicare - CONFIRM WITH PT AT THE BOTTOM OF THE ID CARD IT SAYS "RAILROAD RETIREMENT BOARD"](insurance_docs/Railroad_Medicare_-_CONFIRM_WITH_PT_AT_THE_BOTTOM_OF_THE_ID_CARD_IT_SAYS_RAILROAD_RETIREMENT_BOARD.md)
+* [Simply Health Care Medicare PPO (ICARE Network)](insurance_docs/Simply_Health_Care_Medicare_PPO_ICARE_Network.md)
 * [Simply Healthcare](insurance_docs/Simply_Healthcare.md)
 * [Spectera Vision](insurance_docs/Spectera_Vision.md)
 * [Surest (United Healthcare Choice Plus Network)](insurance_docs/Surest_United_Healthcare_Choice_Plus_Network.md)

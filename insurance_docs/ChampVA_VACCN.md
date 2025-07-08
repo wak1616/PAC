@@ -58,7 +58,7 @@
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
-| Alexandria Rawls, OD | ChampVA | No Ref/No Auth Required | Non-PAR |
+| Alexandria Rawls, OD | ChampVA | No Ref/No Auth Required | PAR |
 | Christine Bui, OD | ChampVA | No Ref/No Auth Required | PAR |
 | Diba Ossareh, OD | ChampVA | No Ref/No Auth Required | PAR |
 | Jose Vazques-Diaz, MD | ChampVA | No Ref/No Auth Required | PAR |
