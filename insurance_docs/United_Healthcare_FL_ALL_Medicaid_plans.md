@@ -1,15 +1,21 @@
-# United Healthcare FL ALL Medicaid plans - Insurance Guide
+# United Healthcare FL ALL Medicaid Plans - Insurance Guide
 
-*This page lists providers who accept United Healthcare FL ALL Medicaid plans, grouped by location.*
+*This page lists providers who accept United Healthcare FL ALL Medicaid Plans, grouped by location.*
 
-<details open><summary>Provider Details for United Healthcare FL ALL Medicaid plans</summary>
+<details open><summary>Provider Details for United Healthcare FL ALL Medicaid Plans</summary>
 
-## Retina Health Center
+## Lake Eye 
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
-| Alexander Eaton, MD | Self Pay Non-Par with Ins |  | Non-PAR |
-| Veronica Kon Graversen, MD | Self Pay Non-Par with Ins |  | Non-PAR |
+| Alexandria Rawls, OD | Self Pay Non-Par with Ins |  | Non-PAR |
+| Christine Bui, OD | Self Pay Non-Par with Ins |  | Non-PAR |
+| Diba Ossareh, OD | Self Pay Non-Par with Ins |  | Non-PAR |
+| Jose Vazques-Diaz, MD | Self Pay Non-Par with Ins |  | Non-PAR |
+| Mari Holderby, OD | Self Pay Non-Par with Ins |  | Non-PAR |
+| Scot Holman, MD | Self Pay Non-Par with Ins |  | Non-PAR |
+| Scott Wehrly, MD | Self Pay Non-Par with Ins |  | Non-PAR |
+| Vinay Gutti, MD | Self Pay Non-Par with Ins |  | Non-PAR |
 
 </details>
 
