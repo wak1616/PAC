@@ -1,4 +1,4 @@
-# Patient Access Center Master Guide 📋
+# Patient Access Center Master Guide
 
 **Last Updated:** June 26, 2025
 
@@ -89,8 +89,8 @@ This protocol outlines the standard steps when scheduling patients who may or ma
 
 ### Scope
 
-This protocol details the steps taken to properly triage and schedule a patient with an acute issue.  
-_**NO** medical advice should be given to the patient by PAC agents._
+This protocol details the steps taken to properly triage and schedule a patient with an acute issue.\
+&#xNAN;_**NO** medical advice should be given to the patient by PAC agents._
 
 ***
 
@@ -340,45 +340,53 @@ Follow these steps for **every** patient call to ensure consistent, professional
 
 1. **Ask if additional assistance is needed**
    * "Is there anything else I can help you with today?"
-
 2. **Encourage Phreesia pre-visit workflow** (5 days before appointment)
    * "You'll receive a message from Phreesia 5 days before your visit. Please complete registration online to streamline check-in and help us prepare for your care. If you have any trouble with registration, please contact us."
-
 3. **Confirm appointment details**
    * Date, time, and location
    * If location differs from their usual office, **emphasize** the change
-
 4. **Final confirmation**
-   * "Thank you, [Mr./Ms. Patient Last Name]. We look forward to seeing you on [date] at [time] at our [location] office."
+   * "Thank you, \[Mr./Ms. Patient Last Name]. We look forward to seeing you on \[date] at \[time] at our \[location] office."
 
 ### Specialty-Specific Reminders
 
 Include these additional reminders based on the appointment type:
 
 #### Dilation Requirements
+
 For appointments requiring dilation (most consultations and comprehensive exams):
+
 * "As part of the examination process, your eyes will be dilated, causing blurry vision and light sensitivity for several hours. Please arrange transportation home, as you should not drive afterward."
 
 #### Extended Appointment Duration
+
 For consultations (typically 2-3 hours):
+
 * "Due to the complexity of the exam and comprehensive diagnostic testing, your appointment may last 2-3 hours. This ensures we provide the highest level of care."
 
 #### Contact Lens Discontinuation
+
 When contact lens discontinuation is required:
+
 * Confirm discontinuation period was explained
-* "Remember to discontinue your contact lenses [timeframe] before your appointment as discussed."
+* "Remember to discontinue your contact lenses \[timeframe] before your appointment as discussed."
 * For detailed contact lens discontinuation protocols, refer to the [Contact Lens Discontinuation Guide](Contact_Lens_Discontinuation_Guide.md)
 
 #### Self-Pay/Fee Notifications
+
 For appointments with fees not covered by insurance:
+
 * Confirm fee amount and payment expectations
-* "As discussed, the consultation fee is $[amount] and payment is due at check-in."
+* "As discussed, the consultation fee is $\[amount] and payment is due at check-in."
 
 #### Routine vs. Medical Coverage
+
 For routine eye exams:
-* "Your routine eye exam is scheduled for [date/time]. If a medical condition is found, the physician will let you know about any insurance or financial responsibilities before proceeding with treatment that day. You can choose to proceed immediately or schedule the care for another time."
+
+* "Your routine eye exam is scheduled for \[date/time]. If a medical condition is found, the physician will let you know about any insurance or financial responsibilities before proceeding with treatment that day. You can choose to proceed immediately or schedule the care for another time."
 
 ### Quick Reference
+
 For detailed specialty-specific protocols, refer to the individual scheduling sections in this guide.
 
 ***
@@ -403,7 +411,7 @@ These exams are usually performed annually and help maintain overall eye health.
 | Location | MD/DO Providers                                                 | OD Providers                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 | -------- | --------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **CFS**  | <p>Dr. Jon Berlie<br>Dr. George Brinnig<br>Dr. Julie Carter</p> | <p>Dr. Len Brown<br>Dr. Daniel Hadland<br>Dr. Melissa Hammond<br>Dr. Erin Hardie<br>Dr. George Hurwitz<br>Dr. Todd Lang<br>Dr. James Lenhart<br>Dr. Lori Long<br>Dr. Michael Maloney<br>Dr. Mary McVey<br>Dr. David Mertzlufft<br>Dr. Bradley Middaugh<br>Dr. Patrick Nelson<br>Dr. Logan Page<br>Dr. Charles Putrino<br>Dr. Rachel Randolph<br>Dr. Kyle Schaub<br>Dr. Joseph Sowka<br>Dr. Scott Stevens<br>Dr. Lori Vollmer<br>Dr. Trisha Werner</p> |
-| **LEA**  | Dr. Jose Vazquez (does NOT fit contact lenses)                  | <p>Dr. Christine Bui<br>Dr. Mari Holderby<br>Dr. Diba Ossareh<br>Dr. Alexandria Rawls</p>                                                                                                                                                                                                                                                                                                                                                                 |
+| **LEA**  | Dr. Jose Vazquez (does NOT fit contact lenses)                  | <p>Dr. Christine Bui<br>Dr. Mari Holderby<br>Dr. Diba Ossareh<br>Dr. Alexandria Rawls</p>                                                                                                                                                                                                                                                                                                                                                             |
 | **RHC**  | _(None listed)_                                                 | _(None listed)_                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 | **SFEC** | Dr. Albert Smolyar                                              | <p>Dr. Sarah Johnson<br>Dr. Brian Marhue<br>Dr. Penny Orr<br>Dr. Hunter Vittone</p>                                                                                                                                                                                                                                                                                                                                                                   |
 
@@ -443,7 +451,7 @@ These exams are usually performed annually and help maintain overall eye health.
 
 #### Closing Reminders
 
-Follow the [Standard Closing Procedures](#standard-closing-procedures-scripting) with these specific additions:
+Follow the [Standard Closing Procedures](./#standard-closing-procedures-scripting) with these specific additions:
 
 * **Routine vs. Medical Coverage Notice**: Include the routine vs. medical coverage script for routine eye exams
 * **Dilation Requirements**: Inform patient about likely dilation and 90-120 minute duration
@@ -482,7 +490,7 @@ Appointments will typically be scheduled with the patient's existing provider un
 
 #### Closing Reminders
 
-Follow the [Standard Closing Procedures](#standard-closing-procedures-scripting) with these specific additions:
+Follow the [Standard Closing Procedures](./#standard-closing-procedures-scripting) with these specific additions:
 
 * **Routine vs. Medical Coverage Notice**: Include the routine vs. medical coverage script for routine eye exams
 * If location differs from usual, emphasize the change
@@ -655,8 +663,7 @@ US Eye offers **Light Adjustable Lens**, **Advanced**, **Custom**, and **Basic**
 1. **Do cataract consultations require dilation?**\
    Yes. _"As part of the examination process, your eyes will be dilated. This can cause blurry vision and light sensitivity for several hours. Please arrange transportation, as you should not drive afterward."_
    * Advise patient dilation is required. _(See_ [_Dilation Key_](./#dilation-key) _for standard scripting)_
-2. **How long is the appointment?**
-   "Your consultation will take approximately 2–3 hours. This time allows for a comprehensive exam and all necessary testing to ensure the highest level of care."
+2. **How long is the appointment?** "Your consultation will take approximately 2–3 hours. This time allows for a comprehensive exam and all necessary testing to ensure the highest level of care."
 
 #### Pre-Op / Post-Op Care
 
@@ -672,7 +679,7 @@ US Eye offers **Light Adjustable Lens**, **Advanced**, **Custom**, and **Basic**
 
 #### Closing Reminders
 
-Follow the [Standard Closing Procedures](#standard-closing-procedures-scripting) with these specific additions:
+Follow the [Standard Closing Procedures](./#standard-closing-procedures-scripting) with these specific additions:
 
 * **Dilation Requirements**: Inform patient about dilation and 2-3 hour duration
 * **Contact Lens Discontinuation**: Remind about contact lens requirements if applicable
@@ -691,13 +698,13 @@ Refractive procedures help improve the patient's vision to minimize dependence o
 
 #### Providers
 
-* _* Performs CLE/RLE Only (denoted by an asterisk `*` after the name)_
+* _\* Performs CLE/RLE Only (denoted by an asterisk `*` after the name)_
 * _† Does not perform EVO ICL (denoted by a dagger `†`)_
 
 | Location | Providers                                                                                                                                                 |
 | -------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **CFS**  | <p>Dr. Joaquin De Rojas<br>Dr. Priya Mathews<br>Dr. David Shoemaker*<br>Dr. Elizabeth Davis<br>Dr. Joshua Kim*<br>Dr. Jon Berlie<sup>†</sup> (Naples)</p> |
-| **LEA**  | <p>Dr. Vinay Gutti*<br>Dr. Scot Holman<br>Dr. Scott Wehrly*</p>                                                                                   |
+| **LEA**  | <p>Dr. Vinay Gutti*<br>Dr. Scot Holman<br>Dr. Scott Wehrly*</p>                                                                                           |
 | **SFEC** | Dr. Albert Smolyar                                                                                                                                        |
 
 #### Important Reminders
@@ -756,8 +763,7 @@ Refractive procedures help improve the patient's vision to minimize dependence o
 1. **Will my eyes be dilated?**\
    Yes. _"As part of the examination, your eyes may be dilated to allow for a thorough assessment. Your vision may be blurry and your eyes sensitive to light for several hours. Please arrange transportation accordingly."_
    * Advise patient dilation is likely required. _(See_ [_Dilation Key_](./#dilation-key) _for standard scripting)_
-2. **How long is the consultation?**
-   "Due to the complexity of the exam and the comprehensive nature of diagnostic testing, your consultation may last up to three hours."
+2. **How long is the consultation?** "Due to the complexity of the exam and the comprehensive nature of diagnostic testing, your consultation may last up to three hours."
 
 #### Pre-Op / Post-Op Care
 
@@ -771,7 +777,7 @@ Refractive procedures help improve the patient's vision to minimize dependence o
 
 #### Closing Reminders
 
-Follow the [Standard Closing Procedures](#standard-closing-procedures-scripting) with these specific additions:
+Follow the [Standard Closing Procedures](./#standard-closing-procedures-scripting) with these specific additions:
 
 * **Self-Pay Fee**: Confirm consultation fee and payment expectations
 * **Dilation Requirements**: Inform patient about dilation and 2-3 hour duration
@@ -841,21 +847,20 @@ For cornea consultations - especially for keratoconus evaluations - patients sho
   * PRP / Serum Tears
   * Punctal plugs/Punctal occlusion/Lacrifill
 * **Related Diagnoses (dx):**
-   * Dry Eye Disease
-   * Ocular surface disease
-   * Meibomian Gland Dysfunction
-   * Blepharitis
-   * Sjogren's Syndrome
-   * Ocular Rosacea
-
+  * Dry Eye Disease
+  * Ocular surface disease
+  * Meibomian Gland Dysfunction
+  * Blepharitis
+  * Sjogren's Syndrome
+  * Ocular Rosacea
 * **Scheduling Protocol**:
-   * **New Patients WITHOUT a formal diagnosis of dry eye** or related dx:
-      * Schedule with an internal optometrist for a comprehensive exam (see [Primary Eye Care Protocol](./#scheduling-primary-eye-care))
-   * **New Patients WITH a formal diagnosis of dry eye** or related dx who are being referred directly for a procedure or treatment:
-      * Forward call to the Referral Coordinator Group (Ext: 103624)
-   * **Established patients who want to undergo a repeat treatment** for dry eye or related dx:
-      * Schedule directly with Maureen Traina, PA in CFS - US41 Sarsota
-      * Example: Patinet requests a new batch of PRP tears (lasts for ~3 months)
+  * **New Patients WITHOUT a formal diagnosis of dry eye** or related dx:
+    * Schedule with an internal optometrist for a comprehensive exam (see [Primary Eye Care Protocol](./#scheduling-primary-eye-care))
+  * **New Patients WITH a formal diagnosis of dry eye** or related dx who are being referred directly for a procedure or treatment:
+    * Forward call to the Referral Coordinator Group (Ext: 103624)
+  * **Established patients who want to undergo a repeat treatment** for dry eye or related dx:
+    * Schedule directly with Maureen Traina, PA in CFS - US41 Sarsota
+    * Example: Patinet requests a new batch of PRP tears (lasts for \~3 months)
 
 #### FAQs
 
@@ -871,6 +876,7 @@ For cornea consultations - especially for keratoconus evaluations - patients sho
     > "Due to the complexity of the exam and the comprehensive nature of the diagnostic testing we'll be conducting, your consultation is likely to last between two to three hours. This extended time is necessary to ensure we gather all the information needed to provide you with the best possible care."
 
 #### Closing Reminders
+
 _(See_ [_Standard Closing Procedures_](./#standard-closing-procedures-scripting) _for complete scripting)_
 
 ### Scheduling Glaucoma
@@ -928,6 +934,7 @@ All Pre-Op, Surgery, and 1-Day Post-Op visits are managed by the **surgical coun
    Typically **2–3 hours**, due to comprehensive diagnostic testing.
 
 #### Closing Reminders
+
 _(See_ [_Standard Closing Procedures_](./#standard-closing-procedures-scripting) _for complete scripting)_
 
 ### Scheduling Retina
@@ -1018,7 +1025,7 @@ The **retina** is a delicate, light-sensitive tissue lining the interior of the 
 
 #### Closing Reminders
 
-Follow the [Standard Closing Procedures](#standard-closing-procedures-scripting) with these specific additions:
+Follow the [Standard Closing Procedures](./#standard-closing-procedures-scripting) with these specific additions:
 
 * **Dilation Requirements**: Inform patient about dilation and 2-3 hour duration (if applicable)
 * **Self-Pay Fee**: Confirm consultation fee and payment expectations (if applicable)
@@ -1102,7 +1109,8 @@ Oculoplastics consultations focus on facial and eyelid conditions and treatments
 
 #### Closing Reminders
 
-Follow the [Standard Closing Procedures](#standard-closing-procedures-scripting) with these specific additions:
+Follow the [Standard Closing Procedures](./#standard-closing-procedures-scripting) with these specific additions:
+
 * **Self-Pay Fee**: Confirm consultation fee and payment expectations (if applicable)
 * If location differs from usual, emphasize the change
 
@@ -1173,7 +1181,8 @@ Include the patient's:
 
 #### Closing Reminders
 
-Follow the [Standard Closing Procedures](#standard-closing-procedures-scripting) with these specific additions:
+Follow the [Standard Closing Procedures](./#standard-closing-procedures-scripting) with these specific additions:
+
 * **Self-Pay Fee**: Confirm consultation fee and payment expectations (if applicable)
 * If location differs from usual, emphasize the change
 
@@ -1273,7 +1282,7 @@ Below are the listed providers at Center For Sight, along with the services they
 
 #### Closing Reminders
 
-  * Emphasize if the location differs from their usual office.
+* Emphasize if the location differs from their usual office.
 * Example Closing:\
   "Thank you \[Mr./Ms. Patient Last Name], we look forward to seeing you for your Aesthetic consultation on \[date] at \[time] at our \[office] location." _(Follow_ [_Standard Closing Procedures_](./#standard-closing-procedures-scripting)_)_
 
@@ -1303,25 +1312,25 @@ Below are the listed providers at Center For Sight, along with the services they
 
 ### RCM Inquiries – Financial Requests
 
-_**Important Reminder:** The patient’s insurance company is the only entity that can provide accurate and up-to-date information about their policy, coverage, or costs. Since the insurance company writes and manages the patient’s policy, they have access to all the necessary details and are best positioned to answer questions. Please do not send these types of inquiries to RCM, instead put it back on the patient to reach out to their insurance company._       
+_**Important Reminder:** The patient’s insurance company is the only entity that can provide accurate and up-to-date information about their policy, coverage, or costs. Since the insurance company writes and manages the patient’s policy, they have access to all the necessary details and are best positioned to answer questions. Please do not send these types of inquiries to RCM, instead put it back on the patient to reach out to their insurance company._
 
-| **Request**                                                                                            | **Where to Direct**                                                                                                                                                                                                     |
-| ---------------------------------------------------------------------------------------                | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Surgery Costs / Estimates**                                                                          | <p>1. Submit request to: <a href="https://app.smartsheet.com/b/form/69536231a6ef45769be310dd757e8386">RCM Support Inquiries</a><br>2. Choose <strong>Financial Counseling – Estimate Review/Questions</strong></p>      |
-| **Payments for Upcoming Surgery** (not from a statement)                                               | <p>WARM transfer the call to extension <strong>103863</strong></p>                                                                                                                                                      |
-| **Center For Sight (CFS) ONLY**: Cataract surgery with CV/ADV/LAL lens payments for upcoming surgeries | <p>1. Send an <strong>ICP Communication</strong><br> 2. Message and notify <strong>"CFS Surgical Counselors"</strong></p>                                                                                               |
-| **Cosmetic Oculoplastics Surgeries**                                                                   | <p>1. Send <strong>ICP Communication</strong><br>2. Notify either <strong>CFS Dr. Fezza Team</strong> (for Dr. Fezza) or <strong>CFS Surgical Counselors</strong> (for Dr. Berlie)</p>                                  |                                                                                                                                                               
-| **Insurance Verification** (Referrals or Authorization for upcoming appt)                              | <p>1. Submit request to: <a href="https://app.smartsheet.com/b/form/69536231a6ef45769be310dd757e8386">RCM Support Inquiries</a><br>2. Choose <strong>Insurance Verification – Benefits Verification</strong></p>        |                                                                     
-| **Retina Provider Questions** (Insurance Verification, Authorization, or Financial Counseling)         | <p> Submit request to: <a href="https://app.smartsheet.com/b/form/69536231a6ef45769be310dd757e8386">RCM Support Inquiries</a></p>                                                                                       |                                                                                                                     
-| **Billing / Customer Service** (past due balance, statements, itemized statements)                     | Transfer to **BILLING Quick Connect**                                                                                                                                                                                   |
-| **Audit Calls from Insurances**                                                                        | Email info to **Heather Hickman** (Accounts Receivable Manager)                                                                                                                                                         |                                                                              
-
+| **Request**                                                                                            | **Where to Direct**                                                                                                                                                                                                |
+| ------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Surgery Costs / Estimates**                                                                          | <p>1. Submit request to: <a href="https://app.smartsheet.com/b/form/69536231a6ef45769be310dd757e8386">RCM Support Inquiries</a><br>2. Choose <strong>Financial Counseling – Estimate Review/Questions</strong></p> |
+| **Payments for Upcoming Surgery** (not from a statement)                                               | WARM transfer the call to extension **103863**                                                                                                                                                                     |
+| **Center For Sight (CFS) ONLY**: Cataract surgery with CV/ADV/LAL lens payments for upcoming surgeries | <p>1. Send an <strong>ICP Communication</strong><br>2. Message and notify <strong>"CFS Surgical Counselors"</strong></p>                                                                                           |
+| **Cosmetic Oculoplastics Surgeries**                                                                   | <p>1. Send <strong>ICP Communication</strong><br>2. Notify either <strong>CFS Dr. Fezza Team</strong> (for Dr. Fezza) or <strong>CFS Surgical Counselors</strong> (for Dr. Berlie)</p>                             |
+| **Insurance Verification** (Referrals or Authorization for upcoming appt)                              | <p>1. Submit request to: <a href="https://app.smartsheet.com/b/form/69536231a6ef45769be310dd757e8386">RCM Support Inquiries</a><br>2. Choose <strong>Insurance Verification – Benefits Verification</strong></p>   |
+| **Retina Provider Questions** (Insurance Verification, Authorization, or Financial Counseling)         | Submit request to: [RCM Support Inquiries](https://app.smartsheet.com/b/form/69536231a6ef45769be310dd757e8386)                                                                                                     |
+| **Billing / Customer Service** (past due balance, statements, itemized statements)                     | Transfer to **BILLING Quick Connect**                                                                                                                                                                              |
+| **Audit Calls from Insurances**                                                                        | Email info to **Heather Hickman** (Accounts Receivable Manager)                                                                                                                                                    |
 
 ### ICP Patient Tasks Related to Clinical Questions / Medication Refills / DMV Forms
 
 Certain requests **only** clinical staff or providers can handle. Refer to the table below to know how to notify the correct group in ICP (IntelleChartPRO). Clinical staff monitor ICP tasks throughout the day and aim to respond within the same day if received in the morning or by the next day if received in the afternoon.
 
 **Important Notes**
+
 * **Do Not** send ICP communications to groups prefixed with `zzz` (inactive).
 * If a provider no longer works here and the patient hasn't established care with another provider, send the message to the [**Patient Care Team by region** ](<Provider Reference Guide.md>)(Florida)
 * Patients should be informed that the request is typically handled within **24–48 hours**.
