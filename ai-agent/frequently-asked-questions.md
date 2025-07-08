@@ -1,33 +1,6 @@
 # Frequently Asked Questions
 
-### What doctors are in the Sarasota location?
-
-The doctors at the Sarasota location (Center For Sight-US41 Sarasota) include:
-
-1. Dr. David Shoemaker, MD
-2. Dr. Priya Mathews, MD
-3. Dr. William Soscia, MD
-4. Dr. Joaquin De Rojas, MD
-5. Dr. John Fezza, MD
-6. Dr. Jon Berlie, MD
-7. Dr. Joseph Sowka, OD
-8. Dr. Pia Simonson, LE
-
-### What's Dr. Elizabeth Davis's NPI number?
-
-Dr. Elizabeth Davis's NPI number is 1134114259.
-
-(Source: gitbook\_scrape\_20250625.md → Provider Reference Guide | PAC Guide)\
-(https://us-eye-florida.gitbook.io/pac-guide/provider-reference-guide)
-
-### What's Dr. Lenhart's NPI number?
-
-Dr. James Lenhart, OD's NPI number is 1326037391.
-
-(Source: gitbook\_scrape\_20250625.md → Provider Reference Guide | PAC Guide)\
-(https://us-eye-florida.gitbook.io/pac-guide/provider-reference-guide)
-
-### Appointment Scheduling
+### &#x20;Appointment Scheduling
 
 ### Can I schedule cataract surgery directly?
 
