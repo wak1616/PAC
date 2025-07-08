@@ -1,6 +1,6 @@
 # Frequently Asked Questions
 
-#### What doctors are in the Sarasota location?
+### What doctors are in the Sarasota location?
 
 The doctors at the Sarasota location (Center For Sight-US41 Sarasota) include:
 
@@ -13,14 +13,14 @@ The doctors at the Sarasota location (Center For Sight-US41 Sarasota) include:
 7. Dr. Joseph Sowka, OD
 8. Dr. Pia Simonson, LE
 
-#### What's Dr. Elizabeth Davis's NPI number?
+### What's Dr. Elizabeth Davis's NPI number?
 
 Dr. Elizabeth Davis's NPI number is 1134114259.
 
 (Source: gitbook\_scrape\_20250625.md → Provider Reference Guide | PAC Guide)\
 (https://us-eye-florida.gitbook.io/pac-guide/provider-reference-guide)
 
-#### What's Dr. Lenhart's NPI number?
+### What's Dr. Lenhart's NPI number?
 
 Dr. James Lenhart, OD's NPI number is 1326037391.
 
@@ -29,7 +29,7 @@ Dr. James Lenhart, OD's NPI number is 1326037391.
 
 ### Appointment Scheduling
 
-#### Can I schedule cataract surgery directly?
+### Can I schedule cataract surgery directly?
 
 For cataract surgery scheduling, patients cannot be scheduled directly by the Patient Access Center. Instead:
 
@@ -38,11 +38,11 @@ For cataract surgery scheduling, patients cannot be scheduled directly by the Pa
 * You can assist by scheduling the comprehensive exam or follow-up visit with the appropriate provider.
 * Make sure to document the patient's interest in cataract surgery in the appointment notes.
 
-Would you like me to help schedule the initial exam or provide more details on the process?
+&#x20;
 
 (Source: Patient Access Center Master Guide → Cataract Surgery Scheduling)
 
-#### Can I provide surgery times to patients?
+### Can I provide surgery times to patients?
 
 \*As a PAC agent, never provide surgery times
 
@@ -58,7 +58,7 @@ For Santa Fe Surgery Center (Lake Eye Associates): email santafeasc@useye.com.
 
 Include patient name, DOB, surgery center, and surgeon.
 
-#### How do I handle contact lens order status inquiries?
+### How do I handle contact lens order status inquiries?
 
 For a patient needing an update on the status of their contact lens order, the Patient Access Center handles these inquiries directly. You should:
 
@@ -66,24 +66,22 @@ For a patient needing an update on the status of their contact lens order, the P
 
 ### Specialist Referrals
 
-#### Which retina specialists are available at Center for Sight?
+### Which retina specialists are available at Center for Sight?
 
 At Center For Sight (CFS), the retina specialists you can schedule with is Dr. Tanuj Banker\* (New patients at CFS-Venice location only)
 
-#### Which retina specialists are available at Retina Health Center?
+### Which retina specialists are available at Retina Health Center?
 
 For a retina specialist evaluation at Retina Health Center (RHC), you can schedule the patient with the following MD retina specialists:
 
 * Dr. Alexander Eaton, MD
 * Dr. Veronica Kon Graversen, MD
 
-These providers are the primary retina specialists at Retina Health Center.
-
-Would you like me to check available appointment times or assist with scheduling?
+These providers are the primary retina specialists at Retina Health Center.&#x20;
 
 (Source: Patient Access Center Master Guide → Retina Health Center)
 
-#### Can Dr. Eaton perform retina surgery?
+### Can Dr. Eaton perform retina surgery?
 
 Dr. Alexander Eaton is a retina specialist who provides medical retina care and injections but does not perform retina surgeries. Retina surgeries are typically performed by retina surgeons with surgical privileges.
 
@@ -91,33 +89,33 @@ For a new patient referred for retina surgery, the patient must first have a con
 
 If Dr. Eaton is not a surgeon, you should schedule the patient for a retina evaluation or consultation with a retina surgeon who performs surgeries.
 
-Would you like me to help identify the correct retina surgeon for this patient or assist with scheduling a consultation?
+&#x20;
 
 (Source: Patient Access Center Master Guide → Retina Health Center; Surgical Providers)
 
-#### Can Dr. Banker see new patients at Sarasota location?
+### Can Dr. Banker see new patients at Sarasota location?
 
 No, Dr. Banker sees new patients only at CFS-Venice.
 
-#### Can Dr. Graversen perform routine eye exams?
+### Can Dr. Graversen perform routine eye exams?
 
 Dr. Veronica Kon Graversen is a retina specialist and typically does not perform routine eye exams or glasses prescription updates.
 
 For glasses prescription updates, patients should be scheduled with a primary eye care provider or optometrist who handles comprehensive eye exams.
 
-Would you like me to help you find an appropriate provider for the patient's glasses prescription update and assist with scheduling?
+&#x20;
 
 (Source: Patient Access Center Master Guide → Provider Specialties; Scheduling Primary Eye Care)
 
 ### Insurance and Billing
 
-#### Can I provide copay information to patients?
+### Can I provide copay information to patients?
 
 No you cannot. The patient's insurance company is the only entity that can provide accurate and up-to-date information about their policy, coverage, or costs. Since the insurance company writes and manages the patient's policy, they have access to all the necessary details and are best positioned to answer questions.
 
 Please do not send these types of inquiries to RCM, instead put it back on the patient to reach out to their insurance company.
 
-#### Do retina specialists accept vision plans?
+### Do retina specialists accept vision plans?
 
 Retina specialists generally do not accept vision-only insurance plans because retina care is considered medical eye care, which requires medical insurance coverage.
 
@@ -129,23 +127,23 @@ If you want, I can help you check specific insurance plans or provide guidance o
 
 (Source: Patient Access Center Master Guide → Insurance Policies; Provider Reference Guide)
 
-#### Does Dr. Banker accept Aetna Medicare Advantage Gold HMO?
+### Does Dr. Banker accept Aetna Medicare Advantage Gold HMO?
 
 Dr. Tanuj Banker does not accept Aetna Medicare Advantage Gold HMO medical insurance.
 
-#### Who should I refer billing questions to?
+### Who should I refer billing questions to?
 
 If a patient calls regarding an outstanding balance, you should direct them to the Patient Financial Services (PFS) or Billing Department. This team handles billing questions, payment plans, and account balances.
 
 You can offer to take their contact information and have the billing team reach out, or provide the patient with instructions on how to contact Patient Financial Services through the call center.
 
-Would you like me to assist with initiating a billing inquiry or provide guidance on communicating this to the patient?
+&#x20;
 
 (Source: Patient Access Center Master Guide → Patient Financial Services)
 
 ### Cosmetic and Aesthetic Services
 
-#### Who can I schedule for a facelift?
+### Who can I schedule for a facelift?
 
 Dr. Fezza at our CFS AMARA Center Transfer calls for AMARA scheduling to the AMARA quick connect.
 
@@ -166,7 +164,7 @@ Dr. Fezza sees these medical diagnoses:
 
 All other medical diagnoses should be scheduled with Kalie Kosek.
 
-#### What services are available at the Amara Center?
+### What services are available at the Amara Center?
 
 The Amara Center offers a range of cosmetic, aesthetic and dermatology services, including:
 
@@ -185,12 +183,12 @@ Other dermatology services are also offered by providers such as Shannon Bednarz
 
 Please note that cosmetic services are elective and typically not covered by insurance; payment is due at the time of service.
 
-Would you like more details or assistance scheduling any of these services?
+&#x20;
 
 (Source: Patient Access Center Master Guide → Amara Center Services)\
 (https://us-eye-florida.gitbook.io/pac-guide#amara-center-services)
 
-#### What services does Dr. Newman provide at Amara?
+### What services does Dr. Newman provide at Amara?
 
 Dr. Joshua Newman, MD, provides dermatology services at the Amara Center. He performs both surgical and non-surgical treatments for skin, hair, and nail conditions, including Mohs micrographic surgery for skin cancer, sclerotherapy for varicose veins, and KTP laser treatments for vascular lesions, pigmented lesions, and acne.
 
@@ -198,12 +196,12 @@ Mohs surgery is performed by Dr. Newman, while Shannon Bednarz, PA, provides oth
 
 For scheduling dermatology appointments or consultations with Dr. Newman at the Amara Center, referrals are typically required. If the referral is missing, patients should be advised to have it sent before the consultation.
 
-Would you like assistance scheduling a dermatology appointment with Dr. Newman?
+&#x20;
 
 (Source: gitbook\_scrape\_20250702.md → Scheduling Dermatology)\
 (Source: gitbook\_scrape\_20250702.md → Provider Reference Guide)
 
-#### Can vision insurance be used for cosmetic consultations?
+### Can vision insurance be used for cosmetic consultations?
 
 For cosmetic consultations at the Amara Center with Dr. John Fezza, vision insurance plans typically do not cover these services because they are elective cosmetic procedures.
 
@@ -211,15 +209,15 @@ Patients with vision insurance will likely need to pay out-of-pocket for the fac
 
 You should inform the patient about this and confirm their understanding before scheduling.
 
-Would you like me to assist with scheduling the consultation and informing the patient about payment policies?
+&#x20;
 
 (Source: Patient Access Center Master Guide → Amara Center Services; Scheduling Oculoplastics)
 
 ### Office Locations and Information
 
-#### Where are the LEA office locations?
+### Where are the LEA office locations?
 
-The offices are located at:
+LEA is not located in fort myers. The offices are located at:
 
 **LEA-Lady Lake Sunset Plaza** Address: 801 County Road 466, Suite 102, Lady Lake, FL 32159-4205 Phone: (352) 350-2070 Fax: 352-561-4214 Hours: M-F 8:00-5:00 Directions: 0.2 miles west of Rolling Acres Road on the right hand side- Sunset Plaza
 
@@ -231,17 +229,17 @@ The offices are located at:
 
 **LEA-Wildwood** Address: 5431 State Road 44, Suite 1, Wildwood, FL 34785-8294 Phone: (352) 632-2020 Fax: 352-632-2038 Hours: M-F 8:00-5:00 Directions: 1.6 miles from the Brownwood Square
 
-#### Where does Kalie Kosek practice?
+### Where does Kalie Kosek practice?
 
 Kalie Kosek, PA-C Patient Types: Adult (18 & Over) Specialties: Oculoplastic Patient Care Team: CFS North & Mid Office Locations: Amara, Pelican Plaza, University Park, US41 Sarasota NPI: 1891104766
 
-#### Where does Dr. Shoemaker work?
+### Where does Dr. Shoemaker work?
 
 Dr. David Shoemaker works at the Center For Sight located at 2601 S Tamiami Trail, Sarasota, FL 34239-4504. The office hours are Monday through Friday from 8:00 AM to 5:00 PM.
 
 ### Medical Procedures and Protocols
 
-#### How should I handle red eye calls?
+### How should I handle red eye calls?
 
 When a patient calls with a red eye, follow these steps to determine the appropriate course of action:
 
@@ -259,33 +257,33 @@ When a patient calls with a red eye, follow these steps to determine the appropr
 
 By following these steps, you ensure that the patient receives the appropriate level of care based on the urgency of their symptoms.
 
-#### How long should contacts be discontinued before cataract consultation?
+### How long should contacts be discontinued before cataract consultation?
 
 **Soft Daily/Extended Wear:** 1 Week **Toric Daily Wear:** 2 Weeks **Hard / RGP / PMMA:** 3 Weeks **Scleral (for Keratoconus only):** Do NOT Discontinue
 
-#### How long is a cataract consultation?
+### How long is a cataract consultation?
 
 "Your consultation will take approximately 2–3 hours. This time allows for a comprehensive exam and all necessary testing to ensure the highest level of care."
 
-#### Will patients be dilated for cataract consultations?
+### Will patients be dilated for cataract consultations?
 
 Yes, patients are typically dilated during a cataract consultation to allow the provider to thoroughly examine the lens and retina. Dilation helps in assessing the cataract and planning for surgery.
 
-Would you like me to include dilation in the appointment details when scheduling?
+&#x20;
 
 (Source: Patient Access Center Master Guide → Cataract Consultation Preparation)
 
-#### How long are cataract consultations valid?
+### How long are cataract consultations valid?
 
 Cataract consultations are typically valid for 90 days from the date of the consultation. Within this period, the patient can proceed with scheduling surgery without needing a new consultation.
 
 If the surgery is not scheduled within 90 days, a new consultation may be required to reassess the patient's condition.
 
-Would you like me to help you check a patient's consultation date or provide more details?
+&#x20;
 
 (Source: Patient Access Center Master Guide → Cataract Surgery Scheduling)
 
-#### Can patients schedule cataract consultations without referrals?
+### Can patients schedule cataract consultations without referrals?
 
 **If Patient Has Referral**
 
@@ -319,23 +317,23 @@ If patient insists on Cataract consult despite lack of clear diagnosis/recent ex
 
 ### Injection and Treatment Protocols
 
-#### How should I handle late injection appointments?
+### How should I handle late injection appointments?
 
 Patient will need to have their appointment rescheduled as a dilated Fundus due to the injection going 10 business days past of the due date.
 
 For all other injection-scheduling questions, send an ICP message to the doctor's team.
 
-#### Can I schedule refraction rechecks with different providers?
+### Can I schedule refraction rechecks with different providers?
 
 Refraction rechecks should always be scheduled with the same provider who performed the comprehensive exam. Patients should consult an optician first to check their glasses before scheduling a refraction recheck.
 
-#### What about patients who haven't been seen in 3+ months?
+### What about patients who haven't been seen in 3+ months?
 
 If a patient hasn't been seen in 3+ months, a comprehensive exam is scheduled, not just a refraction.
 
 ### Referrals and New Patients
 
-#### How do I handle new patients with retina consultations?
+### How do I handle new patients with retina consultations?
 
 For a new patient with a referral for a retina consultation, you can schedule the appointment with any of the retina specialists at the appropriate location. Available retina specialists include:
 
@@ -351,11 +349,11 @@ Please collect the following information from the patient to proceed:
 * Preferred days and times for the appointment
 * Any relevant medical history or notes about the retina condition
 
-Would you like me to help schedule the retina consultation now?
+&#x20;
 
 (Source: Patient Access Center Master Guide → New Patient Scheduling; Retina Health Center; Provider Reference Guide)
 
-#### Can retina consultations be scheduled without referrals?
+### Can retina consultations be scheduled without referrals?
 
 For a retina consultation, a referral is typically required before scheduling the appointment. If the patient does not have a referral, you should:
 
@@ -363,13 +361,13 @@ For a retina consultation, a referral is typically required before scheduling th
 * Offer to assist the patient in obtaining a referral or provide guidance on how to get one.
 * Alternatively, schedule a comprehensive eye exam with a primary eye care provider who can evaluate and, if needed, generate a referral to a retina specialist.
 
-Would you like me to help schedule a comprehensive exam or provide instructions to the patient on obtaining a referral?
+&#x20;
 
 (Source: Patient Access Center Master Guide → Referral Policies; Scheduling Retina Consultations)
 
 ### Emergency and Urgent Care
 
-#### How do I handle emergency eye situations?
+### How do I handle emergency eye situations?
 
 For emergency eye situations, patients with acute symptoms like sudden sharp pain should be scheduled for same-day appointments. The Patient Access Center will schedule the first available opening on the same day. If no emergency (ER) spot is open, they may schedule any available short or long slot. If no same-day spots are available, an urgent ICP message is sent to the Patient Care Team to assist. They also check availability across all offices in the region, including satellite locations, to find an opening.
 
@@ -381,7 +379,7 @@ Please note: If the patient is established, they are scheduled with their primar
 
 ### Medication and Post-Op Care
 
-#### Can I provide medication information to patients?
+### Can I provide medication information to patients?
 
 The agents do not provide medical or drop information.
 
@@ -392,17 +390,17 @@ Remember, all post-op scheduling and medication questions are handled by the cal
 For detailed post-op care and dilation information, you can refer to the Dilation Key and Post-Op Care sections here:\
 https://us-eye-florida.gitbook.io/pac-guide/dilation-key (Source: Patient Access Center Master Guide → Dilation Key; Post-Op Care sections)
 
-#### Do we provide dilation key guides to patients?
+### Do we provide dilation key guides to patients?
 
 We do not provide a dilation key guide to our patients. If a patient is asking if they will be dilated at their upcoming visit the agent can refer to the guide and inform the patient if they should expect to be dilated or not at their upcoming visit.
 
 ### Specialized Services
 
-#### Do we perform strabismus surgery?
+### Do we perform strabismus surgery?
 
 We do not perform strabismus surgery at any of our US Eye Florida locations. We also should not be giving out medical information related to pre or post operative care or expectations.
 
-#### Do we accept VA insurance?
+### Do we accept VA insurance?
 
 US Eye does accept VA health benefits, specifically through the Optum VA-Veterans Affairs Community Care Network (CCN). However, VA patients must have the VA schedule their appointment directly, as they cannot self-schedule. The authorization for the appointment should be checked in the system, and if none exists, the VA needs to send a new one.
 
@@ -428,7 +426,7 @@ This will help ensure proper scheduling and insurance verification. If you need 
 
 ### Cataract Surgery Information
 
-#### Which doctors provide cataract surgery at different locations?
+### Which doctors provide cataract surgery at different locations?
 
 **CFS** Dr. Jon Berlie, Dr. George Brinnig, Dr. Joaquin De Rojas\*, Dr. Joshua Kim\*, Dr. Priya Mathews\*, Dr. David Shoemaker\*, Dr. William Soscia\*, Dr. Elizabeth Davis\*
 
@@ -438,15 +436,15 @@ This will help ensure proper scheduling and insurance verification. If you need 
 
 **SFEC** Dr. Albert Smolyar\*
 
-#### Which doctors can see patients for refractive consultations at CFS?
+### Which doctors can see patients for refractive consultations at CFS?
 
 Dr. Joaquin De Rojas Dr. Priya Mathews Dr. David Shoemaker\* Dr. Elizabeth Davis Dr. Joshua Kim\* Dr. Jon Berlie† (Naples)
 
-#### Are there cornea specialists at SWFL?
+### Are there cornea specialists at SWFL?
 
 No
 
-#### Which ODs are located at CFS Venice?
+### Which ODs are located at CFS Venice?
 
 **OD Providers CFS**
 
@@ -454,7 +452,7 @@ Dr. James Lenhart Dr. David Mertzlufft Dr. Patrick Nelson Dr. Scott Stevens
 
 ### Contact Information and Surgery Inquiries
 
-#### What are the CFS email addresses for surgery-related questions?
+### What are the CFS email addresses for surgery-related questions?
 
 **Specific Questions related to Surgery:**
 
@@ -468,7 +466,7 @@ For Provider-Specific Surgical Questions: Message the relevant Practice (Provide
 
 ### Additional Information
 
-#### What services accept VSP?
+### What services accept VSP?
 
 VSP (Vision Service Plan) is a vision insurance plan that typically covers routine eye care services. At US Eye, services that accept VSP generally include:
 
@@ -482,7 +480,7 @@ Medical eye care services, such as retina evaluations, surgeries, or specialty t
 
 (Source: Patient Access Center Master Guide → Insurance Policies; Vision Insurance Coverage)
 
-#### How do I handle medical records requests?
+### How do I handle medical records requests?
 
 For a patient requesting their medical records to be sent to another doctor out of state, you should:
 
@@ -497,3 +495,5 @@ For a patient requesting their medical records to be sent to another doctor out 
 (Source: Patient Access Center Master Guide → Medical Records)
 
 ***
+
+&#x20;
