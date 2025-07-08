@@ -87,14 +87,14 @@ This protocol outlines the standard steps when scheduling patients who may or ma
 
 ## Emergency Triage Protocol
 
-### Scope
+### Instructions for Patient with Acute Issues
 
 This protocol details the steps taken to properly triage and schedule a patient with an acute issue.\
-&#xNAN;_**NO** medical advice should be given to the patient by PAC agents._
+\&#xNAN;_**NO** medical advice should be given to the patient by PAC agents._
 
 ***
 
-### Surgical Check (Last 30 Days)
+### Surgical Check (If Patient had Surgery in Last 30 Days)
 
 **If the patient is having an emergency or urgent issue** (see below) **and has had surgery with one of our doctors in the past 30 days:**
 
@@ -112,6 +112,8 @@ This protocol details the steps taken to properly triage and schedule a patient 
 3. **Determine the urgency** (Emergency, Urgent, or Non-Urgent) via the table below.
 4. Document all symptoms, which eye(s) they affect, and how long they've been present.
 
+The following guide outlines when to schedule appointment based on their symptoms:
+
 | Emergency (Same Day)                                                           | Urgent (24–48 hrs)                                         | Non-Urgent (Next Avail)                                             |
 | ------------------------------------------------------------------------------ | ---------------------------------------------------------- | ------------------------------------------------------------------- |
 | **Retinal Tear/Detachment (within 30 days)**                                   | Progressively worsening eye pain for 1 week                | Mild ocular irritation/redness                                      |
@@ -127,11 +129,11 @@ This protocol details the steps taken to properly triage and schedule a patient 
 
 ***
 
-### Emergency --> Same Day Appointment Required
+### Emergency --> Same Day Appointment Required - Follow these instructions:
 
-* **New Patient**: Schedule with an **OD at CFS.**
+* **If New Patient**: Schedule with an **OD at CFS.**
   * **At LEA and SFEC, ODs or MDs see emergencies.**
-* **Established Patient**: Schedule with their **primary provider whenever possible**.
+* **If Established Patient:** Schedule with their **primary provider whenever possible**.
 * If they are in a **post-op period** and **comanaged**, they should see their comanaging provider.
 
 **Process**
@@ -148,10 +150,10 @@ This protocol details the steps taken to properly triage and schedule a patient 
 
 ***
 
-### Urgent --> Appointment Within 48 Hours Required
+### Urgent --> Appointment Within 48 Hours Required  - Follow these instructions:
 
-* **New Patient**: Schedule with **OD within 2 days** (although some MDs at SFEC and LEA see ERs as well)
-* **Established Patient**: Schedule with **primary provider whenever possible**.
+* **If New Patient**: Schedule with **OD within 2 days** (although some MDs at SFEC and LEA see ERs as well)
+* **If Established Patient**: Schedule with **primary provider whenever possible**.
 * If in post-op/comanaged, see their comanaging provider if possible.
 
 **Process**
@@ -162,11 +164,11 @@ This protocol details the steps taken to properly triage and schedule a patient 
 
 ***
 
-### Non-Urgent – Next Available
+### Non-Urgent – Next Available  - Follow these instructions:
 
-* **New Patient**: Schedule with **OD**.
-* **Established Patient**: Schedule with **primary provider**. For more information about scheduling non-urgent established patients, see "[Scheduling Established Patients](./#scheduling-established-patients)".
-* **Problem Focused Visit**: Schedule with primary provider. Evaluation of a specific, non-emergent eye issue (e.g. dry eye, mild redness or irritation, eyelid problems). Scheduled based on availability; not time-critical. Scheduled in a **blue short spot.**
+* **If New Patient**: Schedule with **OD**.
+* **If Established Patient**: Schedule with **primary provider**. For more information about scheduling non-urgent established patients, see "[Scheduling Established Patients](./#scheduling-established-patients)".
+* **If Problem Focused Visit**: Schedule with primary provider. Evaluation of a specific, non-emergent eye issue (e.g. dry eye, mild redness or irritation, eyelid problems). Scheduled based on availability; not time-critical. Scheduled in a **blue short spot.**
 
 **Process**
 
@@ -181,12 +183,12 @@ This protocol details the steps taken to properly triage and schedule a patient 
 
 If you need to **triage via ICP** instead of scheduling immediately, see the table below to find the regional Patient Care Team to send message to:
 
-* `*CFS North Region Patient Care Team`
-* `*CFS Mid Region Patient Care Team`
-* `*CFS South Region Patient Care Team`
-* `*SFEC Patient Care Team`
-* `*LEA Patient Care Team`
-* `*RHC Patient Care Team`
+* `CFS North Region Patient Care Team`
+* `CFS Mid Region Patient Care Team`
+* `CFS South Region Patient Care Team`
+* `SFEC Patient Care Team`
+* `LEA Patient Care Team`
+* `RHC Patient Care Team`
 
 **Add the provider's name at the beginning of the message** if known.\
 Use **clear, concise language**—avoid abbreviations.
