@@ -18,6 +18,7 @@
 | Elizabeth Davis, MD | Independent Health - UHC | No Ref/No Auth Required | PAR |
 | Erin Hardie, OD | Independent Health - UHC | No Ref/No Auth Required | PAR |
 | George Hurwitz, OD | Independent Health - UHC | No Ref/No Auth Required | PAR |
+| Gisselle Vrga Carraso | Independent Health - UHC | No Ref/No Auth Required | Non-PAR |
 | Hunter Vittone, OD | Independent Health - UHC | No Ref/No Auth Required | PAR |
 | James Lenhart, OD | Independent Health - UHC | No Ref/No Auth Required | PAR |
 | Joaquin De Rojas, MD | Independent Health - UHC | No Ref/No Auth Required | PAR |

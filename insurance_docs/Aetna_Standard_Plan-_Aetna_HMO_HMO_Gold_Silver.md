@@ -18,6 +18,7 @@
 | Elizabeth Davis, MD | Aetna Commercial HMO REFERRAL REQ | Referral Required | PAR |
 | Erin Hardie, OD | Aetna Commercial HMO REFERRAL REQ | Referral Required | PAR |
 | George Hurwitz, OD | Aetna Commercial HMO REFERRAL REQ | Referral Required | PAR |
+| Gisselle Vrga Carraso | Aetna Commercial HMO REFERRAL REQ | Referral Required | Non-PAR |
 | Hunter Vittone, OD | Aetna Commercial HMO REFERRAL REQ | Referral Required | PAR |
 | James Lenhart, OD | Aetna Commercial HMO REFERRAL REQ | Referral Required | PAR |
 | Joaquin De Rojas, MD | Aetna Commercial HMO REFERRAL REQ | Referral Required | PAR |

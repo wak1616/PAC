@@ -1,6 +1,6 @@
 # Insurance Guide By Insurance Plan
 
-*Last Updated: 07/08/2025 (based on data from Excel file: [US Eye Insurance Guide.xlsx](https://useyecorp.sharepoint.com/:x:/r/RCM/Shared%20Documents/Insurance%20Guides/US%20Eye%20Insurance%20Guide.xlsx?d=w2a2138d41fa04bfa919fc4966998346a&csf=1&web=1&e=73a3Gf&nav=MTVfezIwMjg5MTIyLTdDRkEtNEE0OS1CODBGLTdFNTc3Njc3OTJDNX0))*
+*Last Updated: 07/09/2025 (based on data from Excel file: [US Eye Insurance Guide.xlsx](https://useyecorp.sharepoint.com/:x:/r/RCM/Shared%20Documents/Insurance%20Guides/US%20Eye%20Insurance%20Guide.xlsx?d=w2a2138d41fa04bfa919fc4966998346a&csf=1&web=1&e=73a3Gf&nav=MTVfezIwMjg5MTIyLTdDRkEtNEE0OS1CODBGLTdFNTc3Njc3OTJDNX0))*
 
 *This guide lists insurance participation by insurance plan. Click an insurance plan to view all providers who accept that insurance, grouped by location.*
 
@@ -368,6 +368,7 @@
 * [Mailhandlers (Aetna Choice® POS II Network)](insurance_docs/Mailhandlers_Aetna_Choice_POS_II_Network.md)
 * [March Vision](insurance_docs/March_Vision.md)
 * [Medica (United Healthcare Choice Plus Network)](insurance_docs/Medica_United_Healthcare_Choice_Plus_Network.md)
+* [Medicaid](insurance_docs/Medicaid.md)
 * [Medicaid of Florida/ All Medicaid (MCO) plans](insurance_docs/Medicaid_of_Florida_All_Medicaid_MCO_plans.md)
 * [Medicare](insurance_docs/Medicare.md)
 * [Meritain Gulf Coast (Aetna Choice POS II Network)](insurance_docs/Meritain_Gulf_Coast_Aetna_Choice_POS_II_Network.md)
@@ -483,6 +484,7 @@
 * [United Healthcare Select EPO/Select Plus POS](insurance_docs/United_Healthcare_Select_EPO_Select_Plus_POS.md)
 * [United Healthcare Select Plus HMO](insurance_docs/United_Healthcare_Select_Plus_HMO.md)
 * [United Healthcare Shared Services - Options PPO Network](insurance_docs/United_Healthcare_Shared_Services_-_Options_PPO_Network.md)
+* [United Healthcare The Villages Medicare Advantage FL-0004 (HMO-POS) AND FL-004P (HMO-POS)](insurance_docs/United_Healthcare_The_Villages_Medicare_Advantage_FL-0004_HMO-POS_AND_FL-004P_HMO-POS.md)
 * [United Healthcare The Villages Medicare Advantage FL-0004-004P (HMO-POS)](insurance_docs/United_Healthcare_The_Villages_Medicare_Advantage_FL-0004-004P_HMO-POS.md)
 * [United Healthcare The Villages Medicare Advantage FL-0004/004P (HMO-POS)](insurance_docs/United_Healthcare_The_Villages_Medicare_Advantage_FL-0004_004P_HMO-POS.md)
 * [United Healthcare The Villages Medicare Advantage FL-0004/FL-004P (HMO-POS)](insurance_docs/United_Healthcare_The_Villages_Medicare_Advantage_FL-0004_FL-004P_HMO-POS.md)

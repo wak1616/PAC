@@ -18,6 +18,7 @@
 | Elizabeth Davis, MD | AvMed Commercial HMO | No Ref/No Auth Required | Non-PAR |
 | Erin Hardie, OD | AvMed Commercial HMO | No Ref/No Auth Required | PAR |
 | George Hurwitz, OD | AvMed Commercial HMO | No Ref/No Auth Required | PAR |
+| Gisselle Vrga Carraso | AvMed Commercial HMO | No Ref/No Auth Required | Non-PAR |
 | Hunter Vittone, OD | AvMed Commercial HMO | No Ref/No Auth Required | Non-PAR |
 | James Lenhart, OD | AvMed Commercial HMO | No Ref/No Auth Required | PAR |
 | Joaquin De Rojas, MD | AvMed Commercial HMO | No Ref/No Auth Required | PAR |

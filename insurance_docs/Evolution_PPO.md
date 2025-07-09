@@ -18,6 +18,7 @@
 | Elizabeth Davis, MD | Evolutions PPO | No Ref/No Auth Required | Non-PAR |
 | Erin Hardie, OD | Evolutions PPO | No Ref/No Auth Required | PAR |
 | George Hurwitz, OD | Evolutions PPO | No Ref/No Auth Required | PAR |
+| Gisselle Vrga Carraso | Evolutions PPO | No Ref/No Auth Required | Non-PAR |
 | Hunter Vittone, OD | Evolutions PPO | No Ref/No Auth Required | PAR |
 | James Lenhart, OD | Evolutions PPO | No Ref/No Auth Required | PAR |
 | Joaquin De Rojas, MD | Evolutions PPO | No Ref/No Auth Required | PAR |

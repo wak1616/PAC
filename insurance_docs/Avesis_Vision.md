@@ -18,6 +18,7 @@
 | Elizabeth Davis, MD | Avesis Vision | Authorization Required | Non-PAR |
 | Erin Hardie, OD | Avesis Vision | Authorization Required | Non-PAR |
 | George Hurwitz, OD | Avesis Vision | Authorization Required | Non-PAR |
+| Gisselle Vrga Carraso | Avesis Vision | Authorization Required | Non-PAR |
 | Hunter Vittone, OD | Avesis Vision | Authorization Required | PAR |
 | James Lenhart, OD | Avesis Vision | Authorization Required | Non-PAR |
 | Joaquin De Rojas, MD | Avesis Vision | Authorization Required | Non-PAR |

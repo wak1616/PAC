@@ -18,6 +18,7 @@
 | Elizabeth Davis, MD | All Savers Comm REFERRAL REQ - UHC | Referral Required | PAR |
 | Erin Hardie, OD | All Savers Comm REFERRAL REQ - UHC | Referral Required | PAR |
 | George Hurwitz, OD | All Savers Comm REFERRAL REQ - UHC | Referral Required | PAR |
+| Gisselle Vrga Carraso | All Savers Comm REFERRAL REQ - UHC | Referral Required | Non-PAR |
 | Hunter Vittone, OD | All Savers Comm REFERRAL REQ - UHC | Referral Required | PAR |
 | James Lenhart, OD | All Savers Comm REFERRAL REQ - UHC | Referral Required | PAR |
 | Joaquin De Rojas, MD | All Savers Comm REFERRAL REQ - UHC | Referral Required | PAR |

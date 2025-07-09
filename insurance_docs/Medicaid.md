@@ -1,8 +1,8 @@
-# United Healthcare Heritage ALL Plans - Insurance Guide
+# Medicaid - Insurance Guide
 
-*This page lists providers who accept United Healthcare Heritage ALL Plans, grouped by location.*
+*This page lists providers who accept Medicaid, grouped by location.*
 
-<details open><summary>Provider Details for United Healthcare Heritage ALL Plans</summary>
+<details open><summary>Provider Details for Medicaid</summary>
 
 ## Lake Eye 
 
@@ -16,13 +16,6 @@
 | Scot Holman, MD | Self Pay Non-Par with Ins |  | Non-PAR |
 | Scott Wehrly, MD | Self Pay Non-Par with Ins |  | Non-PAR |
 | Vinay Gutti, MD | Self Pay Non-Par with Ins |  | Non-PAR |
-
-## Retina Health Center
-
-| Provider | NextGen Name | Referral/Auth | Status |
-|----------|-------------|--------------|--------|
-| Alexander Eaton, MD | Self Pay Non-Par with Ins |  | Non-PAR |
-| Veronica Kon Graversen, MD | Self Pay Non-Par with Ins |  | Non-PAR |
 
 </details>
 

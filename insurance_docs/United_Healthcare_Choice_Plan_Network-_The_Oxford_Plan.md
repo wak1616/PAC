@@ -18,6 +18,7 @@
 | Elizabeth Davis, MD | UHC Oxford PPO-06111 | No Ref/No Auth Required | PAR |
 | Erin Hardie, OD | UHC Oxford PPO-06111 | No Ref/No Auth Required | PAR |
 | George Hurwitz, OD | UHC Oxford PPO-06111 | No Ref/No Auth Required | PAR |
+| Gisselle Vrga Carraso | UHC Oxford PPO-06111 | No Ref/No Auth Required | Non-PAR |
 | Hunter Vittone, OD | UHC Oxford PPO-06111 | No Ref/No Auth Required | PAR |
 | James Lenhart, OD | UHC Oxford PPO-06111 | No Ref/No Auth Required | PAR |
 | Joaquin De Rojas, MD | UHC Oxford PPO-06111 | No Ref/No Auth Required | PAR |

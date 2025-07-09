@@ -18,6 +18,7 @@
 | Elizabeth Davis, MD | Tricare Select | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Erin Hardie, OD | Tricare Select | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | George Hurwitz, OD | Tricare Select | No Ref/No Auth Required | Non-PAR -OON Benefits |
+| Gisselle Vrga Carraso | Tricare Select | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Hunter Vittone, OD | Tricare Select | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | James Lenhart, OD | Tricare Select | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Joaquin De Rojas, MD | Tricare Select | No Ref/No Auth Required | Non-PAR -OON Benefits |

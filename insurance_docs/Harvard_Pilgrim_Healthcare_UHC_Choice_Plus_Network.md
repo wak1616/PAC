@@ -18,6 +18,7 @@
 | Elizabeth Davis, MD | UHC Harvard Pilgrim-39026 | No Ref/No Auth Required | PAR |
 | Erin Hardie, OD | UHC Harvard Pilgrim-39026 | No Ref/No Auth Required | PAR |
 | George Hurwitz, OD | UHC Harvard Pilgrim-39026 | No Ref/No Auth Required | PAR |
+| Gisselle Vrga Carraso | UHC Harvard Pilgrim-39026 | No Ref/No Auth Required | Non-PAR |
 | Hunter Vittone, OD | UHC Harvard Pilgrim-39026 | No Ref/No Auth Required | PAR |
 | James Lenhart, OD | UHC Harvard Pilgrim-39026 | No Ref/No Auth Required | PAR |
 | Joaquin De Rojas, MD | UHC Harvard Pilgrim-39026 | No Ref/No Auth Required | PAR |

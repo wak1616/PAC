@@ -18,6 +18,7 @@
 | Elizabeth Davis, MD | BCBS OOS CA - REFERRAL AND AUTH REQ- | Authorization Required | PAR |
 | Erin Hardie, OD | BCBS OOS CA - REFERRAL AND AUTH REQ- | Authorization Required | PAR |
 | George Hurwitz, OD | BCBS OOS CA - REFERRAL AND AUTH REQ- | Authorization Required | PAR |
+| Gisselle Vrga Carraso | BCBS OOS CA - REFERRAL AND AUTH REQ- | Authorization Required | Non-PAR |
 | Hunter Vittone, OD | BCBS OOS CA - REFERRAL AND AUTH REQ- | Authorization Required | PAR |
 | James Lenhart, OD | BCBS OOS CA - REFERRAL AND AUTH REQ- | Authorization Required | PAR |
 | Joaquin De Rojas, MD | BCBS OOS CA - REFERRAL AND AUTH REQ- | Authorization Required | PAR |

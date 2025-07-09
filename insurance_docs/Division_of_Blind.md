@@ -18,6 +18,7 @@
 | Elizabeth Davis, MD | Division of Blind | Authorization Required | Non-PAR |
 | Erin Hardie, OD | Division of Blind | Authorization Required | PAR |
 | George Hurwitz, OD | Division of Blind | Authorization Required | PAR |
+| Gisselle Vrga Carraso | Division of Blind | Authorization Required | Non-PAR |
 | Hunter Vittone, OD | Division of Blind | Authorization Required | PAR |
 | James Lenhart, OD | Division of Blind | Authorization Required | PAR |
 | Joaquin De Rojas, MD | Division of Blind | Authorization Required | PAR |

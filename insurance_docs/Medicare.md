@@ -18,6 +18,7 @@
 | Elizabeth Davis, MD | Medicare Part B | No Ref/No Auth Required | PAR |
 | Erin Hardie, OD | Medicare Part B | No Ref/No Auth Required | PAR |
 | George Hurwitz, OD | Medicare Part B | No Ref/No Auth Required | PAR |
+| Gisselle Vrga Carraso | Medicare Part B | No Ref/No Auth Required | Non-PAR |
 | Hunter Vittone, OD | Medicare Part B | No Ref/No Auth Required | PAR |
 | James Lenhart, OD | Medicare Part B | No Ref/No Auth Required | PAR |
 | Joaquin De Rojas, MD | Medicare Part B | No Ref/No Auth Required | PAR |

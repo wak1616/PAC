@@ -18,6 +18,7 @@
 | Elizabeth Davis, MD | UCare Medicare HMO | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Erin Hardie, OD | UCare Medicare HMO | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | George Hurwitz, OD | UCare Medicare HMO | No Ref/No Auth Required | Non-PAR -OON Benefits |
+| Gisselle Vrga Carraso | UCare Medicare HMO | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Hunter Vittone, OD | UCare Medicare HMO | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | James Lenhart, OD | UCare Medicare HMO | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Joaquin De Rojas, MD | UCare Medicare HMO | No Ref/No Auth Required | Non-PAR -OON Benefits |
@@ -40,7 +41,7 @@
 | Rachael Randolph, OD | UCare Medicare HMO | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Scott Stevens, OD | UCare Medicare HMO | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Shannon Bednarz, PA | UCare Medicare HMO | No Ref/No Auth Required | Non-PAR -OON Benefits |
-| Tanuj Banker, MD (RETINA) | UCare Medicare HMO | No Ref/No Auth Required | Non-PAR |
+| Tanuj Banker, MD (RETINA) | UCare Medicare HMO | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Todd Lang, OD | UCare Medicare HMO | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Trisha Werner, OD | UCare Medicare HMO | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | William Soscia, MD | UCare Medicare HMO | No Ref/No Auth Required | Non-PAR -OON Benefits |

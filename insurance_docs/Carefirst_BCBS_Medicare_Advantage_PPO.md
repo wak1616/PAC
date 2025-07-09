@@ -18,6 +18,7 @@
 | Elizabeth Davis, MD | Carefirst BCBS Medicare PPO | No Ref/No Auth Required | PAR |
 | Erin Hardie, OD | Carefirst BCBS Medicare PPO | No Ref/No Auth Required | PAR |
 | George Hurwitz, OD | Carefirst BCBS Medicare PPO | No Ref/No Auth Required | PAR |
+| Gisselle Vrga Carraso | Carefirst BCBS Medicare PPO | No Ref/No Auth Required | Non-PAR |
 | Hunter Vittone, OD | Carefirst BCBS Medicare PPO | No Ref/No Auth Required | PAR |
 | James Lenhart, OD | Carefirst BCBS Medicare PPO | No Ref/No Auth Required | PAR |
 | Joaquin De Rojas, MD | Carefirst BCBS Medicare PPO | No Ref/No Auth Required | PAR |

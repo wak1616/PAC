@@ -167,7 +167,7 @@
 | The Health Plan PPO - PHCS | The Health Plan PPO - PHCS | No Ref/No Auth Required | PAR |
 | Tricare Prime CFS is OUT OF NETWORK. PATIENT HAS OON BENEFITS. PLEASE INFORM PATIENT OF POSSIBLE HIGHER OUT OF POCKET COSTS (see note). covered for a Routine Eye Exam every two years | Tricare Prime HMO-REFERRAL REQ | Referral Required | Non-PAR -OON Benefits |
 | Tricare Select CFS is OUT OF NETWORK. PATIENT HAS OON BENEFITS. PLEASE INFORM PATIENT OF POSSIBLE HIGHER OUT OF POCKET COSTS. Routine Eye Exams are NON-covered | Tricare Select | No Ref/No Auth Required | Non-PAR -OON Benefits |
-| UCare Medicare HMO CFS is OUT OF NETWORK. PATIENT HAS OON BENEFITS. PLEASE INFORM PATIENT OF POSSIBLE HIGHER OUT OF POCKET COSTS. | UCare Medicare HMO | No Ref/No Auth Required | Non-PAR |
+| UCare Medicare HMO CFS is OUT OF NETWORK. PATIENT HAS OON BENEFITS. PLEASE INFORM PATIENT OF POSSIBLE HIGHER OUT OF POCKET COSTS. | UCare Medicare HMO | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | UMR (UHC Choice Plus, Core, Freedom, NEXAUSACO OAP, Options PPO, Select Plus POS Networks) | UHC UMR-39026 | No Ref/No Auth Required | PAR |
 | United Healthcare Care Advantage FL-E001 PPO I-SNP | Self Pay Non-Par with Ins |  | Non-PAR |
 | United Healthcare Charter EPO/ POS | UHC PPO/POS-87726 | No Ref/No Auth Required | PAR |

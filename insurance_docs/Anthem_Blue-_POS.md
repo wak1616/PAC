@@ -18,6 +18,7 @@
 | Elizabeth Davis, MD | Anthem BCBS Commercial PPO | No Ref/No Auth Required | PAR |
 | Erin Hardie, OD | Anthem BCBS Commercial PPO | No Ref/No Auth Required | PAR |
 | George Hurwitz, OD | Anthem BCBS Commercial PPO | No Ref/No Auth Required | PAR |
+| Gisselle Vrga Carraso | Anthem BCBS Commercial PPO | No Ref/No Auth Required | Non-PAR |
 | Hunter Vittone, OD | Anthem BCBS Commercial PPO | No Ref/No Auth Required | PAR |
 | James Lenhart, OD | Anthem BCBS Commercial PPO | No Ref/No Auth Required | PAR |
 | Joaquin De Rojas, MD | Anthem BCBS Commercial PPO | No Ref/No Auth Required | PAR |

@@ -36,7 +36,7 @@
 | Aetna Medicare- Core Plan (PPO) | Aetna Medicare PPO | No Ref/No Auth Required | PAR |
 | Aetna Medicare- Deluxe Plan (PPO) | Aetna Medicare PPO | No Ref/No Auth Required | PAR |
 | Aetna Medicare- Discover/Discover Value Plan (PPO) | Aetna Medicare PPO | No Ref/No Auth Required | PAR |
-| Aetna Medicare- Dual Choice (PPO-SNP), Aetna Medicare Dual Preferred (PPO-SNP) Aetna Medicare Dual Select Choice (PPO-SNP) Aetna Medicare Dual Signature Select(PPO-SNP) | Primary: Aetna Dual Complete Medicare PPO Primary                                                   Secondary: Aetna Dual Complete MCD PPO Secondary | No Ref/No Auth Required | Non-PAR |
+| Aetna Medicare- Dual Choice (PPO-SNP), Aetna Medicare Dual Preferred (PPO-SNP) Aetna Medicare Dual Select Choice (PPO-SNP) Aetna Medicare Dual Signature Select(PPO-SNP) | Primary: Aetna Dual Complete Medicare PPO Primary                                                   Secondary: Aetna Dual Complete MCD PPO Secondary | No Ref/No Auth Required | PAR |
 | Aetna Medicare- Eagle/Eagle Giveback/Eagle I & II/ Eagle Plus(PPO) | Aetna Medicare PPO | No Ref/No Auth Required | PAR |
 | Aetna Medicare- Elite/Elite Plan 3 (PPO) | Aetna Medicare PPO | No Ref/No Auth Required | PAR |
 | Aetna Medicare Enhanced Select (PPO) - H1608-064 | Aetna Medicare PPO | No Ref/No Auth Required | PAR |
@@ -133,6 +133,7 @@
 | Mailhandlers (Aetna Choice® POS II Network) | Mail Handlers Benefit Plan Comm - Aetna | No Ref/No Auth Required | PAR |
 | March Vision | Self Pay Non-Par with Ins |  | Non-PAR |
 | Medica (United Healthcare Choice Plus Network) | UHC Medica-94265 |  | PAR |
+| Medicaid | Self Pay Non-Par with Ins |  | Non-PAR |
 | Medicare | Medicare Part B | No Ref/No Auth Required | PAR |
 | Meritain Gulf Coast (Aetna Choice POS II Network) | Meritain Health Commercial - Aetna | No Ref/No Auth Required | PAR |
 | Meritain Health - Sarasota Memorial (BASIC AND/OR COMPREHENSIVE PLAN) PLEASE ASK THE PATIENT IF THE CARD HAS "SMH" ON THEIR CARD. IF THE CARD SAYS BASIC OR COMPREHENSIVE PLAN, WE ARE OUT OF NETWORK AND THERE ARE NO OON BENEFITS | Self Pay Non-Par with Ins |  | Non-PAR |
@@ -186,7 +187,7 @@
 | United Healthcare Select Plus HMO | UHC Commercial HMO | No Ref/No Auth Required | PAR |
 | United Healthcare Select Plus HMO | UHC Commercial HMO | Referral MAY Be Required | PAR |
 | United Healthcare Shared Services - Options PPO Network | UHC Shared Services PPO-39026 | No Ref/No Auth Required | PAR |
-| United Healthcare The Villages Medicare Advantage FL-0004/004P (HMO-POS) | UHC AARP Advantage HMO-87726 | No Ref/No Auth Required | PAR |
+| United Healthcare The Villages Medicare Advantage FL-0004 (HMO-POS) AND FL-004P (HMO-POS) | UHC Medicare Advantage HMO-87726 | No Ref/No Auth Required | PAR |
 | Versant: Davis Vision | Self Pay Non-Par with Ins |  | Non-PAR |
 | Versant: Superior Vision | Self Pay Non-Par with Ins |  | Non-PAR |
 | VSP Vision - DO NOT SCHEDULE ANY VSP AFTER 1/1/2025 WITH DR. GUTTI AND DR. HOLMAN | Vision Service Plan | Authorization Required | PAR |

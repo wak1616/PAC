@@ -18,6 +18,7 @@
 | Elizabeth Davis, MD | UHC Surest-25463 Commercial - UHC | No Ref/No Auth Required | PAR |
 | Erin Hardie, OD | UHC Surest-25463 Commercial - UHC | No Ref/No Auth Required | PAR |
 | George Hurwitz, OD | UHC Surest-25463 Commercial - UHC | No Ref/No Auth Required | PAR |
+| Gisselle Vrga Carraso | UHC Surest-25463 Commercial - UHC | No Ref/No Auth Required | Non-PAR |
 | Hunter Vittone, OD | UHC Surest-25463 Commercial - UHC | No Ref/No Auth Required | PAR |
 | James Lenhart, OD | UHC Surest-25463 Commercial - UHC | No Ref/No Auth Required | PAR |
 | Joaquin De Rojas, MD | UHC Surest-25463 Commercial - UHC | No Ref/No Auth Required | PAR |

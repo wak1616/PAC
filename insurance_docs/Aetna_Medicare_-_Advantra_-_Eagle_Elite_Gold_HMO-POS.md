@@ -18,6 +18,7 @@
 | Elizabeth Davis, MD | Aetna Medicare HMO POS | No Ref/No Auth Required | PAR |
 | Erin Hardie, OD | Aetna Medicare HMO POS | No Ref/No Auth Required | PAR |
 | George Hurwitz, OD | Aetna Medicare HMO POS | No Ref/No Auth Required | PAR |
+| Gisselle Vrga Carraso | Aetna Medicare HMO POS | No Ref/No Auth Required | Non-PAR |
 | Hunter Vittone, OD | Aetna Medicare HMO POS | No Ref/No Auth Required | PAR |
 | James Lenhart, OD | Aetna Medicare HMO POS | No Ref/No Auth Required | PAR |
 | Joaquin De Rojas, MD | Aetna Medicare HMO POS | No Ref/No Auth Required | PAR |

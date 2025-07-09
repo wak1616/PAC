@@ -18,6 +18,7 @@
 | Elizabeth Davis, MD | UHC HCA Healthcare-87726 | No Ref/No Auth Required | PAR |
 | Erin Hardie, OD | UHC HCA Healthcare-87726 | No Ref/No Auth Required | PAR |
 | George Hurwitz, OD | UHC HCA Healthcare-87726 | No Ref/No Auth Required | PAR |
+| Gisselle Vrga Carraso | UHC HCA Healthcare-87726 | No Ref/No Auth Required | Non-PAR |
 | Hunter Vittone, OD | UHC HCA Healthcare-87726 | No Ref/No Auth Required | PAR |
 | James Lenhart, OD | UHC HCA Healthcare-87726 | No Ref/No Auth Required | PAR |
 | Joaquin De Rojas, MD | UHC HCA Healthcare-87726 | No Ref/No Auth Required | PAR |

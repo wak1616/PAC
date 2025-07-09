@@ -18,6 +18,7 @@
 | Elizabeth Davis, MD | Cigna Medicare PPO |  | Non-PAR |
 | Erin Hardie, OD | Cigna Medicare PPO |  | PAR |
 | George Hurwitz, OD | Cigna Medicare PPO |  | PAR |
+| Gisselle Vrga Carraso | Cigna Medicare PPO |  | Non-PAR |
 | Hunter Vittone, OD | Cigna Medicare PPO |  | PAR |
 | James Lenhart, OD | Cigna Medicare PPO |  | PAR |
 | Joaquin De Rojas, MD | Cigna Medicare PPO |  | PAR |

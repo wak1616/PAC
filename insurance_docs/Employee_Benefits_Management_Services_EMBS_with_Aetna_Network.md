@@ -18,6 +18,7 @@
 | Elizabeth Davis, MD | EBMS Commercial PPO - Aetna | No Ref/No Auth Required | Non-PAR |
 | Erin Hardie, OD | EBMS Commercial PPO - Aetna | No Ref/No Auth Required | PAR |
 | George Hurwitz, OD | EBMS Commercial PPO - Aetna | No Ref/No Auth Required | PAR |
+| Gisselle Vrga Carraso | EBMS Commercial PPO - Aetna | No Ref/No Auth Required | Non-PAR |
 | Hunter Vittone, OD | EBMS Commercial PPO - Aetna | No Ref/No Auth Required | PAR |
 | James Lenhart, OD | EBMS Commercial PPO - Aetna | No Ref/No Auth Required | PAR |
 | Joaquin De Rojas, MD | EBMS Commercial PPO - Aetna | No Ref/No Auth Required | PAR |
