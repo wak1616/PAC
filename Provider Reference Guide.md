@@ -46,7 +46,7 @@
 
 ### Elizabeth Davis, MD
 - **Patient Types**: Young Child (3-7 Years), Teen (8-17 Years), Adult (18 & Over)
-- **Specialties**: Cataract, Refractive (LASIK/PRK), Cornea
+- **Specialties**: Cataract, Refractive (LASIK/PRK), Cornea, Primary Eye Care
 - **Patient Care Team**: CFS North & Mid
 - **Office Locations**: Venice, US41 Sarasota
 - **NPI**: 1134114259
