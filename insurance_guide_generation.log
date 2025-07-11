@@ -2391,3 +2391,86 @@
 2025-07-10 12:05:56,700 - INFO - Updating SUMMARY.md...
 2025-07-10 12:05:56,700 - INFO - SUMMARY.md updated.
 2025-07-10 12:05:56,700 - INFO - All guides generated successfully with no detected data issues.
+2025-07-11 12:12:20,083 - INFO - Using Excel file: /home/runner/work/PAC/PAC/US Eye Insurance Guide.xlsx
+2025-07-11 12:12:20,689 - INFO - Excel sheets available: ['Insurance Directory Overview', 'Vision Plan Matrix', 'Albemarle Eye', 'Carolina Eye', 'Center for Sight', 'Center for Sight-Naples', 'Griffey Eye', 'Kelly Eye', 'Lake Eye ', 'Retina Health Center', 'SW FL Eye', 'Supplemental Plans', 'CVSE-ASC', 'LSC-ASC', 'MEC-ASC', 'PESC-ASC', 'SFSC-ASC']
+2025-07-11 12:12:20,689 - INFO - Processing Excel sheets for data extraction...
+2025-07-11 12:12:20,689 - INFO - Processing sheet: Center for Sight
+2025-07-11 12:12:20,895 - INFO - Headers in sheet 'Center for Sight': ['Insurance Plan Name', 'NextGen Name', 'Referral and/or Auth Required?', 'Is this plan only accepted at specific practice locations?', 'Tanuj Banker, MD (RETINA)', 'Shannon Bednarz, PA', 'Len Brown, OD', 'Gisselle Vrga Carraso', 'Brittany Coyle, OD', 'Elizabeth Davis, MD', 'Joaquin De Rojas, MD', 'John Fezza, MD (Oculoplastics)', 'Daniel Hadland, OD', 'Melissa Hammond, OD', 'Erin Hardie, OD', 'George Hurwitz, OD', 'Joshua Kim, MD', 'Kalie Kosek, PA', 'Todd Lang, OD', 'James Lenhart, OD', 'Lori Long, OD', 'Michael Maloney, OD', 'Priya Mathews, MD', 'Mary Mcvey, OD', 'David Mertzlufft, OD', 'Bradley Middaugh, OD', 'Patrick Nelson, OD', 'Joshua Newman, MD', 'Page Logan, OD', 'Charles Putrino, OD', 'Rachael Randolph, OD', 'Kyle Schaub, OD', 'David Shoemaker, MD', 'William Soscia, MD', 'Joseph Sowka, OD', 'Scott Stevens, OD', 'Maureen Traina, PA', 'Hunter Vittone, OD', 'Lori Vollmer, OD', 'Trisha Werner, OD', 'Callista Wlaschin, OD']
+2025-07-11 12:12:20,895 - INFO - Found location-specific column at position 3, doctors start at 4
+2025-07-11 12:12:20,895 - INFO - Detected 37 doctor columns in sheet 'Center for Sight': ['Tanuj Banker, MD (RETINA)', 'Shannon Bednarz, PA', 'Len Brown, OD', 'Gisselle Vrga Carraso', 'Brittany Coyle, OD', 'Elizabeth Davis, MD', 'Joaquin De Rojas, MD', 'John Fezza, MD (Oculoplastics)', 'Daniel Hadland, OD', 'Melissa Hammond, OD', 'Erin Hardie, OD', 'George Hurwitz, OD', 'Joshua Kim, MD', 'Kalie Kosek, PA', 'Todd Lang, OD', 'James Lenhart, OD', 'Lori Long, OD', 'Michael Maloney, OD', 'Priya Mathews, MD', 'Mary Mcvey, OD', 'David Mertzlufft, OD', 'Bradley Middaugh, OD', 'Patrick Nelson, OD', 'Joshua Newman, MD', 'Page Logan, OD', 'Charles Putrino, OD', 'Rachael Randolph, OD', 'Kyle Schaub, OD', 'David Shoemaker, MD', 'William Soscia, MD', 'Joseph Sowka, OD', 'Scott Stevens, OD', 'Maureen Traina, PA', 'Hunter Vittone, OD', 'Lori Vollmer, OD', 'Trisha Werner, OD', 'Callista Wlaschin, OD']
+2025-07-11 12:12:20,896 - INFO - DEBUG: Adding for Joaquin De Rojas, MD with plan Aetna CVS Health HMO - Status: PAR
+2025-07-11 12:12:20,897 - INFO - DEBUG: Adding for Joaquin De Rojas, MD with plan Aetna HealthFund- Aetna Health Network Only/ Network Option℠ (Open Access) - Status: PAR
+2025-07-11 12:12:20,897 - INFO - DEBUG: Adding for Joaquin De Rojas, MD with plan Aetna Healthfund- Aetna Open Access Aetna Select/ Choice PPO / POS / POS II - Status: PAR
+2025-07-11 12:12:20,897 - INFO - DEBUG: Adding for Joaquin De Rojas, MD with plan Aetna Healthfund- Aetna Open Access Elect Choice EPO - Status: PAR
+2025-07-11 12:12:20,897 - INFO - DEBUG: Adding for Joaquin De Rojas, MD with plan Aetna Healthfund- Aetna Open Access Managed Choice POS - Status: PAR
+2025-07-11 12:12:20,898 - INFO - DEBUG: Adding for Joaquin De Rojas, MD with plan Aetna Innovation - Innovation Health Aetna Select/National Advantage Program (NAP)/Innovataion Health Aetna POS/PPO - Status: PAR
+2025-07-11 12:12:20,898 - INFO - DEBUG: Adding for Joaquin De Rojas, MD with plan Aetna Medicare - Advantra - Eagle, Elite, Gold (HMO-POS) - Status: PAR
+2025-07-11 12:12:20,898 - INFO - DEBUG: Adding for Joaquin De Rojas, MD with plan Aetna Medicare - Credit Plan (PPO) - Status: PAR
+2025-07-11 12:12:20,898 - INFO - DEBUG: Adding for Joaquin De Rojas, MD with plan Aetna Medicare - Credit/Discover/Discover Value Plan/Silver (HMO) - Status: PAR
+2025-07-11 12:12:20,898 - INFO - DEBUG: Adding for Joaquin De Rojas, MD with plan Aetna Medicare - Essential/ Essential Elite/ Essentials PPO - Status: PAR
+2025-07-11 12:12:20,899 - INFO - DEBUG: Adding for Joaquin De Rojas, MD with plan Aetna Medicare - Preferred/ Preferred Premium PPO - Status: PAR
+2025-07-11 12:12:20,899 - INFO - DEBUG: Adding for Joaquin De Rojas, MD with plan Aetna Medicare - Select (HMO) - Status: Non-PAR
+2025-07-11 12:12:20,899 - INFO - DEBUG: Adding for Joaquin De Rojas, MD with plan Aetna Medicare- Advantra Credit Value/ Advantra Gold/ Advtantra Silver/ Advantra Preferred/ Advantra Premier/ Advantra Premier Plus/ Advantra Value PPO - Status: PAR
+2025-07-11 12:12:20,899 - INFO - DEBUG: Adding for Joaquin De Rojas, MD with plan Aetna Medicare- Bronze/ Gold/ Platinum/ Core/ Core Elite/ Deluxe/ Discover/ Discover Value Plan PPO - Status: PAR
+2025-07-11 12:12:20,899 - INFO - DEBUG: Adding for Joaquin De Rojas, MD with plan Aetna Medicare- Dual Choice/ Dual Preferred Plan/ Dual Select Choice/ Dual Select Signature HMO D-SNP - Status: PAR
+2025-07-11 12:12:20,900 - INFO - DEBUG: Adding for Joaquin De Rojas, MD with plan Aetna Medicare- Dual Choice/ Dual Preferred Plan/ Dual Select Choice/ Dual Select Signature PPO D-SNP - Status: PAR
+2025-07-11 12:12:20,900 - INFO - DEBUG: Adding for Joaquin De Rojas, MD with plan Aetna Medicare- Eagle/ Eagle Giveback/ Eagle I & II/ Eagle Plus PPO - Status: PAR
+2025-07-11 12:12:20,900 - INFO - DEBUG: Adding for Joaquin De Rojas, MD with plan Aetna Medicare- Elite/Elite Plan 3 PPO - Status: PAR
+2025-07-11 12:12:20,900 - INFO - DEBUG: Adding for Joaquin De Rojas, MD with plan Aetna Medicare- Enhanced Select PPO - Status: PAR
+2025-07-11 12:12:20,901 - INFO - DEBUG: Adding for Joaquin De Rojas, MD with plan Aetna Medicare- Explorer/ Explore Premier/ Explore Premier II PPO - Status: PAR
+2025-07-11 12:12:20,901 - INFO - DEBUG: Adding for Joaquin De Rojas, MD with plan Aetna Medicare- Freedom/ Freedom Core/ Freedom Plus/ Freedom Preferred PPO - Status: PAR
+2025-07-11 12:12:20,901 - INFO - DEBUG: Adding for Joaquin De Rojas, MD with plan Aetna Medicare- Giveback Choice/ Giveback Choice Plus PPO - Status: PAR
+2025-07-11 12:12:20,901 - INFO - DEBUG: Adding for Joaquin De Rojas, MD with plan Aetna Medicare- Medicare Choice PPO - Status: PAR
+2025-07-11 12:12:20,901 - INFO - DEBUG: Adding for Joaquin De Rojas, MD with plan Aetna Medicare- Premier/ Premier Regional/ Premier 1 & 2/ Premier Plus PPO - Status: PAR
+2025-07-11 12:12:20,902 - INFO - DEBUG: Adding for Joaquin De Rojas, MD with plan Aetna Medicare- SmartFit/ SmartFit Plan PPO - Status: PAR
+2025-07-11 12:12:20,902 - INFO - DEBUG: Adding for Joaquin De Rojas, MD with plan Aetna Medicare- SmartSaver Elite PPO - Status: PAR
+2025-07-11 12:12:20,902 - INFO - DEBUG: Adding for Joaquin De Rojas, MD with plan Aetna Medicare- Value Plan/ Value Advantra/ Value Plus/ Value Plus Signature PPO - Status: PAR
+2025-07-11 12:12:20,902 - INFO - DEBUG: Adding for Joaquin De Rojas, MD with plan Aetna Medicare-The Valley Plan PPO - Status: PAR
+2025-07-11 12:12:20,902 - INFO - DEBUG: Adding for Joaquin De Rojas, MD with plan Aetna Open Access- Aetna Choice® POS II/ Elect Choice EPO - Status: PAR
+2025-07-11 12:12:20,903 - INFO - DEBUG: Adding for Joaquin De Rojas, MD with plan Aetna Open Access- Aetna Health Network Only℠ - Status: PAR
+2025-07-11 12:12:20,903 - INFO - DEBUG: Adding for Joaquin De Rojas, MD with plan Aetna Open Access- Aetna Health Network Option℠ - Status: PAR
+2025-07-11 12:12:20,903 - INFO - DEBUG: Adding for Joaquin De Rojas, MD with plan Aetna Open Access- Aetna Managed Choice® POS - Status: PAR
+2025-07-11 12:12:20,903 - INFO - DEBUG: Adding for Joaquin De Rojas, MD with plan Aetna Open Access- Aetna Select℠ - Status: PAR
+2025-07-11 12:12:20,903 - INFO - DEBUG: Adding for Joaquin De Rojas, MD with plan Aetna Premier Care Network Plus- Choice POS II - Status: PAR
+2025-07-11 12:12:20,904 - INFO - DEBUG: Adding for Joaquin De Rojas, MD with plan Aetna Premier Care Network Plus- Open Access Aetna Select - Status: PAR
+2025-07-11 12:12:20,904 - INFO - DEBUG: Adding for Joaquin De Rojas, MD with plan Aetna Small Group Employer Plan- Aetna Florida Elect Choice Open Access (OAEPO) - Status: PAR
+2025-07-11 12:12:20,904 - INFO - DEBUG: Adding for Joaquin De Rojas, MD with plan Aetna Small Group Employer Plan- Aetna Florida Health Network Only (HNOnly) - Status: PAR
+2025-07-11 12:12:20,904 - INFO - DEBUG: Adding for Joaquin De Rojas, MD with plan Aetna Standard Plan- Aetna Affordable Health Choices® limited benefits insurance plan (SRC only) - Status: PAR
+2025-07-11 12:12:20,905 - INFO - DEBUG: Adding for Joaquin De Rojas, MD with plan Aetna Standard Plan- Aetna HMO/ HMO Gold/ Silver - Status: PAR
+2025-07-11 12:12:20,905 - INFO - DEBUG: Adding for Joaquin De Rojas, MD with plan Aetna Standard Plan- Aetna Managed Choice® POS - Status: PAR
+2025-07-11 12:12:20,905 - INFO - DEBUG: Adding for Joaquin De Rojas, MD with plan Aetna Standard Plan- Aetna Open Choice® PPO - Status: PAR
+2025-07-11 12:12:20,905 - INFO - DEBUG: Adding for Joaquin De Rojas, MD with plan Aetna Standard Plan- Aetna QPOS®/ Select/ Voluntary Plans - Status: PAR
+2025-07-11 12:12:20,905 - INFO - DEBUG: Adding for Joaquin De Rojas, MD with plan Aetna Whole Health- Southwest Florida - Open Access Elect Choice/ Southwest Florida Open Access Aetna Select/ Southwest Florida Health Network Only - Status: PAR
+2025-07-11 12:12:20,913 - INFO - DEBUG: Adding for Joaquin De Rojas, MD with plan Employee Benefits Management Services (EMBS) with Aetna Network - Status: PAR
+2025-07-11 12:12:20,914 - INFO - DEBUG: Adding for Joaquin De Rojas, MD with plan First Health Network (through Aetna and/or PHP Network) PLEASE ASK THE PATIENT FOR THE HEALTH PLAN NAME ON THE CARD AND LOAD THE PLAN INTO NEXTGEN ACCORDING TO THEIR HEALTH PLAN - Status: PAR
+2025-07-11 12:12:20,915 - INFO - DEBUG: Adding for Joaquin De Rojas, MD with plan Mailhandlers (Aetna Choice® POS II Network) - Status: PAR
+2025-07-11 12:12:20,916 - INFO - DEBUG: Adding for Joaquin De Rojas, MD with plan Meritain Gulf Coast (Aetna Choice POS II Network) - Status: PAR
+2025-07-11 12:12:20,954 - INFO - Processed 213 rows in sheet 'Center for Sight'
+2025-07-11 12:12:20,954 - INFO - Processing sheet: Center for Sight-Naples
+2025-07-11 12:12:21,080 - INFO - Headers in sheet 'Center for Sight-Naples': ['Insurance Plan Name', 'NextGen Name', 'Referral and/or Auth Required?', 'Is this plan only accepted at specific practice locations?', 'Jon Berlie, MD', 'George Brinnig-Jastrzebski, MD', 'Julie Carter, MD', 'Hunter Vittone, OD']
+2025-07-11 12:12:21,080 - INFO - Found location-specific column at position 3, doctors start at 4
+2025-07-11 12:12:21,081 - INFO - Detected 4 doctor columns in sheet 'Center for Sight-Naples': ['Jon Berlie, MD', 'George Brinnig-Jastrzebski, MD', 'Julie Carter, MD', 'Hunter Vittone, OD']
+2025-07-11 12:12:21,094 - INFO - Processed 209 rows in sheet 'Center for Sight-Naples'
+2025-07-11 12:12:21,094 - INFO - Processing sheet: Lake Eye 
+2025-07-11 12:12:21,139 - INFO - Headers in sheet 'Lake Eye ': ['Insurance Plan Name', 'NextGen Name', 'Referral and/or Auth Required?', 'Christine Bui, OD', 'Vinay Gutti, MD', 'Mari Holderby, OD', 'Scot Holman, MD', 'Diba Ossareh, OD', 'Alexandria Rawls, OD', 'Jose Vazques-Diaz, MD', 'Scott Wehrly, MD']
+2025-07-11 12:12:21,139 - INFO - Detected 8 doctor columns in sheet 'Lake Eye ': ['Christine Bui, OD', 'Vinay Gutti, MD', 'Mari Holderby, OD', 'Scot Holman, MD', 'Diba Ossareh, OD', 'Alexandria Rawls, OD', 'Jose Vazques-Diaz, MD', 'Scott Wehrly, MD']
+2025-07-11 12:12:21,152 - INFO - Processed 185 rows in sheet 'Lake Eye '
+2025-07-11 12:12:21,152 - INFO - Processing sheet: Retina Health Center
+2025-07-11 12:12:21,181 - INFO - Headers in sheet 'Retina Health Center': ['Insurance Plan Name', 'NextGen Name', 'Referral and/or Auth Required?', 'Alexander Eaton, MD', 'Veronica Kon Graversen, MD']
+2025-07-11 12:12:21,181 - INFO - Detected 2 doctor columns in sheet 'Retina Health Center': ['Alexander Eaton, MD', 'Veronica Kon Graversen, MD']
+2025-07-11 12:12:21,191 - INFO - Processed 163 rows in sheet 'Retina Health Center'
+2025-07-11 12:12:21,191 - INFO - Processing sheet: SW FL Eye
+2025-07-11 12:12:21,232 - INFO - Headers in sheet 'SW FL Eye': ['Insurance Plan Name', 'NextGen Name', 'Referral and/or Auth Required?', 'Is this plan only accepted at specific practice locations?', 'Sarah Johnson, OD', 'Brian Marhue, OD', 'Penny Orr, OD', 'Albert Smolyar, MD', 'Hunter Vittone, OD']
+2025-07-11 12:12:21,232 - INFO - Found location-specific column at position 3, doctors start at 4
+2025-07-11 12:12:21,232 - INFO - Detected 5 doctor columns in sheet 'SW FL Eye': ['Sarah Johnson, OD', 'Brian Marhue, OD', 'Penny Orr, OD', 'Albert Smolyar, MD', 'Hunter Vittone, OD']
+2025-07-11 12:12:21,245 - INFO - Processed 193 rows in sheet 'SW FL Eye'
+2025-07-11 12:12:21,245 - INFO - Data extraction complete.
+2025-07-11 12:12:21,245 - INFO - Generating Insurance Guide By Provider...
+2025-07-11 12:12:21,259 - INFO - Generated Insurance_Guide_By_Provider.md
+2025-07-11 12:12:21,259 - INFO - Generating Insurance Guide By Insurance...
+2025-07-11 12:12:21,320 - INFO - Generated Insurance_Guide_By_Insurance.md
+2025-07-11 12:12:21,320 - INFO - Generating FAQ section...
+2025-07-11 12:12:21,324 - WARNING - Sheet 'Insurance Directory Overview' does not have enough rows/columns for the specified FAQ range (A19:B36). FAQ section will be skipped.
+2025-07-11 12:12:21,324 - INFO - Updating SUMMARY.md...
+2025-07-11 12:12:21,324 - INFO - SUMMARY.md updated.
+2025-07-11 12:12:21,324 - INFO - All guides generated successfully with no detected data issues.
