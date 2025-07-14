@@ -8,7 +8,7 @@
 
 | Insurance Plan Name | NextGen Name | Referral/Auth | Status |
 |--------------------|-------------|--------------|--------|
-| AARP Medicare Advantage from UHC FL-0005-0015/001P/003P (HMO-POS) | UHC AARP Advantage HMO-87726 | No Ref/No Auth Required | Non-PAR |
+| AARP Medicare Advantage from UHC FL-0005-0015/001P/003P (HMO-POS) | UHC AARP Medicare Advantage HMO-87726 | No Ref/No Auth Required | Non-PAR |
 | AARP Medicare Advantage from UHC FL-0016-0027 (PPO) | UHC AARP Medicare Advantage PPO-87726 | No Ref/No Auth Required | Non-PAR |
 | AARP Medicare Advantage from UHC FL-0031 (Regional PPO) | UHC AARP Medicare Advantage PPO-87726 | No Ref/No Auth Required | Non-PAR |
 | AARP Medicare Advantage HMO- WELLMED (Payer ID is WELM2) | UHC AARP Medicare Advantage HMO-WELM2 | No Ref/No Auth Required | Non-PAR |

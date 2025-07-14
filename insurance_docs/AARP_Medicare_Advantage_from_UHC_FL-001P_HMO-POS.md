@@ -8,31 +8,31 @@
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
-| Alexandria Rawls, OD | UHC AARP Advantage HMO-87726 | No Ref/No Auth Required | PAR |
-| Christine Bui, OD | UHC AARP Advantage HMO-87726 | No Ref/No Auth Required | PAR |
-| Diba Ossareh, OD | UHC AARP Advantage HMO-87726 | No Ref/No Auth Required | PAR |
-| Jose Vazques-Diaz, MD | UHC AARP Advantage HMO-87726 | No Ref/No Auth Required | PAR |
-| Mari Holderby, OD | UHC AARP Advantage HMO-87726 | No Ref/No Auth Required | PAR |
-| Scot Holman, MD | UHC AARP Advantage HMO-87726 | No Ref/No Auth Required | PAR |
-| Scott Wehrly, MD | UHC AARP Advantage HMO-87726 | No Ref/No Auth Required | PAR |
-| Vinay Gutti, MD | UHC AARP Advantage HMO-87726 | No Ref/No Auth Required | PAR |
+| Alexandria Rawls, OD | UHC AARP Medicare Advantage HMO-87726 | No Ref/No Auth Required | PAR |
+| Christine Bui, OD | UHC AARP Medicare Advantage HMO-87726 | No Ref/No Auth Required | PAR |
+| Diba Ossareh, OD | UHC AARP Medicare Advantage HMO-87726 | No Ref/No Auth Required | PAR |
+| Jose Vazques-Diaz, MD | UHC AARP Medicare Advantage HMO-87726 | No Ref/No Auth Required | PAR |
+| Mari Holderby, OD | UHC AARP Medicare Advantage HMO-87726 | No Ref/No Auth Required | PAR |
+| Scot Holman, MD | UHC AARP Medicare Advantage HMO-87726 | No Ref/No Auth Required | PAR |
+| Scott Wehrly, MD | UHC AARP Medicare Advantage HMO-87726 | No Ref/No Auth Required | PAR |
+| Vinay Gutti, MD | UHC AARP Medicare Advantage HMO-87726 | No Ref/No Auth Required | PAR |
 
 ## Retina Health Center
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
-| Alexander Eaton, MD | UHC AARP Advantage HMO-87726 | No Ref/No Auth Required | PAR |
-| Veronica Kon Graversen, MD | UHC AARP Advantage HMO-87726 | No Ref/No Auth Required | PAR |
+| Alexander Eaton, MD | UHC AARP Medicare Advantage HMO-87726 | No Ref/No Auth Required | PAR |
+| Veronica Kon Graversen, MD | UHC AARP Medicare Advantage HMO-87726 | No Ref/No Auth Required | PAR |
 
 ## SW FL Eye
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
-| Albert Smolyar, MD | UHC AARP Advantage HMO-87726 | No Ref/No Auth Required | PAR |
-| Brian Marhue, OD | UHC AARP Advantage HMO-87726 | No Ref/No Auth Required | PAR |
-| Hunter Vittone, OD | UHC AARP Advantage HMO-87726 | No Ref/No Auth Required | PAR |
-| Penny Orr, OD | UHC AARP Advantage HMO-87726 | No Ref/No Auth Required | PAR |
-| Sarah Johnson, OD | UHC AARP Advantage HMO-87726 | No Ref/No Auth Required | PAR |
+| Albert Smolyar, MD | UHC AARP Medicare Advantage HMO-87726 | No Ref/No Auth Required | PAR |
+| Brian Marhue, OD | UHC AARP Medicare Advantage HMO-87726 | No Ref/No Auth Required | PAR |
+| Hunter Vittone, OD | UHC AARP Medicare Advantage HMO-87726 | No Ref/No Auth Required | PAR |
+| Penny Orr, OD | UHC AARP Medicare Advantage HMO-87726 | No Ref/No Auth Required | PAR |
+| Sarah Johnson, OD | UHC AARP Medicare Advantage HMO-87726 | No Ref/No Auth Required | PAR |
 
 </details>
 
