@@ -17,7 +17,7 @@
 | David Shoemaker, MD | Vision Service Plan | Authorization Required | PAR |
 | Elizabeth Davis, MD | Vision Service Plan | Authorization Required | Non-PAR |
 | Erin Hardie, OD | Vision Service Plan | Authorization Required | PAR |
-| George Hurwitz, OD | Vision Service Plan | Authorization Required | Non-PAR |
+| George Hurwitz, OD | Vision Service Plan | Authorization Required | PAR |
 | Gisselle Vrga Carraso | Vision Service Plan | Authorization Required | Non-PAR |
 | Hunter Vittone, OD | Vision Service Plan | Authorization Required | PAR |
 | James Lenhart, OD | Vision Service Plan | Authorization Required | PAR |
@@ -34,9 +34,9 @@
 | Mary Mcvey, OD | Vision Service Plan | Authorization Required | PAR |
 | Maureen Traina, PA | Vision Service Plan | Authorization Required | Non-PAR |
 | Melissa Hammond, OD | Vision Service Plan | Authorization Required | PAR |
-| Michael Maloney, OD | Vision Service Plan | Authorization Required | Non-PAR |
+| Michael Maloney, OD | Vision Service Plan | Authorization Required | PAR |
 | Page Logan, OD | Vision Service Plan | Authorization Required | PAR |
-| Patrick Nelson, OD | Vision Service Plan | Authorization Required | Non-PAR |
+| Patrick Nelson, OD | Vision Service Plan | Authorization Required | PAR |
 | Priya Mathews, MD | Vision Service Plan | Authorization Required | Non-PAR |
 | Rachael Randolph, OD | Vision Service Plan | Authorization Required | PAR |
 | Scott Stevens, OD | Vision Service Plan | Authorization Required | PAR |
