@@ -18,6 +18,7 @@
 | Elizabeth Davis, MD | Eyemed Vision | No Ref/No Auth Required | Non-PAR |
 | Erin Hardie, OD | Eyemed Vision | No Ref/No Auth Required | PAR |
 | George Hurwitz, OD | Eyemed Vision | No Ref/No Auth Required | PAR |
+| Giselle Vega, OD | Eyemed Vision | No Ref/No Auth Required | Non-PAR |
 | Gisselle Vrga Carraso | Eyemed Vision | No Ref/No Auth Required | Non-PAR |
 | Hunter Vittone, OD | Eyemed Vision | No Ref/No Auth Required | PAR |
 | James Lenhart, OD | Eyemed Vision | No Ref/No Auth Required | PAR |

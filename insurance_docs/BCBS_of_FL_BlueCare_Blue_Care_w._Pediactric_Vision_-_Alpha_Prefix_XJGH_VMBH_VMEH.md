@@ -18,6 +18,7 @@
 | Elizabeth Davis, MD | BCBS FL Commercial HMO | Authorization Required | PAR |
 | Erin Hardie, OD | BCBS FL Commercial HMO | Authorization Required | PAR |
 | George Hurwitz, OD | BCBS FL Commercial HMO | Authorization Required | PAR |
+| Giselle Vega, OD | BCBS FL Commercial HMO | Authorization Required | Non-PAR |
 | Gisselle Vrga Carraso | BCBS FL Commercial HMO | Authorization Required | Non-PAR |
 | Hunter Vittone, OD | BCBS FL Commercial HMO | Authorization Required | PAR |
 | James Lenhart, OD | BCBS FL Commercial HMO | Authorization Required | PAR |

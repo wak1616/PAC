@@ -18,6 +18,7 @@
 | Elizabeth Davis, MD | UHC UMR-39026 | No Ref/No Auth Required | PAR |
 | Erin Hardie, OD | UHC UMR-39026 | No Ref/No Auth Required | PAR |
 | George Hurwitz, OD | UHC UMR-39026 | No Ref/No Auth Required | PAR |
+| Giselle Vega, OD | UHC UMR-39026 | No Ref/No Auth Required | Non-PAR |
 | Gisselle Vrga Carraso | UHC UMR-39026 | No Ref/No Auth Required | Non-PAR |
 | Hunter Vittone, OD | UHC UMR-39026 | No Ref/No Auth Required | PAR |
 | James Lenhart, OD | UHC UMR-39026 | No Ref/No Auth Required | PAR |

@@ -18,6 +18,7 @@
 | Elizabeth Davis, MD | Aetna Medicare HMO REFERRAL REQ | Referral Required | PAR |
 | Erin Hardie, OD | Aetna Medicare HMO REFERRAL REQ | Referral Required | Non-PAR |
 | George Hurwitz, OD | Aetna Medicare HMO REFERRAL REQ | Referral Required | Non-PAR |
+| Giselle Vega, OD | Aetna Medicare HMO REFERRAL REQ | Referral Required | Non-PAR |
 | Gisselle Vrga Carraso | Aetna Medicare HMO REFERRAL REQ | Referral Required | Non-PAR |
 | Hunter Vittone, OD | Aetna Medicare HMO REFERRAL REQ | Referral Required | Non-PAR |
 | James Lenhart, OD | Aetna Medicare HMO REFERRAL REQ | Referral Required | Non-PAR |

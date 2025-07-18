@@ -18,6 +18,7 @@
 | Elizabeth Davis, MD | Railroad Medicare | No Ref/No Auth Required | PAR |
 | Erin Hardie, OD | Railroad Medicare | No Ref/No Auth Required | PAR |
 | George Hurwitz, OD | Railroad Medicare | No Ref/No Auth Required | PAR |
+| Giselle Vega, OD | Railroad Medicare | No Ref/No Auth Required | Non-PAR |
 | Gisselle Vrga Carraso | Railroad Medicare | No Ref/No Auth Required | OK to Schedule-HOLD Claims until PAR |
 | Hunter Vittone, OD | Railroad Medicare | No Ref/No Auth Required | PAR |
 | James Lenhart, OD | Railroad Medicare | No Ref/No Auth Required | PAR |

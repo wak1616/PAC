@@ -18,6 +18,7 @@
 | Elizabeth Davis, MD | UHC Shared Services PPO-39026 | No Ref/No Auth Required | PAR |
 | Erin Hardie, OD | UHC Shared Services PPO-39026 | No Ref/No Auth Required | PAR |
 | George Hurwitz, OD | UHC Shared Services PPO-39026 | No Ref/No Auth Required | PAR |
+| Giselle Vega, OD | UHC Shared Services PPO-39026 | No Ref/No Auth Required | Non-PAR |
 | Gisselle Vrga Carraso | UHC Shared Services PPO-39026 | No Ref/No Auth Required | Non-PAR |
 | Hunter Vittone, OD | UHC Shared Services PPO-39026 | No Ref/No Auth Required | PAR |
 | James Lenhart, OD | UHC Shared Services PPO-39026 | No Ref/No Auth Required | PAR |

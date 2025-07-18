@@ -18,6 +18,7 @@
 | Elizabeth Davis, MD | Spectera Vision | No Ref/No Auth Required | Non-PAR |
 | Erin Hardie, OD | Spectera Vision | No Ref/No Auth Required | Non-PAR |
 | George Hurwitz, OD | Spectera Vision | No Ref/No Auth Required | Non-PAR |
+| Giselle Vega, OD | Spectera Vision | No Ref/No Auth Required | Non-PAR |
 | Gisselle Vrga Carraso | Spectera Vision | No Ref/No Auth Required | Non-PAR |
 | Hunter Vittone, OD | Spectera Vision | No Ref/No Auth Required | PAR |
 | James Lenhart, OD | Spectera Vision | No Ref/No Auth Required | Non-PAR |

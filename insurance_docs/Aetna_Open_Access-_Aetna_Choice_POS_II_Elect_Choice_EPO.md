@@ -18,6 +18,7 @@
 | Elizabeth Davis, MD | Aetna Commercial PPO | No Ref/No Auth Required | PAR |
 | Erin Hardie, OD | Aetna Commercial PPO | No Ref/No Auth Required | PAR |
 | George Hurwitz, OD | Aetna Commercial PPO | No Ref/No Auth Required | PAR |
+| Giselle Vega, OD | Aetna Commercial PPO | No Ref/No Auth Required | Non-PAR |
 | Gisselle Vrga Carraso | Aetna Commercial PPO | No Ref/No Auth Required | Non-PAR |
 | Hunter Vittone, OD | Aetna Commercial PPO | No Ref/No Auth Required | PAR |
 | James Lenhart, OD | Aetna Commercial PPO | No Ref/No Auth Required | PAR |

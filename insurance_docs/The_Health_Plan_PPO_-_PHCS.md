@@ -18,6 +18,7 @@
 | Elizabeth Davis, MD | The Health Plan PPO - PHCS | No Ref/No Auth Required | PAR |
 | Erin Hardie, OD | The Health Plan PPO - PHCS | No Ref/No Auth Required | PAR |
 | George Hurwitz, OD | The Health Plan PPO - PHCS | No Ref/No Auth Required | PAR |
+| Giselle Vega, OD | The Health Plan PPO - PHCS | No Ref/No Auth Required | Non-PAR |
 | Gisselle Vrga Carraso | The Health Plan PPO - PHCS | No Ref/No Auth Required | Non-PAR |
 | Hunter Vittone, OD | The Health Plan PPO - PHCS | No Ref/No Auth Required | PAR |
 | James Lenhart, OD | The Health Plan PPO - PHCS | No Ref/No Auth Required | PAR |

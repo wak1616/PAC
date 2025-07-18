@@ -18,6 +18,7 @@
 | Elizabeth Davis, MD | UHC HRA/HSA/POS-87726 | No Ref/No Auth Required | PAR |
 | Erin Hardie, OD | UHC HRA/HSA/POS-87726 | No Ref/No Auth Required | PAR |
 | George Hurwitz, OD | UHC HRA/HSA/POS-87726 | No Ref/No Auth Required | PAR |
+| Giselle Vega, OD | UHC HRA/HSA/POS-87726 | No Ref/No Auth Required | Non-PAR |
 | Gisselle Vrga Carraso | UHC HRA/HSA/POS-87726 | No Ref/No Auth Required | Non-PAR |
 | Hunter Vittone, OD | UHC HRA/HSA/POS-87726 | No Ref/No Auth Required | PAR |
 | James Lenhart, OD | UHC HRA/HSA/POS-87726 | No Ref/No Auth Required | PAR |

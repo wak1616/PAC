@@ -18,6 +18,7 @@
 | Elizabeth Davis, MD | BCBS OOS MDCR HMO POS - REFERRAL REQ | Referral Required | PAR |
 | Erin Hardie, OD | BCBS OOS MDCR HMO POS - REFERRAL REQ | Referral Required | PAR |
 | George Hurwitz, OD | BCBS OOS MDCR HMO POS - REFERRAL REQ | Referral Required | PAR |
+| Giselle Vega, OD | BCBS OOS MDCR HMO POS - REFERRAL REQ | Referral Required | Non-PAR |
 | Gisselle Vrga Carraso | BCBS OOS MDCR HMO POS - REFERRAL REQ | Referral Required | Non-PAR |
 | Hunter Vittone, OD | BCBS OOS MDCR HMO POS - REFERRAL REQ | Referral Required | PAR |
 | James Lenhart, OD | BCBS OOS MDCR HMO POS - REFERRAL REQ | Referral Required | PAR |

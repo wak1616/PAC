@@ -18,6 +18,7 @@
 | Elizabeth Davis, MD | Cigna Medicare HMO REFERRAL REQUIRED | Referral Required | Non-PAR |
 | Erin Hardie, OD | Cigna Medicare HMO REFERRAL REQUIRED | Referral Required | PAR |
 | George Hurwitz, OD | Cigna Medicare HMO REFERRAL REQUIRED | Referral Required | PAR |
+| Giselle Vega, OD | Cigna Medicare HMO REFERRAL REQUIRED | Referral Required | Non-PAR |
 | Gisselle Vrga Carraso | Cigna Medicare HMO REFERRAL REQUIRED | Referral Required | Non-PAR |
 | Hunter Vittone, OD | Cigna Medicare HMO REFERRAL REQUIRED | Referral Required | PAR |
 | James Lenhart, OD | Cigna Medicare HMO REFERRAL REQUIRED | Referral Required | PAR |

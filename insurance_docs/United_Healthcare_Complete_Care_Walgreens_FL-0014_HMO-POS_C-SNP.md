@@ -18,6 +18,7 @@
 | Elizabeth Davis, MD | UHC AARP Advantage HMO-87726 | No Ref/No Auth Required | PAR |
 | Erin Hardie, OD | UHC AARP Advantage HMO-87726 | No Ref/No Auth Required | PAR |
 | George Hurwitz, OD | UHC AARP Advantage HMO-87726 | No Ref/No Auth Required | PAR |
+| Giselle Vega, OD | UHC AARP Advantage HMO-87726 | No Ref/No Auth Required | Non-PAR |
 | Gisselle Vrga Carraso | UHC AARP Advantage HMO-87726 | No Ref/No Auth Required | Non-PAR |
 | Hunter Vittone, OD | UHC AARP Advantage HMO-87726 | No Ref/No Auth Required | PAR |
 | James Lenhart, OD | UHC AARP Advantage HMO-87726 | No Ref/No Auth Required | PAR |

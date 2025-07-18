@@ -18,6 +18,7 @@
 | Elizabeth Davis, MD | Dean Health Plan PPO | No Ref/No Auth Required | PAR |
 | Erin Hardie, OD | Dean Health Plan PPO | No Ref/No Auth Required | PAR |
 | George Hurwitz, OD | Dean Health Plan PPO | No Ref/No Auth Required | PAR |
+| Giselle Vega, OD | Dean Health Plan PPO | No Ref/No Auth Required | Non-PAR |
 | Gisselle Vrga Carraso | Dean Health Plan PPO | No Ref/No Auth Required | Non-PAR |
 | Hunter Vittone, OD | Dean Health Plan PPO | No Ref/No Auth Required | PAR |
 | James Lenhart, OD | Dean Health Plan PPO | No Ref/No Auth Required | PAR |

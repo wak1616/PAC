@@ -18,6 +18,7 @@
 | Elizabeth Davis, MD | BCBS FL Medicare HMO REFERRAL REQ | Referral Required | PAR |
 | Erin Hardie, OD | BCBS FL Medicare HMO REFERRAL REQ | Referral Required | PAR |
 | George Hurwitz, OD | BCBS FL Medicare HMO REFERRAL REQ | Referral Required | PAR |
+| Giselle Vega, OD | BCBS FL Medicare HMO REFERRAL REQ | Referral Required | Non-PAR |
 | Gisselle Vrga Carraso | BCBS FL Medicare HMO REFERRAL REQ | Referral Required | Non-PAR |
 | Hunter Vittone, OD | BCBS FL Medicare HMO REFERRAL REQ | Referral Required | PAR |
 | James Lenhart, OD | BCBS FL Medicare HMO REFERRAL REQ | Referral Required | PAR |

@@ -18,6 +18,7 @@
 | Elizabeth Davis, MD | BCBS FL Commercial HMO-POS |  | PAR |
 | Erin Hardie, OD | BCBS FL Commercial HMO-POS |  | PAR |
 | George Hurwitz, OD | BCBS FL Commercial HMO-POS |  | PAR |
+| Giselle Vega, OD | BCBS FL Commercial HMO-POS |  | Non-PAR |
 | Gisselle Vrga Carraso | BCBS FL Commercial HMO-POS |  | Non-PAR |
 | Hunter Vittone, OD | BCBS FL Commercial HMO-POS |  | PAR |
 | James Lenhart, OD | BCBS FL Commercial HMO-POS |  | PAR |

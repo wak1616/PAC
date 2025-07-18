@@ -18,6 +18,7 @@
 | Elizabeth Davis, MD | Cigna International | Authorization Required | PAR |
 | Erin Hardie, OD | Cigna International | Authorization Required | PAR |
 | George Hurwitz, OD | Cigna International | Authorization Required | PAR |
+| Giselle Vega, OD | Cigna International | Authorization Required | Non-PAR |
 | Gisselle Vrga Carraso | Cigna International | Authorization Required | Non-PAR |
 | Hunter Vittone, OD | Cigna International | Authorization Required | PAR |
 | James Lenhart, OD | Cigna International | Authorization Required | PAR |

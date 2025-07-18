@@ -18,6 +18,7 @@
 | Elizabeth Davis, MD | BCBS Federal | No Ref/No Auth Required | PAR |
 | Erin Hardie, OD | BCBS Federal | No Ref/No Auth Required | PAR |
 | George Hurwitz, OD | BCBS Federal | No Ref/No Auth Required | PAR |
+| Giselle Vega, OD | BCBS Federal | No Ref/No Auth Required | Non-PAR |
 | Gisselle Vrga Carraso | BCBS Federal | No Ref/No Auth Required | Non-PAR |
 | Hunter Vittone, OD | BCBS Federal | No Ref/No Auth Required | PAR |
 | James Lenhart, OD | BCBS Federal | No Ref/No Auth Required | PAR |

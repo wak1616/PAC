@@ -18,6 +18,7 @@
 | Elizabeth Davis, MD | Priority Health Medicare PPO - Multiplan | No Ref/No Auth Required | Non-PAR |
 | Erin Hardie, OD | Priority Health Medicare PPO - Multiplan | No Ref/No Auth Required | PAR |
 | George Hurwitz, OD | Priority Health Medicare PPO - Multiplan | No Ref/No Auth Required | PAR |
+| Giselle Vega, OD | Priority Health Medicare PPO - Multiplan | No Ref/No Auth Required | Non-PAR |
 | Gisselle Vrga Carraso | Priority Health Medicare PPO - Multiplan | No Ref/No Auth Required | Non-PAR |
 | Hunter Vittone, OD | Priority Health Medicare PPO - Multiplan | No Ref/No Auth Required | PAR |
 | James Lenhart, OD | Priority Health Medicare PPO - Multiplan | No Ref/No Auth Required | PAR |

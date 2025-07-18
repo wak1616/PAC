@@ -18,6 +18,7 @@
 | Elizabeth Davis, MD | Cigna Commercial PPO | No Ref/No Auth Required | Non-PAR |
 | Erin Hardie, OD | Cigna Commercial PPO | No Ref/No Auth Required | Non-PAR |
 | George Hurwitz, OD | Cigna Commercial PPO | No Ref/No Auth Required | Non-PAR |
+| Giselle Vega, OD | Cigna Commercial PPO | No Ref/No Auth Required | Non-PAR |
 | Gisselle Vrga Carraso | Cigna Commercial PPO | No Ref/No Auth Required | Non-PAR |
 | Hunter Vittone, OD | Cigna Commercial PPO | No Ref/No Auth Required | Non-PAR |
 | James Lenhart, OD | Cigna Commercial PPO | No Ref/No Auth Required | Non-PAR |

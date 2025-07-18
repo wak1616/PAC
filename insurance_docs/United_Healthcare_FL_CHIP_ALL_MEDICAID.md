@@ -18,6 +18,7 @@
 | Elizabeth Davis, MD | Self Pay Non-Par with Ins |  | PAR |
 | Erin Hardie, OD | Self Pay Non-Par with Ins |  | Non-PAR |
 | George Hurwitz, OD | Self Pay Non-Par with Ins |  | Non-PAR |
+| Giselle Vega, OD | Self Pay Non-Par with Ins |  | Non-PAR |
 | Gisselle Vrga Carraso | Self Pay Non-Par with Ins |  | Non-PAR |
 | Hunter Vittone, OD | Self Pay Non-Par with Ins |  | Non-PAR |
 | James Lenhart, OD | Self Pay Non-Par with Ins |  | Non-PAR |

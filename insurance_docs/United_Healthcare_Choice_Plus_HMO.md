@@ -18,6 +18,7 @@
 | Elizabeth Davis, MD | UHC Commercial HMO | No Ref/No Auth Required | PAR |
 | Erin Hardie, OD | UHC Commercial HMO | No Ref/No Auth Required | PAR |
 | George Hurwitz, OD | UHC Commercial HMO | No Ref/No Auth Required | PAR |
+| Giselle Vega, OD | UHC Commercial HMO | No Ref/No Auth Required | Non-PAR |
 | Gisselle Vrga Carraso | UHC Commercial HMO | No Ref/No Auth Required | Non-PAR |
 | Hunter Vittone, OD | UHC Commercial HMO | No Ref/No Auth Required | PAR |
 | James Lenhart, OD | UHC Commercial HMO | No Ref/No Auth Required | PAR |

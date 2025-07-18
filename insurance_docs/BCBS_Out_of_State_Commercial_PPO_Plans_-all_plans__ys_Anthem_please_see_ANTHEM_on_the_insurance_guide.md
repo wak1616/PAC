@@ -18,6 +18,7 @@
 | Elizabeth Davis, MD | BCBS Out of State Commercial PPO | No Ref/No Auth Required | PAR |
 | Erin Hardie, OD | BCBS Out of State Commercial PPO | No Ref/No Auth Required | PAR |
 | George Hurwitz, OD | BCBS Out of State Commercial PPO | No Ref/No Auth Required | PAR |
+| Giselle Vega, OD | BCBS Out of State Commercial PPO | No Ref/No Auth Required | Non-PAR |
 | Gisselle Vrga Carraso | BCBS Out of State Commercial PPO | No Ref/No Auth Required | Non-PAR |
 | Hunter Vittone, OD | BCBS Out of State Commercial PPO | No Ref/No Auth Required | PAR |
 | James Lenhart, OD | BCBS Out of State Commercial PPO | No Ref/No Auth Required | PAR |

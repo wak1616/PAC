@@ -18,6 +18,7 @@
 | Elizabeth Davis, MD | WellCare Medicare PPO | Authorization MAY BE Required | Non-PAR -OON Benefits |
 | Erin Hardie, OD | WellCare Medicare PPO | Authorization MAY BE Required | Non-PAR -OON Benefits |
 | George Hurwitz, OD | WellCare Medicare PPO | Authorization MAY BE Required | Non-PAR -OON Benefits |
+| Giselle Vega, OD | WellCare Medicare PPO | Authorization MAY BE Required | Non-PAR -OON Benefits |
 | Gisselle Vrga Carraso | WellCare Medicare PPO | Authorization MAY BE Required | Non-PAR -OON Benefits |
 | Hunter Vittone, OD | WellCare Medicare PPO | Authorization MAY BE Required | Non-PAR -OON Benefits |
 | James Lenhart, OD | WellCare Medicare PPO | Authorization MAY BE Required | Non-PAR -OON Benefits |

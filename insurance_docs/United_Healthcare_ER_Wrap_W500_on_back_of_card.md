@@ -18,6 +18,7 @@
 | Elizabeth Davis, MD | UHC ER Wrap | Authorization Required | PAR |
 | Erin Hardie, OD | UHC ER Wrap | Authorization Required | PAR |
 | George Hurwitz, OD | UHC ER Wrap | Authorization Required | PAR |
+| Giselle Vega, OD | UHC ER Wrap | Authorization Required | Non-PAR |
 | Gisselle Vrga Carraso | UHC ER Wrap | Authorization Required | Non-PAR |
 | Hunter Vittone, OD | UHC ER Wrap | Authorization Required | PAR |
 | James Lenhart, OD | UHC ER Wrap | Authorization Required | PAR |

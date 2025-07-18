@@ -18,6 +18,7 @@
 | Elizabeth Davis, MD | UHC Medica-94265 | No Ref/No Auth Required | PAR |
 | Erin Hardie, OD | UHC Medica-94265 | No Ref/No Auth Required | PAR |
 | George Hurwitz, OD | UHC Medica-94265 | No Ref/No Auth Required | PAR |
+| Giselle Vega, OD | UHC Medica-94265 | No Ref/No Auth Required | Non-PAR |
 | Gisselle Vrga Carraso | UHC Medica-94265 | No Ref/No Auth Required | Non-PAR |
 | Hunter Vittone, OD | UHC Medica-94265 | No Ref/No Auth Required | PAR |
 | James Lenhart, OD | UHC Medica-94265 | No Ref/No Auth Required | PAR |

@@ -18,6 +18,7 @@
 | Elizabeth Davis, MD | Meritain Health Commercial - Aetna | No Ref/No Auth Required | PAR |
 | Erin Hardie, OD | Meritain Health Commercial - Aetna | No Ref/No Auth Required | PAR |
 | George Hurwitz, OD | Meritain Health Commercial - Aetna | No Ref/No Auth Required | PAR |
+| Giselle Vega, OD | Meritain Health Commercial - Aetna | No Ref/No Auth Required | Non-PAR |
 | Gisselle Vrga Carraso | Meritain Health Commercial - Aetna | No Ref/No Auth Required | Non-PAR |
 | Hunter Vittone, OD | Meritain Health Commercial - Aetna | No Ref/No Auth Required | PAR |
 | James Lenhart, OD | Meritain Health Commercial - Aetna | No Ref/No Auth Required | PAR |

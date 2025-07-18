@@ -18,6 +18,7 @@
 | Elizabeth Davis, MD | Priority Health Comm HMO | No Ref/No Auth Required | PAR |
 | Erin Hardie, OD | Priority Health Comm HMO | No Ref/No Auth Required | PAR |
 | George Hurwitz, OD | Priority Health Comm HMO | No Ref/No Auth Required | PAR |
+| Giselle Vega, OD | Priority Health Comm HMO | No Ref/No Auth Required | Non-PAR |
 | Gisselle Vrga Carraso | Priority Health Comm HMO | No Ref/No Auth Required | Non-PAR |
 | Hunter Vittone, OD | Priority Health Comm HMO | No Ref/No Auth Required | PAR |
 | James Lenhart, OD | Priority Health Comm HMO | No Ref/No Auth Required | PAR |

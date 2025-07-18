@@ -18,6 +18,7 @@
 | Elizabeth Davis, MD | Web TPA | No Ref/No Auth Required | PAR |
 | Erin Hardie, OD | Web TPA | No Ref/No Auth Required | PAR |
 | George Hurwitz, OD | Web TPA | No Ref/No Auth Required | PAR |
+| Giselle Vega, OD | Web TPA | No Ref/No Auth Required | Non-PAR |
 | Gisselle Vrga Carraso | Web TPA | No Ref/No Auth Required | Non-PAR |
 | Hunter Vittone, OD | Web TPA | No Ref/No Auth Required | PAR |
 | James Lenhart, OD | Web TPA | No Ref/No Auth Required | PAR |

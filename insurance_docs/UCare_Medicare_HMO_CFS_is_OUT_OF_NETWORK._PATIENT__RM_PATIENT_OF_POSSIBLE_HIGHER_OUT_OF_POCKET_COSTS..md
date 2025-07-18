@@ -18,6 +18,7 @@
 | Elizabeth Davis, MD | UCare Medicare HMO | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Erin Hardie, OD | UCare Medicare HMO | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | George Hurwitz, OD | UCare Medicare HMO | No Ref/No Auth Required | Non-PAR -OON Benefits |
+| Giselle Vega, OD | UCare Medicare HMO | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Gisselle Vrga Carraso | UCare Medicare HMO | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Hunter Vittone, OD | UCare Medicare HMO | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | James Lenhart, OD | UCare Medicare HMO | No Ref/No Auth Required | Non-PAR -OON Benefits |

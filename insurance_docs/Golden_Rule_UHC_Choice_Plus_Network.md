@@ -18,6 +18,7 @@
 | Elizabeth Davis, MD | UHC Golden Rule-37602 | No Ref/No Auth Required | PAR |
 | Erin Hardie, OD | UHC Golden Rule-37602 | No Ref/No Auth Required | PAR |
 | George Hurwitz, OD | UHC Golden Rule-37602 | No Ref/No Auth Required | PAR |
+| Giselle Vega, OD | UHC Golden Rule-37602 | No Ref/No Auth Required | Non-PAR |
 | Gisselle Vrga Carraso | UHC Golden Rule-37602 | No Ref/No Auth Required | Non-PAR |
 | Hunter Vittone, OD | UHC Golden Rule-37602 | No Ref/No Auth Required | PAR |
 | James Lenhart, OD | UHC Golden Rule-37602 | No Ref/No Auth Required | PAR |

@@ -18,6 +18,7 @@
 | Elizabeth Davis, MD | UHC Comm HMO REFERRAL REQ | Referral Required | PAR |
 | Erin Hardie, OD | UHC Comm HMO REFERRAL REQ | Referral Required | PAR |
 | George Hurwitz, OD | UHC Comm HMO REFERRAL REQ | Referral Required | PAR |
+| Giselle Vega, OD | UHC Comm HMO REFERRAL REQ | Referral Required | Non-PAR |
 | Gisselle Vrga Carraso | UHC Comm HMO REFERRAL REQ | Referral Required | Non-PAR |
 | Hunter Vittone, OD | UHC Comm HMO REFERRAL REQ | Referral Required | PAR |
 | James Lenhart, OD | UHC Comm HMO REFERRAL REQ | Referral Required | PAR |

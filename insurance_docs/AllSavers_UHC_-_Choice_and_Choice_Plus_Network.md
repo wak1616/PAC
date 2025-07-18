@@ -18,6 +18,7 @@
 | Elizabeth Davis, MD | UHC All Savers-81400 | No Ref/No Auth Required | PAR |
 | Erin Hardie, OD | UHC All Savers-81400 | No Ref/No Auth Required | PAR |
 | George Hurwitz, OD | UHC All Savers-81400 | No Ref/No Auth Required | PAR |
+| Giselle Vega, OD | UHC All Savers-81400 | No Ref/No Auth Required | Non-PAR |
 | Gisselle Vrga Carraso | UHC All Savers-81400 | No Ref/No Auth Required | Non-PAR |
 | Hunter Vittone, OD | UHC All Savers-81400 | No Ref/No Auth Required | PAR |
 | James Lenhart, OD | UHC All Savers-81400 | No Ref/No Auth Required | PAR |

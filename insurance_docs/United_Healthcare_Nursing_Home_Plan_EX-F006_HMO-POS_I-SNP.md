@@ -18,6 +18,7 @@
 | Elizabeth Davis, MD | UHC Nursing Home Plan FL PPO-87726 | No Ref/No Auth Required | PAR |
 | Erin Hardie, OD | UHC Nursing Home Plan FL PPO-87726 | No Ref/No Auth Required | PAR |
 | George Hurwitz, OD | UHC Nursing Home Plan FL PPO-87726 | No Ref/No Auth Required | PAR |
+| Giselle Vega, OD | UHC Nursing Home Plan FL PPO-87726 | No Ref/No Auth Required | Non-PAR |
 | Gisselle Vrga Carraso | UHC Nursing Home Plan FL PPO-87726 | No Ref/No Auth Required | Non-PAR |
 | Hunter Vittone, OD | UHC Nursing Home Plan FL PPO-87726 | No Ref/No Auth Required | PAR |
 | James Lenhart, OD | UHC Nursing Home Plan FL PPO-87726 | No Ref/No Auth Required | PAR |

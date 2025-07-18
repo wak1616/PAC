@@ -28,6 +28,8 @@
 | Erin Hardie, OD | UHC Commercial HMO | No Ref/No Auth Required | PAR |
 | George Hurwitz, OD | UHC NHP HMO Access-87226 | No Ref/No Auth Required | PAR |
 | George Hurwitz, OD | UHC Commercial HMO | No Ref/No Auth Required | PAR |
+| Giselle Vega, OD | UHC NHP HMO Access-87226 | No Ref/No Auth Required | Non-PAR |
+| Giselle Vega, OD | UHC Commercial HMO | No Ref/No Auth Required | Non-PAR |
 | Gisselle Vrga Carraso | UHC NHP HMO Access-87226 | No Ref/No Auth Required | Non-PAR |
 | Gisselle Vrga Carraso | UHC Commercial HMO | No Ref/No Auth Required | Non-PAR |
 | Hunter Vittone, OD | UHC NHP HMO Access-87226 | No Ref/No Auth Required | PAR |
