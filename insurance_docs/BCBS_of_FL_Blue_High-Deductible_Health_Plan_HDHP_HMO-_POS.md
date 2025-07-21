@@ -28,6 +28,7 @@
 | Joshua Kim, MD | BCBS FL Commercial HMO-POS |  | PAR |
 | Joshua Newman, MD | BCBS FL Commercial HMO-POS |  | PAR |
 | Kalie Kosek, PA | BCBS FL Commercial HMO-POS |  | PAR |
+| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | BCBS FL Commercial HMO-POS |  | Non-PAR |
 | Kyle Schaub, OD | BCBS FL Commercial HMO-POS |  | PAR |
 | Len Brown, OD | BCBS FL Commercial HMO-POS |  | PAR |
 | Lori Long, OD | BCBS FL Commercial HMO-POS |  | PAR |

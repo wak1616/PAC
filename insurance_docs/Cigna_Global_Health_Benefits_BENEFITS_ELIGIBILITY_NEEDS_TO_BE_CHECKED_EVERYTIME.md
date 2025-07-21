@@ -28,6 +28,7 @@
 | Joshua Kim, MD | Cigna International | Authorization Required | PAR |
 | Joshua Newman, MD | Cigna International | Authorization Required | PAR |
 | Kalie Kosek, PA | Cigna International | Authorization Required | PAR |
+| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | Cigna International | Authorization Required | Non-PAR |
 | Kyle Schaub, OD | Cigna International | Authorization Required | PAR |
 | Len Brown, OD | Cigna International | Authorization Required | PAR |
 | Lori Long, OD | Cigna International | Authorization Required | PAR |
@@ -64,6 +65,7 @@
 | Christine Bui, OD | Cigna International | Authorization Required | PAR |
 | Diba Ossareh, OD | Cigna International | Authorization Required | PAR |
 | Jose Vazques-Diaz, MD | Cigna International | Authorization Required | PAR |
+| Karin Girgis, OD - Start Date 9-15/2025 | Cigna International | Authorization Required | Non-PAR |
 | Mari Holderby, OD | Cigna International | Authorization Required | PAR |
 | Scot Holman, MD | Cigna International | Authorization Required | PAR |
 | Scott Wehrly, MD | Cigna International | Authorization Required | PAR |

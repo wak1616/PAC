@@ -21,6 +21,7 @@
 | Christine Bui, OD | UHC Empire Plan-NYSHIP-87726 | No Ref/No Auth Required | Non-PAR |
 | Diba Ossareh, OD | UHC Empire Plan-NYSHIP-87726 | No Ref/No Auth Required | Non-PAR |
 | Jose Vazques-Diaz, MD | UHC Empire Plan-NYSHIP-87726 | No Ref/No Auth Required | Non-PAR |
+| Karin Girgis, OD - Start Date 9-15/2025 | UHC Empire Plan-NYSHIP-87726 | No Ref/No Auth Required | Non-PAR |
 | Mari Holderby, OD | UHC Empire Plan-NYSHIP-87726 | No Ref/No Auth Required | Non-PAR |
 | Scot Holman, MD | UHC Empire Plan-NYSHIP-87726 | No Ref/No Auth Required | Non-PAR |
 | Scott Wehrly, MD | UHC Empire Plan-NYSHIP-87726 | No Ref/No Auth Required | Non-PAR |

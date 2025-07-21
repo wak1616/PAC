@@ -28,6 +28,7 @@
 | Joshua Kim, MD | Priority Health Comm HMO | No Ref/No Auth Required | PAR |
 | Joshua Newman, MD | Priority Health Comm HMO | No Ref/No Auth Required | PAR |
 | Kalie Kosek, PA | Priority Health Comm HMO | No Ref/No Auth Required | Non-PAR |
+| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | Priority Health Comm HMO | No Ref/No Auth Required | Non-PAR |
 | Kyle Schaub, OD | Priority Health Comm HMO | No Ref/No Auth Required | PAR |
 | Len Brown, OD | Priority Health Comm HMO | No Ref/No Auth Required | PAR |
 | Lori Long, OD | Priority Health Comm HMO | No Ref/No Auth Required | PAR |

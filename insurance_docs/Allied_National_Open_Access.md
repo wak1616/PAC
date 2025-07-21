@@ -28,6 +28,7 @@
 | Joshua Kim, MD | Allied National Open Access | No Ref/No Auth Required | PAR |
 | Joshua Newman, MD | Allied National Open Access | No Ref/No Auth Required | PAR |
 | Kalie Kosek, PA | Allied National Open Access | No Ref/No Auth Required | PAR |
+| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | Allied National Open Access | No Ref/No Auth Required | Non-PAR |
 | Kyle Schaub, OD | Allied National Open Access | No Ref/No Auth Required | PAR |
 | Len Brown, OD | Allied National Open Access | No Ref/No Auth Required | PAR |
 | Lori Long, OD | Allied National Open Access | No Ref/No Auth Required | PAR |

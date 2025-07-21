@@ -12,6 +12,7 @@
 | Christine Bui, OD | Humana Medicare PPO |  | Non-PAR -OON Benefits |
 | Diba Ossareh, OD | Humana Medicare PPO |  | Non-PAR -OON Benefits |
 | Jose Vazques-Diaz, MD | Humana Medicare PPO |  | Non-PAR -OON Benefits |
+| Karin Girgis, OD - Start Date 9-15/2025 | Humana Medicare PPO |  | Non-PAR -OON Benefits |
 | Mari Holderby, OD | Humana Medicare PPO |  | Non-PAR -OON Benefits |
 | Scot Holman, MD | Humana Medicare PPO |  | Non-PAR -OON Benefits |
 | Scott Wehrly, MD | Humana Medicare PPO |  | Non-PAR -OON Benefits |

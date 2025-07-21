@@ -28,6 +28,7 @@
 | Joshua Kim, MD | Primary: Humana Dual Medicare PPO Primary                                                 Secondary: Humana Dual Medicaid Secondary | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Joshua Newman, MD | Primary: Humana Dual Medicare PPO Primary                                                 Secondary: Humana Dual Medicaid Secondary | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Kalie Kosek, PA | Primary: Humana Dual Medicare PPO Primary                                                 Secondary: Humana Dual Medicaid Secondary | No Ref/No Auth Required | Non-PAR -OON Benefits |
+| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | Primary: Humana Dual Medicare PPO Primary                                                 Secondary: Humana Dual Medicaid Secondary | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Kyle Schaub, OD | Primary: Humana Dual Medicare PPO Primary                                                 Secondary: Humana Dual Medicaid Secondary | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Len Brown, OD | Primary: Humana Dual Medicare PPO Primary                                                 Secondary: Humana Dual Medicaid Secondary | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Lori Long, OD | Primary: Humana Dual Medicare PPO Primary                                                 Secondary: Humana Dual Medicaid Secondary | No Ref/No Auth Required | Non-PAR -OON Benefits |

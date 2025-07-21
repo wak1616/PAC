@@ -28,6 +28,7 @@
 | Joshua Kim, MD | Eyemed Vision | No Ref/No Auth Required | Non-PAR |
 | Joshua Newman, MD | Eyemed Vision | No Ref/No Auth Required | Non-PAR |
 | Kalie Kosek, PA | Eyemed Vision | No Ref/No Auth Required | Non-PAR |
+| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | Eyemed Vision | No Ref/No Auth Required | Non-PAR |
 | Kyle Schaub, OD | Eyemed Vision | No Ref/No Auth Required | PAR |
 | Len Brown, OD | Eyemed Vision | No Ref/No Auth Required | PAR |
 | Lori Long, OD | Eyemed Vision | No Ref/No Auth Required | PAR |
@@ -64,6 +65,7 @@
 | Christine Bui, OD | Eyemed Vision | No Ref/No Auth Required | PAR |
 | Diba Ossareh, OD | Eyemed Vision | No Ref/No Auth Required | PAR |
 | Jose Vazques-Diaz, MD | Eyemed Vision | No Ref/No Auth Required | Non-PAR |
+| Karin Girgis, OD - Start Date 9-15/2025 | Eyemed Vision | No Ref/No Auth Required | Non-PAR |
 | Mari Holderby, OD | Eyemed Vision | No Ref/No Auth Required | PAR |
 | Scot Holman, MD | Eyemed Vision | No Ref/No Auth Required | Non-PAR |
 | Scott Wehrly, MD | Eyemed Vision | No Ref/No Auth Required | Non-PAR |

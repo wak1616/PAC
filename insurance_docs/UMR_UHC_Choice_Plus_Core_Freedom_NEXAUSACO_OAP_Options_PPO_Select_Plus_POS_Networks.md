@@ -28,6 +28,7 @@
 | Joshua Kim, MD | UHC UMR-39026 | No Ref/No Auth Required | PAR |
 | Joshua Newman, MD | UHC UMR-39026 | No Ref/No Auth Required | PAR |
 | Kalie Kosek, PA | UHC UMR-39026 | No Ref/No Auth Required | PAR |
+| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | UHC UMR-39026 | No Ref/No Auth Required | Non-PAR |
 | Kyle Schaub, OD | UHC UMR-39026 | No Ref/No Auth Required | PAR |
 | Len Brown, OD | UHC UMR-39026 | No Ref/No Auth Required | PAR |
 | Lori Long, OD | UHC UMR-39026 | No Ref/No Auth Required | PAR |

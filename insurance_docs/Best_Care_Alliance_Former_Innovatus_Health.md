@@ -28,6 +28,7 @@
 | Joshua Kim, MD | PENDING | No Ref/No Auth Required | Non-PAR |
 | Joshua Newman, MD | PENDING | No Ref/No Auth Required | Non-PAR |
 | Kalie Kosek, PA | PENDING | No Ref/No Auth Required | Non-PAR |
+| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | PENDING | No Ref/No Auth Required | Non-PAR |
 | Kyle Schaub, OD | PENDING | No Ref/No Auth Required | Non-PAR |
 | Len Brown, OD | PENDING | No Ref/No Auth Required | PAR |
 | Lori Long, OD | PENDING | No Ref/No Auth Required | Non-PAR |

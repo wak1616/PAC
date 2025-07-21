@@ -28,6 +28,7 @@
 | Joshua Kim, MD | Champva | No Ref/No Auth Required | PAR |
 | Joshua Newman, MD | Champva | No Ref/No Auth Required | PAR |
 | Kalie Kosek, PA | Champva | No Ref/No Auth Required | PAR |
+| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | Champva | No Ref/No Auth Required | Non-PAR |
 | Kyle Schaub, OD | Champva | No Ref/No Auth Required | PAR |
 | Len Brown, OD | Champva | No Ref/No Auth Required | PAR |
 | Lori Long, OD | Champva | No Ref/No Auth Required | PAR |
@@ -64,6 +65,7 @@
 | Christine Bui, OD | ChampVA | No Ref/No Auth Required | PAR |
 | Diba Ossareh, OD | ChampVA | No Ref/No Auth Required | PAR |
 | Jose Vazques-Diaz, MD | ChampVA | No Ref/No Auth Required | PAR |
+| Karin Girgis, OD - Start Date 9-15/2025 | ChampVA | No Ref/No Auth Required | Non-PAR |
 | Mari Holderby, OD | ChampVA | No Ref/No Auth Required | PAR |
 | Scot Holman, MD | ChampVA | No Ref/No Auth Required | PAR |
 | Scott Wehrly, MD | ChampVA | No Ref/No Auth Required | PAR |

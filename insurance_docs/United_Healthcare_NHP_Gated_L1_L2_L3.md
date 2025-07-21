@@ -28,6 +28,7 @@
 | Joshua Kim, MD | UHC Comm HMO REFERRAL REQ | Referral Required | PAR |
 | Joshua Newman, MD | UHC Comm HMO REFERRAL REQ | Referral Required | PAR |
 | Kalie Kosek, PA | UHC Comm HMO REFERRAL REQ | Referral Required | PAR |
+| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | UHC Comm HMO REFERRAL REQ | Referral Required | Non-PAR |
 | Kyle Schaub, OD | UHC Comm HMO REFERRAL REQ | Referral Required | PAR |
 | Len Brown, OD | UHC Comm HMO REFERRAL REQ | Referral Required | PAR |
 | Lori Long, OD | UHC Comm HMO REFERRAL REQ | Referral Required | PAR |

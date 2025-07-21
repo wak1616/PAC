@@ -28,6 +28,7 @@
 | Joshua Kim, MD | BCBS OOS MDCR HMO POS - REFERRAL REQ | Referral Required | PAR |
 | Joshua Newman, MD | BCBS OOS MDCR HMO POS - REFERRAL REQ | Referral Required | PAR |
 | Kalie Kosek, PA | BCBS OOS MDCR HMO POS - REFERRAL REQ | Referral Required | PAR |
+| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | BCBS OOS MDCR HMO POS - REFERRAL REQ | Referral Required | Non-PAR |
 | Kyle Schaub, OD | BCBS OOS MDCR HMO POS - REFERRAL REQ | Referral Required | PAR |
 | Len Brown, OD | BCBS OOS MDCR HMO POS - REFERRAL REQ | Referral Required | PAR |
 | Lori Long, OD | BCBS OOS MDCR HMO POS - REFERRAL REQ | Referral Required | PAR |
@@ -64,6 +65,7 @@
 | Christine Bui, OD | BCBS OOS MDCR HMO POS - REFERRAL REQ | Referral Required | PAR |
 | Diba Ossareh, OD | BCBS OOS MDCR HMO POS - REFERRAL REQ | Referral Required | PAR |
 | Jose Vazques-Diaz, MD | BCBS OOS MDCR HMO POS - REFERRAL REQ | Referral Required | PAR |
+| Karin Girgis, OD - Start Date 9-15/2025 | BCBS OOS MDCR HMO POS - REFERRAL REQ | Referral Required | Non-PAR |
 | Mari Holderby, OD | BCBS OOS MDCR HMO POS - REFERRAL REQ | Referral Required | PAR |
 | Scot Holman, MD | BCBS OOS MDCR HMO POS - REFERRAL REQ | Referral Required | PAR |
 | Scott Wehrly, MD | BCBS OOS MDCR HMO POS - REFERRAL REQ | Referral Required | PAR |

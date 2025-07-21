@@ -28,6 +28,7 @@
 | Joshua Kim, MD | UHC AARP Medicare Advantage PPO-WELM2 | No Ref/No Auth Required | PAR |
 | Joshua Newman, MD | UHC AARP Medicare Advantage PPO-WELM2 | No Ref/No Auth Required | PAR |
 | Kalie Kosek, PA | UHC AARP Medicare Advantage PPO-WELM2 | No Ref/No Auth Required | PAR |
+| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | UHC AARP Medicare Advantage PPO-WELM2 | No Ref/No Auth Required | Non-PAR |
 | Kyle Schaub, OD | UHC AARP Medicare Advantage PPO-WELM2 | No Ref/No Auth Required | PAR |
 | Len Brown, OD | UHC AARP Medicare Advantage PPO-WELM2 | No Ref/No Auth Required | PAR |
 | Lori Long, OD | UHC AARP Medicare Advantage PPO-WELM2 | No Ref/No Auth Required | PAR |
@@ -64,6 +65,7 @@
 | Christine Bui, OD | UHC AARP Medicare Advantage PPO-WELM2 | No Ref/No Auth Required | PAR |
 | Diba Ossareh, OD | UHC AARP Medicare Advantage PPO-WELM2 | No Ref/No Auth Required | PAR |
 | Jose Vazques-Diaz, MD | UHC AARP Medicare Advantage PPO-WELM2 | No Ref/No Auth Required | PAR |
+| Karin Girgis, OD - Start Date 9-15/2025 | UHC AARP Medicare Advantage PPO-WELM2 | No Ref/No Auth Required | Non-PAR |
 | Mari Holderby, OD | UHC AARP Medicare Advantage PPO-WELM2 | No Ref/No Auth Required | PAR |
 | Scot Holman, MD | UHC AARP Medicare Advantage PPO-WELM2 | No Ref/No Auth Required | PAR |
 | Scott Wehrly, MD | UHC AARP Medicare Advantage PPO-WELM2 | No Ref/No Auth Required | PAR |

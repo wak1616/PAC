@@ -28,6 +28,7 @@
 | Joshua Kim, MD | UHC All Savers-81400 | No Ref/No Auth Required | PAR |
 | Joshua Newman, MD | UHC All Savers-81400 | No Ref/No Auth Required | PAR |
 | Kalie Kosek, PA | UHC All Savers-81400 | No Ref/No Auth Required | PAR |
+| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | UHC All Savers-81400 | No Ref/No Auth Required | Non-PAR |
 | Kyle Schaub, OD | UHC All Savers-81400 | No Ref/No Auth Required | PAR |
 | Len Brown, OD | UHC All Savers-81400 | No Ref/No Auth Required | PAR |
 | Lori Long, OD | UHC All Savers-81400 | No Ref/No Auth Required | PAR |

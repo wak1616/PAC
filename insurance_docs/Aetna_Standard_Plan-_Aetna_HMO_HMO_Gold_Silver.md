@@ -28,6 +28,7 @@
 | Joshua Kim, MD | Aetna Commercial HMO REFERRAL REQ | Referral Required | PAR |
 | Joshua Newman, MD | Aetna Commercial HMO REFERRAL REQ | Referral Required | PAR |
 | Kalie Kosek, PA | Aetna Commercial HMO REFERRAL REQ | Referral Required | PAR |
+| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | Aetna Commercial HMO REFERRAL REQ | Referral Required | Non-PAR |
 | Kyle Schaub, OD | Aetna Commercial HMO REFERRAL REQ | Referral Required | PAR |
 | Len Brown, OD | Aetna Commercial HMO REFERRAL REQ | Referral Required | PAR |
 | Lori Long, OD | Aetna Commercial HMO REFERRAL REQ | Referral Required | PAR |

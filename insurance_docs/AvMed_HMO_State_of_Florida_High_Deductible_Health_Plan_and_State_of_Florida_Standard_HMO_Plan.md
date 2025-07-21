@@ -28,6 +28,7 @@
 | Joshua Kim, MD | AvMed Commercial HMO | No Ref/No Auth Required | PAR |
 | Joshua Newman, MD | AvMed Commercial HMO | No Ref/No Auth Required | PAR |
 | Kalie Kosek, PA | AvMed Commercial HMO | No Ref/No Auth Required | Non-PAR |
+| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | AvMed Commercial HMO | No Ref/No Auth Required | Non-PAR |
 | Kyle Schaub, OD | AvMed Commercial HMO | No Ref/No Auth Required | PAR |
 | Len Brown, OD | AvMed Commercial HMO | No Ref/No Auth Required | Non-PAR |
 | Lori Long, OD | AvMed Commercial HMO | No Ref/No Auth Required | PAR |

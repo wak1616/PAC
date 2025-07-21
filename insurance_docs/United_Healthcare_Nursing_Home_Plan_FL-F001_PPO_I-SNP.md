@@ -28,6 +28,7 @@
 | Joshua Kim, MD | UHC Nursing Home Plan FL PPO-87726 | No Ref/No Auth Required | PAR |
 | Joshua Newman, MD | UHC Nursing Home Plan FL PPO-87726 | No Ref/No Auth Required | PAR |
 | Kalie Kosek, PA | UHC Nursing Home Plan FL PPO-87726 | No Ref/No Auth Required | PAR |
+| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | UHC Nursing Home Plan FL PPO-87726 | No Ref/No Auth Required | Non-PAR |
 | Kyle Schaub, OD | UHC Nursing Home Plan FL PPO-87726 | No Ref/No Auth Required | PAR |
 | Len Brown, OD | UHC Nursing Home Plan FL PPO-87726 | No Ref/No Auth Required | PAR |
 | Lori Long, OD | UHC Nursing Home Plan FL PPO-87726 | No Ref/No Auth Required | PAR |

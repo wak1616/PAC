@@ -28,6 +28,7 @@
 | Joshua Kim, MD | Tricare Prime HMO-REFERRAL REQ | Referral Required | Non-PAR -OON Benefits |
 | Joshua Newman, MD | Tricare Prime HMO-REFERRAL REQ | Referral Required | Non-PAR -OON Benefits |
 | Kalie Kosek, PA | Tricare Prime HMO-REFERRAL REQ | Referral Required | Non-PAR -OON Benefits |
+| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | Tricare Prime HMO-REFERRAL REQ | Referral Required | Non-PAR -OON Benefits |
 | Kyle Schaub, OD | Tricare Prime HMO-REFERRAL REQ | Referral Required | Non-PAR -OON Benefits |
 | Len Brown, OD | Tricare Prime HMO-REFERRAL REQ | Referral Required | Non-PAR -OON Benefits |
 | Lori Long, OD | Tricare Prime HMO-REFERRAL REQ | Referral Required | Non-PAR -OON Benefits |

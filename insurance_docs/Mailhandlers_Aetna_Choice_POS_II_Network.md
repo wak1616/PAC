@@ -28,6 +28,7 @@
 | Joshua Kim, MD | Mail Handlers Benefit Plan Comm - Aetna | No Ref/No Auth Required | PAR |
 | Joshua Newman, MD | Mail Handlers Benefit Plan Comm - Aetna | No Ref/No Auth Required | PAR |
 | Kalie Kosek, PA | Mail Handlers Benefit Plan Comm - Aetna | No Ref/No Auth Required | PAR |
+| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | Mail Handlers Benefit Plan Comm - Aetna | No Ref/No Auth Required | Non-PAR |
 | Kyle Schaub, OD | Mail Handlers Benefit Plan Comm - Aetna | No Ref/No Auth Required | PAR |
 | Len Brown, OD | Mail Handlers Benefit Plan Comm - Aetna | No Ref/No Auth Required | PAR |
 | Lori Long, OD | Mail Handlers Benefit Plan Comm - Aetna | No Ref/No Auth Required | PAR |
@@ -64,6 +65,7 @@
 | Christine Bui, OD | Mail Handlers Benefit Plan Comm - Aetna | No Ref/No Auth Required | PAR |
 | Diba Ossareh, OD | Mail Handlers Benefit Plan Comm - Aetna | No Ref/No Auth Required | PAR |
 | Jose Vazques-Diaz, MD | Mail Handlers Benefit Plan Comm - Aetna | No Ref/No Auth Required | PAR |
+| Karin Girgis, OD - Start Date 9-15/2025 | Mail Handlers Benefit Plan Comm - Aetna | No Ref/No Auth Required | Non-PAR |
 | Mari Holderby, OD | Mail Handlers Benefit Plan Comm - Aetna | No Ref/No Auth Required | PAR |
 | Scot Holman, MD | Mail Handlers Benefit Plan Comm - Aetna | No Ref/No Auth Required | PAR |
 | Scott Wehrly, MD | Mail Handlers Benefit Plan Comm - Aetna | No Ref/No Auth Required | PAR |

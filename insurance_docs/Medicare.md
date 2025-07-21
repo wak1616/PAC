@@ -18,7 +18,7 @@
 | Elizabeth Davis, MD | Medicare Part B | No Ref/No Auth Required | PAR |
 | Erin Hardie, OD | Medicare Part B | No Ref/No Auth Required | PAR |
 | George Hurwitz, OD | Medicare Part B | No Ref/No Auth Required | PAR |
-| Giselle Vega, OD | Medicare Part B | No Ref/No Auth Required | Non-PAR |
+| Giselle Vega, OD | Medicare Part B | No Ref/No Auth Required | Non-PAR -Ok to schedule |
 | Gisselle Vrga Carraso | Medicare Part B | No Ref/No Auth Required | OK to Schedule-HOLD Claims until PAR |
 | Hunter Vittone, OD | Medicare Part B | No Ref/No Auth Required | PAR |
 | James Lenhart, OD | Medicare Part B | No Ref/No Auth Required | PAR |
@@ -28,6 +28,7 @@
 | Joshua Kim, MD | Medicare Part B | No Ref/No Auth Required | PAR |
 | Joshua Newman, MD | Medicare Part B | No Ref/No Auth Required | PAR |
 | Kalie Kosek, PA | Medicare Part B | No Ref/No Auth Required | PAR |
+| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | Medicare Part B | No Ref/No Auth Required | OK to Schedule-HOLD Claims until PAR |
 | Kyle Schaub, OD | Medicare Part B | No Ref/No Auth Required | PAR |
 | Len Brown, OD | Medicare Part B | No Ref/No Auth Required | PAR |
 | Lori Long, OD | Medicare Part B | No Ref/No Auth Required | PAR |
@@ -64,6 +65,7 @@
 | Christine Bui, OD | Medicare Part B | No Ref/No Auth Required | PAR |
 | Diba Ossareh, OD | Medicare Part B | No Ref/No Auth Required | PAR |
 | Jose Vazques-Diaz, MD | Medicare Part B | No Ref/No Auth Required | PAR |
+| Karin Girgis, OD - Start Date 9-15/2025 | Medicare Part B | No Ref/No Auth Required | OK to Schedule-HOLD Claims until PAR |
 | Mari Holderby, OD | Medicare Part B | No Ref/No Auth Required | PAR |
 | Scot Holman, MD | Medicare Part B | No Ref/No Auth Required | PAR |
 | Scott Wehrly, MD | Medicare Part B | No Ref/No Auth Required | PAR |

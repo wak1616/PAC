@@ -1,6 +1,6 @@
 # Insurance Guide By Insurance Plan
 
-*Last Updated: 07/18/2025 (based on data from Excel file: [US Eye Insurance Guide.xlsx](https://useyecorp.sharepoint.com/:x:/r/RCM/Shared%20Documents/Insurance%20Guides/US%20Eye%20Insurance%20Guide.xlsx?d=w2a2138d41fa04bfa919fc4966998346a&csf=1&web=1&e=73a3Gf&nav=MTVfezIwMjg5MTIyLTdDRkEtNEE0OS1CODBGLTdFNTc3Njc3OTJDNX0))*
+*Last Updated: 07/21/2025 (based on data from Excel file: [US Eye Insurance Guide.xlsx](https://useyecorp.sharepoint.com/:x:/r/RCM/Shared%20Documents/Insurance%20Guides/US%20Eye%20Insurance%20Guide.xlsx?d=w2a2138d41fa04bfa919fc4966998346a&csf=1&web=1&e=73a3Gf&nav=MTVfezIwMjg5MTIyLTdDRkEtNEE0OS1CODBGLTdFNTc3Njc3OTJDNX0))*
 
 *This guide lists insurance participation by insurance plan. Click an insurance plan to view all providers who accept that insurance, grouped by location.*
 
@@ -332,6 +332,7 @@
 * [GEHA (United Healthcare Choice Plus Network) PLEASE INCLUDE THE SUFFIX IN THE POLICY # ON THE ID CARD AS GEHA (EX: 1234567GEHA)](insurance_docs/GEHA_United_Healthcare_Choice_Plus_Network_PLEASE__N_THE_POLICY_ON_THE_ID_CARD_AS_GEHA_EX_1234567GEHA.md)
 * [Golden Rule (UHC Choice Plus Network)](insurance_docs/Golden_Rule_UHC_Choice_Plus_Network.md)
 * [Guardian – Davis Vision](insurance_docs/Guardian_Davis_Vision.md)
+* [Harvard Pilgrim (UHC Choice Plus Network)](insurance_docs/Harvard_Pilgrim_UHC_Choice_Plus_Network.md)
 * [Harvard Pilgrim Healthcare (UHC Choice Plus Network)](insurance_docs/Harvard_Pilgrim_Healthcare_UHC_Choice_Plus_Network.md)
 * [Health Care Support (ministry plan with PHCS network)](insurance_docs/Health_Care_Support_ministry_plan_with_PHCS_network.md)
 * [Humana Commercial - ALL PLANS - AS OF 01/01/25- PLAN IS NO LONGER OFFERED IN FL MARKETS](insurance_docs/Humana_Commercial_-_ALL_PLANS_-_AS_OF_01_01_25-_PLAN_IS_NO_LONGER_OFFERED_IN_FL_MARKETS.md)

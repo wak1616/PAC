@@ -28,6 +28,7 @@
 | Joshua Kim, MD | Lutheran Preferred - PHP | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Joshua Newman, MD | Lutheran Preferred - PHP | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Kalie Kosek, PA | Lutheran Preferred - PHP | No Ref/No Auth Required | Non-PAR -OON Benefits |
+| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | Lutheran Preferred - PHP | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Kyle Schaub, OD | Lutheran Preferred - PHP | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Len Brown, OD | Lutheran Preferred - PHP | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Lori Long, OD | Lutheran Preferred - PHP | No Ref/No Auth Required | Non-PAR -OON Benefits |
@@ -64,6 +65,7 @@
 | Christine Bui, OD | Lutheran Preferred - PHP | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Diba Ossareh, OD | Lutheran Preferred - PHP | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Jose Vazques-Diaz, MD | Lutheran Preferred - PHP | No Ref/No Auth Required | Non-PAR -OON Benefits |
+| Karin Girgis, OD - Start Date 9-15/2025 | Lutheran Preferred - PHP | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Mari Holderby, OD | Lutheran Preferred - PHP | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Scot Holman, MD | Lutheran Preferred - PHP | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Scott Wehrly, MD | Lutheran Preferred - PHP | No Ref/No Auth Required | Non-PAR -OON Benefits |

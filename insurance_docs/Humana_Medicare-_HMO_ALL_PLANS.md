@@ -28,6 +28,7 @@
 | Joshua Kim, MD | Self Pay Non-Par with Ins |  | Non-PAR |
 | Joshua Newman, MD | Self Pay Non-Par with Ins |  | Non-PAR |
 | Kalie Kosek, PA | Self Pay Non-Par with Ins |  | Non-PAR |
+| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | Self Pay Non-Par with Ins |  | Non-PAR |
 | Kyle Schaub, OD | Self Pay Non-Par with Ins |  | Non-PAR |
 | Len Brown, OD | Self Pay Non-Par with Ins |  | Non-PAR |
 | Lori Long, OD | Self Pay Non-Par with Ins |  | Non-PAR |

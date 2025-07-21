@@ -28,6 +28,7 @@
 | Joshua Kim, MD | UHC Commercial - SHL Emp Group | No Ref/No Auth Required | PAR |
 | Joshua Newman, MD | UHC Commercial - SHL Emp Group | No Ref/No Auth Required | PAR |
 | Kalie Kosek, PA | UHC Commercial - SHL Emp Group | No Ref/No Auth Required | PAR |
+| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | UHC Commercial - SHL Emp Group | No Ref/No Auth Required | Non-PAR |
 | Kyle Schaub, OD | UHC Commercial - SHL Emp Group | No Ref/No Auth Required | PAR |
 | Len Brown, OD | UHC Commercial - SHL Emp Group | No Ref/No Auth Required | PAR |
 | Lori Long, OD | UHC Commercial - SHL Emp Group | No Ref/No Auth Required | PAR |

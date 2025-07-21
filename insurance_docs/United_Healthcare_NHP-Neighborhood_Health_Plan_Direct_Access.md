@@ -48,6 +48,8 @@
 | Joshua Newman, MD | UHC Commercial HMO | No Ref/No Auth Required | PAR |
 | Kalie Kosek, PA | UHC NHP HMO Access-87226 | No Ref/No Auth Required | PAR |
 | Kalie Kosek, PA | UHC Commercial HMO | No Ref/No Auth Required | PAR |
+| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | UHC NHP HMO Access-87226 | No Ref/No Auth Required | Non-PAR |
+| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | UHC Commercial HMO | No Ref/No Auth Required | Non-PAR |
 | Kyle Schaub, OD | UHC NHP HMO Access-87226 | No Ref/No Auth Required | PAR |
 | Kyle Schaub, OD | UHC Commercial HMO | No Ref/No Auth Required | PAR |
 | Len Brown, OD | UHC NHP HMO Access-87226 | No Ref/No Auth Required | PAR |

@@ -28,6 +28,7 @@
 | Joshua Kim, MD | Concorde Inc | Authorization Required- ROTC Fom is required for the Clinical Team | Non-PAR |
 | Joshua Newman, MD | Concorde Inc | Authorization Required- ROTC Fom is required for the Clinical Team | Non-PAR |
 | Kalie Kosek, PA | Concorde Inc | Authorization Required- ROTC Fom is required for the Clinical Team | Non-PAR |
+| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | Concorde Inc | Authorization Required- ROTC Fom is required for the Clinical Team | Non-PAR |
 | Kyle Schaub, OD | Concorde Inc | Authorization Required- ROTC Fom is required for the Clinical Team | Non-PAR |
 | Len Brown, OD | Concorde Inc | Authorization Required- ROTC Fom is required for the Clinical Team | Non-PAR |
 | Lori Long, OD | Concorde Inc | Authorization Required- ROTC Fom is required for the Clinical Team | Non-PAR |

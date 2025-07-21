@@ -28,6 +28,7 @@
 | Joshua Kim, MD | Carefirst BCBS Commercial HMO | No Ref/No Auth Required | PAR |
 | Joshua Newman, MD | Carefirst BCBS Commercial HMO | No Ref/No Auth Required | PAR |
 | Kalie Kosek, PA | Carefirst BCBS Commercial HMO | No Ref/No Auth Required | PAR |
+| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | Carefirst BCBS Commercial HMO | No Ref/No Auth Required | Non-PAR |
 | Kyle Schaub, OD | Carefirst BCBS Commercial HMO | No Ref/No Auth Required | PAR |
 | Len Brown, OD | Carefirst BCBS Commercial HMO | No Ref/No Auth Required | PAR |
 | Lori Long, OD | Carefirst BCBS Commercial HMO | No Ref/No Auth Required | PAR |

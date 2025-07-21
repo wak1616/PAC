@@ -28,6 +28,7 @@
 | Joshua Kim, MD | The Health Plan PPO - PHCS | No Ref/No Auth Required | PAR |
 | Joshua Newman, MD | The Health Plan PPO - PHCS | No Ref/No Auth Required | PAR |
 | Kalie Kosek, PA | The Health Plan PPO - PHCS | No Ref/No Auth Required | PAR |
+| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | The Health Plan PPO - PHCS | No Ref/No Auth Required | Non-PAR |
 | Kyle Schaub, OD | The Health Plan PPO - PHCS | No Ref/No Auth Required | PAR |
 | Len Brown, OD | The Health Plan PPO - PHCS | No Ref/No Auth Required | PAR |
 | Lori Long, OD | The Health Plan PPO - PHCS | No Ref/No Auth Required | PAR |

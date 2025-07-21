@@ -18,7 +18,7 @@
 | Elizabeth Davis, MD | Railroad Medicare | No Ref/No Auth Required | PAR |
 | Erin Hardie, OD | Railroad Medicare | No Ref/No Auth Required | PAR |
 | George Hurwitz, OD | Railroad Medicare | No Ref/No Auth Required | PAR |
-| Giselle Vega, OD | Railroad Medicare | No Ref/No Auth Required | Non-PAR |
+| Giselle Vega, OD | Railroad Medicare | No Ref/No Auth Required | Non-PAR -Ok to schedule |
 | Gisselle Vrga Carraso | Railroad Medicare | No Ref/No Auth Required | OK to Schedule-HOLD Claims until PAR |
 | Hunter Vittone, OD | Railroad Medicare | No Ref/No Auth Required | PAR |
 | James Lenhart, OD | Railroad Medicare | No Ref/No Auth Required | PAR |
@@ -28,6 +28,7 @@
 | Joshua Kim, MD | Railroad Medicare | No Ref/No Auth Required | PAR |
 | Joshua Newman, MD | Railroad Medicare | No Ref/No Auth Required | PAR |
 | Kalie Kosek, PA | Railroad Medicare | No Ref/No Auth Required | PAR |
+| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | Railroad Medicare | No Ref/No Auth Required | Non-PAR |
 | Kyle Schaub, OD | Railroad Medicare | No Ref/No Auth Required | PAR |
 | Len Brown, OD | Railroad Medicare | No Ref/No Auth Required | PAR |
 | Lori Long, OD | Railroad Medicare | No Ref/No Auth Required | PAR |
@@ -64,6 +65,7 @@
 | Christine Bui, OD | Railroad Medicare | No Ref/No Auth Required | PAR |
 | Diba Ossareh, OD | Railroad Medicare | No Ref/No Auth Required | PAR |
 | Jose Vazques-Diaz, MD | Railroad Medicare | No Ref/No Auth Required | PAR |
+| Karin Girgis, OD - Start Date 9-15/2025 | Railroad Medicare | No Ref/No Auth Required | Non-PAR -Ok to schedule |
 | Mari Holderby, OD | Railroad Medicare | No Ref/No Auth Required | PAR |
 | Scot Holman, MD | Railroad Medicare | No Ref/No Auth Required | PAR |
 | Scott Wehrly, MD | Railroad Medicare | No Ref/No Auth Required | PAR |

@@ -12,6 +12,7 @@
 | Christine Bui, OD | BCBS OOS CA - REFERRAL AND AUTH REQ | Authorization Required | PAR |
 | Diba Ossareh, OD | BCBS OOS CA - REFERRAL AND AUTH REQ | Authorization Required | PAR |
 | Jose Vazques-Diaz, MD | BCBS OOS CA - REFERRAL AND AUTH REQ | Authorization Required | PAR |
+| Karin Girgis, OD - Start Date 9-15/2025 | BCBS OOS CA - REFERRAL AND AUTH REQ | Authorization Required | Non-PAR |
 | Mari Holderby, OD | BCBS OOS CA - REFERRAL AND AUTH REQ | Authorization Required | PAR |
 | Scot Holman, MD | BCBS OOS CA - REFERRAL AND AUTH REQ | Authorization Required | PAR |
 | Scott Wehrly, MD | BCBS OOS CA - REFERRAL AND AUTH REQ | Authorization Required | PAR |

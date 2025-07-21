@@ -28,6 +28,7 @@
 | Joshua Kim, MD | UHC Medica-94265 | No Ref/No Auth Required | PAR |
 | Joshua Newman, MD | UHC Medica-94265 | No Ref/No Auth Required | PAR |
 | Kalie Kosek, PA | UHC Medica-94265 | No Ref/No Auth Required | PAR |
+| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | UHC Medica-94265 | No Ref/No Auth Required | Non-PAR |
 | Kyle Schaub, OD | UHC Medica-94265 | No Ref/No Auth Required | PAR |
 | Len Brown, OD | UHC Medica-94265 | No Ref/No Auth Required | PAR |
 | Lori Long, OD | UHC Medica-94265 | No Ref/No Auth Required | PAR |
@@ -64,6 +65,7 @@
 | Christine Bui, OD | UHC Medica-94265 |  | PAR |
 | Diba Ossareh, OD | UHC Medica-94265 |  | PAR |
 | Jose Vazques-Diaz, MD | UHC Medica-94265 |  | PAR |
+| Karin Girgis, OD - Start Date 9-15/2025 | UHC Medica-94265 |  | Non-PAR |
 | Mari Holderby, OD | UHC Medica-94265 |  | PAR |
 | Scot Holman, MD | UHC Medica-94265 |  | PAR |
 | Scott Wehrly, MD | UHC Medica-94265 |  | PAR |

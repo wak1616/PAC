@@ -28,6 +28,7 @@
 | Joshua Kim, MD | BCBS OOS CA - REFERRAL AND AUTH REQ- | Authorization Required | PAR |
 | Joshua Newman, MD | BCBS OOS CA - REFERRAL AND AUTH REQ- | Authorization Required | PAR |
 | Kalie Kosek, PA | BCBS OOS CA - REFERRAL AND AUTH REQ- | Authorization Required | PAR |
+| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | BCBS OOS CA - REFERRAL AND AUTH REQ- | Authorization Required | Non-PAR |
 | Kyle Schaub, OD | BCBS OOS CA - REFERRAL AND AUTH REQ- | Authorization Required | PAR |
 | Len Brown, OD | BCBS OOS CA - REFERRAL AND AUTH REQ- | Authorization Required | PAR |
 | Lori Long, OD | BCBS OOS CA - REFERRAL AND AUTH REQ- | Authorization Required | PAR |

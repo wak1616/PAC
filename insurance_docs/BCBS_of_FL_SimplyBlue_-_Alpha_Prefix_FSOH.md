@@ -28,6 +28,7 @@
 | Joshua Kim, MD | BCBS FL Commercial HMO | Authorization Required | PAR |
 | Joshua Newman, MD | BCBS FL Commercial HMO | Authorization Required | PAR |
 | Kalie Kosek, PA | BCBS FL Commercial HMO | Authorization Required | PAR |
+| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | BCBS FL Commercial HMO | Authorization Required | Non-PAR |
 | Kyle Schaub, OD | BCBS FL Commercial HMO | Authorization Required | PAR |
 | Len Brown, OD | BCBS FL Commercial HMO | Authorization Required | PAR |
 | Lori Long, OD | BCBS FL Commercial HMO | Authorization Required | PAR |
@@ -55,6 +56,7 @@
 | Christine Bui, OD | BCBS FL Commercial HMO | Authorization Required | PAR |
 | Diba Ossareh, OD | BCBS FL Commercial HMO | Authorization Required | PAR |
 | Jose Vazques-Diaz, MD | BCBS FL Commercial HMO | Authorization Required | PAR |
+| Karin Girgis, OD - Start Date 9-15/2025 | BCBS FL Commercial HMO | Authorization Required | Non-PAR |
 | Mari Holderby, OD | BCBS FL Commercial HMO | Authorization Required | PAR |
 | Scot Holman, MD | BCBS FL Commercial HMO | Authorization Required | PAR |
 | Scott Wehrly, MD | BCBS FL Commercial HMO | Authorization Required | PAR |

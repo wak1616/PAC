@@ -28,6 +28,7 @@
 | Joshua Kim, MD | Aetna Commercial PPO | No Ref/No Auth Required | PAR |
 | Joshua Newman, MD | Aetna Commercial PPO | No Ref/No Auth Required | PAR |
 | Kalie Kosek, PA | Aetna Commercial PPO | No Ref/No Auth Required | PAR |
+| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | Aetna Commercial PPO | No Ref/No Auth Required | Non-PAR |
 | Kyle Schaub, OD | Aetna Commercial PPO | No Ref/No Auth Required | PAR |
 | Len Brown, OD | Aetna Commercial PPO | No Ref/No Auth Required | PAR |
 | Lori Long, OD | Aetna Commercial PPO | No Ref/No Auth Required | PAR |

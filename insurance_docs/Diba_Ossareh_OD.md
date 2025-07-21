@@ -121,6 +121,7 @@
 | First Health Network (through Aetna and/or PHP Network) PLEASE ASK THE PATIENT FOR THE HEALTH PLAN NAME ON THE CARD AND LOAD THE PLAN INTO NEXTGEN ACCORDING TO THEIR HEALTH PLAN | PLEASE ASK THE PATIENT FOR THE HEALTH PLAN NAME ON THE CARD. IF THE PAYER IS NOT LOADED INTO THE SYSTEM, USE: INS NOT IN NEXTGEN. SEE: Generic Insurance Protocol - PAC, Front Desk, and Customer Service.pdf |  | PAR |
 | GEHA (United Healthcare Choice Plus Network) PLEASE INCLUDE THE SUFFIX IN THE POLICY # ON THE ID CARD AS GEHA (EX: 1234567GEHA) | UHC GEHA-39026 | No Ref/No Auth Required | PAR |
 | Golden Rule (UHC Choice Plus Network) | UHC Golden Rule-37602 | No Ref/No Auth Required | PAR |
+| Harvard Pilgrim (UHC Choice Plus Network) | UHC Harvard Pilgrim-39026 | No Ref/No Auth Required | PAR |
 | Humana Medicare- DUAL Gold Plus SNP-DE HMO D-SNP | Self Pay Non-Par with Ins |  | Non-PAR |
 | Humana Medicare- DUAL Choice Florida SNP-DE PPO D-SNP LEA is OUT OF NETWORK. PATIENT HAS OON BENEFITS. PLEASE INFORM PATIENT OF POSSIBLE HIGHER OUT OF POCKET COSTS | Primary: Humana Dual Medicare PPO Primary                                                 Secondary: Humana Dual Medicaid Secondary |  | Non-PAR -OON Benefits |
 | Humana Commercial - ALL PLANS - AS OF 01/01/25- PLAN IS NO LONGER OFFERED IN FL MARKETS | Self Pay Non-Par with Ins |  | Non-PAR |
@@ -143,7 +144,7 @@
 | Optum VA-VETERANS AFFAIRS Community Care Network (CCN) | Optum VA Community Care | Authorization Required | PAR |
 | PHCS PLEASE ASK THE PATIENT FOR THE HEALTH PLAN NAME ON THE CARD AND LOAD THE PLAN INTO NEXTGEN ACCORDING TO THEIR HEALTH PLAN | PLEASE ASK THE PATIENT FOR THE HEALTH PLAN NAME ON THE CARD. IF THE PAYER IS NOT LOADED INTO THE SYSTEM, USE: INS NOT IN NEXTGEN. SEE: Generic Insurance Protocol - PAC, Front Desk, and Customer Service.pdf |  | PAR |
 | Railroad Medicare - CONFIRM WITH PT AT THE BOTTOM OF THE ID CARD IT SAYS "RAILROAD RETIREMENT BOARD" | Railroad Medicare | No Ref/No Auth Required | PAR |
-| Spectera Vision | Spectera Vision | No Ref/No Auth Required | Non-PAR |
+| Spectera Vision | Spectera Vision | No Ref/No Auth Required | PAR |
 | Surest (United Healthcare Choice Plus Network) | UHC Surest-25463 | No Ref/No Auth Required | PAR |
 | The Empire Plan-NYSHIP | UHC Empire Plan-NYSHIP-87726 | No Ref/No Auth Required | Non-PAR |
 | Tricare Prime LEA is OUT OF NETWORK. PATIENT HAS OON BENEFITS. PLEASE INFORM PATIENT OF POSSIBLE HIGHER OUT OF POCKET COSTS (see note). covered for a Routine Eye Exam every two years | Tricare Prime HMO-REFERRAL REQ | Referral Required | Non-PAR -OON Benefits |

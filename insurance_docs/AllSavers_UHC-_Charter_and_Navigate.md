@@ -28,6 +28,7 @@
 | Joshua Kim, MD | All Savers Comm REFERRAL REQ - UHC | Referral Required | PAR |
 | Joshua Newman, MD | All Savers Comm REFERRAL REQ - UHC | Referral Required | PAR |
 | Kalie Kosek, PA | All Savers Comm REFERRAL REQ - UHC | Referral Required | PAR |
+| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | All Savers Comm REFERRAL REQ - UHC | Referral Required | Non-PAR |
 | Kyle Schaub, OD | All Savers Comm REFERRAL REQ - UHC | Referral Required | PAR |
 | Len Brown, OD | All Savers Comm REFERRAL REQ - UHC | Referral Required | PAR |
 | Lori Long, OD | All Savers Comm REFERRAL REQ - UHC | Referral Required | PAR |

@@ -28,6 +28,7 @@
 | Joshua Kim, MD | BCBS Out of State Commercial PPO | No Ref/No Auth Required | PAR |
 | Joshua Newman, MD | BCBS Out of State Commercial PPO | No Ref/No Auth Required | PAR |
 | Kalie Kosek, PA | BCBS Out of State Commercial PPO | No Ref/No Auth Required | PAR |
+| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | BCBS Out of State Commercial PPO | No Ref/No Auth Required | Non-PAR |
 | Kyle Schaub, OD | BCBS Out of State Commercial PPO | No Ref/No Auth Required | PAR |
 | Len Brown, OD | BCBS Out of State Commercial PPO | No Ref/No Auth Required | PAR |
 | Lori Long, OD | BCBS Out of State Commercial PPO | No Ref/No Auth Required | PAR |
@@ -64,6 +65,7 @@
 | Christine Bui, OD | BCBS Out of State Commercial PPO | No Ref/No Auth Required | PAR |
 | Diba Ossareh, OD | BCBS Out of State Commercial PPO | No Ref/No Auth Required | PAR |
 | Jose Vazques-Diaz, MD | BCBS Out of State Commercial PPO | No Ref/No Auth Required | PAR |
+| Karin Girgis, OD - Start Date 9-15/2025 | BCBS Out of State Commercial PPO | No Ref/No Auth Required | Non-PAR |
 | Mari Holderby, OD | BCBS Out of State Commercial PPO | No Ref/No Auth Required | PAR |
 | Scot Holman, MD | BCBS Out of State Commercial PPO | No Ref/No Auth Required | PAR |
 | Scott Wehrly, MD | BCBS Out of State Commercial PPO | No Ref/No Auth Required | PAR |

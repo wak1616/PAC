@@ -28,6 +28,7 @@
 | Joshua Kim, MD | Optum VA Community Care | Authorization Required | PAR |
 | Joshua Newman, MD | Optum VA Community Care | Authorization Required | PAR |
 | Kalie Kosek, PA | Optum VA Community Care | Authorization Required | PAR |
+| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | Optum VA Community Care | Authorization Required | Non-PAR |
 | Kyle Schaub, OD | Optum VA Community Care | Authorization Required | PAR |
 | Len Brown, OD | Optum VA Community Care | Authorization Required | PAR |
 | Lori Long, OD | Optum VA Community Care | Authorization Required | PAR |

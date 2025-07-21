@@ -12,6 +12,7 @@
 | Christine Bui, OD | Primary: Aetna Dual MCR HMO Primary REFERRAL REQ                                                             Secondary: Aetna Dual Complete MCD HMO Secondary |  | Non-PAR |
 | Diba Ossareh, OD | Primary: Aetna Dual MCR HMO Primary REFERRAL REQ                                                             Secondary: Aetna Dual Complete MCD HMO Secondary |  | Non-PAR |
 | Jose Vazques-Diaz, MD | Primary: Aetna Dual MCR HMO Primary REFERRAL REQ                                                             Secondary: Aetna Dual Complete MCD HMO Secondary |  | Non-PAR |
+| Karin Girgis, OD - Start Date 9-15/2025 | Primary: Aetna Dual MCR HMO Primary REFERRAL REQ                                                             Secondary: Aetna Dual Complete MCD HMO Secondary |  | Non-PAR |
 | Mari Holderby, OD | Primary: Aetna Dual MCR HMO Primary REFERRAL REQ                                                             Secondary: Aetna Dual Complete MCD HMO Secondary |  | Non-PAR |
 | Scot Holman, MD | Primary: Aetna Dual MCR HMO Primary REFERRAL REQ                                                             Secondary: Aetna Dual Complete MCD HMO Secondary |  | Non-PAR |
 | Scott Wehrly, MD | Primary: Aetna Dual MCR HMO Primary REFERRAL REQ                                                             Secondary: Aetna Dual Complete MCD HMO Secondary |  | Non-PAR |

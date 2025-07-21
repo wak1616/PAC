@@ -28,6 +28,7 @@
 | Joshua Kim, MD | UHC Empire Plan-NYSHIP-87726 | No Ref/No Auth Required | PAR |
 | Joshua Newman, MD | UHC Empire Plan-NYSHIP-87726 | No Ref/No Auth Required | PAR |
 | Kalie Kosek, PA | UHC Empire Plan-NYSHIP-87726 | No Ref/No Auth Required | PAR |
+| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | UHC Empire Plan-NYSHIP-87726 | No Ref/No Auth Required | Non-PAR |
 | Kyle Schaub, OD | UHC Empire Plan-NYSHIP-87726 | No Ref/No Auth Required | PAR |
 | Len Brown, OD | UHC Empire Plan-NYSHIP-87726 | No Ref/No Auth Required | PAR |
 | Lori Long, OD | UHC Empire Plan-NYSHIP-87726 | No Ref/No Auth Required | PAR |

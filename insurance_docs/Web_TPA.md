@@ -28,6 +28,7 @@
 | Joshua Kim, MD | Web TPA | No Ref/No Auth Required | PAR |
 | Joshua Newman, MD | Web TPA | No Ref/No Auth Required | PAR |
 | Kalie Kosek, PA | Web TPA | No Ref/No Auth Required | PAR |
+| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | Web TPA | No Ref/No Auth Required | Non-PAR |
 | Kyle Schaub, OD | Web TPA | No Ref/No Auth Required | PAR |
 | Len Brown, OD | Web TPA | No Ref/No Auth Required | PAR |
 | Lori Long, OD | Web TPA | No Ref/No Auth Required | PAR |
@@ -64,6 +65,7 @@
 | Christine Bui, OD | Self Pay Non-Par with Ins |  | Non-PAR |
 | Diba Ossareh, OD | Self Pay Non-Par with Ins |  | Non-PAR |
 | Jose Vazques-Diaz, MD | Self Pay Non-Par with Ins |  | Non-PAR |
+| Karin Girgis, OD - Start Date 9-15/2025 | Self Pay Non-Par with Ins |  | Non-PAR |
 | Mari Holderby, OD | Self Pay Non-Par with Ins |  | Non-PAR |
 | Scot Holman, MD | Self Pay Non-Par with Ins |  | Non-PAR |
 | Scott Wehrly, MD | Self Pay Non-Par with Ins |  | Non-PAR |

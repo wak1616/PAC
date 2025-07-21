@@ -28,6 +28,7 @@
 | Joshua Kim, MD | Anthem BCBS Vision | No Ref/No Auth Required | Non-PAR |
 | Joshua Newman, MD | Anthem BCBS Vision | No Ref/No Auth Required | Non-PAR |
 | Kalie Kosek, PA | Anthem BCBS Vision | No Ref/No Auth Required | Non-PAR |
+| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | Anthem BCBS Vision | No Ref/No Auth Required | Non-PAR |
 | Kyle Schaub, OD | Anthem BCBS Vision | No Ref/No Auth Required | PAR |
 | Len Brown, OD | Anthem BCBS Vision | No Ref/No Auth Required | PAR |
 | Lori Long, OD | Anthem BCBS Vision | No Ref/No Auth Required | PAR |
@@ -64,6 +65,7 @@
 | Christine Bui, OD | Anthem BCBS Vision | No Ref/No Auth Required | PAR |
 | Diba Ossareh, OD | Anthem BCBS Vision | No Ref/No Auth Required | PAR |
 | Jose Vazques-Diaz, MD | Anthem BCBS Vision | No Ref/No Auth Required | Non-PAR |
+| Karin Girgis, OD - Start Date 9-15/2025 | Anthem BCBS Vision | No Ref/No Auth Required | Non-PAR |
 | Mari Holderby, OD | Anthem BCBS Vision | No Ref/No Auth Required | PAR |
 | Scot Holman, MD | Anthem BCBS Vision | No Ref/No Auth Required | PAR |
 | Scott Wehrly, MD | Anthem BCBS Vision | No Ref/No Auth Required | Non-PAR |

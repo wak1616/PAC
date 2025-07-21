@@ -28,6 +28,7 @@
 | Joshua Kim, MD | Meritain Health SMH Extd  Pln | Authorization MAY be Required | PAR |
 | Joshua Newman, MD | Meritain Health SMH Extd  Pln | Authorization MAY be Required | PAR |
 | Kalie Kosek, PA | Meritain Health SMH Extd  Pln | Authorization MAY be Required | PAR |
+| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | Meritain Health SMH Extd  Pln | Authorization MAY be Required | Non-PAR |
 | Kyle Schaub, OD | Meritain Health SMH Extd  Pln | Authorization MAY be Required | PAR |
 | Len Brown, OD | Meritain Health SMH Extd  Pln | Authorization MAY be Required | PAR |
 | Lori Long, OD | Meritain Health SMH Extd  Pln | Authorization MAY be Required | PAR |
@@ -64,6 +65,7 @@
 | Christine Bui, OD | Meritain Health SMH Extd  Pln | Authorization MAY be Required | Non-PAR |
 | Diba Ossareh, OD | Meritain Health SMH Extd  Pln | Authorization MAY be Required | Non-PAR |
 | Jose Vazques-Diaz, MD | Meritain Health SMH Extd  Pln | Authorization MAY be Required | Non-PAR |
+| Karin Girgis, OD - Start Date 9-15/2025 | Meritain Health SMH Extd  Pln | Authorization MAY be Required | Non-PAR |
 | Mari Holderby, OD | Meritain Health SMH Extd  Pln | Authorization MAY be Required | Non-PAR |
 | Scot Holman, MD | Meritain Health SMH Extd  Pln | Authorization MAY be Required | Non-PAR |
 | Scott Wehrly, MD | Meritain Health SMH Extd  Pln | Authorization MAY be Required | Non-PAR |

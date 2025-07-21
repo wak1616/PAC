@@ -28,6 +28,7 @@
 | Joshua Kim, MD | BCBS FL Commercial PPO | No Ref/No Auth Required | PAR |
 | Joshua Newman, MD | BCBS FL Commercial PPO | No Ref/No Auth Required | PAR |
 | Kalie Kosek, PA | BCBS FL Commercial PPO | No Ref/No Auth Required | PAR |
+| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | BCBS FL Commercial PPO | No Ref/No Auth Required | Non-PAR |
 | Kyle Schaub, OD | BCBS FL Commercial PPO | No Ref/No Auth Required | PAR |
 | Len Brown, OD | BCBS FL Commercial PPO | No Ref/No Auth Required | PAR |
 | Lori Long, OD | BCBS FL Commercial PPO | No Ref/No Auth Required | PAR |

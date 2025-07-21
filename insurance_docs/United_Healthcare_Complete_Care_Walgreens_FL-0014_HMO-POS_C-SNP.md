@@ -28,6 +28,7 @@
 | Joshua Kim, MD | UHC AARP Advantage HMO-87726 | No Ref/No Auth Required | PAR |
 | Joshua Newman, MD | UHC AARP Advantage HMO-87726 | No Ref/No Auth Required | PAR |
 | Kalie Kosek, PA | UHC AARP Advantage HMO-87726 | No Ref/No Auth Required | PAR |
+| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | UHC AARP Advantage HMO-87726 | No Ref/No Auth Required | Non-PAR |
 | Kyle Schaub, OD | UHC AARP Advantage HMO-87726 | No Ref/No Auth Required | PAR |
 | Len Brown, OD | UHC AARP Advantage HMO-87726 | No Ref/No Auth Required | PAR |
 | Lori Long, OD | UHC AARP Advantage HMO-87726 | No Ref/No Auth Required | PAR |

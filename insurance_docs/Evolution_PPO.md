@@ -28,6 +28,7 @@
 | Joshua Kim, MD | Evolutions PPO | No Ref/No Auth Required | PAR |
 | Joshua Newman, MD | Evolutions PPO | No Ref/No Auth Required | PAR |
 | Kalie Kosek, PA | Evolutions PPO | No Ref/No Auth Required | PAR |
+| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | Evolutions PPO | No Ref/No Auth Required | Non-PAR |
 | Kyle Schaub, OD | Evolutions PPO | No Ref/No Auth Required | PAR |
 | Len Brown, OD | Evolutions PPO | No Ref/No Auth Required | PAR |
 | Lori Long, OD | Evolutions PPO | No Ref/No Auth Required | PAR |

@@ -28,6 +28,7 @@
 | Joshua Kim, MD | Priority Health Medicare PPO - Multiplan | No Ref/No Auth Required | PAR |
 | Joshua Newman, MD | Priority Health Medicare PPO - Multiplan | No Ref/No Auth Required | PAR |
 | Kalie Kosek, PA | Priority Health Medicare PPO - Multiplan | No Ref/No Auth Required | PAR |
+| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | Priority Health Medicare PPO - Multiplan | No Ref/No Auth Required | Non-PAR |
 | Kyle Schaub, OD | Priority Health Medicare PPO - Multiplan | No Ref/No Auth Required | PAR |
 | Len Brown, OD | Priority Health Medicare PPO - Multiplan | No Ref/No Auth Required | PAR |
 | Lori Long, OD | Priority Health Medicare PPO - Multiplan | No Ref/No Auth Required | PAR |

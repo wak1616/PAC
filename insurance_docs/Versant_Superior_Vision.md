@@ -28,6 +28,7 @@
 | Joshua Kim, MD | Superior Vision | Authorization Required | Non-PAR |
 | Joshua Newman, MD | Superior Vision | Authorization Required | PAR |
 | Kalie Kosek, PA | Superior Vision | Authorization Required | Non-PAR |
+| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | Superior Vision | Authorization Required | Non-PAR |
 | Kyle Schaub, OD | Superior Vision | Authorization Required | Non-PAR |
 | Len Brown, OD | Superior Vision | Authorization Required | PAR |
 | Lori Long, OD | Superior Vision | Authorization Required | PAR |
@@ -55,6 +56,7 @@
 | Christine Bui, OD | Self Pay Non-Par with Ins |  | Non-PAR |
 | Diba Ossareh, OD | Self Pay Non-Par with Ins |  | Non-PAR |
 | Jose Vazques-Diaz, MD | Self Pay Non-Par with Ins |  | Non-PAR |
+| Karin Girgis, OD - Start Date 9-15/2025 | Self Pay Non-Par with Ins |  | Non-PAR |
 | Mari Holderby, OD | Self Pay Non-Par with Ins |  | Non-PAR |
 | Scot Holman, MD | Self Pay Non-Par with Ins |  | Non-PAR |
 | Scott Wehrly, MD | Self Pay Non-Par with Ins |  | Non-PAR |

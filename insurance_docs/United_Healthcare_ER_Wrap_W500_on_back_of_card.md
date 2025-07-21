@@ -28,6 +28,7 @@
 | Joshua Kim, MD | UHC ER Wrap | Authorization Required | PAR |
 | Joshua Newman, MD | UHC ER Wrap | Authorization Required | PAR |
 | Kalie Kosek, PA | UHC ER Wrap | Authorization Required | PAR |
+| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | UHC ER Wrap | Authorization Required | Non-PAR |
 | Kyle Schaub, OD | UHC ER Wrap | Authorization Required | PAR |
 | Len Brown, OD | UHC ER Wrap | Authorization Required | PAR |
 | Lori Long, OD | UHC ER Wrap | Authorization Required | PAR |
@@ -64,6 +65,7 @@
 | Christine Bui, OD | UHC ER Wrap | Authorization Required | PAR |
 | Diba Ossareh, OD | UHC ER Wrap | Authorization Required | PAR |
 | Jose Vazques-Diaz, MD | UHC ER Wrap | Authorization Required | PAR |
+| Karin Girgis, OD - Start Date 9-15/2025 | UHC ER Wrap | Authorization Required | Non-PAR |
 | Mari Holderby, OD | UHC ER Wrap | Authorization Required | PAR |
 | Scot Holman, MD | UHC ER Wrap | Authorization Required | PAR |
 | Scott Wehrly, MD | UHC ER Wrap | Authorization Required | PAR |

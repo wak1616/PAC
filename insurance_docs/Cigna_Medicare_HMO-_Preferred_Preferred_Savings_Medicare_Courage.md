@@ -28,6 +28,7 @@
 | Joshua Kim, MD | Cigna Medicare HMO REFERRAL REQUIRED | Referral Required | PAR |
 | Joshua Newman, MD | Cigna Medicare HMO REFERRAL REQUIRED | Referral Required | PAR |
 | Kalie Kosek, PA | Cigna Medicare HMO REFERRAL REQUIRED | Referral Required | Non-PAR |
+| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | Cigna Medicare HMO REFERRAL REQUIRED | Referral Required | Non-PAR |
 | Kyle Schaub, OD | Cigna Medicare HMO REFERRAL REQUIRED | Referral Required | PAR |
 | Len Brown, OD | Cigna Medicare HMO REFERRAL REQUIRED | Referral Required | PAR |
 | Lori Long, OD | Cigna Medicare HMO REFERRAL REQUIRED | Referral Required | PAR |

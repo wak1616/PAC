@@ -28,6 +28,7 @@
 | Joshua Kim, MD | Cigna Commercial HMO | No Ref/No Auth Required | PAR |
 | Joshua Newman, MD | Cigna Commercial HMO | No Ref/No Auth Required | PAR |
 | Kalie Kosek, PA | Cigna Commercial HMO | No Ref/No Auth Required | Non-PAR |
+| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | Cigna Commercial HMO | No Ref/No Auth Required | Non-PAR |
 | Kyle Schaub, OD | Cigna Commercial HMO | No Ref/No Auth Required | PAR |
 | Len Brown, OD | Cigna Commercial HMO | No Ref/No Auth Required | PAR |
 | Lori Long, OD | Cigna Commercial HMO | No Ref/No Auth Required | PAR |

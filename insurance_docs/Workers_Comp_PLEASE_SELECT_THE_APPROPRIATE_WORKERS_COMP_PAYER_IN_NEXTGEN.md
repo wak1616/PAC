@@ -12,6 +12,7 @@
 | Christine Bui, OD | See NEXTGEN "WC" PAYERS | Authorization Required | PAR |
 | Diba Ossareh, OD | See NEXTGEN "WC" PAYERS | Authorization Required | PAR |
 | Jose Vazques-Diaz, MD | See NEXTGEN "WC" PAYERS | Authorization Required | PAR |
+| Karin Girgis, OD - Start Date 9-15/2025 | See NEXTGEN "WC" PAYERS | Authorization Required | Non-PAR |
 | Mari Holderby, OD | See NEXTGEN "WC" PAYERS | Authorization Required | PAR |
 | Scot Holman, MD | See NEXTGEN "WC" PAYERS | Authorization Required | PAR |
 | Scott Wehrly, MD | See NEXTGEN "WC" PAYERS | Authorization Required | PAR |

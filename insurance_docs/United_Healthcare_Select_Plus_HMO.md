@@ -28,6 +28,7 @@
 | Joshua Kim, MD | UHC Commercial HMO | No Ref/No Auth Required | PAR |
 | Joshua Newman, MD | UHC Commercial HMO | No Ref/No Auth Required | PAR |
 | Kalie Kosek, PA | UHC Commercial HMO | No Ref/No Auth Required | PAR |
+| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | UHC Commercial HMO | No Ref/No Auth Required | Non-PAR |
 | Kyle Schaub, OD | UHC Commercial HMO | No Ref/No Auth Required | PAR |
 | Len Brown, OD | UHC Commercial HMO | No Ref/No Auth Required | PAR |
 | Lori Long, OD | UHC Commercial HMO | No Ref/No Auth Required | PAR |
@@ -66,6 +67,8 @@
 | Diba Ossareh, OD | UHC Commercial HMO | No Ref/No Auth Required | PAR |
 | Jose Vazques-Diaz, MD | UHC Commercial HMO | No Ref/No Auth Required | PAR |
 | Jose Vazques-Diaz, MD | UHC Commercial HMO | Referral MAY Be Required | PAR |
+| Karin Girgis, OD - Start Date 9-15/2025 | UHC Commercial HMO | No Ref/No Auth Required | Non-PAR |
+| Karin Girgis, OD - Start Date 9-15/2025 | UHC Commercial HMO | Referral MAY Be Required | Non-PAR |
 | Mari Holderby, OD | UHC Commercial HMO | No Ref/No Auth Required | PAR |
 | Scot Holman, MD | UHC Commercial HMO | No Ref/No Auth Required | PAR |
 | Scott Wehrly, MD | UHC Commercial HMO | No Ref/No Auth Required | PAR |

@@ -28,6 +28,7 @@
 | Joshua Kim, MD | UHC PPO/POS-87726 | No Ref/No Auth Required | PAR |
 | Joshua Newman, MD | UHC PPO/POS-87726 | No Ref/No Auth Required | PAR |
 | Kalie Kosek, PA | UHC PPO/POS-87726 | No Ref/No Auth Required | PAR |
+| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | UHC PPO/POS-87726 | No Ref/No Auth Required | Non-PAR |
 | Kyle Schaub, OD | UHC PPO/POS-87726 | No Ref/No Auth Required | PAR |
 | Len Brown, OD | UHC PPO/POS-87726 | No Ref/No Auth Required | PAR |
 | Lori Long, OD | UHC PPO/POS-87726 | No Ref/No Auth Required | PAR |

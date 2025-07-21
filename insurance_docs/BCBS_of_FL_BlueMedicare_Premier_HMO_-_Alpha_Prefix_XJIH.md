@@ -28,6 +28,7 @@
 | Joshua Kim, MD | BCBS FL Medicare HMO REFERRAL REQ | Referral Required | PAR |
 | Joshua Newman, MD | BCBS FL Medicare HMO REFERRAL REQ | Referral Required | PAR |
 | Kalie Kosek, PA | BCBS FL Medicare HMO REFERRAL REQ | Referral Required | PAR |
+| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | BCBS FL Medicare HMO REFERRAL REQ | Referral Required | Non-PAR |
 | Kyle Schaub, OD | BCBS FL Medicare HMO REFERRAL REQ | Referral Required | PAR |
 | Len Brown, OD | BCBS FL Medicare HMO REFERRAL REQ | Referral Required | PAR |
 | Lori Long, OD | BCBS FL Medicare HMO REFERRAL REQ | Referral Required | PAR |

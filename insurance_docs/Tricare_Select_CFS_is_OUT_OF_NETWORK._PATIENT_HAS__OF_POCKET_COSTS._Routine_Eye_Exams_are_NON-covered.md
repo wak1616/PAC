@@ -28,6 +28,7 @@
 | Joshua Kim, MD | Tricare Select | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Joshua Newman, MD | Tricare Select | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Kalie Kosek, PA | Tricare Select | No Ref/No Auth Required | Non-PAR -OON Benefits |
+| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | Tricare Select | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Kyle Schaub, OD | Tricare Select | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Len Brown, OD | Tricare Select | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Lori Long, OD | Tricare Select | No Ref/No Auth Required | Non-PAR -OON Benefits |

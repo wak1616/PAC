@@ -28,6 +28,7 @@
 | Joshua Kim, MD | Independent Health - UHC | No Ref/No Auth Required | PAR |
 | Joshua Newman, MD | Independent Health - UHC | No Ref/No Auth Required | PAR |
 | Kalie Kosek, PA | Independent Health - UHC | No Ref/No Auth Required | PAR |
+| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | Independent Health - UHC | No Ref/No Auth Required | Non-PAR |
 | Kyle Schaub, OD | Independent Health - UHC | No Ref/No Auth Required | PAR |
 | Len Brown, OD | Independent Health - UHC | No Ref/No Auth Required | PAR |
 | Lori Long, OD | Independent Health - UHC | No Ref/No Auth Required | PAR |

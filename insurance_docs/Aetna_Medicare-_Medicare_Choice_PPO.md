@@ -28,6 +28,7 @@
 | Joshua Kim, MD | Aetna Medicare PPO | No Ref/No Auth Required | PAR |
 | Joshua Newman, MD | Aetna Medicare PPO | No Ref/No Auth Required | PAR |
 | Kalie Kosek, PA | Aetna Medicare PPO | No Ref/No Auth Required | PAR |
+| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | Aetna Medicare PPO | No Ref/No Auth Required | Non-PAR |
 | Kyle Schaub, OD | Aetna Medicare PPO | No Ref/No Auth Required | PAR |
 | Len Brown, OD | Aetna Medicare PPO | No Ref/No Auth Required | PAR |
 | Lori Long, OD | Aetna Medicare PPO | No Ref/No Auth Required | PAR |

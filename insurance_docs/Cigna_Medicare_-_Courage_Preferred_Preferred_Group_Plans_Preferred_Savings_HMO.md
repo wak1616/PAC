@@ -12,6 +12,7 @@
 | Christine Bui, OD | Cigna Medicare HMO REFERRAL REQ | Referral Required | PAR |
 | Diba Ossareh, OD | Cigna Medicare HMO REFERRAL REQ | Referral Required | Non-PAR |
 | Jose Vazques-Diaz, MD | Cigna Medicare HMO REFERRAL REQ | Referral Required | PAR |
+| Karin Girgis, OD - Start Date 9-15/2025 | Cigna Medicare HMO REFERRAL REQ | Referral Required | Non-PAR |
 | Mari Holderby, OD | Cigna Medicare HMO REFERRAL REQ | Referral Required | PAR |
 | Scot Holman, MD | Cigna Medicare HMO REFERRAL REQ | Referral Required | PAR |
 | Scott Wehrly, MD | Cigna Medicare HMO REFERRAL REQ | Referral Required | PAR |

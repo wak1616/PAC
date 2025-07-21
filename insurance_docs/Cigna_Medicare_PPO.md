@@ -28,6 +28,7 @@
 | Joshua Kim, MD | Cigna Medicare PPO |  | PAR |
 | Joshua Newman, MD | Cigna Medicare PPO |  | PAR |
 | Kalie Kosek, PA | Cigna Medicare PPO |  | PAR |
+| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | Cigna Medicare PPO |  | Non-PAR |
 | Kyle Schaub, OD | Cigna Medicare PPO |  | PAR |
 | Len Brown, OD | Cigna Medicare PPO |  | PAR |
 | Lori Long, OD | Cigna Medicare PPO |  | PAR |

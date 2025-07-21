@@ -28,6 +28,7 @@
 | Joshua Kim, MD | UHC Shared Services PPO-39026 | No Ref/No Auth Required | PAR |
 | Joshua Newman, MD | UHC Shared Services PPO-39026 | No Ref/No Auth Required | PAR |
 | Kalie Kosek, PA | UHC Shared Services PPO-39026 | No Ref/No Auth Required | PAR |
+| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | UHC Shared Services PPO-39026 | No Ref/No Auth Required | Non-PAR |
 | Kyle Schaub, OD | UHC Shared Services PPO-39026 | No Ref/No Auth Required | PAR |
 | Len Brown, OD | UHC Shared Services PPO-39026 | No Ref/No Auth Required | PAR |
 | Lori Long, OD | UHC Shared Services PPO-39026 | No Ref/No Auth Required | PAR |
@@ -64,6 +65,7 @@
 | Christine Bui, OD | UHC Shared Services PPO-39026 | No Ref/No Auth Required | PAR |
 | Diba Ossareh, OD | UHC Shared Services PPO-39026 | No Ref/No Auth Required | PAR |
 | Jose Vazques-Diaz, MD | UHC Shared Services PPO-39026 | No Ref/No Auth Required | PAR |
+| Karin Girgis, OD - Start Date 9-15/2025 | UHC Shared Services PPO-39026 | No Ref/No Auth Required | Non-PAR |
 | Mari Holderby, OD | UHC Shared Services PPO-39026 | No Ref/No Auth Required | PAR |
 | Scot Holman, MD | UHC Shared Services PPO-39026 | No Ref/No Auth Required | PAR |
 | Scott Wehrly, MD | UHC Shared Services PPO-39026 | No Ref/No Auth Required | PAR |

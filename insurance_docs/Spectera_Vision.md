@@ -28,6 +28,7 @@
 | Joshua Kim, MD | Spectera Vision | No Ref/No Auth Required | Non-PAR |
 | Joshua Newman, MD | Spectera Vision | No Ref/No Auth Required | Non-PAR |
 | Kalie Kosek, PA | Spectera Vision | No Ref/No Auth Required | Non-PAR |
+| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | Spectera Vision | No Ref/No Auth Required | Non-PAR |
 | Kyle Schaub, OD | Spectera Vision | No Ref/No Auth Required | Non-PAR |
 | Len Brown, OD | Spectera Vision | No Ref/No Auth Required | PAR |
 | Lori Long, OD | Spectera Vision | No Ref/No Auth Required | Non-PAR |
@@ -62,8 +63,9 @@
 |----------|-------------|--------------|--------|
 | Alexandria Rawls, OD | Spectera Vision | No Ref/No Auth Required | PAR |
 | Christine Bui, OD | Spectera Vision | No Ref/No Auth Required | PAR |
-| Diba Ossareh, OD | Spectera Vision | No Ref/No Auth Required | Non-PAR |
+| Diba Ossareh, OD | Spectera Vision | No Ref/No Auth Required | PAR |
 | Jose Vazques-Diaz, MD | Spectera Vision | No Ref/No Auth Required | PAR |
+| Karin Girgis, OD - Start Date 9-15/2025 | Spectera Vision | No Ref/No Auth Required | Non-PAR |
 | Mari Holderby, OD | Spectera Vision | No Ref/No Auth Required | PAR |
 | Scot Holman, MD | Spectera Vision | No Ref/No Auth Required | PAR |
 | Scott Wehrly, MD | Spectera Vision | No Ref/No Auth Required | PAR |
