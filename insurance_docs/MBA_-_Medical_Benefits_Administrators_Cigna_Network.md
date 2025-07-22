@@ -10,7 +10,6 @@
 |----------|-------------|--------------|--------|
 | Bradley Middaugh, OD | MBA TPA Commercial - Cigna | No Ref/No Auth Required | PAR |
 | Brittany Coyle, OD | MBA TPA Commercial - Cigna | No Ref/No Auth Required | PAR |
-| Callista Wlaschin, OD | MBA TPA Commercial - Cigna | No Ref/No Auth Required | PAR |
 | Charles Putrino, OD | MBA TPA Commercial - Cigna | No Ref/No Auth Required | PAR |
 | Daniel Hadland, OD | MBA TPA Commercial - Cigna | No Ref/No Auth Required | PAR |
 | David Mertzlufft, OD | MBA TPA Commercial - Cigna | No Ref/No Auth Required | PAR |

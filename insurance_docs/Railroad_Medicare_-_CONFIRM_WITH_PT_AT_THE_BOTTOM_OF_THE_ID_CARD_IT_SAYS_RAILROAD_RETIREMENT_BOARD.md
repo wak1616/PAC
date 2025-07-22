@@ -10,7 +10,6 @@
 |----------|-------------|--------------|--------|
 | Bradley Middaugh, OD | Railroad Medicare | No Ref/No Auth Required | PAR |
 | Brittany Coyle, OD | Railroad Medicare | No Ref/No Auth Required | PAR |
-| Callista Wlaschin, OD | Railroad Medicare | No Ref/No Auth Required | PAR |
 | Charles Putrino, OD | Railroad Medicare | No Ref/No Auth Required | PAR |
 | Daniel Hadland, OD | Railroad Medicare | No Ref/No Auth Required | PAR |
 | David Mertzlufft, OD | Railroad Medicare | No Ref/No Auth Required | PAR |

@@ -10,7 +10,6 @@
 |----------|-------------|--------------|--------|
 | Bradley Middaugh, OD | AvMed Commercial HMO | No Ref/No Auth Required | Non-PAR |
 | Brittany Coyle, OD | AvMed Commercial HMO | No Ref/No Auth Required | Non-PAR |
-| Callista Wlaschin, OD | AvMed Commercial HMO | No Ref/No Auth Required | Non-PAR |
 | Charles Putrino, OD | AvMed Commercial HMO | No Ref/No Auth Required | Non-PAR |
 | Daniel Hadland, OD | AvMed Commercial HMO | No Ref/No Auth Required | Non-PAR |
 | David Mertzlufft, OD | AvMed Commercial HMO | No Ref/No Auth Required | PAR |

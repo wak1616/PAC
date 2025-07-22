@@ -10,7 +10,6 @@
 |----------|-------------|--------------|--------|
 | Bradley Middaugh, OD | Medicare Part B | No Ref/No Auth Required | PAR |
 | Brittany Coyle, OD | Medicare Part B | No Ref/No Auth Required | PAR |
-| Callista Wlaschin, OD | Medicare Part B | No Ref/No Auth Required | PAR |
 | Charles Putrino, OD | Medicare Part B | No Ref/No Auth Required | PAR |
 | Daniel Hadland, OD | Medicare Part B | No Ref/No Auth Required | PAR |
 | David Mertzlufft, OD | Medicare Part B | No Ref/No Auth Required | PAR |
@@ -18,7 +17,7 @@
 | Elizabeth Davis, MD | Medicare Part B | No Ref/No Auth Required | PAR |
 | Erin Hardie, OD | Medicare Part B | No Ref/No Auth Required | PAR |
 | George Hurwitz, OD | Medicare Part B | No Ref/No Auth Required | PAR |
-| Giselle Vega, OD | Medicare Part B | No Ref/No Auth Required | Non-PAR -Ok to schedule |
+| Giselle Vega, OD | Medicare Part B | No Ref/No Auth Required | PAR |
 | Gisselle Vrga Carraso | Medicare Part B | No Ref/No Auth Required | OK to Schedule-HOLD Claims until PAR |
 | Hunter Vittone, OD | Medicare Part B | No Ref/No Auth Required | PAR |
 | James Lenhart, OD | Medicare Part B | No Ref/No Auth Required | PAR |

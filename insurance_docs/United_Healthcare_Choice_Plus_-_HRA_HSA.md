@@ -10,7 +10,6 @@
 |----------|-------------|--------------|--------|
 | Bradley Middaugh, OD | UHC HRA/HSA/POS-87726 | No Ref/No Auth Required | PAR |
 | Brittany Coyle, OD | UHC HRA/HSA/POS-87726 | No Ref/No Auth Required | PAR |
-| Callista Wlaschin, OD | UHC HRA/HSA/POS-87726 | No Ref/No Auth Required | PAR |
 | Charles Putrino, OD | UHC HRA/HSA/POS-87726 | No Ref/No Auth Required | PAR |
 | Daniel Hadland, OD | UHC HRA/HSA/POS-87726 | No Ref/No Auth Required | PAR |
 | David Mertzlufft, OD | UHC HRA/HSA/POS-87726 | No Ref/No Auth Required | PAR |
@@ -18,7 +17,7 @@
 | Elizabeth Davis, MD | UHC HRA/HSA/POS-87726 | No Ref/No Auth Required | PAR |
 | Erin Hardie, OD | UHC HRA/HSA/POS-87726 | No Ref/No Auth Required | PAR |
 | George Hurwitz, OD | UHC HRA/HSA/POS-87726 | No Ref/No Auth Required | PAR |
-| Giselle Vega, OD | UHC HRA/HSA/POS-87726 | No Ref/No Auth Required | Non-PAR |
+| Giselle Vega, OD | UHC HRA/HSA/POS-87726 | No Ref/No Auth Required | PAR |
 | Gisselle Vrga Carraso | UHC HRA/HSA/POS-87726 | No Ref/No Auth Required | Non-PAR |
 | Hunter Vittone, OD | UHC HRA/HSA/POS-87726 | No Ref/No Auth Required | PAR |
 | James Lenhart, OD | UHC HRA/HSA/POS-87726 | No Ref/No Auth Required | PAR |

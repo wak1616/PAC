@@ -10,7 +10,6 @@
 |----------|-------------|--------------|--------|
 | Bradley Middaugh, OD | Primary: UHC Dual Complete HMO-87726                                                                 Secondary: Medicaid Secondary | No Ref/No Auth Required | PAR |
 | Brittany Coyle, OD | Primary: UHC Dual Complete HMO-87726                                                                 Secondary: Medicaid Secondary | No Ref/No Auth Required | PAR |
-| Callista Wlaschin, OD | Primary: UHC Dual Complete HMO-87726                                                                 Secondary: Medicaid Secondary | No Ref/No Auth Required | PAR |
 | Charles Putrino, OD | Primary: UHC Dual Complete HMO-87726                                                                 Secondary: Medicaid Secondary | No Ref/No Auth Required | PAR |
 | Daniel Hadland, OD | Primary: UHC Dual Complete HMO-87726                                                                 Secondary: Medicaid Secondary | No Ref/No Auth Required | PAR |
 | David Mertzlufft, OD | Primary: UHC Dual Complete HMO-87726                                                                 Secondary: Medicaid Secondary | No Ref/No Auth Required | PAR |
@@ -18,7 +17,7 @@
 | Elizabeth Davis, MD | Primary: UHC Dual Complete HMO-87726                                                                 Secondary: Medicaid Secondary | No Ref/No Auth Required | PAR |
 | Erin Hardie, OD | Primary: UHC Dual Complete HMO-87726                                                                 Secondary: Medicaid Secondary | No Ref/No Auth Required | PAR |
 | George Hurwitz, OD | Primary: UHC Dual Complete HMO-87726                                                                 Secondary: Medicaid Secondary | No Ref/No Auth Required | PAR |
-| Giselle Vega, OD | Primary: UHC Dual Complete HMO-87726                                                                 Secondary: Medicaid Secondary | No Ref/No Auth Required | Non-PAR |
+| Giselle Vega, OD | Primary: UHC Dual Complete HMO-87726                                                                 Secondary: Medicaid Secondary | No Ref/No Auth Required | PAR |
 | Gisselle Vrga Carraso | Primary: UHC Dual Complete HMO-87726                                                                 Secondary: Medicaid Secondary | No Ref/No Auth Required | Non-PAR |
 | Hunter Vittone, OD | Primary: UHC Dual Complete HMO-87726                                                                 Secondary: Medicaid Secondary | No Ref/No Auth Required | PAR |
 | James Lenhart, OD | Primary: UHC Dual Complete HMO-87726                                                                 Secondary: Medicaid Secondary | No Ref/No Auth Required | PAR |

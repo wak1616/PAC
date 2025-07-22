@@ -10,7 +10,6 @@
 |----------|-------------|--------------|--------|
 | Bradley Middaugh, OD | Optum VA Community Care | Authorization Required | PAR |
 | Brittany Coyle, OD | Optum VA Community Care | Authorization Required | PAR |
-| Callista Wlaschin, OD | Optum VA Community Care | Authorization Required | Non-PAR |
 | Charles Putrino, OD | Optum VA Community Care | Authorization Required | PAR |
 | Daniel Hadland, OD | Optum VA Community Care | Authorization Required | PAR |
 | David Mertzlufft, OD | Optum VA Community Care | Authorization Required | PAR |
@@ -18,7 +17,7 @@
 | Elizabeth Davis, MD | Optum VA Community Care | Authorization Required | PAR |
 | Erin Hardie, OD | Optum VA Community Care | Authorization Required | PAR |
 | George Hurwitz, OD | Optum VA Community Care | Authorization Required | PAR |
-| Giselle Vega, OD | Optum VA Community Care | Authorization Required | Non-PAR |
+| Giselle Vega, OD | Optum VA Community Care | Authorization Required | PAR |
 | Gisselle Vrga Carraso | Optum VA Community Care | Authorization Required | Non-PAR |
 | Hunter Vittone, OD | Optum VA Community Care | Authorization Required | PAR |
 | James Lenhart, OD | Optum VA Community Care | Authorization Required | PAR |

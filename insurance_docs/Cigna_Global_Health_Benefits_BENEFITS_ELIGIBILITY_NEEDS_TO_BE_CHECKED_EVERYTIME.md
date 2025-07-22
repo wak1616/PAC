@@ -10,7 +10,6 @@
 |----------|-------------|--------------|--------|
 | Bradley Middaugh, OD | Cigna International | Authorization Required | PAR |
 | Brittany Coyle, OD | Cigna International | Authorization Required | PAR |
-| Callista Wlaschin, OD | Cigna International | Authorization Required | PAR |
 | Charles Putrino, OD | Cigna International | Authorization Required | PAR |
 | Daniel Hadland, OD | Cigna International | Authorization Required | PAR |
 | David Mertzlufft, OD | Cigna International | Authorization Required | PAR |

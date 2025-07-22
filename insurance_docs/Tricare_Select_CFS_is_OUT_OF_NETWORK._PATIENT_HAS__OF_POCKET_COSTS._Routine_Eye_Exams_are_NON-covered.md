@@ -10,7 +10,6 @@
 |----------|-------------|--------------|--------|
 | Bradley Middaugh, OD | Tricare Select | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Brittany Coyle, OD | Tricare Select | No Ref/No Auth Required | Non-PAR -OON Benefits |
-| Callista Wlaschin, OD | Tricare Select | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Charles Putrino, OD | Tricare Select | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Daniel Hadland, OD | Tricare Select | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | David Mertzlufft, OD | Tricare Select | No Ref/No Auth Required | Non-PAR -OON Benefits |

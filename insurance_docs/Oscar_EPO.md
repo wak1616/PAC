@@ -10,7 +10,6 @@
 |----------|-------------|--------------|--------|
 | Bradley Middaugh, OD | Self Pay Non-Par with Ins |  | Non-PAR |
 | Brittany Coyle, OD | Self Pay Non-Par with Ins |  | Non-PAR |
-| Callista Wlaschin, OD | Self Pay Non-Par with Ins |  | PAR |
 | Charles Putrino, OD | Self Pay Non-Par with Ins |  | Non-PAR |
 | Daniel Hadland, OD | Self Pay Non-Par with Ins |  | Non-PAR |
 | David Mertzlufft, OD | Self Pay Non-Par with Ins |  | Non-PAR |

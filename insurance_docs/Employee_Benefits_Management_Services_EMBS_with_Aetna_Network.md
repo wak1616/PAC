@@ -10,7 +10,6 @@
 |----------|-------------|--------------|--------|
 | Bradley Middaugh, OD | EBMS Commercial PPO - Aetna | No Ref/No Auth Required | PAR |
 | Brittany Coyle, OD | EBMS Commercial PPO - Aetna | No Ref/No Auth Required | PAR |
-| Callista Wlaschin, OD | EBMS Commercial PPO - Aetna | No Ref/No Auth Required | PAR |
 | Charles Putrino, OD | EBMS Commercial PPO - Aetna | No Ref/No Auth Required | PAR |
 | Daniel Hadland, OD | EBMS Commercial PPO - Aetna | No Ref/No Auth Required | PAR |
 | David Mertzlufft, OD | EBMS Commercial PPO - Aetna | No Ref/No Auth Required | PAR |

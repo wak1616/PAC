@@ -10,7 +10,6 @@
 |----------|-------------|--------------|--------|
 | Bradley Middaugh, OD | Allegiance Benefit Plan Management-Cigna | No Ref/No Auth Required | PAR |
 | Brittany Coyle, OD | Allegiance Benefit Plan Management-Cigna | No Ref/No Auth Required | PAR |
-| Callista Wlaschin, OD | Allegiance Benefit Plan Management-Cigna | No Ref/No Auth Required | PAR |
 | Charles Putrino, OD | Allegiance Benefit Plan Management-Cigna | No Ref/No Auth Required | PAR |
 | Daniel Hadland, OD | Allegiance Benefit Plan Management-Cigna | No Ref/No Auth Required | PAR |
 | David Mertzlufft, OD | Allegiance Benefit Plan Management-Cigna | No Ref/No Auth Required | PAR |

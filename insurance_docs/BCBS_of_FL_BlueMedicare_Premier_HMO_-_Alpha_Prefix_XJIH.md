@@ -10,7 +10,6 @@
 |----------|-------------|--------------|--------|
 | Bradley Middaugh, OD | BCBS FL Medicare HMO REFERRAL REQ | Referral Required | PAR |
 | Brittany Coyle, OD | BCBS FL Medicare HMO REFERRAL REQ | Referral Required | PAR |
-| Callista Wlaschin, OD | BCBS FL Medicare HMO REFERRAL REQ | Referral Required | PAR |
 | Charles Putrino, OD | BCBS FL Medicare HMO REFERRAL REQ | Referral Required | PAR |
 | Daniel Hadland, OD | BCBS FL Medicare HMO REFERRAL REQ | Referral Required | PAR |
 | David Mertzlufft, OD | BCBS FL Medicare HMO REFERRAL REQ | Referral Required | PAR |

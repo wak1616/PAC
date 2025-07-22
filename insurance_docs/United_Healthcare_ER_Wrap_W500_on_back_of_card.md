@@ -10,7 +10,6 @@
 |----------|-------------|--------------|--------|
 | Bradley Middaugh, OD | UHC ER Wrap | Authorization Required | PAR |
 | Brittany Coyle, OD | UHC ER Wrap | Authorization Required | PAR |
-| Callista Wlaschin, OD | UHC ER Wrap | Authorization Required | PAR |
 | Charles Putrino, OD | UHC ER Wrap | Authorization Required | PAR |
 | Daniel Hadland, OD | UHC ER Wrap | Authorization Required | PAR |
 | David Mertzlufft, OD | UHC ER Wrap | Authorization Required | PAR |
@@ -18,7 +17,7 @@
 | Elizabeth Davis, MD | UHC ER Wrap | Authorization Required | PAR |
 | Erin Hardie, OD | UHC ER Wrap | Authorization Required | PAR |
 | George Hurwitz, OD | UHC ER Wrap | Authorization Required | PAR |
-| Giselle Vega, OD | UHC ER Wrap | Authorization Required | Non-PAR |
+| Giselle Vega, OD | UHC ER Wrap | Authorization Required | PAR |
 | Gisselle Vrga Carraso | UHC ER Wrap | Authorization Required | Non-PAR |
 | Hunter Vittone, OD | UHC ER Wrap | Authorization Required | PAR |
 | James Lenhart, OD | UHC ER Wrap | Authorization Required | PAR |

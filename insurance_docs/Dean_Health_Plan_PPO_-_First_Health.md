@@ -10,7 +10,6 @@
 |----------|-------------|--------------|--------|
 | Bradley Middaugh, OD | Dean Health Plan PPO | No Ref/No Auth Required | PAR |
 | Brittany Coyle, OD | Dean Health Plan PPO | No Ref/No Auth Required | PAR |
-| Callista Wlaschin, OD | Dean Health Plan PPO | No Ref/No Auth Required | PAR |
 | Charles Putrino, OD | Dean Health Plan PPO | No Ref/No Auth Required | PAR |
 | Daniel Hadland, OD | Dean Health Plan PPO | No Ref/No Auth Required | PAR |
 | David Mertzlufft, OD | Dean Health Plan PPO | No Ref/No Auth Required | PAR |
@@ -18,7 +17,7 @@
 | Elizabeth Davis, MD | Dean Health Plan PPO | No Ref/No Auth Required | PAR |
 | Erin Hardie, OD | Dean Health Plan PPO | No Ref/No Auth Required | PAR |
 | George Hurwitz, OD | Dean Health Plan PPO | No Ref/No Auth Required | PAR |
-| Giselle Vega, OD | Dean Health Plan PPO | No Ref/No Auth Required | Non-PAR |
+| Giselle Vega, OD | Dean Health Plan PPO | No Ref/No Auth Required | PAR |
 | Gisselle Vrga Carraso | Dean Health Plan PPO | No Ref/No Auth Required | Non-PAR |
 | Hunter Vittone, OD | Dean Health Plan PPO | No Ref/No Auth Required | PAR |
 | James Lenhart, OD | Dean Health Plan PPO | No Ref/No Auth Required | PAR |

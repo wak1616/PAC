@@ -10,7 +10,6 @@
 |----------|-------------|--------------|--------|
 | Bradley Middaugh, OD | Superior Vision | Authorization Required | PAR |
 | Brittany Coyle, OD | Superior Vision | Authorization Required | PAR |
-| Callista Wlaschin, OD | Superior Vision | Authorization Required | PAR |
 | Charles Putrino, OD | Superior Vision | Authorization Required | PAR |
 | Daniel Hadland, OD | Superior Vision | Authorization Required | PAR |
 | David Mertzlufft, OD | Superior Vision | Authorization Required | PAR |

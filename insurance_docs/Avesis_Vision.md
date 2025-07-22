@@ -10,7 +10,6 @@
 |----------|-------------|--------------|--------|
 | Bradley Middaugh, OD | Avesis Vision | Authorization Required | PAR |
 | Brittany Coyle, OD | Avesis Vision | Authorization Required | PAR |
-| Callista Wlaschin, OD | Avesis Vision | Authorization Required | Non-PAR |
 | Charles Putrino, OD | Avesis Vision | Authorization Required | Non-PAR |
 | Daniel Hadland, OD | Avesis Vision | Authorization Required | Non-PAR |
 | David Mertzlufft, OD | Avesis Vision | Authorization Required | Non-PAR |

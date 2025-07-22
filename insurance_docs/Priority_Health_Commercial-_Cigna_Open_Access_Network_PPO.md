@@ -10,7 +10,6 @@
 |----------|-------------|--------------|--------|
 | Bradley Middaugh, OD | Priority Health Commercial PPO - Cigna | No Ref/No Auth Required | PAR |
 | Brittany Coyle, OD | Priority Health Commercial PPO - Cigna | No Ref/No Auth Required | PAR |
-| Callista Wlaschin, OD | Priority Health Commercial PPO - Cigna | No Ref/No Auth Required | PAR |
 | Charles Putrino, OD | Priority Health Commercial PPO - Cigna | No Ref/No Auth Required | PAR |
 | Daniel Hadland, OD | Priority Health Commercial PPO - Cigna | No Ref/No Auth Required | PAR |
 | David Mertzlufft, OD | Priority Health Commercial PPO - Cigna | No Ref/No Auth Required | PAR |

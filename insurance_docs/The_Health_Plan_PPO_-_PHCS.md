@@ -10,7 +10,6 @@
 |----------|-------------|--------------|--------|
 | Bradley Middaugh, OD | The Health Plan PPO - PHCS | No Ref/No Auth Required | PAR |
 | Brittany Coyle, OD | The Health Plan PPO - PHCS | No Ref/No Auth Required | PAR |
-| Callista Wlaschin, OD | The Health Plan PPO - PHCS | No Ref/No Auth Required | PAR |
 | Charles Putrino, OD | The Health Plan PPO - PHCS | No Ref/No Auth Required | PAR |
 | Daniel Hadland, OD | The Health Plan PPO - PHCS | No Ref/No Auth Required | PAR |
 | David Mertzlufft, OD | The Health Plan PPO - PHCS | No Ref/No Auth Required | PAR |
@@ -18,7 +17,7 @@
 | Elizabeth Davis, MD | The Health Plan PPO - PHCS | No Ref/No Auth Required | PAR |
 | Erin Hardie, OD | The Health Plan PPO - PHCS | No Ref/No Auth Required | PAR |
 | George Hurwitz, OD | The Health Plan PPO - PHCS | No Ref/No Auth Required | PAR |
-| Giselle Vega, OD | The Health Plan PPO - PHCS | No Ref/No Auth Required | Non-PAR |
+| Giselle Vega, OD | The Health Plan PPO - PHCS | No Ref/No Auth Required | PAR |
 | Gisselle Vrga Carraso | The Health Plan PPO - PHCS | No Ref/No Auth Required | Non-PAR |
 | Hunter Vittone, OD | The Health Plan PPO - PHCS | No Ref/No Auth Required | PAR |
 | James Lenhart, OD | The Health Plan PPO - PHCS | No Ref/No Auth Required | PAR |

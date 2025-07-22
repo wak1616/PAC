@@ -1,6 +1,6 @@
 # Insurance Guide By Provider
 
-*Last Updated: 07/21/2025 (based on data from Excel file: [US Eye Insurance Guide.xlsx](https://useyecorp.sharepoint.com/:x:/r/RCM/Shared%20Documents/Insurance%20Guides/US%20Eye%20Insurance%20Guide.xlsx?d=w2a2138d41fa04bfa919fc4966998346a&csf=1&web=1&e=73a3Gf&nav=MTVfezIwMjg5MTIyLTdDRkEtNEE0OS1CODBGLTdFNTc3Njc3OTJDNX0))*
+*Last Updated: 07/22/2025 (based on data from Excel file: [US Eye Insurance Guide.xlsx](https://useyecorp.sharepoint.com/:x:/r/RCM/Shared%20Documents/Insurance%20Guides/US%20Eye%20Insurance%20Guide.xlsx?d=w2a2138d41fa04bfa919fc4966998346a&csf=1&web=1&e=73a3Gf&nav=MTVfezIwMjg5MTIyLTdDRkEtNEE0OS1CODBGLTdFNTc3Njc3OTJDNX0))*
 
 *This guide lists insurance participation by doctor. Click a doctor's name to view all insurance info for that doctor, grouped by location/CSV.*
 
@@ -10,7 +10,6 @@
 * [Bradley Middaugh, OD (Center for Sight)](insurance_docs/Bradley_Middaugh_OD.md)
 * [Brian Marhue, OD (SW FL Eye)](insurance_docs/Brian_Marhue_OD.md)
 * [Brittany Coyle, OD (Center for Sight)](insurance_docs/Brittany_Coyle_OD.md)
-* [Callista Wlaschin, OD (Center for Sight)](insurance_docs/Callista_Wlaschin_OD.md)
 * [Charles Putrino, OD (Center for Sight)](insurance_docs/Charles_Putrino_OD.md)
 * [Christine Bui, OD (Lake Eye )](insurance_docs/Christine_Bui_OD.md)
 * [Daniel Hadland, OD (Center for Sight)](insurance_docs/Daniel_Hadland_OD.md)

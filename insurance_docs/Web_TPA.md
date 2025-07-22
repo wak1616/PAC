@@ -10,7 +10,6 @@
 |----------|-------------|--------------|--------|
 | Bradley Middaugh, OD | Web TPA | No Ref/No Auth Required | PAR |
 | Brittany Coyle, OD | Web TPA | No Ref/No Auth Required | Non-PAR |
-| Callista Wlaschin, OD | Web TPA | No Ref/No Auth Required | Non-PAR |
 | Charles Putrino, OD | Web TPA | No Ref/No Auth Required | PAR |
 | Daniel Hadland, OD | Web TPA | No Ref/No Auth Required | PAR |
 | David Mertzlufft, OD | Web TPA | No Ref/No Auth Required | PAR |

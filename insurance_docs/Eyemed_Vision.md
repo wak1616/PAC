@@ -10,7 +10,6 @@
 |----------|-------------|--------------|--------|
 | Bradley Middaugh, OD | Eyemed Vision | No Ref/No Auth Required | PAR |
 | Brittany Coyle, OD | Eyemed Vision | No Ref/No Auth Required | PAR |
-| Callista Wlaschin, OD | Eyemed Vision | No Ref/No Auth Required | PAR |
 | Charles Putrino, OD | Eyemed Vision | No Ref/No Auth Required | PAR |
 | Daniel Hadland, OD | Eyemed Vision | No Ref/No Auth Required | PAR |
 | David Mertzlufft, OD | Eyemed Vision | No Ref/No Auth Required | PAR |
@@ -18,7 +17,7 @@
 | Elizabeth Davis, MD | Eyemed Vision | No Ref/No Auth Required | Non-PAR |
 | Erin Hardie, OD | Eyemed Vision | No Ref/No Auth Required | PAR |
 | George Hurwitz, OD | Eyemed Vision | No Ref/No Auth Required | PAR |
-| Giselle Vega, OD | Eyemed Vision | No Ref/No Auth Required | Non-PAR |
+| Giselle Vega, OD | Eyemed Vision | No Ref/No Auth Required | PAR |
 | Gisselle Vrga Carraso | Eyemed Vision | No Ref/No Auth Required | Non-PAR |
 | Hunter Vittone, OD | Eyemed Vision | No Ref/No Auth Required | PAR |
 | James Lenhart, OD | Eyemed Vision | No Ref/No Auth Required | PAR |

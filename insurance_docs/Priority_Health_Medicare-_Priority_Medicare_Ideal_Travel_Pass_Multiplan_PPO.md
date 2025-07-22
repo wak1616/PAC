@@ -10,7 +10,6 @@
 |----------|-------------|--------------|--------|
 | Bradley Middaugh, OD | Priority Health Medicare PPO - Multiplan | No Ref/No Auth Required | PAR |
 | Brittany Coyle, OD | Priority Health Medicare PPO - Multiplan | No Ref/No Auth Required | PAR |
-| Callista Wlaschin, OD | Priority Health Medicare PPO - Multiplan | No Ref/No Auth Required | PAR |
 | Charles Putrino, OD | Priority Health Medicare PPO - Multiplan | No Ref/No Auth Required | PAR |
 | Daniel Hadland, OD | Priority Health Medicare PPO - Multiplan | No Ref/No Auth Required | PAR |
 | David Mertzlufft, OD | Priority Health Medicare PPO - Multiplan | No Ref/No Auth Required | PAR |
@@ -18,7 +17,7 @@
 | Elizabeth Davis, MD | Priority Health Medicare PPO - Multiplan | No Ref/No Auth Required | Non-PAR |
 | Erin Hardie, OD | Priority Health Medicare PPO - Multiplan | No Ref/No Auth Required | PAR |
 | George Hurwitz, OD | Priority Health Medicare PPO - Multiplan | No Ref/No Auth Required | PAR |
-| Giselle Vega, OD | Priority Health Medicare PPO - Multiplan | No Ref/No Auth Required | Non-PAR |
+| Giselle Vega, OD | Priority Health Medicare PPO - Multiplan | No Ref/No Auth Required | PAR |
 | Gisselle Vrga Carraso | Priority Health Medicare PPO - Multiplan | No Ref/No Auth Required | Non-PAR |
 | Hunter Vittone, OD | Priority Health Medicare PPO - Multiplan | No Ref/No Auth Required | PAR |
 | James Lenhart, OD | Priority Health Medicare PPO - Multiplan | No Ref/No Auth Required | PAR |

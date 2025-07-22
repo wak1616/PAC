@@ -10,7 +10,6 @@
 |----------|-------------|--------------|--------|
 | Bradley Middaugh, OD | Spectera Vision | No Ref/No Auth Required | PAR |
 | Brittany Coyle, OD | Spectera Vision | No Ref/No Auth Required | Non-PAR |
-| Callista Wlaschin, OD | Spectera Vision | No Ref/No Auth Required | Non-PAR |
 | Charles Putrino, OD | Spectera Vision | No Ref/No Auth Required | Non-PAR |
 | Daniel Hadland, OD | Spectera Vision | No Ref/No Auth Required | Non-PAR |
 | David Mertzlufft, OD | Spectera Vision | No Ref/No Auth Required | Non-PAR |

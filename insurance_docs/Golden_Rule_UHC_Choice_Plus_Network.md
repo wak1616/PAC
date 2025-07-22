@@ -10,7 +10,6 @@
 |----------|-------------|--------------|--------|
 | Bradley Middaugh, OD | UHC Golden Rule-37602 | No Ref/No Auth Required | PAR |
 | Brittany Coyle, OD | UHC Golden Rule-37602 | No Ref/No Auth Required | PAR |
-| Callista Wlaschin, OD | UHC Golden Rule-37602 | No Ref/No Auth Required | PAR |
 | Charles Putrino, OD | UHC Golden Rule-37602 | No Ref/No Auth Required | PAR |
 | Daniel Hadland, OD | UHC Golden Rule-37602 | No Ref/No Auth Required | PAR |
 | David Mertzlufft, OD | UHC Golden Rule-37602 | No Ref/No Auth Required | PAR |

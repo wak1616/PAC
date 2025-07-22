@@ -10,7 +10,6 @@
 |----------|-------------|--------------|--------|
 | Bradley Middaugh, OD | Mail Handlers Benefit Plan Comm - Aetna | No Ref/No Auth Required | PAR |
 | Brittany Coyle, OD | Mail Handlers Benefit Plan Comm - Aetna | No Ref/No Auth Required | PAR |
-| Callista Wlaschin, OD | Mail Handlers Benefit Plan Comm - Aetna | No Ref/No Auth Required | PAR |
 | Charles Putrino, OD | Mail Handlers Benefit Plan Comm - Aetna | No Ref/No Auth Required | PAR |
 | Daniel Hadland, OD | Mail Handlers Benefit Plan Comm - Aetna | No Ref/No Auth Required | PAR |
 | David Mertzlufft, OD | Mail Handlers Benefit Plan Comm - Aetna | No Ref/No Auth Required | PAR |
@@ -18,7 +17,7 @@
 | Elizabeth Davis, MD | Mail Handlers Benefit Plan Comm - Aetna | No Ref/No Auth Required | PAR |
 | Erin Hardie, OD | Mail Handlers Benefit Plan Comm - Aetna | No Ref/No Auth Required | PAR |
 | George Hurwitz, OD | Mail Handlers Benefit Plan Comm - Aetna | No Ref/No Auth Required | PAR |
-| Giselle Vega, OD | Mail Handlers Benefit Plan Comm - Aetna | No Ref/No Auth Required | Non-PAR |
+| Giselle Vega, OD | Mail Handlers Benefit Plan Comm - Aetna | No Ref/No Auth Required | PAR |
 | Gisselle Vrga Carraso | Mail Handlers Benefit Plan Comm - Aetna | No Ref/No Auth Required | Non-PAR |
 | Hunter Vittone, OD | Mail Handlers Benefit Plan Comm - Aetna | No Ref/No Auth Required | PAR |
 | James Lenhart, OD | Mail Handlers Benefit Plan Comm - Aetna | No Ref/No Auth Required | PAR |

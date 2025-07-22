@@ -10,7 +10,6 @@
 |----------|-------------|--------------|--------|
 | Bradley Middaugh, OD | Concorde Inc | Authorization Required- ROTC Fom is required for the Clinical Team | PAR |
 | Brittany Coyle, OD | Concorde Inc | Authorization Required- ROTC Fom is required for the Clinical Team | Non-PAR |
-| Callista Wlaschin, OD | Concorde Inc | Authorization Required- ROTC Fom is required for the Clinical Team | Non-PAR |
 | Charles Putrino, OD | Concorde Inc | Authorization Required- ROTC Fom is required for the Clinical Team | Non-PAR |
 | Daniel Hadland, OD | Concorde Inc | Authorization Required- ROTC Fom is required for the Clinical Team | Non-PAR |
 | David Mertzlufft, OD | Concorde Inc | Authorization Required- ROTC Fom is required for the Clinical Team | Non-PAR |

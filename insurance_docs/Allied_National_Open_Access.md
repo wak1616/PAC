@@ -10,7 +10,6 @@
 |----------|-------------|--------------|--------|
 | Bradley Middaugh, OD | Allied National Open Access | No Ref/No Auth Required | PAR |
 | Brittany Coyle, OD | Allied National Open Access | No Ref/No Auth Required | PAR |
-| Callista Wlaschin, OD | Allied National Open Access | No Ref/No Auth Required | PAR |
 | Charles Putrino, OD | Allied National Open Access | No Ref/No Auth Required | PAR |
 | Daniel Hadland, OD | Allied National Open Access | No Ref/No Auth Required | PAR |
 | David Mertzlufft, OD | Allied National Open Access | No Ref/No Auth Required | PAR |

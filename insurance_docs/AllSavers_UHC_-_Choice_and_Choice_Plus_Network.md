@@ -10,7 +10,6 @@
 |----------|-------------|--------------|--------|
 | Bradley Middaugh, OD | UHC All Savers-81400 | No Ref/No Auth Required | PAR |
 | Brittany Coyle, OD | UHC All Savers-81400 | No Ref/No Auth Required | PAR |
-| Callista Wlaschin, OD | UHC All Savers-81400 | No Ref/No Auth Required | PAR |
 | Charles Putrino, OD | UHC All Savers-81400 | No Ref/No Auth Required | PAR |
 | Daniel Hadland, OD | UHC All Savers-81400 | No Ref/No Auth Required | PAR |
 | David Mertzlufft, OD | UHC All Savers-81400 | No Ref/No Auth Required | PAR |

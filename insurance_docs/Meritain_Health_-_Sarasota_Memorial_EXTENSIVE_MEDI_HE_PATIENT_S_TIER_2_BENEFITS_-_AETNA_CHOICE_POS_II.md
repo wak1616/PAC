@@ -10,7 +10,6 @@
 |----------|-------------|--------------|--------|
 | Bradley Middaugh, OD | Meritain Health SMH Extd  Pln | Authorization MAY be Required | PAR |
 | Brittany Coyle, OD | Meritain Health SMH Extd  Pln | Authorization MAY be Required | PAR |
-| Callista Wlaschin, OD | Meritain Health SMH Extd  Pln | Authorization MAY be Required | PAR |
 | Charles Putrino, OD | Meritain Health SMH Extd  Pln | Authorization MAY be Required | PAR |
 | Daniel Hadland, OD | Meritain Health SMH Extd  Pln | Authorization MAY be Required | PAR |
 | David Mertzlufft, OD | Meritain Health SMH Extd  Pln | Authorization MAY be Required | PAR |
@@ -18,7 +17,7 @@
 | Elizabeth Davis, MD | Meritain Health SMH Extd  Pln | Authorization MAY be Required | Non-PAR |
 | Erin Hardie, OD | Meritain Health SMH Extd  Pln | Authorization MAY be Required | PAR |
 | George Hurwitz, OD | Meritain Health SMH Extd  Pln | Authorization MAY be Required | PAR |
-| Giselle Vega, OD | Meritain Health SMH Extd  Pln | Authorization MAY be Required | Non-PAR |
+| Giselle Vega, OD | Meritain Health SMH Extd  Pln | Authorization MAY be Required | PAR |
 | Gisselle Vrga Carraso | Meritain Health SMH Extd  Pln | Authorization MAY be Required | Non-PAR |
 | Hunter Vittone, OD | Meritain Health SMH Extd  Pln | Authorization MAY be Required | PAR |
 | James Lenhart, OD | Meritain Health SMH Extd  Pln | Authorization MAY be Required | PAR |

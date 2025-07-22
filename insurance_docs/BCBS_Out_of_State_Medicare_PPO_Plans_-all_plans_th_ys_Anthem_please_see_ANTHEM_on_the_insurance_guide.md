@@ -10,7 +10,6 @@
 |----------|-------------|--------------|--------|
 | Bradley Middaugh, OD | BCBS Out of State Medicare PPO | No Ref/No Auth Required | PAR |
 | Brittany Coyle, OD | BCBS Out of State Medicare PPO | No Ref/No Auth Required | PAR |
-| Callista Wlaschin, OD | BCBS Out of State Medicare PPO | No Ref/No Auth Required | PAR |
 | Charles Putrino, OD | BCBS Out of State Medicare PPO | No Ref/No Auth Required | PAR |
 | Daniel Hadland, OD | BCBS Out of State Medicare PPO | No Ref/No Auth Required | PAR |
 | David Mertzlufft, OD | BCBS Out of State Medicare PPO | No Ref/No Auth Required | PAR |

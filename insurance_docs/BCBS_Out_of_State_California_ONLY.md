@@ -10,7 +10,6 @@
 |----------|-------------|--------------|--------|
 | Bradley Middaugh, OD | BCBS OOS CA - REFERRAL AND AUTH REQ- | Authorization Required | PAR |
 | Brittany Coyle, OD | BCBS OOS CA - REFERRAL AND AUTH REQ- | Authorization Required | PAR |
-| Callista Wlaschin, OD | BCBS OOS CA - REFERRAL AND AUTH REQ- | Authorization Required | PAR |
 | Charles Putrino, OD | BCBS OOS CA - REFERRAL AND AUTH REQ- | Authorization Required | PAR |
 | Daniel Hadland, OD | BCBS OOS CA - REFERRAL AND AUTH REQ- | Authorization Required | PAR |
 | David Mertzlufft, OD | BCBS OOS CA - REFERRAL AND AUTH REQ- | Authorization Required | PAR |

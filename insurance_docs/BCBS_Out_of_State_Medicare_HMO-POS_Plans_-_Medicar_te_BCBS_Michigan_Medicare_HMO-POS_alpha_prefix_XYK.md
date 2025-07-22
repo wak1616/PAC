@@ -10,7 +10,6 @@
 |----------|-------------|--------------|--------|
 | Bradley Middaugh, OD | BCBS OOS MDCR HMO POS - REFERRAL REQ | Referral Required | PAR |
 | Brittany Coyle, OD | BCBS OOS MDCR HMO POS - REFERRAL REQ | Referral Required | PAR |
-| Callista Wlaschin, OD | BCBS OOS MDCR HMO POS - REFERRAL REQ | Referral Required | PAR |
 | Charles Putrino, OD | BCBS OOS MDCR HMO POS - REFERRAL REQ | Referral Required | PAR |
 | Daniel Hadland, OD | BCBS OOS MDCR HMO POS - REFERRAL REQ | Referral Required | PAR |
 | David Mertzlufft, OD | BCBS OOS MDCR HMO POS - REFERRAL REQ | Referral Required | PAR |

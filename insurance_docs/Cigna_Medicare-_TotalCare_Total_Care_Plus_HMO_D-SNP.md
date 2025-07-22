@@ -10,7 +10,6 @@
 |----------|-------------|--------------|--------|
 | Bradley Middaugh, OD | Primary: Cigna Dual MDCR HMO Primary-REFERRAL REQ                                                      Secondary: Cigna Dual Medicaid HMO Secondary | Referral Required | PAR |
 | Brittany Coyle, OD | Primary: Cigna Dual MDCR HMO Primary-REFERRAL REQ                                                      Secondary: Cigna Dual Medicaid HMO Secondary | Referral Required | PAR |
-| Callista Wlaschin, OD | Primary: Cigna Dual MDCR HMO Primary-REFERRAL REQ                                                      Secondary: Cigna Dual Medicaid HMO Secondary | Referral Required | Non-PAR |
 | Charles Putrino, OD | Primary: Cigna Dual MDCR HMO Primary-REFERRAL REQ                                                      Secondary: Cigna Dual Medicaid HMO Secondary | Referral Required | PAR |
 | Daniel Hadland, OD | Primary: Cigna Dual MDCR HMO Primary-REFERRAL REQ                                                      Secondary: Cigna Dual Medicaid HMO Secondary | Referral Required | PAR |
 | David Mertzlufft, OD | Primary: Cigna Dual MDCR HMO Primary-REFERRAL REQ                                                      Secondary: Cigna Dual Medicaid HMO Secondary | Referral Required | PAR |

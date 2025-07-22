@@ -10,7 +10,6 @@
 |----------|-------------|--------------|--------|
 | Bradley Middaugh, OD | BCBS FL Commercial HMO-POS |  | PAR |
 | Brittany Coyle, OD | BCBS FL Commercial HMO-POS |  | PAR |
-| Callista Wlaschin, OD | BCBS FL Commercial HMO-POS |  | PAR |
 | Charles Putrino, OD | BCBS FL Commercial HMO-POS |  | PAR |
 | Daniel Hadland, OD | BCBS FL Commercial HMO-POS |  | PAR |
 | David Mertzlufft, OD | BCBS FL Commercial HMO-POS |  | PAR |

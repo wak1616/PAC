@@ -10,7 +10,6 @@
 |----------|-------------|--------------|--------|
 | Bradley Middaugh, OD | Aetna Comm Fixed Benefits PPO | No Ref/No Auth Required | PAR |
 | Brittany Coyle, OD | Aetna Comm Fixed Benefits PPO | No Ref/No Auth Required | PAR |
-| Callista Wlaschin, OD | Aetna Comm Fixed Benefits PPO | No Ref/No Auth Required | PAR |
 | Charles Putrino, OD | Aetna Comm Fixed Benefits PPO | No Ref/No Auth Required | PAR |
 | Daniel Hadland, OD | Aetna Comm Fixed Benefits PPO | No Ref/No Auth Required | PAR |
 | David Mertzlufft, OD | Aetna Comm Fixed Benefits PPO | No Ref/No Auth Required | PAR |
@@ -18,7 +17,7 @@
 | Elizabeth Davis, MD | Aetna Comm Fixed Benefits PPO | No Ref/No Auth Required | PAR |
 | Erin Hardie, OD | Aetna Comm Fixed Benefits PPO | No Ref/No Auth Required | PAR |
 | George Hurwitz, OD | Aetna Comm Fixed Benefits PPO | No Ref/No Auth Required | PAR |
-| Giselle Vega, OD | Aetna Comm Fixed Benefits PPO | No Ref/No Auth Required | Non-PAR |
+| Giselle Vega, OD | Aetna Comm Fixed Benefits PPO | No Ref/No Auth Required | PAR |
 | Gisselle Vrga Carraso | Aetna Comm Fixed Benefits PPO | No Ref/No Auth Required | Non-PAR |
 | Hunter Vittone, OD | Aetna Comm Fixed Benefits PPO | No Ref/No Auth Required | PAR |
 | James Lenhart, OD | Aetna Comm Fixed Benefits PPO | No Ref/No Auth Required | PAR |

@@ -10,7 +10,6 @@
 |----------|-------------|--------------|--------|
 | Bradley Middaugh, OD | UHC AARP Advantage HMO-87726 | No Ref/No Auth Required | PAR |
 | Brittany Coyle, OD | UHC AARP Advantage HMO-87726 | No Ref/No Auth Required | PAR |
-| Callista Wlaschin, OD | UHC AARP Advantage HMO-87726 | No Ref/No Auth Required | PAR |
 | Charles Putrino, OD | UHC AARP Advantage HMO-87726 | No Ref/No Auth Required | PAR |
 | Daniel Hadland, OD | UHC AARP Advantage HMO-87726 | No Ref/No Auth Required | PAR |
 | David Mertzlufft, OD | UHC AARP Advantage HMO-87726 | No Ref/No Auth Required | PAR |

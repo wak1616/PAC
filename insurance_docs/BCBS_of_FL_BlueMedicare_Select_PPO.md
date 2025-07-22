@@ -10,7 +10,6 @@
 |----------|-------------|--------------|--------|
 | Bradley Middaugh, OD | BCBS FL Medicare PPO | No Ref/No Auth Required | PAR |
 | Brittany Coyle, OD | BCBS FL Medicare PPO | No Ref/No Auth Required | PAR |
-| Callista Wlaschin, OD | BCBS FL Medicare PPO | No Ref/No Auth Required | PAR |
 | Charles Putrino, OD | BCBS FL Medicare PPO | No Ref/No Auth Required | PAR |
 | Daniel Hadland, OD | BCBS FL Medicare PPO | No Ref/No Auth Required | PAR |
 | David Mertzlufft, OD | BCBS FL Medicare PPO | No Ref/No Auth Required | PAR |

@@ -10,7 +10,6 @@
 |----------|-------------|--------------|--------|
 | Bradley Middaugh, OD | Health Care Support - PHCS | No Ref/No Auth Required | PAR |
 | Brittany Coyle, OD | Health Care Support - PHCS | No Ref/No Auth Required | PAR |
-| Callista Wlaschin, OD | Health Care Support - PHCS | No Ref/No Auth Required | PAR |
 | Charles Putrino, OD | Health Care Support - PHCS | No Ref/No Auth Required | PAR |
 | Daniel Hadland, OD | Health Care Support - PHCS | No Ref/No Auth Required | PAR |
 | David Mertzlufft, OD | Health Care Support - PHCS | No Ref/No Auth Required | PAR |

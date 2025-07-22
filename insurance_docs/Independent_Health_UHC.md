@@ -10,7 +10,6 @@
 |----------|-------------|--------------|--------|
 | Bradley Middaugh, OD | Independent Health - UHC | No Ref/No Auth Required | PAR |
 | Brittany Coyle, OD | Independent Health - UHC | No Ref/No Auth Required | PAR |
-| Callista Wlaschin, OD | Independent Health - UHC | No Ref/No Auth Required | PAR |
 | Charles Putrino, OD | Independent Health - UHC | No Ref/No Auth Required | PAR |
 | Daniel Hadland, OD | Independent Health - UHC | No Ref/No Auth Required | PAR |
 | David Mertzlufft, OD | Independent Health - UHC | No Ref/No Auth Required | PAR |
@@ -18,7 +17,7 @@
 | Elizabeth Davis, MD | Independent Health - UHC | No Ref/No Auth Required | PAR |
 | Erin Hardie, OD | Independent Health - UHC | No Ref/No Auth Required | PAR |
 | George Hurwitz, OD | Independent Health - UHC | No Ref/No Auth Required | PAR |
-| Giselle Vega, OD | Independent Health - UHC | No Ref/No Auth Required | Non-PAR |
+| Giselle Vega, OD | Independent Health - UHC | No Ref/No Auth Required | PAR |
 | Gisselle Vrga Carraso | Independent Health - UHC | No Ref/No Auth Required | Non-PAR |
 | Hunter Vittone, OD | Independent Health - UHC | No Ref/No Auth Required | PAR |
 | James Lenhart, OD | Independent Health - UHC | No Ref/No Auth Required | PAR |

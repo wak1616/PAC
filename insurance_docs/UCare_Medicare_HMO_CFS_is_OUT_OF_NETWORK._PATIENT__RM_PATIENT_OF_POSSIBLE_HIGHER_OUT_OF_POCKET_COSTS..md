@@ -10,7 +10,6 @@
 |----------|-------------|--------------|--------|
 | Bradley Middaugh, OD | UCare Medicare HMO | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Brittany Coyle, OD | UCare Medicare HMO | No Ref/No Auth Required | Non-PAR -OON Benefits |
-| Callista Wlaschin, OD | UCare Medicare HMO | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Charles Putrino, OD | UCare Medicare HMO | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Daniel Hadland, OD | UCare Medicare HMO | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | David Mertzlufft, OD | UCare Medicare HMO | No Ref/No Auth Required | Non-PAR -OON Benefits |

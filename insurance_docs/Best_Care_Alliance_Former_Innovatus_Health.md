@@ -10,7 +10,6 @@
 |----------|-------------|--------------|--------|
 | Bradley Middaugh, OD | PENDING | No Ref/No Auth Required | PAR |
 | Brittany Coyle, OD | PENDING | No Ref/No Auth Required | PAR |
-| Callista Wlaschin, OD | PENDING | No Ref/No Auth Required | Non-PAR |
 | Charles Putrino, OD | PENDING | No Ref/No Auth Required | Non-PAR |
 | Daniel Hadland, OD | PENDING | No Ref/No Auth Required | Non-PAR |
 | David Mertzlufft, OD | PENDING | No Ref/No Auth Required | Non-PAR |

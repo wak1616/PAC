@@ -10,7 +10,6 @@
 |----------|-------------|--------------|--------|
 | Bradley Middaugh, OD | Tricare Prime HMO-REFERRAL REQ | Referral Required | Non-PAR -OON Benefits |
 | Brittany Coyle, OD | Tricare Prime HMO-REFERRAL REQ | Referral Required | Non-PAR -OON Benefits |
-| Callista Wlaschin, OD | Tricare Prime HMO-REFERRAL REQ | Referral Required | Non-PAR -OON Benefits |
 | Charles Putrino, OD | Tricare Prime HMO-REFERRAL REQ | Referral Required | Non-PAR -OON Benefits |
 | Daniel Hadland, OD | Tricare Prime HMO-REFERRAL REQ | Referral Required | Non-PAR -OON Benefits |
 | David Mertzlufft, OD | Tricare Prime HMO-REFERRAL REQ | Referral Required | Non-PAR -OON Benefits |

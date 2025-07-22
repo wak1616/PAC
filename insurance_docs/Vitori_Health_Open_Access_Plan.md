@@ -10,7 +10,6 @@
 |----------|-------------|--------------|--------|
 | Bradley Middaugh, OD | Vitori Health Open Access Plan | No Ref/No Auth Required | PAR |
 | Brittany Coyle, OD | Vitori Health Open Access Plan | No Ref/No Auth Required | PAR |
-| Callista Wlaschin, OD | Vitori Health Open Access Plan | No Ref/No Auth Required | PAR |
 | Charles Putrino, OD | Vitori Health Open Access Plan | No Ref/No Auth Required | PAR |
 | Daniel Hadland, OD | Vitori Health Open Access Plan | No Ref/No Auth Required | PAR |
 | David Mertzlufft, OD | Vitori Health Open Access Plan | No Ref/No Auth Required | PAR |

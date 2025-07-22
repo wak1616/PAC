@@ -10,7 +10,6 @@
 |----------|-------------|--------------|--------|
 | Bradley Middaugh, OD | CHCBP Claims | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Brittany Coyle, OD | CHCBP Claims | No Ref/No Auth Required | Non-PAR -OON Benefits |
-| Callista Wlaschin, OD | CHCBP Claims | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Charles Putrino, OD | CHCBP Claims | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Daniel Hadland, OD | CHCBP Claims | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | David Mertzlufft, OD | CHCBP Claims | No Ref/No Auth Required | Non-PAR -OON Benefits |

@@ -10,7 +10,6 @@
 |----------|-------------|--------------|--------|
 | Bradley Middaugh, OD | UHC GEHA-39026 | No Ref/No Auth Required | PAR |
 | Brittany Coyle, OD | UHC GEHA-39026 | No Ref/No Auth Required | PAR |
-| Callista Wlaschin, OD | UHC GEHA-39026 | No Ref/No Auth Required | PAR |
 | Charles Putrino, OD | UHC GEHA-39026 | No Ref/No Auth Required | PAR |
 | Daniel Hadland, OD | UHC GEHA-39026 | No Ref/No Auth Required | PAR |
 | David Mertzlufft, OD | UHC GEHA-39026 | No Ref/No Auth Required | PAR |

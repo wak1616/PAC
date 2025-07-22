@@ -10,7 +10,6 @@
 |----------|-------------|--------------|--------|
 | Bradley Middaugh, OD | Vision Service Plan | Authorization Required | PAR |
 | Brittany Coyle, OD | Vision Service Plan | Authorization Required | PAR |
-| Callista Wlaschin, OD | Vision Service Plan | Authorization Required | PAR |
 | Charles Putrino, OD | Vision Service Plan | Authorization Required | PAR |
 | Daniel Hadland, OD | Vision Service Plan | Authorization Required | PAR |
 | David Mertzlufft, OD | Vision Service Plan | Authorization Required | PAR |

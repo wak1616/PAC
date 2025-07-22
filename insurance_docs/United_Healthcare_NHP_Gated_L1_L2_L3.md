@@ -10,7 +10,6 @@
 |----------|-------------|--------------|--------|
 | Bradley Middaugh, OD | UHC Comm HMO REFERRAL REQ | Referral Required | PAR |
 | Brittany Coyle, OD | UHC Comm HMO REFERRAL REQ | Referral Required | PAR |
-| Callista Wlaschin, OD | UHC Comm HMO REFERRAL REQ | Referral Required | PAR |
 | Charles Putrino, OD | UHC Comm HMO REFERRAL REQ | Referral Required | PAR |
 | Daniel Hadland, OD | UHC Comm HMO REFERRAL REQ | Referral Required | PAR |
 | David Mertzlufft, OD | UHC Comm HMO REFERRAL REQ | Referral Required | PAR |
@@ -18,7 +17,7 @@
 | Elizabeth Davis, MD | UHC Comm HMO REFERRAL REQ | Referral Required | PAR |
 | Erin Hardie, OD | UHC Comm HMO REFERRAL REQ | Referral Required | PAR |
 | George Hurwitz, OD | UHC Comm HMO REFERRAL REQ | Referral Required | PAR |
-| Giselle Vega, OD | UHC Comm HMO REFERRAL REQ | Referral Required | Non-PAR |
+| Giselle Vega, OD | UHC Comm HMO REFERRAL REQ | Referral Required | PAR |
 | Gisselle Vrga Carraso | UHC Comm HMO REFERRAL REQ | Referral Required | Non-PAR |
 | Hunter Vittone, OD | UHC Comm HMO REFERRAL REQ | Referral Required | PAR |
 | James Lenhart, OD | UHC Comm HMO REFERRAL REQ | Referral Required | PAR |

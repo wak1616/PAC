@@ -10,7 +10,6 @@
 |----------|-------------|--------------|--------|
 | Bradley Middaugh, OD | UHC Oxford PPO-06111 | No Ref/No Auth Required | PAR |
 | Brittany Coyle, OD | UHC Oxford PPO-06111 | No Ref/No Auth Required | PAR |
-| Callista Wlaschin, OD | UHC Oxford PPO-06111 | No Ref/No Auth Required | PAR |
 | Charles Putrino, OD | UHC Oxford PPO-06111 | No Ref/No Auth Required | PAR |
 | Daniel Hadland, OD | UHC Oxford PPO-06111 | No Ref/No Auth Required | PAR |
 | David Mertzlufft, OD | UHC Oxford PPO-06111 | No Ref/No Auth Required | PAR |
@@ -18,7 +17,7 @@
 | Elizabeth Davis, MD | UHC Oxford PPO-06111 | No Ref/No Auth Required | PAR |
 | Erin Hardie, OD | UHC Oxford PPO-06111 | No Ref/No Auth Required | PAR |
 | George Hurwitz, OD | UHC Oxford PPO-06111 | No Ref/No Auth Required | PAR |
-| Giselle Vega, OD | UHC Oxford PPO-06111 | No Ref/No Auth Required | Non-PAR |
+| Giselle Vega, OD | UHC Oxford PPO-06111 | No Ref/No Auth Required | PAR |
 | Gisselle Vrga Carraso | UHC Oxford PPO-06111 | No Ref/No Auth Required | Non-PAR |
 | Hunter Vittone, OD | UHC Oxford PPO-06111 | No Ref/No Auth Required | PAR |
 | James Lenhart, OD | UHC Oxford PPO-06111 | No Ref/No Auth Required | PAR |

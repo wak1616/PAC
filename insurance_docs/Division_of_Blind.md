@@ -10,7 +10,6 @@
 |----------|-------------|--------------|--------|
 | Bradley Middaugh, OD | Division of Blind | Authorization Required | PAR |
 | Brittany Coyle, OD | Division of Blind | Authorization Required | PAR |
-| Callista Wlaschin, OD | Division of Blind | Authorization Required | PAR |
 | Charles Putrino, OD | Division of Blind | Authorization Required | PAR |
 | Daniel Hadland, OD | Division of Blind | Authorization Required | PAR |
 | David Mertzlufft, OD | Division of Blind | Authorization Required | PAR |

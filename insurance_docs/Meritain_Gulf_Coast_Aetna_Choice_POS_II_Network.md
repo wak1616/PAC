@@ -10,7 +10,6 @@
 |----------|-------------|--------------|--------|
 | Bradley Middaugh, OD | Meritain Health Commercial - Aetna | No Ref/No Auth Required | PAR |
 | Brittany Coyle, OD | Meritain Health Commercial - Aetna | No Ref/No Auth Required | PAR |
-| Callista Wlaschin, OD | Meritain Health Commercial - Aetna | No Ref/No Auth Required | PAR |
 | Charles Putrino, OD | Meritain Health Commercial - Aetna | No Ref/No Auth Required | PAR |
 | Daniel Hadland, OD | Meritain Health Commercial - Aetna | No Ref/No Auth Required | PAR |
 | David Mertzlufft, OD | Meritain Health Commercial - Aetna | No Ref/No Auth Required | PAR |
@@ -18,7 +17,7 @@
 | Elizabeth Davis, MD | Meritain Health Commercial - Aetna | No Ref/No Auth Required | PAR |
 | Erin Hardie, OD | Meritain Health Commercial - Aetna | No Ref/No Auth Required | PAR |
 | George Hurwitz, OD | Meritain Health Commercial - Aetna | No Ref/No Auth Required | PAR |
-| Giselle Vega, OD | Meritain Health Commercial - Aetna | No Ref/No Auth Required | Non-PAR |
+| Giselle Vega, OD | Meritain Health Commercial - Aetna | No Ref/No Auth Required | PAR |
 | Gisselle Vrga Carraso | Meritain Health Commercial - Aetna | No Ref/No Auth Required | Non-PAR |
 | Hunter Vittone, OD | Meritain Health Commercial - Aetna | No Ref/No Auth Required | PAR |
 | James Lenhart, OD | Meritain Health Commercial - Aetna | No Ref/No Auth Required | PAR |

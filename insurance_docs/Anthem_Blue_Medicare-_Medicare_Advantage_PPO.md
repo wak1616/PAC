@@ -10,7 +10,6 @@
 |----------|-------------|--------------|--------|
 | Bradley Middaugh, OD | Anthem BCBS Medicare PPO | No Ref/No Auth Required | PAR |
 | Brittany Coyle, OD | Anthem BCBS Medicare PPO | No Ref/No Auth Required | PAR |
-| Callista Wlaschin, OD | Anthem BCBS Medicare PPO | No Ref/No Auth Required | PAR |
 | Charles Putrino, OD | Anthem BCBS Medicare PPO | No Ref/No Auth Required | PAR |
 | Daniel Hadland, OD | Anthem BCBS Medicare PPO | No Ref/No Auth Required | PAR |
 | David Mertzlufft, OD | Anthem BCBS Medicare PPO | No Ref/No Auth Required | PAR |

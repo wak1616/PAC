@@ -10,7 +10,6 @@
 |----------|-------------|--------------|--------|
 | Bradley Middaugh, OD | Cigna Medicare HMO REFERRAL REQUIRED | Referral Required | PAR |
 | Brittany Coyle, OD | Cigna Medicare HMO REFERRAL REQUIRED | Referral Required | PAR |
-| Callista Wlaschin, OD | Cigna Medicare HMO REFERRAL REQUIRED | Referral Required | PAR |
 | Charles Putrino, OD | Cigna Medicare HMO REFERRAL REQUIRED | Referral Required | PAR |
 | Daniel Hadland, OD | Cigna Medicare HMO REFERRAL REQUIRED | Referral Required | PAR |
 | David Mertzlufft, OD | Cigna Medicare HMO REFERRAL REQUIRED | Referral Required | PAR |

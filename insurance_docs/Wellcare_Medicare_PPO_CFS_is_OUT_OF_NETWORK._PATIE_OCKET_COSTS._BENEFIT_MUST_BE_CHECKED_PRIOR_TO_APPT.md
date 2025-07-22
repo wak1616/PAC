@@ -10,7 +10,6 @@
 |----------|-------------|--------------|--------|
 | Bradley Middaugh, OD | WellCare Medicare PPO | Authorization MAY BE Required | Non-PAR -OON Benefits |
 | Brittany Coyle, OD | WellCare Medicare PPO | Authorization MAY BE Required | Non-PAR -OON Benefits |
-| Callista Wlaschin, OD | WellCare Medicare PPO | Authorization MAY BE Required | Non-PAR -OON Benefits |
 | Charles Putrino, OD | WellCare Medicare PPO | Authorization MAY BE Required | Non-PAR -OON Benefits |
 | Daniel Hadland, OD | WellCare Medicare PPO | Authorization MAY BE Required | Non-PAR -OON Benefits |
 | David Mertzlufft, OD | WellCare Medicare PPO | Authorization MAY BE Required | Non-PAR -OON Benefits |

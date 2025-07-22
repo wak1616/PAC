@@ -10,7 +10,6 @@
 |----------|-------------|--------------|--------|
 | Bradley Middaugh, OD | Champva | No Ref/No Auth Required | PAR |
 | Brittany Coyle, OD | Champva | No Ref/No Auth Required | PAR |
-| Callista Wlaschin, OD | Champva | No Ref/No Auth Required | PAR |
 | Charles Putrino, OD | Champva | No Ref/No Auth Required | PAR |
 | Daniel Hadland, OD | Champva | No Ref/No Auth Required | PAR |
 | David Mertzlufft, OD | Champva | No Ref/No Auth Required | PAR |

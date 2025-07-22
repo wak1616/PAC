@@ -10,7 +10,6 @@
 |----------|-------------|--------------|--------|
 | Bradley Middaugh, OD | All Savers Comm REFERRAL REQ - UHC | Referral Required | PAR |
 | Brittany Coyle, OD | All Savers Comm REFERRAL REQ - UHC | Referral Required | PAR |
-| Callista Wlaschin, OD | All Savers Comm REFERRAL REQ - UHC | Referral Required | PAR |
 | Charles Putrino, OD | All Savers Comm REFERRAL REQ - UHC | Referral Required | PAR |
 | Daniel Hadland, OD | All Savers Comm REFERRAL REQ - UHC | Referral Required | PAR |
 | David Mertzlufft, OD | All Savers Comm REFERRAL REQ - UHC | Referral Required | PAR |

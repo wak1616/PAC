@@ -10,7 +10,6 @@
 |----------|-------------|--------------|--------|
 | Bradley Middaugh, OD | Cigna Commercial HMO | No Ref/No Auth Required | Non-PAR |
 | Brittany Coyle, OD | Cigna Commercial HMO | No Ref/No Auth Required | Non-PAR |
-| Callista Wlaschin, OD | Cigna Commercial HMO | No Ref/No Auth Required | Non-PAR |
 | Charles Putrino, OD | Cigna Commercial HMO | No Ref/No Auth Required | PAR |
 | Daniel Hadland, OD | Cigna Commercial HMO | No Ref/No Auth Required | Non-PAR |
 | David Mertzlufft, OD | Cigna Commercial HMO | No Ref/No Auth Required | Non-PAR |

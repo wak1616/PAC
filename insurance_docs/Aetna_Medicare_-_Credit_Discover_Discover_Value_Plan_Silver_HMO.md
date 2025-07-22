@@ -10,7 +10,6 @@
 |----------|-------------|--------------|--------|
 | Bradley Middaugh, OD | Aetna Medicare HMO REFERRAL REQ | Referral Required | PAR |
 | Brittany Coyle, OD | Aetna Medicare HMO REFERRAL REQ | Referral Required | PAR |
-| Callista Wlaschin, OD | Aetna Medicare HMO REFERRAL REQ | Referral Required | PAR |
 | Charles Putrino, OD | Aetna Medicare HMO REFERRAL REQ | Referral Required | PAR |
 | Daniel Hadland, OD | Aetna Medicare HMO REFERRAL REQ | Referral Required | PAR |
 | David Mertzlufft, OD | Aetna Medicare HMO REFERRAL REQ | Referral Required | PAR |
@@ -18,7 +17,7 @@
 | Elizabeth Davis, MD | Aetna Medicare HMO REFERRAL REQ | Referral Required | PAR |
 | Erin Hardie, OD | Aetna Medicare HMO REFERRAL REQ | Referral Required | PAR |
 | George Hurwitz, OD | Aetna Medicare HMO REFERRAL REQ | Referral Required | PAR |
-| Giselle Vega, OD | Aetna Medicare HMO REFERRAL REQ | Referral Required | Non-PAR |
+| Giselle Vega, OD | Aetna Medicare HMO REFERRAL REQ | Referral Required | PAR |
 | Gisselle Vrga Carraso | Aetna Medicare HMO REFERRAL REQ | Referral Required | Non-PAR |
 | Hunter Vittone, OD | Aetna Medicare HMO REFERRAL REQ | Referral Required | PAR |
 | James Lenhart, OD | Aetna Medicare HMO REFERRAL REQ | Referral Required | PAR |

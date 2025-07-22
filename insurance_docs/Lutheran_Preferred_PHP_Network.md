@@ -10,7 +10,6 @@
 |----------|-------------|--------------|--------|
 | Bradley Middaugh, OD | Lutheran Preferred - PHP | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Brittany Coyle, OD | Lutheran Preferred - PHP | No Ref/No Auth Required | Non-PAR -OON Benefits |
-| Callista Wlaschin, OD | Lutheran Preferred - PHP | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Charles Putrino, OD | Lutheran Preferred - PHP | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Daniel Hadland, OD | Lutheran Preferred - PHP | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | David Mertzlufft, OD | Lutheran Preferred - PHP | No Ref/No Auth Required | Non-PAR -OON Benefits |
