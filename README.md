@@ -1005,7 +1005,7 @@ The **retina** is a delicate, light-sensitive tissue lining the interior of the 
 #### Pre-Op / Post-Op Care
 
 * **Pre-Op, Surgery, and 1-Day Post Op** visits are handled by surgical counselors.
-* Create a **Patient Task** in **ICP** and notify the **Surgical Counselor group** (CFS, RHC) for the practice if needed.
+* Create a **Patient Task** in **ICP** and notify the **RHC Surgical Counselor group** for RHC and an ICP task to **Dr. Banker's team** for CFS.
 
 #### FAQs
 
