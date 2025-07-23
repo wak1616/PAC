@@ -539,6 +539,10 @@ Dr. Scott Holman, MD at Lake Eye Associates (LEA) does NOT see new patients for 
 * Routine exams usually require dilation, which causes blurry vision and light sensitivity for several hours; patients should arrange transportation.
 * If the provider's schedule is more than 10 days out, offer to place the patient on the waitlist.
 
+### Which MDs accept vision plans?
+
+The MDs at Center for Sight do not accept vision plans as they do not perform routine eye care. The MDs will accept medical insurance only as they are treating medical conditions of the eye. Be sure to verify that the patient's medical insurance is accepted prior to scheduling. The doctors that do accept vision plans are ODs (optometric doctors). The plans accepted will vary by doctor so be sure to check specifics.
+
 ***
 
 &#x20;
