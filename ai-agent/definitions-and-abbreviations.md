@@ -6,6 +6,7 @@ Here is a list of **US Eye-specific abbreviations and terms** that may not be ob
 
 #### 🏥 **Practice- and Workflow-Specific Abbreviations**
 
+* **PT = Patient**
 * **PAC** – Patient Access Center (the centralized scheduling and patient services team)
 * **CFS** – Center for Sight (main US Eye organization/practice name)
 * **LE** – Licensed Esthetician (used in provider titles)

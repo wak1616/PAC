@@ -467,6 +467,78 @@ For a patient requesting their medical records to be sent to another doctor out 
 
 (Source: Patient Access Center Master Guide → Medical Records)
 
+
+
+### Can I provide Surgery Times to a Patient?
+
+As a PAC agent, never provide surgery times
+
+Surgery Time & Pre-Op:
+
+For Southwest Florida Eye (SFEC), create ICP task for the practice surgical counselors.
+
+For Center For Sight - Sarasota / Laser & Surgical Services: email [srq-ascinquiries@useye.com](mailto:srq-ascinquiries@useye.com).
+
+For Center for Sight - Naples / Montogmery Eye Center: email [naples-ascinquiries@useye.com](mailto:naples-ascinquiries@useye.com).
+
+For Santa Fe Surgery Center (Lake Eye Associates): email [santafeasc@useye.com](mailto:santafeasc@useye.com).
+
+Include patient name, DOB, surgery center, and surgeon.
+
+### &#x20;What is the useye email for specific questions related to surgery at CFS?
+
+Specific Questions related to Surgery:
+
+For ASC Logistics (arrival times, eating/drinking restrictions, retained IV in arm after surgery, etc):
+
+* Sarasota ASC: [SRQ-ASCinquiries@useye.com](mailto:SRQ-ASCinquiries@useye.com)
+* Naples ASC (including non-US Eye providers that only operate in our ASC): [Naples-ASCinquiries@useye.com](mailto:Naples-ASCinquiries@useye.com)
+* Santa Fe / LEA (including non-US Eye providers that only operate in our ASC): [santafeasc@useye.com](mailto:santafeasc@useye.com)
+
+For Provider-Specific Surgical Questions: Message the relevant Practice (Provider) Team in ICP (and mark as Urgent)
+
+### &#x20;Are there any cornea specialist at SWFL
+
+No, there are no cornea specialists at SWFL location.
+
+### How long am i supposed to have my contacts out for a comprehensive exam?
+
+For a comprehensive eye exam, it is generally recommended that patients keep their contact lenses in for the appointment.
+
+### Can a 66 year old get scheduled for a refractive consult with medicare?
+
+Medicare generally does not cover routine refractive surgery consultations or procedures, as these are considered elective and not medically necessary. However, Medicare may cover refractive consultations if they are related to medically necessary conditions, such as cataract surgery evaluation.
+
+For a 66-year-old patient with Medicare, would be better suited for a cataract consultation.
+
+### If Rural Health Clinic (RHC) patient is having an Emergency do i need permission or can i just get them in?
+
+For a Rural Health Clinic (RHC) patient needing emergency care (ER), you does indeed need prior permission to get them in for urgent evaluation. Emergency situations warrant immediate attention, so you should attempt to reach the office as soon as possible for an urgent or same-day appointment.
+
+Ensure you document the urgency and reason for the ER visit in the patient’s record. After the emergency evaluation, follow any additional referral or authorization protocols as required.
+
+### Can I schedule a 3 year old at LEA?
+
+No. There are no doctors at LEA that see children under the age of 5. Once a child is 5 years of age, they can be scheduled with Dr. Christine Bui, Dr. Mari Holderby or Dr. Alexandria Rawls.
+
+### Will Patients Eyes be dilated for an Laser Peripheral Iridotomy (LPI)?
+
+No, patients' eyes will not be dilated for a Laser Peripheral Iridotomy (LPI).&#x20;
+
+### What Doctor can my 6 month old child see?
+
+We do not have an eye Doctor that can see patients as young as 6 months old.
+
+### Does Dr. Holman see new patients for a routine exam?
+
+Dr. Scott Holman, MD at Lake Eye Associates (LEA) does NOT see new patients for routine exams. Dr. Holman will see new patients by referral only for a Cataract Consultation. Please note:
+
+* For new patients, schedule using the appropriate "New Patient" appointment type with a Primary Eye Care Provider.
+* Vision plans can only be used for routine vision exams.
+* If the patient has not been seen in over three years, they should be scheduled as a new patient.
+* Routine exams usually require dilation, which causes blurry vision and light sensitivity for several hours; patients should arrange transportation.
+* If the provider's schedule is more than 10 days out, offer to place the patient on the waitlist.
+
 ***
 
 &#x20;
