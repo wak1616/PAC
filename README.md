@@ -1,6 +1,6 @@
 # Patient Access Center Master Guide
 
-**Last Updated:** July 22, 2025
+**Last Updated:** July 24, 2025
 
 Note: For detailed navigation, please use the GitBook sidebar menu on the **right** 👉
 
@@ -98,9 +98,9 @@ This protocol details the steps taken to properly triage and schedule a patient 
 
 **If the patient is having an emergency or urgent issue** (see below) **and has had surgery with one of our doctors in the past 30 days:**
 
-* Have a low threshold for scheduling a **same-day** appointment.
+* Attempt to schedule a **same-day** appointment.
 * If no same-day slot is available, triage via **ICP** message to the **Patient Care Team**, mark it **URGENT**.
-* OK to schedule in the grey if needed (buti f after 3:30PM do not schedule and only send triage task to Patient Care Team).
+* OK to schedule in the grey if needed (but if after 3:30PM do not schedule and only send triage task to Patient Care Team).
 * If the patient is **comanaged**, they should see their comanaging physician. If the comanaging doctor is not available and patient needs to be scheduled to another provider, or if the patient requests a different provider, note it in the appointment details.
 
 ***
@@ -421,9 +421,10 @@ These exams are usually performed annually and help maintain overall eye health.
 
 1. **Refraction rechecks** should always be scheduled with the **same provider** who performed the comprehensive exam. Patients should consult an optician first to check their glasses before scheduling a refraction recheck.
 2. If a patient **hasn't been seen in 3+ months**, a **comprehensive exam** is scheduled, **not** just a refraction.
-3. **CFS/SFEC/LEA**: Do not schedule more than **two family members** in one day **per provider**.
-4. If you offer an appointment more than **10 days out**, you **must** offer to place the patient on the **waitlist** (in addition to scheduling them).
-5. ROTC exams are only done by Dr. Middaugh at the CFS Brantley Rd location. There is a limit of 2 per day (one in the AM and one on the PM). Scheduled as short visits with "ROTC Exam" in the appointment details.
+3. **Any OD** can see a patient for punctal plugs. Schedule in a light blue spot for a follow up and add in the appointment details: **"Punctal Plugs"** 
+4. **CFS/SFEC/LEA**: Do not schedule more than **two family members** in one day **per provider**.
+5. If you offer an appointment more than **10 days out**, you **must** offer to place the patient on the **waitlist** (in addition to scheduling them).
+6. ROTC exams are only done by Dr. Middaugh at the CFS Brantley Rd location. There is a limit of 2 per day (one in the AM and one on the PM). Scheduled as short visits with "ROTC Exam" in the appointment details.
 
 #### Process
 
@@ -436,6 +437,7 @@ These exams are usually performed annually and help maintain overall eye health.
 3. **Contact Lens (CL) Fittings**
    * **Established** patient with a CL fitting:
      * If not seen in **over one year**, schedule a **Comprehensive Exam** and note "CL" in details. The provider decides if the fitting can occur then or needs a separate visit.
+   * All contact lens fittings must be scheduled in a **light blue spot either at the end of the morning or end of day.**
    * Confirm **type of lenses** in the appointment details, and ensure you schedule with a provider who fits that lens.
    * Patients must **wear** their contact lenses to the appointment and **bring** their lens prescription/info.
    * **New patients** cannot be scheduled directly for a Contact Lens Fitting. Schedule a **Comp Medical or Routine Vision** as a new patient exam instead. The provider will decide if the fitting can occur or if a separate appointment is required.
@@ -482,7 +484,7 @@ Appointments will typically be scheduled with the patient's existing provider un
    * If the patient needs **multiple appointments** the same day (e.g., Visual Field + Comprehensive Exam), schedule from the **Appointment Book**:
      * Visual Field in the testing resource, then the Comprehensive Exam in the provider's resource 15-45 minutes later.
    * Complete the **Appointment Search** process and book the slot.
-   * If the provider noted in ICP that the patient is due for a **Comp–Est Adult** or **Comp–Est Child**, check the patient's insurance. If it's medical, schedule as **Comp–Medical** (or **Comp–Medicaid**), or if it's vision, schedule as **Routine Employee** or **Routine Vision Exam**.
+   * If the provider noted in ICP that the patient is due for a **Comp–Est Adult** or **Comp–Est Child**, check the patient's insurance. If it's medical, schedule as **Comp–Medical**, or if it's vision, schedule as **Routine Employee** or **Routine Vision Exam**.
 4. **Referrals / Insurance Requirements**
    * If the patient's insurance or HMO requires a referral/prior authorization, add **"Do Not Move" (DNM)** in the appointment details. This ensures the slot is not moved to an earlier date without the referral in place.
 5. **Potential Dilation**
@@ -1318,12 +1320,12 @@ _**Important Reminder:** The patient’s insurance company is the only entity th
 
 | **Request**                                                                                            | **Where to Direct**                                                                                                                                                                                                |
 | ------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Surgery Costs / Estimates**                                                                          | <p>1. Submit request to: <a href="https://app.smartsheet.com/b/form/69536231a6ef45769be310dd757e8386">RCM Support Inquiries</a><br>2. Choose <strong>Financial Counseling – Estimate Review/Questions</strong></p> |
+| **Surgery Costs / Estimates**                                                                          | <p>1. Submit request to: RCM Support Inquiries<br>2. Choose <strong>Financial Counseling – Estimate Review/Questions</strong></p> |
 | **Payments for Upcoming Surgery** (not from a statement)                                               | WARM transfer the call to extension **103863**                                                                                                                                                                     |
 | **Center For Sight (CFS) ONLY**: Cataract surgery with CV/ADV/LAL lens payments for upcoming surgeries | <p>1. Send an <strong>ICP Communication</strong><br>2. Message and notify <strong>"CFS Surgical Counselors"</strong></p>                                                                                           |
 | **Cosmetic Oculoplastics Surgeries**                                                                   | <p>1. Send <strong>ICP Communication</strong><br>2. Notify either <strong>CFS Dr. Fezza Team</strong> (for Dr. Fezza) or <strong>CFS Surgical Counselors</strong> (for Dr. Berlie)</p>                             |
-| **Insurance Verification** (Referrals or Authorization for upcoming appt)                              | <p>1. Submit request to: <a href="https://app.smartsheet.com/b/form/69536231a6ef45769be310dd757e8386">RCM Support Inquiries</a><br>2. Choose <strong>Insurance Verification – Benefits Verification</strong></p>   |
-| **Retina Provider Questions** (Insurance Verification, Authorization, or Financial Counseling)         | Submit request to: [RCM Support Inquiries](https://app.smartsheet.com/b/form/69536231a6ef45769be310dd757e8386)                                                                                                     |
+| **Insurance Verification** (Referrals or Authorization for upcoming appt)                              | <p>1. Submit request to: RCM Support Inquiries<br>2. Choose <strong>Insurance Verification – Benefits Verification</strong></p>   |
+| **Retina Provider Questions** (Insurance Verification, Authorization, or Financial Counseling)         | Submit request to: RCM Support Inquiries                                                                                                     |
 | **Billing / Customer Service** (past due balance, statements, itemized statements)                     | Transfer to **BILLING Quick Connect**                                                                                                                                                                              |
 | **Audit Calls from Insurances**                                                                        | Email info to **Heather Hickman** (Accounts Receivable Manager)                                                                                                                                                    |
 

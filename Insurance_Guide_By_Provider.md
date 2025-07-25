@@ -9,7 +9,6 @@
 * [Alexandria Rawls, OD (Lake Eye )](insurance_docs/Alexandria_Rawls_OD.md)
 * [Bradley Middaugh, OD (Center for Sight)](insurance_docs/Bradley_Middaugh_OD.md)
 * [Brian Marhue, OD (SW FL Eye)](insurance_docs/Brian_Marhue_OD.md)
-* [Brittany Coyle, OD (Center for Sight)](insurance_docs/Brittany_Coyle_OD.md)
 * [Charles Putrino, OD (Center for Sight)](insurance_docs/Charles_Putrino_OD.md)
 * [Christine Bui, OD (Lake Eye )](insurance_docs/Christine_Bui_OD.md)
 * [Daniel Hadland, OD (Center for Sight)](insurance_docs/Daniel_Hadland_OD.md)
