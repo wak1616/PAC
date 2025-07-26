@@ -142,11 +142,13 @@ The following guide outlines when to schedule appointment based on their symptom
 * If no ER spot is open, you may schedule in any open space (short or long)
 * If no same day spots are available for that provider, send an **ICP** communication to the Patient Care Team of that region and mark **urgent**.
 * If the patient's provider is out of the office, schedule with another provider in the region and note in the details their provider is out. **Check availability for all office locations in the region** **to include smaller satellite offices.**
-* **Dr. Banker** (CFS): Triaged by an **OD first** for emergency appts. For retina emergency referrals (e.g. detachment or tear), send an ICP message to Dr. Banker's team marked **urgent**. **Do not schedule**.
+* For **retina** patients (Dr. Banker or RHC): Triaged by an **OD first** for emergency appts. For retina emergency referrals (e.g. detachment or tear), send an **ICP** message to either Dr. Banker's team or RHC Pateint Care Team marked **urgent**. **Do not schedule**.
+   - If this is a Dr. Banker patient that recently had an injection (2 weeks), schedule them same day with an OD.
 * If it's **3:30 PM–5:00 PM**:
   * Attempt a warm transfer to the office.
   * If the office is unavailable, enter an **ICP** message to the Patient Care Team. The office will contact the patient directly to schedule.
 * If uncertain or unable to schedule, **notify** the Patient Care Team in ICP (if new patient, see "ICP IntelleChart – New Patient Task" below).
+   - If a messaage is required to be sent, please make sure it is being sent to the proper **Patient Care Team** and include **all** details of symptoms.
 
 ***
 
@@ -965,13 +967,15 @@ The **retina** is a delicate, light-sensitive tissue lining the interior of the 
 | **SFEC** | _(None listed)_                                               |
 
 > **\*** Dr. Banker sees new patients only at **CFS-Venice**.
+> **\*** Dr. Banker can perform **Valeda light therapy.**
 
 #### Important Reminders
 
 1. **No Vision Plans**: Vision plans are not accepted for retina-related appointments.
 2. If the appointment is more than **10 days out**, you **must** offer to place the patient on the **waitlist**.
 3. Keep the patient with their existing provider whenever possible, unless they request a change. If a provider's schedule is fully booked, add the patient to the waitlist for a possible earlier opening.
-4. **Injections**:
+4. If scheduling **Valeda light therapy**, schedule as a consult and write in the appointment details "light therapy"
+5. **Injections**:
    * Must be scheduled at least **28 days** from the last injection (insurance will not reimburse earlier).
    * If >8 weeks since last injection, schedule a **Dilated Fundus** exam.
    * Rescheduling an injection should be done within **10 business days** of the original date.
@@ -1307,12 +1311,15 @@ Below are the listed providers at Center For Sight, along with the services they
   1. Direct the patient to the **medical records release form** on the practice website.
   2. Alternatively, email or fax the release form upon request.
   3. Completed forms can be returned by mail, fax, or at any practice location.
+      - CFS: frontdesk@centerforsight.net
+      - RHC: frontdesk@retinahealthcenter.com
+      - LEA: pservices@lakeeye.com
+      - SFEC: No email
+  
 * **Turnaround**: Records requests typically take **3–5 business days**.
 * **Status Check**:
-  1. Open the patient's chart in NextGen.
-  2. Check **Patient Tasks** for a "Records Request–Patient" task.
-     * **In Progress**: Inform the patient the request is being processed.
-     * **Complete**: Review the completion reason (how records were sent) and let the patient know.
+  1.  Double check the patient has signed and sent a medical records release.
+  2.  Send an ICP task to the proper PT Care Team to give the patient a call back regarding their medical records release form.
 
 ### RCM Inquiries – Financial Requests
 
@@ -1336,8 +1343,10 @@ Certain requests **only** clinical staff or providers can handle. Refer to the t
 **Important Notes**
 
 * **Do Not** send ICP communications to groups prefixed with `zzz` (inactive).
+* **Do Not** send ICP communications to individual people.
 * If a provider no longer works here and the patient hasn't established care with another provider, send the message to the [**Patient Care Team by region** ](<Provider Reference Guide.md>)(Florida)
 * Patients should be informed that the request is typically handled within **24–48 hours**.
+* Make certain all information discussed on the call is included in the **ICP** message.
 * **New Patients:** If they have clinical or medication questions, they must be scheduled for an appointment. Clinical staff cannot advise or fill out forms (DMV, tint, medical forms) without a prior exam.
 
 #### **ICP Patient Task Categories**
