@@ -33,7 +33,7 @@
 | Lori Long, OD | Vision Service Plan | Authorization Required | PAR |
 | Lori Vollmer, OD | Vision Service Plan | Authorization Required | PAR |
 | Mary Mcvey, OD | Vision Service Plan | Authorization Required | PAR |
-| Maureen Traina, PA | Vision Service Plan | Authorization Required | Non-PAR |
+| Maureen Traina, PA | Vision Service Plan | Authorization Required | PAR |
 | Melissa Hammond, OD | Vision Service Plan | Authorization Required | PAR |
 | Michael Maloney, OD | Vision Service Plan | Authorization Required | PAR |
 | Page Logan, OD | Vision Service Plan | Authorization Required | PAR |
