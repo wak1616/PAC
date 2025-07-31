@@ -19,7 +19,6 @@
 | George Hurwitz, OD | BCBS FL myBlue HMO REFERRAL REQ | Referral Required | PAR |
 | Giselle Vega, OD | BCBS FL myBlue HMO REFERRAL REQ | Referral Required | Non-PAR |
 | Gisselle Vrga Carraso | BCBS FL myBlue HMO REFERRAL REQ | Referral Required | Non-PAR |
-| Hunter Vittone, OD | BCBS FL myBlue HMO REFERRAL REQ | Referral Required | PAR |
 | James Lenhart, OD | BCBS FL myBlue HMO REFERRAL REQ | Referral Required | PAR |
 | Joaquin De Rojas, MD | BCBS FL myBlue HMO REFERRAL REQ | Referral Required | PAR |
 | John Fezza, MD (Oculoplastics) | BCBS FL myBlue HMO REFERRAL REQ | Referral Required | PAR |

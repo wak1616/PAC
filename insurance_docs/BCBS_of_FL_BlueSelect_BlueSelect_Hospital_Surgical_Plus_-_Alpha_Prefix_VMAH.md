@@ -10,7 +10,6 @@
 |----------|-------------|--------------|--------|
 | Albert Smolyar, MD | BCBS FL Commercial PPO | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Brian Marhue, OD | BCBS FL Commercial PPO | No Ref/No Auth Required | Non-PAR -OON Benefits |
-| Hunter Vittone, OD | BCBS FL Commercial PPO | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Penny Orr, OD | BCBS FL Commercial PPO | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Sarah Johnson, OD | BCBS FL Commercial PPO | No Ref/No Auth Required | Non-PAR -OON Benefits |
 

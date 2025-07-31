@@ -19,7 +19,6 @@
 | George Hurwitz, OD | PENDING | No Ref/No Auth Required | Non-PAR |
 | Giselle Vega, OD | PENDING | No Ref/No Auth Required | Non-PAR |
 | Gisselle Vrga Carraso | PENDING | No Ref/No Auth Required | Non-PAR |
-| Hunter Vittone, OD | PENDING | No Ref/No Auth Required | Non-PAR |
 | James Lenhart, OD | PENDING | No Ref/No Auth Required | Non-PAR |
 | Joaquin De Rojas, MD | PENDING | No Ref/No Auth Required | Non-PAR |
 | John Fezza, MD (Oculoplastics) | PENDING | No Ref/No Auth Required | Non-PAR |
@@ -52,7 +51,6 @@
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
 | George Brinnig-Jastrzebski, MD | Self Pay Non-Par with Ins |  | Non-PAR |
-| Hunter Vittone, OD | Self Pay Non-Par with Ins |  | Non-PAR |
 | Jon Berlie, MD | Self Pay Non-Par with Ins |  | Non-PAR |
 | Julie Carter, MD | Self Pay Non-Par with Ins |  | Non-PAR |
 
@@ -62,7 +60,6 @@
 |----------|-------------|--------------|--------|
 | Albert Smolyar, MD | PENDING | No Ref/No Auth Required | PAR |
 | Brian Marhue, OD | PENDING | No Ref/No Auth Required | PAR |
-| Hunter Vittone, OD | PENDING | No Ref/No Auth Required | PAR |
 | Penny Orr, OD | PENDING | No Ref/No Auth Required | PAR |
 | Sarah Johnson, OD | PENDING | No Ref/No Auth Required | PAR |
 

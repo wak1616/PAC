@@ -19,7 +19,6 @@
 | George Hurwitz, OD | Carefirst BCBS Commercial PPO | No Ref/No Auth Required | PAR |
 | Giselle Vega, OD | Carefirst BCBS Commercial PPO | No Ref/No Auth Required | Non-PAR |
 | Gisselle Vrga Carraso | Carefirst BCBS Commercial PPO | No Ref/No Auth Required | Non-PAR |
-| Hunter Vittone, OD | Carefirst BCBS Commercial PPO | No Ref/No Auth Required | PAR |
 | James Lenhart, OD | Carefirst BCBS Commercial PPO | No Ref/No Auth Required | PAR |
 | Joaquin De Rojas, MD | Carefirst BCBS Commercial PPO | No Ref/No Auth Required | PAR |
 | John Fezza, MD (Oculoplastics) | Carefirst BCBS Commercial PPO | No Ref/No Auth Required | PAR |
@@ -60,7 +59,6 @@
 |----------|-------------|--------------|--------|
 | Albert Smolyar, MD | Carefirst BCBS Commercial PPO | No Ref/No Auth Required | PAR |
 | Brian Marhue, OD | Carefirst BCBS Commercial PPO | No Ref/No Auth Required | PAR |
-| Hunter Vittone, OD | Carefirst BCBS Commercial PPO | No Ref/No Auth Required | PAR |
 | Penny Orr, OD | Carefirst BCBS Commercial PPO | No Ref/No Auth Required | PAR |
 | Sarah Johnson, OD | Carefirst BCBS Commercial PPO | No Ref/No Auth Required | PAR |
 

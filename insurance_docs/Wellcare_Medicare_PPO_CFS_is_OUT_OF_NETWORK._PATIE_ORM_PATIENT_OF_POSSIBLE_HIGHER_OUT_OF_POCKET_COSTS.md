@@ -9,7 +9,6 @@
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
 | George Brinnig-Jastrzebski, MD | WellCare Medicare PPO | No Ref/No Auth Required | Non-PAR -OON Benefits |
-| Hunter Vittone, OD | WellCare Medicare PPO | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Jon Berlie, MD | WellCare Medicare PPO | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Julie Carter, MD | WellCare Medicare PPO | No Ref/No Auth Required | Non-PAR -OON Benefits |
 

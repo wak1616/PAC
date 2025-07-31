@@ -10,7 +10,6 @@
 |----------|-------------|--------------|--------|
 | Albert Smolyar, MD | Self Pay Non-Par with Ins | No Ref/No Auth Required | Non-PAR |
 | Brian Marhue, OD | Self Pay Non-Par with Ins | No Ref/No Auth Required | Non-PAR |
-| Hunter Vittone, OD | Self Pay Non-Par with Ins | No Ref/No Auth Required | Non-PAR |
 | Penny Orr, OD | Self Pay Non-Par with Ins | No Ref/No Auth Required | Non-PAR |
 | Sarah Johnson, OD | Self Pay Non-Par with Ins | No Ref/No Auth Required | Non-PAR |
 

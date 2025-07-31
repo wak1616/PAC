@@ -297,14 +297,6 @@
 * **Office Locations**: US41 Sarasota
 * **NPI**: 1760734909
 
-### Hunter Vittone, OD
-
-* **Patient Types**: Teen (8-17 Years), Adult (18 & Over)
-* **Specialties**: Primary Eye Care, Soft CL, Vision Plan
-* **Patient Care Team**: CFS South
-* **Office Locations**: Naples
-* **NPI**: 1821778671
-
 ### Lori Vollmer, OD
 
 * **Patient Types**: Teen (8-17 Years), Adult (18 & Over)
@@ -438,11 +430,3 @@
 * **Patient Care Team**: SFEC
 * **Office Locations**: Ft. Myers
 * **NPI**: 1194777185
-
-### Hunter Vittone, OD
-
-* **Patient Types**: Teen (8-17 Years), Adult (18 & Over)
-* **Specialties**: Primary Eye Care, Soft CL, Vision Plan
-* **Patient Care Team**: SFEC
-* **Office Locations**: Naples
-* **NPI**: 1821778671

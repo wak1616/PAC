@@ -10,7 +10,6 @@
 |----------|-------------|--------------|--------|
 | Albert Smolyar, MD | Cigna Medicare HMO REFERRAL REQUIRED | Referral Required | PAR |
 | Brian Marhue, OD | Cigna Medicare HMO REFERRAL REQUIRED | Referral Required | Non-PAR |
-| Hunter Vittone, OD | Cigna Medicare HMO REFERRAL REQUIRED | Referral Required | Non-PAR |
 | Penny Orr, OD | Cigna Medicare HMO REFERRAL REQUIRED | Referral Required | PAR |
 | Sarah Johnson, OD | Cigna Medicare HMO REFERRAL REQUIRED | Referral Required | PAR |
 

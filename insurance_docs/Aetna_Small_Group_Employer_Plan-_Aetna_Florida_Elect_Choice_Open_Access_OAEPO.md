@@ -19,7 +19,6 @@
 | George Hurwitz, OD | Aetna Commercial PPO | No Ref/No Auth Required | PAR |
 | Giselle Vega, OD | Aetna Commercial PPO | No Ref/No Auth Required | PAR |
 | Gisselle Vrga Carraso | Aetna Commercial PPO | No Ref/No Auth Required | Non-PAR |
-| Hunter Vittone, OD | Aetna Commercial PPO | No Ref/No Auth Required | PAR |
 | James Lenhart, OD | Aetna Commercial PPO | No Ref/No Auth Required | PAR |
 | Joaquin De Rojas, MD | Aetna Commercial PPO | No Ref/No Auth Required | PAR |
 | John Fezza, MD (Oculoplastics) | Aetna Commercial PPO | No Ref/No Auth Required | PAR |

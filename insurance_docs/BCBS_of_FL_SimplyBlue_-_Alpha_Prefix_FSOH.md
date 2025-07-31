@@ -19,7 +19,6 @@
 | George Hurwitz, OD | BCBS FL Commercial HMO | Authorization Required | PAR |
 | Giselle Vega, OD | BCBS FL Commercial HMO | Authorization Required | Non-PAR |
 | Gisselle Vrga Carraso | BCBS FL Commercial HMO | Authorization Required | Non-PAR |
-| Hunter Vittone, OD | BCBS FL Commercial HMO | Authorization Required | PAR |
 | James Lenhart, OD | BCBS FL Commercial HMO | Authorization Required | PAR |
 | Joaquin De Rojas, MD | BCBS FL Commercial HMO | Authorization Required | PAR |
 | John Fezza, MD (Oculoplastics) | BCBS FL Commercial HMO | Authorization Required | PAR |

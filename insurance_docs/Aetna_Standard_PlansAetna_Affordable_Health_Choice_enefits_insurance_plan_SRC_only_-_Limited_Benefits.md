@@ -10,7 +10,6 @@
 |----------|-------------|--------------|--------|
 | Albert Smolyar, MD | Aetna Comm Fixed Benefits PPO | No Ref/No Auth Required | PAR |
 | Brian Marhue, OD | Aetna Comm Fixed Benefits PPO | No Ref/No Auth Required | PAR |
-| Hunter Vittone, OD | Aetna Comm Fixed Benefits PPO | No Ref/No Auth Required | PAR |
 | Penny Orr, OD | Aetna Comm Fixed Benefits PPO | No Ref/No Auth Required | PAR |
 | Sarah Johnson, OD | Aetna Comm Fixed Benefits PPO | No Ref/No Auth Required | PAR |
 

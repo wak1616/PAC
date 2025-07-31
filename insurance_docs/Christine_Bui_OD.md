@@ -169,6 +169,7 @@
 | United Healthcare FL ALL Medicaid Plans | Self Pay Non-Par with Ins |  | Non-PAR |
 | United Healthcare FL CHIP/Medicaid | Self Pay Non-Par with Ins |  | Non-PAR |
 | United Healthcare Group Medicare Advantage (HMO) | UHC AARP Advantage HMO-87726 | No Ref/No Auth Required | PAR |
+| UHC Global (PPO) | UHC Global  USN01 | No Ref/No Auth Required | PAR |
 | United Healthcare Group Medicare Advantage (PPO) | UHC Medicare Advantage PPO-87726 | No Ref/No Auth Required | PAR |
 | United Healthcare Heritage ALL Plans | Self Pay Non-Par with Ins |  | Non-PAR |
 | United Healthcare Indemnity-we will only accept this plan as a secondary/supplement | Self Pay Non-Par with Ins |  | Non-PAR |

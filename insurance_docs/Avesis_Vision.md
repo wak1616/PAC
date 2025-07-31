@@ -19,7 +19,6 @@
 | George Hurwitz, OD | Avesis Vision | Authorization Required | Non-PAR |
 | Giselle Vega, OD | Avesis Vision | Authorization Required | Non-PAR |
 | Gisselle Vrga Carraso | Avesis Vision | Authorization Required | Non-PAR |
-| Hunter Vittone, OD | Avesis Vision | Authorization Required | PAR |
 | James Lenhart, OD | Avesis Vision | Authorization Required | Non-PAR |
 | Joaquin De Rojas, MD | Avesis Vision | Authorization Required | Non-PAR |
 | John Fezza, MD (Oculoplastics) | Avesis Vision | Authorization Required | Non-PAR |
@@ -52,7 +51,6 @@
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
 | George Brinnig-Jastrzebski, MD | Self Pay Non-Par with Ins |  | Non-PAR |
-| Hunter Vittone, OD | Self Pay Non-Par with Ins |  | Non-PAR |
 | Jon Berlie, MD | Self Pay Non-Par with Ins |  | Non-PAR |
 | Julie Carter, MD | Self Pay Non-Par with Ins |  | Non-PAR |
 
@@ -76,7 +74,6 @@
 |----------|-------------|--------------|--------|
 | Albert Smolyar, MD | Avesion Vision | Authorization Required | Non-PAR |
 | Brian Marhue, OD | Avesion Vision | Authorization Required | PAR |
-| Hunter Vittone, OD | Avesion Vision | Authorization Required | Non-PAR |
 | Penny Orr, OD | Avesion Vision | Authorization Required | PAR |
 | Sarah Johnson, OD | Avesion Vision | Authorization Required | PAR |
 

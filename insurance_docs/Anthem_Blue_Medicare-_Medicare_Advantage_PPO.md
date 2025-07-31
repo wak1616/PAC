@@ -19,7 +19,6 @@
 | George Hurwitz, OD | Anthem BCBS Medicare PPO | No Ref/No Auth Required | PAR |
 | Giselle Vega, OD | Anthem BCBS Medicare PPO | No Ref/No Auth Required | Non-PAR |
 | Gisselle Vrga Carraso | Anthem BCBS Medicare PPO | No Ref/No Auth Required | Non-PAR |
-| Hunter Vittone, OD | Anthem BCBS Medicare PPO | No Ref/No Auth Required | PAR |
 | James Lenhart, OD | Anthem BCBS Medicare PPO | No Ref/No Auth Required | PAR |
 | Joaquin De Rojas, MD | Anthem BCBS Medicare PPO | No Ref/No Auth Required | PAR |
 | John Fezza, MD (Oculoplastics) | Anthem BCBS Medicare PPO | No Ref/No Auth Required | PAR |
@@ -52,7 +51,6 @@
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
 | George Brinnig-Jastrzebski, MD | Anthem BCBS Medicare PPO | No Ref/No Auth Required | PAR |
-| Hunter Vittone, OD | Anthem BCBS Medicare PPO | No Ref/No Auth Required | PAR |
 | Jon Berlie, MD | Anthem BCBS Medicare PPO | No Ref/No Auth Required | PAR |
 | Julie Carter, MD | Anthem BCBS Medicare PPO | No Ref/No Auth Required | PAR |
 
@@ -83,7 +81,6 @@
 |----------|-------------|--------------|--------|
 | Albert Smolyar, MD | Anthem BCBS Medicare PPO | No Ref/No Auth Required | PAR |
 | Brian Marhue, OD | Anthem BCBS Medicare PPO | No Ref/No Auth Required | PAR |
-| Hunter Vittone, OD | Anthem BCBS Medicare PPO | No Ref/No Auth Required | PAR |
 | Penny Orr, OD | Anthem BCBS Medicare PPO | No Ref/No Auth Required | PAR |
 | Sarah Johnson, OD | Anthem BCBS Medicare PPO | No Ref/No Auth Required | PAR |
 

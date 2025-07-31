@@ -19,7 +19,6 @@
 | George Hurwitz, OD | Web TPA | No Ref/No Auth Required | PAR |
 | Giselle Vega, OD | Web TPA | No Ref/No Auth Required | Non-PAR |
 | Gisselle Vrga Carraso | Web TPA | No Ref/No Auth Required | Non-PAR |
-| Hunter Vittone, OD | Web TPA | No Ref/No Auth Required | PAR |
 | James Lenhart, OD | Web TPA | No Ref/No Auth Required | PAR |
 | Joaquin De Rojas, MD | Web TPA | No Ref/No Auth Required | PAR |
 | John Fezza, MD (Oculoplastics) | Web TPA | No Ref/No Auth Required | PAR |
@@ -52,7 +51,6 @@
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
 | George Brinnig-Jastrzebski, MD | Web TPA | No Ref/No Auth Required | PAR |
-| Hunter Vittone, OD | Web TPA | No Ref/No Auth Required | PAR |
 | Jon Berlie, MD | Web TPA | No Ref/No Auth Required | PAR |
 | Julie Carter, MD | Web TPA | No Ref/No Auth Required | PAR |
 
@@ -83,7 +81,6 @@
 |----------|-------------|--------------|--------|
 | Albert Smolyar, MD | Web TPA | No Ref/No Auth Required | PAR |
 | Brian Marhue, OD | Web TPA | No Ref/No Auth Required | PAR |
-| Hunter Vittone, OD | Web TPA | No Ref/No Auth Required | Non-PAR |
 | Penny Orr, OD | Web TPA | No Ref/No Auth Required | PAR |
 | Sarah Johnson, OD | Web TPA | No Ref/No Auth Required | PAR |
 

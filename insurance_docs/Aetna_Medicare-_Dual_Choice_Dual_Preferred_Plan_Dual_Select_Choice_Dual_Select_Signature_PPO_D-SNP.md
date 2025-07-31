@@ -9,7 +9,6 @@
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
 | George Brinnig-Jastrzebski, MD | Primary: Aetna Dual Complete Medicare PPO Primary                                                 Secondary: Aetna Dual Complete MCD PPO Secondary | No Ref/No Auth Required | PAR |
-| Hunter Vittone, OD | Primary: Aetna Dual Complete Medicare PPO Primary                                                 Secondary: Aetna Dual Complete MCD PPO Secondary | No Ref/No Auth Required | PAR |
 | Jon Berlie, MD | Primary: Aetna Dual Complete Medicare PPO Primary                                                 Secondary: Aetna Dual Complete MCD PPO Secondary | No Ref/No Auth Required | PAR |
 | Julie Carter, MD | Primary: Aetna Dual Complete Medicare PPO Primary                                                 Secondary: Aetna Dual Complete MCD PPO Secondary | No Ref/No Auth Required | PAR |
 

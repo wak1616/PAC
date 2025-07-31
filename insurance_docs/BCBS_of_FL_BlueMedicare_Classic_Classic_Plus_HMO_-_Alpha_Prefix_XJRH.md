@@ -19,7 +19,6 @@
 | George Hurwitz, OD | BCBS FL Medicare HMO REFERRAL REQ | Referral Required | PAR |
 | Giselle Vega, OD | BCBS FL Medicare HMO REFERRAL REQ | Referral Required | Non-PAR |
 | Gisselle Vrga Carraso | BCBS FL Medicare HMO REFERRAL REQ | Referral Required | Non-PAR |
-| Hunter Vittone, OD | BCBS FL Medicare HMO REFERRAL REQ | Referral Required | PAR |
 | James Lenhart, OD | BCBS FL Medicare HMO REFERRAL REQ | Referral Required | PAR |
 | Joaquin De Rojas, MD | BCBS FL Medicare HMO REFERRAL REQ | Referral Required | PAR |
 | John Fezza, MD (Oculoplastics) | BCBS FL Medicare HMO REFERRAL REQ | Referral Required | PAR |

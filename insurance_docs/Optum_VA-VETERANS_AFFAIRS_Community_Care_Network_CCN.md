@@ -9,7 +9,6 @@
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
 | George Brinnig-Jastrzebski, MD | Optum VA Community Care | Authorization Required | PAR |
-| Hunter Vittone, OD | Optum VA Community Care | Authorization Required | PAR |
 | Jon Berlie, MD | Optum VA Community Care | Authorization Required | PAR |
 | Julie Carter, MD | Optum VA Community Care | Authorization Required | PAR |
 
@@ -40,7 +39,6 @@
 |----------|-------------|--------------|--------|
 | Albert Smolyar, MD | Optum VA Community Care | Authorization Required | PAR |
 | Brian Marhue, OD | Optum VA Community Care | Authorization Required | PAR |
-| Hunter Vittone, OD | Optum VA Community Care | Authorization Required | PAR |
 | Penny Orr, OD | Optum VA Community Care | Authorization Required | PAR |
 | Sarah Johnson, OD | Optum VA Community Care | Authorization Required | PAR |
 

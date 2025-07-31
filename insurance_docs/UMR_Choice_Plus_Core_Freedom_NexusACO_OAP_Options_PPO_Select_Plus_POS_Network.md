@@ -17,7 +17,6 @@
 |----------|-------------|--------------|--------|
 | Albert Smolyar, MD | UHC UMR-39026 | No Ref/No Auth Required | PAR |
 | Brian Marhue, OD | UHC UMR-39026 | No Ref/No Auth Required | PAR |
-| Hunter Vittone, OD | UHC UMR-39026 | No Ref/No Auth Required | PAR |
 | Penny Orr, OD | UHC UMR-39026 | No Ref/No Auth Required | PAR |
 | Sarah Johnson, OD | UHC UMR-39026 | No Ref/No Auth Required | PAR |
 

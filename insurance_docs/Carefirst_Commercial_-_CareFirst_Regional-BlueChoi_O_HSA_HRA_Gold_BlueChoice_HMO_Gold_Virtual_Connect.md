@@ -19,7 +19,6 @@
 | George Hurwitz, OD | Carefirst BCBS Commercial HMO | No Ref/No Auth Required | PAR |
 | Giselle Vega, OD | Carefirst BCBS Commercial HMO | No Ref/No Auth Required | Non-PAR |
 | Gisselle Vrga Carraso | Carefirst BCBS Commercial HMO | No Ref/No Auth Required | Non-PAR |
-| Hunter Vittone, OD | Carefirst BCBS Commercial HMO | No Ref/No Auth Required | PAR |
 | James Lenhart, OD | Carefirst BCBS Commercial HMO | No Ref/No Auth Required | PAR |
 | Joaquin De Rojas, MD | Carefirst BCBS Commercial HMO | No Ref/No Auth Required | PAR |
 | John Fezza, MD (Oculoplastics) | Carefirst BCBS Commercial HMO | No Ref/No Auth Required | PAR |

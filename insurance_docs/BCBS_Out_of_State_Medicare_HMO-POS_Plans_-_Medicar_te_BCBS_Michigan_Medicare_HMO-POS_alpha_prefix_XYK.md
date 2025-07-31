@@ -19,7 +19,6 @@
 | George Hurwitz, OD | BCBS OOS MDCR HMO POS - REFERRAL REQ | Referral Required | PAR |
 | Giselle Vega, OD | BCBS OOS MDCR HMO POS - REFERRAL REQ | Referral Required | Non-PAR |
 | Gisselle Vrga Carraso | BCBS OOS MDCR HMO POS - REFERRAL REQ | Referral Required | Non-PAR |
-| Hunter Vittone, OD | BCBS OOS MDCR HMO POS - REFERRAL REQ | Referral Required | PAR |
 | James Lenhart, OD | BCBS OOS MDCR HMO POS - REFERRAL REQ | Referral Required | PAR |
 | Joaquin De Rojas, MD | BCBS OOS MDCR HMO POS - REFERRAL REQ | Referral Required | PAR |
 | John Fezza, MD (Oculoplastics) | BCBS OOS MDCR HMO POS - REFERRAL REQ | Referral Required | PAR |
@@ -52,7 +51,6 @@
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
 | George Brinnig-Jastrzebski, MD | BCBS OOS MDCR HMO POS - REFERRAL REQ | Referral Required | PAR |
-| Hunter Vittone, OD | BCBS OOS MDCR HMO POS - REFERRAL REQ | Referral Required | PAR |
 | Jon Berlie, MD | BCBS OOS MDCR HMO POS - REFERRAL REQ | Referral Required | PAR |
 | Julie Carter, MD | BCBS OOS MDCR HMO POS - REFERRAL REQ | Referral Required | PAR |
 
@@ -76,7 +74,6 @@
 |----------|-------------|--------------|--------|
 | Albert Smolyar, MD | BCBS OOS MDCR HMO POS - REFERRAL REQ | Referral Required | PAR |
 | Brian Marhue, OD | BCBS OOS MDCR HMO POS - REFERRAL REQ | Referral Required | PAR |
-| Hunter Vittone, OD | BCBS OOS MDCR HMO POS - REFERRAL REQ | Referral Required | PAR |
 | Penny Orr, OD | BCBS OOS MDCR HMO POS - REFERRAL REQ | Referral Required | PAR |
 | Sarah Johnson, OD | BCBS OOS MDCR HMO POS - REFERRAL REQ | Referral Required | PAR |
 

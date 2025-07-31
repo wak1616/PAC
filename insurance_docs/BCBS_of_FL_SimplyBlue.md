@@ -9,7 +9,6 @@
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
 | George Brinnig-Jastrzebski, MD | BCBS FL Commercial HMO | Authorization Required | PAR |
-| Hunter Vittone, OD | BCBS FL Commercial HMO | Authorization Required | PAR |
 | Jon Berlie, MD | BCBS FL Commercial HMO | Authorization Required | PAR |
 | Julie Carter, MD | BCBS FL Commercial HMO | Authorization Required | PAR |
 
@@ -19,7 +18,6 @@
 |----------|-------------|--------------|--------|
 | Albert Smolyar, MD | BCBS FL Commercial HMO | Authorization Required | PAR |
 | Brian Marhue, OD | BCBS FL Commercial HMO | Authorization Required | PAR |
-| Hunter Vittone, OD | BCBS FL Commercial HMO | Authorization Required | PAR |
 | Penny Orr, OD | BCBS FL Commercial HMO | Authorization Required | PAR |
 | Sarah Johnson, OD | BCBS FL Commercial HMO | Authorization Required | PAR |
 

@@ -18,8 +18,7 @@
 | Erin Hardie, OD | Cigna International | Authorization Required | PAR |
 | George Hurwitz, OD | Cigna International | Authorization Required | PAR |
 | Giselle Vega, OD | Cigna International | Authorization Required | Non-PAR |
-| Gisselle Vrga Carraso | Cigna International | Authorization Required | Non-PAR |
-| Hunter Vittone, OD | Cigna International | Authorization Required | PAR |
+| Gisselle Vrga Carraso | Cigna International | Authorization Required | PAR |
 | James Lenhart, OD | Cigna International | Authorization Required | PAR |
 | Joaquin De Rojas, MD | Cigna International | Authorization Required | PAR |
 | John Fezza, MD (Oculoplastics) | Cigna International | Authorization Required | PAR |
@@ -52,7 +51,6 @@
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
 | George Brinnig-Jastrzebski, MD | Cigna International | Authorization Required | PAR |
-| Hunter Vittone, OD | Cigna International | Authorization Required | PAR |
 | Jon Berlie, MD | Cigna International | Authorization Required | PAR |
 | Julie Carter, MD | Cigna International | Authorization Required | PAR |
 
@@ -83,7 +81,6 @@
 |----------|-------------|--------------|--------|
 | Albert Smolyar, MD | Cigna International | Authorization Required | PAR |
 | Brian Marhue, OD | Cigna International | Authorization Required | PAR |
-| Hunter Vittone, OD | Cigna International | Authorization Required | PAR |
 | Penny Orr, OD | Cigna International | Authorization Required | PAR |
 | Sarah Johnson, OD | Cigna International | Authorization Required | PAR |
 

@@ -10,7 +10,6 @@
 |----------|-------------|--------------|--------|
 | Albert Smolyar, MD | Humana Medicare PPO | No Ref/No Auth Required | PAR |
 | Brian Marhue, OD | Humana Medicare PPO | No Ref/No Auth Required | PAR |
-| Hunter Vittone, OD | Humana Medicare PPO | No Ref/No Auth Required | Non-PAR |
 | Penny Orr, OD | Humana Medicare PPO | No Ref/No Auth Required | PAR |
 | Sarah Johnson, OD | Humana Medicare PPO | No Ref/No Auth Required | Non-PAR |
 

@@ -14,7 +14,7 @@
 | AARP Medicare Advantage HMO- WELLMED (Payer ID is WELM2) | UHC AARP Medicare Advantage HMO-WELM2 | No Ref/No Auth Required | PAR |
 | AARP Medicare Advantage Patriot No Rx FL-MA01 (Regional PPO) | UHC AARP Medicare Advantage PPO-87726 | No Ref/No Auth Required | PAR |
 | AARP Medicare Advantage PPO- WELLMED (Payer ID is WELM2) | UHC AARP Medicare Advantage PPO-WELM2 | No Ref/No Auth Required | PAR |
-| Aetna CVS Health HMO | Aetna Commercial HMO REFERRAL REQ | Referral Required | PAR |
+| Aetna CVS Health HMO (Bronze, Silver, Gold, Florida HMO plans) | Aetna Commercial HMO REFERRAL REQ | Referral Required | PAR |
 | Aetna Healthfund - Aetna Open Access Aetna Select℠ | Aetna Commercial PPO | No Ref/No Auth Required | PAR |
 | Aetna Healthfund - Aetna Open Access® Elect Choice® EPO | Aetna Commercial PPO | No Ref/No Auth Required | PAR |
 | Aetna Healthfund - Aetna Open Access® Managed Choice® POS | Aetna Commercial PPO | No Ref/No Auth Required | PAR |
@@ -188,6 +188,7 @@
 | United Healthcare ER Wrap (W500 on back of card) | UHC ER Wrap | Authorization Required | PAR |
 | United Healthcare FL CHIP ALL MEDICAID | Self Pay Non-Par with Ins |  | Non-PAR |
 | United Healthcare Group Medicare Advantage (HMO) | UHC AARP Advantage HMO-87726 | No Ref/No Auth Required | PAR |
+| UHC Global (PPO) | UHC Global  USN01 | No Ref/No Auth Required | PAR |
 | United Healthcare Group Medicare Advantage (PPO) | UHC Medicare Advantage PPO-87726 | No Ref/No Auth Required | PAR |
 | United Healthcare Heritage ALL PLANS | Self Pay Non-Par with Ins |  | Non-PAR |
 | United Healthcare Indemnity-we will only accept this plan as a secondary/supplement | Self Pay Non-Par with Ins |  | Non-PAR |

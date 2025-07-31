@@ -19,7 +19,6 @@
 | George Hurwitz, OD | Allegiance Benefit Plan Management-Cigna | No Ref/No Auth Required | PAR |
 | Giselle Vega, OD | Allegiance Benefit Plan Management-Cigna | No Ref/No Auth Required | Non-PAR |
 | Gisselle Vrga Carraso | Allegiance Benefit Plan Management-Cigna | No Ref/No Auth Required | Non-PAR |
-| Hunter Vittone, OD | Allegiance Benefit Plan Management-Cigna | No Ref/No Auth Required | PAR |
 | James Lenhart, OD | Allegiance Benefit Plan Management-Cigna | No Ref/No Auth Required | PAR |
 | Joaquin De Rojas, MD | Allegiance Benefit Plan Management-Cigna | No Ref/No Auth Required | PAR |
 | John Fezza, MD (Oculoplastics) | Allegiance Benefit Plan Management-Cigna | No Ref/No Auth Required | PAR |
@@ -52,7 +51,6 @@
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
 | George Brinnig-Jastrzebski, MD | Allegiance Benefit Plan Management-Cigna | No Ref/No Auth Required | PAR |
-| Hunter Vittone, OD | Allegiance Benefit Plan Management-Cigna | No Ref/No Auth Required | PAR |
 | Jon Berlie, MD | Allegiance Benefit Plan Management-Cigna | No Ref/No Auth Required | PAR |
 | Julie Carter, MD | Allegiance Benefit Plan Management-Cigna | No Ref/No Auth Required | PAR |
 
@@ -83,7 +81,6 @@
 |----------|-------------|--------------|--------|
 | Albert Smolyar, MD | Allegiance Benefit Plan Management-Cigna | No Ref/No Auth Required | PAR |
 | Brian Marhue, OD | Allegiance Benefit Plan Management-Cigna | No Ref/No Auth Required | PAR |
-| Hunter Vittone, OD | Allegiance Benefit Plan Management-Cigna | No Ref/No Auth Required | PAR |
 | Penny Orr, OD | Allegiance Benefit Plan Management-Cigna | No Ref/No Auth Required | PAR |
 | Sarah Johnson, OD | Allegiance Benefit Plan Management-Cigna | No Ref/No Auth Required | PAR |
 

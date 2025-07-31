@@ -30,8 +30,6 @@
 | Giselle Vega, OD | UHC Commercial HMO | No Ref/No Auth Required | PAR |
 | Gisselle Vrga Carraso | UHC NHP HMO Access-87226 | No Ref/No Auth Required | Non-PAR |
 | Gisselle Vrga Carraso | UHC Commercial HMO | No Ref/No Auth Required | Non-PAR |
-| Hunter Vittone, OD | UHC NHP HMO Access-87226 | No Ref/No Auth Required | PAR |
-| Hunter Vittone, OD | UHC Commercial HMO | No Ref/No Auth Required | PAR |
 | James Lenhart, OD | UHC NHP HMO Access-87226 | No Ref/No Auth Required | PAR |
 | James Lenhart, OD | UHC Commercial HMO | No Ref/No Auth Required | PAR |
 | Joaquin De Rojas, MD | UHC NHP HMO Access-87226 | No Ref/No Auth Required | PAR |
@@ -90,7 +88,6 @@
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
 | George Brinnig-Jastrzebski, MD | UHC NHP HMO Access-87226 | No Ref/No Auth Required | PAR |
-| Hunter Vittone, OD | UHC NHP HMO Access-87226 | No Ref/No Auth Required | PAR |
 | Jon Berlie, MD | UHC NHP HMO Access-87226 | No Ref/No Auth Required | PAR |
 | Julie Carter, MD | UHC NHP HMO Access-87226 | No Ref/No Auth Required | PAR |
 
@@ -107,7 +104,6 @@
 |----------|-------------|--------------|--------|
 | Albert Smolyar, MD | UHC NHP HMO Access-87226 | No Ref/No Auth Required | PAR |
 | Brian Marhue, OD | UHC NHP HMO Access-87226 | No Ref/No Auth Required | PAR |
-| Hunter Vittone, OD | UHC NHP HMO Access-87226 | No Ref/No Auth Required | PAR |
 | Penny Orr, OD | UHC NHP HMO Access-87226 | No Ref/No Auth Required | PAR |
 | Sarah Johnson, OD | UHC NHP HMO Access-87226 | No Ref/No Auth Required | PAR |
 

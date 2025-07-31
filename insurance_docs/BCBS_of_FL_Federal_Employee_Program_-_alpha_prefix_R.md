@@ -19,7 +19,6 @@
 | George Hurwitz, OD | BCBS Federal | No Ref/No Auth Required | PAR |
 | Giselle Vega, OD | BCBS Federal | No Ref/No Auth Required | Non-PAR |
 | Gisselle Vrga Carraso | BCBS Federal | No Ref/No Auth Required | Non-PAR |
-| Hunter Vittone, OD | BCBS Federal | No Ref/No Auth Required | PAR |
 | James Lenhart, OD | BCBS Federal | No Ref/No Auth Required | PAR |
 | Joaquin De Rojas, MD | BCBS Federal | No Ref/No Auth Required | PAR |
 | John Fezza, MD (Oculoplastics) | BCBS Federal | No Ref/No Auth Required | PAR |
@@ -52,7 +51,6 @@
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
 | George Brinnig-Jastrzebski, MD | BCBS Federal | No Ref/No Auth Required | PAR |
-| Hunter Vittone, OD | BCBS Federal | No Ref/No Auth Required | PAR |
 | Jon Berlie, MD | BCBS Federal | No Ref/No Auth Required | PAR |
 | Julie Carter, MD | BCBS Federal | No Ref/No Auth Required | PAR |
 
@@ -83,7 +81,6 @@
 |----------|-------------|--------------|--------|
 | Albert Smolyar, MD | BCBS Federal | No Ref/No Auth Required | PAR |
 | Brian Marhue, OD | BCBS Federal | No Ref/No Auth Required | PAR |
-| Hunter Vittone, OD | BCBS Federal | No Ref/No Auth Required | PAR |
 | Penny Orr, OD | BCBS Federal | No Ref/No Auth Required | PAR |
 | Sarah Johnson, OD | BCBS Federal | No Ref/No Auth Required | PAR |
 

@@ -24,7 +24,6 @@
 |----------|-------------|--------------|--------|
 | Albert Smolyar, MD | BCBS OOS CA - REFERRAL AND AUTH REQ | Authorization Required | PAR |
 | Brian Marhue, OD | BCBS OOS CA - REFERRAL AND AUTH REQ | Authorization Required | PAR |
-| Hunter Vittone, OD | BCBS OOS CA - REFERRAL AND AUTH REQ | Authorization Required | PAR |
 | Penny Orr, OD | BCBS OOS CA - REFERRAL AND AUTH REQ | Authorization Required | PAR |
 | Sarah Johnson, OD | BCBS OOS CA - REFERRAL AND AUTH REQ | Authorization Required | PAR |
 

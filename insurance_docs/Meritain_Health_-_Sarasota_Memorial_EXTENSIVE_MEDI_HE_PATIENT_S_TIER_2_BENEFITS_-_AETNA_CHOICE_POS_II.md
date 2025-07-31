@@ -19,7 +19,6 @@
 | George Hurwitz, OD | Meritain Health SMH Extd  Pln | Authorization MAY be Required | PAR |
 | Giselle Vega, OD | Meritain Health SMH Extd  Pln | Authorization MAY be Required | PAR |
 | Gisselle Vrga Carraso | Meritain Health SMH Extd  Pln | Authorization MAY be Required | Non-PAR |
-| Hunter Vittone, OD | Meritain Health SMH Extd  Pln | Authorization MAY be Required | PAR |
 | James Lenhart, OD | Meritain Health SMH Extd  Pln | Authorization MAY be Required | PAR |
 | Joaquin De Rojas, MD | Meritain Health SMH Extd  Pln | Authorization MAY be Required | PAR |
 | John Fezza, MD (Oculoplastics) | Meritain Health SMH Extd  Pln | Authorization MAY be Required | PAR |
@@ -52,7 +51,6 @@
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
 | George Brinnig-Jastrzebski, MD | Meritain Health SMH Extd  Pln | Authorization MAY be Required | PAR |
-| Hunter Vittone, OD | Meritain Health SMH Extd  Pln | Authorization MAY be Required | PAR |
 | Jon Berlie, MD | Meritain Health SMH Extd  Pln | Authorization MAY be Required | PAR |
 | Julie Carter, MD | Meritain Health SMH Extd  Pln | Authorization MAY be Required | PAR |
 
@@ -83,7 +81,6 @@
 |----------|-------------|--------------|--------|
 | Albert Smolyar, MD | Meritain Health SMH Extd  Pln | Authorization MAY be Required | PAR |
 | Brian Marhue, OD | Meritain Health SMH Extd  Pln | Authorization MAY be Required | PAR |
-| Hunter Vittone, OD | Meritain Health SMH Extd  Pln | Authorization MAY be Required | PAR |
 | Penny Orr, OD | Meritain Health SMH Extd  Pln | Authorization MAY be Required | PAR |
 | Sarah Johnson, OD | Meritain Health SMH Extd  Pln | Authorization MAY be Required | PAR |
 

@@ -1,6 +1,6 @@
 # Insurance Guide By Insurance Plan
 
-*Last Updated: 07/25/2025 (based on data from Excel file: [US Eye Insurance Guide.xlsx](https://useyecorp.sharepoint.com/:x:/r/RCM/Shared%20Documents/Insurance%20Guides/US%20Eye%20Insurance%20Guide.xlsx?d=w2a2138d41fa04bfa919fc4966998346a&csf=1&web=1&e=73a3Gf&nav=MTVfezIwMjg5MTIyLTdDRkEtNEE0OS1CODBGLTdFNTc3Njc3OTJDNX0))*
+*Last Updated: 07/31/2025 (based on data from Excel file: [US Eye Insurance Guide.xlsx](https://useyecorp.sharepoint.com/:x:/r/RCM/Shared%20Documents/Insurance%20Guides/US%20Eye%20Insurance%20Guide.xlsx?d=w2a2138d41fa04bfa919fc4966998346a&csf=1&web=1&e=73a3Gf&nav=MTVfezIwMjg5MTIyLTdDRkEtNEE0OS1CODBGLTdFNTc3Njc3OTJDNX0))*
 
 *This guide lists insurance participation by insurance plan. Click an insurance plan to view all providers who accept that insurance, grouped by location.*
 
@@ -24,6 +24,7 @@
 * [Aetna Affordable Health Choices® limited benefits insurance plan (SRC only)](insurance_docs/Aetna_Affordable_Health_Choices_limited_benefits_insurance_plan_SRC_only.md)
 * [Aetna Banner Choice POS II Multi Tier](insurance_docs/Aetna_Banner_Choice_POS_II_Multi_Tier.md)
 * [Aetna CVS Health HMO](insurance_docs/Aetna_CVS_Health_HMO.md)
+* [Aetna CVS Health HMO (Bronze, Silver, Gold, Florida HMO plans)](insurance_docs/Aetna_CVS_Health_HMO_Bronze_Silver_Gold_Florida_HMO_plans.md)
 * [Aetna Choice POS II/ POS (Aetna HealthFund®)/POS II (Aetna HealthFund®)](insurance_docs/Aetna_Choice_POS_II_POS_Aetna_HealthFund_POS_II_Aetna_HealthFund.md)
 * [Aetna Commercial Healthfund - Aetna Open Access Aetna Select℠/Elect Choice® EPO /Managed Choice POS/Open Choice PPO/Choice POS & POS II/HealthNetwork Only and Health Network Option](insurance_docs/Aetna_Commercial_Healthfund_-_Aetna_Open_Access_Ae_OS_II_HealthNetwork_Only_and_Health_Network_Option.md)
 * [Aetna Commercial Innovation - Innovation Health Aetna Select/POS/PPO](insurance_docs/Aetna_Commercial_Innovation_-_Innovation_Health_Aetna_Select_POS_PPO.md)
@@ -404,6 +405,7 @@
 * [Tricare Select Routine Eye Exams are NON-covered. FOR THE PROVIDERS THAT ARE NON-PAR PATIENT HAS OON BENEFITS. PLEASE INFORM PATIENT OF POSSIBLE HIGHER OUT OF POCKET COSTS](insurance_docs/Tricare_Select_Routine_Eye_Exams_are_NON-covered.__ORM_PATIENT_OF_POSSIBLE_HIGHER_OUT_OF_POCKET_COSTS.md)
 * [UCare Medicare HMO CFS is OUT OF NETWORK. PATIENT HAS OON BENEFITS. PLEASE INFORM PATIENT OF POSSIBLE HIGHER OUT OF POCKET COSTS.](insurance_docs/UCare_Medicare_HMO_CFS_is_OUT_OF_NETWORK._PATIENT__RM_PATIENT_OF_POSSIBLE_HIGHER_OUT_OF_POCKET_COSTS..md)
 * [UHC Care Advantage FL-E001 (PPO I-SNP)](insurance_docs/UHC_Care_Advantage_FL-E001_PPO_I-SNP.md)
+* [UHC Global (PPO)](insurance_docs/UHC_Global_PPO.md)
 * [UHP Management (PHCS Network)](insurance_docs/UHP_Management_PHCS_Network.md)
 * [UMR (Choice Plus, Core, Freedom, NexusACO OAP, Options PPO, Select Plus POS Network)](insurance_docs/UMR_Choice_Plus_Core_Freedom_NexusACO_OAP_Options_PPO_Select_Plus_POS_Network.md)
 * [UMR (UHC Choice Plus Network, Core, Freedom, NEXAUSACO OAP, Options PPO, Select Plus POS)](insurance_docs/UMR_UHC_Choice_Plus_Network_Core_Freedom_NEXAUSACO_OAP_Options_PPO_Select_Plus_POS.md)

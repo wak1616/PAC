@@ -19,7 +19,6 @@
 | George Hurwitz, OD | Health Care Support - PHCS | No Ref/No Auth Required | PAR |
 | Giselle Vega, OD | Health Care Support - PHCS | No Ref/No Auth Required | Non-PAR |
 | Gisselle Vrga Carraso | Health Care Support - PHCS | No Ref/No Auth Required | Non-PAR |
-| Hunter Vittone, OD | Health Care Support - PHCS | No Ref/No Auth Required | PAR |
 | James Lenhart, OD | Health Care Support - PHCS | No Ref/No Auth Required | PAR |
 | Joaquin De Rojas, MD | Health Care Support - PHCS | No Ref/No Auth Required | PAR |
 | John Fezza, MD (Oculoplastics) | Health Care Support - PHCS | No Ref/No Auth Required | PAR |

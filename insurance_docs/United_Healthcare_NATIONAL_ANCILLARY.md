@@ -9,7 +9,6 @@
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
 | George Brinnig-Jastrzebski, MD | Self Pay Non-Par with Ins |  | Non-PAR |
-| Hunter Vittone, OD | Self Pay Non-Par with Ins |  | Non-PAR |
 | Jon Berlie, MD | Self Pay Non-Par with Ins |  | Non-PAR |
 | Julie Carter, MD | Self Pay Non-Par with Ins |  | Non-PAR |
 
@@ -40,7 +39,6 @@
 |----------|-------------|--------------|--------|
 | Albert Smolyar, MD | Self Pay Non-Par with Ins |  | Non-PAR |
 | Brian Marhue, OD | Self Pay Non-Par with Ins |  | Non-PAR |
-| Hunter Vittone, OD | Self Pay Non-Par with Ins |  | Non-PAR |
 | Penny Orr, OD | Self Pay Non-Par with Ins |  | Non-PAR |
 | Sarah Johnson, OD | Self Pay Non-Par with Ins |  | Non-PAR |
 

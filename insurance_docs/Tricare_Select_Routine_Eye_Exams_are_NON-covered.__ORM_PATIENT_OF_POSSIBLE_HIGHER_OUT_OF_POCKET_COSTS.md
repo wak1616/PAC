@@ -24,7 +24,6 @@
 |----------|-------------|--------------|--------|
 | Albert Smolyar, MD | Tricare Select | No Ref/No Auth Required | PAR |
 | Brian Marhue, OD | Tricare Select | No Ref/No Auth Required | Non-PAR -OON Benefits |
-| Hunter Vittone, OD | Tricare Select | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Penny Orr, OD | Tricare Select | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Sarah Johnson, OD | Tricare Select | No Ref/No Auth Required | Non-PAR -OON Benefits |
 

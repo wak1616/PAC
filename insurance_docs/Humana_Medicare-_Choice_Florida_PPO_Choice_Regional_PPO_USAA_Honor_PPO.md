@@ -9,7 +9,6 @@
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
 | George Brinnig-Jastrzebski, MD | Humana Medicare PPO | No Ref/No Auth Required | PAR |
-| Hunter Vittone, OD | Humana Medicare PPO | No Ref/No Auth Required | PAR |
 | Jon Berlie, MD | Humana Medicare PPO | No Ref/No Auth Required | PAR |
 | Julie Carter, MD | Humana Medicare PPO | No Ref/No Auth Required | PAR |
 

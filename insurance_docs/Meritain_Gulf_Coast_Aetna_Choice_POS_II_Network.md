@@ -19,7 +19,6 @@
 | George Hurwitz, OD | Meritain Health Commercial - Aetna | No Ref/No Auth Required | PAR |
 | Giselle Vega, OD | Meritain Health Commercial - Aetna | No Ref/No Auth Required | PAR |
 | Gisselle Vrga Carraso | Meritain Health Commercial - Aetna | No Ref/No Auth Required | Non-PAR |
-| Hunter Vittone, OD | Meritain Health Commercial - Aetna | No Ref/No Auth Required | PAR |
 | James Lenhart, OD | Meritain Health Commercial - Aetna | No Ref/No Auth Required | PAR |
 | Joaquin De Rojas, MD | Meritain Health Commercial - Aetna | No Ref/No Auth Required | PAR |
 | John Fezza, MD (Oculoplastics) | Meritain Health Commercial - Aetna | No Ref/No Auth Required | PAR |
@@ -52,7 +51,6 @@
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
 | George Brinnig-Jastrzebski, MD | Meritain Health Commercial - Aetna | No Ref/No Auth Required | PAR |
-| Hunter Vittone, OD | Meritain Health Commercial - Aetna | No Ref/No Auth Required | PAR |
 | Jon Berlie, MD | Meritain Health Commercial - Aetna | No Ref/No Auth Required | PAR |
 | Julie Carter, MD | Meritain Health Commercial - Aetna | No Ref/No Auth Required | PAR |
 
@@ -83,7 +81,6 @@
 |----------|-------------|--------------|--------|
 | Albert Smolyar, MD | Meritain Health Commercial - Aetna | No Ref/No Auth Required | PAR |
 | Brian Marhue, OD | Meritain Health Commercial - Aetna | No Ref/No Auth Required | PAR |
-| Hunter Vittone, OD | Meritain Health Commercial - Aetna | No Ref/No Auth Required | PAR |
 | Penny Orr, OD | Meritain Health Commercial - Aetna | No Ref/No Auth Required | PAR |
 | Sarah Johnson, OD | Meritain Health Commercial - Aetna | No Ref/No Auth Required | PAR |
 

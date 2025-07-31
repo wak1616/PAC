@@ -10,7 +10,6 @@
 |----------|-------------|--------------|--------|
 | Albert Smolyar, MD | Anthem BCBS Vision | No Ref/No Auth Required | Non-PAR |
 | Brian Marhue, OD | Anthem BCBS Vision | No Ref/No Auth Required | PAR |
-| Hunter Vittone, OD | Anthem BCBS Vision | No Ref/No Auth Required | PAR |
 | Penny Orr, OD | Anthem BCBS Vision | No Ref/No Auth Required | PAR |
 | Sarah Johnson, OD | Anthem BCBS Vision | No Ref/No Auth Required | PAR |
 

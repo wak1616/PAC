@@ -19,7 +19,6 @@
 | George Hurwitz, OD | Vitori Health Open Access Plan | No Ref/No Auth Required | PAR |
 | Giselle Vega, OD | Vitori Health Open Access Plan | No Ref/No Auth Required | Non-PAR |
 | Gisselle Vrga Carraso | Vitori Health Open Access Plan | No Ref/No Auth Required | Non-PAR |
-| Hunter Vittone, OD | Vitori Health Open Access Plan | No Ref/No Auth Required | PAR |
 | James Lenhart, OD | Vitori Health Open Access Plan | No Ref/No Auth Required | PAR |
 | Joaquin De Rojas, MD | Vitori Health Open Access Plan | No Ref/No Auth Required | PAR |
 | John Fezza, MD (Oculoplastics) | Vitori Health Open Access Plan | No Ref/No Auth Required | PAR |
@@ -52,7 +51,6 @@
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
 | George Brinnig-Jastrzebski, MD | Vitori Health Open Access Plan | No Ref/No Auth Required | PAR |
-| Hunter Vittone, OD | Vitori Health Open Access Plan | No Ref/No Auth Required | PAR |
 | Jon Berlie, MD | Vitori Health Open Access Plan | No Ref/No Auth Required | PAR |
 | Julie Carter, MD | Vitori Health Open Access Plan | No Ref/No Auth Required | PAR |
 

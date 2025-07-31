@@ -19,7 +19,6 @@
 | George Hurwitz, OD | UHC Commercial - SHL Emp Group | No Ref/No Auth Required | PAR |
 | Giselle Vega, OD | UHC Commercial - SHL Emp Group | No Ref/No Auth Required | PAR |
 | Gisselle Vrga Carraso | UHC Commercial - SHL Emp Group | No Ref/No Auth Required | Non-PAR |
-| Hunter Vittone, OD | UHC Commercial - SHL Emp Group | No Ref/No Auth Required | PAR |
 | James Lenhart, OD | UHC Commercial - SHL Emp Group | No Ref/No Auth Required | PAR |
 | Joaquin De Rojas, MD | UHC Commercial - SHL Emp Group | No Ref/No Auth Required | PAR |
 | John Fezza, MD (Oculoplastics) | UHC Commercial - SHL Emp Group | No Ref/No Auth Required | PAR |

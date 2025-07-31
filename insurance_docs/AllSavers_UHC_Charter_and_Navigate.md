@@ -9,7 +9,6 @@
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
 | George Brinnig-Jastrzebski, MD | All Savers Comm REFERRAL REQ - UHC | Referral Required | PAR |
-| Hunter Vittone, OD | All Savers Comm REFERRAL REQ - UHC | Referral Required | PAR |
 | Jon Berlie, MD | All Savers Comm REFERRAL REQ - UHC | Referral Required | PAR |
 | Julie Carter, MD | All Savers Comm REFERRAL REQ - UHC | Referral Required | PAR |
 
@@ -19,7 +18,6 @@
 |----------|-------------|--------------|--------|
 | Albert Smolyar, MD | All Savers Comm REFERRAL REQ - UHC | Referral Required | PAR |
 | Brian Marhue, OD | All Savers Comm REFERRAL REQ - UHC | Referral Required | PAR |
-| Hunter Vittone, OD | All Savers Comm REFERRAL REQ - UHC | Referral Required | PAR |
 | Penny Orr, OD | All Savers Comm REFERRAL REQ - UHC | Referral Required | PAR |
 | Sarah Johnson, OD | All Savers Comm REFERRAL REQ - UHC | Referral Required | PAR |
 

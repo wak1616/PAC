@@ -10,7 +10,6 @@
 |----------|-------------|--------------|--------|
 | Albert Smolyar, MD | Aetna Commercial PPO | No Ref/No Auth Required | PAR |
 | Brian Marhue, OD | Aetna Commercial PPO | No Ref/No Auth Required | PAR |
-| Hunter Vittone, OD | Aetna Commercial PPO | No Ref/No Auth Required | PAR |
 | Penny Orr, OD | Aetna Commercial PPO | No Ref/No Auth Required | PAR |
 | Sarah Johnson, OD | Aetna Commercial PPO | No Ref/No Auth Required | PAR |
 

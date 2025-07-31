@@ -9,7 +9,6 @@
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
 | George Brinnig-Jastrzebski, MD | BCBS FL Commercial PPO | No Ref/No Auth Required | PAR |
-| Hunter Vittone, OD | BCBS FL Commercial PPO | No Ref/No Auth Required | PAR |
 | Jon Berlie, MD | BCBS FL Commercial PPO | No Ref/No Auth Required | PAR |
 | Julie Carter, MD | BCBS FL Commercial PPO | No Ref/No Auth Required | PAR |
 

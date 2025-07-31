@@ -19,7 +19,6 @@
 | George Hurwitz, OD | UHC PPO/POS-87726 | No Ref/No Auth Required | PAR |
 | Giselle Vega, OD | UHC PPO/POS-87726 | No Ref/No Auth Required | PAR |
 | Gisselle Vrga Carraso | UHC PPO/POS-87726 | No Ref/No Auth Required | Non-PAR |
-| Hunter Vittone, OD | UHC PPO/POS-87726 | No Ref/No Auth Required | PAR |
 | James Lenhart, OD | UHC PPO/POS-87726 | No Ref/No Auth Required | PAR |
 | Joaquin De Rojas, MD | UHC PPO/POS-87726 | No Ref/No Auth Required | PAR |
 | John Fezza, MD (Oculoplastics) | UHC PPO/POS-87726 | No Ref/No Auth Required | PAR |

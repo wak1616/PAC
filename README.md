@@ -89,8 +89,9 @@ This protocol outlines the standard steps when scheduling patients who may or ma
 
 ### Instructions for Patient with Acute Issues
 
-This protocol details the steps taken to properly triage and schedule a patient with an acute issue.\
-\&#xNAN;_**NO** medical advice should be given to the patient by PAC agents._
+This protocol details the steps taken to properly triage and schedule a patient with an acute issue.  
+
+**NO medical advice should be given to the patient by PAC agents.**
 
 ***
 
@@ -283,7 +284,7 @@ Use this rule to override standard appointment templates if attempting to schedu
 
 * **AEC:** N/A
 * **CEP:** N/A
-* **CFS:** Dr. Len Brown, Dr. Daniel Hadland, Dr. Melissa Hammond, Dr. Erin Hardie, Dr. George Hurwitz, Dr. Todd Lang, Dr. James Lenhart, Dr. Lori Long, Dr. Casey Maloney, Dr. Elizabeth McVey, Dr. David Mertzlufft, Dr. Bradley Middaugh, Dr. Patrick Nelson, Dr. Logan Page, Dr. Charles Putrino, Dr. Rachel Randolph, Dr. Kyle Schaub, Dr. Joseph Sowka, Dr. Scott Stevens, Dr. Hunter Vittone, Dr. Callista Wlaschin, Dr. Trisha Werner
+* **CFS:** Dr. Len Brown, Dr. Daniel Hadland, Dr. Melissa Hammond, Dr. Erin Hardie, Dr. George Hurwitz, Dr. Todd Lang, Dr. James Lenhart, Dr. Lori Long, Dr. Casey Maloney, Dr. Elizabeth McVey, Dr. David Mertzlufft, Dr. Bradley Middaugh, Dr. Patrick Nelson, Dr. Logan Page, Dr. Charles Putrino, Dr. Rachel Randolph, Dr. Kyle Schaub, Dr. Joseph Sowka, Dr. Scott Stevens, Dr. Trisha Werner
 * **SFEC:** Dr. Sarah Johnson, Dr. Brian Marhue, Dr. Penny Orr, Dr. Hunter Vittone
 * **LEA:** Dr. Christine Bui, Dr. Mari Holderby, Dr. Diba Ossareh, Dr. Alexandria Rawls
 * **GEC, KEC, RHC:** N/A
@@ -417,16 +418,17 @@ These exams are usually performed annually and help maintain overall eye health.
 | **CFS**  | <p>Dr. Elizabeth Davis (does NOT fit contact lenses; book in blue short spots ONLY)<br>Dr. Jon Berlie<br>Dr. George Brinnig<br>Dr. Julie Carter</p> | <p>Dr. Len Brown<br>Dr. Daniel Hadland<br>Dr. Melissa Hammond<br>Dr. Erin Hardie<br>Dr. George Hurwitz<br>Dr. Todd Lang<br>Dr. James Lenhart<br>Dr. Lori Long<br>Dr. Michael Maloney<br>Dr. Mary McVey<br>Dr. David Mertzlufft<br>Dr. Bradley Middaugh<br>Dr. Patrick Nelson<br>Dr. Logan Page<br>Dr. Charles Putrino<br>Dr. Rachel Randolph<br>Dr. Kyle Schaub<br>Dr. Joseph Sowka<br>Dr. Scott Stevens<br>Dr. Lori Vollmer<br>Dr. Trisha Werner</p> |
 | **LEA**  | Dr. Jose Vazquez (does NOT fit contact lenses)                  | <p>Dr. Christine Bui<br>Dr. Mari Holderby<br>Dr. Diba Ossareh<br>Dr. Alexandria Rawls</p>                                                                                                                                                                                                                                                                                                                                                             |
 | **RHC**  | _(None listed)_                                                 | _(None listed)_                                                                                                                                                                                                                                                                                                                                                                                                                                       |
-| **SFEC** | Dr. Albert Smolyar                                              | <p>Dr. Sarah Johnson<br>Dr. Brian Marhue<br>Dr. Penny Orr<br>Dr. Hunter Vittone</p>                                                                                                                                                                                                                                                                                                                                                                   |
+| **SFEC** | Dr. Albert Smolyar                                              | <p>Dr. Sarah Johnson<br>Dr. Brian Marhue<br>Dr. Penny Orr</p>                                                                                                                                                                                                                                                                                                                                                                   |
 
 #### Important Reminders
 
-1. **Refraction rechecks** should always be scheduled with the **same provider** who performed the comprehensive exam. Patients should consult an optician first to check their glasses before scheduling a refraction recheck.
-2. If a patient **hasn't been seen in 3+ months**, a **comprehensive exam** is scheduled, **not** just a refraction.
-3. **Any OD** can see a patient for punctal plugs. Schedule in a light blue spot for a follow up and add in the appointment details: **"Punctal Plugs"** 
-4. **CFS/SFEC/LEA**: Do not schedule more than **two family members** in one day **per provider**.
-5. If you offer an appointment more than **10 days out**, you **must** offer to place the patient on the **waitlist** (in addition to scheduling them).
-6. ROTC exams are only done by Dr. Middaugh at the CFS Brantley Rd location. There is a limit of 2 per day (one in the AM and one on the PM). Scheduled as short visits with "ROTC Exam" in the appointment details.
+1. Make certain that every appointment is scheduled in **time order.**
+2. **Refraction rechecks** should always be scheduled with the **same provider** who performed the comprehensive exam. Patients should consult an optician first to check their glasses before scheduling a refraction recheck.
+3. If a patient **hasn't been seen in 3+ months**, a **comprehensive exam** is scheduled, **not** just a refraction.
+4. **Any OD** can see a patient for punctal plugs. Schedule in a light blue spot for a follow up and add in the appointment details: **"Punctal Plugs"** 
+5. **CFS/SFEC/LEA**: Do not schedule more than **two family members** in one day **per provider**.
+6. If you offer an appointment more than **10 days out**, you **must** offer to place the patient on the **waitlist** (in addition to scheduling them).
+7. ROTC exams are only done by Dr. Middaugh at the CFS Brantley Rd location. There is a limit of **2 per day** (one in the AM and one in the PM). Scheduled as short visits with "ROTC Exam" in the appointment details.
 
 #### Process
 
@@ -454,6 +456,9 @@ These exams are usually performed annually and help maintain overall eye health.
 2. **Exam Duration**
    * Comprehensive exams generally last **90–120 minutes**.
    * **Script**: "Because of the complexity and diagnostic testing, we usually need about 90 minutes. This ensures thorough care."
+3. **Self-Pay Pricing**  
+   a. The self-pay price for a comprehensive exam is typically **$150-$250**.  
+   b. **Script:** "The estimated costs for an exam can range between $150-$250. Once you have checked out, our check-out staff will provide your final self-pay costs. All costs are due at the time of the appointment."
 
 #### Closing Reminders
 
@@ -617,7 +622,8 @@ US Eye offers **Light Adjustable Lens**, **Advanced**, **Custom**, and **Basic**
 
 #### Important Reminders
 
-* If the appointment is >10 days out, offer to add patient to waitlist (in addition to scheduling).
+* Make certain every appointment is scheduled in **time order.**
+* If the appointment is **>10 days out**, offer to add patient to waitlist (in addition to scheduling).
 * Consultations are valid for **3 months**.
 * Surgery measurements (biometry/AVT) are valid for **6 months**.
 * **Vision plans cannot be used** for cataract consults.
@@ -715,9 +721,10 @@ Refractive procedures help improve the patient's vision to minimize dependence o
 
 #### Important Reminders
 
-* If you are offering an appointment that is more than 10 days out, please book the appointment but also offer to place the patient on the waitlist.
-* Refractive Consults are $128 and are not covered by insurance or vision plans.
-* Inform the patient that payment in full is due at check-in.
+* Make certain every appointment is scheduled in **time order.**
+* If you are offering an appointment that is more than **10 days out**, please book the appointment but also offer to place the patient on the waitlist.
+* Refractive Consults are **$128** and are **not covered by insurance or vision plans.**
+* Inform the patient that payment in full is **due at check-in.**
 
 #### Process
 
@@ -817,7 +824,8 @@ Follow the [Standard Closing Procedures](./#standard-closing-procedures-scriptin
 
 #### Important Reminders
 
-* If you are offering an appointment more than 10 days away, place the patient on the waitlist.
+* Make certain every appointment is scheduled in **time order.**
+* If you are offering an appointment more than **10 days away**, place the patient on the waitlist.
 * Vision plans **cannot** be used for cornea consultations.
 
 #### Contact Lens Discontinuation
@@ -904,6 +912,7 @@ Glaucoma is a disease caused by increased fluid pressure within the eye, potenti
 
 #### Important Reminders
 
+* Make certain every appointment is scheduled in **time order.**
 * If you offer an appointment more than **10 days away**, you **must** offer to place the patient on the **waitlist**.
 * **Vision Plans** cannot be used for glaucoma consultations.
 
@@ -971,10 +980,10 @@ The **retina** is a delicate, light-sensitive tissue lining the interior of the 
 
 #### Important Reminders
 
-1. **No Vision Plans**: Vision plans are not accepted for retina-related appointments.
-2. If the appointment is more than **10 days out**, you **must** offer to place the patient on the **waitlist**.
-3. Keep the patient with their existing provider whenever possible, unless they request a change. If a provider's schedule is fully booked, add the patient to the waitlist for a possible earlier opening.
-4. If scheduling **Valeda light therapy**, schedule as a consult and write in the appointment details "light therapy"
+1. Make certain every appointment is scheduled in **time order.**
+2. **No Vision Plans**: Vision plans are not accepted for retina-related appointments.
+3. If the appointment is more than **10 days out**, you **must** offer to place the patient on the **waitlist**.
+4. Keep the patient with their existing provider whenever possible, unless they request a change. If a provider's schedule is fully booked, add the patient to the waitlist for a possible earlier opening.
 5. **Injections**:
    * Must be scheduled at least **28 days** from the last injection (insurance will not reimburse earlier).
    * If >8 weeks since last injection, schedule a **Dilated Fundus** exam.
@@ -1070,7 +1079,10 @@ Oculoplastics consultations focus on facial and eyelid conditions and treatments
 
 #### Important Reminders
 
-* **CFS AMARA**: Transfer calls for AMARA scheduling to the AMARA quick connect.
+* Make certain every appointment is scheduled in **time order.**
+* **CFS AMARA**: Transfer calls for AMARA scheduling to the AMARA ext:
+   * 104401
+   * 103657
 * If offering an appointment more than **10 days out**, you **must** offer to place the patient on the **waitlist**.
 * **Vision plans** cannot be used for Oculoplastic Consultations.
 
@@ -1140,10 +1152,13 @@ Dermatology providers offer both surgical and non-surgical treatment options for
 
 #### Important Reminders
 
-* **AMARA:** Transfer all calls about AMARA scheduling to the AMARA quick connect.
-* If you offer an appointment more than 10 days away, you **must** offer to place the patient on the **waitlist**.
+* Make certain every appointment is scheduled in **time order.**
+* **AMARA:** Transfer all calls about AMARA scheduling to the AMARA:
+   * 104401
+   * 103657
+* If you offer an appointment more than **10 days away**, you **must** offer to place the patient on the **waitlist**.
 * If Dr. Newman is out of the office or booking too far out, offer the patient an appointment with Shannon Bednarz for the same services (excluding Mohs).
-* When Dr. Newman is out, one of his team is still available for **tech-only visits** (e.g., suture removals).
+* When Dr. Newman is out, one of his team is still available for tech-only visits (e.g., suture removals).
 * **Laser – KTP** treatments are performed by **Shannon Bednarz** at the AMARA location.
 
 #### Process
@@ -1247,7 +1262,10 @@ Below are the listed providers at Center For Sight, along with the services they
 
 #### Important Reminders
 
-* Transfer all calls for **AMARA** scheduling to the AMARA quick connect.
+* Make certain every appointment is scheduled in **time order.**
+* Transfer all calls for **AMARA** scheduling to the AMARA ext:
+   * 104401
+   * 103657
 * Aesthetician services are **elective** and **not covered** by insurance.
 * **CoolSculpting** is only offered at **AMARA (1370 Venice)**.
 * **Morpheus 8** is only offered at **AMARA (1370 Venice) on Thursdays** when Dr. Fezza is in office.
@@ -1410,6 +1428,7 @@ Incoming calls for **Optical** route to designated regional ring groups.
 * All optical staff must assist in answering calls when not busy with in-office patients.
 * Unanswered calls go to a group voicemail (checked daily).
 * Voicemails should be returned same business day.
+* When sending an email be sure to include all patient information including location, name, date of birth, medical records number, and phone number.
 
 #### **Contact Lens Phone Orders**
 

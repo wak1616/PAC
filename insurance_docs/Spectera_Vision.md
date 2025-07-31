@@ -19,7 +19,6 @@
 | George Hurwitz, OD | Spectera Vision | No Ref/No Auth Required | Non-PAR |
 | Giselle Vega, OD | Spectera Vision | No Ref/No Auth Required | Non-PAR |
 | Gisselle Vrga Carraso | Spectera Vision | No Ref/No Auth Required | Non-PAR |
-| Hunter Vittone, OD | Spectera Vision | No Ref/No Auth Required | PAR |
 | James Lenhart, OD | Spectera Vision | No Ref/No Auth Required | Non-PAR |
 | Joaquin De Rojas, MD | Spectera Vision | No Ref/No Auth Required | Non-PAR |
 | John Fezza, MD (Oculoplastics) | Spectera Vision | No Ref/No Auth Required | Non-PAR |
@@ -52,7 +51,6 @@
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
 | George Brinnig-Jastrzebski, MD | Self Pay Non-Par with Ins |  | Non-PAR |
-| Hunter Vittone, OD | Self Pay Non-Par with Ins |  | Non-PAR |
 | Jon Berlie, MD | Self Pay Non-Par with Ins |  | Non-PAR |
 | Julie Carter, MD | Self Pay Non-Par with Ins |  | Non-PAR |
 
@@ -76,7 +74,6 @@
 |----------|-------------|--------------|--------|
 | Albert Smolyar, MD | Self Pay Non-Par with Ins |  | Non-PAR |
 | Brian Marhue, OD | Self Pay Non-Par with Ins |  | Non-PAR |
-| Hunter Vittone, OD | Self Pay Non-Par with Ins |  | Non-PAR |
 | Penny Orr, OD | Self Pay Non-Par with Ins |  | Non-PAR |
 | Sarah Johnson, OD | Self Pay Non-Par with Ins |  | Non-PAR |
 

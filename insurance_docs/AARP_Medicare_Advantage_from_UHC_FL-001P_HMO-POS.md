@@ -31,7 +31,6 @@
 |----------|-------------|--------------|--------|
 | Albert Smolyar, MD | UHC AARP Medicare Advantage HMO-87726 | No Ref/No Auth Required | PAR |
 | Brian Marhue, OD | UHC AARP Medicare Advantage HMO-87726 | No Ref/No Auth Required | PAR |
-| Hunter Vittone, OD | UHC AARP Medicare Advantage HMO-87726 | No Ref/No Auth Required | PAR |
 | Penny Orr, OD | UHC AARP Medicare Advantage HMO-87726 | No Ref/No Auth Required | PAR |
 | Sarah Johnson, OD | UHC AARP Medicare Advantage HMO-87726 | No Ref/No Auth Required | PAR |
 

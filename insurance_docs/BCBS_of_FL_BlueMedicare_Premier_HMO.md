@@ -9,7 +9,6 @@
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
 | George Brinnig-Jastrzebski, MD | BCBS FL Medicare HMO REFERRAL REQ | Referral Required | PAR |
-| Hunter Vittone, OD | BCBS FL Medicare HMO REFERRAL REQ | Referral Required | PAR |
 | Jon Berlie, MD | BCBS FL Medicare HMO REFERRAL REQ | Referral Required | PAR |
 | Julie Carter, MD | BCBS FL Medicare HMO REFERRAL REQ | Referral Required | PAR |
 
@@ -19,7 +18,6 @@
 |----------|-------------|--------------|--------|
 | Albert Smolyar, MD | BCBS FL Medicare HMO REFERRAL REQ | Referral Required | PAR |
 | Brian Marhue, OD | BCBS FL Medicare HMO REFERRAL REQ | Referral Required | PAR |
-| Hunter Vittone, OD | BCBS FL Medicare HMO REFERRAL REQ | Referral Required | PAR |
 | Penny Orr, OD | BCBS FL Medicare HMO REFERRAL REQ | Referral Required | PAR |
 | Sarah Johnson, OD | BCBS FL Medicare HMO REFERRAL REQ | Referral Required | PAR |
 

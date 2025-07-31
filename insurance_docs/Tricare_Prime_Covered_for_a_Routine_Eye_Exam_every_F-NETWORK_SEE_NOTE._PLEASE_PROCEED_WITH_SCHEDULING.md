@@ -10,7 +10,6 @@
 |----------|-------------|--------------|--------|
 | Albert Smolyar, MD | Tricare Prime - REFERRAL REQ | Referral Required | PAR |
 | Brian Marhue, OD | Tricare Prime - REFERRAL REQ | Referral Required | Non-PAR -OON Benefits |
-| Hunter Vittone, OD | Tricare Prime - REFERRAL REQ | Referral Required | Non-PAR -OON Benefits |
 | Penny Orr, OD | Tricare Prime - REFERRAL REQ | Referral Required | Non-PAR -OON Benefits |
 | Sarah Johnson, OD | Tricare Prime - REFERRAL REQ | Referral Required | Non-PAR -OON Benefits |
 

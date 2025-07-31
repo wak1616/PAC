@@ -19,7 +19,6 @@
 | George Hurwitz, OD | BCBS FL Medicare PPO | No Ref/No Auth Required | PAR |
 | Giselle Vega, OD | BCBS FL Medicare PPO | No Ref/No Auth Required | Non-PAR |
 | Gisselle Vrga Carraso | BCBS FL Medicare PPO | No Ref/No Auth Required | Non-PAR |
-| Hunter Vittone, OD | BCBS FL Medicare PPO | No Ref/No Auth Required | PAR |
 | James Lenhart, OD | BCBS FL Medicare PPO | No Ref/No Auth Required | PAR |
 | Joaquin De Rojas, MD | BCBS FL Medicare PPO | No Ref/No Auth Required | PAR |
 | John Fezza, MD (Oculoplastics) | BCBS FL Medicare PPO | No Ref/No Auth Required | PAR |

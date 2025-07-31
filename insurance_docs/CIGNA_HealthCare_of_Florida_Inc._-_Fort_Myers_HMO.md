@@ -17,7 +17,6 @@
 |----------|-------------|--------------|--------|
 | Albert Smolyar, MD | Cigna Commercial HMO | No Ref/No Auth Required | PAR |
 | Brian Marhue, OD | Cigna Commercial HMO | No Ref/No Auth Required | PAR |
-| Hunter Vittone, OD | Cigna Commercial HMO | No Ref/No Auth Required | PAR |
 | Penny Orr, OD | Cigna Commercial HMO | No Ref/No Auth Required | PAR |
 | Sarah Johnson, OD | Cigna Commercial HMO | No Ref/No Auth Required | PAR |
 

@@ -1,8 +1,8 @@
-# Aetna Standard Plan- Aetna HMO/ HMO Gold/ Silver - Insurance Guide
+# Aetna CVS Health HMO (Bronze, Silver, Gold, Florida HMO plans) - Insurance Guide
 
-*This page lists providers who accept Aetna Standard Plan- Aetna HMO/ HMO Gold/ Silver, grouped by location.*
+*This page lists providers who accept Aetna CVS Health HMO (Bronze, Silver, Gold, Florida HMO plans), grouped by location.*
 
-<details open><summary>Provider Details for Aetna Standard Plan- Aetna HMO/ HMO Gold/ Silver</summary>
+<details open><summary>Provider Details for Aetna CVS Health HMO (Bronze, Silver, Gold, Florida HMO plans)</summary>
 
 ## Center for Sight
 
@@ -45,6 +45,14 @@
 | Todd Lang, OD | Aetna Commercial HMO REFERRAL REQ | Referral Required | PAR |
 | Trisha Werner, OD | Aetna Commercial HMO REFERRAL REQ | Referral Required | PAR |
 | William Soscia, MD | Aetna Commercial HMO REFERRAL REQ | Referral Required | PAR |
+
+## Center for Sight-Naples
+
+| Provider | NextGen Name | Referral/Auth | Status |
+|----------|-------------|--------------|--------|
+| George Brinnig-Jastrzebski, MD | Aetna Commercial HMO REFERRAL REQ | Referral Required | PAR |
+| Jon Berlie, MD | Aetna Commercial HMO REFERRAL REQ | Referral Required | PAR |
+| Julie Carter, MD | Aetna Commercial HMO REFERRAL REQ | Referral Required | PAR |
 
 </details>
 

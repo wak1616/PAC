@@ -14,7 +14,7 @@
 | AARP Medicare Advantage HMO- WELLMED (Payer ID is WELM2) | UHC AARP Medicare Advantage HMO-WELM2 | No Ref/No Auth Required | PAR |
 | AARP Medicare Advantage Patriot No Rx FL-MA01 (Regional PPO) | UHC AARP Medicare Advantage PPO-87726 | No Ref/No Auth Required | PAR |
 | AARP Medicare Advantage PPO- WELLMED (Payer ID is WELM2) | UHC AARP Medicare Advantage PPO-WELM2 | No Ref/No Auth Required | PAR |
-| Aetna CVS Health HMO | Aetna Commercial HMO REFERRAL REQ | Referral Required | PAR |
+| Aetna CVS Health HMO (Bronze, Silver, Gold, Florida HMO plans) | Aetna Commercial HMO REFERRAL REQ | Referral Required | PAR |
 | Aetna HealthFund- Aetna Health Network Only/ Network Option℠ (Open Access) | Aetna Commercial PPO | No Ref/No Auth Required | PAR |
 | Aetna Healthfund- Aetna Open Access Aetna Select/ Choice PPO / POS / POS II | Aetna Commercial PPO | No Ref/No Auth Required | PAR |
 | Aetna Healthfund- Aetna Open Access Elect Choice EPO | Aetna Commercial PPO | No Ref/No Auth Required | PAR |
@@ -186,6 +186,7 @@
 | United Healthcare Dual Complete™ PPO SNP | Primary: UHC Dual Complete PPO-87726                                                              Secondary: Medicaid Secondary | No Ref/No Auth Required | PAR |
 | United Healthcare ER Wrap (W500 on back of card) | UHC ER Wrap | Authorization Required | PAR |
 | United Healthcare FL CHIP ALL MEDICAID | Self Pay Non-Par with Ins |  | Non-PAR |
+| UHC Global (PPO) | UHC Global  USN01 | No Ref/No Auth Required | PAR |
 | United Healthcare Group Medicare Advantage (PPO) | UHC Medicare Advantage PPO-87726 | No Ref/No Auth Required | PAR |
 | United Healthcare Group Medicare Advantage HMO | UHC AARP Advantage HMO-87726 | No Ref/No Auth Required | PAR |
 | United Healthcare Group Medicare Advantage Johnson & Johnson Retiree Employees (PPO) patient will have Johnson & Johnson in red on the top right of their card | UHC Medicare PPO J and J Retiree-87726 | No Ref/No Auth Required | PAR |
@@ -216,7 +217,7 @@
 | Versant: Davis Vision | Self Pay Non-Par with Ins |  | Non-PAR |
 | Versant: Superior Vision | Superior Vision | Authorization Required | Non-PAR |
 | Vitori Health Open Access Plan | Vitori Health Open Access Plan | No Ref/No Auth Required | PAR |
-| VSP Vision | Vision Service Plan | Authorization Required | Non-PAR |
+| VSP Vision | Vision Service Plan | Authorization Required | PAR |
 | Web TPA | Web TPA | No Ref/No Auth Required | Non-PAR |
 | Wellcare Medicare HMO | Self Pay Non-Par with Ins |  | Non-PAR |
 | Wellcare Medicare PPO CFS is OUT OF NETWORK. PATIENT HAS OON BENEFITS. PLEASE INFORM PATIENT OF POSSIBLE HIGHER OUT OF POCKET COSTS. BENEFIT MUST BE CHECKED PRIOR TO APPT | WellCare Medicare PPO | Authorization MAY BE Required | Non-PAR -OON Benefits |
