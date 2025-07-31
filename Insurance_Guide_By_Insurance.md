@@ -1,6 +1,6 @@
 # Insurance Guide By Insurance Plan
 
-*Last Updated: 07/30/2025 (based on data from Excel file: [US Eye Insurance Guide.xlsx](https://useyecorp.sharepoint.com/:x:/r/RCM/Shared%20Documents/Insurance%20Guides/US%20Eye%20Insurance%20Guide.xlsx?d=w2a2138d41fa04bfa919fc4966998346a&csf=1&web=1&e=73a3Gf&nav=MTVfezIwMjg5MTIyLTdDRkEtNEE0OS1CODBGLTdFNTc3Njc3OTJDNX0))*
+*Last Updated: 07/31/2025 (based on data from Excel file: [US Eye Insurance Guide.xlsx](https://useyecorp.sharepoint.com/:x:/r/RCM/Shared%20Documents/Insurance%20Guides/US%20Eye%20Insurance%20Guide.xlsx?d=w2a2138d41fa04bfa919fc4966998346a&csf=1&web=1&e=73a3Gf&nav=MTVfezIwMjg5MTIyLTdDRkEtNEE0OS1CODBGLTdFNTc3Njc3OTJDNX0))*
 
 *This guide lists insurance participation by insurance plan. Click an insurance plan to view all providers who accept that insurance, grouped by location.*
 
@@ -405,6 +405,7 @@
 * [Tricare Select Routine Eye Exams are NON-covered. FOR THE PROVIDERS THAT ARE NON-PAR PATIENT HAS OON BENEFITS. PLEASE INFORM PATIENT OF POSSIBLE HIGHER OUT OF POCKET COSTS](insurance_docs/Tricare_Select_Routine_Eye_Exams_are_NON-covered.__ORM_PATIENT_OF_POSSIBLE_HIGHER_OUT_OF_POCKET_COSTS.md)
 * [UCare Medicare HMO CFS is OUT OF NETWORK. PATIENT HAS OON BENEFITS. PLEASE INFORM PATIENT OF POSSIBLE HIGHER OUT OF POCKET COSTS.](insurance_docs/UCare_Medicare_HMO_CFS_is_OUT_OF_NETWORK._PATIENT__RM_PATIENT_OF_POSSIBLE_HIGHER_OUT_OF_POCKET_COSTS..md)
 * [UHC Care Advantage FL-E001 (PPO I-SNP)](insurance_docs/UHC_Care_Advantage_FL-E001_PPO_I-SNP.md)
+* [UHC Global (PPO)](insurance_docs/UHC_Global_PPO.md)
 * [UHP Management (PHCS Network)](insurance_docs/UHP_Management_PHCS_Network.md)
 * [UMR (Choice Plus, Core, Freedom, NexusACO OAP, Options PPO, Select Plus POS Network)](insurance_docs/UMR_Choice_Plus_Core_Freedom_NexusACO_OAP_Options_PPO_Select_Plus_POS_Network.md)
 * [UMR (UHC Choice Plus Network, Core, Freedom, NEXAUSACO OAP, Options PPO, Select Plus POS)](insurance_docs/UMR_UHC_Choice_Plus_Network_Core_Freedom_NEXAUSACO_OAP_Options_PPO_Select_Plus_POS.md)

@@ -19,7 +19,6 @@
 | George Hurwitz, OD | Aetna Medicare HMO POS | No Ref/No Auth Required | PAR |
 | Giselle Vega, OD | Aetna Medicare HMO POS | No Ref/No Auth Required | PAR |
 | Gisselle Vrga Carraso | Aetna Medicare HMO POS | No Ref/No Auth Required | Non-PAR |
-| Hunter Vittone, OD | Aetna Medicare HMO POS | No Ref/No Auth Required | PAR |
 | James Lenhart, OD | Aetna Medicare HMO POS | No Ref/No Auth Required | PAR |
 | Joaquin De Rojas, MD | Aetna Medicare HMO POS | No Ref/No Auth Required | PAR |
 | John Fezza, MD (Oculoplastics) | Aetna Medicare HMO POS | No Ref/No Auth Required | PAR |
@@ -53,7 +52,6 @@
 |----------|-------------|--------------|--------|
 | Albert Smolyar, MD | Aetna Medicare HMO POS |  | PAR |
 | Brian Marhue, OD | Aetna Medicare HMO POS |  | PAR |
-| Hunter Vittone, OD | Aetna Medicare HMO POS |  | PAR |
 | Penny Orr, OD | Aetna Medicare HMO POS |  | PAR |
 | Sarah Johnson, OD | Aetna Medicare HMO POS |  | PAR |
 

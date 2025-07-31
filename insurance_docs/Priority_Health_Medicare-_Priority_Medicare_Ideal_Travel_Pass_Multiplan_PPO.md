@@ -19,7 +19,6 @@
 | George Hurwitz, OD | Priority Health Medicare PPO - Multiplan | No Ref/No Auth Required | PAR |
 | Giselle Vega, OD | Priority Health Medicare PPO - Multiplan | No Ref/No Auth Required | PAR |
 | Gisselle Vrga Carraso | Priority Health Medicare PPO - Multiplan | No Ref/No Auth Required | Non-PAR |
-| Hunter Vittone, OD | Priority Health Medicare PPO - Multiplan | No Ref/No Auth Required | PAR |
 | James Lenhart, OD | Priority Health Medicare PPO - Multiplan | No Ref/No Auth Required | PAR |
 | Joaquin De Rojas, MD | Priority Health Medicare PPO - Multiplan | No Ref/No Auth Required | PAR |
 | John Fezza, MD (Oculoplastics) | Priority Health Medicare PPO - Multiplan | No Ref/No Auth Required | PAR |
@@ -52,7 +51,6 @@
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
 | George Brinnig-Jastrzebski, MD | Priority Health Medicare PPO - Multiplan | No Ref/No Auth Required | PAR |
-| Hunter Vittone, OD | Priority Health Medicare PPO - Multiplan | No Ref/No Auth Required | PAR |
 | Jon Berlie, MD | Priority Health Medicare PPO - Multiplan | No Ref/No Auth Required | PAR |
 | Julie Carter, MD | Priority Health Medicare PPO - Multiplan | No Ref/No Auth Required | PAR |
 

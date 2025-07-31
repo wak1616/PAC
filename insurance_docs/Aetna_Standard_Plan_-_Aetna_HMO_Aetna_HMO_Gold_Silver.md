@@ -9,7 +9,6 @@
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
 | George Brinnig-Jastrzebski, MD | Aetna Comm HMO Referral Req | Referral Required | PAR |
-| Hunter Vittone, OD | Aetna Comm HMO Referral Req | Referral Required | PAR |
 | Jon Berlie, MD | Aetna Comm HMO Referral Req | Referral Required | PAR |
 | Julie Carter, MD | Aetna Comm HMO Referral Req | Referral Required | PAR |
 

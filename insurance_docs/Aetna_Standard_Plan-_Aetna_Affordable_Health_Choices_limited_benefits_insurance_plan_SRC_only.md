@@ -19,7 +19,6 @@
 | George Hurwitz, OD | Aetna Comm Fixed Benefits PPO | No Ref/No Auth Required | PAR |
 | Giselle Vega, OD | Aetna Comm Fixed Benefits PPO | No Ref/No Auth Required | PAR |
 | Gisselle Vrga Carraso | Aetna Comm Fixed Benefits PPO | No Ref/No Auth Required | Non-PAR |
-| Hunter Vittone, OD | Aetna Comm Fixed Benefits PPO | No Ref/No Auth Required | PAR |
 | James Lenhart, OD | Aetna Comm Fixed Benefits PPO | No Ref/No Auth Required | PAR |
 | Joaquin De Rojas, MD | Aetna Comm Fixed Benefits PPO | No Ref/No Auth Required | PAR |
 | John Fezza, MD (Oculoplastics) | Aetna Comm Fixed Benefits PPO | No Ref/No Auth Required | PAR |
@@ -52,7 +51,6 @@
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
 | George Brinnig-Jastrzebski, MD | Aetna Comm Fixed Benefits PPO | No Ref/No Auth Required | PAR |
-| Hunter Vittone, OD | Aetna Comm Fixed Benefits PPO | No Ref/No Auth Required | PAR |
 | Jon Berlie, MD | Aetna Comm Fixed Benefits PPO | No Ref/No Auth Required | PAR |
 | Julie Carter, MD | Aetna Comm Fixed Benefits PPO | No Ref/No Auth Required | PAR |
 

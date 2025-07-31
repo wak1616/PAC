@@ -19,7 +19,6 @@
 | George Hurwitz, OD | Self Pay Non-Par with Ins |  | Non-PAR |
 | Giselle Vega, OD | Self Pay Non-Par with Ins |  | Non-PAR |
 | Gisselle Vrga Carraso | Self Pay Non-Par with Ins |  | Non-PAR |
-| Hunter Vittone, OD | Self Pay Non-Par with Ins |  | Non-PAR |
 | James Lenhart, OD | Self Pay Non-Par with Ins |  | Non-PAR |
 | Joaquin De Rojas, MD | Self Pay Non-Par with Ins |  | Non-PAR |
 | John Fezza, MD (Oculoplastics) | Self Pay Non-Par with Ins |  | Non-PAR |

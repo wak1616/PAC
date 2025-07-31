@@ -19,7 +19,6 @@
 | George Hurwitz, OD | Aetna Commercial HMO REFERRAL REQ | Referral Required | PAR |
 | Giselle Vega, OD | Aetna Commercial HMO REFERRAL REQ | Referral Required | PAR |
 | Gisselle Vrga Carraso | Aetna Commercial HMO REFERRAL REQ | Referral Required | Non-PAR |
-| Hunter Vittone, OD | Aetna Commercial HMO REFERRAL REQ | Referral Required | PAR |
 | James Lenhart, OD | Aetna Commercial HMO REFERRAL REQ | Referral Required | PAR |
 | Joaquin De Rojas, MD | Aetna Commercial HMO REFERRAL REQ | Referral Required | PAR |
 | John Fezza, MD (Oculoplastics) | Aetna Commercial HMO REFERRAL REQ | Referral Required | PAR |
@@ -52,7 +51,6 @@
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
 | George Brinnig-Jastrzebski, MD | Aetna Commercial HMO REFERRAL REQ | Referral Required | PAR |
-| Hunter Vittone, OD | Aetna Commercial HMO REFERRAL REQ | Referral Required | PAR |
 | Jon Berlie, MD | Aetna Commercial HMO REFERRAL REQ | Referral Required | PAR |
 | Julie Carter, MD | Aetna Commercial HMO REFERRAL REQ | Referral Required | PAR |
 

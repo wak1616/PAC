@@ -19,7 +19,6 @@
 | George Hurwitz, OD | UHC Comm HMO REFERRAL REQ | Referral Required | PAR |
 | Giselle Vega, OD | UHC Comm HMO REFERRAL REQ | Referral Required | PAR |
 | Gisselle Vrga Carraso | UHC Comm HMO REFERRAL REQ | Referral Required | Non-PAR |
-| Hunter Vittone, OD | UHC Comm HMO REFERRAL REQ | Referral Required | PAR |
 | James Lenhart, OD | UHC Comm HMO REFERRAL REQ | Referral Required | PAR |
 | Joaquin De Rojas, MD | UHC Comm HMO REFERRAL REQ | Referral Required | PAR |
 | John Fezza, MD (Oculoplastics) | UHC Comm HMO REFERRAL REQ | Referral Required | PAR |
@@ -52,7 +51,6 @@
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
 | George Brinnig-Jastrzebski, MD | UHC Comm HMO REFERRAL REQ | Referral Required | PAR |
-| Hunter Vittone, OD | UHC Comm HMO REFERRAL REQ | Referral Required | PAR |
 | Jon Berlie, MD | UHC Comm HMO REFERRAL REQ | Referral Required | PAR |
 | Julie Carter, MD | UHC Comm HMO REFERRAL REQ | Referral Required | PAR |
 
@@ -69,7 +67,6 @@
 |----------|-------------|--------------|--------|
 | Albert Smolyar, MD | UHC Comm HMO Referral REQ | Referral Required | PAR |
 | Brian Marhue, OD | UHC Comm HMO Referral REQ | Referral Required | PAR |
-| Hunter Vittone, OD | UHC Comm HMO Referral REQ | Referral Required | PAR |
 | Penny Orr, OD | UHC Comm HMO Referral REQ | Referral Required | PAR |
 | Sarah Johnson, OD | UHC Comm HMO Referral REQ | Referral Required | PAR |
 

@@ -9,7 +9,6 @@
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
 | George Brinnig-Jastrzebski, MD | Self Pay Non-Par with Ins | Authorization Required | Non-PAR |
-| Hunter Vittone, OD | Self Pay Non-Par with Ins | Authorization Required | PAR |
 | Jon Berlie, MD | Self Pay Non-Par with Ins | Authorization Required | Non-PAR |
 | Julie Carter, MD | Self Pay Non-Par with Ins | Authorization Required | Non-PAR |
 

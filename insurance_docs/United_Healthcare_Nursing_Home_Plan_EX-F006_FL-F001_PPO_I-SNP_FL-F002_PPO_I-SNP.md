@@ -10,7 +10,6 @@
 |----------|-------------|--------------|--------|
 | Albert Smolyar, MD | UHC Nursing Home Plan FL PPO-87726 | No Ref/No Auth Required | PAR |
 | Brian Marhue, OD | UHC Nursing Home Plan FL PPO-87726 | No Ref/No Auth Required | PAR |
-| Hunter Vittone, OD | UHC Nursing Home Plan FL PPO-87726 | No Ref/No Auth Required | PAR |
 | Penny Orr, OD | UHC Nursing Home Plan FL PPO-87726 | No Ref/No Auth Required | PAR |
 | Sarah Johnson, OD | UHC Nursing Home Plan FL PPO-87726 | No Ref/No Auth Required | PAR |
 

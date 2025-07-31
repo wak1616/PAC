@@ -19,7 +19,6 @@
 | George Hurwitz, OD | UHC Surest-25463 Commercial - UHC | No Ref/No Auth Required | PAR |
 | Giselle Vega, OD | UHC Surest-25463 Commercial - UHC | No Ref/No Auth Required | PAR |
 | Gisselle Vrga Carraso | UHC Surest-25463 Commercial - UHC | No Ref/No Auth Required | Non-PAR |
-| Hunter Vittone, OD | UHC Surest-25463 Commercial - UHC | No Ref/No Auth Required | PAR |
 | James Lenhart, OD | UHC Surest-25463 Commercial - UHC | No Ref/No Auth Required | PAR |
 | Joaquin De Rojas, MD | UHC Surest-25463 Commercial - UHC | No Ref/No Auth Required | PAR |
 | John Fezza, MD (Oculoplastics) | UHC Surest-25463 Commercial - UHC | No Ref/No Auth Required | PAR |
@@ -52,7 +51,6 @@
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
 | George Brinnig-Jastrzebski, MD | UHC Surest-25463 Commercial - UHC | No Ref/No Auth Required | PAR |
-| Hunter Vittone, OD | UHC Surest-25463 Commercial - UHC | No Ref/No Auth Required | PAR |
 | Jon Berlie, MD | UHC Surest-25463 Commercial - UHC | No Ref/No Auth Required | PAR |
 | Julie Carter, MD | UHC Surest-25463 Commercial - UHC | No Ref/No Auth Required | PAR |
 
@@ -83,7 +81,6 @@
 |----------|-------------|--------------|--------|
 | Albert Smolyar, MD | UHC Surest-25463 | No Ref/No Auth Required | PAR |
 | Brian Marhue, OD | UHC Surest-25463 | No Ref/No Auth Required | PAR |
-| Hunter Vittone, OD | UHC Surest-25463 | No Ref/No Auth Required | PAR |
 | Penny Orr, OD | UHC Surest-25463 | No Ref/No Auth Required | PAR |
 | Sarah Johnson, OD | UHC Surest-25463 | No Ref/No Auth Required | PAR |
 

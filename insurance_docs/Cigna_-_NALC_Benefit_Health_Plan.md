@@ -18,8 +18,7 @@
 | Erin Hardie, OD | NALC Health Benefit Plan- Cigna | No Ref/No Auth Required | PAR |
 | George Hurwitz, OD | NALC Health Benefit Plan- Cigna | No Ref/No Auth Required | PAR |
 | Giselle Vega, OD | NALC Health Benefit Plan- Cigna | No Ref/No Auth Required | Non-PAR |
-| Gisselle Vrga Carraso | NALC Health Benefit Plan- Cigna | No Ref/No Auth Required | Non-PAR |
-| Hunter Vittone, OD | NALC Health Benefit Plan- Cigna | No Ref/No Auth Required | PAR |
+| Gisselle Vrga Carraso | NALC Health Benefit Plan- Cigna | No Ref/No Auth Required | PAR |
 | James Lenhart, OD | NALC Health Benefit Plan- Cigna | No Ref/No Auth Required | PAR |
 | Joaquin De Rojas, MD | NALC Health Benefit Plan- Cigna | No Ref/No Auth Required | PAR |
 | John Fezza, MD (Oculoplastics) | NALC Health Benefit Plan- Cigna | No Ref/No Auth Required | PAR |

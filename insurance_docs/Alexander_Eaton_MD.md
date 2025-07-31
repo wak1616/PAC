@@ -148,6 +148,7 @@
 | United Healthcare ER Wrap (W500 on back of card) | UHC ER Wrap | Authorization Required | PAR |
 | United Healthcare FL ALL Medicaid plans | Self Pay Non-Par with Ins |  | Non-PAR |
 | United Healthcare FL CHIP | Self Pay Non-Par with Ins |  | Non-PAR |
+| UHC Global (PPO) | UHC Global  USN01 | No Ref/No Auth Required | PAR |
 | United Healthcare Group Medicare Advantage (PPO) | UHC Medicare Advantage PPO-87726 | No Ref/No Auth Required | PAR |
 | United Healthcare Heritage ALL Plans | Self Pay Non-Par with Ins |  | Non-PAR |
 | United Healthcare Indemnity-we will only accept this plan as a secondary/supplement | Self Pay Non-Par with Ins |  | Non-PAR |

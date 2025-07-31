@@ -19,7 +19,6 @@
 | George Hurwitz, OD | MBA TPA Commercial - Cigna | No Ref/No Auth Required | PAR |
 | Giselle Vega, OD | MBA TPA Commercial - Cigna | No Ref/No Auth Required | Non-PAR |
 | Gisselle Vrga Carraso | MBA TPA Commercial - Cigna | No Ref/No Auth Required | Non-PAR |
-| Hunter Vittone, OD | MBA TPA Commercial - Cigna | No Ref/No Auth Required | PAR |
 | James Lenhart, OD | MBA TPA Commercial - Cigna | No Ref/No Auth Required | PAR |
 | Joaquin De Rojas, MD | MBA TPA Commercial - Cigna | No Ref/No Auth Required | PAR |
 | John Fezza, MD (Oculoplastics) | MBA TPA Commercial - Cigna | No Ref/No Auth Required | PAR |
@@ -52,7 +51,6 @@
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
 | George Brinnig-Jastrzebski, MD | MBA TPA Commercial - Cigna | No Ref/No Auth Required | PAR |
-| Hunter Vittone, OD | MBA TPA Commercial - Cigna | No Ref/No Auth Required | PAR |
 | Jon Berlie, MD | MBA TPA Commercial - Cigna | No Ref/No Auth Required | PAR |
 | Julie Carter, MD | MBA TPA Commercial - Cigna | No Ref/No Auth Required | PAR |
 

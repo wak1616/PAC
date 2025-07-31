@@ -19,7 +19,6 @@
 | George Hurwitz, OD | Cigna Medicare HMO REFERRAL REQUIRED | Referral Required | PAR |
 | Giselle Vega, OD | Cigna Medicare HMO REFERRAL REQUIRED | Referral Required | Non-PAR |
 | Gisselle Vrga Carraso | Cigna Medicare HMO REFERRAL REQUIRED | Referral Required | Non-PAR |
-| Hunter Vittone, OD | Cigna Medicare HMO REFERRAL REQUIRED | Referral Required | PAR |
 | James Lenhart, OD | Cigna Medicare HMO REFERRAL REQUIRED | Referral Required | PAR |
 | Joaquin De Rojas, MD | Cigna Medicare HMO REFERRAL REQUIRED | Referral Required | PAR |
 | John Fezza, MD (Oculoplastics) | Cigna Medicare HMO REFERRAL REQUIRED | Referral Required | PAR |
@@ -52,7 +51,6 @@
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
 | George Brinnig-Jastrzebski, MD | Cigna Medicare HMO REFERRAL REQUIRED | Referral Required | Non-PAR |
-| Hunter Vittone, OD | Cigna Medicare HMO REFERRAL REQUIRED | Referral Required | Non-PAR |
 | Jon Berlie, MD | Cigna Medicare HMO REFERRAL REQUIRED | Referral Required | Non-PAR |
 | Julie Carter, MD | Cigna Medicare HMO REFERRAL REQUIRED | Referral Required | PAR |
 

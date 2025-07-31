@@ -19,7 +19,6 @@
 | George Hurwitz, OD | UHC Harvard Pilgrim-39026 | No Ref/No Auth Required | PAR |
 | Giselle Vega, OD | UHC Harvard Pilgrim-39026 | No Ref/No Auth Required | Non-PAR |
 | Gisselle Vrga Carraso | UHC Harvard Pilgrim-39026 | No Ref/No Auth Required | Non-PAR |
-| Hunter Vittone, OD | UHC Harvard Pilgrim-39026 | No Ref/No Auth Required | PAR |
 | James Lenhart, OD | UHC Harvard Pilgrim-39026 | No Ref/No Auth Required | PAR |
 | Joaquin De Rojas, MD | UHC Harvard Pilgrim-39026 | No Ref/No Auth Required | PAR |
 | John Fezza, MD (Oculoplastics) | UHC Harvard Pilgrim-39026 | No Ref/No Auth Required | PAR |
@@ -52,7 +51,6 @@
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
 | George Brinnig-Jastrzebski, MD | UHC Harvard Pilgrim-39026 | No Ref/No Auth Required | PAR |
-| Hunter Vittone, OD | UHC Harvard Pilgrim-39026 | No Ref/No Auth Required | PAR |
 | Jon Berlie, MD | UHC Harvard Pilgrim-39026 | No Ref/No Auth Required | PAR |
 | Julie Carter, MD | UHC Harvard Pilgrim-39026 | No Ref/No Auth Required | PAR |
 
@@ -69,7 +67,6 @@
 |----------|-------------|--------------|--------|
 | Albert Smolyar, MD | UHC Harvard Pilgrim-39026 | No Ref/No Auth Required | PAR |
 | Brian Marhue, OD | UHC Harvard Pilgrim-39026 | No Ref/No Auth Required | PAR |
-| Hunter Vittone, OD | UHC Harvard Pilgrim-39026 | No Ref/No Auth Required | PAR |
 | Penny Orr, OD | UHC Harvard Pilgrim-39026 | No Ref/No Auth Required | PAR |
 | Sarah Johnson, OD | UHC Harvard Pilgrim-39026 | No Ref/No Auth Required | PAR |
 

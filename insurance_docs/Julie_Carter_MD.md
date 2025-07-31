@@ -188,6 +188,7 @@
 | United Healthcare ER Wrap (W500 on back of card) | UHC ER Wrap | Authorization Required | PAR |
 | United Healthcare FL CHIP ALL MEDICAID | Self Pay Non-Par with Ins |  | Non-PAR |
 | United Healthcare Group Medicare Advantage (HMO) | UHC AARP Advantage HMO-87726 | No Ref/No Auth Required | PAR |
+| UHC Global (PPO) | UHC Global  USN01 | No Ref/No Auth Required | PAR |
 | United Healthcare Group Medicare Advantage (PPO) | UHC Medicare Advantage PPO-87726 | No Ref/No Auth Required | PAR |
 | United Healthcare Heritage ALL PLANS | Self Pay Non-Par with Ins |  | Non-PAR |
 | United Healthcare Indemnity-we will only accept this plan as a secondary/supplement | Self Pay Non-Par with Ins |  | Non-PAR |

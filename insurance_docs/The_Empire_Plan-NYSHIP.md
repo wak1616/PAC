@@ -9,7 +9,6 @@
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
 | George Brinnig-Jastrzebski, MD | UHC Empire Plan-NYSHIP-87726 | No Ref/No Auth Required | PAR |
-| Hunter Vittone, OD | UHC Empire Plan-NYSHIP-87726 | No Ref/No Auth Required | PAR |
 | Jon Berlie, MD | UHC Empire Plan-NYSHIP-87726 | No Ref/No Auth Required | PAR |
 | Julie Carter, MD | UHC Empire Plan-NYSHIP-87726 | No Ref/No Auth Required | PAR |
 
@@ -40,7 +39,6 @@
 |----------|-------------|--------------|--------|
 | Albert Smolyar, MD | UHC Empire Plan-NYSHIP-87726 | No Ref/No Auth Required | PAR |
 | Brian Marhue, OD | UHC Empire Plan-NYSHIP-87726 | No Ref/No Auth Required | PAR |
-| Hunter Vittone, OD | UHC Empire Plan-NYSHIP-87726 | No Ref/No Auth Required | PAR |
 | Penny Orr, OD | UHC Empire Plan-NYSHIP-87726 | No Ref/No Auth Required | PAR |
 | Sarah Johnson, OD | UHC Empire Plan-NYSHIP-87726 | No Ref/No Auth Required | PAR |
 

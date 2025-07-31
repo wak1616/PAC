@@ -10,7 +10,6 @@
 |----------|-------------|--------------|--------|
 | Albert Smolyar, MD | BCBS FL Medicare PPO | No Ref/No Auth Required | PAR |
 | Brian Marhue, OD | BCBS FL Medicare PPO | No Ref/No Auth Required | PAR |
-| Hunter Vittone, OD | BCBS FL Medicare PPO | No Ref/No Auth Required | PAR |
 | Penny Orr, OD | BCBS FL Medicare PPO | No Ref/No Auth Required | PAR |
 | Sarah Johnson, OD | BCBS FL Medicare PPO | No Ref/No Auth Required | PAR |
 

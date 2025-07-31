@@ -19,7 +19,6 @@
 | George Hurwitz, OD | Cigna Medicare PPO |  | PAR |
 | Giselle Vega, OD | Cigna Medicare PPO |  | Non-PAR |
 | Gisselle Vrga Carraso | Cigna Medicare PPO |  | Non-PAR |
-| Hunter Vittone, OD | Cigna Medicare PPO |  | PAR |
 | James Lenhart, OD | Cigna Medicare PPO |  | PAR |
 | Joaquin De Rojas, MD | Cigna Medicare PPO |  | PAR |
 | John Fezza, MD (Oculoplastics) | Cigna Medicare PPO |  | PAR |
@@ -52,7 +51,6 @@
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
 | George Brinnig-Jastrzebski, MD | Self Pay Non-Par with Ins |  | PAR |
-| Hunter Vittone, OD | Self Pay Non-Par with Ins |  | PAR |
 | Jon Berlie, MD | Self Pay Non-Par with Ins |  | PAR |
 | Julie Carter, MD | Self Pay Non-Par with Ins |  | PAR |
 
@@ -69,7 +67,6 @@
 |----------|-------------|--------------|--------|
 | Albert Smolyar, MD | Cigna Medicare PPO |  | PAR |
 | Brian Marhue, OD | Cigna Medicare PPO |  | PAR |
-| Hunter Vittone, OD | Cigna Medicare PPO |  | PAR |
 | Penny Orr, OD | Cigna Medicare PPO |  | PAR |
 | Sarah Johnson, OD | Cigna Medicare PPO |  | PAR |
 

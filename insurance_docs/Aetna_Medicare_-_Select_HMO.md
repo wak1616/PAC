@@ -19,7 +19,6 @@
 | George Hurwitz, OD | Aetna Medicare HMO REFERRAL REQ | Referral Required | Non-PAR |
 | Giselle Vega, OD | Aetna Medicare HMO REFERRAL REQ | Referral Required | PAR |
 | Gisselle Vrga Carraso | Aetna Medicare HMO REFERRAL REQ | Referral Required | Non-PAR |
-| Hunter Vittone, OD | Aetna Medicare HMO REFERRAL REQ | Referral Required | Non-PAR |
 | James Lenhart, OD | Aetna Medicare HMO REFERRAL REQ | Referral Required | Non-PAR |
 | Joaquin De Rojas, MD | Aetna Medicare HMO REFERRAL REQ | Referral Required | Non-PAR |
 | John Fezza, MD (Oculoplastics) | Aetna Medicare HMO REFERRAL REQ | Referral Required | PAR |
@@ -52,7 +51,6 @@
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
 | George Brinnig-Jastrzebski, MD | Aetna Medicare HMO REFERRAL REQ | Referral Required | PAR |
-| Hunter Vittone, OD | Aetna Medicare HMO REFERRAL REQ | Referral Required | PAR |
 | Jon Berlie, MD | Aetna Medicare HMO REFERRAL REQ | Referral Required | PAR |
 | Julie Carter, MD | Aetna Medicare HMO REFERRAL REQ | Referral Required | PAR |
 
@@ -76,7 +74,6 @@
 |----------|-------------|--------------|--------|
 | Albert Smolyar, MD | Aetna Medicare HMO REFERRAL REQ | Referral Required | PAR |
 | Brian Marhue, OD | Aetna Medicare HMO REFERRAL REQ | Referral Required | Non-PAR |
-| Hunter Vittone, OD | Aetna Medicare HMO REFERRAL REQ | Referral Required | Non-PAR |
 | Penny Orr, OD | Aetna Medicare HMO REFERRAL REQ | Referral Required | Non-PAR |
 | Sarah Johnson, OD | Aetna Medicare HMO REFERRAL REQ | Referral Required | Non-PAR |
 

@@ -19,7 +19,6 @@
 | George Hurwitz, OD | Allied National Open Access | No Ref/No Auth Required | PAR |
 | Giselle Vega, OD | Allied National Open Access | No Ref/No Auth Required | Non-PAR |
 | Gisselle Vrga Carraso | Allied National Open Access | No Ref/No Auth Required | Non-PAR |
-| Hunter Vittone, OD | Allied National Open Access | No Ref/No Auth Required | PAR |
 | James Lenhart, OD | Allied National Open Access | No Ref/No Auth Required | PAR |
 | Joaquin De Rojas, MD | Allied National Open Access | No Ref/No Auth Required | PAR |
 | John Fezza, MD (Oculoplastics) | Allied National Open Access | No Ref/No Auth Required | PAR |
@@ -52,7 +51,6 @@
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
 | George Brinnig-Jastrzebski, MD | Allied National Open Access | No Ref/No Auth Required | PAR |
-| Hunter Vittone, OD | Allied National Open Access | No Ref/No Auth Required | PAR |
 | Jon Berlie, MD | Allied National Open Access | No Ref/No Auth Required | PAR |
 | Julie Carter, MD | Allied National Open Access | No Ref/No Auth Required | PAR |
 

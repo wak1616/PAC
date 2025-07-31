@@ -19,7 +19,6 @@
 | George Hurwitz, OD | Medicare Part B | No Ref/No Auth Required | PAR |
 | Giselle Vega, OD | Medicare Part B | No Ref/No Auth Required | PAR |
 | Gisselle Vrga Carraso | Medicare Part B | No Ref/No Auth Required | OK to Schedule-HOLD Claims until PAR |
-| Hunter Vittone, OD | Medicare Part B | No Ref/No Auth Required | PAR |
 | James Lenhart, OD | Medicare Part B | No Ref/No Auth Required | PAR |
 | Joaquin De Rojas, MD | Medicare Part B | No Ref/No Auth Required | PAR |
 | John Fezza, MD (Oculoplastics) | Medicare Part B | No Ref/No Auth Required | PAR |
@@ -52,7 +51,6 @@
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
 | George Brinnig-Jastrzebski, MD | Medicare Part B | No Ref/No Auth Required | PAR |
-| Hunter Vittone, OD | Medicare Part B | No Ref/No Auth Required | PAR |
 | Jon Berlie, MD | Medicare Part B | No Ref/No Auth Required | PAR |
 | Julie Carter, MD | Medicare Part B | No Ref/No Auth Required | PAR |
 
@@ -83,7 +81,6 @@
 |----------|-------------|--------------|--------|
 | Albert Smolyar, MD | Medicare Part B | No Ref/No Auth Required | PAR |
 | Brian Marhue, OD | Medicare Part B | No Ref/No Auth Required | PAR |
-| Hunter Vittone, OD | Medicare Part B | No Ref/No Auth Required | PAR |
 | Penny Orr, OD | Medicare Part B | No Ref/No Auth Required | PAR |
 | Sarah Johnson, OD | Medicare Part B | No Ref/No Auth Required | PAR |
 

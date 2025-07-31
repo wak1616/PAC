@@ -19,7 +19,6 @@
 | George Hurwitz, OD | All Savers Comm REFERRAL REQ - UHC | Referral Required | PAR |
 | Giselle Vega, OD | All Savers Comm REFERRAL REQ - UHC | Referral Required | Non-PAR |
 | Gisselle Vrga Carraso | All Savers Comm REFERRAL REQ - UHC | Referral Required | Non-PAR |
-| Hunter Vittone, OD | All Savers Comm REFERRAL REQ - UHC | Referral Required | PAR |
 | James Lenhart, OD | All Savers Comm REFERRAL REQ - UHC | Referral Required | PAR |
 | Joaquin De Rojas, MD | All Savers Comm REFERRAL REQ - UHC | Referral Required | PAR |
 | John Fezza, MD (Oculoplastics) | All Savers Comm REFERRAL REQ - UHC | Referral Required | PAR |

@@ -9,7 +9,6 @@
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
 | George Brinnig-Jastrzebski, MD | UHC Comm HMO REFERRAL REQ | Referral Required | PAR |
-| Hunter Vittone, OD | UHC Comm HMO REFERRAL REQ | Referral Required | PAR |
 | Jon Berlie, MD | UHC Comm HMO REFERRAL REQ | Referral Required | PAR |
 | Julie Carter, MD | UHC Comm HMO REFERRAL REQ | Referral Required | PAR |
 
@@ -40,7 +39,6 @@
 |----------|-------------|--------------|--------|
 | Albert Smolyar, MD | UHC Comm HMO Referral REQ | Referral Required | PAR |
 | Brian Marhue, OD | UHC Comm HMO Referral REQ | Referral Required | PAR |
-| Hunter Vittone, OD | UHC Comm HMO Referral REQ | Referral Required | PAR |
 | Penny Orr, OD | UHC Comm HMO Referral REQ | Referral Required | PAR |
 | Sarah Johnson, OD | UHC Comm HMO Referral REQ | Referral Required | PAR |
 

@@ -19,7 +19,6 @@
 | George Hurwitz, OD | AvMed Commercial HMO | No Ref/No Auth Required | PAR |
 | Giselle Vega, OD | AvMed Commercial HMO | No Ref/No Auth Required | Non-PAR |
 | Gisselle Vrga Carraso | AvMed Commercial HMO | No Ref/No Auth Required | Non-PAR |
-| Hunter Vittone, OD | AvMed Commercial HMO | No Ref/No Auth Required | Non-PAR |
 | James Lenhart, OD | AvMed Commercial HMO | No Ref/No Auth Required | PAR |
 | Joaquin De Rojas, MD | AvMed Commercial HMO | No Ref/No Auth Required | PAR |
 | John Fezza, MD (Oculoplastics) | AvMed Commercial HMO | No Ref/No Auth Required | PAR |
@@ -52,7 +51,6 @@
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
 | George Brinnig-Jastrzebski, MD | AvMed Commercial HMO | No Ref/No Auth Required | Non-PAR |
-| Hunter Vittone, OD | AvMed Commercial HMO | No Ref/No Auth Required | Non-PAR |
 | Jon Berlie, MD | AvMed Commercial HMO | No Ref/No Auth Required | PAR |
 | Julie Carter, MD | AvMed Commercial HMO | No Ref/No Auth Required | PAR |
 

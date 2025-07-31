@@ -186,6 +186,7 @@
 | United Healthcare Dual Complete™ PPO SNP | Primary: UHC Dual Complete PPO-87726                                                              Secondary: Medicaid Secondary | No Ref/No Auth Required | Non-PAR |
 | United Healthcare ER Wrap (W500 on back of card) | UHC ER Wrap | Authorization Required | PAR |
 | United Healthcare FL CHIP ALL MEDICAID | Self Pay Non-Par with Ins |  | Non-PAR |
+| UHC Global (PPO) | UHC Global  USN01 | No Ref/No Auth Required | PAR |
 | United Healthcare Group Medicare Advantage (PPO) | UHC Medicare Advantage PPO-87726 | No Ref/No Auth Required | PAR |
 | United Healthcare Group Medicare Advantage HMO | UHC AARP Advantage HMO-87726 | No Ref/No Auth Required | PAR |
 | United Healthcare Group Medicare Advantage Johnson & Johnson Retiree Employees (PPO) patient will have Johnson & Johnson in red on the top right of their card | UHC Medicare PPO J and J Retiree-87726 | No Ref/No Auth Required | PAR |

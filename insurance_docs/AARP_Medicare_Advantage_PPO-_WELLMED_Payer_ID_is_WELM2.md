@@ -19,7 +19,6 @@
 | George Hurwitz, OD | UHC AARP Medicare Advantage PPO-WELM2 | No Ref/No Auth Required | PAR |
 | Giselle Vega, OD | UHC AARP Medicare Advantage PPO-WELM2 | No Ref/No Auth Required | Non-PAR |
 | Gisselle Vrga Carraso | UHC AARP Medicare Advantage PPO-WELM2 | No Ref/No Auth Required | Non-PAR |
-| Hunter Vittone, OD | UHC AARP Medicare Advantage PPO-WELM2 | No Ref/No Auth Required | PAR |
 | James Lenhart, OD | UHC AARP Medicare Advantage PPO-WELM2 | No Ref/No Auth Required | PAR |
 | Joaquin De Rojas, MD | UHC AARP Medicare Advantage PPO-WELM2 | No Ref/No Auth Required | PAR |
 | John Fezza, MD (Oculoplastics) | UHC AARP Medicare Advantage PPO-WELM2 | No Ref/No Auth Required | PAR |
@@ -52,7 +51,6 @@
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
 | George Brinnig-Jastrzebski, MD | UHC AARP Medicare Advantage PPO-WELM2 | No Ref/No Auth Required | PAR |
-| Hunter Vittone, OD | UHC AARP Medicare Advantage PPO-WELM2 | No Ref/No Auth Required | PAR |
 | Jon Berlie, MD | UHC AARP Medicare Advantage PPO-WELM2 | No Ref/No Auth Required | PAR |
 | Julie Carter, MD | UHC AARP Medicare Advantage PPO-WELM2 | No Ref/No Auth Required | PAR |
 
@@ -83,7 +81,6 @@
 |----------|-------------|--------------|--------|
 | Albert Smolyar, MD | UHC AARP Medicare Advantage PPO-WELM2 | No Ref/No Auth Required | PAR |
 | Brian Marhue, OD | UHC AARP Medicare Advantage PPO-WELM2 | No Ref/No Auth Required | PAR |
-| Hunter Vittone, OD | UHC AARP Medicare Advantage PPO-WELM2 | No Ref/No Auth Required | PAR |
 | Penny Orr, OD | UHC AARP Medicare Advantage PPO-WELM2 | No Ref/No Auth Required | PAR |
 | Sarah Johnson, OD | UHC AARP Medicare Advantage PPO-WELM2 | No Ref/No Auth Required | PAR |
 

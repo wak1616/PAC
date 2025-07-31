@@ -108,20 +108,20 @@
 | Carefirst Commercial - CareFirst Regional-BlueChoice Plus Gold/ BlueChoice HMO Standard/BlueChoice HMO HSA/HRA Gold BlueChoice HMO Gold Virtual Connect | Carefirst BCBS Commercial HMO | No Ref/No Auth Required | Non-PAR |
 | ChampVA (VACCN) | Champva | No Ref/No Auth Required | Non-PAR |
 | CHCBP Claims - Tricare East - CFS is OUT OF NETWORK. PATIENT HAS OON BENEFITS. PLEASE INFORM PATIENT OF POSSIBLE HIGHER OUT OF POCKET COSTS. Routine Eye Exams are NON-covered | CHCBP Claims | No Ref/No Auth Required | Non-PAR -OON Benefits |
-| Cigna - NALC Benefit Health Plan | NALC Health Benefit Plan- Cigna | No Ref/No Auth Required | Non-PAR |
-| Cigna Commercial- ChoiceFund OA Plus/ Cigna ChoiceFund OA Plus with CareLink | Cigna Commercial PPO | No Ref/No Auth Required | Non-PAR |
+| Cigna - NALC Benefit Health Plan | NALC Health Benefit Plan- Cigna | No Ref/No Auth Required | PAR |
+| Cigna Commercial- ChoiceFund OA Plus/ Cigna ChoiceFund OA Plus with CareLink | Cigna Commercial PPO | No Ref/No Auth Required | PAR |
 | Cigna Commercial- Florida Connect EPO | Self Pay Non-Par with Ins |  | Non-PAR |
-| Cigna Commercial- HealthCare of Florida, Inc. - Fort Myers HMO | Cigna Commercial HMO | No Ref/No Auth Required | Non-PAR |
+| Cigna Commercial- HealthCare of Florida, Inc. - Fort Myers HMO | Cigna Commercial HMO | No Ref/No Auth Required | PAR |
 | CIGNA Commercial- HealthCare of Florida, Inc. - Tampa HMO | Cigna Commercial HMO | No Ref/No Auth Required | Non-PAR |
-| CIGNA Commercial- HealthCare Seamless Network - Florida | Cigna Commercial PPO | No Ref/No Auth Required | Non-PAR |
+| CIGNA Commercial- HealthCare Seamless Network - Florida | Cigna Commercial PPO | No Ref/No Auth Required | PAR |
 | Cigna Commercial -Local Plus | Cigna Commercial PPO | No Ref/No Auth Required | Non-PAR |
-| Cigna Commercial- Open Access Plus/ Carelink Open Access Plus/PPO/Choice Fund PPO | Cigna Commercial PPO | No Ref/No Auth Required | Non-PAR |
-| Cigna Global Health Benefits (BENEFITS/ELIGIBILITY NEEDS TO BE CHECKED EVERYTIME) | Cigna International | Authorization Required | Non-PAR |
+| Cigna Commercial- Open Access Plus/ Carelink Open Access Plus/PPO/Choice Fund PPO | Cigna Commercial PPO | No Ref/No Auth Required | PAR |
+| Cigna Global Health Benefits (BENEFITS/ELIGIBILITY NEEDS TO BE CHECKED EVERYTIME) | Cigna International | Authorization Required | PAR |
 | Cigna Medicare HMO- Preferred/Preferred Savings Medicare/Courage | Cigna Medicare HMO REFERRAL REQUIRED | Referral Required | Non-PAR |
 | Cigna Medicare PPO | Cigna Medicare PPO |  | Non-PAR |
 | Cigna Medicare- TotalCare/Total Care Plus HMO D-SNP | Primary: Cigna Dual MDCR HMO Primary-REFERRAL REQ                                                      Secondary: Cigna Dual Medicaid HMO Secondary | Referral Required | Non-PAR |
 | Cigna Oscar- Open Access Plus/Local Plus | Self Pay Non-Par with Ins |  | Non-PAR |
-| Cigna TotalCare Plus HMO D-SNP | Primary: Cigna Dual MDCR HMO Primary-REFERRAL REQ                                                      Secondary: Cigna Dual Medicaid HMO Secondary | Referral Required | Non-PAR |
+| Cigna TotalCare Plus HMO D-SNP | Primary: Cigna Dual MDCR HMO Primary-REFERRAL REQ                                                      Secondary: Cigna Dual Medicaid HMO Secondary | Referral Required | PAR |
 | Dean Health Plan PPO - First Health | Dean Health Plan PPO | No Ref/No Auth Required | Non-PAR |
 | Division of Blind | Division of Blind | Authorization Required | Non-PAR |
 | Employee Benefits Management Services (EMBS) with Aetna Network | EBMS Commercial PPO - Aetna | No Ref/No Auth Required | Non-PAR |
@@ -149,7 +149,7 @@
 | Meritain Health - Sarasota Memorial (BASIC AND/OR COMPREHENSIVE PLAN) PLEASE ASK THE PATIENT IF THE CARD HAS "SMH" ON THEIR CARD. IF THE CARD SAYS BASIC OR COMPREHENSIVE PLAN, WE ARE OUT OF NETWORK AND THERE ARE NO OON BENEFITS | Self Pay Non-Par with Ins |  | Non-PAR |
 | Meritain Health - Sarasota Memorial (EXTENSIVE MEDICAL PLAN) PLEASE ASK THE PATIENT IF THE CARD HAS "SMH" ON THEIR CARD AND THE CARD MUST SAY EXTENDED MEDICAL PLAN. THE EXTENDED MEDICAL PLAN APPLIES TOWARDS THE PATIENT'S TIER 2 BENEFITS - AETNA CHOICE POS II | Meritain Health SMH Extd  Pln | Authorization MAY be Required | Non-PAR |
 | Multiplan PLEASE ASK THE PATIENT FOR THE HEALTH PLAN NAME ON THE CARD AND LOAD THE PLAN INTO NEXTGEN ACCORDING TO THEIR HEALTH PLAN | PLEASE ASK THE PATIENT FOR THE HEALTH PLAN NAME ON THE CARD. IF THE PAYER IS NOT LOADED INTO THE SYSTEM, USE: INS NOT IN NEXTGEN. SEE: Generic Insurance Protocol - PAC, Front Desk, and Customer Service.pdf |  | PAR |
-| NALC Health Benefit Plan (Cigna Open Access Plus Network) | NALC Health Benefit Plan- Cigna | No Ref/No Auth Required | Non-PAR |
+| NALC Health Benefit Plan (Cigna Open Access Plus Network) | NALC Health Benefit Plan- Cigna | No Ref/No Auth Required | PAR |
 | Optum VA-Veterans Affairs Community Care Network CCN | Optum VA Community Care | Authorization Required | Non-PAR |
 | Oscar EPO | Self Pay Non-Par with Ins |  | Non-PAR |
 | PHCS PLEASE ASK THE PATIENT FOR THE HEALTH PLAN NAME ON THE CARD AND LOAD THE PLAN INTO NEXTGEN ACCORDING TO THEIR HEALTH PLAN | PLEASE ASK THE PATIENT FOR THE HEALTH PLAN NAME ON THE CARD. IF THE PAYER IS NOT LOADED INTO THE SYSTEM, USE: INS NOT IN NEXTGEN. SEE: Generic Insurance Protocol - PAC, Front Desk, and Customer Service.pdf |  | PAR |
@@ -186,6 +186,7 @@
 | United Healthcare Dual Complete™ PPO SNP | Primary: UHC Dual Complete PPO-87726                                                              Secondary: Medicaid Secondary | No Ref/No Auth Required | Non-PAR |
 | United Healthcare ER Wrap (W500 on back of card) | UHC ER Wrap | Authorization Required | Non-PAR |
 | United Healthcare FL CHIP ALL MEDICAID | Self Pay Non-Par with Ins |  | Non-PAR |
+| UHC Global (PPO) | UHC Global  USN01 | No Ref/No Auth Required | PAR |
 | United Healthcare Group Medicare Advantage (PPO) | UHC Medicare Advantage PPO-87726 | No Ref/No Auth Required | Non-PAR |
 | United Healthcare Group Medicare Advantage HMO | UHC AARP Advantage HMO-87726 | No Ref/No Auth Required | Non-PAR |
 | United Healthcare Group Medicare Advantage Johnson & Johnson Retiree Employees (PPO) patient will have Johnson & Johnson in red on the top right of their card | UHC Medicare PPO J and J Retiree-87726 | No Ref/No Auth Required | Non-PAR |

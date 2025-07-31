@@ -19,7 +19,6 @@
 | George Hurwitz, OD | Priority Health Comm HMO | No Ref/No Auth Required | PAR |
 | Giselle Vega, OD | Priority Health Comm HMO | No Ref/No Auth Required | Non-PAR |
 | Gisselle Vrga Carraso | Priority Health Comm HMO | No Ref/No Auth Required | Non-PAR |
-| Hunter Vittone, OD | Priority Health Comm HMO | No Ref/No Auth Required | PAR |
 | James Lenhart, OD | Priority Health Comm HMO | No Ref/No Auth Required | PAR |
 | Joaquin De Rojas, MD | Priority Health Comm HMO | No Ref/No Auth Required | PAR |
 | John Fezza, MD (Oculoplastics) | Priority Health Comm HMO | No Ref/No Auth Required | Non-PAR |
@@ -52,7 +51,6 @@
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
 | George Brinnig-Jastrzebski, MD | Priority Health Comm | No Ref/No Auth Required | PAR |
-| Hunter Vittone, OD | Priority Health Comm | No Ref/No Auth Required | PAR |
 | Jon Berlie, MD | Priority Health Comm | No Ref/No Auth Required | PAR |
 | Julie Carter, MD | Priority Health Comm | No Ref/No Auth Required | PAR |
 

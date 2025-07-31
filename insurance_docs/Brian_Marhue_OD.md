@@ -175,6 +175,7 @@
 | United Healthcare Dual Complete™ (PPO SNP) | Primary: UHC Dual Complete PPO-87726                                                              Secondary: Medicaid Secondary | No Ref/No Auth Required | PAR |
 | United Healthcare ER Wrap (W500 on back of card) | UHC ER Wrap | Authorization Required | PAR |
 | United Healthcare FL CHIP ALL MEDICAID | Self Pay Non-Par with Ins |  | Non-PAR |
+| UHC Global (PPO) | UHC Global  USN01 | No Ref/No Auth Required | PAR |
 | United Healthcare Group Medicare Advantage (HMO) | UHC AARP Medicare Advantage PPO-87726 | No Ref/No Auth Required | PAR |
 | United Healthcare Group Medicare Advantage (PPO) | UHC Medicare Advantage PPO-87726 | No Ref/No Auth Required | PAR |
 | United Healthcare Heritage ALL PLANS | Self Pay Non-Par with Ins |  | Non-PAR |

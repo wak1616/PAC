@@ -19,7 +19,6 @@
 | George Hurwitz, OD | BCBS OOS CA - REFERRAL AND AUTH REQ- | Authorization Required | PAR |
 | Giselle Vega, OD | BCBS OOS CA - REFERRAL AND AUTH REQ- | Authorization Required | Non-PAR |
 | Gisselle Vrga Carraso | BCBS OOS CA - REFERRAL AND AUTH REQ- | Authorization Required | Non-PAR |
-| Hunter Vittone, OD | BCBS OOS CA - REFERRAL AND AUTH REQ- | Authorization Required | PAR |
 | James Lenhart, OD | BCBS OOS CA - REFERRAL AND AUTH REQ- | Authorization Required | PAR |
 | Joaquin De Rojas, MD | BCBS OOS CA - REFERRAL AND AUTH REQ- | Authorization Required | PAR |
 | John Fezza, MD (Oculoplastics) | BCBS OOS CA - REFERRAL AND AUTH REQ- | Authorization Required | PAR |
@@ -52,7 +51,6 @@
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
 | George Brinnig-Jastrzebski, MD | BCBS OOS CA - REFERRAL AND AUTH REQ- | Authorization Required | PAR |
-| Hunter Vittone, OD | BCBS OOS CA - REFERRAL AND AUTH REQ- | Authorization Required | PAR |
 | Jon Berlie, MD | BCBS OOS CA - REFERRAL AND AUTH REQ- | Authorization Required | PAR |
 | Julie Carter, MD | BCBS OOS CA - REFERRAL AND AUTH REQ- | Authorization Required | PAR |
 

@@ -18,8 +18,7 @@
 | Erin Hardie, OD | Cigna Commercial PPO | No Ref/No Auth Required | PAR |
 | George Hurwitz, OD | Cigna Commercial PPO | No Ref/No Auth Required | PAR |
 | Giselle Vega, OD | Cigna Commercial PPO | No Ref/No Auth Required | Non-PAR |
-| Gisselle Vrga Carraso | Cigna Commercial PPO | No Ref/No Auth Required | Non-PAR |
-| Hunter Vittone, OD | Cigna Commercial PPO | No Ref/No Auth Required | PAR |
+| Gisselle Vrga Carraso | Cigna Commercial PPO | No Ref/No Auth Required | PAR |
 | James Lenhart, OD | Cigna Commercial PPO | No Ref/No Auth Required | PAR |
 | Joaquin De Rojas, MD | Cigna Commercial PPO | No Ref/No Auth Required | PAR |
 | John Fezza, MD (Oculoplastics) | Cigna Commercial PPO | No Ref/No Auth Required | Non-PAR |

@@ -19,7 +19,6 @@
 | George Hurwitz, OD | Vision Service Plan | Authorization Required | PAR |
 | Giselle Vega, OD | Vision Service Plan | Authorization Required | Non-PAR |
 | Gisselle Vrga Carraso | Vision Service Plan | Authorization Required | Non-PAR |
-| Hunter Vittone, OD | Vision Service Plan | Authorization Required | PAR |
 | James Lenhart, OD | Vision Service Plan | Authorization Required | PAR |
 | Joaquin De Rojas, MD | Vision Service Plan | Authorization Required | Non-PAR |
 | John Fezza, MD (Oculoplastics) | Vision Service Plan | Authorization Required | Non-PAR |
@@ -52,7 +51,6 @@
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
 | George Brinnig-Jastrzebski, MD | Self Pay Non-Par with Ins |  | Non-PAR |
-| Hunter Vittone, OD | Self Pay Non-Par with Ins |  | PAR |
 | Jon Berlie, MD | Self Pay Non-Par with Ins |  | Non-PAR |
 | Julie Carter, MD | Self Pay Non-Par with Ins |  | Non-PAR |
 
@@ -62,7 +60,6 @@
 |----------|-------------|--------------|--------|
 | Albert Smolyar, MD | Vision Service Plan | Authorization Required | Non-PAR |
 | Brian Marhue, OD | Vision Service Plan | Authorization Required | PAR |
-| Hunter Vittone, OD | Vision Service Plan | Authorization Required | PAR |
 | Penny Orr, OD | Vision Service Plan | Authorization Required | PAR |
 | Sarah Johnson, OD | Vision Service Plan | Authorization Required | PAR |
 

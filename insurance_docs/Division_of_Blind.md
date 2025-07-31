@@ -19,7 +19,6 @@
 | George Hurwitz, OD | Division of Blind | Authorization Required | PAR |
 | Giselle Vega, OD | Division of Blind | Authorization Required | Non-PAR |
 | Gisselle Vrga Carraso | Division of Blind | Authorization Required | Non-PAR |
-| Hunter Vittone, OD | Division of Blind | Authorization Required | PAR |
 | James Lenhart, OD | Division of Blind | Authorization Required | PAR |
 | Joaquin De Rojas, MD | Division of Blind | Authorization Required | PAR |
 | John Fezza, MD (Oculoplastics) | Division of Blind | Authorization Required | PAR |
@@ -52,7 +51,6 @@
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
 | George Brinnig-Jastrzebski, MD | Division of Blind | Authorization Required | PAR |
-| Hunter Vittone, OD | Division of Blind | Authorization Required | PAR |
 | Jon Berlie, MD | Division of Blind | Authorization Required | PAR |
 | Julie Carter, MD | Division of Blind | Authorization Required | PAR |
 
@@ -69,7 +67,6 @@
 |----------|-------------|--------------|--------|
 | Albert Smolyar, MD | Division of Blind | Authorization Required | PAR |
 | Brian Marhue, OD | Division of Blind | Authorization Required | PAR |
-| Hunter Vittone, OD | Division of Blind | Authorization Required | PAR |
 | Penny Orr, OD | Division of Blind | Authorization Required | PAR |
 | Sarah Johnson, OD | Division of Blind | Authorization Required | PAR |
 

@@ -19,7 +19,6 @@
 | George Hurwitz, OD | Eyemed Vision | No Ref/No Auth Required | PAR |
 | Giselle Vega, OD | Eyemed Vision | No Ref/No Auth Required | PAR |
 | Gisselle Vrga Carraso | Eyemed Vision | No Ref/No Auth Required | Non-PAR |
-| Hunter Vittone, OD | Eyemed Vision | No Ref/No Auth Required | PAR |
 | James Lenhart, OD | Eyemed Vision | No Ref/No Auth Required | PAR |
 | Joaquin De Rojas, MD | Eyemed Vision | No Ref/No Auth Required | PAR |
 | John Fezza, MD (Oculoplastics) | Eyemed Vision | No Ref/No Auth Required | Non-PAR |
@@ -52,7 +51,6 @@
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
 | George Brinnig-Jastrzebski, MD | EyeMed Vision |  | Non-PAR |
-| Hunter Vittone, OD | EyeMed Vision |  | PAR |
 | Jon Berlie, MD | EyeMed Vision |  | Non-PAR |
 | Julie Carter, MD | EyeMed Vision |  | PAR |
 
@@ -76,7 +74,6 @@
 |----------|-------------|--------------|--------|
 | Albert Smolyar, MD | Eyemed Vision | No Ref/No Auth Required | PAR |
 | Brian Marhue, OD | Eyemed Vision | No Ref/No Auth Required | PAR |
-| Hunter Vittone, OD | Eyemed Vision | No Ref/No Auth Required | PAR |
 | Penny Orr, OD | Eyemed Vision | No Ref/No Auth Required | PAR |
 | Sarah Johnson, OD | Eyemed Vision | No Ref/No Auth Required | PAR |
 

@@ -19,7 +19,6 @@
 | George Hurwitz, OD | Self Pay Non-Par with Ins |  | Non-PAR |
 | Giselle Vega, OD | Self Pay Non-Par with Ins |  | Non-PAR |
 | Gisselle Vrga Carraso | Self Pay Non-Par with Ins |  | Non-PAR |
-| Hunter Vittone, OD | Self Pay Non-Par with Ins |  | Non-PAR |
 | James Lenhart, OD | Self Pay Non-Par with Ins |  | Non-PAR |
 | Joaquin De Rojas, MD | Self Pay Non-Par with Ins |  | Non-PAR |
 | John Fezza, MD (Oculoplastics) | Self Pay Non-Par with Ins |  | Non-PAR |
@@ -52,7 +51,6 @@
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
 | George Brinnig-Jastrzebski, MD | Self Pay Non-Par with Ins |  | Non-PAR |
-| Hunter Vittone, OD | Self Pay Non-Par with Ins |  | Non-PAR |
 | Jon Berlie, MD | Self Pay Non-Par with Ins |  | Non-PAR |
 | Julie Carter, MD | Self Pay Non-Par with Ins |  | Non-PAR |
 
@@ -83,7 +81,6 @@
 |----------|-------------|--------------|--------|
 | Albert Smolyar, MD | Self Pay Non-Par with Ins |  | Non-PAR |
 | Brian Marhue, OD | Self Pay Non-Par with Ins |  | Non-PAR |
-| Hunter Vittone, OD | Self Pay Non-Par with Ins |  | Non-PAR |
 | Penny Orr, OD | Self Pay Non-Par with Ins |  | Non-PAR |
 | Sarah Johnson, OD | Self Pay Non-Par with Ins |  | Non-PAR |
 

@@ -19,7 +19,6 @@
 | George Hurwitz, OD | Anthem BCBS Vision | No Ref/No Auth Required | PAR |
 | Giselle Vega, OD | Anthem BCBS Vision | No Ref/No Auth Required | Non-PAR |
 | Gisselle Vrga Carraso | Anthem BCBS Vision | No Ref/No Auth Required | Non-PAR |
-| Hunter Vittone, OD | Anthem BCBS Vision | No Ref/No Auth Required | PAR |
 | James Lenhart, OD | Anthem BCBS Vision | No Ref/No Auth Required | PAR |
 | Joaquin De Rojas, MD | Anthem BCBS Vision | No Ref/No Auth Required | PAR |
 | John Fezza, MD (Oculoplastics) | Anthem BCBS Vision | No Ref/No Auth Required | Non-PAR |
@@ -52,7 +51,6 @@
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
 | George Brinnig-Jastrzebski, MD | Anthem BCBS Vision | No Ref/No Auth Required | Non-PAR |
-| Hunter Vittone, OD | Anthem BCBS Vision | No Ref/No Auth Required | PAR |
 | Jon Berlie, MD | Anthem BCBS Vision | No Ref/No Auth Required | Non-PAR |
 | Julie Carter, MD | Anthem BCBS Vision | No Ref/No Auth Required | PAR |
 

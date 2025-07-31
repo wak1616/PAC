@@ -9,7 +9,6 @@
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
 | George Brinnig-Jastrzebski, MD | UHC Navigate REFERRAL REQ | Referral Required | PAR |
-| Hunter Vittone, OD | UHC Navigate REFERRAL REQ | Referral Required | PAR |
 | Jon Berlie, MD | UHC Navigate REFERRAL REQ | Referral Required | PAR |
 | Julie Carter, MD | UHC Navigate REFERRAL REQ | Referral Required | PAR |
 
@@ -40,7 +39,6 @@
 |----------|-------------|--------------|--------|
 | Albert Smolyar, MD | UHC Navigate REFERRAL REQ | Referral Required | PAR |
 | Brian Marhue, OD | UHC Navigate REFERRAL REQ | Referral Required | PAR |
-| Hunter Vittone, OD | UHC Navigate REFERRAL REQ | Referral Required | PAR |
 | Penny Orr, OD | UHC Navigate REFERRAL REQ | Referral Required | PAR |
 | Sarah Johnson, OD | UHC Navigate REFERRAL REQ | Referral Required | PAR |
 

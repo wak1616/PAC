@@ -19,7 +19,6 @@
 | George Hurwitz, OD | EBMS Commercial PPO - Aetna | No Ref/No Auth Required | PAR |
 | Giselle Vega, OD | EBMS Commercial PPO - Aetna | No Ref/No Auth Required | Non-PAR |
 | Gisselle Vrga Carraso | EBMS Commercial PPO - Aetna | No Ref/No Auth Required | Non-PAR |
-| Hunter Vittone, OD | EBMS Commercial PPO - Aetna | No Ref/No Auth Required | PAR |
 | James Lenhart, OD | EBMS Commercial PPO - Aetna | No Ref/No Auth Required | PAR |
 | Joaquin De Rojas, MD | EBMS Commercial PPO - Aetna | No Ref/No Auth Required | PAR |
 | John Fezza, MD (Oculoplastics) | EBMS Commercial PPO - Aetna | No Ref/No Auth Required | PAR |
@@ -52,7 +51,6 @@
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
 | George Brinnig-Jastrzebski, MD | EBMS Commercial PPO - Aetna | No Ref/No Auth Required | PAR |
-| Hunter Vittone, OD | EBMS Commercial PPO - Aetna | No Ref/No Auth Required | PAR |
 | Jon Berlie, MD | EBMS Commercial PPO - Aetna | No Ref/No Auth Required | PAR |
 | Julie Carter, MD | EBMS Commercial PPO - Aetna | No Ref/No Auth Required | PAR |
 

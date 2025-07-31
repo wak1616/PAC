@@ -19,7 +19,6 @@
 | George Hurwitz, OD | Tricare Select | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Giselle Vega, OD | Tricare Select | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Gisselle Vrga Carraso | Tricare Select | No Ref/No Auth Required | Non-PAR -OON Benefits |
-| Hunter Vittone, OD | Tricare Select | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | James Lenhart, OD | Tricare Select | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Joaquin De Rojas, MD | Tricare Select | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | John Fezza, MD (Oculoplastics) | Tricare Select | No Ref/No Auth Required | Non-PAR -OON Benefits |
@@ -52,7 +51,6 @@
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
 | George Brinnig-Jastrzebski, MD | Tricare Select | No Ref/No Auth Required | Non-PAR -OON Benefits |
-| Hunter Vittone, OD | Tricare Select | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Jon Berlie, MD | Tricare Select | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Julie Carter, MD | Tricare Select | No Ref/No Auth Required | Non-PAR -OON Benefits |
 

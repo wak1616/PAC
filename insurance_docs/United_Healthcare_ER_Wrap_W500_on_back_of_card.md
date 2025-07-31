@@ -19,7 +19,6 @@
 | George Hurwitz, OD | UHC ER Wrap | Authorization Required | PAR |
 | Giselle Vega, OD | UHC ER Wrap | Authorization Required | PAR |
 | Gisselle Vrga Carraso | UHC ER Wrap | Authorization Required | Non-PAR |
-| Hunter Vittone, OD | UHC ER Wrap | Authorization Required | PAR |
 | James Lenhart, OD | UHC ER Wrap | Authorization Required | PAR |
 | Joaquin De Rojas, MD | UHC ER Wrap | Authorization Required | PAR |
 | John Fezza, MD (Oculoplastics) | UHC ER Wrap | Authorization Required | PAR |
@@ -52,7 +51,6 @@
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
 | George Brinnig-Jastrzebski, MD | UHC ER Wrap | Authorization Required | PAR |
-| Hunter Vittone, OD | UHC ER Wrap | Authorization Required | PAR |
 | Jon Berlie, MD | UHC ER Wrap | Authorization Required | PAR |
 | Julie Carter, MD | UHC ER Wrap | Authorization Required | PAR |
 
@@ -83,7 +81,6 @@
 |----------|-------------|--------------|--------|
 | Albert Smolyar, MD | UHC ER Wrap | Authorization Required | PAR |
 | Brian Marhue, OD | UHC ER Wrap | Authorization Required | PAR |
-| Hunter Vittone, OD | UHC ER Wrap | Authorization Required | PAR |
 | Penny Orr, OD | UHC ER Wrap | Authorization Required | PAR |
 | Sarah Johnson, OD | UHC ER Wrap | Authorization Required | PAR |
 

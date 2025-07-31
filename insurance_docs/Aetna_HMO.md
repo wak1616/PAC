@@ -10,7 +10,6 @@
 |----------|-------------|--------------|--------|
 | Albert Smolyar, MD | Aetna Comm HMO REFERRAL REQ | Referral Required | PAR |
 | Brian Marhue, OD | Aetna Comm HMO REFERRAL REQ | Referral Required | PAR |
-| Hunter Vittone, OD | Aetna Comm HMO REFERRAL REQ | Referral Required | PAR |
 | Penny Orr, OD | Aetna Comm HMO REFERRAL REQ | Referral Required | PAR |
 | Sarah Johnson, OD | Aetna Comm HMO REFERRAL REQ | Referral Required | PAR |
 

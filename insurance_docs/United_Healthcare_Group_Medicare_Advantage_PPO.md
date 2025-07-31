@@ -19,7 +19,6 @@
 | George Hurwitz, OD | UHC Medicare Advantage PPO-87726 | No Ref/No Auth Required | PAR |
 | Giselle Vega, OD | UHC Medicare Advantage PPO-87726 | No Ref/No Auth Required | PAR |
 | Gisselle Vrga Carraso | UHC Medicare Advantage PPO-87726 | No Ref/No Auth Required | Non-PAR |
-| Hunter Vittone, OD | UHC Medicare Advantage PPO-87726 | No Ref/No Auth Required | PAR |
 | James Lenhart, OD | UHC Medicare Advantage PPO-87726 | No Ref/No Auth Required | PAR |
 | Joaquin De Rojas, MD | UHC Medicare Advantage PPO-87726 | No Ref/No Auth Required | PAR |
 | John Fezza, MD (Oculoplastics) | UHC Medicare Advantage PPO-87726 | No Ref/No Auth Required | PAR |
@@ -52,7 +51,6 @@
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
 | George Brinnig-Jastrzebski, MD | UHC Medicare Advantage PPO-87726 | No Ref/No Auth Required | PAR |
-| Hunter Vittone, OD | UHC Medicare Advantage PPO-87726 | No Ref/No Auth Required | PAR |
 | Jon Berlie, MD | UHC Medicare Advantage PPO-87726 | No Ref/No Auth Required | PAR |
 | Julie Carter, MD | UHC Medicare Advantage PPO-87726 | No Ref/No Auth Required | PAR |
 
@@ -83,7 +81,6 @@
 |----------|-------------|--------------|--------|
 | Albert Smolyar, MD | UHC Medicare Advantage PPO-87726 | No Ref/No Auth Required | PAR |
 | Brian Marhue, OD | UHC Medicare Advantage PPO-87726 | No Ref/No Auth Required | PAR |
-| Hunter Vittone, OD | UHC Medicare Advantage PPO-87726 | No Ref/No Auth Required | PAR |
 | Penny Orr, OD | UHC Medicare Advantage PPO-87726 | No Ref/No Auth Required | PAR |
 | Sarah Johnson, OD | UHC Medicare Advantage PPO-87726 | No Ref/No Auth Required | PAR |
 

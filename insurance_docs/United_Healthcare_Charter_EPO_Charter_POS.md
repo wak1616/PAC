@@ -31,7 +31,6 @@
 |----------|-------------|--------------|--------|
 | Albert Smolyar, MD | UHC PPO/POS-87726 | No Ref/No Auth Required | PAR |
 | Brian Marhue, OD | UHC PPO/POS-87726 | No Ref/No Auth Required | PAR |
-| Hunter Vittone, OD | UHC PPO/POS-87726 | No Ref/No Auth Required | PAR |
 | Penny Orr, OD | UHC PPO/POS-87726 | No Ref/No Auth Required | PAR |
 | Sarah Johnson, OD | UHC PPO/POS-87726 | No Ref/No Auth Required | PAR |
 

@@ -19,7 +19,6 @@
 | George Hurwitz, OD | Champva | No Ref/No Auth Required | PAR |
 | Giselle Vega, OD | Champva | No Ref/No Auth Required | Non-PAR |
 | Gisselle Vrga Carraso | Champva | No Ref/No Auth Required | Non-PAR |
-| Hunter Vittone, OD | Champva | No Ref/No Auth Required | PAR |
 | James Lenhart, OD | Champva | No Ref/No Auth Required | PAR |
 | Joaquin De Rojas, MD | Champva | No Ref/No Auth Required | PAR |
 | John Fezza, MD (Oculoplastics) | Champva | No Ref/No Auth Required | PAR |
@@ -52,7 +51,6 @@
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
 | George Brinnig-Jastrzebski, MD | Champva | No Ref/No Auth Required | PAR |
-| Hunter Vittone, OD | Champva | No Ref/No Auth Required | PAR |
 | Jon Berlie, MD | Champva | No Ref/No Auth Required | PAR |
 | Julie Carter, MD | Champva | No Ref/No Auth Required | PAR |
 
@@ -76,7 +74,6 @@
 |----------|-------------|--------------|--------|
 | Albert Smolyar, MD | ChampVA | No Ref/No Auth Required | PAR |
 | Brian Marhue, OD | ChampVA | No Ref/No Auth Required | PAR |
-| Hunter Vittone, OD | ChampVA | No Ref/No Auth Required | PAR |
 | Penny Orr, OD | ChampVA | No Ref/No Auth Required | PAR |
 | Sarah Johnson, OD | ChampVA | No Ref/No Auth Required | PAR |
 

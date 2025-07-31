@@ -19,7 +19,6 @@
 | George Hurwitz, OD | UHC Oxford PPO-06111 | No Ref/No Auth Required | PAR |
 | Giselle Vega, OD | UHC Oxford PPO-06111 | No Ref/No Auth Required | PAR |
 | Gisselle Vrga Carraso | UHC Oxford PPO-06111 | No Ref/No Auth Required | Non-PAR |
-| Hunter Vittone, OD | UHC Oxford PPO-06111 | No Ref/No Auth Required | PAR |
 | James Lenhart, OD | UHC Oxford PPO-06111 | No Ref/No Auth Required | PAR |
 | Joaquin De Rojas, MD | UHC Oxford PPO-06111 | No Ref/No Auth Required | PAR |
 | John Fezza, MD (Oculoplastics) | UHC Oxford PPO-06111 | No Ref/No Auth Required | PAR |
@@ -52,7 +51,6 @@
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
 | George Brinnig-Jastrzebski, MD | UHC Oxford PPO-06111 | No Ref/No Auth Required | PAR |
-| Hunter Vittone, OD | UHC Oxford PPO-06111 | No Ref/No Auth Required | PAR |
 | Jon Berlie, MD | UHC Oxford PPO-06111 | No Ref/No Auth Required | PAR |
 | Julie Carter, MD | UHC Oxford PPO-06111 | No Ref/No Auth Required | PAR |
 

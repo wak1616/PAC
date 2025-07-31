@@ -19,7 +19,6 @@
 | George Hurwitz, OD | BCBS FL Commercial PPO | No Ref/No Auth Required | PAR |
 | Giselle Vega, OD | BCBS FL Commercial PPO | No Ref/No Auth Required | Non-PAR |
 | Gisselle Vrga Carraso | BCBS FL Commercial PPO | No Ref/No Auth Required | Non-PAR |
-| Hunter Vittone, OD | BCBS FL Commercial PPO | No Ref/No Auth Required | PAR |
 | James Lenhart, OD | BCBS FL Commercial PPO | No Ref/No Auth Required | PAR |
 | Joaquin De Rojas, MD | BCBS FL Commercial PPO | No Ref/No Auth Required | PAR |
 | John Fezza, MD (Oculoplastics) | BCBS FL Commercial PPO | No Ref/No Auth Required | PAR |
@@ -52,7 +51,6 @@
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
 | George Brinnig-Jastrzebski, MD | BCBS FL Commercial PPO | No Ref/No Auth Required | PAR |
-| Hunter Vittone, OD | BCBS FL Commercial PPO | No Ref/No Auth Required | PAR |
 | Jon Berlie, MD | BCBS FL Commercial PPO | No Ref/No Auth Required | PAR |
 | Julie Carter, MD | BCBS FL Commercial PPO | No Ref/No Auth Required | PAR |
 
@@ -76,7 +74,6 @@
 |----------|-------------|--------------|--------|
 | Albert Smolyar, MD | BCBS FL Commercial PPO | No Ref/No Auth Required | PAR |
 | Brian Marhue, OD | BCBS FL Commercial PPO | No Ref/No Auth Required | PAR |
-| Hunter Vittone, OD | BCBS FL Commercial PPO | No Ref/No Auth Required | PAR |
 | Penny Orr, OD | BCBS FL Commercial PPO | No Ref/No Auth Required | PAR |
 | Sarah Johnson, OD | BCBS FL Commercial PPO | No Ref/No Auth Required | PAR |
 

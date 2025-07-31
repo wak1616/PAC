@@ -19,7 +19,6 @@
 | George Hurwitz, OD | Superior Vision | Authorization Required | Non-PAR |
 | Giselle Vega, OD | Superior Vision | Authorization Required | Non-PAR |
 | Gisselle Vrga Carraso | Superior Vision | Authorization Required | Non-PAR |
-| Hunter Vittone, OD | Superior Vision | Authorization Required | PAR |
 | James Lenhart, OD | Superior Vision | Authorization Required | PAR |
 | Joaquin De Rojas, MD | Superior Vision | Authorization Required | Non-PAR |
 | John Fezza, MD (Oculoplastics) | Superior Vision | Authorization Required | PAR |
@@ -67,7 +66,6 @@
 |----------|-------------|--------------|--------|
 | Albert Smolyar, MD | Self Pay Non-Par with Ins |  | Non-PAR |
 | Brian Marhue, OD | Self Pay Non-Par with Ins |  | Non-PAR |
-| Hunter Vittone, OD | Self Pay Non-Par with Ins |  | Non-PAR |
 | Penny Orr, OD | Self Pay Non-Par with Ins |  | Non-PAR |
 | Sarah Johnson, OD | Self Pay Non-Par with Ins |  | Non-PAR |
 

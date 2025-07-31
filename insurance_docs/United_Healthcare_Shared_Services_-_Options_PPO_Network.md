@@ -19,7 +19,6 @@
 | George Hurwitz, OD | UHC Shared Services PPO-39026 | No Ref/No Auth Required | PAR |
 | Giselle Vega, OD | UHC Shared Services PPO-39026 | No Ref/No Auth Required | PAR |
 | Gisselle Vrga Carraso | UHC Shared Services PPO-39026 | No Ref/No Auth Required | Non-PAR |
-| Hunter Vittone, OD | UHC Shared Services PPO-39026 | No Ref/No Auth Required | PAR |
 | James Lenhart, OD | UHC Shared Services PPO-39026 | No Ref/No Auth Required | PAR |
 | Joaquin De Rojas, MD | UHC Shared Services PPO-39026 | No Ref/No Auth Required | PAR |
 | John Fezza, MD (Oculoplastics) | UHC Shared Services PPO-39026 | No Ref/No Auth Required | PAR |
@@ -52,7 +51,6 @@
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
 | George Brinnig-Jastrzebski, MD | UHC Shared Services PPO-39026 | No Ref/No Auth Required | PAR |
-| Hunter Vittone, OD | UHC Shared Services PPO-39026 | No Ref/No Auth Required | PAR |
 | Jon Berlie, MD | UHC Shared Services PPO-39026 | No Ref/No Auth Required | PAR |
 | Julie Carter, MD | UHC Shared Services PPO-39026 | No Ref/No Auth Required | PAR |
 
@@ -83,7 +81,6 @@
 |----------|-------------|--------------|--------|
 | Albert Smolyar, MD | UHC Shared Services PPO-39026 | No Ref/No Auth Required | PAR |
 | Brian Marhue, OD | UHC Shared Services PPO-39026 | No Ref/No Auth Required | PAR |
-| Hunter Vittone, OD | UHC Shared Services PPO-39026 | No Ref/No Auth Required | PAR |
 | Penny Orr, OD | UHC Shared Services PPO-39026 | No Ref/No Auth Required | PAR |
 | Sarah Johnson, OD | UHC Shared Services PPO-39026 | No Ref/No Auth Required | PAR |
 
