@@ -144,7 +144,7 @@ The following guide outlines when to schedule appointment based on their symptom
 * If no same day spots are available for that provider, send an **ICP** communication to the Patient Care Team of that region and mark **urgent**.
 * If the patient's provider is out of the office, schedule with another provider in the region and note in the details their provider is out. **Check availability for all office locations in the region** **to include smaller satellite offices.**
 * For **retina** patients (Dr. Banker or RHC): Triaged by an **OD first** for emergency appts. For retina emergency referrals (e.g. detachment or tear), send an **ICP** message to either Dr. Banker's team or RHC Pateint Care Team marked **urgent**. **Do not schedule**.
-   - If this is a Dr. Banker patient that recently had an injection (2 weeks), schedule them same day with an OD.
+   - If this is a Dr. Banker patient that recently had an injection (2 weeks) and experiencing pain or decrease in vision, schedule them same day with an OD.
 * If it's **3:30 PM–5:00 PM**:
   * Attempt a warm transfer to the office.
   * If the office is unavailable, enter an **ICP** message to the Patient Care Team. The office will contact the patient directly to schedule.
