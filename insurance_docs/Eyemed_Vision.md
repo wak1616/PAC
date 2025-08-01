@@ -62,7 +62,7 @@
 | Christine Bui, OD | Eyemed Vision | No Ref/No Auth Required | PAR |
 | Diba Ossareh, OD | Eyemed Vision | No Ref/No Auth Required | PAR |
 | Jose Vazques-Diaz, MD | Eyemed Vision | No Ref/No Auth Required | Non-PAR |
-| Karin Girgis, OD - Start Date 9-15/2025 | Eyemed Vision | No Ref/No Auth Required | Non-PAR |
+| Karin Girgis, OD - Start Date 8/18/2025 | Eyemed Vision | No Ref/No Auth Required | Non-PAR |
 | Mari Holderby, OD | Eyemed Vision | No Ref/No Auth Required | PAR |
 | Scot Holman, MD | Eyemed Vision | No Ref/No Auth Required | Non-PAR |
 | Scott Wehrly, MD | Eyemed Vision | No Ref/No Auth Required | Non-PAR |

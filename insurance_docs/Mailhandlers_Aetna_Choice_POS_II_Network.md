@@ -62,7 +62,7 @@
 | Christine Bui, OD | Mail Handlers Benefit Plan Comm - Aetna | No Ref/No Auth Required | PAR |
 | Diba Ossareh, OD | Mail Handlers Benefit Plan Comm - Aetna | No Ref/No Auth Required | PAR |
 | Jose Vazques-Diaz, MD | Mail Handlers Benefit Plan Comm - Aetna | No Ref/No Auth Required | PAR |
-| Karin Girgis, OD - Start Date 9-15/2025 | Mail Handlers Benefit Plan Comm - Aetna | No Ref/No Auth Required | Non-PAR |
+| Karin Girgis, OD - Start Date 8/18/2025 | Mail Handlers Benefit Plan Comm - Aetna | No Ref/No Auth Required | Non-PAR |
 | Mari Holderby, OD | Mail Handlers Benefit Plan Comm - Aetna | No Ref/No Auth Required | PAR |
 | Scot Holman, MD | Mail Handlers Benefit Plan Comm - Aetna | No Ref/No Auth Required | PAR |
 | Scott Wehrly, MD | Mail Handlers Benefit Plan Comm - Aetna | No Ref/No Auth Required | PAR |

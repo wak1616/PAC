@@ -62,7 +62,7 @@
 | Christine Bui, OD | UHC HCA Healthcare-87726 | No Ref/No Auth Required | PAR |
 | Diba Ossareh, OD | UHC HCA Healthcare-87726 | No Ref/No Auth Required | PAR |
 | Jose Vazques-Diaz, MD | UHC HCA Healthcare-87726 | No Ref/No Auth Required | PAR |
-| Karin Girgis, OD - Start Date 9-15/2025 | UHC HCA Healthcare-87726 | No Ref/No Auth Required | Non-PAR |
+| Karin Girgis, OD - Start Date 8/18/2025 | UHC HCA Healthcare-87726 | No Ref/No Auth Required | Non-PAR |
 | Mari Holderby, OD | UHC HCA Healthcare-87726 | No Ref/No Auth Required | PAR |
 | Scot Holman, MD | UHC HCA Healthcare-87726 | No Ref/No Auth Required | PAR |
 | Scott Wehrly, MD | UHC HCA Healthcare-87726 | No Ref/No Auth Required | PAR |

@@ -62,7 +62,7 @@
 | Christine Bui, OD | UHC ER Wrap | Authorization Required | PAR |
 | Diba Ossareh, OD | UHC ER Wrap | Authorization Required | PAR |
 | Jose Vazques-Diaz, MD | UHC ER Wrap | Authorization Required | PAR |
-| Karin Girgis, OD - Start Date 9-15/2025 | UHC ER Wrap | Authorization Required | Non-PAR |
+| Karin Girgis, OD - Start Date 8/18/2025 | UHC ER Wrap | Authorization Required | Non-PAR |
 | Mari Holderby, OD | UHC ER Wrap | Authorization Required | PAR |
 | Scot Holman, MD | UHC ER Wrap | Authorization Required | PAR |
 | Scott Wehrly, MD | UHC ER Wrap | Authorization Required | PAR |

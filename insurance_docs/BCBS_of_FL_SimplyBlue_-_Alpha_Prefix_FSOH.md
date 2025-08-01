@@ -54,7 +54,7 @@
 | Christine Bui, OD | BCBS FL Commercial HMO | Authorization Required | PAR |
 | Diba Ossareh, OD | BCBS FL Commercial HMO | Authorization Required | PAR |
 | Jose Vazques-Diaz, MD | BCBS FL Commercial HMO | Authorization Required | PAR |
-| Karin Girgis, OD - Start Date 9-15/2025 | BCBS FL Commercial HMO | Authorization Required | Non-PAR |
+| Karin Girgis, OD - Start Date 8/18/2025 | BCBS FL Commercial HMO | Authorization Required | Non-PAR |
 | Mari Holderby, OD | BCBS FL Commercial HMO | Authorization Required | PAR |
 | Scot Holman, MD | BCBS FL Commercial HMO | Authorization Required | PAR |
 | Scott Wehrly, MD | BCBS FL Commercial HMO | Authorization Required | PAR |

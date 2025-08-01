@@ -12,7 +12,7 @@
 | Christine Bui, OD | Tricare Prime HMO-REFERRAL REQ | Referral Required | Non-PAR -OON Benefits |
 | Diba Ossareh, OD | Tricare Prime HMO-REFERRAL REQ | Referral Required | Non-PAR -OON Benefits |
 | Jose Vazques-Diaz, MD | Tricare Prime HMO-REFERRAL REQ | Referral Required | Non-PAR -OON Benefits |
-| Karin Girgis, OD - Start Date 9-15/2025 | Tricare Prime HMO-REFERRAL REQ | Referral Required | Non-PAR -OON Benefits |
+| Karin Girgis, OD - Start Date 8/18/2025 | Tricare Prime HMO-REFERRAL REQ | Referral Required | Non-PAR -OON Benefits |
 | Mari Holderby, OD | Tricare Prime HMO-REFERRAL REQ | Referral Required | Non-PAR -OON Benefits |
 | Scot Holman, MD | Tricare Prime HMO-REFERRAL REQ | Referral Required | Non-PAR -OON Benefits |
 | Scott Wehrly, MD | Tricare Prime HMO-REFERRAL REQ | Referral Required | Non-PAR -OON Benefits |

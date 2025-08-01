@@ -62,7 +62,7 @@
 | Christine Bui, OD | Aetna Medicare HMO REFERRAL REQ | Referral Required | Non-PAR |
 | Diba Ossareh, OD | Aetna Medicare HMO REFERRAL REQ | Referral Required | Non-PAR |
 | Jose Vazques-Diaz, MD | Aetna Medicare HMO REFERRAL REQ | Referral Required | PAR |
-| Karin Girgis, OD - Start Date 9-15/2025 | Aetna Medicare HMO REFERRAL REQ | Referral Required | Non-PAR |
+| Karin Girgis, OD - Start Date 8/18/2025 | Aetna Medicare HMO REFERRAL REQ | Referral Required | Non-PAR |
 | Mari Holderby, OD | Aetna Medicare HMO REFERRAL REQ | Referral Required | Non-PAR |
 | Scot Holman, MD | Aetna Medicare HMO REFERRAL REQ | Referral Required | PAR |
 | Scott Wehrly, MD | Aetna Medicare HMO REFERRAL REQ | Referral Required | PAR |

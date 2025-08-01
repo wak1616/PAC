@@ -62,7 +62,7 @@
 | Christine Bui, OD | Meritain Health SMH Extd  Pln | Authorization MAY be Required | Non-PAR |
 | Diba Ossareh, OD | Meritain Health SMH Extd  Pln | Authorization MAY be Required | Non-PAR |
 | Jose Vazques-Diaz, MD | Meritain Health SMH Extd  Pln | Authorization MAY be Required | Non-PAR |
-| Karin Girgis, OD - Start Date 9-15/2025 | Meritain Health SMH Extd  Pln | Authorization MAY be Required | Non-PAR |
+| Karin Girgis, OD - Start Date 8/18/2025 | Meritain Health SMH Extd  Pln | Authorization MAY be Required | Non-PAR |
 | Mari Holderby, OD | Meritain Health SMH Extd  Pln | Authorization MAY be Required | Non-PAR |
 | Scot Holman, MD | Meritain Health SMH Extd  Pln | Authorization MAY be Required | Non-PAR |
 | Scott Wehrly, MD | Meritain Health SMH Extd  Pln | Authorization MAY be Required | Non-PAR |

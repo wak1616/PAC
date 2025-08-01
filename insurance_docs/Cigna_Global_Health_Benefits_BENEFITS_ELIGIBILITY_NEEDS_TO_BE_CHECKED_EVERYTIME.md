@@ -62,7 +62,7 @@
 | Christine Bui, OD | Cigna International | Authorization Required | PAR |
 | Diba Ossareh, OD | Cigna International | Authorization Required | PAR |
 | Jose Vazques-Diaz, MD | Cigna International | Authorization Required | PAR |
-| Karin Girgis, OD - Start Date 9-15/2025 | Cigna International | Authorization Required | Non-PAR |
+| Karin Girgis, OD - Start Date 8/18/2025 | Cigna International | Authorization Required | Non-PAR |
 | Mari Holderby, OD | Cigna International | Authorization Required | PAR |
 | Scot Holman, MD | Cigna International | Authorization Required | PAR |
 | Scott Wehrly, MD | Cigna International | Authorization Required | PAR |

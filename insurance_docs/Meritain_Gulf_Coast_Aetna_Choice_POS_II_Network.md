@@ -62,7 +62,7 @@
 | Christine Bui, OD | Meritain Health Commercial - Aetna | No Ref/No Auth Required | PAR |
 | Diba Ossareh, OD | Meritain Health Commercial - Aetna | No Ref/No Auth Required | PAR |
 | Jose Vazques-Diaz, MD | Meritain Health Commercial - Aetna | No Ref/No Auth Required | PAR |
-| Karin Girgis, OD - Start Date 9-15/2025 | Meritain Health Commercial - Aetna | No Ref/No Auth Required | Non-PAR |
+| Karin Girgis, OD - Start Date 8/18/2025 | Meritain Health Commercial - Aetna | No Ref/No Auth Required | Non-PAR |
 | Mari Holderby, OD | Meritain Health Commercial - Aetna | No Ref/No Auth Required | PAR |
 | Scot Holman, MD | Meritain Health Commercial - Aetna | No Ref/No Auth Required | PAR |
 | Scott Wehrly, MD | Meritain Health Commercial - Aetna | No Ref/No Auth Required | PAR |

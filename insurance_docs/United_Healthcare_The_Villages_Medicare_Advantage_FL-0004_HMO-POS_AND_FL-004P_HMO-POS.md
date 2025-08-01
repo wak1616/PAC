@@ -12,7 +12,7 @@
 | Christine Bui, OD | UHC Medicare Advantage HMO-87726 | No Ref/No Auth Required | PAR |
 | Diba Ossareh, OD | UHC Medicare Advantage HMO-87726 | No Ref/No Auth Required | PAR |
 | Jose Vazques-Diaz, MD | UHC Medicare Advantage HMO-87726 | No Ref/No Auth Required | PAR |
-| Karin Girgis, OD - Start Date 9-15/2025 | UHC Medicare Advantage HMO-87726 | No Ref/No Auth Required | Non-PAR |
+| Karin Girgis, OD - Start Date 8/18/2025 | UHC Medicare Advantage HMO-87726 | No Ref/No Auth Required | Non-PAR |
 | Mari Holderby, OD | UHC Medicare Advantage HMO-87726 | No Ref/No Auth Required | PAR |
 | Scot Holman, MD | UHC Medicare Advantage HMO-87726 | No Ref/No Auth Required | PAR |
 | Scott Wehrly, MD | UHC Medicare Advantage HMO-87726 | No Ref/No Auth Required | PAR |

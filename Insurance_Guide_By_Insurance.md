@@ -1,6 +1,6 @@
 # Insurance Guide By Insurance Plan
 
-*Last Updated: 07/31/2025 (based on data from Excel file: [US Eye Insurance Guide.xlsx](https://useyecorp.sharepoint.com/:x:/r/RCM/Shared%20Documents/Insurance%20Guides/US%20Eye%20Insurance%20Guide.xlsx?d=w2a2138d41fa04bfa919fc4966998346a&csf=1&web=1&e=73a3Gf&nav=MTVfezIwMjg5MTIyLTdDRkEtNEE0OS1CODBGLTdFNTc3Njc3OTJDNX0))*
+*Last Updated: 08/01/2025 (based on data from Excel file: [US Eye Insurance Guide.xlsx](https://useyecorp.sharepoint.com/:x:/r/RCM/Shared%20Documents/Insurance%20Guides/US%20Eye%20Insurance%20Guide.xlsx?d=w2a2138d41fa04bfa919fc4966998346a&csf=1&web=1&e=73a3Gf&nav=MTVfezIwMjg5MTIyLTdDRkEtNEE0OS1CODBGLTdFNTc3Njc3OTJDNX0))*
 
 *This guide lists insurance participation by insurance plan. Click an insurance plan to view all providers who accept that insurance, grouped by location.*
 
@@ -376,6 +376,7 @@
 * [Meritain Gulf Coast (Aetna Choice POS II Network)](insurance_docs/Meritain_Gulf_Coast_Aetna_Choice_POS_II_Network.md)
 * [Meritain Health - Sarasota Memorial (BASIC AND/OR COMPREHENSIVE PLAN) PLEASE ASK THE PATIENT IF THE CARD HAS "SMH" ON THEIR CARD. IF THE CARD SAYS BASIC OR COMPREHENSIVE PLAN, WE ARE OUT OF NETWORK AND THERE ARE NO OON BENEFITS](insurance_docs/Meritain_Health_-_Sarasota_Memorial_BASIC_AND_OR_C_E_ARE_OUT_OF_NETWORK_AND_THERE_ARE_NO_OON_BENEFITS.md)
 * [Meritain Health - Sarasota Memorial (EXTENSIVE MEDICAL PLAN) PLEASE ASK THE PATIENT IF THE CARD HAS "SMH" ON THEIR CARD AND THE CARD MUST SAY EXTENDED MEDICAL PLAN. THE EXTENDED MEDICAL PLAN APPLIES TOWARDS THE PATIENT'S TIER 2 BENEFITS - AETNA CHOICE POS II](insurance_docs/Meritain_Health_-_Sarasota_Memorial_EXTENSIVE_MEDI_HE_PATIENT_S_TIER_2_BENEFITS_-_AETNA_CHOICE_POS_II.md)
+* [Moda Health PPO (Aetna Network)](insurance_docs/Moda_Health_PPO_Aetna_Network.md)
 * [Multiplan PLEASE ASK THE PATIENT FOR THE HEALTH PLAN NAME ON THE CARD AND LOAD THE PLAN INTO NEXTGEN ACCORDING TO THEIR HEALTH PLAN](insurance_docs/Multiplan_PLEASE_ASK_THE_PATIENT_FOR_THE_HEALTH_PL_E_PLAN_INTO_NEXTGEN_ACCORDING_TO_THEIR_HEALTH_PLAN.md)
 * [NALC Health Benefit Plan (Cigna Open Access Plus Network)](insurance_docs/NALC_Health_Benefit_Plan_Cigna_Open_Access_Plus_Network.md)
 * [Optum VA-VETERANS AFFAIRS Community Care Network (CCN)](insurance_docs/Optum_VA-VETERANS_AFFAIRS_Community_Care_Network_CCN.md)

@@ -1,6 +1,6 @@
 # Insurance Guide By Provider
 
-*Last Updated: 07/31/2025 (based on data from Excel file: [US Eye Insurance Guide.xlsx](https://useyecorp.sharepoint.com/:x:/r/RCM/Shared%20Documents/Insurance%20Guides/US%20Eye%20Insurance%20Guide.xlsx?d=w2a2138d41fa04bfa919fc4966998346a&csf=1&web=1&e=73a3Gf&nav=MTVfezIwMjg5MTIyLTdDRkEtNEE0OS1CODBGLTdFNTc3Njc3OTJDNX0))*
+*Last Updated: 08/01/2025 (based on data from Excel file: [US Eye Insurance Guide.xlsx](https://useyecorp.sharepoint.com/:x:/r/RCM/Shared%20Documents/Insurance%20Guides/US%20Eye%20Insurance%20Guide.xlsx?d=w2a2138d41fa04bfa919fc4966998346a&csf=1&web=1&e=73a3Gf&nav=MTVfezIwMjg5MTIyLTdDRkEtNEE0OS1CODBGLTdFNTc3Njc3OTJDNX0))*
 
 *This guide lists insurance participation by doctor. Click a doctor's name to view all insurance info for that doctor, grouped by location/CSV.*
 
@@ -32,7 +32,7 @@
 * [Joshua Newman, MD (Center for Sight)](insurance_docs/Joshua_Newman_MD.md)
 * [Julie Carter, MD (Center for Sight-Naples)](insurance_docs/Julie_Carter_MD.md)
 * [Kalie Kosek, PA (Center for Sight)](insurance_docs/Kalie_Kosek_PA.md)
-* [Karin Girgis, OD - Start Date 9-15/2025 (Lake Eye )](insurance_docs/Karin_Girgis_OD_-_Start_Date_9-15_2025.md)
+* [Karin Girgis, OD - Start Date 8/18/2025 (Lake Eye )](insurance_docs/Karin_Girgis_OD_-_Start_Date_8_18_2025.md)
 * [Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 (Center for Sight)](insurance_docs/Khrystyna_Ostrozhynska_OD_-_Start_Date_9_30_2025.md)
 * [Kyle Schaub, OD (Center for Sight)](insurance_docs/Kyle_Schaub_OD.md)
 * [Len Brown, OD (Center for Sight)](insurance_docs/Len_Brown_OD.md)

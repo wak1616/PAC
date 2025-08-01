@@ -62,7 +62,7 @@
 | Christine Bui, OD | UHC Commercial HMO | No Ref/No Auth Required | PAR |
 | Diba Ossareh, OD | UHC Commercial HMO | No Ref/No Auth Required | PAR |
 | Jose Vazques-Diaz, MD | UHC Commercial HMO | No Ref/No Auth Required | PAR |
-| Karin Girgis, OD - Start Date 9-15/2025 | UHC Commercial HMO | No Ref/No Auth Required | Non-PAR |
+| Karin Girgis, OD - Start Date 8/18/2025 | UHC Commercial HMO | No Ref/No Auth Required | Non-PAR |
 | Mari Holderby, OD | UHC Commercial HMO | No Ref/No Auth Required | PAR |
 | Scot Holman, MD | UHC Commercial HMO | No Ref/No Auth Required | PAR |
 | Scott Wehrly, MD | UHC Commercial HMO | No Ref/No Auth Required | PAR |

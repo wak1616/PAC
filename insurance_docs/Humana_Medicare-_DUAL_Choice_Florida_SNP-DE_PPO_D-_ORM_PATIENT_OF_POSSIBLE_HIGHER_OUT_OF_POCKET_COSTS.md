@@ -12,7 +12,7 @@
 | Christine Bui, OD | Primary: Humana Dual Medicare PPO Primary                                                 Secondary: Humana Dual Medicaid Secondary |  | Non-PAR -OON Benefits |
 | Diba Ossareh, OD | Primary: Humana Dual Medicare PPO Primary                                                 Secondary: Humana Dual Medicaid Secondary |  | Non-PAR -OON Benefits |
 | Jose Vazques-Diaz, MD | Primary: Humana Dual Medicare PPO Primary                                                 Secondary: Humana Dual Medicaid Secondary |  | Non-PAR -OON Benefits |
-| Karin Girgis, OD - Start Date 9-15/2025 | Primary: Humana Dual Medicare PPO Primary                                                 Secondary: Humana Dual Medicaid Secondary |  | Non-PAR -OON Benefits |
+| Karin Girgis, OD - Start Date 8/18/2025 | Primary: Humana Dual Medicare PPO Primary                                                 Secondary: Humana Dual Medicaid Secondary |  | Non-PAR -OON Benefits |
 | Mari Holderby, OD | Primary: Humana Dual Medicare PPO Primary                                                 Secondary: Humana Dual Medicaid Secondary |  | Non-PAR -OON Benefits |
 | Scot Holman, MD | Primary: Humana Dual Medicare PPO Primary                                                 Secondary: Humana Dual Medicaid Secondary |  | Non-PAR -OON Benefits |
 | Scott Wehrly, MD | Primary: Humana Dual Medicare PPO Primary                                                 Secondary: Humana Dual Medicaid Secondary |  | Non-PAR -OON Benefits |

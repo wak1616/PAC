@@ -62,7 +62,7 @@
 | Christine Bui, OD | Railroad Medicare | No Ref/No Auth Required | PAR |
 | Diba Ossareh, OD | Railroad Medicare | No Ref/No Auth Required | PAR |
 | Jose Vazques-Diaz, MD | Railroad Medicare | No Ref/No Auth Required | PAR |
-| Karin Girgis, OD - Start Date 9-15/2025 | Railroad Medicare | No Ref/No Auth Required | Non-PAR -Ok to schedule |
+| Karin Girgis, OD - Start Date 8/18/2025 | Railroad Medicare | No Ref/No Auth Required | Non-PAR -Ok to schedule |
 | Mari Holderby, OD | Railroad Medicare | No Ref/No Auth Required | PAR |
 | Scot Holman, MD | Railroad Medicare | No Ref/No Auth Required | PAR |
 | Scott Wehrly, MD | Railroad Medicare | No Ref/No Auth Required | PAR |

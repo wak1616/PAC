@@ -62,7 +62,7 @@
 | Christine Bui, OD | Spectera Vision | No Ref/No Auth Required | PAR |
 | Diba Ossareh, OD | Spectera Vision | No Ref/No Auth Required | PAR |
 | Jose Vazques-Diaz, MD | Spectera Vision | No Ref/No Auth Required | PAR |
-| Karin Girgis, OD - Start Date 9-15/2025 | Spectera Vision | No Ref/No Auth Required | Non-PAR |
+| Karin Girgis, OD - Start Date 8/18/2025 | Spectera Vision | No Ref/No Auth Required | Non-PAR |
 | Mari Holderby, OD | Spectera Vision | No Ref/No Auth Required | PAR |
 | Scot Holman, MD | Spectera Vision | No Ref/No Auth Required | PAR |
 | Scott Wehrly, MD | Spectera Vision | No Ref/No Auth Required | PAR |

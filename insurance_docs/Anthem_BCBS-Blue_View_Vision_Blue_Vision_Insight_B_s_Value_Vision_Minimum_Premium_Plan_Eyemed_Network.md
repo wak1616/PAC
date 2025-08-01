@@ -62,7 +62,7 @@
 | Christine Bui, OD | Anthem BCBS Vision | No Ref/No Auth Required | PAR |
 | Diba Ossareh, OD | Anthem BCBS Vision | No Ref/No Auth Required | PAR |
 | Jose Vazques-Diaz, MD | Anthem BCBS Vision | No Ref/No Auth Required | Non-PAR |
-| Karin Girgis, OD - Start Date 9-15/2025 | Anthem BCBS Vision | No Ref/No Auth Required | Non-PAR |
+| Karin Girgis, OD - Start Date 8/18/2025 | Anthem BCBS Vision | No Ref/No Auth Required | Non-PAR |
 | Mari Holderby, OD | Anthem BCBS Vision | No Ref/No Auth Required | PAR |
 | Scot Holman, MD | Anthem BCBS Vision | No Ref/No Auth Required | PAR |
 | Scott Wehrly, MD | Anthem BCBS Vision | No Ref/No Auth Required | Non-PAR |

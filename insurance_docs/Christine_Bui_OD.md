@@ -138,6 +138,7 @@
 | Meritain Gulf Coast (Aetna Choice POS II Network) | Meritain Health Commercial - Aetna | No Ref/No Auth Required | PAR |
 | Meritain Health - Sarasota Memorial (BASIC AND/OR COMPREHENSIVE PLAN) PLEASE ASK THE PATIENT IF THE CARD HAS "SMH" ON THEIR CARD. IF THE CARD SAYS BASIC OR COMPREHENSIVE PLAN, WE ARE OUT OF NETWORK AND THERE ARE NO OON BENEFITS | Self Pay Non-Par with Ins |  | Non-PAR |
 | Meritain Health - Sarasota Memorial (EXTENSIVE MEDICAL PLAN) PLEASE ASK THE PATIENT IF THE CARD HAS "SMH" ON THEIR CARD AND THE CARD MUST SAY EXTENDED MEDICAL PLAN. THE EXTENDED MEDICAL PLAN APPLIES TOWARDS THE PATIENT'S TIER 2 BENEFITS - AETNA CHOICE POS II | Meritain Health SMH Extd  Pln | Authorization MAY be Required | Non-PAR |
+| Moda Health PPO (Aetna Network) | Moda Health PPO |  | PAR |
 | Multiplan PLEASE ASK THE PATIENT FOR THE HEALTH PLAN NAME ON THE CARD AND LOAD THE PLAN INTO NEXTGEN ACCORDING TO THEIR HEALTH PLAN | PLEASE ASK THE PATIENT FOR THE HEALTH PLAN NAME ON THE CARD. IF THE PAYER IS NOT LOADED INTO THE SYSTEM, USE: INS NOT IN NEXTGEN. SEE: Generic Insurance Protocol - PAC, Front Desk, and Customer Service.pdf |  | PAR |
 | NALC Health Benefit Plan (Cigna Open Access Plus Network) | NALC Health Benefit Plan- Cigna | No Ref/No Auth Required | PAR |
 | Optum VA-VETERANS AFFAIRS Community Care Network (CCN) | Optum VA Community Care | Authorization Required | PAR |

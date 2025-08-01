@@ -62,7 +62,7 @@
 | Christine Bui, OD | Allegiance Benefit Plan Management-Cigna | No Ref/No Auth Required | PAR |
 | Diba Ossareh, OD | Allegiance Benefit Plan Management-Cigna | No Ref/No Auth Required | PAR |
 | Jose Vazques-Diaz, MD | Allegiance Benefit Plan Management-Cigna | No Ref/No Auth Required | PAR |
-| Karin Girgis, OD - Start Date 9-15/2025 | Allegiance Benefit Plan Management-Cigna | No Ref/No Auth Required | Non-PAR |
+| Karin Girgis, OD - Start Date 8/18/2025 | Allegiance Benefit Plan Management-Cigna | No Ref/No Auth Required | Non-PAR |
 | Mari Holderby, OD | Allegiance Benefit Plan Management-Cigna | No Ref/No Auth Required | PAR |
 | Scot Holman, MD | Allegiance Benefit Plan Management-Cigna | No Ref/No Auth Required | PAR |
 | Scott Wehrly, MD | Allegiance Benefit Plan Management-Cigna | No Ref/No Auth Required | PAR |

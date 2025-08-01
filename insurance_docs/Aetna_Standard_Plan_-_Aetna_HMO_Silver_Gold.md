@@ -12,7 +12,7 @@
 | Christine Bui, OD | Aetna Comm HMO REFERRAL REQ | Referral Required | PAR |
 | Diba Ossareh, OD | Aetna Comm HMO REFERRAL REQ | Referral Required | PAR |
 | Jose Vazques-Diaz, MD | Aetna Comm HMO REFERRAL REQ | Referral Required | PAR |
-| Karin Girgis, OD - Start Date 9-15/2025 | Aetna Comm HMO REFERRAL REQ | Referral Required | Non-PAR |
+| Karin Girgis, OD - Start Date 8/18/2025 | Aetna Comm HMO REFERRAL REQ | Referral Required | Non-PAR |
 | Mari Holderby, OD | Aetna Comm HMO REFERRAL REQ | Referral Required | PAR |
 | Scot Holman, MD | Aetna Comm HMO REFERRAL REQ | Referral Required | PAR |
 | Scott Wehrly, MD | Aetna Comm HMO REFERRAL REQ | Referral Required | PAR |

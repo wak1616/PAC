@@ -12,7 +12,7 @@
 | Christine Bui, OD | Vision Service Plan | Authorization Required | PAR |
 | Diba Ossareh, OD | Vision Service Plan | Authorization Required | PAR |
 | Jose Vazques-Diaz, MD | Vision Service Plan | Authorization Required | PAR |
-| Karin Girgis, OD - Start Date 9-15/2025 | Vision Service Plan | Authorization Required | Non-PAR |
+| Karin Girgis, OD - Start Date 8/18/2025 | Vision Service Plan | Authorization Required | Non-PAR |
 | Mari Holderby, OD | Vision Service Plan | Authorization Required | PAR |
 | Scot Holman, MD | Vision Service Plan | Authorization Required | Non-PAR |
 | Scott Wehrly, MD | Vision Service Plan | Authorization Required | PAR |
