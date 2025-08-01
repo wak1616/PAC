@@ -1374,9 +1374,9 @@ Certain requests **only** clinical staff or providers can handle. Refer to the t
 | Medications / Drops                         | Normal      | Prescription Drug Management | \*Practice (Provider) Team (Established patients only) |
 | Post Op Care                                | Urgent      | Continuing Care              | \*Practice (Provider) Team (mark as Urgent)            |
 | General Exam / Diagnosis                    | Normal      | Continuing Care              | \*Practice (Provider) Team                             |
-| CL or Glasses Copy of Prescription          | Normal      | Contact Lens / Glasses       | \*Practice (Provider) Team                             |
+| CL or Glasses Copy of Prescription          | Normal      | Contact Lens / Glasses       | \*Practice Patient Care Team                             |
 | Change/Alter CL or Glasses Rx (not expired) | Normal      | Contact Lens / Glasses       | \*Practice (Provider) Team                             |
-| DMV Forms                                   | Normal      | Continuing Care              | \*Practice (Provider) Team                             |
+| DMV Forms                                   | Normal      | Continuing Care              | \*Practice Patient Care Team                             |
 
 > **Notify Field Examples**:
 >
