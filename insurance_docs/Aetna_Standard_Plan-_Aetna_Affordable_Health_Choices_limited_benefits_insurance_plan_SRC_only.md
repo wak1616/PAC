@@ -29,13 +29,13 @@
 | Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | Aetna Comm Fixed Benefits PPO | No Ref/No Auth Required | Non-PAR |
 | Kyle Schaub, OD | Aetna Comm Fixed Benefits PPO | No Ref/No Auth Required | PAR |
 | Len Brown, OD | Aetna Comm Fixed Benefits PPO | No Ref/No Auth Required | PAR |
+| Logan Page, OD | Aetna Comm Fixed Benefits PPO | No Ref/No Auth Required | PAR |
 | Lori Long, OD | Aetna Comm Fixed Benefits PPO | No Ref/No Auth Required | PAR |
 | Lori Vollmer, OD | Aetna Comm Fixed Benefits PPO | No Ref/No Auth Required | PAR |
 | Mary Mcvey, OD | Aetna Comm Fixed Benefits PPO | No Ref/No Auth Required | PAR |
 | Maureen Traina, PA | Aetna Comm Fixed Benefits PPO | No Ref/No Auth Required | PAR |
 | Melissa Hammond, OD | Aetna Comm Fixed Benefits PPO | No Ref/No Auth Required | PAR |
 | Michael Maloney, OD | Aetna Comm Fixed Benefits PPO | No Ref/No Auth Required | PAR |
-| Page Logan, OD | Aetna Comm Fixed Benefits PPO | No Ref/No Auth Required | PAR |
 | Patrick Nelson, OD | Aetna Comm Fixed Benefits PPO | No Ref/No Auth Required | PAR |
 | Priya Mathews, MD | Aetna Comm Fixed Benefits PPO | No Ref/No Auth Required | PAR |
 | Rachael Randolph, OD | Aetna Comm Fixed Benefits PPO | No Ref/No Auth Required | PAR |

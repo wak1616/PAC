@@ -29,13 +29,13 @@
 | Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | Eyemed Vision | No Ref/No Auth Required | Non-PAR |
 | Kyle Schaub, OD | Eyemed Vision | No Ref/No Auth Required | PAR |
 | Len Brown, OD | Eyemed Vision | No Ref/No Auth Required | PAR |
+| Logan Page, OD | Eyemed Vision | No Ref/No Auth Required | PAR |
 | Lori Long, OD | Eyemed Vision | No Ref/No Auth Required | PAR |
 | Lori Vollmer, OD | Eyemed Vision | No Ref/No Auth Required | PAR |
 | Mary Mcvey, OD | Eyemed Vision | No Ref/No Auth Required | PAR |
 | Maureen Traina, PA | Eyemed Vision | No Ref/No Auth Required | Non-PAR |
 | Melissa Hammond, OD | Eyemed Vision | No Ref/No Auth Required | PAR |
 | Michael Maloney, OD | Eyemed Vision | No Ref/No Auth Required | PAR |
-| Page Logan, OD | Eyemed Vision | No Ref/No Auth Required | PAR |
 | Patrick Nelson, OD | Eyemed Vision | No Ref/No Auth Required | PAR |
 | Priya Mathews, MD | Eyemed Vision | No Ref/No Auth Required | Non-PAR |
 | Rachael Randolph, OD | Eyemed Vision | No Ref/No Auth Required | PAR |

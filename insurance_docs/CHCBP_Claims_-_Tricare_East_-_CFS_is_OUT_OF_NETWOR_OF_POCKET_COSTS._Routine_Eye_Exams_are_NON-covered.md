@@ -29,13 +29,13 @@
 | Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | CHCBP Claims | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Kyle Schaub, OD | CHCBP Claims | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Len Brown, OD | CHCBP Claims | No Ref/No Auth Required | Non-PAR -OON Benefits |
+| Logan Page, OD | CHCBP Claims | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Lori Long, OD | CHCBP Claims | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Lori Vollmer, OD | CHCBP Claims | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Mary Mcvey, OD | CHCBP Claims | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Maureen Traina, PA | CHCBP Claims | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Melissa Hammond, OD | CHCBP Claims | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Michael Maloney, OD | CHCBP Claims | No Ref/No Auth Required | Non-PAR -OON Benefits |
-| Page Logan, OD | CHCBP Claims | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Patrick Nelson, OD | CHCBP Claims | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Priya Mathews, MD | CHCBP Claims | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Rachael Randolph, OD | CHCBP Claims | No Ref/No Auth Required | Non-PAR -OON Benefits |

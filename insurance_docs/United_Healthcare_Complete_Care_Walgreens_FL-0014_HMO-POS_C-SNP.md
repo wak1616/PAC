@@ -29,13 +29,13 @@
 | Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | UHC AARP Advantage HMO-87726 | No Ref/No Auth Required | Non-PAR |
 | Kyle Schaub, OD | UHC AARP Advantage HMO-87726 | No Ref/No Auth Required | PAR |
 | Len Brown, OD | UHC AARP Advantage HMO-87726 | No Ref/No Auth Required | PAR |
+| Logan Page, OD | UHC AARP Advantage HMO-87726 | No Ref/No Auth Required | PAR |
 | Lori Long, OD | UHC AARP Advantage HMO-87726 | No Ref/No Auth Required | PAR |
 | Lori Vollmer, OD | UHC AARP Advantage HMO-87726 | No Ref/No Auth Required | PAR |
 | Mary Mcvey, OD | UHC AARP Advantage HMO-87726 | No Ref/No Auth Required | PAR |
 | Maureen Traina, PA | UHC AARP Advantage HMO-87726 | No Ref/No Auth Required | PAR |
 | Melissa Hammond, OD | UHC AARP Advantage HMO-87726 | No Ref/No Auth Required | PAR |
 | Michael Maloney, OD | UHC AARP Advantage HMO-87726 | No Ref/No Auth Required | PAR |
-| Page Logan, OD | UHC AARP Advantage HMO-87726 | No Ref/No Auth Required | PAR |
 | Patrick Nelson, OD | UHC AARP Advantage HMO-87726 | No Ref/No Auth Required | PAR |
 | Priya Mathews, MD | UHC AARP Advantage HMO-87726 | No Ref/No Auth Required | PAR |
 | Rachael Randolph, OD | UHC AARP Advantage HMO-87726 | No Ref/No Auth Required | PAR |

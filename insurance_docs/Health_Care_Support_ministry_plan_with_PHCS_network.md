@@ -29,13 +29,13 @@
 | Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | Health Care Support - PHCS | No Ref/No Auth Required | Non-PAR |
 | Kyle Schaub, OD | Health Care Support - PHCS | No Ref/No Auth Required | PAR |
 | Len Brown, OD | Health Care Support - PHCS | No Ref/No Auth Required | PAR |
+| Logan Page, OD | Health Care Support - PHCS | No Ref/No Auth Required | PAR |
 | Lori Long, OD | Health Care Support - PHCS | No Ref/No Auth Required | PAR |
 | Lori Vollmer, OD | Health Care Support - PHCS | No Ref/No Auth Required | PAR |
 | Mary Mcvey, OD | Health Care Support - PHCS | No Ref/No Auth Required | PAR |
 | Maureen Traina, PA | Health Care Support - PHCS | No Ref/No Auth Required | PAR |
 | Melissa Hammond, OD | Health Care Support - PHCS | No Ref/No Auth Required | PAR |
 | Michael Maloney, OD | Health Care Support - PHCS | No Ref/No Auth Required | PAR |
-| Page Logan, OD | Health Care Support - PHCS | No Ref/No Auth Required | PAR |
 | Patrick Nelson, OD | Health Care Support - PHCS | No Ref/No Auth Required | PAR |
 | Priya Mathews, MD | Health Care Support - PHCS | No Ref/No Auth Required | PAR |
 | Rachael Randolph, OD | Health Care Support - PHCS | No Ref/No Auth Required | PAR |

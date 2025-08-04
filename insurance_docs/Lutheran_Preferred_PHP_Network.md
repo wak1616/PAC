@@ -29,13 +29,13 @@
 | Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | Lutheran Preferred - PHP | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Kyle Schaub, OD | Lutheran Preferred - PHP | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Len Brown, OD | Lutheran Preferred - PHP | No Ref/No Auth Required | Non-PAR -OON Benefits |
+| Logan Page, OD | Lutheran Preferred - PHP | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Lori Long, OD | Lutheran Preferred - PHP | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Lori Vollmer, OD | Lutheran Preferred - PHP | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Mary Mcvey, OD | Lutheran Preferred - PHP | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Maureen Traina, PA | Lutheran Preferred - PHP | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Melissa Hammond, OD | Lutheran Preferred - PHP | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Michael Maloney, OD | Lutheran Preferred - PHP | No Ref/No Auth Required | Non-PAR -OON Benefits |
-| Page Logan, OD | Lutheran Preferred - PHP | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Patrick Nelson, OD | Lutheran Preferred - PHP | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Priya Mathews, MD | Lutheran Preferred - PHP | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Rachael Randolph, OD | Lutheran Preferred - PHP | No Ref/No Auth Required | Non-PAR -OON Benefits |

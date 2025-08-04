@@ -29,13 +29,13 @@
 | Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | UHC Harvard Pilgrim-39026 | No Ref/No Auth Required | Non-PAR |
 | Kyle Schaub, OD | UHC Harvard Pilgrim-39026 | No Ref/No Auth Required | PAR |
 | Len Brown, OD | UHC Harvard Pilgrim-39026 | No Ref/No Auth Required | PAR |
+| Logan Page, OD | UHC Harvard Pilgrim-39026 | No Ref/No Auth Required | PAR |
 | Lori Long, OD | UHC Harvard Pilgrim-39026 | No Ref/No Auth Required | PAR |
 | Lori Vollmer, OD | UHC Harvard Pilgrim-39026 | No Ref/No Auth Required | PAR |
 | Mary Mcvey, OD | UHC Harvard Pilgrim-39026 | No Ref/No Auth Required | PAR |
 | Maureen Traina, PA | UHC Harvard Pilgrim-39026 | No Ref/No Auth Required | PAR |
 | Melissa Hammond, OD | UHC Harvard Pilgrim-39026 | No Ref/No Auth Required | PAR |
 | Michael Maloney, OD | UHC Harvard Pilgrim-39026 | No Ref/No Auth Required | PAR |
-| Page Logan, OD | UHC Harvard Pilgrim-39026 | No Ref/No Auth Required | PAR |
 | Patrick Nelson, OD | UHC Harvard Pilgrim-39026 | No Ref/No Auth Required | PAR |
 | Priya Mathews, MD | UHC Harvard Pilgrim-39026 | No Ref/No Auth Required | PAR |
 | Rachael Randolph, OD | UHC Harvard Pilgrim-39026 | No Ref/No Auth Required | PAR |

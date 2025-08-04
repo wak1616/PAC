@@ -29,13 +29,13 @@
 | Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | Allied National Open Access | No Ref/No Auth Required | Non-PAR |
 | Kyle Schaub, OD | Allied National Open Access | No Ref/No Auth Required | PAR |
 | Len Brown, OD | Allied National Open Access | No Ref/No Auth Required | PAR |
+| Logan Page, OD | Allied National Open Access | No Ref/No Auth Required | PAR |
 | Lori Long, OD | Allied National Open Access | No Ref/No Auth Required | PAR |
 | Lori Vollmer, OD | Allied National Open Access | No Ref/No Auth Required | PAR |
 | Mary Mcvey, OD | Allied National Open Access | No Ref/No Auth Required | PAR |
 | Maureen Traina, PA | Allied National Open Access | No Ref/No Auth Required | PAR |
 | Melissa Hammond, OD | Allied National Open Access | No Ref/No Auth Required | PAR |
 | Michael Maloney, OD | Allied National Open Access | No Ref/No Auth Required | PAR |
-| Page Logan, OD | Allied National Open Access | No Ref/No Auth Required | PAR |
 | Patrick Nelson, OD | Allied National Open Access | No Ref/No Auth Required | PAR |
 | Priya Mathews, MD | Allied National Open Access | No Ref/No Auth Required | PAR |
 | Rachael Randolph, OD | Allied National Open Access | No Ref/No Auth Required | PAR |

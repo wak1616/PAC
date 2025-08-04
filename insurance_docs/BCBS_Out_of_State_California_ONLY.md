@@ -29,13 +29,13 @@
 | Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | BCBS OOS CA - REFERRAL AND AUTH REQ- | Authorization Required | Non-PAR |
 | Kyle Schaub, OD | BCBS OOS CA - REFERRAL AND AUTH REQ- | Authorization Required | PAR |
 | Len Brown, OD | BCBS OOS CA - REFERRAL AND AUTH REQ- | Authorization Required | PAR |
+| Logan Page, OD | BCBS OOS CA - REFERRAL AND AUTH REQ- | Authorization Required | PAR |
 | Lori Long, OD | BCBS OOS CA - REFERRAL AND AUTH REQ- | Authorization Required | PAR |
 | Lori Vollmer, OD | BCBS OOS CA - REFERRAL AND AUTH REQ- | Authorization Required | PAR |
 | Mary Mcvey, OD | BCBS OOS CA - REFERRAL AND AUTH REQ- | Authorization Required | PAR |
 | Maureen Traina, PA | BCBS OOS CA - REFERRAL AND AUTH REQ- | Authorization Required | PAR |
 | Melissa Hammond, OD | BCBS OOS CA - REFERRAL AND AUTH REQ- | Authorization Required | PAR |
 | Michael Maloney, OD | BCBS OOS CA - REFERRAL AND AUTH REQ- | Authorization Required | PAR |
-| Page Logan, OD | BCBS OOS CA - REFERRAL AND AUTH REQ- | Authorization Required | PAR |
 | Patrick Nelson, OD | BCBS OOS CA - REFERRAL AND AUTH REQ- | Authorization Required | PAR |
 | Priya Mathews, MD | BCBS OOS CA - REFERRAL AND AUTH REQ- | Authorization Required | PAR |
 | Rachael Randolph, OD | BCBS OOS CA - REFERRAL AND AUTH REQ- | Authorization Required | PAR |

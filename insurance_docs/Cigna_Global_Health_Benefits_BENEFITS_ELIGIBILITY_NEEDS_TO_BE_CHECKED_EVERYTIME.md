@@ -29,13 +29,13 @@
 | Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | Cigna International | Authorization Required | Non-PAR |
 | Kyle Schaub, OD | Cigna International | Authorization Required | PAR |
 | Len Brown, OD | Cigna International | Authorization Required | PAR |
+| Logan Page, OD | Cigna International | Authorization Required | PAR |
 | Lori Long, OD | Cigna International | Authorization Required | PAR |
 | Lori Vollmer, OD | Cigna International | Authorization Required | PAR |
 | Mary Mcvey, OD | Cigna International | Authorization Required | PAR |
 | Maureen Traina, PA | Cigna International | Authorization Required | PAR |
 | Melissa Hammond, OD | Cigna International | Authorization Required | PAR |
 | Michael Maloney, OD | Cigna International | Authorization Required | PAR |
-| Page Logan, OD | Cigna International | Authorization Required | PAR |
 | Patrick Nelson, OD | Cigna International | Authorization Required | PAR |
 | Priya Mathews, MD | Cigna International | Authorization Required | PAR |
 | Rachael Randolph, OD | Cigna International | Authorization Required | PAR |

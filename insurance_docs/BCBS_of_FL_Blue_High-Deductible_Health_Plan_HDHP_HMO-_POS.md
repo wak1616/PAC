@@ -29,13 +29,13 @@
 | Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | BCBS FL Commercial HMO-POS |  | Non-PAR |
 | Kyle Schaub, OD | BCBS FL Commercial HMO-POS |  | PAR |
 | Len Brown, OD | BCBS FL Commercial HMO-POS |  | PAR |
+| Logan Page, OD | BCBS FL Commercial HMO-POS |  | PAR |
 | Lori Long, OD | BCBS FL Commercial HMO-POS |  | PAR |
 | Lori Vollmer, OD | BCBS FL Commercial HMO-POS |  | PAR |
 | Mary Mcvey, OD | BCBS FL Commercial HMO-POS |  | PAR |
 | Maureen Traina, PA | BCBS FL Commercial HMO-POS |  | PAR |
 | Melissa Hammond, OD | BCBS FL Commercial HMO-POS |  | PAR |
 | Michael Maloney, OD | BCBS FL Commercial HMO-POS |  | PAR |
-| Page Logan, OD | BCBS FL Commercial HMO-POS |  | PAR |
 | Patrick Nelson, OD | BCBS FL Commercial HMO-POS |  | PAR |
 | Priya Mathews, MD | BCBS FL Commercial HMO-POS |  | PAR |
 | Rachael Randolph, OD | BCBS FL Commercial HMO-POS |  | PAR |

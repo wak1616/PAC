@@ -29,13 +29,13 @@
 | Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | Cigna Commercial PPO | No Ref/No Auth Required | Non-PAR |
 | Kyle Schaub, OD | Cigna Commercial PPO | No Ref/No Auth Required | PAR |
 | Len Brown, OD | Cigna Commercial PPO | No Ref/No Auth Required | PAR |
+| Logan Page, OD | Cigna Commercial PPO | No Ref/No Auth Required | PAR |
 | Lori Long, OD | Cigna Commercial PPO | No Ref/No Auth Required | PAR |
 | Lori Vollmer, OD | Cigna Commercial PPO | No Ref/No Auth Required | PAR |
 | Mary Mcvey, OD | Cigna Commercial PPO | No Ref/No Auth Required | PAR |
 | Maureen Traina, PA | Cigna Commercial PPO | No Ref/No Auth Required | Non-PAR |
 | Melissa Hammond, OD | Cigna Commercial PPO | No Ref/No Auth Required | PAR |
 | Michael Maloney, OD | Cigna Commercial PPO | No Ref/No Auth Required | PAR |
-| Page Logan, OD | Cigna Commercial PPO | No Ref/No Auth Required | PAR |
 | Patrick Nelson, OD | Cigna Commercial PPO | No Ref/No Auth Required | PAR |
 | Priya Mathews, MD | Cigna Commercial PPO | No Ref/No Auth Required | PAR |
 | Rachael Randolph, OD | Cigna Commercial PPO | No Ref/No Auth Required | PAR |

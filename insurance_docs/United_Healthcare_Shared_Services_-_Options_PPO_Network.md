@@ -29,13 +29,13 @@
 | Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | UHC Shared Services PPO-39026 | No Ref/No Auth Required | Non-PAR |
 | Kyle Schaub, OD | UHC Shared Services PPO-39026 | No Ref/No Auth Required | PAR |
 | Len Brown, OD | UHC Shared Services PPO-39026 | No Ref/No Auth Required | PAR |
+| Logan Page, OD | UHC Shared Services PPO-39026 | No Ref/No Auth Required | PAR |
 | Lori Long, OD | UHC Shared Services PPO-39026 | No Ref/No Auth Required | PAR |
 | Lori Vollmer, OD | UHC Shared Services PPO-39026 | No Ref/No Auth Required | PAR |
 | Mary Mcvey, OD | UHC Shared Services PPO-39026 | No Ref/No Auth Required | PAR |
 | Maureen Traina, PA | UHC Shared Services PPO-39026 | No Ref/No Auth Required | PAR |
 | Melissa Hammond, OD | UHC Shared Services PPO-39026 | No Ref/No Auth Required | PAR |
 | Michael Maloney, OD | UHC Shared Services PPO-39026 | No Ref/No Auth Required | PAR |
-| Page Logan, OD | UHC Shared Services PPO-39026 | No Ref/No Auth Required | PAR |
 | Patrick Nelson, OD | UHC Shared Services PPO-39026 | No Ref/No Auth Required | PAR |
 | Priya Mathews, MD | UHC Shared Services PPO-39026 | No Ref/No Auth Required | PAR |
 | Rachael Randolph, OD | UHC Shared Services PPO-39026 | No Ref/No Auth Required | PAR |

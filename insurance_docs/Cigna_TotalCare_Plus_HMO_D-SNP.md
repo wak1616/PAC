@@ -29,13 +29,13 @@
 | Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | Primary: Cigna Dual MDCR HMO Primary-REFERRAL REQ                                                      Secondary: Cigna Dual Medicaid HMO Secondary | Referral Required | Non-PAR |
 | Kyle Schaub, OD | Primary: Cigna Dual MDCR HMO Primary-REFERRAL REQ                                                      Secondary: Cigna Dual Medicaid HMO Secondary | Referral Required | PAR |
 | Len Brown, OD | Primary: Cigna Dual MDCR HMO Primary-REFERRAL REQ                                                      Secondary: Cigna Dual Medicaid HMO Secondary | Referral Required | PAR |
+| Logan Page, OD | Primary: Cigna Dual MDCR HMO Primary-REFERRAL REQ                                                      Secondary: Cigna Dual Medicaid HMO Secondary | Referral Required | PAR |
 | Lori Long, OD | Primary: Cigna Dual MDCR HMO Primary-REFERRAL REQ                                                      Secondary: Cigna Dual Medicaid HMO Secondary | Referral Required | PAR |
 | Lori Vollmer, OD | Primary: Cigna Dual MDCR HMO Primary-REFERRAL REQ                                                      Secondary: Cigna Dual Medicaid HMO Secondary | Referral Required | PAR |
 | Mary Mcvey, OD | Primary: Cigna Dual MDCR HMO Primary-REFERRAL REQ                                                      Secondary: Cigna Dual Medicaid HMO Secondary | Referral Required | PAR |
 | Maureen Traina, PA | Primary: Cigna Dual MDCR HMO Primary-REFERRAL REQ                                                      Secondary: Cigna Dual Medicaid HMO Secondary | Referral Required | Non-PAR |
 | Melissa Hammond, OD | Primary: Cigna Dual MDCR HMO Primary-REFERRAL REQ                                                      Secondary: Cigna Dual Medicaid HMO Secondary | Referral Required | PAR |
 | Michael Maloney, OD | Primary: Cigna Dual MDCR HMO Primary-REFERRAL REQ                                                      Secondary: Cigna Dual Medicaid HMO Secondary | Referral Required | PAR |
-| Page Logan, OD | Primary: Cigna Dual MDCR HMO Primary-REFERRAL REQ                                                      Secondary: Cigna Dual Medicaid HMO Secondary | Referral Required | PAR |
 | Patrick Nelson, OD | Primary: Cigna Dual MDCR HMO Primary-REFERRAL REQ                                                      Secondary: Cigna Dual Medicaid HMO Secondary | Referral Required | PAR |
 | Priya Mathews, MD | Primary: Cigna Dual MDCR HMO Primary-REFERRAL REQ                                                      Secondary: Cigna Dual Medicaid HMO Secondary | Referral Required | PAR |
 | Rachael Randolph, OD | Primary: Cigna Dual MDCR HMO Primary-REFERRAL REQ                                                      Secondary: Cigna Dual Medicaid HMO Secondary | Referral Required | PAR |

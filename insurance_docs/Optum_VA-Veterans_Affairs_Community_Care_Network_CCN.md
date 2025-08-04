@@ -29,13 +29,13 @@
 | Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | Optum VA Community Care | Authorization Required | Non-PAR |
 | Kyle Schaub, OD | Optum VA Community Care | Authorization Required | PAR |
 | Len Brown, OD | Optum VA Community Care | Authorization Required | PAR |
+| Logan Page, OD | Optum VA Community Care | Authorization Required | PAR |
 | Lori Long, OD | Optum VA Community Care | Authorization Required | PAR |
 | Lori Vollmer, OD | Optum VA Community Care | Authorization Required | PAR |
 | Mary Mcvey, OD | Optum VA Community Care | Authorization Required | PAR |
 | Maureen Traina, PA | Optum VA Community Care | Authorization Required | PAR |
 | Melissa Hammond, OD | Optum VA Community Care | Authorization Required | PAR |
 | Michael Maloney, OD | Optum VA Community Care | Authorization Required | PAR |
-| Page Logan, OD | Optum VA Community Care | Authorization Required | PAR |
 | Patrick Nelson, OD | Optum VA Community Care | Authorization Required | PAR |
 | Priya Mathews, MD | Optum VA Community Care | Authorization Required | PAR |
 | Rachael Randolph, OD | Optum VA Community Care | Authorization Required | PAR |

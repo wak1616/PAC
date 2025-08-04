@@ -29,13 +29,13 @@
 | Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | Independent Health - UHC | No Ref/No Auth Required | Non-PAR |
 | Kyle Schaub, OD | Independent Health - UHC | No Ref/No Auth Required | PAR |
 | Len Brown, OD | Independent Health - UHC | No Ref/No Auth Required | PAR |
+| Logan Page, OD | Independent Health - UHC | No Ref/No Auth Required | PAR |
 | Lori Long, OD | Independent Health - UHC | No Ref/No Auth Required | PAR |
 | Lori Vollmer, OD | Independent Health - UHC | No Ref/No Auth Required | PAR |
 | Mary Mcvey, OD | Independent Health - UHC | No Ref/No Auth Required | PAR |
 | Maureen Traina, PA | Independent Health - UHC | No Ref/No Auth Required | PAR |
 | Melissa Hammond, OD | Independent Health - UHC | No Ref/No Auth Required | PAR |
 | Michael Maloney, OD | Independent Health - UHC | No Ref/No Auth Required | PAR |
-| Page Logan, OD | Independent Health - UHC | No Ref/No Auth Required | PAR |
 | Patrick Nelson, OD | Independent Health - UHC | No Ref/No Auth Required | PAR |
 | Priya Mathews, MD | Independent Health - UHC | No Ref/No Auth Required | PAR |
 | Rachael Randolph, OD | Independent Health - UHC | No Ref/No Auth Required | PAR |

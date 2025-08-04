@@ -29,13 +29,13 @@
 | Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | Cigna Medicare PPO |  | Non-PAR |
 | Kyle Schaub, OD | Cigna Medicare PPO |  | PAR |
 | Len Brown, OD | Cigna Medicare PPO |  | PAR |
+| Logan Page, OD | Cigna Medicare PPO |  | PAR |
 | Lori Long, OD | Cigna Medicare PPO |  | PAR |
 | Lori Vollmer, OD | Cigna Medicare PPO |  | PAR |
 | Mary Mcvey, OD | Cigna Medicare PPO |  | PAR |
 | Maureen Traina, PA | Cigna Medicare PPO |  | PAR |
 | Melissa Hammond, OD | Cigna Medicare PPO |  | PAR |
 | Michael Maloney, OD | Cigna Medicare PPO |  | PAR |
-| Page Logan, OD | Cigna Medicare PPO |  | PAR |
 | Patrick Nelson, OD | Cigna Medicare PPO |  | PAR |
 | Priya Mathews, MD | Cigna Medicare PPO |  | PAR |
 | Rachael Randolph, OD | Cigna Medicare PPO |  | PAR |

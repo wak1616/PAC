@@ -29,13 +29,13 @@
 | Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | AvMed Commercial HMO | No Ref/No Auth Required | Non-PAR |
 | Kyle Schaub, OD | AvMed Commercial HMO | No Ref/No Auth Required | PAR |
 | Len Brown, OD | AvMed Commercial HMO | No Ref/No Auth Required | Non-PAR |
+| Logan Page, OD | AvMed Commercial HMO | No Ref/No Auth Required | PAR |
 | Lori Long, OD | AvMed Commercial HMO | No Ref/No Auth Required | PAR |
 | Lori Vollmer, OD | AvMed Commercial HMO | No Ref/No Auth Required | Non-PAR |
 | Mary Mcvey, OD | AvMed Commercial HMO | No Ref/No Auth Required | PAR |
 | Maureen Traina, PA | AvMed Commercial HMO | No Ref/No Auth Required | Non-PAR |
 | Melissa Hammond, OD | AvMed Commercial HMO | No Ref/No Auth Required | PAR |
 | Michael Maloney, OD | AvMed Commercial HMO | No Ref/No Auth Required | Non-PAR |
-| Page Logan, OD | AvMed Commercial HMO | No Ref/No Auth Required | PAR |
 | Patrick Nelson, OD | AvMed Commercial HMO | No Ref/No Auth Required | Non-PAR |
 | Priya Mathews, MD | AvMed Commercial HMO | No Ref/No Auth Required | Non-PAR |
 | Rachael Randolph, OD | AvMed Commercial HMO | No Ref/No Auth Required | PAR |

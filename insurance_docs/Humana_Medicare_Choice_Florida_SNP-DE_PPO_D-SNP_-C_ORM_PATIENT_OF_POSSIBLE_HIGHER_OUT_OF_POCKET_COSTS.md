@@ -29,13 +29,13 @@
 | Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | Primary: Humana Dual Medicare PPO Primary                                                 Secondary: Humana Dual Medicaid Secondary | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Kyle Schaub, OD | Primary: Humana Dual Medicare PPO Primary                                                 Secondary: Humana Dual Medicaid Secondary | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Len Brown, OD | Primary: Humana Dual Medicare PPO Primary                                                 Secondary: Humana Dual Medicaid Secondary | No Ref/No Auth Required | Non-PAR -OON Benefits |
+| Logan Page, OD | Primary: Humana Dual Medicare PPO Primary                                                 Secondary: Humana Dual Medicaid Secondary | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Lori Long, OD | Primary: Humana Dual Medicare PPO Primary                                                 Secondary: Humana Dual Medicaid Secondary | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Lori Vollmer, OD | Primary: Humana Dual Medicare PPO Primary                                                 Secondary: Humana Dual Medicaid Secondary | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Mary Mcvey, OD | Primary: Humana Dual Medicare PPO Primary                                                 Secondary: Humana Dual Medicaid Secondary | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Maureen Traina, PA | Primary: Humana Dual Medicare PPO Primary                                                 Secondary: Humana Dual Medicaid Secondary | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Melissa Hammond, OD | Primary: Humana Dual Medicare PPO Primary                                                 Secondary: Humana Dual Medicaid Secondary | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Michael Maloney, OD | Primary: Humana Dual Medicare PPO Primary                                                 Secondary: Humana Dual Medicaid Secondary | No Ref/No Auth Required | Non-PAR -OON Benefits |
-| Page Logan, OD | Primary: Humana Dual Medicare PPO Primary                                                 Secondary: Humana Dual Medicaid Secondary | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Patrick Nelson, OD | Primary: Humana Dual Medicare PPO Primary                                                 Secondary: Humana Dual Medicaid Secondary | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Priya Mathews, MD | Primary: Humana Dual Medicare PPO Primary                                                 Secondary: Humana Dual Medicaid Secondary | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Rachael Randolph, OD | Primary: Humana Dual Medicare PPO Primary                                                 Secondary: Humana Dual Medicaid Secondary | No Ref/No Auth Required | Non-PAR -OON Benefits |

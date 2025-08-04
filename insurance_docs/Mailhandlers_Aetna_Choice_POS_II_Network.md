@@ -29,13 +29,13 @@
 | Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | Mail Handlers Benefit Plan Comm - Aetna | No Ref/No Auth Required | Non-PAR |
 | Kyle Schaub, OD | Mail Handlers Benefit Plan Comm - Aetna | No Ref/No Auth Required | PAR |
 | Len Brown, OD | Mail Handlers Benefit Plan Comm - Aetna | No Ref/No Auth Required | PAR |
+| Logan Page, OD | Mail Handlers Benefit Plan Comm - Aetna | No Ref/No Auth Required | PAR |
 | Lori Long, OD | Mail Handlers Benefit Plan Comm - Aetna | No Ref/No Auth Required | PAR |
 | Lori Vollmer, OD | Mail Handlers Benefit Plan Comm - Aetna | No Ref/No Auth Required | PAR |
 | Mary Mcvey, OD | Mail Handlers Benefit Plan Comm - Aetna | No Ref/No Auth Required | PAR |
 | Maureen Traina, PA | Mail Handlers Benefit Plan Comm - Aetna | No Ref/No Auth Required | PAR |
 | Melissa Hammond, OD | Mail Handlers Benefit Plan Comm - Aetna | No Ref/No Auth Required | PAR |
 | Michael Maloney, OD | Mail Handlers Benefit Plan Comm - Aetna | No Ref/No Auth Required | PAR |
-| Page Logan, OD | Mail Handlers Benefit Plan Comm - Aetna | No Ref/No Auth Required | PAR |
 | Patrick Nelson, OD | Mail Handlers Benefit Plan Comm - Aetna | No Ref/No Auth Required | PAR |
 | Priya Mathews, MD | Mail Handlers Benefit Plan Comm - Aetna | No Ref/No Auth Required | PAR |
 | Rachael Randolph, OD | Mail Handlers Benefit Plan Comm - Aetna | No Ref/No Auth Required | PAR |

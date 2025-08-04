@@ -29,13 +29,13 @@
 | Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | UHC ER Wrap | Authorization Required | Non-PAR |
 | Kyle Schaub, OD | UHC ER Wrap | Authorization Required | PAR |
 | Len Brown, OD | UHC ER Wrap | Authorization Required | PAR |
+| Logan Page, OD | UHC ER Wrap | Authorization Required | PAR |
 | Lori Long, OD | UHC ER Wrap | Authorization Required | PAR |
 | Lori Vollmer, OD | UHC ER Wrap | Authorization Required | PAR |
 | Mary Mcvey, OD | UHC ER Wrap | Authorization Required | PAR |
 | Maureen Traina, PA | UHC ER Wrap | Authorization Required | PAR |
 | Melissa Hammond, OD | UHC ER Wrap | Authorization Required | PAR |
 | Michael Maloney, OD | UHC ER Wrap | Authorization Required | PAR |
-| Page Logan, OD | UHC ER Wrap | Authorization Required | PAR |
 | Patrick Nelson, OD | UHC ER Wrap | Authorization Required | PAR |
 | Priya Mathews, MD | UHC ER Wrap | Authorization Required | PAR |
 | Rachael Randolph, OD | UHC ER Wrap | Authorization Required | PAR |

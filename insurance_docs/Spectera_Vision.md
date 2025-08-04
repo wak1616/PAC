@@ -29,13 +29,13 @@
 | Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | Spectera Vision | No Ref/No Auth Required | Non-PAR |
 | Kyle Schaub, OD | Spectera Vision | No Ref/No Auth Required | Non-PAR |
 | Len Brown, OD | Spectera Vision | No Ref/No Auth Required | PAR |
+| Logan Page, OD | Spectera Vision | No Ref/No Auth Required | Non-PAR |
 | Lori Long, OD | Spectera Vision | No Ref/No Auth Required | Non-PAR |
 | Lori Vollmer, OD | Spectera Vision | No Ref/No Auth Required | Non-PAR |
 | Mary Mcvey, OD | Spectera Vision | No Ref/No Auth Required | Non-PAR |
 | Maureen Traina, PA | Spectera Vision | No Ref/No Auth Required | Non-PAR |
 | Melissa Hammond, OD | Spectera Vision | No Ref/No Auth Required | Non-PAR |
 | Michael Maloney, OD | Spectera Vision | No Ref/No Auth Required | Non-PAR |
-| Page Logan, OD | Spectera Vision | No Ref/No Auth Required | Non-PAR |
 | Patrick Nelson, OD | Spectera Vision | No Ref/No Auth Required | Non-PAR |
 | Priya Mathews, MD | Spectera Vision | No Ref/No Auth Required | Non-PAR |
 | Rachael Randolph, OD | Spectera Vision | No Ref/No Auth Required | Non-PAR |

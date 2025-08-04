@@ -29,13 +29,13 @@
 | Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | UHC PPO/POS-87726 | No Ref/No Auth Required | Non-PAR |
 | Kyle Schaub, OD | UHC PPO/POS-87726 | No Ref/No Auth Required | PAR |
 | Len Brown, OD | UHC PPO/POS-87726 | No Ref/No Auth Required | PAR |
+| Logan Page, OD | UHC PPO/POS-87726 | No Ref/No Auth Required | PAR |
 | Lori Long, OD | UHC PPO/POS-87726 | No Ref/No Auth Required | PAR |
 | Lori Vollmer, OD | UHC PPO/POS-87726 | No Ref/No Auth Required | PAR |
 | Mary Mcvey, OD | UHC PPO/POS-87726 | No Ref/No Auth Required | PAR |
 | Maureen Traina, PA | UHC PPO/POS-87726 | No Ref/No Auth Required | PAR |
 | Melissa Hammond, OD | UHC PPO/POS-87726 | No Ref/No Auth Required | PAR |
 | Michael Maloney, OD | UHC PPO/POS-87726 | No Ref/No Auth Required | PAR |
-| Page Logan, OD | UHC PPO/POS-87726 | No Ref/No Auth Required | PAR |
 | Patrick Nelson, OD | UHC PPO/POS-87726 | No Ref/No Auth Required | PAR |
 | Priya Mathews, MD | UHC PPO/POS-87726 | No Ref/No Auth Required | PAR |
 | Rachael Randolph, OD | UHC PPO/POS-87726 | No Ref/No Auth Required | PAR |

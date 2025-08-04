@@ -29,13 +29,13 @@
 | Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | BCBS Out of State Commercial PPO | No Ref/No Auth Required | Non-PAR |
 | Kyle Schaub, OD | BCBS Out of State Commercial PPO | No Ref/No Auth Required | PAR |
 | Len Brown, OD | BCBS Out of State Commercial PPO | No Ref/No Auth Required | PAR |
+| Logan Page, OD | BCBS Out of State Commercial PPO | No Ref/No Auth Required | PAR |
 | Lori Long, OD | BCBS Out of State Commercial PPO | No Ref/No Auth Required | PAR |
 | Lori Vollmer, OD | BCBS Out of State Commercial PPO | No Ref/No Auth Required | PAR |
 | Mary Mcvey, OD | BCBS Out of State Commercial PPO | No Ref/No Auth Required | PAR |
 | Maureen Traina, PA | BCBS Out of State Commercial PPO | No Ref/No Auth Required | PAR |
 | Melissa Hammond, OD | BCBS Out of State Commercial PPO | No Ref/No Auth Required | PAR |
 | Michael Maloney, OD | BCBS Out of State Commercial PPO | No Ref/No Auth Required | PAR |
-| Page Logan, OD | BCBS Out of State Commercial PPO | No Ref/No Auth Required | PAR |
 | Patrick Nelson, OD | BCBS Out of State Commercial PPO | No Ref/No Auth Required | PAR |
 | Priya Mathews, MD | BCBS Out of State Commercial PPO | No Ref/No Auth Required | PAR |
 | Rachael Randolph, OD | BCBS Out of State Commercial PPO | No Ref/No Auth Required | PAR |

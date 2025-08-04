@@ -29,13 +29,13 @@
 | Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | Web TPA | No Ref/No Auth Required | Non-PAR |
 | Kyle Schaub, OD | Web TPA | No Ref/No Auth Required | PAR |
 | Len Brown, OD | Web TPA | No Ref/No Auth Required | PAR |
+| Logan Page, OD | Web TPA | No Ref/No Auth Required | PAR |
 | Lori Long, OD | Web TPA | No Ref/No Auth Required | PAR |
 | Lori Vollmer, OD | Web TPA | No Ref/No Auth Required | PAR |
 | Mary Mcvey, OD | Web TPA | No Ref/No Auth Required | PAR |
 | Maureen Traina, PA | Web TPA | No Ref/No Auth Required | Non-PAR |
 | Melissa Hammond, OD | Web TPA | No Ref/No Auth Required | PAR |
 | Michael Maloney, OD | Web TPA | No Ref/No Auth Required | PAR |
-| Page Logan, OD | Web TPA | No Ref/No Auth Required | PAR |
 | Patrick Nelson, OD | Web TPA | No Ref/No Auth Required | PAR |
 | Priya Mathews, MD | Web TPA | No Ref/No Auth Required | PAR |
 | Rachael Randolph, OD | Web TPA | No Ref/No Auth Required | PAR |

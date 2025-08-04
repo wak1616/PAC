@@ -29,13 +29,13 @@
 | Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | UHC All Savers-81400 | No Ref/No Auth Required | Non-PAR |
 | Kyle Schaub, OD | UHC All Savers-81400 | No Ref/No Auth Required | PAR |
 | Len Brown, OD | UHC All Savers-81400 | No Ref/No Auth Required | PAR |
+| Logan Page, OD | UHC All Savers-81400 | No Ref/No Auth Required | PAR |
 | Lori Long, OD | UHC All Savers-81400 | No Ref/No Auth Required | PAR |
 | Lori Vollmer, OD | UHC All Savers-81400 | No Ref/No Auth Required | PAR |
 | Mary Mcvey, OD | UHC All Savers-81400 | No Ref/No Auth Required | PAR |
 | Maureen Traina, PA | UHC All Savers-81400 | No Ref/No Auth Required | PAR |
 | Melissa Hammond, OD | UHC All Savers-81400 | No Ref/No Auth Required | PAR |
 | Michael Maloney, OD | UHC All Savers-81400 | No Ref/No Auth Required | PAR |
-| Page Logan, OD | UHC All Savers-81400 | No Ref/No Auth Required | PAR |
 | Patrick Nelson, OD | UHC All Savers-81400 | No Ref/No Auth Required | PAR |
 | Priya Mathews, MD | UHC All Savers-81400 | No Ref/No Auth Required | PAR |
 | Rachael Randolph, OD | UHC All Savers-81400 | No Ref/No Auth Required | PAR |

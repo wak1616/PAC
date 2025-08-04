@@ -29,13 +29,13 @@
 | Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | Moda Health PPO |  | Non-PAR |
 | Kyle Schaub, OD | Moda Health PPO |  | PAR |
 | Len Brown, OD | Moda Health PPO |  | PAR |
+| Logan Page, OD | Moda Health PPO |  | PAR |
 | Lori Long, OD | Moda Health PPO |  | PAR |
 | Lori Vollmer, OD | Moda Health PPO |  | PAR |
 | Mary Mcvey, OD | Moda Health PPO |  | PAR |
 | Maureen Traina, PA | Moda Health PPO |  | PAR |
 | Melissa Hammond, OD | Moda Health PPO |  | PAR |
 | Michael Maloney, OD | Moda Health PPO |  | PAR |
-| Page Logan, OD | Moda Health PPO |  | PAR |
 | Patrick Nelson, OD | Moda Health PPO |  | PAR |
 | Priya Mathews, MD | Moda Health PPO |  | PAR |
 | Rachael Randolph, OD | Moda Health PPO |  | PAR |

@@ -29,13 +29,13 @@
 | Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | Carefirst BCBS Medicare PPO | No Ref/No Auth Required | Non-PAR |
 | Kyle Schaub, OD | Carefirst BCBS Medicare PPO | No Ref/No Auth Required | PAR |
 | Len Brown, OD | Carefirst BCBS Medicare PPO | No Ref/No Auth Required | PAR |
+| Logan Page, OD | Carefirst BCBS Medicare PPO | No Ref/No Auth Required | PAR |
 | Lori Long, OD | Carefirst BCBS Medicare PPO | No Ref/No Auth Required | PAR |
 | Lori Vollmer, OD | Carefirst BCBS Medicare PPO | No Ref/No Auth Required | PAR |
 | Mary Mcvey, OD | Carefirst BCBS Medicare PPO | No Ref/No Auth Required | PAR |
 | Maureen Traina, PA | Carefirst BCBS Medicare PPO | No Ref/No Auth Required | PAR |
 | Melissa Hammond, OD | Carefirst BCBS Medicare PPO | No Ref/No Auth Required | PAR |
 | Michael Maloney, OD | Carefirst BCBS Medicare PPO | No Ref/No Auth Required | PAR |
-| Page Logan, OD | Carefirst BCBS Medicare PPO | No Ref/No Auth Required | PAR |
 | Patrick Nelson, OD | Carefirst BCBS Medicare PPO | No Ref/No Auth Required | PAR |
 | Priya Mathews, MD | Carefirst BCBS Medicare PPO | No Ref/No Auth Required | PAR |
 | Rachael Randolph, OD | Carefirst BCBS Medicare PPO | No Ref/No Auth Required | PAR |

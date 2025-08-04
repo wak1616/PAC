@@ -29,13 +29,13 @@
 | Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | UHC Golden Rule-37602 | No Ref/No Auth Required | Non-PAR |
 | Kyle Schaub, OD | UHC Golden Rule-37602 | No Ref/No Auth Required | PAR |
 | Len Brown, OD | UHC Golden Rule-37602 | No Ref/No Auth Required | PAR |
+| Logan Page, OD | UHC Golden Rule-37602 | No Ref/No Auth Required | PAR |
 | Lori Long, OD | UHC Golden Rule-37602 | No Ref/No Auth Required | PAR |
 | Lori Vollmer, OD | UHC Golden Rule-37602 | No Ref/No Auth Required | PAR |
 | Mary Mcvey, OD | UHC Golden Rule-37602 | No Ref/No Auth Required | PAR |
 | Maureen Traina, PA | UHC Golden Rule-37602 | No Ref/No Auth Required | PAR |
 | Melissa Hammond, OD | UHC Golden Rule-37602 | No Ref/No Auth Required | PAR |
 | Michael Maloney, OD | UHC Golden Rule-37602 | No Ref/No Auth Required | PAR |
-| Page Logan, OD | UHC Golden Rule-37602 | No Ref/No Auth Required | PAR |
 | Patrick Nelson, OD | UHC Golden Rule-37602 | No Ref/No Auth Required | PAR |
 | Priya Mathews, MD | UHC Golden Rule-37602 | No Ref/No Auth Required | PAR |
 | Rachael Randolph, OD | UHC Golden Rule-37602 | No Ref/No Auth Required | PAR |

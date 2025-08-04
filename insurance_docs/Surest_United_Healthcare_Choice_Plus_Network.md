@@ -29,13 +29,13 @@
 | Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | UHC Surest-25463 Commercial - UHC | No Ref/No Auth Required | Non-PAR |
 | Kyle Schaub, OD | UHC Surest-25463 Commercial - UHC | No Ref/No Auth Required | PAR |
 | Len Brown, OD | UHC Surest-25463 Commercial - UHC | No Ref/No Auth Required | PAR |
+| Logan Page, OD | UHC Surest-25463 Commercial - UHC | No Ref/No Auth Required | PAR |
 | Lori Long, OD | UHC Surest-25463 Commercial - UHC | No Ref/No Auth Required | PAR |
 | Lori Vollmer, OD | UHC Surest-25463 Commercial - UHC | No Ref/No Auth Required | PAR |
 | Mary Mcvey, OD | UHC Surest-25463 Commercial - UHC | No Ref/No Auth Required | PAR |
 | Maureen Traina, PA | UHC Surest-25463 Commercial - UHC | No Ref/No Auth Required | PAR |
 | Melissa Hammond, OD | UHC Surest-25463 Commercial - UHC | No Ref/No Auth Required | PAR |
 | Michael Maloney, OD | UHC Surest-25463 Commercial - UHC | No Ref/No Auth Required | PAR |
-| Page Logan, OD | UHC Surest-25463 Commercial - UHC | No Ref/No Auth Required | PAR |
 | Patrick Nelson, OD | UHC Surest-25463 Commercial - UHC | No Ref/No Auth Required | PAR |
 | Priya Mathews, MD | UHC Surest-25463 Commercial - UHC | No Ref/No Auth Required | PAR |
 | Rachael Randolph, OD | UHC Surest-25463 Commercial - UHC | No Ref/No Auth Required | PAR |

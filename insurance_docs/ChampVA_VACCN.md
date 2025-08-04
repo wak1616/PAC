@@ -29,13 +29,13 @@
 | Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | Champva | No Ref/No Auth Required | Non-PAR |
 | Kyle Schaub, OD | Champva | No Ref/No Auth Required | PAR |
 | Len Brown, OD | Champva | No Ref/No Auth Required | PAR |
+| Logan Page, OD | Champva | No Ref/No Auth Required | PAR |
 | Lori Long, OD | Champva | No Ref/No Auth Required | PAR |
 | Lori Vollmer, OD | Champva | No Ref/No Auth Required | PAR |
 | Mary Mcvey, OD | Champva | No Ref/No Auth Required | PAR |
 | Maureen Traina, PA | Champva | No Ref/No Auth Required | PAR |
 | Melissa Hammond, OD | Champva | No Ref/No Auth Required | PAR |
 | Michael Maloney, OD | Champva | No Ref/No Auth Required | PAR |
-| Page Logan, OD | Champva | No Ref/No Auth Required | PAR |
 | Patrick Nelson, OD | Champva | No Ref/No Auth Required | PAR |
 | Priya Mathews, MD | Champva | No Ref/No Auth Required | PAR |
 | Rachael Randolph, OD | Champva | No Ref/No Auth Required | PAR |

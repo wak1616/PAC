@@ -29,13 +29,13 @@
 | Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | Meritain Health Commercial - Aetna | No Ref/No Auth Required | Non-PAR |
 | Kyle Schaub, OD | Meritain Health Commercial - Aetna | No Ref/No Auth Required | PAR |
 | Len Brown, OD | Meritain Health Commercial - Aetna | No Ref/No Auth Required | PAR |
+| Logan Page, OD | Meritain Health Commercial - Aetna | No Ref/No Auth Required | PAR |
 | Lori Long, OD | Meritain Health Commercial - Aetna | No Ref/No Auth Required | PAR |
 | Lori Vollmer, OD | Meritain Health Commercial - Aetna | No Ref/No Auth Required | PAR |
 | Mary Mcvey, OD | Meritain Health Commercial - Aetna | No Ref/No Auth Required | PAR |
 | Maureen Traina, PA | Meritain Health Commercial - Aetna | No Ref/No Auth Required | PAR |
 | Melissa Hammond, OD | Meritain Health Commercial - Aetna | No Ref/No Auth Required | PAR |
 | Michael Maloney, OD | Meritain Health Commercial - Aetna | No Ref/No Auth Required | PAR |
-| Page Logan, OD | Meritain Health Commercial - Aetna | No Ref/No Auth Required | PAR |
 | Patrick Nelson, OD | Meritain Health Commercial - Aetna | No Ref/No Auth Required | PAR |
 | Priya Mathews, MD | Meritain Health Commercial - Aetna | No Ref/No Auth Required | PAR |
 | Rachael Randolph, OD | Meritain Health Commercial - Aetna | No Ref/No Auth Required | PAR |

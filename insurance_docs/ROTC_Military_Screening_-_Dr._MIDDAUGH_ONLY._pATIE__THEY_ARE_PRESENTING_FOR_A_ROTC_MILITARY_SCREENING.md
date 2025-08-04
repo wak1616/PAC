@@ -29,13 +29,13 @@
 | Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | Concorde Inc | Authorization Required- ROTC Fom is required for the Clinical Team | Non-PAR |
 | Kyle Schaub, OD | Concorde Inc | Authorization Required- ROTC Fom is required for the Clinical Team | Non-PAR |
 | Len Brown, OD | Concorde Inc | Authorization Required- ROTC Fom is required for the Clinical Team | Non-PAR |
+| Logan Page, OD | Concorde Inc | Authorization Required- ROTC Fom is required for the Clinical Team | Non-PAR |
 | Lori Long, OD | Concorde Inc | Authorization Required- ROTC Fom is required for the Clinical Team | Non-PAR |
 | Lori Vollmer, OD | Concorde Inc | Authorization Required- ROTC Fom is required for the Clinical Team | Non-PAR |
 | Mary Mcvey, OD | Concorde Inc | Authorization Required- ROTC Fom is required for the Clinical Team | Non-PAR |
 | Maureen Traina, PA | Concorde Inc | Authorization Required- ROTC Fom is required for the Clinical Team | Non-PAR |
 | Melissa Hammond, OD | Concorde Inc | Authorization Required- ROTC Fom is required for the Clinical Team | Non-PAR |
 | Michael Maloney, OD | Concorde Inc | Authorization Required- ROTC Fom is required for the Clinical Team | Non-PAR |
-| Page Logan, OD | Concorde Inc | Authorization Required- ROTC Fom is required for the Clinical Team | Non-PAR |
 | Patrick Nelson, OD | Concorde Inc | Authorization Required- ROTC Fom is required for the Clinical Team | Non-PAR |
 | Priya Mathews, MD | Concorde Inc | Authorization Required- ROTC Fom is required for the Clinical Team | Non-PAR |
 | Rachael Randolph, OD | Concorde Inc | Authorization Required- ROTC Fom is required for the Clinical Team | Non-PAR |

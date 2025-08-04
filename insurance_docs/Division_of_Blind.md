@@ -29,13 +29,13 @@
 | Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | Division of Blind | Authorization Required | Non-PAR |
 | Kyle Schaub, OD | Division of Blind | Authorization Required | PAR |
 | Len Brown, OD | Division of Blind | Authorization Required | PAR |
+| Logan Page, OD | Division of Blind | Authorization Required | PAR |
 | Lori Long, OD | Division of Blind | Authorization Required | PAR |
 | Lori Vollmer, OD | Division of Blind | Authorization Required | PAR |
 | Mary Mcvey, OD | Division of Blind | Authorization Required | PAR |
 | Maureen Traina, PA | Division of Blind | Authorization Required | PAR |
 | Melissa Hammond, OD | Division of Blind | Authorization Required | PAR |
 | Michael Maloney, OD | Division of Blind | Authorization Required | PAR |
-| Page Logan, OD | Division of Blind | Authorization Required | PAR |
 | Patrick Nelson, OD | Division of Blind | Authorization Required | PAR |
 | Priya Mathews, MD | Division of Blind | Authorization Required | PAR |
 | Rachael Randolph, OD | Division of Blind | Authorization Required | PAR |

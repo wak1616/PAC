@@ -29,13 +29,13 @@
 | Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | Vitori Health Open Access Plan | No Ref/No Auth Required | Non-PAR |
 | Kyle Schaub, OD | Vitori Health Open Access Plan | No Ref/No Auth Required | PAR |
 | Len Brown, OD | Vitori Health Open Access Plan | No Ref/No Auth Required | PAR |
+| Logan Page, OD | Vitori Health Open Access Plan | No Ref/No Auth Required | PAR |
 | Lori Long, OD | Vitori Health Open Access Plan | No Ref/No Auth Required | PAR |
 | Lori Vollmer, OD | Vitori Health Open Access Plan | No Ref/No Auth Required | PAR |
 | Mary Mcvey, OD | Vitori Health Open Access Plan | No Ref/No Auth Required | PAR |
 | Maureen Traina, PA | Vitori Health Open Access Plan | No Ref/No Auth Required | PAR |
 | Melissa Hammond, OD | Vitori Health Open Access Plan | No Ref/No Auth Required | PAR |
 | Michael Maloney, OD | Vitori Health Open Access Plan | No Ref/No Auth Required | PAR |
-| Page Logan, OD | Vitori Health Open Access Plan | No Ref/No Auth Required | PAR |
 | Patrick Nelson, OD | Vitori Health Open Access Plan | No Ref/No Auth Required | PAR |
 | Priya Mathews, MD | Vitori Health Open Access Plan | No Ref/No Auth Required | PAR |
 | Rachael Randolph, OD | Vitori Health Open Access Plan | No Ref/No Auth Required | PAR |

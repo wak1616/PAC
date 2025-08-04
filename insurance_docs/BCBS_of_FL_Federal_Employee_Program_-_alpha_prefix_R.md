@@ -29,13 +29,13 @@
 | Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | BCBS Federal | No Ref/No Auth Required | Non-PAR |
 | Kyle Schaub, OD | BCBS Federal | No Ref/No Auth Required | PAR |
 | Len Brown, OD | BCBS Federal | No Ref/No Auth Required | PAR |
+| Logan Page, OD | BCBS Federal | No Ref/No Auth Required | PAR |
 | Lori Long, OD | BCBS Federal | No Ref/No Auth Required | PAR |
 | Lori Vollmer, OD | BCBS Federal | No Ref/No Auth Required | PAR |
 | Mary Mcvey, OD | BCBS Federal | No Ref/No Auth Required | PAR |
 | Maureen Traina, PA | BCBS Federal | No Ref/No Auth Required | PAR |
 | Melissa Hammond, OD | BCBS Federal | No Ref/No Auth Required | PAR |
 | Michael Maloney, OD | BCBS Federal | No Ref/No Auth Required | PAR |
-| Page Logan, OD | BCBS Federal | No Ref/No Auth Required | PAR |
 | Patrick Nelson, OD | BCBS Federal | No Ref/No Auth Required | PAR |
 | Priya Mathews, MD | BCBS Federal | No Ref/No Auth Required | PAR |
 | Rachael Randolph, OD | BCBS Federal | No Ref/No Auth Required | PAR |

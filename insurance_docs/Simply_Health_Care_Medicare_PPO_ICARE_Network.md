@@ -29,13 +29,13 @@
 | Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | Self Pay Non-Par with Ins |  | Non-PAR |
 | Kyle Schaub, OD | Self Pay Non-Par with Ins |  | Non-PAR |
 | Len Brown, OD | Self Pay Non-Par with Ins |  | Non-PAR |
+| Logan Page, OD | Self Pay Non-Par with Ins |  | Non-PAR |
 | Lori Long, OD | Self Pay Non-Par with Ins |  | Non-PAR |
 | Lori Vollmer, OD | Self Pay Non-Par with Ins |  | Non-PAR |
 | Mary Mcvey, OD | Self Pay Non-Par with Ins |  | Non-PAR |
 | Maureen Traina, PA | Self Pay Non-Par with Ins |  | Non-PAR |
 | Melissa Hammond, OD | Self Pay Non-Par with Ins |  | Non-PAR |
 | Michael Maloney, OD | Self Pay Non-Par with Ins |  | Non-PAR |
-| Page Logan, OD | Self Pay Non-Par with Ins |  | Non-PAR |
 | Patrick Nelson, OD | Self Pay Non-Par with Ins |  | Non-PAR |
 | Priya Mathews, MD | Self Pay Non-Par with Ins |  | Non-PAR |
 | Rachael Randolph, OD | Self Pay Non-Par with Ins |  | Non-PAR |

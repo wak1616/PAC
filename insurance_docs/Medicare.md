@@ -29,13 +29,13 @@
 | Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | Medicare Part B | No Ref/No Auth Required | OK to Schedule-HOLD Claims until PAR |
 | Kyle Schaub, OD | Medicare Part B | No Ref/No Auth Required | PAR |
 | Len Brown, OD | Medicare Part B | No Ref/No Auth Required | PAR |
+| Logan Page, OD | Medicare Part B | No Ref/No Auth Required | PAR |
 | Lori Long, OD | Medicare Part B | No Ref/No Auth Required | PAR |
 | Lori Vollmer, OD | Medicare Part B | No Ref/No Auth Required | PAR |
 | Mary Mcvey, OD | Medicare Part B | No Ref/No Auth Required | PAR |
 | Maureen Traina, PA | Medicare Part B | No Ref/No Auth Required | PAR |
 | Melissa Hammond, OD | Medicare Part B | No Ref/No Auth Required | PAR |
 | Michael Maloney, OD | Medicare Part B | No Ref/No Auth Required | PAR |
-| Page Logan, OD | Medicare Part B | No Ref/No Auth Required | PAR |
 | Patrick Nelson, OD | Medicare Part B | No Ref/No Auth Required | PAR |
 | Priya Mathews, MD | Medicare Part B | No Ref/No Auth Required | PAR |
 | Rachael Randolph, OD | Medicare Part B | No Ref/No Auth Required | PAR |

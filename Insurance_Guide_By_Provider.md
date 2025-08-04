@@ -1,6 +1,6 @@
 # Insurance Guide By Provider
 
-*Last Updated: 08/01/2025 (based on data from Excel file: [US Eye Insurance Guide.xlsx](https://useyecorp.sharepoint.com/:x:/r/RCM/Shared%20Documents/Insurance%20Guides/US%20Eye%20Insurance%20Guide.xlsx?d=w2a2138d41fa04bfa919fc4966998346a&csf=1&web=1&e=73a3Gf&nav=MTVfezIwMjg5MTIyLTdDRkEtNEE0OS1CODBGLTdFNTc3Njc3OTJDNX0))*
+*Last Updated: 08/04/2025 (based on data from Excel file: [US Eye Insurance Guide.xlsx](https://useyecorp.sharepoint.com/:x:/r/RCM/Shared%20Documents/Insurance%20Guides/US%20Eye%20Insurance%20Guide.xlsx?d=w2a2138d41fa04bfa919fc4966998346a&csf=1&web=1&e=73a3Gf&nav=MTVfezIwMjg5MTIyLTdDRkEtNEE0OS1CODBGLTdFNTc3Njc3OTJDNX0))*
 
 *This guide lists insurance participation by doctor. Click a doctor's name to view all insurance info for that doctor, grouped by location/CSV.*
 
@@ -36,6 +36,7 @@
 * [Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 (Center for Sight)](insurance_docs/Khrystyna_Ostrozhynska_OD_-_Start_Date_9_30_2025.md)
 * [Kyle Schaub, OD (Center for Sight)](insurance_docs/Kyle_Schaub_OD.md)
 * [Len Brown, OD (Center for Sight)](insurance_docs/Len_Brown_OD.md)
+* [Logan Page, OD (Center for Sight)](insurance_docs/Logan_Page_OD.md)
 * [Lori Long, OD (Center for Sight)](insurance_docs/Lori_Long_OD.md)
 * [Lori Vollmer, OD (Center for Sight)](insurance_docs/Lori_Vollmer_OD.md)
 * [Mari Holderby, OD (Lake Eye )](insurance_docs/Mari_Holderby_OD.md)
@@ -43,7 +44,6 @@
 * [Maureen Traina, PA (Center for Sight)](insurance_docs/Maureen_Traina_PA.md)
 * [Melissa Hammond, OD (Center for Sight)](insurance_docs/Melissa_Hammond_OD.md)
 * [Michael Maloney, OD (Center for Sight)](insurance_docs/Michael_Maloney_OD.md)
-* [Page Logan, OD (Center for Sight)](insurance_docs/Page_Logan_OD.md)
 * [Patrick Nelson, OD (Center for Sight)](insurance_docs/Patrick_Nelson_OD.md)
 * [Penny Orr, OD (SW FL Eye)](insurance_docs/Penny_Orr_OD.md)
 * [Priya Mathews, MD (Center for Sight)](insurance_docs/Priya_Mathews_MD.md)

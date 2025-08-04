@@ -29,13 +29,13 @@
 | Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | Meritain Health SMH Extd  Pln | Authorization MAY be Required | Non-PAR |
 | Kyle Schaub, OD | Meritain Health SMH Extd  Pln | Authorization MAY be Required | PAR |
 | Len Brown, OD | Meritain Health SMH Extd  Pln | Authorization MAY be Required | PAR |
+| Logan Page, OD | Meritain Health SMH Extd  Pln | Authorization MAY be Required | PAR |
 | Lori Long, OD | Meritain Health SMH Extd  Pln | Authorization MAY be Required | PAR |
 | Lori Vollmer, OD | Meritain Health SMH Extd  Pln | Authorization MAY be Required | PAR |
 | Mary Mcvey, OD | Meritain Health SMH Extd  Pln | Authorization MAY be Required | PAR |
 | Maureen Traina, PA | Meritain Health SMH Extd  Pln | Authorization MAY be Required | PAR |
 | Melissa Hammond, OD | Meritain Health SMH Extd  Pln | Authorization MAY be Required | PAR |
 | Michael Maloney, OD | Meritain Health SMH Extd  Pln | Authorization MAY be Required | PAR |
-| Page Logan, OD | Meritain Health SMH Extd  Pln | Authorization MAY be Required | PAR |
 | Patrick Nelson, OD | Meritain Health SMH Extd  Pln | Authorization MAY be Required | PAR |
 | Priya Mathews, MD | Meritain Health SMH Extd  Pln | Authorization MAY be Required | PAR |
 | Rachael Randolph, OD | Meritain Health SMH Extd  Pln | Authorization MAY be Required | PAR |

@@ -29,13 +29,13 @@
 | Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | Vision Service Plan | Authorization Required | Non-PAR |
 | Kyle Schaub, OD | Vision Service Plan | Authorization Required | PAR |
 | Len Brown, OD | Vision Service Plan | Authorization Required | PAR |
+| Logan Page, OD | Vision Service Plan | Authorization Required | PAR |
 | Lori Long, OD | Vision Service Plan | Authorization Required | PAR |
 | Lori Vollmer, OD | Vision Service Plan | Authorization Required | PAR |
 | Mary Mcvey, OD | Vision Service Plan | Authorization Required | PAR |
 | Maureen Traina, PA | Vision Service Plan | Authorization Required | PAR |
 | Melissa Hammond, OD | Vision Service Plan | Authorization Required | PAR |
 | Michael Maloney, OD | Vision Service Plan | Authorization Required | PAR |
-| Page Logan, OD | Vision Service Plan | Authorization Required | PAR |
 | Patrick Nelson, OD | Vision Service Plan | Authorization Required | PAR |
 | Priya Mathews, MD | Vision Service Plan | Authorization Required | Non-PAR |
 | Rachael Randolph, OD | Vision Service Plan | Authorization Required | PAR |

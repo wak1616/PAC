@@ -29,13 +29,13 @@
 | Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | Anthem BCBS Vision | No Ref/No Auth Required | Non-PAR |
 | Kyle Schaub, OD | Anthem BCBS Vision | No Ref/No Auth Required | PAR |
 | Len Brown, OD | Anthem BCBS Vision | No Ref/No Auth Required | PAR |
+| Logan Page, OD | Anthem BCBS Vision | No Ref/No Auth Required | PAR |
 | Lori Long, OD | Anthem BCBS Vision | No Ref/No Auth Required | PAR |
 | Lori Vollmer, OD | Anthem BCBS Vision | No Ref/No Auth Required | PAR |
 | Mary Mcvey, OD | Anthem BCBS Vision | No Ref/No Auth Required | PAR |
 | Maureen Traina, PA | Anthem BCBS Vision | No Ref/No Auth Required | Non-PAR |
 | Melissa Hammond, OD | Anthem BCBS Vision | No Ref/No Auth Required | PAR |
 | Michael Maloney, OD | Anthem BCBS Vision | No Ref/No Auth Required | PAR |
-| Page Logan, OD | Anthem BCBS Vision | No Ref/No Auth Required | PAR |
 | Patrick Nelson, OD | Anthem BCBS Vision | No Ref/No Auth Required | PAR |
 | Priya Mathews, MD | Anthem BCBS Vision | No Ref/No Auth Required | Non-PAR |
 | Rachael Randolph, OD | Anthem BCBS Vision | No Ref/No Auth Required | PAR |

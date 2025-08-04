@@ -29,13 +29,13 @@
 | Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | Railroad Medicare | No Ref/No Auth Required | Non-PAR |
 | Kyle Schaub, OD | Railroad Medicare | No Ref/No Auth Required | PAR |
 | Len Brown, OD | Railroad Medicare | No Ref/No Auth Required | PAR |
+| Logan Page, OD | Railroad Medicare | No Ref/No Auth Required | PAR |
 | Lori Long, OD | Railroad Medicare | No Ref/No Auth Required | PAR |
 | Lori Vollmer, OD | Railroad Medicare | No Ref/No Auth Required | PAR |
 | Mary Mcvey, OD | Railroad Medicare | No Ref/No Auth Required | PAR |
 | Maureen Traina, PA | Railroad Medicare | No Ref/No Auth Required | PAR |
 | Melissa Hammond, OD | Railroad Medicare | No Ref/No Auth Required | PAR |
 | Michael Maloney, OD | Railroad Medicare | No Ref/No Auth Required | PAR |
-| Page Logan, OD | Railroad Medicare | No Ref/No Auth Required | PAR |
 | Patrick Nelson, OD | Railroad Medicare | No Ref/No Auth Required | PAR |
 | Priya Mathews, MD | Railroad Medicare | No Ref/No Auth Required | PAR |
 | Rachael Randolph, OD | Railroad Medicare | No Ref/No Auth Required | PAR |

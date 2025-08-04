@@ -29,13 +29,13 @@
 | Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | Tricare Select | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Kyle Schaub, OD | Tricare Select | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Len Brown, OD | Tricare Select | No Ref/No Auth Required | Non-PAR -OON Benefits |
+| Logan Page, OD | Tricare Select | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Lori Long, OD | Tricare Select | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Lori Vollmer, OD | Tricare Select | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Mary Mcvey, OD | Tricare Select | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Maureen Traina, PA | Tricare Select | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Melissa Hammond, OD | Tricare Select | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Michael Maloney, OD | Tricare Select | No Ref/No Auth Required | Non-PAR -OON Benefits |
-| Page Logan, OD | Tricare Select | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Patrick Nelson, OD | Tricare Select | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Priya Mathews, MD | Tricare Select | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Rachael Randolph, OD | Tricare Select | No Ref/No Auth Required | Non-PAR -OON Benefits |

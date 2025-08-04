@@ -29,13 +29,13 @@
 | Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | Cigna Medicare HMO REFERRAL REQUIRED | Referral Required | Non-PAR |
 | Kyle Schaub, OD | Cigna Medicare HMO REFERRAL REQUIRED | Referral Required | PAR |
 | Len Brown, OD | Cigna Medicare HMO REFERRAL REQUIRED | Referral Required | PAR |
+| Logan Page, OD | Cigna Medicare HMO REFERRAL REQUIRED | Referral Required | PAR |
 | Lori Long, OD | Cigna Medicare HMO REFERRAL REQUIRED | Referral Required | PAR |
 | Lori Vollmer, OD | Cigna Medicare HMO REFERRAL REQUIRED | Referral Required | PAR |
 | Mary Mcvey, OD | Cigna Medicare HMO REFERRAL REQUIRED | Referral Required | PAR |
 | Maureen Traina, PA | Cigna Medicare HMO REFERRAL REQUIRED | Referral Required | Non-PAR |
 | Melissa Hammond, OD | Cigna Medicare HMO REFERRAL REQUIRED | Referral Required | PAR |
 | Michael Maloney, OD | Cigna Medicare HMO REFERRAL REQUIRED | Referral Required | PAR |
-| Page Logan, OD | Cigna Medicare HMO REFERRAL REQUIRED | Referral Required | PAR |
 | Patrick Nelson, OD | Cigna Medicare HMO REFERRAL REQUIRED | Referral Required | PAR |
 | Priya Mathews, MD | Cigna Medicare HMO REFERRAL REQUIRED | Referral Required | PAR |
 | Rachael Randolph, OD | Cigna Medicare HMO REFERRAL REQUIRED | Referral Required | PAR |

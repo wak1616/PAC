@@ -29,13 +29,13 @@
 | Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | Allegiance Benefit Plan Management-Cigna | No Ref/No Auth Required | Non-PAR |
 | Kyle Schaub, OD | Allegiance Benefit Plan Management-Cigna | No Ref/No Auth Required | PAR |
 | Len Brown, OD | Allegiance Benefit Plan Management-Cigna | No Ref/No Auth Required | PAR |
+| Logan Page, OD | Allegiance Benefit Plan Management-Cigna | No Ref/No Auth Required | PAR |
 | Lori Long, OD | Allegiance Benefit Plan Management-Cigna | No Ref/No Auth Required | PAR |
 | Lori Vollmer, OD | Allegiance Benefit Plan Management-Cigna | No Ref/No Auth Required | PAR |
 | Mary Mcvey, OD | Allegiance Benefit Plan Management-Cigna | No Ref/No Auth Required | PAR |
 | Maureen Traina, PA | Allegiance Benefit Plan Management-Cigna | No Ref/No Auth Required | PAR |
 | Melissa Hammond, OD | Allegiance Benefit Plan Management-Cigna | No Ref/No Auth Required | PAR |
 | Michael Maloney, OD | Allegiance Benefit Plan Management-Cigna | No Ref/No Auth Required | PAR |
-| Page Logan, OD | Allegiance Benefit Plan Management-Cigna | No Ref/No Auth Required | PAR |
 | Patrick Nelson, OD | Allegiance Benefit Plan Management-Cigna | No Ref/No Auth Required | PAR |
 | Priya Mathews, MD | Allegiance Benefit Plan Management-Cigna | No Ref/No Auth Required | PAR |
 | Rachael Randolph, OD | Allegiance Benefit Plan Management-Cigna | No Ref/No Auth Required | PAR |

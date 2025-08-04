@@ -29,13 +29,13 @@
 | Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | BCBS FL Commercial PPO | No Ref/No Auth Required | Non-PAR |
 | Kyle Schaub, OD | BCBS FL Commercial PPO | No Ref/No Auth Required | PAR |
 | Len Brown, OD | BCBS FL Commercial PPO | No Ref/No Auth Required | PAR |
+| Logan Page, OD | BCBS FL Commercial PPO | No Ref/No Auth Required | PAR |
 | Lori Long, OD | BCBS FL Commercial PPO | No Ref/No Auth Required | PAR |
 | Lori Vollmer, OD | BCBS FL Commercial PPO | No Ref/No Auth Required | PAR |
 | Mary Mcvey, OD | BCBS FL Commercial PPO | No Ref/No Auth Required | PAR |
 | Maureen Traina, PA | BCBS FL Commercial PPO | No Ref/No Auth Required | PAR |
 | Melissa Hammond, OD | BCBS FL Commercial PPO | No Ref/No Auth Required | PAR |
 | Michael Maloney, OD | BCBS FL Commercial PPO | No Ref/No Auth Required | PAR |
-| Page Logan, OD | BCBS FL Commercial PPO | No Ref/No Auth Required | PAR |
 | Patrick Nelson, OD | BCBS FL Commercial PPO | No Ref/No Auth Required | PAR |
 | Priya Mathews, MD | BCBS FL Commercial PPO | No Ref/No Auth Required | PAR |
 | Rachael Randolph, OD | BCBS FL Commercial PPO | No Ref/No Auth Required | PAR |

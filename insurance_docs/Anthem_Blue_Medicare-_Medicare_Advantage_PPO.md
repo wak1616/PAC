@@ -29,13 +29,13 @@
 | Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | Anthem BCBS Medicare PPO | No Ref/No Auth Required | Non-PAR |
 | Kyle Schaub, OD | Anthem BCBS Medicare PPO | No Ref/No Auth Required | PAR |
 | Len Brown, OD | Anthem BCBS Medicare PPO | No Ref/No Auth Required | PAR |
+| Logan Page, OD | Anthem BCBS Medicare PPO | No Ref/No Auth Required | PAR |
 | Lori Long, OD | Anthem BCBS Medicare PPO | No Ref/No Auth Required | PAR |
 | Lori Vollmer, OD | Anthem BCBS Medicare PPO | No Ref/No Auth Required | PAR |
 | Mary Mcvey, OD | Anthem BCBS Medicare PPO | No Ref/No Auth Required | PAR |
 | Maureen Traina, PA | Anthem BCBS Medicare PPO | No Ref/No Auth Required | PAR |
 | Melissa Hammond, OD | Anthem BCBS Medicare PPO | No Ref/No Auth Required | PAR |
 | Michael Maloney, OD | Anthem BCBS Medicare PPO | No Ref/No Auth Required | PAR |
-| Page Logan, OD | Anthem BCBS Medicare PPO | No Ref/No Auth Required | PAR |
 | Patrick Nelson, OD | Anthem BCBS Medicare PPO | No Ref/No Auth Required | PAR |
 | Priya Mathews, MD | Anthem BCBS Medicare PPO | No Ref/No Auth Required | PAR |
 | Rachael Randolph, OD | Anthem BCBS Medicare PPO | No Ref/No Auth Required | PAR |

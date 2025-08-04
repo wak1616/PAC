@@ -29,13 +29,13 @@
 | Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | BCBS OOS MDCR HMO POS - REFERRAL REQ | Referral Required | Non-PAR |
 | Kyle Schaub, OD | BCBS OOS MDCR HMO POS - REFERRAL REQ | Referral Required | PAR |
 | Len Brown, OD | BCBS OOS MDCR HMO POS - REFERRAL REQ | Referral Required | PAR |
+| Logan Page, OD | BCBS OOS MDCR HMO POS - REFERRAL REQ | Referral Required | PAR |
 | Lori Long, OD | BCBS OOS MDCR HMO POS - REFERRAL REQ | Referral Required | PAR |
 | Lori Vollmer, OD | BCBS OOS MDCR HMO POS - REFERRAL REQ | Referral Required | PAR |
 | Mary Mcvey, OD | BCBS OOS MDCR HMO POS - REFERRAL REQ | Referral Required | PAR |
 | Maureen Traina, PA | BCBS OOS MDCR HMO POS - REFERRAL REQ | Referral Required | PAR |
 | Melissa Hammond, OD | BCBS OOS MDCR HMO POS - REFERRAL REQ | Referral Required | PAR |
 | Michael Maloney, OD | BCBS OOS MDCR HMO POS - REFERRAL REQ | Referral Required | PAR |
-| Page Logan, OD | BCBS OOS MDCR HMO POS - REFERRAL REQ | Referral Required | PAR |
 | Patrick Nelson, OD | BCBS OOS MDCR HMO POS - REFERRAL REQ | Referral Required | PAR |
 | Priya Mathews, MD | BCBS OOS MDCR HMO POS - REFERRAL REQ | Referral Required | PAR |
 | Rachael Randolph, OD | BCBS OOS MDCR HMO POS - REFERRAL REQ | Referral Required | PAR |

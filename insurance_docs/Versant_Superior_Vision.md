@@ -29,13 +29,13 @@
 | Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | Superior Vision | Authorization Required | Non-PAR |
 | Kyle Schaub, OD | Superior Vision | Authorization Required | Non-PAR |
 | Len Brown, OD | Superior Vision | Authorization Required | PAR |
+| Logan Page, OD | Superior Vision | Authorization Required | PAR |
 | Lori Long, OD | Superior Vision | Authorization Required | PAR |
 | Lori Vollmer, OD | Superior Vision | Authorization Required | PAR |
 | Mary Mcvey, OD | Superior Vision | Authorization Required | PAR |
 | Maureen Traina, PA | Superior Vision | Authorization Required | Non-PAR |
 | Melissa Hammond, OD | Superior Vision | Authorization Required | PAR |
 | Michael Maloney, OD | Superior Vision | Authorization Required | Non-PAR |
-| Page Logan, OD | Superior Vision | Authorization Required | PAR |
 | Patrick Nelson, OD | Superior Vision | Authorization Required | Non-PAR |
 | Priya Mathews, MD | Superior Vision | Authorization Required | PAR |
 | Rachael Randolph, OD | Superior Vision | Authorization Required | PAR |

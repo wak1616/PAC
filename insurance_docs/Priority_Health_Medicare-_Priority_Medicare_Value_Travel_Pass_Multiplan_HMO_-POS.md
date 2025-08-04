@@ -29,13 +29,13 @@
 | Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | Priority Health Medicare HMO - Multiplan | No Ref/No Auth Required | Non-PAR |
 | Kyle Schaub, OD | Priority Health Medicare HMO - Multiplan | No Ref/No Auth Required | PAR |
 | Len Brown, OD | Priority Health Medicare HMO - Multiplan | No Ref/No Auth Required | PAR |
+| Logan Page, OD | Priority Health Medicare HMO - Multiplan | No Ref/No Auth Required | PAR |
 | Lori Long, OD | Priority Health Medicare HMO - Multiplan | No Ref/No Auth Required | PAR |
 | Lori Vollmer, OD | Priority Health Medicare HMO - Multiplan | No Ref/No Auth Required | PAR |
 | Mary Mcvey, OD | Priority Health Medicare HMO - Multiplan | No Ref/No Auth Required | PAR |
 | Maureen Traina, PA | Priority Health Medicare HMO - Multiplan | No Ref/No Auth Required | PAR |
 | Melissa Hammond, OD | Priority Health Medicare HMO - Multiplan | No Ref/No Auth Required | PAR |
 | Michael Maloney, OD | Priority Health Medicare HMO - Multiplan | No Ref/No Auth Required | PAR |
-| Page Logan, OD | Priority Health Medicare HMO - Multiplan | No Ref/No Auth Required | PAR |
 | Patrick Nelson, OD | Priority Health Medicare HMO - Multiplan | No Ref/No Auth Required | PAR |
 | Priya Mathews, MD | Priority Health Medicare HMO - Multiplan | No Ref/No Auth Required | PAR |
 | Rachael Randolph, OD | Priority Health Medicare HMO - Multiplan | No Ref/No Auth Required | PAR |

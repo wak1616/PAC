@@ -29,13 +29,13 @@
 | Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | Dean Health Plan PPO | No Ref/No Auth Required | Non-PAR |
 | Kyle Schaub, OD | Dean Health Plan PPO | No Ref/No Auth Required | PAR |
 | Len Brown, OD | Dean Health Plan PPO | No Ref/No Auth Required | PAR |
+| Logan Page, OD | Dean Health Plan PPO | No Ref/No Auth Required | PAR |
 | Lori Long, OD | Dean Health Plan PPO | No Ref/No Auth Required | PAR |
 | Lori Vollmer, OD | Dean Health Plan PPO | No Ref/No Auth Required | PAR |
 | Mary Mcvey, OD | Dean Health Plan PPO | No Ref/No Auth Required | PAR |
 | Maureen Traina, PA | Dean Health Plan PPO | No Ref/No Auth Required | PAR |
 | Melissa Hammond, OD | Dean Health Plan PPO | No Ref/No Auth Required | PAR |
 | Michael Maloney, OD | Dean Health Plan PPO | No Ref/No Auth Required | PAR |
-| Page Logan, OD | Dean Health Plan PPO | No Ref/No Auth Required | PAR |
 | Patrick Nelson, OD | Dean Health Plan PPO | No Ref/No Auth Required | PAR |
 | Priya Mathews, MD | Dean Health Plan PPO | No Ref/No Auth Required | PAR |
 | Rachael Randolph, OD | Dean Health Plan PPO | No Ref/No Auth Required | PAR |

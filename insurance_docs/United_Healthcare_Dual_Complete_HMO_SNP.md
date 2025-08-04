@@ -29,13 +29,13 @@
 | Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | Primary: UHC Dual Complete HMO-87726                                                                 Secondary: Medicaid Secondary | No Ref/No Auth Required | Non-PAR |
 | Kyle Schaub, OD | Primary: UHC Dual Complete HMO-87726                                                                 Secondary: Medicaid Secondary | No Ref/No Auth Required | PAR |
 | Len Brown, OD | Primary: UHC Dual Complete HMO-87726                                                                 Secondary: Medicaid Secondary | No Ref/No Auth Required | PAR |
+| Logan Page, OD | Primary: UHC Dual Complete HMO-87726                                                                 Secondary: Medicaid Secondary | No Ref/No Auth Required | PAR |
 | Lori Long, OD | Primary: UHC Dual Complete HMO-87726                                                                 Secondary: Medicaid Secondary | No Ref/No Auth Required | PAR |
 | Lori Vollmer, OD | Primary: UHC Dual Complete HMO-87726                                                                 Secondary: Medicaid Secondary | No Ref/No Auth Required | PAR |
 | Mary Mcvey, OD | Primary: UHC Dual Complete HMO-87726                                                                 Secondary: Medicaid Secondary | No Ref/No Auth Required | PAR |
 | Maureen Traina, PA | Primary: UHC Dual Complete HMO-87726                                                                 Secondary: Medicaid Secondary | No Ref/No Auth Required | PAR |
 | Melissa Hammond, OD | Primary: UHC Dual Complete HMO-87726                                                                 Secondary: Medicaid Secondary | No Ref/No Auth Required | PAR |
 | Michael Maloney, OD | Primary: UHC Dual Complete HMO-87726                                                                 Secondary: Medicaid Secondary | No Ref/No Auth Required | PAR |
-| Page Logan, OD | Primary: UHC Dual Complete HMO-87726                                                                 Secondary: Medicaid Secondary | No Ref/No Auth Required | PAR |
 | Patrick Nelson, OD | Primary: UHC Dual Complete HMO-87726                                                                 Secondary: Medicaid Secondary | No Ref/No Auth Required | PAR |
 | Priya Mathews, MD | Primary: UHC Dual Complete HMO-87726                                                                 Secondary: Medicaid Secondary | No Ref/No Auth Required | PAR |
 | Rachael Randolph, OD | Primary: UHC Dual Complete HMO-87726                                                                 Secondary: Medicaid Secondary | No Ref/No Auth Required | PAR |

@@ -29,13 +29,13 @@
 | Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | WellCare Medicare PPO | Authorization MAY BE Required | Non-PAR -OON Benefits |
 | Kyle Schaub, OD | WellCare Medicare PPO | Authorization MAY BE Required | Non-PAR -OON Benefits |
 | Len Brown, OD | WellCare Medicare PPO | Authorization MAY BE Required | Non-PAR -OON Benefits |
+| Logan Page, OD | WellCare Medicare PPO | Authorization MAY BE Required | Non-PAR -OON Benefits |
 | Lori Long, OD | WellCare Medicare PPO | Authorization MAY BE Required | Non-PAR -OON Benefits |
 | Lori Vollmer, OD | WellCare Medicare PPO | Authorization MAY BE Required | Non-PAR -OON Benefits |
 | Mary Mcvey, OD | WellCare Medicare PPO | Authorization MAY BE Required | Non-PAR -OON Benefits |
 | Maureen Traina, PA | WellCare Medicare PPO | Authorization MAY BE Required | Non-PAR -OON Benefits |
 | Melissa Hammond, OD | WellCare Medicare PPO | Authorization MAY BE Required | Non-PAR -OON Benefits |
 | Michael Maloney, OD | WellCare Medicare PPO | Authorization MAY BE Required | Non-PAR -OON Benefits |
-| Page Logan, OD | WellCare Medicare PPO | Authorization MAY BE Required | Non-PAR -OON Benefits |
 | Patrick Nelson, OD | WellCare Medicare PPO | Authorization MAY BE Required | Non-PAR -OON Benefits |
 | Priya Mathews, MD | WellCare Medicare PPO | Authorization MAY BE Required | Non-PAR -OON Benefits |
 | Rachael Randolph, OD | WellCare Medicare PPO | Authorization MAY BE Required | Non-PAR -OON Benefits |

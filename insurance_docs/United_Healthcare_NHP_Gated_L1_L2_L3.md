@@ -29,13 +29,13 @@
 | Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | UHC Comm HMO REFERRAL REQ | Referral Required | Non-PAR |
 | Kyle Schaub, OD | UHC Comm HMO REFERRAL REQ | Referral Required | PAR |
 | Len Brown, OD | UHC Comm HMO REFERRAL REQ | Referral Required | PAR |
+| Logan Page, OD | UHC Comm HMO REFERRAL REQ | Referral Required | PAR |
 | Lori Long, OD | UHC Comm HMO REFERRAL REQ | Referral Required | PAR |
 | Lori Vollmer, OD | UHC Comm HMO REFERRAL REQ | Referral Required | PAR |
 | Mary Mcvey, OD | UHC Comm HMO REFERRAL REQ | Referral Required | PAR |
 | Maureen Traina, PA | UHC Comm HMO REFERRAL REQ | Referral Required | PAR |
 | Melissa Hammond, OD | UHC Comm HMO REFERRAL REQ | Referral Required | PAR |
 | Michael Maloney, OD | UHC Comm HMO REFERRAL REQ | Referral Required | PAR |
-| Page Logan, OD | UHC Comm HMO REFERRAL REQ | Referral Required | PAR |
 | Patrick Nelson, OD | UHC Comm HMO REFERRAL REQ | Referral Required | PAR |
 | Priya Mathews, MD | UHC Comm HMO REFERRAL REQ | Referral Required | PAR |
 | Rachael Randolph, OD | UHC Comm HMO REFERRAL REQ | Referral Required | PAR |

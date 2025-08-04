@@ -29,13 +29,13 @@
 | Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | BCBS FL Commercial HMO | Authorization Required | Non-PAR |
 | Kyle Schaub, OD | BCBS FL Commercial HMO | Authorization Required | PAR |
 | Len Brown, OD | BCBS FL Commercial HMO | Authorization Required | PAR |
+| Logan Page, OD | BCBS FL Commercial HMO | Authorization Required | PAR |
 | Lori Long, OD | BCBS FL Commercial HMO | Authorization Required | PAR |
 | Lori Vollmer, OD | BCBS FL Commercial HMO | Authorization Required | PAR |
 | Mary Mcvey, OD | BCBS FL Commercial HMO | Authorization Required | PAR |
 | Maureen Traina, PA | BCBS FL Commercial HMO | Authorization Required | PAR |
 | Melissa Hammond, OD | BCBS FL Commercial HMO | Authorization Required | PAR |
 | Michael Maloney, OD | BCBS FL Commercial HMO | Authorization Required | PAR |
-| Page Logan, OD | BCBS FL Commercial HMO | Authorization Required | PAR |
 | Patrick Nelson, OD | BCBS FL Commercial HMO | Authorization Required | PAR |
 | Priya Mathews, MD | BCBS FL Commercial HMO | Authorization Required | PAR |
 | Rachael Randolph, OD | BCBS FL Commercial HMO | Authorization Required | PAR |

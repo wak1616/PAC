@@ -29,13 +29,13 @@
 | Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | All Savers Comm REFERRAL REQ - UHC | Referral Required | Non-PAR |
 | Kyle Schaub, OD | All Savers Comm REFERRAL REQ - UHC | Referral Required | PAR |
 | Len Brown, OD | All Savers Comm REFERRAL REQ - UHC | Referral Required | PAR |
+| Logan Page, OD | All Savers Comm REFERRAL REQ - UHC | Referral Required | PAR |
 | Lori Long, OD | All Savers Comm REFERRAL REQ - UHC | Referral Required | PAR |
 | Lori Vollmer, OD | All Savers Comm REFERRAL REQ - UHC | Referral Required | PAR |
 | Mary Mcvey, OD | All Savers Comm REFERRAL REQ - UHC | Referral Required | PAR |
 | Maureen Traina, PA | All Savers Comm REFERRAL REQ - UHC | Referral Required | PAR |
 | Melissa Hammond, OD | All Savers Comm REFERRAL REQ - UHC | Referral Required | PAR |
 | Michael Maloney, OD | All Savers Comm REFERRAL REQ - UHC | Referral Required | PAR |
-| Page Logan, OD | All Savers Comm REFERRAL REQ - UHC | Referral Required | PAR |
 | Patrick Nelson, OD | All Savers Comm REFERRAL REQ - UHC | Referral Required | PAR |
 | Priya Mathews, MD | All Savers Comm REFERRAL REQ - UHC | Referral Required | PAR |
 | Rachael Randolph, OD | All Savers Comm REFERRAL REQ - UHC | Referral Required | PAR |

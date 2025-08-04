@@ -29,13 +29,13 @@
 | Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | Priority Health Comm HMO | No Ref/No Auth Required | Non-PAR |
 | Kyle Schaub, OD | Priority Health Comm HMO | No Ref/No Auth Required | PAR |
 | Len Brown, OD | Priority Health Comm HMO | No Ref/No Auth Required | PAR |
+| Logan Page, OD | Priority Health Comm HMO | No Ref/No Auth Required | PAR |
 | Lori Long, OD | Priority Health Comm HMO | No Ref/No Auth Required | PAR |
 | Lori Vollmer, OD | Priority Health Comm HMO | No Ref/No Auth Required | PAR |
 | Mary Mcvey, OD | Priority Health Comm HMO | No Ref/No Auth Required | PAR |
 | Maureen Traina, PA | Priority Health Comm HMO | No Ref/No Auth Required | Non-PAR |
 | Melissa Hammond, OD | Priority Health Comm HMO | No Ref/No Auth Required | PAR |
 | Michael Maloney, OD | Priority Health Comm HMO | No Ref/No Auth Required | PAR |
-| Page Logan, OD | Priority Health Comm HMO | No Ref/No Auth Required | PAR |
 | Patrick Nelson, OD | Priority Health Comm HMO | No Ref/No Auth Required | PAR |
 | Priya Mathews, MD | Priority Health Comm HMO | No Ref/No Auth Required | PAR |
 | Rachael Randolph, OD | Priority Health Comm HMO | No Ref/No Auth Required | PAR |

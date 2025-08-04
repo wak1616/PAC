@@ -29,13 +29,13 @@
 | Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | EBMS Commercial PPO - Aetna | No Ref/No Auth Required | Non-PAR |
 | Kyle Schaub, OD | EBMS Commercial PPO - Aetna | No Ref/No Auth Required | PAR |
 | Len Brown, OD | EBMS Commercial PPO - Aetna | No Ref/No Auth Required | PAR |
+| Logan Page, OD | EBMS Commercial PPO - Aetna | No Ref/No Auth Required | PAR |
 | Lori Long, OD | EBMS Commercial PPO - Aetna | No Ref/No Auth Required | PAR |
 | Lori Vollmer, OD | EBMS Commercial PPO - Aetna | No Ref/No Auth Required | PAR |
 | Mary Mcvey, OD | EBMS Commercial PPO - Aetna | No Ref/No Auth Required | PAR |
 | Maureen Traina, PA | EBMS Commercial PPO - Aetna | No Ref/No Auth Required | PAR |
 | Melissa Hammond, OD | EBMS Commercial PPO - Aetna | No Ref/No Auth Required | PAR |
 | Michael Maloney, OD | EBMS Commercial PPO - Aetna | No Ref/No Auth Required | PAR |
-| Page Logan, OD | EBMS Commercial PPO - Aetna | No Ref/No Auth Required | PAR |
 | Patrick Nelson, OD | EBMS Commercial PPO - Aetna | No Ref/No Auth Required | PAR |
 | Priya Mathews, MD | EBMS Commercial PPO - Aetna | No Ref/No Auth Required | PAR |
 | Rachael Randolph, OD | EBMS Commercial PPO - Aetna | No Ref/No Auth Required | PAR |

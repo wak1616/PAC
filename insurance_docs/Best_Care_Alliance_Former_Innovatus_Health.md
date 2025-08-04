@@ -29,13 +29,13 @@
 | Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | PENDING | No Ref/No Auth Required | Non-PAR |
 | Kyle Schaub, OD | PENDING | No Ref/No Auth Required | Non-PAR |
 | Len Brown, OD | PENDING | No Ref/No Auth Required | PAR |
+| Logan Page, OD | PENDING | No Ref/No Auth Required | Non-PAR |
 | Lori Long, OD | PENDING | No Ref/No Auth Required | Non-PAR |
 | Lori Vollmer, OD | PENDING | No Ref/No Auth Required | Non-PAR |
 | Mary Mcvey, OD | PENDING | No Ref/No Auth Required | Non-PAR |
 | Maureen Traina, PA | PENDING | No Ref/No Auth Required | Non-PAR |
 | Melissa Hammond, OD | PENDING | No Ref/No Auth Required | Non-PAR |
 | Michael Maloney, OD | PENDING | No Ref/No Auth Required | Non-PAR |
-| Page Logan, OD | PENDING | No Ref/No Auth Required | Non-PAR |
 | Patrick Nelson, OD | PENDING | No Ref/No Auth Required | Non-PAR |
 | Priya Mathews, MD | PENDING | No Ref/No Auth Required | Non-PAR |
 | Rachael Randolph, OD | PENDING | No Ref/No Auth Required | Non-PAR |

@@ -29,13 +29,13 @@
 | Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | MBA TPA Commercial - Cigna | No Ref/No Auth Required | Non-PAR |
 | Kyle Schaub, OD | MBA TPA Commercial - Cigna | No Ref/No Auth Required | PAR |
 | Len Brown, OD | MBA TPA Commercial - Cigna | No Ref/No Auth Required | PAR |
+| Logan Page, OD | MBA TPA Commercial - Cigna | No Ref/No Auth Required | PAR |
 | Lori Long, OD | MBA TPA Commercial - Cigna | No Ref/No Auth Required | PAR |
 | Lori Vollmer, OD | MBA TPA Commercial - Cigna | No Ref/No Auth Required | PAR |
 | Mary Mcvey, OD | MBA TPA Commercial - Cigna | No Ref/No Auth Required | PAR |
 | Maureen Traina, PA | MBA TPA Commercial - Cigna | No Ref/No Auth Required | PAR |
 | Melissa Hammond, OD | MBA TPA Commercial - Cigna | No Ref/No Auth Required | PAR |
 | Michael Maloney, OD | MBA TPA Commercial - Cigna | No Ref/No Auth Required | PAR |
-| Page Logan, OD | MBA TPA Commercial - Cigna | No Ref/No Auth Required | PAR |
 | Patrick Nelson, OD | MBA TPA Commercial - Cigna | No Ref/No Auth Required | PAR |
 | Priya Mathews, MD | MBA TPA Commercial - Cigna | No Ref/No Auth Required | PAR |
 | Rachael Randolph, OD | MBA TPA Commercial - Cigna | No Ref/No Auth Required | PAR |

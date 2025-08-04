@@ -29,13 +29,13 @@
 | Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | Evolutions PPO | No Ref/No Auth Required | Non-PAR |
 | Kyle Schaub, OD | Evolutions PPO | No Ref/No Auth Required | PAR |
 | Len Brown, OD | Evolutions PPO | No Ref/No Auth Required | PAR |
+| Logan Page, OD | Evolutions PPO | No Ref/No Auth Required | PAR |
 | Lori Long, OD | Evolutions PPO | No Ref/No Auth Required | PAR |
 | Lori Vollmer, OD | Evolutions PPO | No Ref/No Auth Required | PAR |
 | Mary Mcvey, OD | Evolutions PPO | No Ref/No Auth Required | PAR |
 | Maureen Traina, PA | Evolutions PPO | No Ref/No Auth Required | PAR |
 | Melissa Hammond, OD | Evolutions PPO | No Ref/No Auth Required | PAR |
 | Michael Maloney, OD | Evolutions PPO | No Ref/No Auth Required | PAR |
-| Page Logan, OD | Evolutions PPO | No Ref/No Auth Required | PAR |
 | Patrick Nelson, OD | Evolutions PPO | No Ref/No Auth Required | PAR |
 | Priya Mathews, MD | Evolutions PPO | No Ref/No Auth Required | PAR |
 | Rachael Randolph, OD | Evolutions PPO | No Ref/No Auth Required | PAR |

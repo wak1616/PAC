@@ -29,13 +29,13 @@
 | Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | The Health Plan PPO - PHCS | No Ref/No Auth Required | Non-PAR |
 | Kyle Schaub, OD | The Health Plan PPO - PHCS | No Ref/No Auth Required | PAR |
 | Len Brown, OD | The Health Plan PPO - PHCS | No Ref/No Auth Required | PAR |
+| Logan Page, OD | The Health Plan PPO - PHCS | No Ref/No Auth Required | PAR |
 | Lori Long, OD | The Health Plan PPO - PHCS | No Ref/No Auth Required | PAR |
 | Lori Vollmer, OD | The Health Plan PPO - PHCS | No Ref/No Auth Required | PAR |
 | Mary Mcvey, OD | The Health Plan PPO - PHCS | No Ref/No Auth Required | PAR |
 | Maureen Traina, PA | The Health Plan PPO - PHCS | No Ref/No Auth Required | PAR |
 | Melissa Hammond, OD | The Health Plan PPO - PHCS | No Ref/No Auth Required | PAR |
 | Michael Maloney, OD | The Health Plan PPO - PHCS | No Ref/No Auth Required | PAR |
-| Page Logan, OD | The Health Plan PPO - PHCS | No Ref/No Auth Required | PAR |
 | Patrick Nelson, OD | The Health Plan PPO - PHCS | No Ref/No Auth Required | PAR |
 | Priya Mathews, MD | The Health Plan PPO - PHCS | No Ref/No Auth Required | PAR |
 | Rachael Randolph, OD | The Health Plan PPO - PHCS | No Ref/No Auth Required | PAR |

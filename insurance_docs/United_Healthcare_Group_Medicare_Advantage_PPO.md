@@ -29,13 +29,13 @@
 | Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | UHC Medicare Advantage PPO-87726 | No Ref/No Auth Required | Non-PAR |
 | Kyle Schaub, OD | UHC Medicare Advantage PPO-87726 | No Ref/No Auth Required | PAR |
 | Len Brown, OD | UHC Medicare Advantage PPO-87726 | No Ref/No Auth Required | PAR |
+| Logan Page, OD | UHC Medicare Advantage PPO-87726 | No Ref/No Auth Required | PAR |
 | Lori Long, OD | UHC Medicare Advantage PPO-87726 | No Ref/No Auth Required | PAR |
 | Lori Vollmer, OD | UHC Medicare Advantage PPO-87726 | No Ref/No Auth Required | PAR |
 | Mary Mcvey, OD | UHC Medicare Advantage PPO-87726 | No Ref/No Auth Required | PAR |
 | Maureen Traina, PA | UHC Medicare Advantage PPO-87726 | No Ref/No Auth Required | PAR |
 | Melissa Hammond, OD | UHC Medicare Advantage PPO-87726 | No Ref/No Auth Required | PAR |
 | Michael Maloney, OD | UHC Medicare Advantage PPO-87726 | No Ref/No Auth Required | PAR |
-| Page Logan, OD | UHC Medicare Advantage PPO-87726 | No Ref/No Auth Required | PAR |
 | Patrick Nelson, OD | UHC Medicare Advantage PPO-87726 | No Ref/No Auth Required | PAR |
 | Priya Mathews, MD | UHC Medicare Advantage PPO-87726 | No Ref/No Auth Required | PAR |
 | Rachael Randolph, OD | UHC Medicare Advantage PPO-87726 | No Ref/No Auth Required | PAR |

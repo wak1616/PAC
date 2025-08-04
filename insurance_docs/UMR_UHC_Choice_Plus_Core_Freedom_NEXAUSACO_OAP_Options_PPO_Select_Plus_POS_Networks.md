@@ -29,13 +29,13 @@
 | Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | UHC UMR-39026 | No Ref/No Auth Required | Non-PAR |
 | Kyle Schaub, OD | UHC UMR-39026 | No Ref/No Auth Required | PAR |
 | Len Brown, OD | UHC UMR-39026 | No Ref/No Auth Required | PAR |
+| Logan Page, OD | UHC UMR-39026 | No Ref/No Auth Required | PAR |
 | Lori Long, OD | UHC UMR-39026 | No Ref/No Auth Required | PAR |
 | Lori Vollmer, OD | UHC UMR-39026 | No Ref/No Auth Required | PAR |
 | Mary Mcvey, OD | UHC UMR-39026 | No Ref/No Auth Required | PAR |
 | Maureen Traina, PA | UHC UMR-39026 | No Ref/No Auth Required | PAR |
 | Melissa Hammond, OD | UHC UMR-39026 | No Ref/No Auth Required | PAR |
 | Michael Maloney, OD | UHC UMR-39026 | No Ref/No Auth Required | PAR |
-| Page Logan, OD | UHC UMR-39026 | No Ref/No Auth Required | PAR |
 | Patrick Nelson, OD | UHC UMR-39026 | No Ref/No Auth Required | PAR |
 | Priya Mathews, MD | UHC UMR-39026 | No Ref/No Auth Required | PAR |
 | Rachael Randolph, OD | UHC UMR-39026 | No Ref/No Auth Required | PAR |

@@ -29,13 +29,13 @@
 | Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | UCare Medicare HMO | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Kyle Schaub, OD | UCare Medicare HMO | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Len Brown, OD | UCare Medicare HMO | No Ref/No Auth Required | Non-PAR -OON Benefits |
+| Logan Page, OD | UCare Medicare HMO | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Lori Long, OD | UCare Medicare HMO | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Lori Vollmer, OD | UCare Medicare HMO | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Mary Mcvey, OD | UCare Medicare HMO | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Maureen Traina, PA | UCare Medicare HMO | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Melissa Hammond, OD | UCare Medicare HMO | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Michael Maloney, OD | UCare Medicare HMO | No Ref/No Auth Required | Non-PAR -OON Benefits |
-| Page Logan, OD | UCare Medicare HMO | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Patrick Nelson, OD | UCare Medicare HMO | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Priya Mathews, MD | UCare Medicare HMO | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Rachael Randolph, OD | UCare Medicare HMO | No Ref/No Auth Required | Non-PAR -OON Benefits |

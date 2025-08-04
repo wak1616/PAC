@@ -29,13 +29,13 @@
 | Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | Aetna Commercial HMO REFERRAL REQ | Referral Required | Non-PAR |
 | Kyle Schaub, OD | Aetna Commercial HMO REFERRAL REQ | Referral Required | PAR |
 | Len Brown, OD | Aetna Commercial HMO REFERRAL REQ | Referral Required | PAR |
+| Logan Page, OD | Aetna Commercial HMO REFERRAL REQ | Referral Required | PAR |
 | Lori Long, OD | Aetna Commercial HMO REFERRAL REQ | Referral Required | PAR |
 | Lori Vollmer, OD | Aetna Commercial HMO REFERRAL REQ | Referral Required | PAR |
 | Mary Mcvey, OD | Aetna Commercial HMO REFERRAL REQ | Referral Required | PAR |
 | Maureen Traina, PA | Aetna Commercial HMO REFERRAL REQ | Referral Required | PAR |
 | Melissa Hammond, OD | Aetna Commercial HMO REFERRAL REQ | Referral Required | PAR |
 | Michael Maloney, OD | Aetna Commercial HMO REFERRAL REQ | Referral Required | PAR |
-| Page Logan, OD | Aetna Commercial HMO REFERRAL REQ | Referral Required | PAR |
 | Patrick Nelson, OD | Aetna Commercial HMO REFERRAL REQ | Referral Required | PAR |
 | Priya Mathews, MD | Aetna Commercial HMO REFERRAL REQ | Referral Required | PAR |
 | Rachael Randolph, OD | Aetna Commercial HMO REFERRAL REQ | Referral Required | PAR |

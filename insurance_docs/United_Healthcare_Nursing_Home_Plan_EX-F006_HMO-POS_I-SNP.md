@@ -29,13 +29,13 @@
 | Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | UHC Nursing Home Plan FL PPO-87726 | No Ref/No Auth Required | Non-PAR |
 | Kyle Schaub, OD | UHC Nursing Home Plan FL PPO-87726 | No Ref/No Auth Required | PAR |
 | Len Brown, OD | UHC Nursing Home Plan FL PPO-87726 | No Ref/No Auth Required | PAR |
+| Logan Page, OD | UHC Nursing Home Plan FL PPO-87726 | No Ref/No Auth Required | PAR |
 | Lori Long, OD | UHC Nursing Home Plan FL PPO-87726 | No Ref/No Auth Required | PAR |
 | Lori Vollmer, OD | UHC Nursing Home Plan FL PPO-87726 | No Ref/No Auth Required | PAR |
 | Mary Mcvey, OD | UHC Nursing Home Plan FL PPO-87726 | No Ref/No Auth Required | PAR |
 | Maureen Traina, PA | UHC Nursing Home Plan FL PPO-87726 | No Ref/No Auth Required | PAR |
 | Melissa Hammond, OD | UHC Nursing Home Plan FL PPO-87726 | No Ref/No Auth Required | PAR |
 | Michael Maloney, OD | UHC Nursing Home Plan FL PPO-87726 | No Ref/No Auth Required | PAR |
-| Page Logan, OD | UHC Nursing Home Plan FL PPO-87726 | No Ref/No Auth Required | PAR |
 | Patrick Nelson, OD | UHC Nursing Home Plan FL PPO-87726 | No Ref/No Auth Required | PAR |
 | Priya Mathews, MD | UHC Nursing Home Plan FL PPO-87726 | No Ref/No Auth Required | PAR |
 | Rachael Randolph, OD | UHC Nursing Home Plan FL PPO-87726 | No Ref/No Auth Required | PAR |

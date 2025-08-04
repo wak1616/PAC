@@ -29,13 +29,13 @@
 | Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | BCBS FL myBlue HMO REFERRAL REQ | Referral Required | Non-PAR |
 | Kyle Schaub, OD | BCBS FL myBlue HMO REFERRAL REQ | Referral Required | PAR |
 | Len Brown, OD | BCBS FL myBlue HMO REFERRAL REQ | Referral Required | PAR |
+| Logan Page, OD | BCBS FL myBlue HMO REFERRAL REQ | Referral Required | PAR |
 | Lori Long, OD | BCBS FL myBlue HMO REFERRAL REQ | Referral Required | PAR |
 | Lori Vollmer, OD | BCBS FL myBlue HMO REFERRAL REQ | Referral Required | PAR |
 | Mary Mcvey, OD | BCBS FL myBlue HMO REFERRAL REQ | Referral Required | PAR |
 | Maureen Traina, PA | BCBS FL myBlue HMO REFERRAL REQ | Referral Required | PAR |
 | Melissa Hammond, OD | BCBS FL myBlue HMO REFERRAL REQ | Referral Required | PAR |
 | Michael Maloney, OD | BCBS FL myBlue HMO REFERRAL REQ | Referral Required | PAR |
-| Page Logan, OD | BCBS FL myBlue HMO REFERRAL REQ | Referral Required | PAR |
 | Patrick Nelson, OD | BCBS FL myBlue HMO REFERRAL REQ | Referral Required | PAR |
 | Priya Mathews, MD | BCBS FL myBlue HMO REFERRAL REQ | Referral Required | PAR |
 | Rachael Randolph, OD | BCBS FL myBlue HMO REFERRAL REQ | Referral Required | PAR |

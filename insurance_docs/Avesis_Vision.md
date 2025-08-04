@@ -29,13 +29,13 @@
 | Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | Avesis Vision | Authorization Required | Non-PAR |
 | Kyle Schaub, OD | Avesis Vision | Authorization Required | Non-PAR |
 | Len Brown, OD | Avesis Vision | Authorization Required | PAR |
+| Logan Page, OD | Avesis Vision | Authorization Required | Non-PAR |
 | Lori Long, OD | Avesis Vision | Authorization Required | Non-PAR |
 | Lori Vollmer, OD | Avesis Vision | Authorization Required | Non-PAR |
 | Mary Mcvey, OD | Avesis Vision | Authorization Required | Non-PAR |
 | Maureen Traina, PA | Avesis Vision | Authorization Required | Non-PAR |
 | Melissa Hammond, OD | Avesis Vision | Authorization Required | Non-PAR |
 | Michael Maloney, OD | Avesis Vision | Authorization Required | Non-PAR |
-| Page Logan, OD | Avesis Vision | Authorization Required | Non-PAR |
 | Patrick Nelson, OD | Avesis Vision | Authorization Required | Non-PAR |
 | Priya Mathews, MD | Avesis Vision | Authorization Required | Non-PAR |
 | Rachael Randolph, OD | Avesis Vision | Authorization Required | Non-PAR |
