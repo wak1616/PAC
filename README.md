@@ -43,7 +43,9 @@ _Click on the map below to access the interactive version_
 * **Lake Eye Associates (LEA)**: [lakeeye.com/physicians/](https://lakeeye.com/physicians/)
 * **Retina Health Center (RHC)**: [retinahealthcenter.com](https://www.retinahealthcenter.com/)
 
-***
+### Translator
+* Account number: 501036068
+* Pin: 6483
 
 ## Provider, Location, and Dilation Guides
 
@@ -123,9 +125,9 @@ The following guide outlines when to schedule appointment based on their symptom
 | **Sudden distortion/change on Amsler Grid**                                    | Sudden onset of double vision                              | Difficulty with near/fine print                                     |
 | **Foreign body (something in eye)**                                            | Ocular discharge (clear, milky, watery)                    | Lid twitching                                                       |
 | **Chemicals in eye** (flush at urgent care/hospital until pH = 7, then clinic) | Severe photophobia (with/without pain)                     | Mucous discharge                                                    |
-| **Acute, rapid onset eye pain/discomfort**                                     | Loss of only pair of glasses/contacts needed for daily use | Tearing (no other symptoms)                                         |
+| **Acute, rapid onset eye pain/discomfort**                                     |                                                            | Tearing (no other symptoms)                                         |
 | **Acute red eye w/ or w/out discharge**                                        |                                                            | Mild redness w/o other symptoms                                     |
-| **Trauma to eye, head, face**                                                  |                                                            |                                                                     |
+| **Trauma to eye, head, face**                                                  |                                                            | Loss of only pair of glasses/contacts needed for daily use          |
 | **Referral stating emergent situation**                                        |                                                            |                                                                     |
 
 ***
@@ -277,6 +279,7 @@ Use this rule to override standard appointment templates if attempting to schedu
 ### Restrictions
 
 * Do not schedule a same day or next day appointment past 3:30 PM.
+* PAC cannot schedule a patient with a vision plan under the 72-hour rule.
 
 ### Doctors Included in 72-Hour Rule
 
@@ -320,11 +323,6 @@ Use this rule to override standard appointment templates if attempting to schedu
 
 * Note "**72-hour rule**" clearly in appointment details.
 * Extend appointment from 15 to 30 min when combining short slots.
-
-### Important Reminders
-
-* Patients are typically only eligible through their vision plan once per year. If a routine exam is being scheduled before the 1-year eligibility timeframe, the patient may need to use their medical insurance instead.
-* Always schedule patients with both vision and medical insurance info.
 
 ### If Additional Requirements are Needed by Insurance
 
@@ -459,6 +457,10 @@ These exams are usually performed annually and help maintain overall eye health.
 3. **Self-Pay Pricing**  
    a. The self-pay price for a comprehensive exam is typically **$150-$250**.  
    b. **Script:** "The estimated costs for an exam can range between $150-$250. Once you have checked out, our check-out staff will provide your final self-pay costs. All costs are due at the time of the appointment."
+4. **Important Reminders**   
+   a. Patients are typically only eligible through their vision plan once per year. If a routine exam is being scheduled before the 1-year eligibility timeframe, the patient may need to use their medical insurance instead.  
+   b. Always schedule patients with both vision and medical insurance info.
+
 
 #### Closing Reminders
 
@@ -613,7 +615,7 @@ US Eye offers **Light Adjustable Lens**, **Advanced**, **Custom**, and **Basic**
 
 | Location | Providers                                                                                                                                                             |
 | -------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **CFS**  | Dr. Jon Berlie, Dr. George Brinnig, Dr. Joaquin De Rojas\*, Dr. Joshua Kim\*, Dr. Priya Mathews\*, Dr. David Shoemaker\*, Dr. William Soscia\*, Dr. Elizabeth Davis\* |
+| **CFS**  | Dr. Jon Berlie, Dr. Joaquin De Rojas\*, Dr. Joshua Kim\*, Dr. Priya Mathews\*, Dr. David Shoemaker\*, Dr. Elizabeth Davis\* |
 | **LEA**  | Dr. Vinay Gutti, Dr. Scot Holman, Dr. Scott Wehrly                                                                                                                    |
 | **RHC**  | (No providers listed)                                                                                                                                                 |
 | **SFEC** | Dr. Albert Smolyar\*                                                                                                                                                  |

@@ -29,7 +29,7 @@
 ### George Brinnig, MD
 
 * **Patient Types**: Teen (8-17 Years), Adult (18 & Over)
-* **Specialties**: Cataract, Primary Eye Care
+* **Specialties**: Primary Eye Care
 * **Patient Care Team**: CFS South
 * **Office Locations**: Naples
 * **NPI**: 1356320048
@@ -257,14 +257,6 @@
 * **Patient Care Team**: CFS North
 * **Office Locations**: US41 Sarasota
 * **NPI**: ---
-
-### William Soscia, MD
-
-* **Patient Types**: Adult (18 & Over)
-* **Specialties**: Cataract
-* **Patient Care Team**: CFS North
-* **Office Locations**: University Park, US41 Sarasota
-* **NPI**: 1518965516
 
 ### Joseph Sowka, OD
 
