@@ -51,6 +51,7 @@
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
 | George Brinnig-Jastrzebski, MD | Division of Blind | Authorization Required | PAR |
+| Jenna Getman, OD - Start Date 9/29/2025 | Division of Blind | Authorization Required | Non-PAR |
 | Jon Berlie, MD | Division of Blind | Authorization Required | PAR |
 | Julie Carter, MD | Division of Blind | Authorization Required | PAR |
 

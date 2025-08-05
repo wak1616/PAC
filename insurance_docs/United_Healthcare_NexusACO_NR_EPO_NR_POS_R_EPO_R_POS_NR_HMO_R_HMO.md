@@ -9,6 +9,7 @@
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
 | George Brinnig-Jastrzebski, MD | UHC Comm HMO REFERRAL REQ | Referral Required | PAR |
+| Jenna Getman, OD - Start Date 9/29/2025 | UHC Comm HMO REFERRAL REQ | Referral Required | Non-PAR |
 | Jon Berlie, MD | UHC Comm HMO REFERRAL REQ | Referral Required | PAR |
 | Julie Carter, MD | UHC Comm HMO REFERRAL REQ | Referral Required | PAR |
 

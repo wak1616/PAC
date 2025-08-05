@@ -51,6 +51,7 @@
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
 | George Brinnig-Jastrzebski, MD | Meritain Health Commercial - Aetna | No Ref/No Auth Required | PAR |
+| Jenna Getman, OD - Start Date 9/29/2025 | Meritain Health Commercial - Aetna | No Ref/No Auth Required | Non-PAR |
 | Jon Berlie, MD | Meritain Health Commercial - Aetna | No Ref/No Auth Required | PAR |
 | Julie Carter, MD | Meritain Health Commercial - Aetna | No Ref/No Auth Required | PAR |
 

@@ -51,6 +51,7 @@
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
 | George Brinnig-Jastrzebski, MD | Railroad Medicare | No Ref/No Auth Required | PAR |
+| Jenna Getman, OD - Start Date 9/29/2025 | Railroad Medicare | No Ref/No Auth Required | OK to Schedule-HOLD Claims until PAR |
 | Jon Berlie, MD | Railroad Medicare | No Ref/No Auth Required | PAR |
 | Julie Carter, MD | Railroad Medicare | No Ref/No Auth Required | PAR |
 

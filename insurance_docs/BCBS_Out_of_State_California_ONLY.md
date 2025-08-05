@@ -51,6 +51,7 @@
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
 | George Brinnig-Jastrzebski, MD | BCBS OOS CA - REFERRAL AND AUTH REQ- | Authorization Required | PAR |
+| Jenna Getman, OD - Start Date 9/29/2025 | BCBS OOS CA - REFERRAL AND AUTH REQ- | Authorization Required | Non-PAR |
 | Jon Berlie, MD | BCBS OOS CA - REFERRAL AND AUTH REQ- | Authorization Required | PAR |
 | Julie Carter, MD | BCBS OOS CA - REFERRAL AND AUTH REQ- | Authorization Required | PAR |
 

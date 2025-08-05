@@ -51,6 +51,7 @@
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
 | George Brinnig-Jastrzebski, MD | Vitori Health Open Access Plan | No Ref/No Auth Required | PAR |
+| Jenna Getman, OD - Start Date 9/29/2025 | Vitori Health Open Access Plan | No Ref/No Auth Required | Non-PAR |
 | Jon Berlie, MD | Vitori Health Open Access Plan | No Ref/No Auth Required | PAR |
 | Julie Carter, MD | Vitori Health Open Access Plan | No Ref/No Auth Required | PAR |
 
