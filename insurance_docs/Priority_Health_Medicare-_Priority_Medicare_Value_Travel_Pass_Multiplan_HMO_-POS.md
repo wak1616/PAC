@@ -14,7 +14,7 @@
 | Daniel Hadland, OD | Priority Health Medicare HMO - Multiplan | No Ref/No Auth Required | PAR |
 | David Mertzlufft, OD | Priority Health Medicare HMO - Multiplan | No Ref/No Auth Required | PAR |
 | David Shoemaker, MD | Priority Health Medicare HMO - Multiplan | No Ref/No Auth Required | PAR |
-| Elizabeth Davis, MD | Priority Health Medicare HMO - Multiplan | No Ref/No Auth Required | Non-PAR |
+| Elizabeth Davis, MD | Priority Health Medicare HMO - Multiplan | No Ref/No Auth Required | PAR |
 | Erin Hardie, OD | Priority Health Medicare HMO - Multiplan | No Ref/No Auth Required | PAR |
 | George Hurwitz, OD | Priority Health Medicare HMO - Multiplan | No Ref/No Auth Required | PAR |
 | Giselle Vega, OD | Priority Health Medicare HMO - Multiplan | No Ref/No Auth Required | PAR |

@@ -126,7 +126,7 @@
 | Division of Blind | Division of Blind | Authorization Required | PAR |
 | Employee Benefits Management Services (EMBS) with Aetna Network | EBMS Commercial PPO - Aetna | No Ref/No Auth Required | PAR |
 | Evolution PPO | Evolutions PPO | No Ref/No Auth Required | PAR |
-| Eyemed Vision | Eyemed Vision | No Ref/No Auth Required | PAR |
+| Eyemed Vision | Eyemed Vision | No Ref/No Auth Required | Non-PAR |
 | First Health Network (through Aetna and/or PHP Network) PLEASE ASK THE PATIENT FOR THE HEALTH PLAN NAME ON THE CARD AND LOAD THE PLAN INTO NEXTGEN ACCORDING TO THEIR HEALTH PLAN | PLEASE ASK THE PATIENT FOR THE HEALTH PLAN NAME ON THE CARD. IF THE PAYER IS NOT LOADED INTO THE SYSTEM, USE: INS NOT IN NEXTGEN. SEE: Generic Insurance Protocol - PAC, Front Desk, and Customer Service.pdf |  | PAR |
 | Freedom/Optimum Health Medicare ID # STARTS WITH P or T | Self Pay Non-Par with Ins |  | Non-PAR |
 | GEHA (United Healthcare Choice Plus Network) PLEASE INCLUDE THE SUFFIX IN THE POLICY # ON THE ID CARD AS GEHA (EX: 1234567GEHA) | UHC GEHA-39026 | No Ref/No Auth Required | PAR |

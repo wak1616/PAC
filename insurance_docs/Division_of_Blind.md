@@ -14,7 +14,7 @@
 | Daniel Hadland, OD | Division of Blind | Authorization Required | PAR |
 | David Mertzlufft, OD | Division of Blind | Authorization Required | PAR |
 | David Shoemaker, MD | Division of Blind | Authorization Required | PAR |
-| Elizabeth Davis, MD | Division of Blind | Authorization Required | Non-PAR |
+| Elizabeth Davis, MD | Division of Blind | Authorization Required | PAR |
 | Erin Hardie, OD | Division of Blind | Authorization Required | PAR |
 | George Hurwitz, OD | Division of Blind | Authorization Required | PAR |
 | Giselle Vega, OD | Division of Blind | Authorization Required | Non-PAR |

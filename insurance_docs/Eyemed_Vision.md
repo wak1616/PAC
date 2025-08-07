@@ -20,7 +20,7 @@
 | Giselle Vega, OD | Eyemed Vision | No Ref/No Auth Required | PAR |
 | Gisselle Vrga Carraso | Eyemed Vision | No Ref/No Auth Required | Non-PAR |
 | James Lenhart, OD | Eyemed Vision | No Ref/No Auth Required | PAR |
-| Joaquin De Rojas, MD | Eyemed Vision | No Ref/No Auth Required | PAR |
+| Joaquin De Rojas, MD | Eyemed Vision | No Ref/No Auth Required | Non-PAR |
 | John Fezza, MD (Oculoplastics) | Eyemed Vision | No Ref/No Auth Required | Non-PAR |
 | Joseph Sowka, OD | Eyemed Vision | No Ref/No Auth Required | PAR |
 | Joshua Kim, MD | Eyemed Vision | No Ref/No Auth Required | Non-PAR |

@@ -123,8 +123,8 @@
 | Cigna Oscar- Open Access Plus/Local Plus | Self Pay Non-Par with Ins |  | Non-PAR |
 | Cigna TotalCare Plus HMO D-SNP | Primary: Cigna Dual MDCR HMO Primary-REFERRAL REQ                                                      Secondary: Cigna Dual Medicaid HMO Secondary | Referral Required | PAR |
 | Dean Health Plan PPO - First Health | Dean Health Plan PPO | No Ref/No Auth Required | PAR |
-| Division of Blind | Division of Blind | Authorization Required | Non-PAR |
-| Employee Benefits Management Services (EMBS) with Aetna Network | EBMS Commercial PPO - Aetna | No Ref/No Auth Required | Non-PAR |
+| Division of Blind | Division of Blind | Authorization Required | PAR |
+| Employee Benefits Management Services (EMBS) with Aetna Network | EBMS Commercial PPO - Aetna | No Ref/No Auth Required | PAR |
 | Evolution PPO | Evolutions PPO | No Ref/No Auth Required | Non-PAR |
 | Eyemed Vision | Eyemed Vision | No Ref/No Auth Required | Non-PAR |
 | First Health Network (through Aetna and/or PHP Network) PLEASE ASK THE PATIENT FOR THE HEALTH PLAN NAME ON THE CARD AND LOAD THE PLAN INTO NEXTGEN ACCORDING TO THEIR HEALTH PLAN | PLEASE ASK THE PATIENT FOR THE HEALTH PLAN NAME ON THE CARD. IF THE PAYER IS NOT LOADED INTO THE SYSTEM, USE: INS NOT IN NEXTGEN. SEE: Generic Insurance Protocol - PAC, Front Desk, and Customer Service.pdf |  | PAR |
@@ -146,19 +146,19 @@
 | Medicaid of Florida/ All Medicaid (MCO) plans | Self Pay Non-Par with Ins |  | Non-PAR |
 | Medicare | Medicare Part B | No Ref/No Auth Required | PAR |
 | Meritain Gulf Coast (Aetna Choice POS II Network) | Meritain Health Commercial - Aetna | No Ref/No Auth Required | PAR |
-| Meritain Health - Sarasota Memorial (BASIC AND/OR COMPREHENSIVE PLAN) PLEASE ASK THE PATIENT IF THE CARD HAS "SMH" ON THEIR CARD. IF THE CARD SAYS BASIC OR COMPREHENSIVE PLAN, WE ARE OUT OF NETWORK AND THERE ARE NO OON BENEFITS | Self Pay Non-Par with Ins |  | Non-PAR |
-| Meritain Health - Sarasota Memorial (EXTENSIVE MEDICAL PLAN) PLEASE ASK THE PATIENT IF THE CARD HAS "SMH" ON THEIR CARD AND THE CARD MUST SAY EXTENDED MEDICAL PLAN. THE EXTENDED MEDICAL PLAN APPLIES TOWARDS THE PATIENT'S TIER 2 BENEFITS - AETNA CHOICE POS II | Meritain Health SMH Extd  Pln | Authorization MAY be Required | Non-PAR |
+| Meritain Health - Sarasota Memorial (BASIC AND/OR COMPREHENSIVE PLAN) PLEASE ASK THE PATIENT IF THE CARD HAS "SMH" ON THEIR CARD. IF THE CARD SAYS BASIC OR COMPREHENSIVE PLAN, WE ARE OUT OF NETWORK AND THERE ARE NO OON BENEFITS | Self Pay Non-Par with Ins |  | PAR |
+| Meritain Health - Sarasota Memorial (EXTENSIVE MEDICAL PLAN) PLEASE ASK THE PATIENT IF THE CARD HAS "SMH" ON THEIR CARD AND THE CARD MUST SAY EXTENDED MEDICAL PLAN. THE EXTENDED MEDICAL PLAN APPLIES TOWARDS THE PATIENT'S TIER 2 BENEFITS - AETNA CHOICE POS II | Meritain Health SMH Extd  Pln | Authorization MAY be Required | PAR |
 | Moda Health PPO (Aetna Network) | Moda Health PPO |  | PAR |
-| Multiplan PLEASE ASK THE PATIENT FOR THE HEALTH PLAN NAME ON THE CARD AND LOAD THE PLAN INTO NEXTGEN ACCORDING TO THEIR HEALTH PLAN | PLEASE ASK THE PATIENT FOR THE HEALTH PLAN NAME ON THE CARD. IF THE PAYER IS NOT LOADED INTO THE SYSTEM, USE: INS NOT IN NEXTGEN. SEE: Generic Insurance Protocol - PAC, Front Desk, and Customer Service.pdf |  | Non-PAR |
+| Multiplan PLEASE ASK THE PATIENT FOR THE HEALTH PLAN NAME ON THE CARD AND LOAD THE PLAN INTO NEXTGEN ACCORDING TO THEIR HEALTH PLAN | PLEASE ASK THE PATIENT FOR THE HEALTH PLAN NAME ON THE CARD. IF THE PAYER IS NOT LOADED INTO THE SYSTEM, USE: INS NOT IN NEXTGEN. SEE: Generic Insurance Protocol - PAC, Front Desk, and Customer Service.pdf |  | PAR |
 | NALC Health Benefit Plan (Cigna Open Access Plus Network) | NALC Health Benefit Plan- Cigna | No Ref/No Auth Required | PAR |
 | Optum VA-Veterans Affairs Community Care Network CCN | Optum VA Community Care | Authorization Required | PAR |
 | Oscar EPO | Self Pay Non-Par with Ins |  | Non-PAR |
-| PHCS PLEASE ASK THE PATIENT FOR THE HEALTH PLAN NAME ON THE CARD AND LOAD THE PLAN INTO NEXTGEN ACCORDING TO THEIR HEALTH PLAN | PLEASE ASK THE PATIENT FOR THE HEALTH PLAN NAME ON THE CARD. IF THE PAYER IS NOT LOADED INTO THE SYSTEM, USE: INS NOT IN NEXTGEN. SEE: Generic Insurance Protocol - PAC, Front Desk, and Customer Service.pdf |  | Non-PAR |
+| PHCS PLEASE ASK THE PATIENT FOR THE HEALTH PLAN NAME ON THE CARD AND LOAD THE PLAN INTO NEXTGEN ACCORDING TO THEIR HEALTH PLAN | PLEASE ASK THE PATIENT FOR THE HEALTH PLAN NAME ON THE CARD. IF THE PAYER IS NOT LOADED INTO THE SYSTEM, USE: INS NOT IN NEXTGEN. SEE: Generic Insurance Protocol - PAC, Front Desk, and Customer Service.pdf |  | PAR |
 | Presbyterian HMO | Self Pay Non-Par with Ins |  | Non-PAR |
 | Priority Health Commercial- (Cigna Open Access Network) HMO | Priority Health Comm HMO | No Ref/No Auth Required | PAR |
 | Priority Health Commercial- (Cigna Open Access Network) PPO | Priority Health Commercial PPO - Cigna | No Ref/No Auth Required | PAR |
-| Priority Health Medicare- Priority Medicare Ideal/Travel Pass (Multiplan) PPO | Priority Health Medicare PPO - Multiplan | No Ref/No Auth Required | Non-PAR |
-| Priority Health Medicare- Priority Medicare Value/Travel Pass (Multiplan) HMO -POS | Priority Health Medicare HMO - Multiplan | No Ref/No Auth Required | Non-PAR |
+| Priority Health Medicare- Priority Medicare Ideal/Travel Pass (Multiplan) PPO | Priority Health Medicare PPO - Multiplan | No Ref/No Auth Required | PAR |
+| Priority Health Medicare- Priority Medicare Value/Travel Pass (Multiplan) HMO -POS | Priority Health Medicare HMO - Multiplan | No Ref/No Auth Required | PAR |
 | Railroad Medicare - CONFIRM WITH PT AT THE BOTTOM OF THE ID CARD IT SAYS "RAILROAD RETIREMENT BOARD" | Railroad Medicare | No Ref/No Auth Required | PAR |
 | ROTC/Military Screening - Dr. MIDDAUGH ONLY. pATIENT WILL NOT HAVE AN ID CARD AS THEY ARE PRESENTING FOR A ROTC/MILITARY SCREENING | Concorde Inc | Authorization Required- ROTC Fom is required for the Clinical Team | Non-PAR |
 | Simply Health Care Medicare PPO (ICARE Network) | Self Pay Non-Par with Ins |  | Non-PAR |
