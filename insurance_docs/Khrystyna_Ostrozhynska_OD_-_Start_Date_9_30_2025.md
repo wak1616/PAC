@@ -138,6 +138,7 @@
 | Humana Medicare- Choice Florida (PPO)/Choice (Regional PPO)/USAA Honor PPO -CFS (except Naples) is OUT OF NETWORK. PATIENT HAS OON BENEFITS. PLEASE INFORM PATIENT OF POSSIBLE HIGHER OUT OF POCKET COSTS | Humana Medicare PPO | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Humana Medicare- HMO ALL PLANS | Self Pay Non-Par with Ins |  | Non-PAR |
 | Independent Health (UHC) | Independent Health - UHC | No Ref/No Auth Required | Non-PAR |
+| LifeX Research Corp - PHCS-52685 | LifeX Research Corp - PHCS |  | Non-PAR |
 | Lutheran Preferred (PHP Network) | Lutheran Preferred - PHP | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Mailhandlers (Aetna Choice® POS II Network) | Mail Handlers Benefit Plan Comm - Aetna | No Ref/No Auth Required | Non-PAR |
 | March Vision | Self Pay Non-Par with Ins |  | Non-PAR |
