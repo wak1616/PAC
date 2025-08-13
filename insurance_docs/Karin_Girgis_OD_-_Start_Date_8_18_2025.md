@@ -135,7 +135,7 @@
 | March Vision | Self Pay Non-Par with Ins |  | Non-PAR |
 | Medica (United Healthcare Choice Plus Network) | UHC Medica-94265 |  | Non-PAR |
 | Medicaid | Self Pay Non-Par with Ins |  | Non-PAR |
-| Medicare | Medicare Part B | No Ref/No Auth Required | OK to Schedule-HOLD Claims until PAR |
+| Medicare | Medicare Part B | No Ref/No Auth Required | PAR |
 | Meritain Gulf Coast (Aetna Choice POS II Network) | Meritain Health Commercial - Aetna | No Ref/No Auth Required | Non-PAR |
 | Meritain Health - Sarasota Memorial (BASIC AND/OR COMPREHENSIVE PLAN) PLEASE ASK THE PATIENT IF THE CARD HAS "SMH" ON THEIR CARD. IF THE CARD SAYS BASIC OR COMPREHENSIVE PLAN, WE ARE OUT OF NETWORK AND THERE ARE NO OON BENEFITS | Self Pay Non-Par with Ins |  | Non-PAR |
 | Meritain Health - Sarasota Memorial (EXTENSIVE MEDICAL PLAN) PLEASE ASK THE PATIENT IF THE CARD HAS "SMH" ON THEIR CARD AND THE CARD MUST SAY EXTENDED MEDICAL PLAN. THE EXTENDED MEDICAL PLAN APPLIES TOWARDS THE PATIENT'S TIER 2 BENEFITS - AETNA CHOICE POS II | Meritain Health SMH Extd  Pln | Authorization MAY be Required | Non-PAR |
@@ -193,7 +193,7 @@
 | United Healthcare The Villages Medicare Advantage FL-0004 (HMO-POS) AND FL-004P (HMO-POS) | UHC Medicare Advantage HMO-87726 | No Ref/No Auth Required | Non-PAR |
 | Versant: Davis Vision | Self Pay Non-Par with Ins |  | Non-PAR |
 | Versant: Superior Vision | Self Pay Non-Par with Ins |  | Non-PAR |
-| VSP Vision - DO NOT SCHEDULE ANY VSP AFTER 1/1/2025 WITH DR. GUTTI AND DR. HOLMAN | Vision Service Plan | Authorization Required | Non-PAR |
+| VSP Vision - DO NOT SCHEDULE ANY VSP AFTER 1/1/2025 WITH DR. GUTTI AND DR. HOLMAN | Vision Service Plan | Authorization Required | PAR- Effective 8/20 |
 | Web TPA | Self Pay Non-Par with Ins |  | Non-PAR |
 | Workers' Comp PLEASE SELECT THE APPROPRIATE WORKERS COMP PAYER IN NEXTGEN | See NEXTGEN "WC" PAYERS | Authorization Required | Non-PAR |
 
