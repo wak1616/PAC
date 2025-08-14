@@ -977,8 +977,9 @@ The **retina** is a delicate, light-sensitive tissue lining the interior of the 
 | **RHC**  | <p>Dr. Alexander Eaton<br>Dr. Veronica Graversen</p>          |
 | **SFEC** | _(None listed)_                                               |
 
-> **\*** Dr. Banker sees new patients only at **CFS-Venice**.
-> **\*** Dr. Banker can perform **Valeda light therapy.**
+> * Dr. Banker sees new patients only at **CFS-Venice**.
+> * Dr. Banker can perform **Valeda light therapy.**
+> * The RHC offices can perform **Valeda light therapy.**
 
 #### Important Reminders
 

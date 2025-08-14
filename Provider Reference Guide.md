@@ -74,6 +74,14 @@
 * **Office Locations**: Amara, US41 Sarasota
 * **NPI**: 1184715187
 
+### Karin Girgis, OD
+* **Patient Types**: Young Child (3-7 Years), Teen (8-17 years), Adult (18 & Over)
+* **Specialties**: Primary Eye Care, Soft CL, RGP CL
+* **Patient Care Team**: LEA
+* **Office Locations**: The Villages
+* **NPI**: 1780472134
+
+
 ### Daniel Hadland, OD
 
 * **Patient Types**: Teen (8-17 Years), Adult (18 & Over)
@@ -260,7 +268,7 @@
 
 ### Joseph Sowka, OD
 
-* **Patient Types**: Teen (8-17 Years), Adult (18 & Over)
+* **Patient Types**: Teen (13-17 Years), Adult (18 & Over)
 * **Specialties**: Neuro, Primary Eye Care, Soft CL
 * **Patient Care Team**: CFS Mid
 * **Office Locations**: Jacaranda
@@ -291,7 +299,7 @@
 
 ### Lori Vollmer, OD
 
-* **Patient Types**: Teen (8-17 Years), Adult (18 & Over)
+* **Patient Types**: Teen (13-17 Years), Adult (18 & Over)
 * **Specialties**: Primary Eye Care, Soft CL
 * **Patient Care Team**: CFS Mid
 * **Office Locations**: Jacaranda
