@@ -17,8 +17,7 @@
 | Elizabeth Davis, MD | Cigna International | Authorization Required | PAR |
 | Erin Hardie, OD | Cigna International | Authorization Required | PAR |
 | George Hurwitz, OD | Cigna International | Authorization Required | PAR |
-| Giselle Vega, OD | Cigna International | Authorization Required | Non-PAR |
-| Gisselle Vrga Carraso | Cigna International | Authorization Required | PAR |
+| Gisselle Vega Carraso | Cigna International | Authorization Required | PAR |
 | James Lenhart, OD | Cigna International | Authorization Required | PAR |
 | Joaquin De Rojas, MD | Cigna International | Authorization Required | PAR |
 | John Fezza, MD (Oculoplastics) | Cigna International | Authorization Required | PAR |

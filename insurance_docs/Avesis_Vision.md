@@ -17,8 +17,7 @@
 | Elizabeth Davis, MD | Avesis Vision | Authorization Required | Non-PAR |
 | Erin Hardie, OD | Avesis Vision | Authorization Required | Non-PAR |
 | George Hurwitz, OD | Avesis Vision | Authorization Required | Non-PAR |
-| Giselle Vega, OD | Avesis Vision | Authorization Required | Non-PAR |
-| Gisselle Vrga Carraso | Avesis Vision | Authorization Required | Non-PAR |
+| Gisselle Vega Carraso | Avesis Vision | Authorization Required | Non-PAR |
 | James Lenhart, OD | Avesis Vision | Authorization Required | Non-PAR |
 | Joaquin De Rojas, MD | Avesis Vision | Authorization Required | Non-PAR |
 | John Fezza, MD (Oculoplastics) | Avesis Vision | Authorization Required | Non-PAR |

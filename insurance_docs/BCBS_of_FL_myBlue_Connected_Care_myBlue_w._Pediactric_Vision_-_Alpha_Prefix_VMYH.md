@@ -17,8 +17,7 @@
 | Elizabeth Davis, MD | BCBS FL myBlue HMO REFERRAL REQ | Referral Required | PAR |
 | Erin Hardie, OD | BCBS FL myBlue HMO REFERRAL REQ | Referral Required | PAR |
 | George Hurwitz, OD | BCBS FL myBlue HMO REFERRAL REQ | Referral Required | PAR |
-| Giselle Vega, OD | BCBS FL myBlue HMO REFERRAL REQ | Referral Required | Non-PAR |
-| Gisselle Vrga Carraso | BCBS FL myBlue HMO REFERRAL REQ | Referral Required | Non-PAR |
+| Gisselle Vega Carraso | BCBS FL myBlue HMO REFERRAL REQ | Referral Required | Non-PAR |
 | James Lenhart, OD | BCBS FL myBlue HMO REFERRAL REQ | Referral Required | PAR |
 | Joaquin De Rojas, MD | BCBS FL myBlue HMO REFERRAL REQ | Referral Required | PAR |
 | John Fezza, MD (Oculoplastics) | BCBS FL myBlue HMO REFERRAL REQ | Referral Required | PAR |

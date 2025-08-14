@@ -17,8 +17,7 @@
 | Elizabeth Davis, MD | Priority Health Commercial PPO - Cigna | No Ref/No Auth Required | PAR |
 | Erin Hardie, OD | Priority Health Commercial PPO - Cigna | No Ref/No Auth Required | PAR |
 | George Hurwitz, OD | Priority Health Commercial PPO - Cigna | No Ref/No Auth Required | PAR |
-| Giselle Vega, OD | Priority Health Commercial PPO - Cigna | No Ref/No Auth Required | Non-PAR |
-| Gisselle Vrga Carraso | Priority Health Commercial PPO - Cigna | No Ref/No Auth Required | Non-PAR |
+| Gisselle Vega Carraso | Priority Health Commercial PPO - Cigna | No Ref/No Auth Required | PAR |
 | James Lenhart, OD | Priority Health Commercial PPO - Cigna | No Ref/No Auth Required | PAR |
 | Joaquin De Rojas, MD | Priority Health Commercial PPO - Cigna | No Ref/No Auth Required | PAR |
 | John Fezza, MD (Oculoplastics) | Priority Health Commercial PPO - Cigna | No Ref/No Auth Required | Non-PAR |

@@ -17,8 +17,7 @@
 | Elizabeth Davis, MD | UHC Medicare PPO J and J Retiree-87726 | No Ref/No Auth Required | PAR |
 | Erin Hardie, OD | UHC Medicare PPO J and J Retiree-87726 | No Ref/No Auth Required | PAR |
 | George Hurwitz, OD | UHC Medicare PPO J and J Retiree-87726 | No Ref/No Auth Required | PAR |
-| Giselle Vega, OD | UHC Medicare PPO J and J Retiree-87726 | No Ref/No Auth Required | PAR |
-| Gisselle Vrga Carraso | UHC Medicare PPO J and J Retiree-87726 | No Ref/No Auth Required | Non-PAR |
+| Gisselle Vega Carraso | UHC Medicare PPO J and J Retiree-87726 | No Ref/No Auth Required | Non-PAR |
 | James Lenhart, OD | UHC Medicare PPO J and J Retiree-87726 | No Ref/No Auth Required | PAR |
 | Joaquin De Rojas, MD | UHC Medicare PPO J and J Retiree-87726 | No Ref/No Auth Required | PAR |
 | John Fezza, MD (Oculoplastics) | UHC Medicare PPO J and J Retiree-87726 | No Ref/No Auth Required | PAR |

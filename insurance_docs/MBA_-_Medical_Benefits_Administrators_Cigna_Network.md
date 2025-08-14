@@ -17,8 +17,7 @@
 | Elizabeth Davis, MD | MBA TPA Commercial - Cigna | No Ref/No Auth Required | PAR |
 | Erin Hardie, OD | MBA TPA Commercial - Cigna | No Ref/No Auth Required | PAR |
 | George Hurwitz, OD | MBA TPA Commercial - Cigna | No Ref/No Auth Required | PAR |
-| Giselle Vega, OD | MBA TPA Commercial - Cigna | No Ref/No Auth Required | Non-PAR |
-| Gisselle Vrga Carraso | MBA TPA Commercial - Cigna | No Ref/No Auth Required | Non-PAR |
+| Gisselle Vega Carraso | MBA TPA Commercial - Cigna | No Ref/No Auth Required | Non-PAR |
 | James Lenhart, OD | MBA TPA Commercial - Cigna | No Ref/No Auth Required | PAR |
 | Joaquin De Rojas, MD | MBA TPA Commercial - Cigna | No Ref/No Auth Required | PAR |
 | John Fezza, MD (Oculoplastics) | MBA TPA Commercial - Cigna | No Ref/No Auth Required | PAR |

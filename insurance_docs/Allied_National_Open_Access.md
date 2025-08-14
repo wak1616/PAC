@@ -17,8 +17,7 @@
 | Elizabeth Davis, MD | Allied National Open Access | No Ref/No Auth Required | PAR |
 | Erin Hardie, OD | Allied National Open Access | No Ref/No Auth Required | PAR |
 | George Hurwitz, OD | Allied National Open Access | No Ref/No Auth Required | PAR |
-| Giselle Vega, OD | Allied National Open Access | No Ref/No Auth Required | Non-PAR |
-| Gisselle Vrga Carraso | Allied National Open Access | No Ref/No Auth Required | Non-PAR |
+| Gisselle Vega Carraso | Allied National Open Access | No Ref/No Auth Required | Non-PAR |
 | James Lenhart, OD | Allied National Open Access | No Ref/No Auth Required | PAR |
 | Joaquin De Rojas, MD | Allied National Open Access | No Ref/No Auth Required | PAR |
 | John Fezza, MD (Oculoplastics) | Allied National Open Access | No Ref/No Auth Required | PAR |

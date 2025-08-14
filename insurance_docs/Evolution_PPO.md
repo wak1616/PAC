@@ -17,8 +17,7 @@
 | Elizabeth Davis, MD | Evolutions PPO | No Ref/No Auth Required | Non-PAR |
 | Erin Hardie, OD | Evolutions PPO | No Ref/No Auth Required | PAR |
 | George Hurwitz, OD | Evolutions PPO | No Ref/No Auth Required | PAR |
-| Giselle Vega, OD | Evolutions PPO | No Ref/No Auth Required | Non-PAR |
-| Gisselle Vrga Carraso | Evolutions PPO | No Ref/No Auth Required | Non-PAR |
+| Gisselle Vega Carraso | Evolutions PPO | No Ref/No Auth Required | Non-PAR |
 | James Lenhart, OD | Evolutions PPO | No Ref/No Auth Required | PAR |
 | Joaquin De Rojas, MD | Evolutions PPO | No Ref/No Auth Required | PAR |
 | John Fezza, MD (Oculoplastics) | Evolutions PPO | No Ref/No Auth Required | PAR |

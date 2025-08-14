@@ -17,8 +17,7 @@
 | Elizabeth Davis, MD | Vitori Health Open Access Plan | No Ref/No Auth Required | PAR |
 | Erin Hardie, OD | Vitori Health Open Access Plan | No Ref/No Auth Required | PAR |
 | George Hurwitz, OD | Vitori Health Open Access Plan | No Ref/No Auth Required | PAR |
-| Giselle Vega, OD | Vitori Health Open Access Plan | No Ref/No Auth Required | Non-PAR |
-| Gisselle Vrga Carraso | Vitori Health Open Access Plan | No Ref/No Auth Required | Non-PAR |
+| Gisselle Vega Carraso | Vitori Health Open Access Plan | No Ref/No Auth Required | Non-PAR |
 | James Lenhart, OD | Vitori Health Open Access Plan | No Ref/No Auth Required | PAR |
 | Joaquin De Rojas, MD | Vitori Health Open Access Plan | No Ref/No Auth Required | PAR |
 | John Fezza, MD (Oculoplastics) | Vitori Health Open Access Plan | No Ref/No Auth Required | PAR |

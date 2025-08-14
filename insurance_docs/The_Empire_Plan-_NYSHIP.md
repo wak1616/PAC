@@ -17,8 +17,7 @@
 | Elizabeth Davis, MD | UHC Empire Plan-NYSHIP-87726 | No Ref/No Auth Required | PAR |
 | Erin Hardie, OD | UHC Empire Plan-NYSHIP-87726 | No Ref/No Auth Required | PAR |
 | George Hurwitz, OD | UHC Empire Plan-NYSHIP-87726 | No Ref/No Auth Required | PAR |
-| Giselle Vega, OD | UHC Empire Plan-NYSHIP-87726 | No Ref/No Auth Required | PAR |
-| Gisselle Vrga Carraso | UHC Empire Plan-NYSHIP-87726 | No Ref/No Auth Required | Non-PAR |
+| Gisselle Vega Carraso | UHC Empire Plan-NYSHIP-87726 | No Ref/No Auth Required | Non-PAR |
 | James Lenhart, OD | UHC Empire Plan-NYSHIP-87726 | No Ref/No Auth Required | PAR |
 | Joaquin De Rojas, MD | UHC Empire Plan-NYSHIP-87726 | No Ref/No Auth Required | PAR |
 | John Fezza, MD (Oculoplastics) | UHC Empire Plan-NYSHIP-87726 | No Ref/No Auth Required | PAR |

@@ -17,8 +17,7 @@
 | Elizabeth Davis, MD | UHC Harvard Pilgrim-39026 | No Ref/No Auth Required | PAR |
 | Erin Hardie, OD | UHC Harvard Pilgrim-39026 | No Ref/No Auth Required | PAR |
 | George Hurwitz, OD | UHC Harvard Pilgrim-39026 | No Ref/No Auth Required | PAR |
-| Giselle Vega, OD | UHC Harvard Pilgrim-39026 | No Ref/No Auth Required | Non-PAR |
-| Gisselle Vrga Carraso | UHC Harvard Pilgrim-39026 | No Ref/No Auth Required | Non-PAR |
+| Gisselle Vega Carraso | UHC Harvard Pilgrim-39026 | No Ref/No Auth Required | Non-PAR |
 | James Lenhart, OD | UHC Harvard Pilgrim-39026 | No Ref/No Auth Required | PAR |
 | Joaquin De Rojas, MD | UHC Harvard Pilgrim-39026 | No Ref/No Auth Required | PAR |
 | John Fezza, MD (Oculoplastics) | UHC Harvard Pilgrim-39026 | No Ref/No Auth Required | PAR |

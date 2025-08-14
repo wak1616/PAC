@@ -1,6 +1,6 @@
 # Insurance Guide By Insurance Plan
 
-*Last Updated: 08/13/2025 (based on data from Excel file: [US Eye Insurance Guide.xlsx](https://useyecorp.sharepoint.com/:x:/r/RCM/Shared%20Documents/Insurance%20Guides/US%20Eye%20Insurance%20Guide.xlsx?d=w2a2138d41fa04bfa919fc4966998346a&csf=1&web=1&e=73a3Gf&nav=MTVfezIwMjg5MTIyLTdDRkEtNEE0OS1CODBGLTdFNTc3Njc3OTJDNX0))*
+*Last Updated: 08/14/2025 (based on data from Excel file: [US Eye Insurance Guide.xlsx](https://useyecorp.sharepoint.com/:x:/r/RCM/Shared%20Documents/Insurance%20Guides/US%20Eye%20Insurance%20Guide.xlsx?d=w2a2138d41fa04bfa919fc4966998346a&csf=1&web=1&e=73a3Gf&nav=MTVfezIwMjg5MTIyLTdDRkEtNEE0OS1CODBGLTdFNTc3Njc3OTJDNX0))*
 
 *This guide lists insurance participation by insurance plan. Click an insurance plan to view all providers who accept that insurance, grouped by location.*
 
@@ -366,6 +366,7 @@
 * [Humana National POS - OpenAccess Plus/Choice POS/PPO](insurance_docs/Humana_National_POS_-_OpenAccess_Plus_Choice_POS_PPO.md)
 * [Independent Health (UHC)](insurance_docs/Independent_Health_UHC.md)
 * [LifeX Research Corp - PHCS-52685](insurance_docs/LifeX_Research_Corp_-_PHCS-52685.md)
+* [Lumimare Comm PPO (Aetna Network)](insurance_docs/Lumimare_Comm_PPO_Aetna_Network.md)
 * [Lutheran Preferred (PHP Network)](insurance_docs/Lutheran_Preferred_PHP_Network.md)
 * [MBA - Medical Benefits Administrators (Cigna Network)](insurance_docs/MBA_-_Medical_Benefits_Administrators_Cigna_Network.md)
 * [Mailhandlers (Aetna Choice® POS II Network)](insurance_docs/Mailhandlers_Aetna_Choice_POS_II_Network.md)

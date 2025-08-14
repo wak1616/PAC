@@ -17,8 +17,7 @@
 | Elizabeth Davis, MD | Railroad Medicare | No Ref/No Auth Required | PAR |
 | Erin Hardie, OD | Railroad Medicare | No Ref/No Auth Required | PAR |
 | George Hurwitz, OD | Railroad Medicare | No Ref/No Auth Required | PAR |
-| Giselle Vega, OD | Railroad Medicare | No Ref/No Auth Required | Non-PAR -Ok to schedule |
-| Gisselle Vrga Carraso | Railroad Medicare | No Ref/No Auth Required | OK to Schedule-HOLD Claims until PAR |
+| Gisselle Vega Carraso | Railroad Medicare | No Ref/No Auth Required | PAR |
 | James Lenhart, OD | Railroad Medicare | No Ref/No Auth Required | PAR |
 | Joaquin De Rojas, MD | Railroad Medicare | No Ref/No Auth Required | PAR |
 | John Fezza, MD (Oculoplastics) | Railroad Medicare | No Ref/No Auth Required | PAR |
@@ -51,7 +50,7 @@
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
 | George Brinnig-Jastrzebski, MD | Railroad Medicare | No Ref/No Auth Required | PAR |
-| Jenna Getman, OD - Start Date 9/29/2025 | Railroad Medicare | No Ref/No Auth Required | OK to Schedule-HOLD Claims until PAR |
+| Jenna Getman, OD - Start Date 9/29/2025 | Railroad Medicare | No Ref/No Auth Required | PAR |
 | Jon Berlie, MD | Railroad Medicare | No Ref/No Auth Required | PAR |
 | Julie Carter, MD | Railroad Medicare | No Ref/No Auth Required | PAR |
 

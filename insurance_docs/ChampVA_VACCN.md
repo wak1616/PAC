@@ -17,8 +17,7 @@
 | Elizabeth Davis, MD | Champva | No Ref/No Auth Required | PAR |
 | Erin Hardie, OD | Champva | No Ref/No Auth Required | PAR |
 | George Hurwitz, OD | Champva | No Ref/No Auth Required | PAR |
-| Giselle Vega, OD | Champva | No Ref/No Auth Required | Non-PAR |
-| Gisselle Vrga Carraso | Champva | No Ref/No Auth Required | Non-PAR |
+| Gisselle Vega Carraso | Champva | No Ref/No Auth Required | Non-PAR |
 | James Lenhart, OD | Champva | No Ref/No Auth Required | PAR |
 | Joaquin De Rojas, MD | Champva | No Ref/No Auth Required | PAR |
 | John Fezza, MD (Oculoplastics) | Champva | No Ref/No Auth Required | PAR |

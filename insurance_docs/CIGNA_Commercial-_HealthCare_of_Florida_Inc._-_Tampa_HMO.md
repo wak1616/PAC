@@ -17,8 +17,7 @@
 | Elizabeth Davis, MD | Cigna Commercial HMO | No Ref/No Auth Required | Non-PAR |
 | Erin Hardie, OD | Cigna Commercial HMO | No Ref/No Auth Required | Non-PAR |
 | George Hurwitz, OD | Cigna Commercial HMO | No Ref/No Auth Required | Non-PAR |
-| Giselle Vega, OD | Cigna Commercial HMO | No Ref/No Auth Required | Non-PAR |
-| Gisselle Vrga Carraso | Cigna Commercial HMO | No Ref/No Auth Required | Non-PAR |
+| Gisselle Vega Carraso | Cigna Commercial HMO | No Ref/No Auth Required | Non-PAR |
 | James Lenhart, OD | Cigna Commercial HMO | No Ref/No Auth Required | Non-PAR |
 | Joaquin De Rojas, MD | Cigna Commercial HMO | No Ref/No Auth Required | Non-PAR |
 | John Fezza, MD (Oculoplastics) | Cigna Commercial HMO | No Ref/No Auth Required | Non-PAR |

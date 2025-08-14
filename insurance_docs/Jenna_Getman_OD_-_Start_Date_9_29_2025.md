@@ -144,13 +144,15 @@
 | Humana Medicare- Choice Florida (PPO)/Choice (Regional PPO)/USAA Honor PPO | Humana Medicare PPO | No Ref/No Auth Required | Non-PAR |
 | Humana Medicare- HMO ALL PLANS | Self Pay Non-Par with Ins |  | Non-PAR |
 | Humana Medicare- Medicare PPO/Employee PPO Plus/Gold Choice Ntek PFFS | Humana Medicare PPO | No Ref/No Auth Required | Non-PAR |
-| Lutheran Preferred (PHP Network) | Lutheran Preferred - PHP | No Ref/No Auth Required | Non-PAR |
+| Independent Health (UHC) | Independent Health - UHC | No Ref/No Auth Required | PAR |
+| LifeX Research Corp - PHCS-52685 | LifeX Research Corp - PHCS | No Ref/No Auth Required | PAR |
+| Lutheran Preferred (PHP Network) | Lutheran Preferred - PHP | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Mailhandlers (Aetna Choice® POS II Network) | Mail Handlers Benefit Plan Comm - Aetna | No Ref/No Auth Required | Non-PAR |
 | March Vision | Self Pay Non-Par with Ins |  | Non-PAR |
 | MBA - Medical Benefits Administrators (Cigna Network) | MBA TPA Commercial - Cigna | No Ref/No Auth Required | Non-PAR |
 | Medica (United Healthcare Choice Plus Network) | UHC Medica-94265 | No Ref/No Auth Required | Non-PAR |
 | Medicaid of Florida/ All Medicaid (MCO) plans | Self Pay Non-Par with Ins |  | Non-PAR |
-| Medicare | Medicare Part B | No Ref/No Auth Required | OK to Schedule-HOLD Claims until PAR |
+| Medicare | Medicare Part B | No Ref/No Auth Required | PAR |
 | Meritain Gulf Coast (Aetna Choice POS II Network) | Meritain Health Commercial - Aetna | No Ref/No Auth Required | Non-PAR |
 | Meritain Health - Sarasota Memorial (BASIC AND/OR COMPREHENSIVE PLAN) PLEASE ASK THE PATIENT IF THE CARD HAS "SMH" ON THEIR CARD. IF THE CARD SAYS BASIC OR COMPREHENSIVE PLAN, WE ARE OUT OF NETWORK AND THERE ARE NO OON BENEFITS | Self Pay Non-Par with Ins |  | Non-PAR |
 | Meritain Health - Sarasota Memorial (EXTENSIVE MEDICAL PLAN) PLEASE ASK THE PATIENT IF THE CARD HAS "SMH" ON THEIR CARD AND THE CARD MUST SAY EXTENDED MEDICAL PLAN. THE EXTENDED MEDICAL PLAN APPLIES TOWARDS THE PATIENT'S TIER 2 BENEFITS - AETNA CHOICE POS II | Meritain Health SMH Extd  Pln | Authorization MAY be Required | Non-PAR |
@@ -163,13 +165,13 @@
 | Priority Health Commercial- (Cigna Open Access Network) PPO | Priority Health Commercial PPO - Cigna | No Ref/No Auth Required | Non-PAR |
 | Priority Health Medicare- Priority Medicare Ideal/Travel Pass (Multiplan) PPO | Priority Health Medicare PPO - Multiplan | No Ref/No Auth Required | Non-PAR |
 | Priority Health Medicare- Priority Medicare Value/Travel Pass (Multiplan) HMO -POS | Priority Health Medicare HMO - Multiplan | No Ref/No Auth Required | Non-PAR |
-| Railroad Medicare - CONFIRM WITH PT AT THE BOTTOM OF THE ID CARD IT SAYS "RAILROAD RETIREMENT BOARD" | Railroad Medicare | No Ref/No Auth Required | OK to Schedule-HOLD Claims until PAR |
+| Railroad Medicare - CONFIRM WITH PT AT THE BOTTOM OF THE ID CARD IT SAYS "RAILROAD RETIREMENT BOARD" | Railroad Medicare | No Ref/No Auth Required | PAR |
 | Spectera Vision | Self Pay Non-Par with Ins |  | Non-PAR |
 | Surest (United Healthcare Choice Plus Network) | UHC Surest-25463 Commercial - UHC | No Ref/No Auth Required | Non-PAR |
 | The Empire Plan-NYSHIP | UHC Empire Plan-NYSHIP-87726 | No Ref/No Auth Required | Non-PAR |
-| Tricare Prime CFS is OUT OF NETWORK. PATIENT HAS OON BENEFITS. PLEASE INFORM PATIENT OF POSSIBLE HIGHER OUT OF POCKET COSTS (see note). covered for a Routine Eye Exam every two years | Tricare Prime HMO-REFERRAL REQ | Referral Required | Non-PAR |
-| Tricare Select CFS is OUT OF NETWORK. PATIENT HAS OON BENEFITS. PLEASE INFORM PATIENT OF POSSIBLE HIGHER OUT OF POCKET COSTS. Routine Eye Exams are NON-covered | Tricare Select | No Ref/No Auth Required | Non-PAR |
-| UCare Medicare HMO CFS is OUT OF NETWORK. PATIENT HAS OON BENEFITS. PLEASE INFORM PATIENT OF POSSIBLE HIGHER OUT OF POCKET COSTS. | UCare Medicare HMO | No Ref/No Auth Required | Non-PAR |
+| Tricare Prime CFS is OUT OF NETWORK. PATIENT HAS OON BENEFITS. PLEASE INFORM PATIENT OF POSSIBLE HIGHER OUT OF POCKET COSTS (see note). covered for a Routine Eye Exam every two years | Tricare Prime HMO-REFERRAL REQ | Referral Required | Non-PAR -OON Benefits |
+| Tricare Select CFS is OUT OF NETWORK. PATIENT HAS OON BENEFITS. PLEASE INFORM PATIENT OF POSSIBLE HIGHER OUT OF POCKET COSTS. Routine Eye Exams are NON-covered | Tricare Select | No Ref/No Auth Required | Non-PAR -OON Benefits |
+| UCare Medicare HMO CFS is OUT OF NETWORK. PATIENT HAS OON BENEFITS. PLEASE INFORM PATIENT OF POSSIBLE HIGHER OUT OF POCKET COSTS. | UCare Medicare HMO | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | UMR (UHC Choice Plus Network, Core, Freedom, NEXAUSACO OAP, Options PPO, Select Plus POS) | UHC UMR-39026 | No Ref/No Auth Required | Non-PAR |
 | United Healthcare Care Advantage FL-E001 (PPO I-SNP) | Self Pay Non-Par with Ins |  | Non-PAR |
 | United Healthcare Charter EPO/POS | UHC PPO/POS-87726 | No Ref/No Auth Required | Non-PAR |
@@ -217,7 +219,7 @@
 | VSP Vision | Self Pay Non-Par with Ins |  | Non-PAR |
 | Web TPA | Web TPA | No Ref/No Auth Required | Non-PAR |
 | Wellcare Medicare HMO | Self Pay Non-Par with Ins |  | Non-PAR |
-| Wellcare Medicare PPO CFS is OUT OF NETWORK. PATIENT HAS OON BENEFITS. PLEASE INFORM PATIENT OF POSSIBLE HIGHER OUT OF POCKET COSTS | WellCare Medicare PPO | No Ref/No Auth Required | Non-PAR |
+| Wellcare Medicare PPO CFS is OUT OF NETWORK. PATIENT HAS OON BENEFITS. PLEASE INFORM PATIENT OF POSSIBLE HIGHER OUT OF POCKET COSTS | WellCare Medicare PPO | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Workers' Comp | Self Pay Non-Par with Ins |  | Non-PAR |
 
 </details>

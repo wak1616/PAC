@@ -17,8 +17,7 @@
 | Elizabeth Davis, MD | UHC HCA Healthcare-87726 | No Ref/No Auth Required | PAR |
 | Erin Hardie, OD | UHC HCA Healthcare-87726 | No Ref/No Auth Required | PAR |
 | George Hurwitz, OD | UHC HCA Healthcare-87726 | No Ref/No Auth Required | PAR |
-| Giselle Vega, OD | UHC HCA Healthcare-87726 | No Ref/No Auth Required | PAR |
-| Gisselle Vrga Carraso | UHC HCA Healthcare-87726 | No Ref/No Auth Required | Non-PAR |
+| Gisselle Vega Carraso | UHC HCA Healthcare-87726 | No Ref/No Auth Required | Non-PAR |
 | James Lenhart, OD | UHC HCA Healthcare-87726 | No Ref/No Auth Required | PAR |
 | Joaquin De Rojas, MD | UHC HCA Healthcare-87726 | No Ref/No Auth Required | PAR |
 | John Fezza, MD (Oculoplastics) | UHC HCA Healthcare-87726 | No Ref/No Auth Required | PAR |

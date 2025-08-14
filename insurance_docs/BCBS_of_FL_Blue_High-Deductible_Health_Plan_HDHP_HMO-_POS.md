@@ -17,8 +17,7 @@
 | Elizabeth Davis, MD | BCBS FL Commercial HMO-POS |  | PAR |
 | Erin Hardie, OD | BCBS FL Commercial HMO-POS |  | PAR |
 | George Hurwitz, OD | BCBS FL Commercial HMO-POS |  | PAR |
-| Giselle Vega, OD | BCBS FL Commercial HMO-POS |  | Non-PAR |
-| Gisselle Vrga Carraso | BCBS FL Commercial HMO-POS |  | Non-PAR |
+| Gisselle Vega Carraso | BCBS FL Commercial HMO-POS |  | Non-PAR |
 | James Lenhart, OD | BCBS FL Commercial HMO-POS |  | PAR |
 | Joaquin De Rojas, MD | BCBS FL Commercial HMO-POS |  | PAR |
 | John Fezza, MD (Oculoplastics) | BCBS FL Commercial HMO-POS |  | PAR |

@@ -17,8 +17,7 @@
 | Elizabeth Davis, MD | Superior Vision | Authorization Required | Non-PAR |
 | Erin Hardie, OD | Superior Vision | Authorization Required | PAR |
 | George Hurwitz, OD | Superior Vision | Authorization Required | Non-PAR |
-| Giselle Vega, OD | Superior Vision | Authorization Required | Non-PAR |
-| Gisselle Vrga Carraso | Superior Vision | Authorization Required | Non-PAR |
+| Gisselle Vega Carraso | Superior Vision | Authorization Required | Non-PAR |
 | James Lenhart, OD | Superior Vision | Authorization Required | PAR |
 | Joaquin De Rojas, MD | Superior Vision | Authorization Required | Non-PAR |
 | John Fezza, MD (Oculoplastics) | Superior Vision | Authorization Required | PAR |

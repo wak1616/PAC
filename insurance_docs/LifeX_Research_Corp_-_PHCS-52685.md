@@ -9,6 +9,7 @@
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
 | Bradley Middaugh, OD | LifeX Research Corp - PHCS |  | PAR |
+| Brittany Coyle, OD | LifeX Research Corp - PHCS |  | PAR |
 | Charles Putrino, OD | LifeX Research Corp - PHCS |  | PAR |
 | Daniel Hadland, OD | LifeX Research Corp - PHCS |  | PAR |
 | David Mertzlufft, OD | LifeX Research Corp - PHCS |  | PAR |
@@ -16,7 +17,7 @@
 | Elizabeth Davis, MD | LifeX Research Corp - PHCS |  | PAR |
 | Erin Hardie, OD | LifeX Research Corp - PHCS |  | PAR |
 | George Hurwitz, OD | LifeX Research Corp - PHCS |  | PAR |
-| Giselle Vega, OD | LifeX Research Corp - PHCS |  | PAR |
+| Gisselle Vega Carraso | LifeX Research Corp - PHCS |  | PAR |
 | James Lenhart, OD | LifeX Research Corp - PHCS |  | PAR |
 | Joaquin De Rojas, MD | LifeX Research Corp - PHCS |  | PAR |
 | John Fezza, MD (Oculoplastics) | LifeX Research Corp - PHCS |  | PAR |
@@ -26,6 +27,7 @@
 | Kalie Kosek, PA | LifeX Research Corp - PHCS |  | PAR |
 | Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | LifeX Research Corp - PHCS |  | Non-PAR |
 | Kyle Schaub, OD | LifeX Research Corp - PHCS |  | PAR |
+| Len Brown, OD | LifeX Research Corp - PHCS |  | PAR |
 | Logan Page, OD | LifeX Research Corp - PHCS |  | PAR |
 | Lori Long, OD | LifeX Research Corp - PHCS |  | PAR |
 | Lori Vollmer, OD | LifeX Research Corp - PHCS |  | PAR |
@@ -37,9 +39,19 @@
 | Priya Mathews, MD | LifeX Research Corp - PHCS |  | PAR |
 | Rachael Randolph, OD | LifeX Research Corp - PHCS |  | PAR |
 | Scott Stevens, OD | LifeX Research Corp - PHCS |  | PAR |
+| Shannon Bednarz, PA | LifeX Research Corp - PHCS |  | PAR |
+| Tanuj Banker, MD (RETINA) | LifeX Research Corp - PHCS |  | PAR |
 | Todd Lang, OD | LifeX Research Corp - PHCS |  | PAR |
 | Trisha Werner, OD | LifeX Research Corp - PHCS |  | PAR |
 | William Soscia, MD | LifeX Research Corp - PHCS |  | PAR |
+
+## Center for Sight-Naples
+
+| Provider | NextGen Name | Referral/Auth | Status |
+|----------|-------------|--------------|--------|
+| George Brinnig-Jastrzebski, MD | LifeX Research Corp - PHCS | No Ref/No Auth Required | PAR |
+| Jenna Getman, OD - Start Date 9/29/2025 | LifeX Research Corp - PHCS | No Ref/No Auth Required | PAR |
+| Julie Carter, MD | LifeX Research Corp - PHCS | No Ref/No Auth Required | PAR |
 
 </details>
 

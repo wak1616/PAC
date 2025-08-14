@@ -17,8 +17,7 @@
 | Elizabeth Davis, MD | Independent Health - UHC | No Ref/No Auth Required | PAR |
 | Erin Hardie, OD | Independent Health - UHC | No Ref/No Auth Required | PAR |
 | George Hurwitz, OD | Independent Health - UHC | No Ref/No Auth Required | PAR |
-| Giselle Vega, OD | Independent Health - UHC | No Ref/No Auth Required | PAR |
-| Gisselle Vrga Carraso | Independent Health - UHC | No Ref/No Auth Required | Non-PAR |
+| Gisselle Vega Carraso | Independent Health - UHC | No Ref/No Auth Required | Non-PAR |
 | James Lenhart, OD | Independent Health - UHC | No Ref/No Auth Required | PAR |
 | Joaquin De Rojas, MD | Independent Health - UHC | No Ref/No Auth Required | PAR |
 | John Fezza, MD (Oculoplastics) | Independent Health - UHC | No Ref/No Auth Required | PAR |
@@ -45,6 +44,14 @@
 | Todd Lang, OD | Independent Health - UHC | No Ref/No Auth Required | PAR |
 | Trisha Werner, OD | Independent Health - UHC | No Ref/No Auth Required | PAR |
 | William Soscia, MD | Independent Health - UHC | No Ref/No Auth Required | PAR |
+
+## Center for Sight-Naples
+
+| Provider | NextGen Name | Referral/Auth | Status |
+|----------|-------------|--------------|--------|
+| George Brinnig-Jastrzebski, MD | Independent Health - UHC | No Ref/No Auth Required | PAR |
+| Jenna Getman, OD - Start Date 9/29/2025 | Independent Health - UHC | No Ref/No Auth Required | PAR |
+| Julie Carter, MD | Independent Health - UHC | No Ref/No Auth Required | PAR |
 
 </details>
 

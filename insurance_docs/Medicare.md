@@ -17,8 +17,7 @@
 | Elizabeth Davis, MD | Medicare Part B | No Ref/No Auth Required | PAR |
 | Erin Hardie, OD | Medicare Part B | No Ref/No Auth Required | PAR |
 | George Hurwitz, OD | Medicare Part B | No Ref/No Auth Required | PAR |
-| Giselle Vega, OD | Medicare Part B | No Ref/No Auth Required | PAR |
-| Gisselle Vrga Carraso | Medicare Part B | No Ref/No Auth Required | OK to Schedule-HOLD Claims until PAR |
+| Gisselle Vega Carraso | Medicare Part B | No Ref/No Auth Required | PAR |
 | James Lenhart, OD | Medicare Part B | No Ref/No Auth Required | PAR |
 | Joaquin De Rojas, MD | Medicare Part B | No Ref/No Auth Required | PAR |
 | John Fezza, MD (Oculoplastics) | Medicare Part B | No Ref/No Auth Required | PAR |
@@ -26,7 +25,7 @@
 | Joshua Kim, MD | Medicare Part B | No Ref/No Auth Required | PAR |
 | Joshua Newman, MD | Medicare Part B | No Ref/No Auth Required | PAR |
 | Kalie Kosek, PA | Medicare Part B | No Ref/No Auth Required | PAR |
-| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | Medicare Part B | No Ref/No Auth Required | OK to Schedule-HOLD Claims until PAR |
+| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | Medicare Part B | No Ref/No Auth Required | PAR |
 | Kyle Schaub, OD | Medicare Part B | No Ref/No Auth Required | PAR |
 | Len Brown, OD | Medicare Part B | No Ref/No Auth Required | PAR |
 | Logan Page, OD | Medicare Part B | No Ref/No Auth Required | PAR |
@@ -51,7 +50,7 @@
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
 | George Brinnig-Jastrzebski, MD | Medicare Part B | No Ref/No Auth Required | PAR |
-| Jenna Getman, OD - Start Date 9/29/2025 | Medicare Part B | No Ref/No Auth Required | OK to Schedule-HOLD Claims until PAR |
+| Jenna Getman, OD - Start Date 9/29/2025 | Medicare Part B | No Ref/No Auth Required | PAR |
 | Jon Berlie, MD | Medicare Part B | No Ref/No Auth Required | PAR |
 | Julie Carter, MD | Medicare Part B | No Ref/No Auth Required | PAR |
 

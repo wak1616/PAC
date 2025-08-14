@@ -17,8 +17,7 @@
 | Elizabeth Davis, MD | Priority Health Medicare HMO - Multiplan | No Ref/No Auth Required | PAR |
 | Erin Hardie, OD | Priority Health Medicare HMO - Multiplan | No Ref/No Auth Required | PAR |
 | George Hurwitz, OD | Priority Health Medicare HMO - Multiplan | No Ref/No Auth Required | PAR |
-| Giselle Vega, OD | Priority Health Medicare HMO - Multiplan | No Ref/No Auth Required | PAR |
-| Gisselle Vrga Carraso | Priority Health Medicare HMO - Multiplan | No Ref/No Auth Required | Non-PAR |
+| Gisselle Vega Carraso | Priority Health Medicare HMO - Multiplan | No Ref/No Auth Required | PAR |
 | James Lenhart, OD | Priority Health Medicare HMO - Multiplan | No Ref/No Auth Required | PAR |
 | Joaquin De Rojas, MD | Priority Health Medicare HMO - Multiplan | No Ref/No Auth Required | PAR |
 | John Fezza, MD (Oculoplastics) | Priority Health Medicare HMO - Multiplan | No Ref/No Auth Required | PAR |

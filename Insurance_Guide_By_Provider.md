@@ -1,6 +1,6 @@
 # Insurance Guide By Provider
 
-*Last Updated: 08/13/2025 (based on data from Excel file: [US Eye Insurance Guide.xlsx](https://useyecorp.sharepoint.com/:x:/r/RCM/Shared%20Documents/Insurance%20Guides/US%20Eye%20Insurance%20Guide.xlsx?d=w2a2138d41fa04bfa919fc4966998346a&csf=1&web=1&e=73a3Gf&nav=MTVfezIwMjg5MTIyLTdDRkEtNEE0OS1CODBGLTdFNTc3Njc3OTJDNX0))*
+*Last Updated: 08/14/2025 (based on data from Excel file: [US Eye Insurance Guide.xlsx](https://useyecorp.sharepoint.com/:x:/r/RCM/Shared%20Documents/Insurance%20Guides/US%20Eye%20Insurance%20Guide.xlsx?d=w2a2138d41fa04bfa919fc4966998346a&csf=1&web=1&e=73a3Gf&nav=MTVfezIwMjg5MTIyLTdDRkEtNEE0OS1CODBGLTdFNTc3Njc3OTJDNX0))*
 
 *This guide lists insurance participation by doctor. Click a doctor's name to view all insurance info for that doctor, grouped by location/CSV.*
 
@@ -20,8 +20,7 @@
 * [Erin Hardie, OD (Center for Sight)](insurance_docs/Erin_Hardie_OD.md)
 * [George Brinnig-Jastrzebski, MD (Center for Sight-Naples)](insurance_docs/George_Brinnig-Jastrzebski_MD.md)
 * [George Hurwitz, OD (Center for Sight)](insurance_docs/George_Hurwitz_OD.md)
-* [Giselle Vega, OD (Center for Sight)](insurance_docs/Giselle_Vega_OD.md)
-* [Gisselle Vrga Carraso (Center for Sight)](insurance_docs/Gisselle_Vrga_Carraso.md)
+* [Gisselle Vega Carraso (Center for Sight)](insurance_docs/Gisselle_Vega_Carraso.md)
 * [James Lenhart, OD (Center for Sight)](insurance_docs/James_Lenhart_OD.md)
 * [Jenna Getman, OD - Start Date 9/29/2025 (Center for Sight-Naples)](insurance_docs/Jenna_Getman_OD_-_Start_Date_9_29_2025.md)
 * [Joaquin De Rojas, MD (Center for Sight)](insurance_docs/Joaquin_De_Rojas_MD.md)

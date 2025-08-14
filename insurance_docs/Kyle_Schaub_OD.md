@@ -139,6 +139,7 @@
 | Humana Medicare- HMO ALL PLANS | Self Pay Non-Par with Ins |  | Non-PAR |
 | Independent Health (UHC) | Independent Health - UHC | No Ref/No Auth Required | PAR |
 | LifeX Research Corp - PHCS-52685 | LifeX Research Corp - PHCS |  | PAR |
+| Lumimare Comm PPO (Aetna Network) | Lumimare Comm PPO - Aetna | No Ref/No Auth Required | PAR |
 | Lutheran Preferred (PHP Network) | Lutheran Preferred - PHP | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Mailhandlers (Aetna Choice® POS II Network) | Mail Handlers Benefit Plan Comm - Aetna | No Ref/No Auth Required | PAR |
 | March Vision | Self Pay Non-Par with Ins |  | Non-PAR |

@@ -17,8 +17,7 @@
 | Elizabeth Davis, MD | UHC UMR-39026 | No Ref/No Auth Required | PAR |
 | Erin Hardie, OD | UHC UMR-39026 | No Ref/No Auth Required | PAR |
 | George Hurwitz, OD | UHC UMR-39026 | No Ref/No Auth Required | PAR |
-| Giselle Vega, OD | UHC UMR-39026 | No Ref/No Auth Required | PAR |
-| Gisselle Vrga Carraso | UHC UMR-39026 | No Ref/No Auth Required | Non-PAR |
+| Gisselle Vega Carraso | UHC UMR-39026 | No Ref/No Auth Required | Non-PAR |
 | James Lenhart, OD | UHC UMR-39026 | No Ref/No Auth Required | PAR |
 | Joaquin De Rojas, MD | UHC UMR-39026 | No Ref/No Auth Required | PAR |
 | John Fezza, MD (Oculoplastics) | UHC UMR-39026 | No Ref/No Auth Required | PAR |

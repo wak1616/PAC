@@ -17,8 +17,7 @@
 | Elizabeth Davis, MD | UCare Medicare HMO | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Erin Hardie, OD | UCare Medicare HMO | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | George Hurwitz, OD | UCare Medicare HMO | No Ref/No Auth Required | Non-PAR -OON Benefits |
-| Giselle Vega, OD | UCare Medicare HMO | No Ref/No Auth Required | Non-PAR -OON Benefits |
-| Gisselle Vrga Carraso | UCare Medicare HMO | No Ref/No Auth Required | Non-PAR -OON Benefits |
+| Gisselle Vega Carraso | UCare Medicare HMO | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | James Lenhart, OD | UCare Medicare HMO | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Joaquin De Rojas, MD | UCare Medicare HMO | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | John Fezza, MD (Oculoplastics) | UCare Medicare HMO | No Ref/No Auth Required | Non-PAR -OON Benefits |
@@ -51,7 +50,7 @@
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
 | George Brinnig-Jastrzebski, MD | UCare Medicare HMO | No Ref/No Auth Required | Non-PAR -OON Benefits |
-| Jenna Getman, OD - Start Date 9/29/2025 | UCare Medicare HMO | No Ref/No Auth Required | Non-PAR |
+| Jenna Getman, OD - Start Date 9/29/2025 | UCare Medicare HMO | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Jon Berlie, MD | UCare Medicare HMO | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Julie Carter, MD | UCare Medicare HMO | No Ref/No Auth Required | Non-PAR -OON Benefits |
 

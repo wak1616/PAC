@@ -17,8 +17,7 @@
 | Elizabeth Davis, MD | UHC AARP Medicare Advantage HMO-WELM2 | No Ref/No Auth Required | PAR |
 | Erin Hardie, OD | UHC AARP Medicare Advantage HMO-WELM2 | No Ref/No Auth Required | PAR |
 | George Hurwitz, OD | UHC AARP Medicare Advantage HMO-WELM2 | No Ref/No Auth Required | PAR |
-| Giselle Vega, OD | UHC AARP Medicare Advantage HMO-WELM2 | No Ref/No Auth Required | Non-PAR |
-| Gisselle Vrga Carraso | UHC AARP Medicare Advantage HMO-WELM2 | No Ref/No Auth Required | Non-PAR |
+| Gisselle Vega Carraso | UHC AARP Medicare Advantage HMO-WELM2 | No Ref/No Auth Required | Non-PAR |
 | James Lenhart, OD | UHC AARP Medicare Advantage HMO-WELM2 | No Ref/No Auth Required | PAR |
 | Joaquin De Rojas, MD | UHC AARP Medicare Advantage HMO-WELM2 | No Ref/No Auth Required | PAR |
 | John Fezza, MD (Oculoplastics) | UHC AARP Medicare Advantage HMO-WELM2 | No Ref/No Auth Required | PAR |

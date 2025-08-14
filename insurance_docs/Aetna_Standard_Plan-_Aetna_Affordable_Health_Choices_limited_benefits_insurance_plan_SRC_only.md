@@ -17,8 +17,7 @@
 | Elizabeth Davis, MD | Aetna Comm Fixed Benefits PPO | No Ref/No Auth Required | PAR |
 | Erin Hardie, OD | Aetna Comm Fixed Benefits PPO | No Ref/No Auth Required | PAR |
 | George Hurwitz, OD | Aetna Comm Fixed Benefits PPO | No Ref/No Auth Required | PAR |
-| Giselle Vega, OD | Aetna Comm Fixed Benefits PPO | No Ref/No Auth Required | PAR |
-| Gisselle Vrga Carraso | Aetna Comm Fixed Benefits PPO | No Ref/No Auth Required | Non-PAR |
+| Gisselle Vega Carraso | Aetna Comm Fixed Benefits PPO | No Ref/No Auth Required | Non-PAR |
 | James Lenhart, OD | Aetna Comm Fixed Benefits PPO | No Ref/No Auth Required | PAR |
 | Joaquin De Rojas, MD | Aetna Comm Fixed Benefits PPO | No Ref/No Auth Required | PAR |
 | John Fezza, MD (Oculoplastics) | Aetna Comm Fixed Benefits PPO | No Ref/No Auth Required | PAR |

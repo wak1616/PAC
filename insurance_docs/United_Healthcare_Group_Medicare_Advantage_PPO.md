@@ -17,8 +17,7 @@
 | Elizabeth Davis, MD | UHC Medicare Advantage PPO-87726 | No Ref/No Auth Required | PAR |
 | Erin Hardie, OD | UHC Medicare Advantage PPO-87726 | No Ref/No Auth Required | PAR |
 | George Hurwitz, OD | UHC Medicare Advantage PPO-87726 | No Ref/No Auth Required | PAR |
-| Giselle Vega, OD | UHC Medicare Advantage PPO-87726 | No Ref/No Auth Required | PAR |
-| Gisselle Vrga Carraso | UHC Medicare Advantage PPO-87726 | No Ref/No Auth Required | Non-PAR |
+| Gisselle Vega Carraso | UHC Medicare Advantage PPO-87726 | No Ref/No Auth Required | Non-PAR |
 | James Lenhart, OD | UHC Medicare Advantage PPO-87726 | No Ref/No Auth Required | PAR |
 | Joaquin De Rojas, MD | UHC Medicare Advantage PPO-87726 | No Ref/No Auth Required | PAR |
 | John Fezza, MD (Oculoplastics) | UHC Medicare Advantage PPO-87726 | No Ref/No Auth Required | PAR |

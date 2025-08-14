@@ -17,8 +17,7 @@
 | Elizabeth Davis, MD | CHCBP Claims | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Erin Hardie, OD | CHCBP Claims | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | George Hurwitz, OD | CHCBP Claims | No Ref/No Auth Required | Non-PAR -OON Benefits |
-| Giselle Vega, OD | CHCBP Claims | No Ref/No Auth Required | Non-PAR -OON Benefits |
-| Gisselle Vrga Carraso | CHCBP Claims | No Ref/No Auth Required | Non-PAR -OON Benefits |
+| Gisselle Vega Carraso | CHCBP Claims | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | James Lenhart, OD | CHCBP Claims | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Joaquin De Rojas, MD | CHCBP Claims | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | John Fezza, MD (Oculoplastics) | CHCBP Claims | No Ref/No Auth Required | Non-PAR -OON Benefits |

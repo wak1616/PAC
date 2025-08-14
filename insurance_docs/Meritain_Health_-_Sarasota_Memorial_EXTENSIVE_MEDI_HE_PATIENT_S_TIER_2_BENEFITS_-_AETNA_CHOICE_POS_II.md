@@ -17,8 +17,7 @@
 | Elizabeth Davis, MD | Meritain Health SMH Extd  Pln | Authorization MAY be Required | PAR |
 | Erin Hardie, OD | Meritain Health SMH Extd  Pln | Authorization MAY be Required | PAR |
 | George Hurwitz, OD | Meritain Health SMH Extd  Pln | Authorization MAY be Required | PAR |
-| Giselle Vega, OD | Meritain Health SMH Extd  Pln | Authorization MAY be Required | PAR |
-| Gisselle Vrga Carraso | Meritain Health SMH Extd  Pln | Authorization MAY be Required | Non-PAR |
+| Gisselle Vega Carraso | Meritain Health SMH Extd  Pln | Authorization MAY be Required | Non-PAR |
 | James Lenhart, OD | Meritain Health SMH Extd  Pln | Authorization MAY be Required | PAR |
 | Joaquin De Rojas, MD | Meritain Health SMH Extd  Pln | Authorization MAY be Required | PAR |
 | John Fezza, MD (Oculoplastics) | Meritain Health SMH Extd  Pln | Authorization MAY be Required | PAR |

@@ -17,8 +17,7 @@
 | Elizabeth Davis, MD | Allegiance Benefit Plan Management-Cigna | No Ref/No Auth Required | PAR |
 | Erin Hardie, OD | Allegiance Benefit Plan Management-Cigna | No Ref/No Auth Required | PAR |
 | George Hurwitz, OD | Allegiance Benefit Plan Management-Cigna | No Ref/No Auth Required | PAR |
-| Giselle Vega, OD | Allegiance Benefit Plan Management-Cigna | No Ref/No Auth Required | Non-PAR |
-| Gisselle Vrga Carraso | Allegiance Benefit Plan Management-Cigna | No Ref/No Auth Required | Non-PAR |
+| Gisselle Vega Carraso | Allegiance Benefit Plan Management-Cigna | No Ref/No Auth Required | Non-PAR |
 | James Lenhart, OD | Allegiance Benefit Plan Management-Cigna | No Ref/No Auth Required | PAR |
 | Joaquin De Rojas, MD | Allegiance Benefit Plan Management-Cigna | No Ref/No Auth Required | PAR |
 | John Fezza, MD (Oculoplastics) | Allegiance Benefit Plan Management-Cigna | No Ref/No Auth Required | PAR |

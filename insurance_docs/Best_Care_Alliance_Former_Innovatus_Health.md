@@ -17,8 +17,7 @@
 | Elizabeth Davis, MD | PENDING | No Ref/No Auth Required | Non-PAR |
 | Erin Hardie, OD | PENDING | No Ref/No Auth Required | Non-PAR |
 | George Hurwitz, OD | PENDING | No Ref/No Auth Required | Non-PAR |
-| Giselle Vega, OD | PENDING | No Ref/No Auth Required | Non-PAR |
-| Gisselle Vrga Carraso | PENDING | No Ref/No Auth Required | Non-PAR |
+| Gisselle Vega Carraso | PENDING | No Ref/No Auth Required | Non-PAR |
 | James Lenhart, OD | PENDING | No Ref/No Auth Required | Non-PAR |
 | Joaquin De Rojas, MD | PENDING | No Ref/No Auth Required | Non-PAR |
 | John Fezza, MD (Oculoplastics) | PENDING | No Ref/No Auth Required | Non-PAR |

@@ -17,8 +17,7 @@
 | Elizabeth Davis, MD | Vision Service Plan | Authorization Required | Non-PAR |
 | Erin Hardie, OD | Vision Service Plan | Authorization Required | PAR |
 | George Hurwitz, OD | Vision Service Plan | Authorization Required | PAR |
-| Giselle Vega, OD | Vision Service Plan | Authorization Required | Non-PAR |
-| Gisselle Vrga Carraso | Vision Service Plan | Authorization Required | Non-PAR |
+| Gisselle Vega Carraso | Vision Service Plan | Authorization Required | Non-PAR |
 | James Lenhart, OD | Vision Service Plan | Authorization Required | PAR |
 | Joaquin De Rojas, MD | Vision Service Plan | Authorization Required | Non-PAR |
 | John Fezza, MD (Oculoplastics) | Vision Service Plan | Authorization Required | Non-PAR |

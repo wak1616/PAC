@@ -17,8 +17,7 @@
 | Elizabeth Davis, MD | Aetna Medicare PPO | No Ref/No Auth Required | PAR |
 | Erin Hardie, OD | Aetna Medicare PPO | No Ref/No Auth Required | PAR |
 | George Hurwitz, OD | Aetna Medicare PPO | No Ref/No Auth Required | PAR |
-| Giselle Vega, OD | Aetna Medicare PPO | No Ref/No Auth Required | PAR |
-| Gisselle Vrga Carraso | Aetna Medicare PPO | No Ref/No Auth Required | Non-PAR |
+| Gisselle Vega Carraso | Aetna Medicare PPO | No Ref/No Auth Required | Non-PAR |
 | James Lenhart, OD | Aetna Medicare PPO | No Ref/No Auth Required | PAR |
 | Joaquin De Rojas, MD | Aetna Medicare PPO | No Ref/No Auth Required | PAR |
 | John Fezza, MD (Oculoplastics) | Aetna Medicare PPO | No Ref/No Auth Required | PAR |

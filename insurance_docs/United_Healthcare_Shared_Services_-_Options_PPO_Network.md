@@ -17,8 +17,7 @@
 | Elizabeth Davis, MD | UHC Shared Services PPO-39026 | No Ref/No Auth Required | PAR |
 | Erin Hardie, OD | UHC Shared Services PPO-39026 | No Ref/No Auth Required | PAR |
 | George Hurwitz, OD | UHC Shared Services PPO-39026 | No Ref/No Auth Required | PAR |
-| Giselle Vega, OD | UHC Shared Services PPO-39026 | No Ref/No Auth Required | PAR |
-| Gisselle Vrga Carraso | UHC Shared Services PPO-39026 | No Ref/No Auth Required | Non-PAR |
+| Gisselle Vega Carraso | UHC Shared Services PPO-39026 | No Ref/No Auth Required | Non-PAR |
 | James Lenhart, OD | UHC Shared Services PPO-39026 | No Ref/No Auth Required | PAR |
 | Joaquin De Rojas, MD | UHC Shared Services PPO-39026 | No Ref/No Auth Required | PAR |
 | John Fezza, MD (Oculoplastics) | UHC Shared Services PPO-39026 | No Ref/No Auth Required | PAR |

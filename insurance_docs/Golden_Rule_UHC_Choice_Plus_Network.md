@@ -17,8 +17,7 @@
 | Elizabeth Davis, MD | UHC Golden Rule-37602 | No Ref/No Auth Required | PAR |
 | Erin Hardie, OD | UHC Golden Rule-37602 | No Ref/No Auth Required | PAR |
 | George Hurwitz, OD | UHC Golden Rule-37602 | No Ref/No Auth Required | PAR |
-| Giselle Vega, OD | UHC Golden Rule-37602 | No Ref/No Auth Required | Non-PAR |
-| Gisselle Vrga Carraso | UHC Golden Rule-37602 | No Ref/No Auth Required | Non-PAR |
+| Gisselle Vega Carraso | UHC Golden Rule-37602 | No Ref/No Auth Required | Non-PAR |
 | James Lenhart, OD | UHC Golden Rule-37602 | No Ref/No Auth Required | PAR |
 | Joaquin De Rojas, MD | UHC Golden Rule-37602 | No Ref/No Auth Required | PAR |
 | John Fezza, MD (Oculoplastics) | UHC Golden Rule-37602 | No Ref/No Auth Required | PAR |

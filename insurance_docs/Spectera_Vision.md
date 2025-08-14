@@ -17,8 +17,7 @@
 | Elizabeth Davis, MD | Spectera Vision | No Ref/No Auth Required | Non-PAR |
 | Erin Hardie, OD | Spectera Vision | No Ref/No Auth Required | Non-PAR |
 | George Hurwitz, OD | Spectera Vision | No Ref/No Auth Required | Non-PAR |
-| Giselle Vega, OD | Spectera Vision | No Ref/No Auth Required | Non-PAR |
-| Gisselle Vrga Carraso | Spectera Vision | No Ref/No Auth Required | Non-PAR |
+| Gisselle Vega Carraso | Spectera Vision | No Ref/No Auth Required | Non-PAR |
 | James Lenhart, OD | Spectera Vision | No Ref/No Auth Required | Non-PAR |
 | Joaquin De Rojas, MD | Spectera Vision | No Ref/No Auth Required | Non-PAR |
 | John Fezza, MD (Oculoplastics) | Spectera Vision | No Ref/No Auth Required | Non-PAR |

@@ -17,8 +17,7 @@
 | Elizabeth Davis, MD | Cigna Medicare PPO |  | Non-PAR |
 | Erin Hardie, OD | Cigna Medicare PPO |  | PAR |
 | George Hurwitz, OD | Cigna Medicare PPO |  | PAR |
-| Giselle Vega, OD | Cigna Medicare PPO |  | Non-PAR |
-| Gisselle Vrga Carraso | Cigna Medicare PPO |  | Non-PAR |
+| Gisselle Vega Carraso | Cigna Medicare PPO |  | Non-PAR |
 | James Lenhart, OD | Cigna Medicare PPO |  | PAR |
 | Joaquin De Rojas, MD | Cigna Medicare PPO |  | PAR |
 | John Fezza, MD (Oculoplastics) | Cigna Medicare PPO |  | PAR |

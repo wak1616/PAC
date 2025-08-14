@@ -17,8 +17,7 @@
 | Elizabeth Davis, MD | UHC Global  USN01 | No Ref/No Auth Required | PAR |
 | Erin Hardie, OD | UHC Global  USN01 | No Ref/No Auth Required | PAR |
 | George Hurwitz, OD | UHC Global  USN01 | No Ref/No Auth Required | PAR |
-| Giselle Vega, OD | UHC Global  USN01 | No Ref/No Auth Required | PAR |
-| Gisselle Vrga Carraso | UHC Global  USN01 | No Ref/No Auth Required | PAR |
+| Gisselle Vega Carraso | UHC Global  USN01 | No Ref/No Auth Required | Non-PAR |
 | James Lenhart, OD | UHC Global  USN01 | No Ref/No Auth Required | PAR |
 | Joaquin De Rojas, MD | UHC Global  USN01 | No Ref/No Auth Required | PAR |
 | John Fezza, MD (Oculoplastics) | UHC Global  USN01 | No Ref/No Auth Required | PAR |

@@ -17,8 +17,7 @@
 | Elizabeth Davis, MD | Tricare Select | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Erin Hardie, OD | Tricare Select | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | George Hurwitz, OD | Tricare Select | No Ref/No Auth Required | Non-PAR -OON Benefits |
-| Giselle Vega, OD | Tricare Select | No Ref/No Auth Required | Non-PAR -OON Benefits |
-| Gisselle Vrga Carraso | Tricare Select | No Ref/No Auth Required | Non-PAR -OON Benefits |
+| Gisselle Vega Carraso | Tricare Select | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | James Lenhart, OD | Tricare Select | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Joaquin De Rojas, MD | Tricare Select | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | John Fezza, MD (Oculoplastics) | Tricare Select | No Ref/No Auth Required | Non-PAR -OON Benefits |
@@ -51,7 +50,7 @@
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
 | George Brinnig-Jastrzebski, MD | Tricare Select | No Ref/No Auth Required | Non-PAR -OON Benefits |
-| Jenna Getman, OD - Start Date 9/29/2025 | Tricare Select | No Ref/No Auth Required | Non-PAR |
+| Jenna Getman, OD - Start Date 9/29/2025 | Tricare Select | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Jon Berlie, MD | Tricare Select | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Julie Carter, MD | Tricare Select | No Ref/No Auth Required | Non-PAR -OON Benefits |
 

@@ -17,8 +17,7 @@
 | Elizabeth Davis, MD | UHC Comm HMO REFERRAL REQ | Referral Required | PAR |
 | Erin Hardie, OD | UHC Comm HMO REFERRAL REQ | Referral Required | PAR |
 | George Hurwitz, OD | UHC Comm HMO REFERRAL REQ | Referral Required | PAR |
-| Giselle Vega, OD | UHC Comm HMO REFERRAL REQ | Referral Required | PAR |
-| Gisselle Vrga Carraso | UHC Comm HMO REFERRAL REQ | Referral Required | Non-PAR |
+| Gisselle Vega Carraso | UHC Comm HMO REFERRAL REQ | Referral Required | Non-PAR |
 | James Lenhart, OD | UHC Comm HMO REFERRAL REQ | Referral Required | PAR |
 | Joaquin De Rojas, MD | UHC Comm HMO REFERRAL REQ | Referral Required | PAR |
 | John Fezza, MD (Oculoplastics) | UHC Comm HMO REFERRAL REQ | Referral Required | PAR |

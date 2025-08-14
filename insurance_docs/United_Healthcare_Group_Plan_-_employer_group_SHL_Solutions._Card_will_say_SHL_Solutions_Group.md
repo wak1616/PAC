@@ -17,8 +17,7 @@
 | Elizabeth Davis, MD | UHC Commercial - SHL Emp Group | No Ref/No Auth Required | PAR |
 | Erin Hardie, OD | UHC Commercial - SHL Emp Group | No Ref/No Auth Required | PAR |
 | George Hurwitz, OD | UHC Commercial - SHL Emp Group | No Ref/No Auth Required | PAR |
-| Giselle Vega, OD | UHC Commercial - SHL Emp Group | No Ref/No Auth Required | PAR |
-| Gisselle Vrga Carraso | UHC Commercial - SHL Emp Group | No Ref/No Auth Required | Non-PAR |
+| Gisselle Vega Carraso | UHC Commercial - SHL Emp Group | No Ref/No Auth Required | Non-PAR |
 | James Lenhart, OD | UHC Commercial - SHL Emp Group | No Ref/No Auth Required | PAR |
 | Joaquin De Rojas, MD | UHC Commercial - SHL Emp Group | No Ref/No Auth Required | PAR |
 | John Fezza, MD (Oculoplastics) | UHC Commercial - SHL Emp Group | No Ref/No Auth Required | PAR |

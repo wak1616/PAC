@@ -17,8 +17,7 @@
 | Elizabeth Davis, MD | Concorde Inc | Authorization Required- ROTC Fom is required for the Clinical Team | Non-PAR |
 | Erin Hardie, OD | Concorde Inc | Authorization Required- ROTC Fom is required for the Clinical Team | Non-PAR |
 | George Hurwitz, OD | Concorde Inc | Authorization Required- ROTC Fom is required for the Clinical Team | Non-PAR |
-| Giselle Vega, OD | Concorde Inc | Authorization Required- ROTC Fom is required for the Clinical Team | Non-PAR |
-| Gisselle Vrga Carraso | Concorde Inc | Authorization Required- ROTC Fom is required for the Clinical Team | Non-PAR |
+| Gisselle Vega Carraso | Concorde Inc | Authorization Required- ROTC Fom is required for the Clinical Team | Non-PAR |
 | James Lenhart, OD | Concorde Inc | Authorization Required- ROTC Fom is required for the Clinical Team | Non-PAR |
 | Joaquin De Rojas, MD | Concorde Inc | Authorization Required- ROTC Fom is required for the Clinical Team | Non-PAR |
 | John Fezza, MD (Oculoplastics) | Concorde Inc | Authorization Required- ROTC Fom is required for the Clinical Team | Non-PAR |

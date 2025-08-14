@@ -17,8 +17,7 @@
 | Elizabeth Davis, MD | UHC Medica-94265 | No Ref/No Auth Required | PAR |
 | Erin Hardie, OD | UHC Medica-94265 | No Ref/No Auth Required | PAR |
 | George Hurwitz, OD | UHC Medica-94265 | No Ref/No Auth Required | PAR |
-| Giselle Vega, OD | UHC Medica-94265 | No Ref/No Auth Required | PAR |
-| Gisselle Vrga Carraso | UHC Medica-94265 | No Ref/No Auth Required | Non-PAR |
+| Gisselle Vega Carraso | UHC Medica-94265 | No Ref/No Auth Required | Non-PAR |
 | James Lenhart, OD | UHC Medica-94265 | No Ref/No Auth Required | PAR |
 | Joaquin De Rojas, MD | UHC Medica-94265 | No Ref/No Auth Required | PAR |
 | John Fezza, MD (Oculoplastics) | UHC Medica-94265 | No Ref/No Auth Required | PAR |
