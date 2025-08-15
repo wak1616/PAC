@@ -1,8 +1,8 @@
-# Humana Medicare Choice Florida SNP-DE (PPO D-SNP)-CFS (except Naples) is OUT OF NETWORK. PATIENT HAS OON BENEFITS. PLEASE INFORM PATIENT OF POSSIBLE HIGHER OUT OF POCKET COSTS - Insurance Guide
+# Humana Medicare Choice Florida SNP-DE (PPO D-SNP)-CFS is OUT OF NETWORK. PATIENT HAS OON BENEFITS. PLEASE INFORM PATIENT OF POSSIBLE HIGHER OUT OF POCKET COSTS - Insurance Guide
 
-*This page lists providers who accept Humana Medicare Choice Florida SNP-DE (PPO D-SNP)-CFS (except Naples) is OUT OF NETWORK. PATIENT HAS OON BENEFITS. PLEASE INFORM PATIENT OF POSSIBLE HIGHER OUT OF POCKET COSTS, grouped by location.*
+*This page lists providers who accept Humana Medicare Choice Florida SNP-DE (PPO D-SNP)-CFS is OUT OF NETWORK. PATIENT HAS OON BENEFITS. PLEASE INFORM PATIENT OF POSSIBLE HIGHER OUT OF POCKET COSTS, grouped by location.*
 
-<details open><summary>Provider Details for Humana Medicare Choice Florida SNP-DE (PPO D-SNP)-CFS (except Naples) is OUT OF NETWORK. PATIENT HAS OON BENEFITS. PLEASE INFORM PATIENT OF POSSIBLE HIGHER OUT OF POCKET COSTS</summary>
+<details open><summary>Provider Details for Humana Medicare Choice Florida SNP-DE (PPO D-SNP)-CFS is OUT OF NETWORK. PATIENT HAS OON BENEFITS. PLEASE INFORM PATIENT OF POSSIBLE HIGHER OUT OF POCKET COSTS</summary>
 
 ## Center for Sight
 

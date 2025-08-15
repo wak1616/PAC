@@ -139,11 +139,11 @@
 | GEHA (United Healthcare Choice Plus Network) PLEASE INCLUDE THE SUFFIX IN THE POLICY # ON THE ID CARD AS GEHA (EX: 1234567GEHA) | UHC GEHA-39026 | No Ref/No Auth Required | Non-PAR |
 | Golden Rule (UHC Choice Plus Network) | UHC Golden Rule-37602 | No Ref/No Auth Required | Non-PAR |
 | Harvard Pilgrim Healthcare (UHC Choice Plus Network) | UHC Harvard Pilgrim-39026 | No Ref/No Auth Required | Non-PAR |
-| Humana Medicare-DUAL Choice Florida SNP-DE (PPO D-SNP) | Primary: Humana Dual Medicare PPO Primary                                                 Secondary: Humana Dual Medicaid Secondary | No Ref/No Auth Required | Non-PAR |
+| Humana Medicare-DUAL Choice Florida SNP-DE (PPO D-SNP) | Primary: Humana Dual Medicare PPO Primary                                                 Secondary: Humana Dual Medicaid Secondary | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Humana Commercial - ALL PLANS - AS OF 01/01/25- PLAN IS NO LONGER OFFERED IN FL MARKETS | Self Pay Non-Par with Ins |  | Non-PAR |
-| Humana Medicare- Choice Florida (PPO)/Choice (Regional PPO)/USAA Honor PPO | Humana Medicare PPO | No Ref/No Auth Required | Non-PAR |
+| Humana Medicare- Choice Florida (PPO)/Choice (Regional PPO)/USAA Honor PPO | Humana Medicare PPO | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Humana Medicare- HMO ALL PLANS | Self Pay Non-Par with Ins |  | Non-PAR |
-| Humana Medicare- Medicare PPO/Employee PPO Plus/Gold Choice Ntek PFFS | Humana Medicare PPO | No Ref/No Auth Required | Non-PAR |
+| Humana Medicare- Medicare PPO/Employee PPO Plus/Gold Choice Ntek PFFS | Humana Medicare PPO | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Independent Health (UHC) | Independent Health - UHC | No Ref/No Auth Required | PAR |
 | LifeX Research Corp - PHCS-52685 | LifeX Research Corp - PHCS | No Ref/No Auth Required | PAR |
 | Lutheran Preferred (PHP Network) | Lutheran Preferred - PHP | No Ref/No Auth Required | Non-PAR -OON Benefits |

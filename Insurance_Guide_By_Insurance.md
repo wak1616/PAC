@@ -1,6 +1,6 @@
 # Insurance Guide By Insurance Plan
 
-*Last Updated: 08/14/2025 (based on data from Excel file: [US Eye Insurance Guide.xlsx](https://useyecorp.sharepoint.com/:x:/r/RCM/Shared%20Documents/Insurance%20Guides/US%20Eye%20Insurance%20Guide.xlsx?d=w2a2138d41fa04bfa919fc4966998346a&csf=1&web=1&e=73a3Gf&nav=MTVfezIwMjg5MTIyLTdDRkEtNEE0OS1CODBGLTdFNTc3Njc3OTJDNX0))*
+*Last Updated: 08/15/2025 (based on data from Excel file: [US Eye Insurance Guide.xlsx](https://useyecorp.sharepoint.com/:x:/r/RCM/Shared%20Documents/Insurance%20Guides/US%20Eye%20Insurance%20Guide.xlsx?d=w2a2138d41fa04bfa919fc4966998346a&csf=1&web=1&e=73a3Gf&nav=MTVfezIwMjg5MTIyLTdDRkEtNEE0OS1CODBGLTdFNTc3Njc3OTJDNX0))*
 
 *This guide lists insurance participation by insurance plan. Click an insurance plan to view all providers who accept that insurance, grouped by location.*
 
@@ -339,7 +339,7 @@
 * [Humana Commercial - ALL PLANS - AS OF 01/01/25- PLAN IS NO LONGER OFFERED IN FL MARKETS](insurance_docs/Humana_Commercial_-_ALL_PLANS_-_AS_OF_01_01_25-_PLAN_IS_NO_LONGER_OFFERED_IN_FL_MARKETS.md)
 * [Humana Medicaid](insurance_docs/Humana_Medicaid.md)
 * [Humana Medicare Choice Florida SNP-DE (PPO D-SNP)](insurance_docs/Humana_Medicare_Choice_Florida_SNP-DE_PPO_D-SNP.md)
-* [Humana Medicare Choice Florida SNP-DE (PPO D-SNP)-CFS (except Naples) is OUT OF NETWORK. PATIENT HAS OON BENEFITS. PLEASE INFORM PATIENT OF POSSIBLE HIGHER OUT OF POCKET COSTS](insurance_docs/Humana_Medicare_Choice_Florida_SNP-DE_PPO_D-SNP_-C_ORM_PATIENT_OF_POSSIBLE_HIGHER_OUT_OF_POCKET_COSTS.md)
+* [Humana Medicare Choice Florida SNP-DE (PPO D-SNP)-CFS is OUT OF NETWORK. PATIENT HAS OON BENEFITS. PLEASE INFORM PATIENT OF POSSIBLE HIGHER OUT OF POCKET COSTS](insurance_docs/Humana_Medicare_Choice_Florida_SNP-DE_PPO_D-SNP_-C_ORM_PATIENT_OF_POSSIBLE_HIGHER_OUT_OF_POCKET_COSTS.md)
 * [Humana Medicare Choice Florida SNP-DE H5216 (PPO D-SNP)](insurance_docs/Humana_Medicare_Choice_Florida_SNP-DE_H5216_PPO_D-SNP.md)
 * [Humana Medicare Fully Integrated (HMO D-SNP)](insurance_docs/Humana_Medicare_Fully_Integrated_HMO_D-SNP.md)
 * [Humana Medicare Gold Choice Ntwk PFFS](insurance_docs/Humana_Medicare_Gold_Choice_Ntwk_PFFS.md)
@@ -352,7 +352,7 @@
 * [Humana Medicare PPO/Employer PPO Plus](insurance_docs/Humana_Medicare_PPO_Employer_PPO_Plus.md)
 * [Humana Medicare- Careplus (HMO)/Gold Plus (HMO)/Community HMO/USAA Honor HMO](insurance_docs/Humana_Medicare-_Careplus_HMO_Gold_Plus_HMO_Community_HMO_USAA_Honor_HMO.md)
 * [Humana Medicare- Choice Florida (PPO)/Choice (Regional PPO)/USAA Honor PPO](insurance_docs/Humana_Medicare-_Choice_Florida_PPO_Choice_Regional_PPO_USAA_Honor_PPO.md)
-* [Humana Medicare- Choice Florida (PPO)/Choice (Regional PPO)/USAA Honor PPO -CFS (except Naples) is OUT OF NETWORK. PATIENT HAS OON BENEFITS. PLEASE INFORM PATIENT OF POSSIBLE HIGHER OUT OF POCKET COSTS](insurance_docs/Humana_Medicare-_Choice_Florida_PPO_Choice_Regiona_ORM_PATIENT_OF_POSSIBLE_HIGHER_OUT_OF_POCKET_COSTS.md)
+* [Humana Medicare- Choice Florida (PPO)/Choice (Regional PPO)/USAA Honor PPO -CFS is OUT OF NETWORK. PATIENT HAS OON BENEFITS. PLEASE INFORM PATIENT OF POSSIBLE HIGHER OUT OF POCKET COSTS](insurance_docs/Humana_Medicare-_Choice_Florida_PPO_Choice_Regiona_ORM_PATIENT_OF_POSSIBLE_HIGHER_OUT_OF_POCKET_COSTS.md)
 * [Humana Medicare- Choice Florida (PPO)/Choice (Regional PPO)/USAA Honor PPO OUT OF NETWORK. PATIENT HAS OON BENEFITS. PLEASE INFORM PATIENT OF POSSIBLE HIGHER OUT OF POCKET COSTS](insurance_docs/Humana_Medicare-_Choice_Florida_PPO_Choice_Regiona_ORM_PATIENT_OF_POSSIBLE_HIGHER_OUT_OF_POCKET_COSTS.md)
 * [Humana Medicare- Choice Florida PPO/ Choice Regional PPO/ USAA Honor PPO LEA is OUT OF NETWORK. PATIENT HAS OON BENEFITS. PLEASE INFORM PATIENT OF POSSIBLE HIGHER OUT OF POCKET COSTS](insurance_docs/Humana_Medicare-_Choice_Florida_PPO_Choice_Regiona_ORM_PATIENT_OF_POSSIBLE_HIGHER_OUT_OF_POCKET_COSTS.md)
 * [Humana Medicare- Choice Florida/Employer Plus/USAA Honor/Gold Choice Network PFFS (PPO) LEA is OUT OF NETWORK. PATIENT HAS OON BENEFITS. PLEASE INFORM PATIENT OF POSSIBLE HIGHER OUT OF POCKET COSTS](insurance_docs/Humana_Medicare-_Choice_Florida_Employer_Plus_USAA_ORM_PATIENT_OF_POSSIBLE_HIGHER_OUT_OF_POCKET_COSTS.md)

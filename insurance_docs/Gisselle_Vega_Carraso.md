@@ -133,9 +133,9 @@
 | Golden Rule (UHC Choice Plus Network) | UHC Golden Rule-37602 | No Ref/No Auth Required | Non-PAR |
 | Harvard Pilgrim Healthcare (UHC Choice Plus Network) | UHC Harvard Pilgrim-39026 | No Ref/No Auth Required | Non-PAR |
 | Health Care Support (ministry plan with PHCS network) | Health Care Support - PHCS | No Ref/No Auth Required | PAR |
-| Humana Medicare Choice Florida SNP-DE (PPO D-SNP)-CFS (except Naples) is OUT OF NETWORK. PATIENT HAS OON BENEFITS. PLEASE INFORM PATIENT OF POSSIBLE HIGHER OUT OF POCKET COSTS | Primary: Humana Dual Medicare PPO Primary                                                 Secondary: Humana Dual Medicaid Secondary | No Ref/No Auth Required | Non-PAR -OON Benefits |
+| Humana Medicare Choice Florida SNP-DE (PPO D-SNP)-CFS is OUT OF NETWORK. PATIENT HAS OON BENEFITS. PLEASE INFORM PATIENT OF POSSIBLE HIGHER OUT OF POCKET COSTS | Primary: Humana Dual Medicare PPO Primary                                                 Secondary: Humana Dual Medicaid Secondary | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Humana Commercial - ALL PLANS - AS OF 01/01/25- PLAN IS NO LONGER OFFERED IN FL MARKETS | Self Pay Non-Par with Ins |  | Non-PAR |
-| Humana Medicare- Choice Florida (PPO)/Choice (Regional PPO)/USAA Honor PPO -CFS (except Naples) is OUT OF NETWORK. PATIENT HAS OON BENEFITS. PLEASE INFORM PATIENT OF POSSIBLE HIGHER OUT OF POCKET COSTS | Humana Medicare PPO | No Ref/No Auth Required | Non-PAR -OON Benefits |
+| Humana Medicare- Choice Florida (PPO)/Choice (Regional PPO)/USAA Honor PPO -CFS is OUT OF NETWORK. PATIENT HAS OON BENEFITS. PLEASE INFORM PATIENT OF POSSIBLE HIGHER OUT OF POCKET COSTS | Humana Medicare PPO | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Humana Medicare- HMO ALL PLANS | Self Pay Non-Par with Ins |  | Non-PAR |
 | Independent Health (UHC) | Independent Health - UHC | No Ref/No Auth Required | Non-PAR |
 | LifeX Research Corp - PHCS-52685 | LifeX Research Corp - PHCS |  | PAR |
