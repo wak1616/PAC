@@ -21,6 +21,7 @@
 | James Lenhart, OD | Division of Blind | Authorization Required | PAR |
 | Joaquin De Rojas, MD | Division of Blind | Authorization Required | PAR |
 | John Fezza, MD (Oculoplastics) | Division of Blind | Authorization Required | PAR |
+| Jordan Shoemaker, PA - Start Date 10/06/2025 | Division of Blind | Authorization Required | Non-PAR |
 | Joseph Sowka, OD | Division of Blind | Authorization Required | PAR |
 | Joshua Kim, MD | Division of Blind | Authorization Required | PAR |
 | Joshua Newman, MD | Division of Blind | Authorization Required | PAR |
@@ -43,7 +44,6 @@
 | Tanuj Banker, MD (RETINA) | Division of Blind | Authorization Required | PAR |
 | Todd Lang, OD | Division of Blind | Authorization Required | PAR |
 | Trisha Werner, OD | Division of Blind | Authorization Required | PAR |
-| William Soscia, MD | Division of Blind | Authorization Required | PAR |
 
 ## Center for Sight-Naples
 

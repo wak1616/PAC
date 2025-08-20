@@ -21,6 +21,7 @@
 | James Lenhart, OD | Allied National Open Access | No Ref/No Auth Required | PAR |
 | Joaquin De Rojas, MD | Allied National Open Access | No Ref/No Auth Required | PAR |
 | John Fezza, MD (Oculoplastics) | Allied National Open Access | No Ref/No Auth Required | PAR |
+| Jordan Shoemaker, PA - Start Date 10/06/2025 | Allied National Open Access | No Ref/No Auth Required | Non-PAR |
 | Joseph Sowka, OD | Allied National Open Access | No Ref/No Auth Required | PAR |
 | Joshua Kim, MD | Allied National Open Access | No Ref/No Auth Required | PAR |
 | Joshua Newman, MD | Allied National Open Access | No Ref/No Auth Required | PAR |
@@ -43,7 +44,6 @@
 | Tanuj Banker, MD (RETINA) | Allied National Open Access | No Ref/No Auth Required | PAR |
 | Todd Lang, OD | Allied National Open Access | No Ref/No Auth Required | PAR |
 | Trisha Werner, OD | Allied National Open Access | No Ref/No Auth Required | PAR |
-| William Soscia, MD | Allied National Open Access | No Ref/No Auth Required | PAR |
 
 ## Center for Sight-Naples
 

@@ -21,6 +21,7 @@
 | James Lenhart, OD | Medicare Part B | No Ref/No Auth Required | PAR |
 | Joaquin De Rojas, MD | Medicare Part B | No Ref/No Auth Required | PAR |
 | John Fezza, MD (Oculoplastics) | Medicare Part B | No Ref/No Auth Required | PAR |
+| Jordan Shoemaker, PA - Start Date 10/06/2025 | Medicare Part B | No Ref/No Auth Required | Non-PAR |
 | Joseph Sowka, OD | Medicare Part B | No Ref/No Auth Required | PAR |
 | Joshua Kim, MD | Medicare Part B | No Ref/No Auth Required | PAR |
 | Joshua Newman, MD | Medicare Part B | No Ref/No Auth Required | PAR |
@@ -43,7 +44,6 @@
 | Tanuj Banker, MD (RETINA) | Medicare Part B | No Ref/No Auth Required | PAR |
 | Todd Lang, OD | Medicare Part B | No Ref/No Auth Required | PAR |
 | Trisha Werner, OD | Medicare Part B | No Ref/No Auth Required | PAR |
-| William Soscia, MD | Medicare Part B | No Ref/No Auth Required | PAR |
 
 ## Center for Sight-Naples
 
@@ -62,7 +62,7 @@
 | Christine Bui, OD | Medicare Part B | No Ref/No Auth Required | PAR |
 | Diba Ossareh, OD | Medicare Part B | No Ref/No Auth Required | PAR |
 | Jose Vazques-Diaz, MD | Medicare Part B | No Ref/No Auth Required | PAR |
-| Karin Girgis, OD - Start Date 8/18/2025 | Medicare Part B | No Ref/No Auth Required | PAR |
+| Karin Girgis, OD | Medicare Part B | No Ref/No Auth Required | PAR |
 | Mari Holderby, OD | Medicare Part B | No Ref/No Auth Required | PAR |
 | Scot Holman, MD | Medicare Part B | No Ref/No Auth Required | PAR |
 | Scott Wehrly, MD | Medicare Part B | No Ref/No Auth Required | PAR |

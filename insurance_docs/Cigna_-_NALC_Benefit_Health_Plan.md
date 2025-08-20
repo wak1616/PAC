@@ -21,6 +21,7 @@
 | James Lenhart, OD | NALC Health Benefit Plan- Cigna | No Ref/No Auth Required | PAR |
 | Joaquin De Rojas, MD | NALC Health Benefit Plan- Cigna | No Ref/No Auth Required | PAR |
 | John Fezza, MD (Oculoplastics) | NALC Health Benefit Plan- Cigna | No Ref/No Auth Required | PAR |
+| Jordan Shoemaker, PA - Start Date 10/06/2025 | NALC Health Benefit Plan- Cigna | No Ref/No Auth Required | Non-PAR |
 | Joseph Sowka, OD | NALC Health Benefit Plan- Cigna | No Ref/No Auth Required | PAR |
 | Joshua Kim, MD | NALC Health Benefit Plan- Cigna | No Ref/No Auth Required | PAR |
 | Joshua Newman, MD | NALC Health Benefit Plan- Cigna | No Ref/No Auth Required | PAR |
@@ -43,7 +44,6 @@
 | Tanuj Banker, MD (RETINA) | NALC Health Benefit Plan- Cigna | No Ref/No Auth Required | PAR |
 | Todd Lang, OD | NALC Health Benefit Plan- Cigna | No Ref/No Auth Required | PAR |
 | Trisha Werner, OD | NALC Health Benefit Plan- Cigna | No Ref/No Auth Required | PAR |
-| William Soscia, MD | NALC Health Benefit Plan- Cigna | No Ref/No Auth Required | PAR |
 
 </details>
 

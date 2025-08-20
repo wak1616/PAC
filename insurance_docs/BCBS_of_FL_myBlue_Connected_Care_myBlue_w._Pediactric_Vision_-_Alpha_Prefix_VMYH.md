@@ -21,6 +21,7 @@
 | James Lenhart, OD | BCBS FL myBlue HMO REFERRAL REQ | Referral Required | PAR |
 | Joaquin De Rojas, MD | BCBS FL myBlue HMO REFERRAL REQ | Referral Required | PAR |
 | John Fezza, MD (Oculoplastics) | BCBS FL myBlue HMO REFERRAL REQ | Referral Required | PAR |
+| Jordan Shoemaker, PA - Start Date 10/06/2025 | BCBS FL myBlue HMO REFERRAL REQ | Referral Required | PAR |
 | Joseph Sowka, OD | BCBS FL myBlue HMO REFERRAL REQ | Referral Required | PAR |
 | Joshua Kim, MD | BCBS FL myBlue HMO REFERRAL REQ | Referral Required | PAR |
 | Joshua Newman, MD | BCBS FL myBlue HMO REFERRAL REQ | Referral Required | PAR |
@@ -43,7 +44,6 @@
 | Tanuj Banker, MD (RETINA) | BCBS FL myBlue HMO REFERRAL REQ | Referral Required | Non-PAR |
 | Todd Lang, OD | BCBS FL myBlue HMO REFERRAL REQ | Referral Required | PAR |
 | Trisha Werner, OD | BCBS FL myBlue HMO REFERRAL REQ | Referral Required | PAR |
-| William Soscia, MD | BCBS FL myBlue HMO REFERRAL REQ | Referral Required | PAR |
 
 </details>
 

@@ -21,6 +21,7 @@
 | James Lenhart, OD | UHC Commercial - SHL Emp Group | No Ref/No Auth Required | PAR |
 | Joaquin De Rojas, MD | UHC Commercial - SHL Emp Group | No Ref/No Auth Required | PAR |
 | John Fezza, MD (Oculoplastics) | UHC Commercial - SHL Emp Group | No Ref/No Auth Required | PAR |
+| Jordan Shoemaker, PA - Start Date 10/06/2025 | UHC Commercial - SHL Emp Group | No Ref/No Auth Required | Non-PAR |
 | Joseph Sowka, OD | UHC Commercial - SHL Emp Group | No Ref/No Auth Required | PAR |
 | Joshua Kim, MD | UHC Commercial - SHL Emp Group | No Ref/No Auth Required | PAR |
 | Joshua Newman, MD | UHC Commercial - SHL Emp Group | No Ref/No Auth Required | PAR |
@@ -43,7 +44,6 @@
 | Tanuj Banker, MD (RETINA) | UHC Commercial - SHL Emp Group | No Ref/No Auth Required | PAR |
 | Todd Lang, OD | UHC Commercial - SHL Emp Group | No Ref/No Auth Required | PAR |
 | Trisha Werner, OD | UHC Commercial - SHL Emp Group | No Ref/No Auth Required | PAR |
-| William Soscia, MD | UHC Commercial - SHL Emp Group | No Ref/No Auth Required | PAR |
 
 </details>
 

@@ -220,7 +220,7 @@
 | Versant: Davis Vision | Self Pay Non-Par with Ins |  | Non-PAR |
 | Versant: Superior Vision | Superior Vision | Authorization Required | Non-PAR |
 | Vitori Health Open Access Plan | Vitori Health Open Access Plan | No Ref/No Auth Required | Non-PAR |
-| VSP Vision | Vision Service Plan | Authorization Required | Non-PAR |
+| VSP Vision | Vision Service Plan | Authorization Required | PAR |
 | Web TPA | Web TPA | No Ref/No Auth Required | Non-PAR |
 | Wellcare Medicare HMO | Self Pay Non-Par with Ins |  | Non-PAR |
 | Wellcare Medicare PPO CFS is OUT OF NETWORK. PATIENT HAS OON BENEFITS. PLEASE INFORM PATIENT OF POSSIBLE HIGHER OUT OF POCKET COSTS. BENEFIT MUST BE CHECKED PRIOR TO APPT | WellCare Medicare PPO | Authorization MAY BE Required | Non-PAR -OON Benefits |

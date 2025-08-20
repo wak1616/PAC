@@ -21,6 +21,7 @@
 | James Lenhart, OD | Cigna Medicare HMO REFERRAL REQUIRED | Referral Required | PAR |
 | Joaquin De Rojas, MD | Cigna Medicare HMO REFERRAL REQUIRED | Referral Required | PAR |
 | John Fezza, MD (Oculoplastics) | Cigna Medicare HMO REFERRAL REQUIRED | Referral Required | PAR |
+| Jordan Shoemaker, PA - Start Date 10/06/2025 | Cigna Medicare HMO REFERRAL REQUIRED | Referral Required | Non-PAR |
 | Joseph Sowka, OD | Cigna Medicare HMO REFERRAL REQUIRED | Referral Required | PAR |
 | Joshua Kim, MD | Cigna Medicare HMO REFERRAL REQUIRED | Referral Required | PAR |
 | Joshua Newman, MD | Cigna Medicare HMO REFERRAL REQUIRED | Referral Required | PAR |
@@ -43,7 +44,6 @@
 | Tanuj Banker, MD (RETINA) | Cigna Medicare HMO REFERRAL REQUIRED | Referral Required | PAR |
 | Todd Lang, OD | Cigna Medicare HMO REFERRAL REQUIRED | Referral Required | PAR |
 | Trisha Werner, OD | Cigna Medicare HMO REFERRAL REQUIRED | Referral Required | PAR |
-| William Soscia, MD | Cigna Medicare HMO REFERRAL REQUIRED | Referral Required | PAR |
 
 ## Center for Sight-Naples
 

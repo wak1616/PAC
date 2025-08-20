@@ -21,11 +21,12 @@
 | James Lenhart, OD | Aetna Commercial PPO | No Ref/No Auth Required | PAR |
 | Joaquin De Rojas, MD | Aetna Commercial PPO | No Ref/No Auth Required | PAR |
 | John Fezza, MD (Oculoplastics) | Aetna Commercial PPO | No Ref/No Auth Required | PAR |
+| Jordan Shoemaker, PA - Start Date 10/06/2025 | Aetna Commercial PPO | No Ref/No Auth Required | Non-PAR |
 | Joseph Sowka, OD | Aetna Commercial PPO | No Ref/No Auth Required | PAR |
 | Joshua Kim, MD | Aetna Commercial PPO | No Ref/No Auth Required | PAR |
 | Joshua Newman, MD | Aetna Commercial PPO | No Ref/No Auth Required | PAR |
 | Kalie Kosek, PA | Aetna Commercial PPO | No Ref/No Auth Required | PAR |
-| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | Aetna Commercial PPO | No Ref/No Auth Required | Non-PAR |
+| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | Aetna Commercial PPO | No Ref/No Auth Required | PAR |
 | Kyle Schaub, OD | Aetna Commercial PPO | No Ref/No Auth Required | PAR |
 | Len Brown, OD | Aetna Commercial PPO | No Ref/No Auth Required | PAR |
 | Logan Page, OD | Aetna Commercial PPO | No Ref/No Auth Required | PAR |
@@ -43,7 +44,6 @@
 | Tanuj Banker, MD (RETINA) | Aetna Commercial PPO | No Ref/No Auth Required | PAR |
 | Todd Lang, OD | Aetna Commercial PPO | No Ref/No Auth Required | PAR |
 | Trisha Werner, OD | Aetna Commercial PPO | No Ref/No Auth Required | PAR |
-| William Soscia, MD | Aetna Commercial PPO | No Ref/No Auth Required | PAR |
 
 </details>
 

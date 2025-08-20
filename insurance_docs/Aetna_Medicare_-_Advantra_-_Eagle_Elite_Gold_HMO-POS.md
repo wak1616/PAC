@@ -21,11 +21,12 @@
 | James Lenhart, OD | Aetna Medicare HMO POS | No Ref/No Auth Required | PAR |
 | Joaquin De Rojas, MD | Aetna Medicare HMO POS | No Ref/No Auth Required | PAR |
 | John Fezza, MD (Oculoplastics) | Aetna Medicare HMO POS | No Ref/No Auth Required | PAR |
+| Jordan Shoemaker, PA - Start Date 10/06/2025 | Aetna Medicare HMO POS | No Ref/No Auth Required | Non-PAR |
 | Joseph Sowka, OD | Aetna Medicare HMO POS | No Ref/No Auth Required | PAR |
 | Joshua Kim, MD | Aetna Medicare HMO POS | No Ref/No Auth Required | PAR |
 | Joshua Newman, MD | Aetna Medicare HMO POS | No Ref/No Auth Required | PAR |
 | Kalie Kosek, PA | Aetna Medicare HMO POS | No Ref/No Auth Required | PAR |
-| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | Aetna Medicare HMO POS | No Ref/No Auth Required | Non-PAR |
+| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | Aetna Medicare HMO POS | No Ref/No Auth Required | PAR |
 | Kyle Schaub, OD | Aetna Medicare HMO POS | No Ref/No Auth Required | PAR |
 | Len Brown, OD | Aetna Medicare HMO POS | No Ref/No Auth Required | PAR |
 | Logan Page, OD | Aetna Medicare HMO POS | No Ref/No Auth Required | PAR |
@@ -43,7 +44,6 @@
 | Tanuj Banker, MD (RETINA) | Aetna Medicare HMO POS | No Ref/No Auth Required | Non-PAR |
 | Todd Lang, OD | Aetna Medicare HMO POS | No Ref/No Auth Required | PAR |
 | Trisha Werner, OD | Aetna Medicare HMO POS | No Ref/No Auth Required | PAR |
-| William Soscia, MD | Aetna Medicare HMO POS | No Ref/No Auth Required | PAR |
 
 ## SW FL Eye
 

@@ -21,6 +21,7 @@
 | James Lenhart, OD | Cigna International | Authorization Required | PAR |
 | Joaquin De Rojas, MD | Cigna International | Authorization Required | PAR |
 | John Fezza, MD (Oculoplastics) | Cigna International | Authorization Required | PAR |
+| Jordan Shoemaker, PA - Start Date 10/06/2025 | Cigna International | Authorization Required | Non-PAR |
 | Joseph Sowka, OD | Cigna International | Authorization Required | PAR |
 | Joshua Kim, MD | Cigna International | Authorization Required | PAR |
 | Joshua Newman, MD | Cigna International | Authorization Required | PAR |
@@ -43,7 +44,6 @@
 | Tanuj Banker, MD (RETINA) | Cigna International | Authorization Required | PAR |
 | Todd Lang, OD | Cigna International | Authorization Required | PAR |
 | Trisha Werner, OD | Cigna International | Authorization Required | PAR |
-| William Soscia, MD | Cigna International | Authorization Required | PAR |
 
 ## Center for Sight-Naples
 
@@ -62,7 +62,7 @@
 | Christine Bui, OD | Cigna International | Authorization Required | PAR |
 | Diba Ossareh, OD | Cigna International | Authorization Required | PAR |
 | Jose Vazques-Diaz, MD | Cigna International | Authorization Required | PAR |
-| Karin Girgis, OD - Start Date 8/18/2025 | Cigna International | Authorization Required | Non-PAR |
+| Karin Girgis, OD | Cigna International | Authorization Required | Non-PAR |
 | Mari Holderby, OD | Cigna International | Authorization Required | PAR |
 | Scot Holman, MD | Cigna International | Authorization Required | PAR |
 | Scott Wehrly, MD | Cigna International | Authorization Required | PAR |

@@ -1,6 +1,6 @@
 # Insurance Guide By Insurance Plan
 
-*Last Updated: 08/19/2025 (based on data from Excel file: [US Eye Insurance Guide.xlsx](https://useyecorp.sharepoint.com/:x:/r/RCM/Shared%20Documents/Insurance%20Guides/US%20Eye%20Insurance%20Guide.xlsx?d=w2a2138d41fa04bfa919fc4966998346a&csf=1&web=1&e=73a3Gf&nav=MTVfezIwMjg5MTIyLTdDRkEtNEE0OS1CODBGLTdFNTc3Njc3OTJDNX0))*
+*Last Updated: 08/20/2025 (based on data from Excel file: [US Eye Insurance Guide.xlsx](https://useyecorp.sharepoint.com/:x:/r/RCM/Shared%20Documents/Insurance%20Guides/US%20Eye%20Insurance%20Guide.xlsx?d=w2a2138d41fa04bfa919fc4966998346a&csf=1&web=1&e=73a3Gf&nav=MTVfezIwMjg5MTIyLTdDRkEtNEE0OS1CODBGLTdFNTc3Njc3OTJDNX0))*
 
 *This guide lists insurance participation by insurance plan. Click an insurance plan to view all providers who accept that insurance, grouped by location.*
 
@@ -214,6 +214,7 @@
 * [BCBS Out of State HMO Plans - ALL PLANS Commercial and Medicare HMO PLANS](insurance_docs/BCBS_Out_of_State_HMO_Plans_-_ALL_PLANS_Commercial_and_Medicare_HMO_PLANS.md)
 * [BCBS Out of State Medicare HMO-POS Plans - Medicare HMO POS Plans do have OON benefits. Note: BCBS Michigan Medicare HMO-POS (alpha prefix XYK)](insurance_docs/BCBS_Out_of_State_Medicare_HMO-POS_Plans_-_Medicar_te_BCBS_Michigan_Medicare_HMO-POS_alpha_prefix_XYK.md)
 * [BCBS Out of State Medicare PPO Plans -all plans that are not BCBS of Florida; please ask the patient to check the front and back copy of the card for the state. If the card says "Anthem", please see ANTHEM on the insurance guide](insurance_docs/BCBS_Out_of_State_Medicare_PPO_Plans_-all_plans_th_ys_Anthem_please_see_ANTHEM_on_the_insurance_guide.md)
+* [BCBS Select Bronze PPO - PLAN HAS OON BENEFITS. PLEASE CALL INSURANCE TO CONFIRM IF PLAN HAS OON BENEFITS](insurance_docs/BCBS_Select_Bronze_PPO_-_PLAN_HAS_OON_BENEFITS._PL_CALL_INSURANCE_TO_CONFIRM_IF_PLAN_HAS_OON_BENEFITS.md)
 * [BCBS of FL Blue High-Deductible Health Plan (HDHP), HMO- POS](insurance_docs/BCBS_of_FL_Blue_High-Deductible_Health_Plan_HDHP_HMO-_POS.md)
 * [BCBS of FL BlueCare/Blue Care w. Pediactric Vision - Alpha Prefix XJGH, VMBH, VMEH](insurance_docs/BCBS_of_FL_BlueCare_Blue_Care_w._Pediactric_Vision_-_Alpha_Prefix_XJGH_VMBH_VMEH.md)
 * [BCBS of FL BlueChoice](insurance_docs/BCBS_of_FL_BlueChoice.md)

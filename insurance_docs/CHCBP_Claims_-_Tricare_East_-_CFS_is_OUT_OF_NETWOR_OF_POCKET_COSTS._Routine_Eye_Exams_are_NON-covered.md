@@ -21,6 +21,7 @@
 | James Lenhart, OD | CHCBP Claims | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Joaquin De Rojas, MD | CHCBP Claims | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | John Fezza, MD (Oculoplastics) | CHCBP Claims | No Ref/No Auth Required | Non-PAR -OON Benefits |
+| Jordan Shoemaker, PA - Start Date 10/06/2025 | CHCBP Claims | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Joseph Sowka, OD | CHCBP Claims | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Joshua Kim, MD | CHCBP Claims | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Joshua Newman, MD | CHCBP Claims | No Ref/No Auth Required | Non-PAR -OON Benefits |
@@ -43,7 +44,6 @@
 | Tanuj Banker, MD (RETINA) | CHCBP Claims | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Todd Lang, OD | CHCBP Claims | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Trisha Werner, OD | CHCBP Claims | No Ref/No Auth Required | Non-PAR -OON Benefits |
-| William Soscia, MD | CHCBP Claims | No Ref/No Auth Required | Non-PAR -OON Benefits |
 
 </details>
 

@@ -21,7 +21,7 @@
 | Christine Bui, OD | UHC Comm HMO Referral REQ | Referral Required | PAR |
 | Diba Ossareh, OD | UHC Comm HMO Referral REQ | Referral Required | PAR |
 | Jose Vazques-Diaz, MD | UHC Comm HMO Referral REQ | Referral Required | PAR |
-| Karin Girgis, OD - Start Date 8/18/2025 | UHC Comm HMO Referral REQ | Referral Required | Non-PAR |
+| Karin Girgis, OD | UHC Comm HMO Referral REQ | Referral Required | Non-PAR |
 | Mari Holderby, OD | UHC Comm HMO Referral REQ | Referral Required | PAR |
 | Scot Holman, MD | UHC Comm HMO Referral REQ | Referral Required | PAR |
 | Scott Wehrly, MD | UHC Comm HMO Referral REQ | Referral Required | PAR |

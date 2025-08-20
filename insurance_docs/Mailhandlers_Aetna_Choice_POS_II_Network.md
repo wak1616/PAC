@@ -21,11 +21,12 @@
 | James Lenhart, OD | Mail Handlers Benefit Plan Comm - Aetna | No Ref/No Auth Required | PAR |
 | Joaquin De Rojas, MD | Mail Handlers Benefit Plan Comm - Aetna | No Ref/No Auth Required | PAR |
 | John Fezza, MD (Oculoplastics) | Mail Handlers Benefit Plan Comm - Aetna | No Ref/No Auth Required | PAR |
+| Jordan Shoemaker, PA - Start Date 10/06/2025 | Mail Handlers Benefit Plan Comm - Aetna | No Ref/No Auth Required | Non-PAR |
 | Joseph Sowka, OD | Mail Handlers Benefit Plan Comm - Aetna | No Ref/No Auth Required | PAR |
 | Joshua Kim, MD | Mail Handlers Benefit Plan Comm - Aetna | No Ref/No Auth Required | PAR |
 | Joshua Newman, MD | Mail Handlers Benefit Plan Comm - Aetna | No Ref/No Auth Required | PAR |
 | Kalie Kosek, PA | Mail Handlers Benefit Plan Comm - Aetna | No Ref/No Auth Required | PAR |
-| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | Mail Handlers Benefit Plan Comm - Aetna | No Ref/No Auth Required | Non-PAR |
+| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | Mail Handlers Benefit Plan Comm - Aetna | No Ref/No Auth Required | PAR |
 | Kyle Schaub, OD | Mail Handlers Benefit Plan Comm - Aetna | No Ref/No Auth Required | PAR |
 | Len Brown, OD | Mail Handlers Benefit Plan Comm - Aetna | No Ref/No Auth Required | PAR |
 | Logan Page, OD | Mail Handlers Benefit Plan Comm - Aetna | No Ref/No Auth Required | PAR |
@@ -43,14 +44,13 @@
 | Tanuj Banker, MD (RETINA) | Mail Handlers Benefit Plan Comm - Aetna | No Ref/No Auth Required | PAR |
 | Todd Lang, OD | Mail Handlers Benefit Plan Comm - Aetna | No Ref/No Auth Required | PAR |
 | Trisha Werner, OD | Mail Handlers Benefit Plan Comm - Aetna | No Ref/No Auth Required | PAR |
-| William Soscia, MD | Mail Handlers Benefit Plan Comm - Aetna | No Ref/No Auth Required | PAR |
 
 ## Center for Sight-Naples
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
 | George Brinnig-Jastrzebski, MD | Mail Handlers Benefit Plan Comm - Aetna | No Ref/No Auth Required | PAR |
-| Jenna Getman, OD - Start Date 9/29/2025 | Mail Handlers Benefit Plan Comm - Aetna | No Ref/No Auth Required | Non-PAR |
+| Jenna Getman, OD - Start Date 9/29/2025 | Mail Handlers Benefit Plan Comm - Aetna | No Ref/No Auth Required | PAR |
 | Jon Berlie, MD | Mail Handlers Benefit Plan Comm - Aetna | No Ref/No Auth Required | PAR |
 | Julie Carter, MD | Mail Handlers Benefit Plan Comm - Aetna | No Ref/No Auth Required | PAR |
 
@@ -62,7 +62,7 @@
 | Christine Bui, OD | Mail Handlers Benefit Plan Comm - Aetna | No Ref/No Auth Required | PAR |
 | Diba Ossareh, OD | Mail Handlers Benefit Plan Comm - Aetna | No Ref/No Auth Required | PAR |
 | Jose Vazques-Diaz, MD | Mail Handlers Benefit Plan Comm - Aetna | No Ref/No Auth Required | PAR |
-| Karin Girgis, OD - Start Date 8/18/2025 | Mail Handlers Benefit Plan Comm - Aetna | No Ref/No Auth Required | Non-PAR |
+| Karin Girgis, OD | Mail Handlers Benefit Plan Comm - Aetna | No Ref/No Auth Required | PAR |
 | Mari Holderby, OD | Mail Handlers Benefit Plan Comm - Aetna | No Ref/No Auth Required | PAR |
 | Scot Holman, MD | Mail Handlers Benefit Plan Comm - Aetna | No Ref/No Auth Required | PAR |
 | Scott Wehrly, MD | Mail Handlers Benefit Plan Comm - Aetna | No Ref/No Auth Required | PAR |

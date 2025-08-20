@@ -21,11 +21,12 @@
 | James Lenhart, OD | Aetna Comm Fixed Benefits PPO | No Ref/No Auth Required | PAR |
 | Joaquin De Rojas, MD | Aetna Comm Fixed Benefits PPO | No Ref/No Auth Required | PAR |
 | John Fezza, MD (Oculoplastics) | Aetna Comm Fixed Benefits PPO | No Ref/No Auth Required | PAR |
+| Jordan Shoemaker, PA - Start Date 10/06/2025 | Aetna Comm Fixed Benefits PPO | No Ref/No Auth Required | Non-PAR |
 | Joseph Sowka, OD | Aetna Comm Fixed Benefits PPO | No Ref/No Auth Required | PAR |
 | Joshua Kim, MD | Aetna Comm Fixed Benefits PPO | No Ref/No Auth Required | PAR |
 | Joshua Newman, MD | Aetna Comm Fixed Benefits PPO | No Ref/No Auth Required | PAR |
 | Kalie Kosek, PA | Aetna Comm Fixed Benefits PPO | No Ref/No Auth Required | PAR |
-| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | Aetna Comm Fixed Benefits PPO | No Ref/No Auth Required | Non-PAR |
+| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | Aetna Comm Fixed Benefits PPO | No Ref/No Auth Required | PAR |
 | Kyle Schaub, OD | Aetna Comm Fixed Benefits PPO | No Ref/No Auth Required | PAR |
 | Len Brown, OD | Aetna Comm Fixed Benefits PPO | No Ref/No Auth Required | PAR |
 | Logan Page, OD | Aetna Comm Fixed Benefits PPO | No Ref/No Auth Required | PAR |
@@ -43,14 +44,13 @@
 | Tanuj Banker, MD (RETINA) | Aetna Comm Fixed Benefits PPO | No Ref/No Auth Required | PAR |
 | Todd Lang, OD | Aetna Comm Fixed Benefits PPO | No Ref/No Auth Required | PAR |
 | Trisha Werner, OD | Aetna Comm Fixed Benefits PPO | No Ref/No Auth Required | PAR |
-| William Soscia, MD | Aetna Comm Fixed Benefits PPO | No Ref/No Auth Required | PAR |
 
 ## Center for Sight-Naples
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
 | George Brinnig-Jastrzebski, MD | Aetna Comm Fixed Benefits PPO | No Ref/No Auth Required | PAR |
-| Jenna Getman, OD - Start Date 9/29/2025 | Aetna Comm Fixed Benefits PPO | No Ref/No Auth Required | Non-PAR |
+| Jenna Getman, OD - Start Date 9/29/2025 | Aetna Comm Fixed Benefits PPO | No Ref/No Auth Required | PAR |
 | Jon Berlie, MD | Aetna Comm Fixed Benefits PPO | No Ref/No Auth Required | PAR |
 | Julie Carter, MD | Aetna Comm Fixed Benefits PPO | No Ref/No Auth Required | PAR |
 
@@ -62,7 +62,7 @@
 | Christine Bui, OD | Aetna Comm Fixed Benefits PPO | No Ref/No Auth Required | PAR |
 | Diba Ossareh, OD | Aetna Comm Fixed Benefits PPO | No Ref/No Auth Required | PAR |
 | Jose Vazques-Diaz, MD | Aetna Comm Fixed Benefits PPO | No Ref/No Auth Required | PAR |
-| Karin Girgis, OD - Start Date 8/18/2025 | Aetna Comm Fixed Benefits PPO | No Ref/No Auth Required | Non-PAR |
+| Karin Girgis, OD | Aetna Comm Fixed Benefits PPO | No Ref/No Auth Required | PAR |
 | Mari Holderby, OD | Aetna Comm Fixed Benefits PPO | No Ref/No Auth Required | PAR |
 | Scot Holman, MD | Aetna Comm Fixed Benefits PPO | No Ref/No Auth Required | PAR |
 | Scott Wehrly, MD | Aetna Comm Fixed Benefits PPO | No Ref/No Auth Required | PAR |

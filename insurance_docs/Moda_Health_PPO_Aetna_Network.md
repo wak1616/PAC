@@ -21,11 +21,12 @@
 | James Lenhart, OD | Moda Health PPO |  | PAR |
 | Joaquin De Rojas, MD | Moda Health PPO |  | PAR |
 | John Fezza, MD (Oculoplastics) | Moda Health PPO |  | PAR |
+| Jordan Shoemaker, PA - Start Date 10/06/2025 | Moda Health PPO |  | Non-PAR |
 | Joseph Sowka, OD | Moda Health PPO |  | PAR |
 | Joshua Kim, MD | Moda Health PPO |  | PAR |
 | Joshua Newman, MD | Moda Health PPO |  | PAR |
 | Kalie Kosek, PA | Moda Health PPO |  | PAR |
-| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | Moda Health PPO |  | Non-PAR |
+| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | Moda Health PPO |  | PAR |
 | Kyle Schaub, OD | Moda Health PPO |  | PAR |
 | Len Brown, OD | Moda Health PPO |  | PAR |
 | Logan Page, OD | Moda Health PPO |  | PAR |
@@ -43,14 +44,13 @@
 | Tanuj Banker, MD (RETINA) | Moda Health PPO |  | PAR |
 | Todd Lang, OD | Moda Health PPO |  | PAR |
 | Trisha Werner, OD | Moda Health PPO |  | PAR |
-| William Soscia, MD | Moda Health PPO |  | PAR |
 
 ## Center for Sight-Naples
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
 | George Brinnig-Jastrzebski, MD | Moda Health PPO |  | PAR |
-| Jenna Getman, OD - Start Date 9/29/2025 | Moda Health PPO |  | Non-PAR |
+| Jenna Getman, OD - Start Date 9/29/2025 | Moda Health PPO |  | PAR |
 | Jon Berlie, MD | Moda Health PPO |  | PAR |
 | Julie Carter, MD | Moda Health PPO |  | PAR |
 
@@ -62,7 +62,7 @@
 | Christine Bui, OD | Moda Health PPO |  | PAR |
 | Diba Ossareh, OD | Moda Health PPO |  | PAR |
 | Jose Vazques-Diaz, MD | Moda Health PPO |  | PAR |
-| Karin Girgis, OD - Start Date 8/18/2025 | Moda Health PPO |  | Non-PAR |
+| Karin Girgis, OD | Moda Health PPO |  | PAR |
 | Mari Holderby, OD | Moda Health PPO |  | PAR |
 | Scot Holman, MD | Moda Health PPO |  | PAR |
 | Scott Wehrly, MD | Moda Health PPO |  | PAR |

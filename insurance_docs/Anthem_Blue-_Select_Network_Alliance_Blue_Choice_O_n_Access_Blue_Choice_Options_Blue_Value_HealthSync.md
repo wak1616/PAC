@@ -21,6 +21,7 @@
 | James Lenhart, OD | Anthem BCBS Commercial PPO | No Ref/No Auth Required | PAR |
 | Joaquin De Rojas, MD | Anthem BCBS Commercial PPO | No Ref/No Auth Required | PAR |
 | John Fezza, MD (Oculoplastics) | Anthem BCBS Commercial PPO | No Ref/No Auth Required | PAR |
+| Jordan Shoemaker, PA - Start Date 10/06/2025 | Anthem BCBS Commercial PPO | No Ref/No Auth Required | PAR |
 | Joseph Sowka, OD | Anthem BCBS Commercial PPO | No Ref/No Auth Required | PAR |
 | Joshua Kim, MD | Anthem BCBS Commercial PPO | No Ref/No Auth Required | PAR |
 | Joshua Newman, MD | Anthem BCBS Commercial PPO | No Ref/No Auth Required | PAR |
@@ -43,7 +44,6 @@
 | Tanuj Banker, MD (RETINA) | Anthem BCBS Commercial PPO | No Ref/No Auth Required | PAR |
 | Todd Lang, OD | Anthem BCBS Commercial PPO | No Ref/No Auth Required | PAR |
 | Trisha Werner, OD | Anthem BCBS Commercial PPO | No Ref/No Auth Required | PAR |
-| William Soscia, MD | Anthem BCBS Commercial PPO | No Ref/No Auth Required | PAR |
 
 ## Center for Sight-Naples
 
@@ -62,7 +62,7 @@
 | Christine Bui, OD | Anthem BCBS Commercial PPO | No Ref/No Auth Required | PAR |
 | Diba Ossareh, OD | Anthem BCBS Commercial PPO | No Ref/No Auth Required | PAR |
 | Jose Vazques-Diaz, MD | Anthem BCBS Commercial PPO | No Ref/No Auth Required | PAR |
-| Karin Girgis, OD - Start Date 8/18/2025 | Anthem BCBS Commercial PPO | No Ref/No Auth Required | Non-PAR |
+| Karin Girgis, OD | Anthem BCBS Commercial PPO | No Ref/No Auth Required | Non-PAR |
 | Mari Holderby, OD | Anthem BCBS Commercial PPO | No Ref/No Auth Required | PAR |
 | Scot Holman, MD | Anthem BCBS Commercial PPO | No Ref/No Auth Required | PAR |
 | Scott Wehrly, MD | Anthem BCBS Commercial PPO | No Ref/No Auth Required | PAR |

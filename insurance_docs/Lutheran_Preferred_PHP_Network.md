@@ -21,6 +21,7 @@
 | James Lenhart, OD | Lutheran Preferred - PHP | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Joaquin De Rojas, MD | Lutheran Preferred - PHP | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | John Fezza, MD (Oculoplastics) | Lutheran Preferred - PHP | No Ref/No Auth Required | Non-PAR -OON Benefits |
+| Jordan Shoemaker, PA - Start Date 10/06/2025 | Lutheran Preferred - PHP | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Joseph Sowka, OD | Lutheran Preferred - PHP | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Joshua Kim, MD | Lutheran Preferred - PHP | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Joshua Newman, MD | Lutheran Preferred - PHP | No Ref/No Auth Required | Non-PAR -OON Benefits |
@@ -43,7 +44,6 @@
 | Tanuj Banker, MD (RETINA) | Lutheran Preferred - PHP | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Todd Lang, OD | Lutheran Preferred - PHP | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Trisha Werner, OD | Lutheran Preferred - PHP | No Ref/No Auth Required | Non-PAR -OON Benefits |
-| William Soscia, MD | Lutheran Preferred - PHP | No Ref/No Auth Required | Non-PAR -OON Benefits |
 
 ## Center for Sight-Naples
 
@@ -62,7 +62,7 @@
 | Christine Bui, OD | Lutheran Preferred - PHP | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Diba Ossareh, OD | Lutheran Preferred - PHP | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Jose Vazques-Diaz, MD | Lutheran Preferred - PHP | No Ref/No Auth Required | Non-PAR -OON Benefits |
-| Karin Girgis, OD - Start Date 8/18/2025 | Lutheran Preferred - PHP | No Ref/No Auth Required | Non-PAR -OON Benefits |
+| Karin Girgis, OD | Lutheran Preferred - PHP | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Mari Holderby, OD | Lutheran Preferred - PHP | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Scot Holman, MD | Lutheran Preferred - PHP | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Scott Wehrly, MD | Lutheran Preferred - PHP | No Ref/No Auth Required | Non-PAR -OON Benefits |

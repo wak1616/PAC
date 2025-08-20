@@ -21,6 +21,7 @@
 | James Lenhart, OD | UHC Medica-94265 | No Ref/No Auth Required | PAR |
 | Joaquin De Rojas, MD | UHC Medica-94265 | No Ref/No Auth Required | PAR |
 | John Fezza, MD (Oculoplastics) | UHC Medica-94265 | No Ref/No Auth Required | PAR |
+| Jordan Shoemaker, PA - Start Date 10/06/2025 | UHC Medica-94265 | No Ref/No Auth Required | Non-PAR |
 | Joseph Sowka, OD | UHC Medica-94265 | No Ref/No Auth Required | PAR |
 | Joshua Kim, MD | UHC Medica-94265 | No Ref/No Auth Required | PAR |
 | Joshua Newman, MD | UHC Medica-94265 | No Ref/No Auth Required | PAR |
@@ -43,7 +44,6 @@
 | Tanuj Banker, MD (RETINA) | UHC Medica-94265 | No Ref/No Auth Required | PAR |
 | Todd Lang, OD | UHC Medica-94265 | No Ref/No Auth Required | PAR |
 | Trisha Werner, OD | UHC Medica-94265 | No Ref/No Auth Required | PAR |
-| William Soscia, MD | UHC Medica-94265 | No Ref/No Auth Required | PAR |
 
 ## Center for Sight-Naples
 
@@ -62,7 +62,7 @@
 | Christine Bui, OD | UHC Medica-94265 |  | PAR |
 | Diba Ossareh, OD | UHC Medica-94265 |  | PAR |
 | Jose Vazques-Diaz, MD | UHC Medica-94265 |  | PAR |
-| Karin Girgis, OD - Start Date 8/18/2025 | UHC Medica-94265 |  | Non-PAR |
+| Karin Girgis, OD | UHC Medica-94265 |  | Non-PAR |
 | Mari Holderby, OD | UHC Medica-94265 |  | PAR |
 | Scot Holman, MD | UHC Medica-94265 |  | PAR |
 | Scott Wehrly, MD | UHC Medica-94265 |  | PAR |

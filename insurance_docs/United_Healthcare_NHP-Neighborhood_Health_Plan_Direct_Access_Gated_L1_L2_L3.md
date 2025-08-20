@@ -12,7 +12,7 @@
 | Christine Bui, OD | Self Pay Non-Par with Ins (Holderby and Ossareh are PAR |  | Non-PAR |
 | Diba Ossareh, OD | Self Pay Non-Par with Ins (Holderby and Ossareh are PAR |  | PAR |
 | Jose Vazques-Diaz, MD | Self Pay Non-Par with Ins (Holderby and Ossareh are PAR |  | Non-PAR |
-| Karin Girgis, OD - Start Date 8/18/2025 | Self Pay Non-Par with Ins (Holderby and Ossareh are PAR |  | Non-PAR |
+| Karin Girgis, OD | Self Pay Non-Par with Ins (Holderby and Ossareh are PAR |  | Non-PAR |
 | Mari Holderby, OD | Self Pay Non-Par with Ins (Holderby and Ossareh are PAR |  | PAR |
 | Scot Holman, MD | Self Pay Non-Par with Ins (Holderby and Ossareh are PAR |  | Non-PAR |
 | Scott Wehrly, MD | Self Pay Non-Par with Ins (Holderby and Ossareh are PAR |  | Non-PAR |

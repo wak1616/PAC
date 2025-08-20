@@ -21,6 +21,7 @@
 | James Lenhart, OD | EBMS Commercial PPO - Aetna | No Ref/No Auth Required | PAR |
 | Joaquin De Rojas, MD | EBMS Commercial PPO - Aetna | No Ref/No Auth Required | PAR |
 | John Fezza, MD (Oculoplastics) | EBMS Commercial PPO - Aetna | No Ref/No Auth Required | PAR |
+| Jordan Shoemaker, PA - Start Date 10/06/2025 | EBMS Commercial PPO - Aetna | No Ref/No Auth Required | Non-PAR |
 | Joseph Sowka, OD | EBMS Commercial PPO - Aetna | No Ref/No Auth Required | PAR |
 | Joshua Kim, MD | EBMS Commercial PPO - Aetna | No Ref/No Auth Required | PAR |
 | Joshua Newman, MD | EBMS Commercial PPO - Aetna | No Ref/No Auth Required | PAR |
@@ -43,14 +44,13 @@
 | Tanuj Banker, MD (RETINA) | EBMS Commercial PPO - Aetna | No Ref/No Auth Required | PAR |
 | Todd Lang, OD | EBMS Commercial PPO - Aetna | No Ref/No Auth Required | PAR |
 | Trisha Werner, OD | EBMS Commercial PPO - Aetna | No Ref/No Auth Required | PAR |
-| William Soscia, MD | EBMS Commercial PPO - Aetna | No Ref/No Auth Required | PAR |
 
 ## Center for Sight-Naples
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
 | George Brinnig-Jastrzebski, MD | EBMS Commercial PPO - Aetna | No Ref/No Auth Required | PAR |
-| Jenna Getman, OD - Start Date 9/29/2025 | EBMS Commercial PPO - Aetna | No Ref/No Auth Required | Non-PAR |
+| Jenna Getman, OD - Start Date 9/29/2025 | EBMS Commercial PPO - Aetna | No Ref/No Auth Required | PAR |
 | Jon Berlie, MD | EBMS Commercial PPO - Aetna | No Ref/No Auth Required | PAR |
 | Julie Carter, MD | EBMS Commercial PPO - Aetna | No Ref/No Auth Required | PAR |
 

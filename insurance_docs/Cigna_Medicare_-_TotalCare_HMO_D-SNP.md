@@ -21,7 +21,7 @@
 | Christine Bui, OD | Primary: Cigna Dual MDCR HMO Primary-REFERRAL REQ                                                Secondary: Cigna Dual Medicaid HMO Secondary | Referral Required | PAR |
 | Diba Ossareh, OD | Primary: Cigna Dual MDCR HMO Primary-REFERRAL REQ                                                Secondary: Cigna Dual Medicaid HMO Secondary | Referral Required | Non-PAR |
 | Jose Vazques-Diaz, MD | Primary: Cigna Dual MDCR HMO Primary-REFERRAL REQ                                                Secondary: Cigna Dual Medicaid HMO Secondary | Referral Required | PAR |
-| Karin Girgis, OD - Start Date 8/18/2025 | Primary: Cigna Dual MDCR HMO Primary-REFERRAL REQ                                                Secondary: Cigna Dual Medicaid HMO Secondary | Referral Required | Non-PAR |
+| Karin Girgis, OD | Primary: Cigna Dual MDCR HMO Primary-REFERRAL REQ                                                Secondary: Cigna Dual Medicaid HMO Secondary | Referral Required | Non-PAR |
 | Mari Holderby, OD | Primary: Cigna Dual MDCR HMO Primary-REFERRAL REQ                                                Secondary: Cigna Dual Medicaid HMO Secondary | Referral Required | PAR |
 | Scot Holman, MD | Primary: Cigna Dual MDCR HMO Primary-REFERRAL REQ                                                Secondary: Cigna Dual Medicaid HMO Secondary | Referral Required | PAR |
 | Scott Wehrly, MD | Primary: Cigna Dual MDCR HMO Primary-REFERRAL REQ                                                Secondary: Cigna Dual Medicaid HMO Secondary | Referral Required | PAR |

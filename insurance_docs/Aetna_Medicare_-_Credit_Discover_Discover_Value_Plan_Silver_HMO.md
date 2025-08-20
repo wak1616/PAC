@@ -21,11 +21,12 @@
 | James Lenhart, OD | Aetna Medicare HMO REFERRAL REQ | Referral Required | PAR |
 | Joaquin De Rojas, MD | Aetna Medicare HMO REFERRAL REQ | Referral Required | PAR |
 | John Fezza, MD (Oculoplastics) | Aetna Medicare HMO REFERRAL REQ | Referral Required | PAR |
+| Jordan Shoemaker, PA - Start Date 10/06/2025 | Aetna Medicare HMO REFERRAL REQ | Referral Required | Non-PAR |
 | Joseph Sowka, OD | Aetna Medicare HMO REFERRAL REQ | Referral Required | PAR |
 | Joshua Kim, MD | Aetna Medicare HMO REFERRAL REQ | Referral Required | PAR |
 | Joshua Newman, MD | Aetna Medicare HMO REFERRAL REQ | Referral Required | PAR |
 | Kalie Kosek, PA | Aetna Medicare HMO REFERRAL REQ | Referral Required | PAR |
-| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | Aetna Medicare HMO REFERRAL REQ | Referral Required | Non-PAR |
+| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | Aetna Medicare HMO REFERRAL REQ | Referral Required | PAR |
 | Kyle Schaub, OD | Aetna Medicare HMO REFERRAL REQ | Referral Required | PAR |
 | Len Brown, OD | Aetna Medicare HMO REFERRAL REQ | Referral Required | PAR |
 | Logan Page, OD | Aetna Medicare HMO REFERRAL REQ | Referral Required | PAR |
@@ -43,7 +44,6 @@
 | Tanuj Banker, MD (RETINA) | Aetna Medicare HMO REFERRAL REQ | Referral Required | Non-PAR |
 | Todd Lang, OD | Aetna Medicare HMO REFERRAL REQ | Referral Required | PAR |
 | Trisha Werner, OD | Aetna Medicare HMO REFERRAL REQ | Referral Required | PAR |
-| William Soscia, MD | Aetna Medicare HMO REFERRAL REQ | Referral Required | PAR |
 
 </details>
 

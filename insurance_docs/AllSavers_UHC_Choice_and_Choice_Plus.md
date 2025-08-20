@@ -21,7 +21,7 @@
 | Christine Bui, OD | UHC All Savers-81400 | No Ref/No Auth Required | PAR |
 | Diba Ossareh, OD | UHC All Savers-81400 | No Ref/No Auth Required | PAR |
 | Jose Vazques-Diaz, MD | UHC All Savers-81400 | No Ref/No Auth Required | PAR |
-| Karin Girgis, OD - Start Date 8/18/2025 | UHC All Savers-81400 | No Ref/No Auth Required | Non-PAR |
+| Karin Girgis, OD | UHC All Savers-81400 | No Ref/No Auth Required | Non-PAR |
 | Mari Holderby, OD | UHC All Savers-81400 | No Ref/No Auth Required | PAR |
 | Scot Holman, MD | UHC All Savers-81400 | No Ref/No Auth Required | PAR |
 | Scott Wehrly, MD | UHC All Savers-81400 | No Ref/No Auth Required | PAR |

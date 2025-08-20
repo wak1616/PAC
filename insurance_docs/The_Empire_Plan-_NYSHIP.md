@@ -21,6 +21,7 @@
 | James Lenhart, OD | UHC Empire Plan-NYSHIP-87726 | No Ref/No Auth Required | PAR |
 | Joaquin De Rojas, MD | UHC Empire Plan-NYSHIP-87726 | No Ref/No Auth Required | PAR |
 | John Fezza, MD (Oculoplastics) | UHC Empire Plan-NYSHIP-87726 | No Ref/No Auth Required | PAR |
+| Jordan Shoemaker, PA - Start Date 10/06/2025 | UHC Empire Plan-NYSHIP-87726 | No Ref/No Auth Required | Non-PAR |
 | Joseph Sowka, OD | UHC Empire Plan-NYSHIP-87726 | No Ref/No Auth Required | PAR |
 | Joshua Kim, MD | UHC Empire Plan-NYSHIP-87726 | No Ref/No Auth Required | PAR |
 | Joshua Newman, MD | UHC Empire Plan-NYSHIP-87726 | No Ref/No Auth Required | PAR |
@@ -43,7 +44,6 @@
 | Tanuj Banker, MD (RETINA) | UHC Empire Plan-NYSHIP-87726 | No Ref/No Auth Required | PAR |
 | Todd Lang, OD | UHC Empire Plan-NYSHIP-87726 | No Ref/No Auth Required | PAR |
 | Trisha Werner, OD | UHC Empire Plan-NYSHIP-87726 | No Ref/No Auth Required | PAR |
-| William Soscia, MD | UHC Empire Plan-NYSHIP-87726 | No Ref/No Auth Required | PAR |
 
 </details>
 

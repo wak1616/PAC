@@ -21,6 +21,7 @@
 | James Lenhart, OD | PLEASE ASK THE PATIENT FOR THE HEALTH PLAN NAME ON THE CARD. IF THE PAYER IS NOT LOADED INTO THE SYSTEM, USE: INS NOT IN NEXTGEN. SEE: Generic Insurance Protocol - PAC, Front Desk, and Customer Service.pdf |  | PAR |
 | Joaquin De Rojas, MD | PLEASE ASK THE PATIENT FOR THE HEALTH PLAN NAME ON THE CARD. IF THE PAYER IS NOT LOADED INTO THE SYSTEM, USE: INS NOT IN NEXTGEN. SEE: Generic Insurance Protocol - PAC, Front Desk, and Customer Service.pdf |  | PAR |
 | John Fezza, MD (Oculoplastics) | PLEASE ASK THE PATIENT FOR THE HEALTH PLAN NAME ON THE CARD. IF THE PAYER IS NOT LOADED INTO THE SYSTEM, USE: INS NOT IN NEXTGEN. SEE: Generic Insurance Protocol - PAC, Front Desk, and Customer Service.pdf |  | PAR |
+| Jordan Shoemaker, PA - Start Date 10/06/2025 | PLEASE ASK THE PATIENT FOR THE HEALTH PLAN NAME ON THE CARD. IF THE PAYER IS NOT LOADED INTO THE SYSTEM, USE: INS NOT IN NEXTGEN. SEE: Generic Insurance Protocol - PAC, Front Desk, and Customer Service.pdf |  | PAR |
 | Joseph Sowka, OD | PLEASE ASK THE PATIENT FOR THE HEALTH PLAN NAME ON THE CARD. IF THE PAYER IS NOT LOADED INTO THE SYSTEM, USE: INS NOT IN NEXTGEN. SEE: Generic Insurance Protocol - PAC, Front Desk, and Customer Service.pdf |  | PAR |
 | Joshua Kim, MD | PLEASE ASK THE PATIENT FOR THE HEALTH PLAN NAME ON THE CARD. IF THE PAYER IS NOT LOADED INTO THE SYSTEM, USE: INS NOT IN NEXTGEN. SEE: Generic Insurance Protocol - PAC, Front Desk, and Customer Service.pdf |  | PAR |
 | Joshua Newman, MD | PLEASE ASK THE PATIENT FOR THE HEALTH PLAN NAME ON THE CARD. IF THE PAYER IS NOT LOADED INTO THE SYSTEM, USE: INS NOT IN NEXTGEN. SEE: Generic Insurance Protocol - PAC, Front Desk, and Customer Service.pdf |  | PAR |
@@ -43,14 +44,13 @@
 | Tanuj Banker, MD (RETINA) | PLEASE ASK THE PATIENT FOR THE HEALTH PLAN NAME ON THE CARD. IF THE PAYER IS NOT LOADED INTO THE SYSTEM, USE: INS NOT IN NEXTGEN. SEE: Generic Insurance Protocol - PAC, Front Desk, and Customer Service.pdf |  | Non-PAR |
 | Todd Lang, OD | PLEASE ASK THE PATIENT FOR THE HEALTH PLAN NAME ON THE CARD. IF THE PAYER IS NOT LOADED INTO THE SYSTEM, USE: INS NOT IN NEXTGEN. SEE: Generic Insurance Protocol - PAC, Front Desk, and Customer Service.pdf |  | PAR |
 | Trisha Werner, OD | PLEASE ASK THE PATIENT FOR THE HEALTH PLAN NAME ON THE CARD. IF THE PAYER IS NOT LOADED INTO THE SYSTEM, USE: INS NOT IN NEXTGEN. SEE: Generic Insurance Protocol - PAC, Front Desk, and Customer Service.pdf |  | PAR |
-| William Soscia, MD | PLEASE ASK THE PATIENT FOR THE HEALTH PLAN NAME ON THE CARD. IF THE PAYER IS NOT LOADED INTO THE SYSTEM, USE: INS NOT IN NEXTGEN. SEE: Generic Insurance Protocol - PAC, Front Desk, and Customer Service.pdf |  | PAR |
 
 ## Center for Sight-Naples
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
 | George Brinnig-Jastrzebski, MD | PLEASE ASK THE PATIENT FOR THE HEALTH PLAN NAME ON THE CARD. IF THE PAYER IS NOT LOADED INTO THE SYSTEM, USE: INS NOT IN NEXTGEN. SEE: Generic Insurance Protocol - PAC, Front Desk, and Customer Service.pdf |  | PAR |
-| Jenna Getman, OD - Start Date 9/29/2025 | PLEASE ASK THE PATIENT FOR THE HEALTH PLAN NAME ON THE CARD. IF THE PAYER IS NOT LOADED INTO THE SYSTEM, USE: INS NOT IN NEXTGEN. SEE: Generic Insurance Protocol - PAC, Front Desk, and Customer Service.pdf |  | Non-PAR |
+| Jenna Getman, OD - Start Date 9/29/2025 | PLEASE ASK THE PATIENT FOR THE HEALTH PLAN NAME ON THE CARD. IF THE PAYER IS NOT LOADED INTO THE SYSTEM, USE: INS NOT IN NEXTGEN. SEE: Generic Insurance Protocol - PAC, Front Desk, and Customer Service.pdf |  | PAR |
 | Jon Berlie, MD | PLEASE ASK THE PATIENT FOR THE HEALTH PLAN NAME ON THE CARD. IF THE PAYER IS NOT LOADED INTO THE SYSTEM, USE: INS NOT IN NEXTGEN. SEE: Generic Insurance Protocol - PAC, Front Desk, and Customer Service.pdf |  | PAR |
 | Julie Carter, MD | PLEASE ASK THE PATIENT FOR THE HEALTH PLAN NAME ON THE CARD. IF THE PAYER IS NOT LOADED INTO THE SYSTEM, USE: INS NOT IN NEXTGEN. SEE: Generic Insurance Protocol - PAC, Front Desk, and Customer Service.pdf |  | PAR |
 
@@ -62,7 +62,7 @@
 | Christine Bui, OD | PLEASE ASK THE PATIENT FOR THE HEALTH PLAN NAME ON THE CARD. IF THE PAYER IS NOT LOADED INTO THE SYSTEM, USE: INS NOT IN NEXTGEN. SEE: Generic Insurance Protocol - PAC, Front Desk, and Customer Service.pdf |  | PAR |
 | Diba Ossareh, OD | PLEASE ASK THE PATIENT FOR THE HEALTH PLAN NAME ON THE CARD. IF THE PAYER IS NOT LOADED INTO THE SYSTEM, USE: INS NOT IN NEXTGEN. SEE: Generic Insurance Protocol - PAC, Front Desk, and Customer Service.pdf |  | PAR |
 | Jose Vazques-Diaz, MD | PLEASE ASK THE PATIENT FOR THE HEALTH PLAN NAME ON THE CARD. IF THE PAYER IS NOT LOADED INTO THE SYSTEM, USE: INS NOT IN NEXTGEN. SEE: Generic Insurance Protocol - PAC, Front Desk, and Customer Service.pdf |  | PAR |
-| Karin Girgis, OD - Start Date 8/18/2025 | PLEASE ASK THE PATIENT FOR THE HEALTH PLAN NAME ON THE CARD. IF THE PAYER IS NOT LOADED INTO THE SYSTEM, USE: INS NOT IN NEXTGEN. SEE: Generic Insurance Protocol - PAC, Front Desk, and Customer Service.pdf |  | Non-PAR |
+| Karin Girgis, OD | PLEASE ASK THE PATIENT FOR THE HEALTH PLAN NAME ON THE CARD. IF THE PAYER IS NOT LOADED INTO THE SYSTEM, USE: INS NOT IN NEXTGEN. SEE: Generic Insurance Protocol - PAC, Front Desk, and Customer Service.pdf |  | Non-PAR |
 | Mari Holderby, OD | PLEASE ASK THE PATIENT FOR THE HEALTH PLAN NAME ON THE CARD. IF THE PAYER IS NOT LOADED INTO THE SYSTEM, USE: INS NOT IN NEXTGEN. SEE: Generic Insurance Protocol - PAC, Front Desk, and Customer Service.pdf |  | PAR |
 | Scot Holman, MD | PLEASE ASK THE PATIENT FOR THE HEALTH PLAN NAME ON THE CARD. IF THE PAYER IS NOT LOADED INTO THE SYSTEM, USE: INS NOT IN NEXTGEN. SEE: Generic Insurance Protocol - PAC, Front Desk, and Customer Service.pdf |  | PAR |
 | Scott Wehrly, MD | PLEASE ASK THE PATIENT FOR THE HEALTH PLAN NAME ON THE CARD. IF THE PAYER IS NOT LOADED INTO THE SYSTEM, USE: INS NOT IN NEXTGEN. SEE: Generic Insurance Protocol - PAC, Front Desk, and Customer Service.pdf |  | PAR |

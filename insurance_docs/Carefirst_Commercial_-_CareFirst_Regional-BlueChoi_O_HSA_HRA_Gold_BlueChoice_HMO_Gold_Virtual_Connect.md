@@ -21,6 +21,7 @@
 | James Lenhart, OD | Carefirst BCBS Commercial HMO | No Ref/No Auth Required | PAR |
 | Joaquin De Rojas, MD | Carefirst BCBS Commercial HMO | No Ref/No Auth Required | PAR |
 | John Fezza, MD (Oculoplastics) | Carefirst BCBS Commercial HMO | No Ref/No Auth Required | PAR |
+| Jordan Shoemaker, PA - Start Date 10/06/2025 | Carefirst BCBS Commercial HMO | No Ref/No Auth Required | PAR |
 | Joseph Sowka, OD | Carefirst BCBS Commercial HMO | No Ref/No Auth Required | PAR |
 | Joshua Kim, MD | Carefirst BCBS Commercial HMO | No Ref/No Auth Required | PAR |
 | Joshua Newman, MD | Carefirst BCBS Commercial HMO | No Ref/No Auth Required | PAR |
@@ -43,7 +44,6 @@
 | Tanuj Banker, MD (RETINA) | Carefirst BCBS Commercial HMO | No Ref/No Auth Required | PAR |
 | Todd Lang, OD | Carefirst BCBS Commercial HMO | No Ref/No Auth Required | PAR |
 | Trisha Werner, OD | Carefirst BCBS Commercial HMO | No Ref/No Auth Required | PAR |
-| William Soscia, MD | Carefirst BCBS Commercial HMO | No Ref/No Auth Required | PAR |
 
 </details>
 

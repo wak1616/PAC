@@ -21,6 +21,7 @@
 | James Lenhart, OD | Priority Health Medicare HMO - Multiplan | No Ref/No Auth Required | PAR |
 | Joaquin De Rojas, MD | Priority Health Medicare HMO - Multiplan | No Ref/No Auth Required | PAR |
 | John Fezza, MD (Oculoplastics) | Priority Health Medicare HMO - Multiplan | No Ref/No Auth Required | PAR |
+| Jordan Shoemaker, PA - Start Date 10/06/2025 | Priority Health Medicare HMO - Multiplan | No Ref/No Auth Required | PAR |
 | Joseph Sowka, OD | Priority Health Medicare HMO - Multiplan | No Ref/No Auth Required | PAR |
 | Joshua Kim, MD | Priority Health Medicare HMO - Multiplan | No Ref/No Auth Required | PAR |
 | Joshua Newman, MD | Priority Health Medicare HMO - Multiplan | No Ref/No Auth Required | PAR |
@@ -43,7 +44,6 @@
 | Tanuj Banker, MD (RETINA) | Priority Health Medicare HMO - Multiplan | No Ref/No Auth Required | PAR |
 | Todd Lang, OD | Priority Health Medicare HMO - Multiplan | No Ref/No Auth Required | PAR |
 | Trisha Werner, OD | Priority Health Medicare HMO - Multiplan | No Ref/No Auth Required | PAR |
-| William Soscia, MD | Priority Health Medicare HMO - Multiplan | No Ref/No Auth Required | PAR |
 
 ## Center for Sight-Naples
 

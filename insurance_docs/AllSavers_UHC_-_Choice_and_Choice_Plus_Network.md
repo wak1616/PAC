@@ -21,6 +21,7 @@
 | James Lenhart, OD | UHC All Savers-81400 | No Ref/No Auth Required | PAR |
 | Joaquin De Rojas, MD | UHC All Savers-81400 | No Ref/No Auth Required | PAR |
 | John Fezza, MD (Oculoplastics) | UHC All Savers-81400 | No Ref/No Auth Required | PAR |
+| Jordan Shoemaker, PA - Start Date 10/06/2025 | UHC All Savers-81400 | No Ref/No Auth Required | Non-PAR |
 | Joseph Sowka, OD | UHC All Savers-81400 | No Ref/No Auth Required | PAR |
 | Joshua Kim, MD | UHC All Savers-81400 | No Ref/No Auth Required | PAR |
 | Joshua Newman, MD | UHC All Savers-81400 | No Ref/No Auth Required | PAR |
@@ -43,7 +44,6 @@
 | Tanuj Banker, MD (RETINA) | UHC All Savers-81400 | No Ref/No Auth Required | PAR |
 | Todd Lang, OD | UHC All Savers-81400 | No Ref/No Auth Required | PAR |
 | Trisha Werner, OD | UHC All Savers-81400 | No Ref/No Auth Required | PAR |
-| William Soscia, MD | UHC All Savers-81400 | No Ref/No Auth Required | PAR |
 
 </details>
 

@@ -12,7 +12,7 @@
 | Christine Bui, OD | UHP Management PPO | No Ref/No Auth Required | PAR |
 | Diba Ossareh, OD | UHP Management PPO | No Ref/No Auth Required | PAR |
 | Jose Vazques-Diaz, MD | UHP Management PPO | No Ref/No Auth Required | PAR |
-| Karin Girgis, OD - Start Date 8/18/2025 | UHP Management PPO | No Ref/No Auth Required | Non-PAR |
+| Karin Girgis, OD | UHP Management PPO | No Ref/No Auth Required | Non-PAR |
 | Mari Holderby, OD | UHP Management PPO | No Ref/No Auth Required | PAR |
 | Scot Holman, MD | UHP Management PPO | No Ref/No Auth Required | PAR |
 | Scott Wehrly, MD | UHP Management PPO | No Ref/No Auth Required | PAR |

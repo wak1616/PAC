@@ -21,6 +21,7 @@
 | James Lenhart, OD | Spectera Vision | No Ref/No Auth Required | Non-PAR |
 | Joaquin De Rojas, MD | Spectera Vision | No Ref/No Auth Required | Non-PAR |
 | John Fezza, MD (Oculoplastics) | Spectera Vision | No Ref/No Auth Required | Non-PAR |
+| Jordan Shoemaker, PA - Start Date 10/06/2025 | Spectera Vision | No Ref/No Auth Required | Non-PAR |
 | Joseph Sowka, OD | Spectera Vision | No Ref/No Auth Required | Non-PAR |
 | Joshua Kim, MD | Spectera Vision | No Ref/No Auth Required | Non-PAR |
 | Joshua Newman, MD | Spectera Vision | No Ref/No Auth Required | Non-PAR |
@@ -43,7 +44,6 @@
 | Tanuj Banker, MD (RETINA) | Spectera Vision | No Ref/No Auth Required | Non-PAR |
 | Todd Lang, OD | Spectera Vision | No Ref/No Auth Required | Non-PAR |
 | Trisha Werner, OD | Spectera Vision | No Ref/No Auth Required | Non-PAR |
-| William Soscia, MD | Spectera Vision | No Ref/No Auth Required | Non-PAR |
 
 ## Center for Sight-Naples
 
@@ -62,7 +62,7 @@
 | Christine Bui, OD | Spectera Vision | No Ref/No Auth Required | PAR |
 | Diba Ossareh, OD | Spectera Vision | No Ref/No Auth Required | PAR |
 | Jose Vazques-Diaz, MD | Spectera Vision | No Ref/No Auth Required | PAR |
-| Karin Girgis, OD - Start Date 8/18/2025 | Spectera Vision | No Ref/No Auth Required | Non-PAR |
+| Karin Girgis, OD | Spectera Vision | No Ref/No Auth Required | Non-PAR |
 | Mari Holderby, OD | Spectera Vision | No Ref/No Auth Required | PAR |
 | Scot Holman, MD | Spectera Vision | No Ref/No Auth Required | PAR |
 | Scott Wehrly, MD | Spectera Vision | No Ref/No Auth Required | PAR |

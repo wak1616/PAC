@@ -21,6 +21,7 @@
 | James Lenhart, OD | Cigna Commercial HMO | No Ref/No Auth Required | Non-PAR |
 | Joaquin De Rojas, MD | Cigna Commercial HMO | No Ref/No Auth Required | Non-PAR |
 | John Fezza, MD (Oculoplastics) | Cigna Commercial HMO | No Ref/No Auth Required | Non-PAR |
+| Jordan Shoemaker, PA - Start Date 10/06/2025 | Cigna Commercial HMO | No Ref/No Auth Required | Non-PAR |
 | Joseph Sowka, OD | Cigna Commercial HMO | No Ref/No Auth Required | Non-PAR |
 | Joshua Kim, MD | Cigna Commercial HMO | No Ref/No Auth Required | Non-PAR |
 | Joshua Newman, MD | Cigna Commercial HMO | No Ref/No Auth Required | Non-PAR |
@@ -43,7 +44,6 @@
 | Tanuj Banker, MD (RETINA) | Cigna Commercial HMO | No Ref/No Auth Required | Non-PAR |
 | Todd Lang, OD | Cigna Commercial HMO | No Ref/No Auth Required | Non-PAR |
 | Trisha Werner, OD | Cigna Commercial HMO | No Ref/No Auth Required | Non-PAR |
-| William Soscia, MD | Cigna Commercial HMO | No Ref/No Auth Required | Non-PAR |
 
 </details>
 

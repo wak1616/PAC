@@ -21,6 +21,7 @@
 | James Lenhart, OD | BCBS OOS MDCR HMO POS - REFERRAL REQ | Referral Required | PAR |
 | Joaquin De Rojas, MD | BCBS OOS MDCR HMO POS - REFERRAL REQ | Referral Required | PAR |
 | John Fezza, MD (Oculoplastics) | BCBS OOS MDCR HMO POS - REFERRAL REQ | Referral Required | PAR |
+| Jordan Shoemaker, PA - Start Date 10/06/2025 | BCBS OOS MDCR HMO POS - REFERRAL REQ | Referral Required | PAR |
 | Joseph Sowka, OD | BCBS OOS MDCR HMO POS - REFERRAL REQ | Referral Required | PAR |
 | Joshua Kim, MD | BCBS OOS MDCR HMO POS - REFERRAL REQ | Referral Required | PAR |
 | Joshua Newman, MD | BCBS OOS MDCR HMO POS - REFERRAL REQ | Referral Required | PAR |
@@ -43,7 +44,6 @@
 | Tanuj Banker, MD (RETINA) | BCBS OOS MDCR HMO POS - REFERRAL REQ | Referral Required | PAR |
 | Todd Lang, OD | BCBS OOS MDCR HMO POS - REFERRAL REQ | Referral Required | PAR |
 | Trisha Werner, OD | BCBS OOS MDCR HMO POS - REFERRAL REQ | Referral Required | PAR |
-| William Soscia, MD | BCBS OOS MDCR HMO POS - REFERRAL REQ | Referral Required | PAR |
 
 ## Center for Sight-Naples
 
@@ -62,7 +62,7 @@
 | Christine Bui, OD | BCBS OOS MDCR HMO POS - REFERRAL REQ | Referral Required | PAR |
 | Diba Ossareh, OD | BCBS OOS MDCR HMO POS - REFERRAL REQ | Referral Required | PAR |
 | Jose Vazques-Diaz, MD | BCBS OOS MDCR HMO POS - REFERRAL REQ | Referral Required | PAR |
-| Karin Girgis, OD - Start Date 8/18/2025 | BCBS OOS MDCR HMO POS - REFERRAL REQ | Referral Required | Non-PAR |
+| Karin Girgis, OD | BCBS OOS MDCR HMO POS - REFERRAL REQ | Referral Required | Non-PAR |
 | Mari Holderby, OD | BCBS OOS MDCR HMO POS - REFERRAL REQ | Referral Required | PAR |
 | Scot Holman, MD | BCBS OOS MDCR HMO POS - REFERRAL REQ | Referral Required | PAR |
 | Scott Wehrly, MD | BCBS OOS MDCR HMO POS - REFERRAL REQ | Referral Required | PAR |

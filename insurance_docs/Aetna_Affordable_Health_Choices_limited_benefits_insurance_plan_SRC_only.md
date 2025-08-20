@@ -12,7 +12,7 @@
 | Christine Bui, OD | Aetna Comm Fixed Benefits PPO | No Ref/No Auth Required | PAR |
 | Diba Ossareh, OD | Aetna Comm Fixed Benefits PPO | No Ref/No Auth Required | PAR |
 | Jose Vazques-Diaz, MD | Aetna Comm Fixed Benefits PPO | No Ref/No Auth Required | PAR |
-| Karin Girgis, OD - Start Date 8/18/2025 | Aetna Comm Fixed Benefits PPO | No Ref/No Auth Required | Non-PAR |
+| Karin Girgis, OD | Aetna Comm Fixed Benefits PPO | No Ref/No Auth Required | PAR |
 | Mari Holderby, OD | Aetna Comm Fixed Benefits PPO | No Ref/No Auth Required | PAR |
 | Scot Holman, MD | Aetna Comm Fixed Benefits PPO | No Ref/No Auth Required | PAR |
 | Scott Wehrly, MD | Aetna Comm Fixed Benefits PPO | No Ref/No Auth Required | PAR |

@@ -21,6 +21,7 @@
 | James Lenhart, OD | Cigna Medicare PPO |  | PAR |
 | Joaquin De Rojas, MD | Cigna Medicare PPO |  | PAR |
 | John Fezza, MD (Oculoplastics) | Cigna Medicare PPO |  | PAR |
+| Jordan Shoemaker, PA - Start Date 10/06/2025 | Cigna Medicare PPO |  | Non-PAR |
 | Joseph Sowka, OD | Cigna Medicare PPO |  | PAR |
 | Joshua Kim, MD | Cigna Medicare PPO |  | PAR |
 | Joshua Newman, MD | Cigna Medicare PPO |  | PAR |
@@ -43,7 +44,6 @@
 | Tanuj Banker, MD (RETINA) | Cigna Medicare PPO |  | PAR |
 | Todd Lang, OD | Cigna Medicare PPO |  | PAR |
 | Trisha Werner, OD | Cigna Medicare PPO |  | PAR |
-| William Soscia, MD | Cigna Medicare PPO |  | PAR |
 
 ## Center for Sight-Naples
 

@@ -21,11 +21,12 @@
 | James Lenhart, OD | Meritain Health SMH Extd  Pln | Authorization MAY be Required | PAR |
 | Joaquin De Rojas, MD | Meritain Health SMH Extd  Pln | Authorization MAY be Required | PAR |
 | John Fezza, MD (Oculoplastics) | Meritain Health SMH Extd  Pln | Authorization MAY be Required | PAR |
+| Jordan Shoemaker, PA - Start Date 10/06/2025 | Meritain Health SMH Extd  Pln | Authorization MAY be Required | Non-PAR |
 | Joseph Sowka, OD | Meritain Health SMH Extd  Pln | Authorization MAY be Required | PAR |
 | Joshua Kim, MD | Meritain Health SMH Extd  Pln | Authorization MAY be Required | PAR |
 | Joshua Newman, MD | Meritain Health SMH Extd  Pln | Authorization MAY be Required | PAR |
 | Kalie Kosek, PA | Meritain Health SMH Extd  Pln | Authorization MAY be Required | PAR |
-| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | Meritain Health SMH Extd  Pln | Authorization MAY be Required | Non-PAR |
+| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | Meritain Health SMH Extd  Pln | Authorization MAY be Required | PAR |
 | Kyle Schaub, OD | Meritain Health SMH Extd  Pln | Authorization MAY be Required | PAR |
 | Len Brown, OD | Meritain Health SMH Extd  Pln | Authorization MAY be Required | PAR |
 | Logan Page, OD | Meritain Health SMH Extd  Pln | Authorization MAY be Required | PAR |
@@ -43,7 +44,6 @@
 | Tanuj Banker, MD (RETINA) | Meritain Health SMH Extd  Pln | Authorization MAY be Required | PAR |
 | Todd Lang, OD | Meritain Health SMH Extd  Pln | Authorization MAY be Required | PAR |
 | Trisha Werner, OD | Meritain Health SMH Extd  Pln | Authorization MAY be Required | PAR |
-| William Soscia, MD | Meritain Health SMH Extd  Pln | Authorization MAY be Required | PAR |
 
 ## Center for Sight-Naples
 
@@ -62,7 +62,7 @@
 | Christine Bui, OD | Meritain Health SMH Extd  Pln | Authorization MAY be Required | Non-PAR |
 | Diba Ossareh, OD | Meritain Health SMH Extd  Pln | Authorization MAY be Required | Non-PAR |
 | Jose Vazques-Diaz, MD | Meritain Health SMH Extd  Pln | Authorization MAY be Required | Non-PAR |
-| Karin Girgis, OD - Start Date 8/18/2025 | Meritain Health SMH Extd  Pln | Authorization MAY be Required | Non-PAR |
+| Karin Girgis, OD | Meritain Health SMH Extd  Pln | Authorization MAY be Required | Non-PAR |
 | Mari Holderby, OD | Meritain Health SMH Extd  Pln | Authorization MAY be Required | Non-PAR |
 | Scot Holman, MD | Meritain Health SMH Extd  Pln | Authorization MAY be Required | Non-PAR |
 | Scott Wehrly, MD | Meritain Health SMH Extd  Pln | Authorization MAY be Required | Non-PAR |

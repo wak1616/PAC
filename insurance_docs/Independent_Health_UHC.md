@@ -21,6 +21,7 @@
 | James Lenhart, OD | Independent Health - UHC | No Ref/No Auth Required | PAR |
 | Joaquin De Rojas, MD | Independent Health - UHC | No Ref/No Auth Required | PAR |
 | John Fezza, MD (Oculoplastics) | Independent Health - UHC | No Ref/No Auth Required | PAR |
+| Jordan Shoemaker, PA - Start Date 10/06/2025 | Independent Health - UHC | No Ref/No Auth Required | Non-PAR |
 | Joseph Sowka, OD | Independent Health - UHC | No Ref/No Auth Required | PAR |
 | Joshua Kim, MD | Independent Health - UHC | No Ref/No Auth Required | PAR |
 | Joshua Newman, MD | Independent Health - UHC | No Ref/No Auth Required | PAR |
@@ -43,7 +44,6 @@
 | Tanuj Banker, MD (RETINA) | Independent Health - UHC | No Ref/No Auth Required | PAR |
 | Todd Lang, OD | Independent Health - UHC | No Ref/No Auth Required | PAR |
 | Trisha Werner, OD | Independent Health - UHC | No Ref/No Auth Required | PAR |
-| William Soscia, MD | Independent Health - UHC | No Ref/No Auth Required | PAR |
 
 ## Center for Sight-Naples
 

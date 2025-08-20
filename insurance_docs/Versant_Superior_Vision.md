@@ -21,6 +21,7 @@
 | James Lenhart, OD | Superior Vision | Authorization Required | PAR |
 | Joaquin De Rojas, MD | Superior Vision | Authorization Required | Non-PAR |
 | John Fezza, MD (Oculoplastics) | Superior Vision | Authorization Required | PAR |
+| Jordan Shoemaker, PA - Start Date 10/06/2025 | Superior Vision | Authorization Required | Non-PAR |
 | Joseph Sowka, OD | Superior Vision | Authorization Required | PAR |
 | Joshua Kim, MD | Superior Vision | Authorization Required | Non-PAR |
 | Joshua Newman, MD | Superior Vision | Authorization Required | PAR |
@@ -43,7 +44,6 @@
 | Tanuj Banker, MD (RETINA) | Superior Vision | Authorization Required | Non-PAR |
 | Todd Lang, OD | Superior Vision | Authorization Required | Non-PAR |
 | Trisha Werner, OD | Superior Vision | Authorization Required | Non-PAR |
-| William Soscia, MD | Superior Vision | Authorization Required | Non-PAR |
 
 ## Lake Eye 
 
@@ -53,7 +53,7 @@
 | Christine Bui, OD | Self Pay Non-Par with Ins |  | Non-PAR |
 | Diba Ossareh, OD | Self Pay Non-Par with Ins |  | Non-PAR |
 | Jose Vazques-Diaz, MD | Self Pay Non-Par with Ins |  | Non-PAR |
-| Karin Girgis, OD - Start Date 8/18/2025 | Self Pay Non-Par with Ins |  | Non-PAR |
+| Karin Girgis, OD | Self Pay Non-Par with Ins |  | Non-PAR |
 | Mari Holderby, OD | Self Pay Non-Par with Ins |  | Non-PAR |
 | Scot Holman, MD | Self Pay Non-Par with Ins |  | Non-PAR |
 | Scott Wehrly, MD | Self Pay Non-Par with Ins |  | Non-PAR |

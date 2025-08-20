@@ -21,11 +21,12 @@
 | James Lenhart, OD | Eyemed Vision | No Ref/No Auth Required | PAR |
 | Joaquin De Rojas, MD | Eyemed Vision | No Ref/No Auth Required | Non-PAR |
 | John Fezza, MD (Oculoplastics) | Eyemed Vision | No Ref/No Auth Required | Non-PAR |
+| Jordan Shoemaker, PA - Start Date 10/06/2025 | Eyemed Vision | No Ref/No Auth Required | Non-PAR |
 | Joseph Sowka, OD | Eyemed Vision | No Ref/No Auth Required | PAR |
 | Joshua Kim, MD | Eyemed Vision | No Ref/No Auth Required | Non-PAR |
 | Joshua Newman, MD | Eyemed Vision | No Ref/No Auth Required | Non-PAR |
 | Kalie Kosek, PA | Eyemed Vision | No Ref/No Auth Required | Non-PAR |
-| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | Eyemed Vision | No Ref/No Auth Required | Non-PAR |
+| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | Eyemed Vision | No Ref/No Auth Required | PAR |
 | Kyle Schaub, OD | Eyemed Vision | No Ref/No Auth Required | PAR |
 | Len Brown, OD | Eyemed Vision | No Ref/No Auth Required | PAR |
 | Logan Page, OD | Eyemed Vision | No Ref/No Auth Required | PAR |
@@ -43,14 +44,13 @@
 | Tanuj Banker, MD (RETINA) | Eyemed Vision | No Ref/No Auth Required | PAR |
 | Todd Lang, OD | Eyemed Vision | No Ref/No Auth Required | Non-PAR |
 | Trisha Werner, OD | Eyemed Vision | No Ref/No Auth Required | PAR |
-| William Soscia, MD | Eyemed Vision | No Ref/No Auth Required | Non-PAR |
 
 ## Center for Sight-Naples
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
 | George Brinnig-Jastrzebski, MD | EyeMed Vision |  | Non-PAR |
-| Jenna Getman, OD - Start Date 9/29/2025 | EyeMed Vision |  | Non-PAR |
+| Jenna Getman, OD - Start Date 9/29/2025 | EyeMed Vision |  | PAR |
 | Jon Berlie, MD | EyeMed Vision |  | Non-PAR |
 | Julie Carter, MD | EyeMed Vision |  | PAR |
 
@@ -62,7 +62,7 @@
 | Christine Bui, OD | Eyemed Vision | No Ref/No Auth Required | PAR |
 | Diba Ossareh, OD | Eyemed Vision | No Ref/No Auth Required | PAR |
 | Jose Vazques-Diaz, MD | Eyemed Vision | No Ref/No Auth Required | Non-PAR |
-| Karin Girgis, OD - Start Date 8/18/2025 | Eyemed Vision | No Ref/No Auth Required | Non-PAR |
+| Karin Girgis, OD | Eyemed Vision | No Ref/No Auth Required | PAR |
 | Mari Holderby, OD | Eyemed Vision | No Ref/No Auth Required | PAR |
 | Scot Holman, MD | Eyemed Vision | No Ref/No Auth Required | Non-PAR |
 | Scott Wehrly, MD | Eyemed Vision | No Ref/No Auth Required | Non-PAR |

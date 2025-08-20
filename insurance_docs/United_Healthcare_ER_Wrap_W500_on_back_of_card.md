@@ -21,6 +21,7 @@
 | James Lenhart, OD | UHC ER Wrap | Authorization Required | PAR |
 | Joaquin De Rojas, MD | UHC ER Wrap | Authorization Required | PAR |
 | John Fezza, MD (Oculoplastics) | UHC ER Wrap | Authorization Required | PAR |
+| Jordan Shoemaker, PA - Start Date 10/06/2025 | UHC ER Wrap | Authorization Required | Non-PAR |
 | Joseph Sowka, OD | UHC ER Wrap | Authorization Required | PAR |
 | Joshua Kim, MD | UHC ER Wrap | Authorization Required | PAR |
 | Joshua Newman, MD | UHC ER Wrap | Authorization Required | PAR |
@@ -43,7 +44,6 @@
 | Tanuj Banker, MD (RETINA) | UHC ER Wrap | Authorization Required | PAR |
 | Todd Lang, OD | UHC ER Wrap | Authorization Required | PAR |
 | Trisha Werner, OD | UHC ER Wrap | Authorization Required | PAR |
-| William Soscia, MD | UHC ER Wrap | Authorization Required | PAR |
 
 ## Center for Sight-Naples
 
@@ -62,7 +62,7 @@
 | Christine Bui, OD | UHC ER Wrap | Authorization Required | PAR |
 | Diba Ossareh, OD | UHC ER Wrap | Authorization Required | PAR |
 | Jose Vazques-Diaz, MD | UHC ER Wrap | Authorization Required | PAR |
-| Karin Girgis, OD - Start Date 8/18/2025 | UHC ER Wrap | Authorization Required | Non-PAR |
+| Karin Girgis, OD | UHC ER Wrap | Authorization Required | Non-PAR |
 | Mari Holderby, OD | UHC ER Wrap | Authorization Required | PAR |
 | Scot Holman, MD | UHC ER Wrap | Authorization Required | PAR |
 | Scott Wehrly, MD | UHC ER Wrap | Authorization Required | PAR |

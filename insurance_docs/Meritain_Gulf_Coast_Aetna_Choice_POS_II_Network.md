@@ -21,11 +21,12 @@
 | James Lenhart, OD | Meritain Health Commercial - Aetna | No Ref/No Auth Required | PAR |
 | Joaquin De Rojas, MD | Meritain Health Commercial - Aetna | No Ref/No Auth Required | PAR |
 | John Fezza, MD (Oculoplastics) | Meritain Health Commercial - Aetna | No Ref/No Auth Required | PAR |
+| Jordan Shoemaker, PA - Start Date 10/06/2025 | Meritain Health Commercial - Aetna | No Ref/No Auth Required | Non-PAR |
 | Joseph Sowka, OD | Meritain Health Commercial - Aetna | No Ref/No Auth Required | PAR |
 | Joshua Kim, MD | Meritain Health Commercial - Aetna | No Ref/No Auth Required | PAR |
 | Joshua Newman, MD | Meritain Health Commercial - Aetna | No Ref/No Auth Required | PAR |
 | Kalie Kosek, PA | Meritain Health Commercial - Aetna | No Ref/No Auth Required | PAR |
-| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | Meritain Health Commercial - Aetna | No Ref/No Auth Required | Non-PAR |
+| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | Meritain Health Commercial - Aetna | No Ref/No Auth Required | PAR |
 | Kyle Schaub, OD | Meritain Health Commercial - Aetna | No Ref/No Auth Required | PAR |
 | Len Brown, OD | Meritain Health Commercial - Aetna | No Ref/No Auth Required | PAR |
 | Logan Page, OD | Meritain Health Commercial - Aetna | No Ref/No Auth Required | PAR |
@@ -43,14 +44,13 @@
 | Tanuj Banker, MD (RETINA) | Meritain Health Commercial - Aetna | No Ref/No Auth Required | PAR |
 | Todd Lang, OD | Meritain Health Commercial - Aetna | No Ref/No Auth Required | PAR |
 | Trisha Werner, OD | Meritain Health Commercial - Aetna | No Ref/No Auth Required | PAR |
-| William Soscia, MD | Meritain Health Commercial - Aetna | No Ref/No Auth Required | PAR |
 
 ## Center for Sight-Naples
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
 | George Brinnig-Jastrzebski, MD | Meritain Health Commercial - Aetna | No Ref/No Auth Required | PAR |
-| Jenna Getman, OD - Start Date 9/29/2025 | Meritain Health Commercial - Aetna | No Ref/No Auth Required | Non-PAR |
+| Jenna Getman, OD - Start Date 9/29/2025 | Meritain Health Commercial - Aetna | No Ref/No Auth Required | PAR |
 | Jon Berlie, MD | Meritain Health Commercial - Aetna | No Ref/No Auth Required | PAR |
 | Julie Carter, MD | Meritain Health Commercial - Aetna | No Ref/No Auth Required | PAR |
 
@@ -62,7 +62,7 @@
 | Christine Bui, OD | Meritain Health Commercial - Aetna | No Ref/No Auth Required | PAR |
 | Diba Ossareh, OD | Meritain Health Commercial - Aetna | No Ref/No Auth Required | PAR |
 | Jose Vazques-Diaz, MD | Meritain Health Commercial - Aetna | No Ref/No Auth Required | PAR |
-| Karin Girgis, OD - Start Date 8/18/2025 | Meritain Health Commercial - Aetna | No Ref/No Auth Required | Non-PAR |
+| Karin Girgis, OD | Meritain Health Commercial - Aetna | No Ref/No Auth Required | PAR |
 | Mari Holderby, OD | Meritain Health Commercial - Aetna | No Ref/No Auth Required | PAR |
 | Scot Holman, MD | Meritain Health Commercial - Aetna | No Ref/No Auth Required | PAR |
 | Scott Wehrly, MD | Meritain Health Commercial - Aetna | No Ref/No Auth Required | PAR |

@@ -21,6 +21,7 @@
 | James Lenhart, OD | UHC Surest-25463 Commercial - UHC | No Ref/No Auth Required | PAR |
 | Joaquin De Rojas, MD | UHC Surest-25463 Commercial - UHC | No Ref/No Auth Required | PAR |
 | John Fezza, MD (Oculoplastics) | UHC Surest-25463 Commercial - UHC | No Ref/No Auth Required | PAR |
+| Jordan Shoemaker, PA - Start Date 10/06/2025 | UHC Surest-25463 Commercial - UHC | No Ref/No Auth Required | Non-PAR |
 | Joseph Sowka, OD | UHC Surest-25463 Commercial - UHC | No Ref/No Auth Required | PAR |
 | Joshua Kim, MD | UHC Surest-25463 Commercial - UHC | No Ref/No Auth Required | PAR |
 | Joshua Newman, MD | UHC Surest-25463 Commercial - UHC | No Ref/No Auth Required | PAR |
@@ -43,7 +44,6 @@
 | Tanuj Banker, MD (RETINA) | UHC Surest-25463 Commercial - UHC | No Ref/No Auth Required | PAR |
 | Todd Lang, OD | UHC Surest-25463 Commercial - UHC | No Ref/No Auth Required | PAR |
 | Trisha Werner, OD | UHC Surest-25463 Commercial - UHC | No Ref/No Auth Required | PAR |
-| William Soscia, MD | UHC Surest-25463 Commercial - UHC | No Ref/No Auth Required | PAR |
 
 ## Center for Sight-Naples
 
@@ -62,7 +62,7 @@
 | Christine Bui, OD | UHC Surest-25463 | No Ref/No Auth Required | PAR |
 | Diba Ossareh, OD | UHC Surest-25463 | No Ref/No Auth Required | PAR |
 | Jose Vazques-Diaz, MD | UHC Surest-25463 | No Ref/No Auth Required | PAR |
-| Karin Girgis, OD - Start Date 8/18/2025 | UHC Surest-25463 | No Ref/No Auth Required | Non-PAR |
+| Karin Girgis, OD | UHC Surest-25463 | No Ref/No Auth Required | Non-PAR |
 | Mari Holderby, OD | UHC Surest-25463 | No Ref/No Auth Required | PAR |
 | Scot Holman, MD | UHC Surest-25463 | No Ref/No Auth Required | PAR |
 | Scott Wehrly, MD | UHC Surest-25463 | No Ref/No Auth Required | PAR |

@@ -21,6 +21,7 @@
 | James Lenhart, OD | Tricare Prime HMO-REFERRAL REQ | Referral Required | Non-PAR -OON Benefits |
 | Joaquin De Rojas, MD | Tricare Prime HMO-REFERRAL REQ | Referral Required | Non-PAR -OON Benefits |
 | John Fezza, MD (Oculoplastics) | Tricare Prime HMO-REFERRAL REQ | Referral Required | Non-PAR -OON Benefits |
+| Jordan Shoemaker, PA - Start Date 10/06/2025 | Tricare Prime HMO-REFERRAL REQ | Referral Required | Non-PAR |
 | Joseph Sowka, OD | Tricare Prime HMO-REFERRAL REQ | Referral Required | Non-PAR -OON Benefits |
 | Joshua Kim, MD | Tricare Prime HMO-REFERRAL REQ | Referral Required | Non-PAR -OON Benefits |
 | Joshua Newman, MD | Tricare Prime HMO-REFERRAL REQ | Referral Required | Non-PAR -OON Benefits |
@@ -43,7 +44,6 @@
 | Tanuj Banker, MD (RETINA) | Tricare Prime HMO-REFERRAL REQ | Referral Required | Non-PAR -OON Benefits |
 | Todd Lang, OD | Tricare Prime HMO-REFERRAL REQ | Referral Required | Non-PAR -OON Benefits |
 | Trisha Werner, OD | Tricare Prime HMO-REFERRAL REQ | Referral Required | Non-PAR -OON Benefits |
-| William Soscia, MD | Tricare Prime HMO-REFERRAL REQ | Referral Required | Non-PAR -OON Benefits |
 
 ## Center for Sight-Naples
 

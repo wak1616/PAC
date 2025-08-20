@@ -21,6 +21,7 @@
 | James Lenhart, OD | WellCare Medicare PPO | Authorization MAY BE Required | Non-PAR -OON Benefits |
 | Joaquin De Rojas, MD | WellCare Medicare PPO | Authorization MAY BE Required | Non-PAR -OON Benefits |
 | John Fezza, MD (Oculoplastics) | WellCare Medicare PPO | Authorization MAY BE Required | Non-PAR -OON Benefits |
+| Jordan Shoemaker, PA - Start Date 10/06/2025 | WellCare Medicare PPO | Authorization MAY BE Required | Non-PAR -OON Benefits |
 | Joseph Sowka, OD | WellCare Medicare PPO | Authorization MAY BE Required | Non-PAR -OON Benefits |
 | Joshua Kim, MD | WellCare Medicare PPO | Authorization MAY BE Required | Non-PAR -OON Benefits |
 | Joshua Newman, MD | WellCare Medicare PPO | Authorization MAY BE Required | Non-PAR -OON Benefits |
@@ -43,7 +44,6 @@
 | Tanuj Banker, MD (RETINA) | WellCare Medicare PPO | Authorization MAY BE Required | Non-PAR -OON Benefits |
 | Todd Lang, OD | WellCare Medicare PPO | Authorization MAY BE Required | Non-PAR -OON Benefits |
 | Trisha Werner, OD | WellCare Medicare PPO | Authorization MAY BE Required | Non-PAR -OON Benefits |
-| William Soscia, MD | WellCare Medicare PPO | Authorization MAY BE Required | Non-PAR -OON Benefits |
 
 </details>
 

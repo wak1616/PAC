@@ -21,6 +21,7 @@
 | James Lenhart, OD | Avesis Vision | Authorization Required | Non-PAR |
 | Joaquin De Rojas, MD | Avesis Vision | Authorization Required | Non-PAR |
 | John Fezza, MD (Oculoplastics) | Avesis Vision | Authorization Required | Non-PAR |
+| Jordan Shoemaker, PA - Start Date 10/06/2025 | Avesis Vision | Authorization Required | Non-PAR |
 | Joseph Sowka, OD | Avesis Vision | Authorization Required | Non-PAR |
 | Joshua Kim, MD | Avesis Vision | Authorization Required | Non-PAR |
 | Joshua Newman, MD | Avesis Vision | Authorization Required | Non-PAR |
@@ -43,7 +44,6 @@
 | Tanuj Banker, MD (RETINA) | Avesis Vision | Authorization Required | Non-PAR |
 | Todd Lang, OD | Avesis Vision | Authorization Required | Non-PAR |
 | Trisha Werner, OD | Avesis Vision | Authorization Required | Non-PAR |
-| William Soscia, MD | Avesis Vision | Authorization Required | Non-PAR |
 
 ## Center for Sight-Naples
 
@@ -62,7 +62,7 @@
 | Christine Bui, OD | Self Pay Non-Par with Ins |  | Non-PAR |
 | Diba Ossareh, OD | Self Pay Non-Par with Ins |  | Non-PAR |
 | Jose Vazques-Diaz, MD | Self Pay Non-Par with Ins |  | Non-PAR |
-| Karin Girgis, OD - Start Date 8/18/2025 | Self Pay Non-Par with Ins |  | Non-PAR |
+| Karin Girgis, OD | Self Pay Non-Par with Ins |  | Non-PAR |
 | Mari Holderby, OD | Self Pay Non-Par with Ins |  | Non-PAR |
 | Scot Holman, MD | Self Pay Non-Par with Ins |  | Non-PAR |
 | Scott Wehrly, MD | Self Pay Non-Par with Ins |  | Non-PAR |

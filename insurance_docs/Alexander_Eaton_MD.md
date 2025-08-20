@@ -65,6 +65,7 @@
 | BCBS of FL BlueMedicare Value PPO/ BlueMedicare Value w. Level 1 - PLEASE DO NOT SCHEDULE ANY APPTS AFTER 12/31/2024 AS THIS PLAN IS NO LONGER OFFERED AS OF 01/01/2025 FOR RHC-NAPLES OFFICE ONLY | BCBS FL Medicare PPO | No Ref/No Auth Required | PAR |
 | BCBS of FL BlueOptions/Blue Options Hospital Surgical Plus/Blue Options with Pediactric Vision/Commercial PPO | BCBS FL Commercial PPO |  | PAR |
 | BCBS of FL Federal Employee Program - alpha prefix R | BCBS Federal | No Ref/No Auth Required | PAR |
+| BCBS Select Bronze PPO - PLAN HAS OON BENEFITS. PLEASE CALL INSURANCE TO CONFIRM IF PLAN HAS OON BENEFITS | Self Pay Non-Par with Ins |  | Non-PAR |
 | BCBS Out of State California ONLY | Self Pay Non-Par with Ins | Authorization Required | PAR |
 | BCBS Out of State Commercial PPO Plans -all plans that are not BCBS of Florida; please ask the patient to check the front and back copy of the card for the state. If the card says "Anthem", please see ANTHEM on the insurance guide | BCBS Out of State Commercial PPO | No Ref/No Auth Required | PAR |
 | BCBS Out of State HMO Plans - ALL PLANS Commercial and Medicare HMO PLANS | Self Pay Non-Par with Ins |  | Non-PAR |

@@ -9,7 +9,7 @@
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
 | George Brinnig-Jastrzebski, MD | Aetna Medicare PPO | No Ref/No Auth Required | PAR |
-| Jenna Getman, OD - Start Date 9/29/2025 | Aetna Medicare PPO | No Ref/No Auth Required | Non-PAR |
+| Jenna Getman, OD - Start Date 9/29/2025 | Aetna Medicare PPO | No Ref/No Auth Required | PAR |
 | Jon Berlie, MD | Aetna Medicare PPO | No Ref/No Auth Required | PAR |
 | Julie Carter, MD | Aetna Medicare PPO | No Ref/No Auth Required | PAR |
 
@@ -21,7 +21,7 @@
 | Christine Bui, OD | Aetna Medicare PPO | No Ref/No Auth Required | PAR |
 | Diba Ossareh, OD | Aetna Medicare PPO | No Ref/No Auth Required | PAR |
 | Jose Vazques-Diaz, MD | Aetna Medicare PPO | No Ref/No Auth Required | PAR |
-| Karin Girgis, OD - Start Date 8/18/2025 | Aetna Medicare PPO | No Ref/No Auth Required | Non-PAR |
+| Karin Girgis, OD | Aetna Medicare PPO | No Ref/No Auth Required | PAR |
 | Mari Holderby, OD | Aetna Medicare PPO | No Ref/No Auth Required | PAR |
 | Scot Holman, MD | Aetna Medicare PPO | No Ref/No Auth Required | PAR |
 | Scott Wehrly, MD | Aetna Medicare PPO | No Ref/No Auth Required | PAR |

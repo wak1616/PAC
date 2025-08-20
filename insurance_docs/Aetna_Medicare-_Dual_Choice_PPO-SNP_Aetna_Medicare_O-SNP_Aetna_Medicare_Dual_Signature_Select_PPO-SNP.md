@@ -12,7 +12,7 @@
 | Christine Bui, OD | Primary: Aetna Dual Complete Medicare PPO Primary                                                   Secondary: Aetna Dual Complete MCD PPO Secondary | No Ref/No Auth Required | PAR |
 | Diba Ossareh, OD | Primary: Aetna Dual Complete Medicare PPO Primary                                                   Secondary: Aetna Dual Complete MCD PPO Secondary | No Ref/No Auth Required | PAR |
 | Jose Vazques-Diaz, MD | Primary: Aetna Dual Complete Medicare PPO Primary                                                   Secondary: Aetna Dual Complete MCD PPO Secondary | No Ref/No Auth Required | PAR |
-| Karin Girgis, OD - Start Date 8/18/2025 | Primary: Aetna Dual Complete Medicare PPO Primary                                                   Secondary: Aetna Dual Complete MCD PPO Secondary | No Ref/No Auth Required | Non-PAR |
+| Karin Girgis, OD | Primary: Aetna Dual Complete Medicare PPO Primary                                                   Secondary: Aetna Dual Complete MCD PPO Secondary | No Ref/No Auth Required | PAR |
 | Mari Holderby, OD | Primary: Aetna Dual Complete Medicare PPO Primary                                                   Secondary: Aetna Dual Complete MCD PPO Secondary | No Ref/No Auth Required | PAR |
 | Scot Holman, MD | Primary: Aetna Dual Complete Medicare PPO Primary                                                   Secondary: Aetna Dual Complete MCD PPO Secondary | No Ref/No Auth Required | PAR |
 | Scott Wehrly, MD | Primary: Aetna Dual Complete Medicare PPO Primary                                                   Secondary: Aetna Dual Complete MCD PPO Secondary | No Ref/No Auth Required | PAR |

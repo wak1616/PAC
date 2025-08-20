@@ -21,6 +21,7 @@
 | James Lenhart, OD | Railroad Medicare | No Ref/No Auth Required | PAR |
 | Joaquin De Rojas, MD | Railroad Medicare | No Ref/No Auth Required | PAR |
 | John Fezza, MD (Oculoplastics) | Railroad Medicare | No Ref/No Auth Required | PAR |
+| Jordan Shoemaker, PA - Start Date 10/06/2025 | Railroad Medicare | No Ref/No Auth Required | Non-PAR |
 | Joseph Sowka, OD | Railroad Medicare | No Ref/No Auth Required | PAR |
 | Joshua Kim, MD | Railroad Medicare | No Ref/No Auth Required | PAR |
 | Joshua Newman, MD | Railroad Medicare | No Ref/No Auth Required | PAR |
@@ -43,7 +44,6 @@
 | Tanuj Banker, MD (RETINA) | Railroad Medicare | No Ref/No Auth Required | PAR |
 | Todd Lang, OD | Railroad Medicare | No Ref/No Auth Required | PAR |
 | Trisha Werner, OD | Railroad Medicare | No Ref/No Auth Required | PAR |
-| William Soscia, MD | Railroad Medicare | No Ref/No Auth Required | PAR |
 
 ## Center for Sight-Naples
 
@@ -62,7 +62,7 @@
 | Christine Bui, OD | Railroad Medicare | No Ref/No Auth Required | PAR |
 | Diba Ossareh, OD | Railroad Medicare | No Ref/No Auth Required | PAR |
 | Jose Vazques-Diaz, MD | Railroad Medicare | No Ref/No Auth Required | PAR |
-| Karin Girgis, OD - Start Date 8/18/2025 | Railroad Medicare | No Ref/No Auth Required | Non-PAR -Ok to schedule |
+| Karin Girgis, OD | Railroad Medicare | No Ref/No Auth Required | Non-PAR -Ok to schedule |
 | Mari Holderby, OD | Railroad Medicare | No Ref/No Auth Required | PAR |
 | Scot Holman, MD | Railroad Medicare | No Ref/No Auth Required | PAR |
 | Scott Wehrly, MD | Railroad Medicare | No Ref/No Auth Required | PAR |

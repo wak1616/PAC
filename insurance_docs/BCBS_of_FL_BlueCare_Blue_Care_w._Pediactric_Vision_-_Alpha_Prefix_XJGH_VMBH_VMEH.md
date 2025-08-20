@@ -21,6 +21,7 @@
 | James Lenhart, OD | BCBS FL Commercial HMO | Authorization Required | PAR |
 | Joaquin De Rojas, MD | BCBS FL Commercial HMO | Authorization Required | PAR |
 | John Fezza, MD (Oculoplastics) | BCBS FL Commercial HMO | Authorization Required | PAR |
+| Jordan Shoemaker, PA - Start Date 10/06/2025 | BCBS FL Commercial HMO | Authorization Required | PAR |
 | Joseph Sowka, OD | BCBS FL Commercial HMO | Authorization Required | PAR |
 | Joshua Kim, MD | BCBS FL Commercial HMO | Authorization Required | PAR |
 | Joshua Newman, MD | BCBS FL Commercial HMO | Authorization Required | PAR |
@@ -43,7 +44,6 @@
 | Tanuj Banker, MD (RETINA) | BCBS FL Commercial HMO | Authorization Required | Non-PAR |
 | Todd Lang, OD | BCBS FL Commercial HMO | Authorization Required | PAR |
 | Trisha Werner, OD | BCBS FL Commercial HMO | Authorization Required | PAR |
-| William Soscia, MD | BCBS FL Commercial HMO | Authorization Required | PAR |
 
 ## Center for Sight-Naples
 
@@ -62,7 +62,7 @@
 | Christine Bui, OD | BCBS FL myBlue HMO REFERRAL REQ | Referral Required | PAR |
 | Diba Ossareh, OD | BCBS FL myBlue HMO REFERRAL REQ | Referral Required | PAR |
 | Jose Vazques-Diaz, MD | BCBS FL myBlue HMO REFERRAL REQ | Referral Required | PAR |
-| Karin Girgis, OD - Start Date 8/18/2025 | BCBS FL myBlue HMO REFERRAL REQ | Referral Required | Non-PAR |
+| Karin Girgis, OD | BCBS FL myBlue HMO REFERRAL REQ | Referral Required | Non-PAR |
 | Mari Holderby, OD | BCBS FL myBlue HMO REFERRAL REQ | Referral Required | PAR |
 | Scot Holman, MD | BCBS FL myBlue HMO REFERRAL REQ | Referral Required | PAR |
 | Scott Wehrly, MD | BCBS FL myBlue HMO REFERRAL REQ | Referral Required | PAR |

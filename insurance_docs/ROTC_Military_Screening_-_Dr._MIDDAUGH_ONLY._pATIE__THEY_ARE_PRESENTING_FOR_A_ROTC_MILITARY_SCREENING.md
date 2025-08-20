@@ -21,6 +21,7 @@
 | James Lenhart, OD | Concorde Inc | Authorization Required- ROTC Fom is required for the Clinical Team | Non-PAR |
 | Joaquin De Rojas, MD | Concorde Inc | Authorization Required- ROTC Fom is required for the Clinical Team | Non-PAR |
 | John Fezza, MD (Oculoplastics) | Concorde Inc | Authorization Required- ROTC Fom is required for the Clinical Team | Non-PAR |
+| Jordan Shoemaker, PA - Start Date 10/06/2025 | Concorde Inc | Authorization Required- ROTC Fom is required for the Clinical Team | Non-PAR |
 | Joseph Sowka, OD | Concorde Inc | Authorization Required- ROTC Fom is required for the Clinical Team | Non-PAR |
 | Joshua Kim, MD | Concorde Inc | Authorization Required- ROTC Fom is required for the Clinical Team | Non-PAR |
 | Joshua Newman, MD | Concorde Inc | Authorization Required- ROTC Fom is required for the Clinical Team | Non-PAR |
@@ -43,7 +44,6 @@
 | Tanuj Banker, MD (RETINA) | Concorde Inc | Authorization Required- ROTC Fom is required for the Clinical Team | Non-PAR |
 | Todd Lang, OD | Concorde Inc | Authorization Required- ROTC Fom is required for the Clinical Team | Non-PAR |
 | Trisha Werner, OD | Concorde Inc | Authorization Required- ROTC Fom is required for the Clinical Team | Non-PAR |
-| William Soscia, MD | Concorde Inc | Authorization Required- ROTC Fom is required for the Clinical Team | Non-PAR |
 
 </details>
 

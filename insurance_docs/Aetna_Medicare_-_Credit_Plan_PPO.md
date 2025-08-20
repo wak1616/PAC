@@ -21,11 +21,12 @@
 | James Lenhart, OD | Aetna Medicare PPO | No Ref/No Auth Required | PAR |
 | Joaquin De Rojas, MD | Aetna Medicare PPO | No Ref/No Auth Required | PAR |
 | John Fezza, MD (Oculoplastics) | Aetna Medicare PPO | No Ref/No Auth Required | PAR |
+| Jordan Shoemaker, PA - Start Date 10/06/2025 | Aetna Medicare PPO | No Ref/No Auth Required | Non-PAR |
 | Joseph Sowka, OD | Aetna Medicare PPO | No Ref/No Auth Required | PAR |
 | Joshua Kim, MD | Aetna Medicare PPO | No Ref/No Auth Required | PAR |
 | Joshua Newman, MD | Aetna Medicare PPO | No Ref/No Auth Required | PAR |
 | Kalie Kosek, PA | Aetna Medicare PPO | No Ref/No Auth Required | PAR |
-| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | Aetna Medicare PPO | No Ref/No Auth Required | Non-PAR |
+| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | Aetna Medicare PPO | No Ref/No Auth Required | PAR |
 | Kyle Schaub, OD | Aetna Medicare PPO | No Ref/No Auth Required | PAR |
 | Len Brown, OD | Aetna Medicare PPO | No Ref/No Auth Required | PAR |
 | Logan Page, OD | Aetna Medicare PPO | No Ref/No Auth Required | PAR |
@@ -43,14 +44,13 @@
 | Tanuj Banker, MD (RETINA) | Aetna Medicare PPO | No Ref/No Auth Required | PAR |
 | Todd Lang, OD | Aetna Medicare PPO | No Ref/No Auth Required | PAR |
 | Trisha Werner, OD | Aetna Medicare PPO | No Ref/No Auth Required | PAR |
-| William Soscia, MD | Aetna Medicare PPO | No Ref/No Auth Required | PAR |
 
 ## Center for Sight-Naples
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
 | George Brinnig-Jastrzebski, MD | Aetna Medicare PPO | No Ref/No Auth Required | PAR |
-| Jenna Getman, OD - Start Date 9/29/2025 | Aetna Medicare PPO | No Ref/No Auth Required | Non-PAR |
+| Jenna Getman, OD - Start Date 9/29/2025 | Aetna Medicare PPO | No Ref/No Auth Required | PAR |
 | Jon Berlie, MD | Aetna Medicare PPO | No Ref/No Auth Required | PAR |
 | Julie Carter, MD | Aetna Medicare PPO | No Ref/No Auth Required | PAR |
 
@@ -62,7 +62,7 @@
 | Christine Bui, OD | Aetna Medicare PPO | No Ref/No Auth Required | PAR |
 | Diba Ossareh, OD | Aetna Medicare PPO | No Ref/No Auth Required | PAR |
 | Jose Vazques-Diaz, MD | Aetna Medicare PPO | No Ref/No Auth Required | PAR |
-| Karin Girgis, OD - Start Date 8/18/2025 | Aetna Medicare PPO | No Ref/No Auth Required | Non-PAR |
+| Karin Girgis, OD | Aetna Medicare PPO | No Ref/No Auth Required | PAR |
 | Mari Holderby, OD | Aetna Medicare PPO | No Ref/No Auth Required | PAR |
 | Scot Holman, MD | Aetna Medicare PPO | No Ref/No Auth Required | PAR |
 | Scott Wehrly, MD | Aetna Medicare PPO | No Ref/No Auth Required | PAR |

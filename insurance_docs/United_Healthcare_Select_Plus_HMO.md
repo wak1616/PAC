@@ -21,6 +21,7 @@
 | James Lenhart, OD | UHC Commercial HMO | No Ref/No Auth Required | PAR |
 | Joaquin De Rojas, MD | UHC Commercial HMO | No Ref/No Auth Required | PAR |
 | John Fezza, MD (Oculoplastics) | UHC Commercial HMO | No Ref/No Auth Required | PAR |
+| Jordan Shoemaker, PA - Start Date 10/06/2025 | UHC Commercial HMO | No Ref/No Auth Required | Non-PAR |
 | Joseph Sowka, OD | UHC Commercial HMO | No Ref/No Auth Required | PAR |
 | Joshua Kim, MD | UHC Commercial HMO | No Ref/No Auth Required | PAR |
 | Joshua Newman, MD | UHC Commercial HMO | No Ref/No Auth Required | PAR |
@@ -43,7 +44,6 @@
 | Tanuj Banker, MD (RETINA) | UHC Commercial HMO | No Ref/No Auth Required | PAR |
 | Todd Lang, OD | UHC Commercial HMO | No Ref/No Auth Required | PAR |
 | Trisha Werner, OD | UHC Commercial HMO | No Ref/No Auth Required | PAR |
-| William Soscia, MD | UHC Commercial HMO | No Ref/No Auth Required | PAR |
 
 ## Center for Sight-Naples
 
@@ -64,8 +64,8 @@
 | Diba Ossareh, OD | UHC Commercial HMO | No Ref/No Auth Required | PAR |
 | Jose Vazques-Diaz, MD | UHC Commercial HMO | No Ref/No Auth Required | PAR |
 | Jose Vazques-Diaz, MD | UHC Commercial HMO | Referral MAY Be Required | PAR |
-| Karin Girgis, OD - Start Date 8/18/2025 | UHC Commercial HMO | No Ref/No Auth Required | Non-PAR |
-| Karin Girgis, OD - Start Date 8/18/2025 | UHC Commercial HMO | Referral MAY Be Required | Non-PAR |
+| Karin Girgis, OD | UHC Commercial HMO | No Ref/No Auth Required | Non-PAR |
+| Karin Girgis, OD | UHC Commercial HMO | Referral MAY Be Required | Non-PAR |
 | Mari Holderby, OD | UHC Commercial HMO | No Ref/No Auth Required | PAR |
 | Scot Holman, MD | UHC Commercial HMO | No Ref/No Auth Required | PAR |
 | Scott Wehrly, MD | UHC Commercial HMO | No Ref/No Auth Required | PAR |

@@ -11,7 +11,7 @@
 | Alexandria Rawls, OD | UHC Harvard Pilgrim-39026 | No Ref/No Auth Required | PAR |
 | Diba Ossareh, OD | UHC Harvard Pilgrim-39026 | No Ref/No Auth Required | PAR |
 | Jose Vazques-Diaz, MD | UHC Harvard Pilgrim-39026 | No Ref/No Auth Required | PAR |
-| Karin Girgis, OD - Start Date 8/18/2025 | UHC Harvard Pilgrim-39026 | No Ref/No Auth Required | Non-PAR |
+| Karin Girgis, OD | UHC Harvard Pilgrim-39026 | No Ref/No Auth Required | Non-PAR |
 | Mari Holderby, OD | UHC Harvard Pilgrim-39026 | No Ref/No Auth Required | PAR |
 | Scot Holman, MD | UHC Harvard Pilgrim-39026 | No Ref/No Auth Required | PAR |
 | Scott Wehrly, MD | UHC Harvard Pilgrim-39026 | No Ref/No Auth Required | PAR |

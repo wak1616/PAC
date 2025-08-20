@@ -21,6 +21,7 @@
 | James Lenhart, OD | BCBS FL Commercial HMO-POS |  | PAR |
 | Joaquin De Rojas, MD | BCBS FL Commercial HMO-POS |  | PAR |
 | John Fezza, MD (Oculoplastics) | BCBS FL Commercial HMO-POS |  | PAR |
+| Jordan Shoemaker, PA - Start Date 10/06/2025 | BCBS FL Commercial HMO-POS |  | PAR |
 | Joseph Sowka, OD | BCBS FL Commercial HMO-POS |  | PAR |
 | Joshua Kim, MD | BCBS FL Commercial HMO-POS |  | PAR |
 | Joshua Newman, MD | BCBS FL Commercial HMO-POS |  | PAR |
@@ -43,7 +44,6 @@
 | Tanuj Banker, MD (RETINA) | BCBS FL Commercial HMO-POS |  | PAR |
 | Todd Lang, OD | BCBS FL Commercial HMO-POS |  | PAR |
 | Trisha Werner, OD | BCBS FL Commercial HMO-POS |  | PAR |
-| William Soscia, MD | BCBS FL Commercial HMO-POS |  | PAR |
 
 </details>
 

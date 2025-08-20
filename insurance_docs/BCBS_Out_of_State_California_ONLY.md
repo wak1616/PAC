@@ -21,6 +21,7 @@
 | James Lenhart, OD | BCBS OOS CA - REFERRAL AND AUTH REQ- | Authorization Required | PAR |
 | Joaquin De Rojas, MD | BCBS OOS CA - REFERRAL AND AUTH REQ- | Authorization Required | PAR |
 | John Fezza, MD (Oculoplastics) | BCBS OOS CA - REFERRAL AND AUTH REQ- | Authorization Required | PAR |
+| Jordan Shoemaker, PA - Start Date 10/06/2025 | BCBS OOS CA - REFERRAL AND AUTH REQ- | Authorization Required | PAR |
 | Joseph Sowka, OD | BCBS OOS CA - REFERRAL AND AUTH REQ- | Authorization Required | PAR |
 | Joshua Kim, MD | BCBS OOS CA - REFERRAL AND AUTH REQ- | Authorization Required | PAR |
 | Joshua Newman, MD | BCBS OOS CA - REFERRAL AND AUTH REQ- | Authorization Required | PAR |
@@ -43,7 +44,6 @@
 | Tanuj Banker, MD (RETINA) | BCBS OOS CA - REFERRAL AND AUTH REQ- | Authorization Required | PAR |
 | Todd Lang, OD | BCBS OOS CA - REFERRAL AND AUTH REQ- | Authorization Required | PAR |
 | Trisha Werner, OD | BCBS OOS CA - REFERRAL AND AUTH REQ- | Authorization Required | PAR |
-| William Soscia, MD | BCBS OOS CA - REFERRAL AND AUTH REQ- | Authorization Required | PAR |
 
 ## Center for Sight-Naples
 

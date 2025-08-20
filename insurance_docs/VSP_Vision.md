@@ -17,10 +17,11 @@
 | Elizabeth Davis, MD | Vision Service Plan | Authorization Required | Non-PAR |
 | Erin Hardie, OD | Vision Service Plan | Authorization Required | PAR |
 | George Hurwitz, OD | Vision Service Plan | Authorization Required | PAR |
-| Gisselle Vega Carraso | Vision Service Plan | Authorization Required | Non-PAR |
+| Gisselle Vega Carraso | Vision Service Plan | Authorization Required | PAR |
 | James Lenhart, OD | Vision Service Plan | Authorization Required | PAR |
 | Joaquin De Rojas, MD | Vision Service Plan | Authorization Required | Non-PAR |
 | John Fezza, MD (Oculoplastics) | Vision Service Plan | Authorization Required | Non-PAR |
+| Jordan Shoemaker, PA - Start Date 10/06/2025 | Vision Service Plan | Authorization Required | Non-PAR |
 | Joseph Sowka, OD | Vision Service Plan | Authorization Required | PAR |
 | Joshua Kim, MD | Vision Service Plan | Authorization Required | Non-PAR |
 | Joshua Newman, MD | Vision Service Plan | Authorization Required | PAR |
@@ -43,14 +44,13 @@
 | Tanuj Banker, MD (RETINA) | Vision Service Plan | Authorization Required | Non-PAR |
 | Todd Lang, OD | Vision Service Plan | Authorization Required | Non-PAR |
 | Trisha Werner, OD | Vision Service Plan | Authorization Required | PAR |
-| William Soscia, MD | Vision Service Plan | Authorization Required | Non-PAR |
 
 ## Center for Sight-Naples
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
 | George Brinnig-Jastrzebski, MD | Self Pay Non-Par with Ins |  | Non-PAR |
-| Jenna Getman, OD - Start Date 9/29/2025 | Self Pay Non-Par with Ins |  | Non-PAR |
+| Jenna Getman, OD - Start Date 9/29/2025 | Self Pay Non-Par with Ins |  | PAR |
 | Jon Berlie, MD | Self Pay Non-Par with Ins |  | Non-PAR |
 | Julie Carter, MD | Self Pay Non-Par with Ins |  | Non-PAR |
 

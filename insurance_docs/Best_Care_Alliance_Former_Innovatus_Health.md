@@ -21,6 +21,7 @@
 | James Lenhart, OD | PENDING | No Ref/No Auth Required | Non-PAR |
 | Joaquin De Rojas, MD | PENDING | No Ref/No Auth Required | Non-PAR |
 | John Fezza, MD (Oculoplastics) | PENDING | No Ref/No Auth Required | Non-PAR |
+| Jordan Shoemaker, PA - Start Date 10/06/2025 | PENDING | No Ref/No Auth Required | PAR |
 | Joseph Sowka, OD | PENDING | No Ref/No Auth Required | Non-PAR |
 | Joshua Kim, MD | PENDING | No Ref/No Auth Required | Non-PAR |
 | Joshua Newman, MD | PENDING | No Ref/No Auth Required | Non-PAR |
@@ -43,7 +44,6 @@
 | Tanuj Banker, MD (RETINA) | PENDING | No Ref/No Auth Required | Non-PAR |
 | Todd Lang, OD | PENDING | No Ref/No Auth Required | Non-PAR |
 | Trisha Werner, OD | PENDING | No Ref/No Auth Required | Non-PAR |
-| William Soscia, MD | PENDING | No Ref/No Auth Required | Non-PAR |
 
 ## Center for Sight-Naples
 

@@ -21,6 +21,7 @@
 | James Lenhart, OD | UHC Comm HMO REFERRAL REQ | Referral Required | PAR |
 | Joaquin De Rojas, MD | UHC Comm HMO REFERRAL REQ | Referral Required | PAR |
 | John Fezza, MD (Oculoplastics) | UHC Comm HMO REFERRAL REQ | Referral Required | PAR |
+| Jordan Shoemaker, PA - Start Date 10/06/2025 | UHC Comm HMO REFERRAL REQ | Referral Required | Non-PAR |
 | Joseph Sowka, OD | UHC Comm HMO REFERRAL REQ | Referral Required | PAR |
 | Joshua Kim, MD | UHC Comm HMO REFERRAL REQ | Referral Required | PAR |
 | Joshua Newman, MD | UHC Comm HMO REFERRAL REQ | Referral Required | PAR |
@@ -43,7 +44,6 @@
 | Tanuj Banker, MD (RETINA) | UHC Comm HMO REFERRAL REQ | Referral Required | PAR |
 | Todd Lang, OD | UHC Comm HMO REFERRAL REQ | Referral Required | PAR |
 | Trisha Werner, OD | UHC Comm HMO REFERRAL REQ | Referral Required | PAR |
-| William Soscia, MD | UHC Comm HMO REFERRAL REQ | Referral Required | PAR |
 
 ## Center for Sight-Naples
 

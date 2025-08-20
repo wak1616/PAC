@@ -21,6 +21,7 @@
 | James Lenhart, OD | Champva | No Ref/No Auth Required | PAR |
 | Joaquin De Rojas, MD | Champva | No Ref/No Auth Required | PAR |
 | John Fezza, MD (Oculoplastics) | Champva | No Ref/No Auth Required | PAR |
+| Jordan Shoemaker, PA - Start Date 10/06/2025 | Champva | No Ref/No Auth Required | Non-PAR |
 | Joseph Sowka, OD | Champva | No Ref/No Auth Required | PAR |
 | Joshua Kim, MD | Champva | No Ref/No Auth Required | PAR |
 | Joshua Newman, MD | Champva | No Ref/No Auth Required | PAR |
@@ -43,7 +44,6 @@
 | Tanuj Banker, MD (RETINA) | Champva | No Ref/No Auth Required | PAR |
 | Todd Lang, OD | Champva | No Ref/No Auth Required | PAR |
 | Trisha Werner, OD | Champva | No Ref/No Auth Required | PAR |
-| William Soscia, MD | Champva | No Ref/No Auth Required | PAR |
 
 ## Center for Sight-Naples
 
@@ -62,7 +62,7 @@
 | Christine Bui, OD | ChampVA | No Ref/No Auth Required | PAR |
 | Diba Ossareh, OD | ChampVA | No Ref/No Auth Required | PAR |
 | Jose Vazques-Diaz, MD | ChampVA | No Ref/No Auth Required | PAR |
-| Karin Girgis, OD - Start Date 8/18/2025 | ChampVA | No Ref/No Auth Required | Non-PAR |
+| Karin Girgis, OD | ChampVA | No Ref/No Auth Required | Non-PAR |
 | Mari Holderby, OD | ChampVA | No Ref/No Auth Required | PAR |
 | Scot Holman, MD | ChampVA | No Ref/No Auth Required | PAR |
 | Scott Wehrly, MD | ChampVA | No Ref/No Auth Required | PAR |

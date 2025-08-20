@@ -21,6 +21,7 @@
 | James Lenhart, OD | Vitori Health Open Access Plan | No Ref/No Auth Required | PAR |
 | Joaquin De Rojas, MD | Vitori Health Open Access Plan | No Ref/No Auth Required | PAR |
 | John Fezza, MD (Oculoplastics) | Vitori Health Open Access Plan | No Ref/No Auth Required | PAR |
+| Jordan Shoemaker, PA - Start Date 10/06/2025 | Vitori Health Open Access Plan | No Ref/No Auth Required | Non-PAR |
 | Joseph Sowka, OD | Vitori Health Open Access Plan | No Ref/No Auth Required | PAR |
 | Joshua Kim, MD | Vitori Health Open Access Plan | No Ref/No Auth Required | PAR |
 | Joshua Newman, MD | Vitori Health Open Access Plan | No Ref/No Auth Required | PAR |
@@ -43,7 +44,6 @@
 | Tanuj Banker, MD (RETINA) | Vitori Health Open Access Plan | No Ref/No Auth Required | PAR |
 | Todd Lang, OD | Vitori Health Open Access Plan | No Ref/No Auth Required | PAR |
 | Trisha Werner, OD | Vitori Health Open Access Plan | No Ref/No Auth Required | PAR |
-| William Soscia, MD | Vitori Health Open Access Plan | No Ref/No Auth Required | PAR |
 
 ## Center for Sight-Naples
 

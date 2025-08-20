@@ -21,6 +21,7 @@
 | James Lenhart, OD | AvMed Commercial HMO | No Ref/No Auth Required | PAR |
 | Joaquin De Rojas, MD | AvMed Commercial HMO | No Ref/No Auth Required | PAR |
 | John Fezza, MD (Oculoplastics) | AvMed Commercial HMO | No Ref/No Auth Required | PAR |
+| Jordan Shoemaker, PA - Start Date 10/06/2025 | AvMed Commercial HMO | No Ref/No Auth Required | Non-PAR |
 | Joseph Sowka, OD | AvMed Commercial HMO | No Ref/No Auth Required | Non-PAR |
 | Joshua Kim, MD | AvMed Commercial HMO | No Ref/No Auth Required | PAR |
 | Joshua Newman, MD | AvMed Commercial HMO | No Ref/No Auth Required | PAR |
@@ -43,7 +44,6 @@
 | Tanuj Banker, MD (RETINA) | AvMed Commercial HMO | No Ref/No Auth Required | PAR |
 | Todd Lang, OD | AvMed Commercial HMO | No Ref/No Auth Required | PAR |
 | Trisha Werner, OD | AvMed Commercial HMO | No Ref/No Auth Required | Non-PAR |
-| William Soscia, MD | AvMed Commercial HMO | No Ref/No Auth Required | Non-PAR |
 
 ## Center for Sight-Naples
 

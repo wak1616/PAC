@@ -21,6 +21,7 @@
 | James Lenhart, OD | Allegiance Benefit Plan Management-Cigna | No Ref/No Auth Required | PAR |
 | Joaquin De Rojas, MD | Allegiance Benefit Plan Management-Cigna | No Ref/No Auth Required | PAR |
 | John Fezza, MD (Oculoplastics) | Allegiance Benefit Plan Management-Cigna | No Ref/No Auth Required | PAR |
+| Jordan Shoemaker, PA - Start Date 10/06/2025 | Allegiance Benefit Plan Management-Cigna | No Ref/No Auth Required | Non-PAR |
 | Joseph Sowka, OD | Allegiance Benefit Plan Management-Cigna | No Ref/No Auth Required | PAR |
 | Joshua Kim, MD | Allegiance Benefit Plan Management-Cigna | No Ref/No Auth Required | PAR |
 | Joshua Newman, MD | Allegiance Benefit Plan Management-Cigna | No Ref/No Auth Required | PAR |
@@ -43,7 +44,6 @@
 | Tanuj Banker, MD (RETINA) | Allegiance Benefit Plan Management-Cigna | No Ref/No Auth Required | PAR |
 | Todd Lang, OD | Allegiance Benefit Plan Management-Cigna | No Ref/No Auth Required | PAR |
 | Trisha Werner, OD | Allegiance Benefit Plan Management-Cigna | No Ref/No Auth Required | PAR |
-| William Soscia, MD | Allegiance Benefit Plan Management-Cigna | No Ref/No Auth Required | PAR |
 
 ## Center for Sight-Naples
 
@@ -62,7 +62,7 @@
 | Christine Bui, OD | Allegiance Benefit Plan Management-Cigna | No Ref/No Auth Required | PAR |
 | Diba Ossareh, OD | Allegiance Benefit Plan Management-Cigna | No Ref/No Auth Required | PAR |
 | Jose Vazques-Diaz, MD | Allegiance Benefit Plan Management-Cigna | No Ref/No Auth Required | PAR |
-| Karin Girgis, OD - Start Date 8/18/2025 | Allegiance Benefit Plan Management-Cigna | No Ref/No Auth Required | Non-PAR |
+| Karin Girgis, OD | Allegiance Benefit Plan Management-Cigna | No Ref/No Auth Required | Non-PAR |
 | Mari Holderby, OD | Allegiance Benefit Plan Management-Cigna | No Ref/No Auth Required | PAR |
 | Scot Holman, MD | Allegiance Benefit Plan Management-Cigna | No Ref/No Auth Required | PAR |
 | Scott Wehrly, MD | Allegiance Benefit Plan Management-Cigna | No Ref/No Auth Required | PAR |

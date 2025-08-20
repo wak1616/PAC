@@ -21,6 +21,7 @@
 | James Lenhart, OD | UCare Medicare HMO | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Joaquin De Rojas, MD | UCare Medicare HMO | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | John Fezza, MD (Oculoplastics) | UCare Medicare HMO | No Ref/No Auth Required | Non-PAR -OON Benefits |
+| Jordan Shoemaker, PA - Start Date 10/06/2025 | UCare Medicare HMO | No Ref/No Auth Required | Non-PAR |
 | Joseph Sowka, OD | UCare Medicare HMO | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Joshua Kim, MD | UCare Medicare HMO | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Joshua Newman, MD | UCare Medicare HMO | No Ref/No Auth Required | Non-PAR -OON Benefits |
@@ -43,7 +44,6 @@
 | Tanuj Banker, MD (RETINA) | UCare Medicare HMO | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Todd Lang, OD | UCare Medicare HMO | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Trisha Werner, OD | UCare Medicare HMO | No Ref/No Auth Required | Non-PAR -OON Benefits |
-| William Soscia, MD | UCare Medicare HMO | No Ref/No Auth Required | Non-PAR -OON Benefits |
 
 ## Center for Sight-Naples
 

@@ -21,6 +21,7 @@
 | James Lenhart, OD | BCBS FL Commercial HMO | Authorization Required | PAR |
 | Joaquin De Rojas, MD | BCBS FL Commercial HMO | Authorization Required | PAR |
 | John Fezza, MD (Oculoplastics) | BCBS FL Commercial HMO | Authorization Required | PAR |
+| Jordan Shoemaker, PA - Start Date 10/06/2025 | BCBS FL Commercial HMO | Authorization Required | PAR |
 | Joseph Sowka, OD | BCBS FL Commercial HMO | Authorization Required | PAR |
 | Joshua Kim, MD | BCBS FL Commercial HMO | Authorization Required | PAR |
 | Joshua Newman, MD | BCBS FL Commercial HMO | Authorization Required | PAR |
@@ -43,7 +44,6 @@
 | Tanuj Banker, MD (RETINA) | BCBS FL Commercial HMO | Authorization Required | Non-PAR |
 | Todd Lang, OD | BCBS FL Commercial HMO | Authorization Required | PAR |
 | Trisha Werner, OD | BCBS FL Commercial HMO | Authorization Required | PAR |
-| William Soscia, MD | BCBS FL Commercial HMO | Authorization Required | PAR |
 
 ## Lake Eye 
 
@@ -53,7 +53,7 @@
 | Christine Bui, OD | BCBS FL Commercial HMO | Authorization Required | PAR |
 | Diba Ossareh, OD | BCBS FL Commercial HMO | Authorization Required | PAR |
 | Jose Vazques-Diaz, MD | BCBS FL Commercial HMO | Authorization Required | PAR |
-| Karin Girgis, OD - Start Date 8/18/2025 | BCBS FL Commercial HMO | Authorization Required | Non-PAR |
+| Karin Girgis, OD | BCBS FL Commercial HMO | Authorization Required | Non-PAR |
 | Mari Holderby, OD | BCBS FL Commercial HMO | Authorization Required | PAR |
 | Scot Holman, MD | BCBS FL Commercial HMO | Authorization Required | PAR |
 | Scott Wehrly, MD | BCBS FL Commercial HMO | Authorization Required | PAR |

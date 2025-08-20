@@ -21,6 +21,7 @@
 | James Lenhart, OD | UHC Nursing Home Plan FL PPO-87726 | No Ref/No Auth Required | PAR |
 | Joaquin De Rojas, MD | UHC Nursing Home Plan FL PPO-87726 | No Ref/No Auth Required | PAR |
 | John Fezza, MD (Oculoplastics) | UHC Nursing Home Plan FL PPO-87726 | No Ref/No Auth Required | PAR |
+| Jordan Shoemaker, PA - Start Date 10/06/2025 | UHC Nursing Home Plan FL PPO-87726 | No Ref/No Auth Required | Non-PAR |
 | Joseph Sowka, OD | UHC Nursing Home Plan FL PPO-87726 | No Ref/No Auth Required | PAR |
 | Joshua Kim, MD | UHC Nursing Home Plan FL PPO-87726 | No Ref/No Auth Required | PAR |
 | Joshua Newman, MD | UHC Nursing Home Plan FL PPO-87726 | No Ref/No Auth Required | PAR |
@@ -43,7 +44,6 @@
 | Tanuj Banker, MD (RETINA) | UHC Nursing Home Plan FL PPO-87726 | No Ref/No Auth Required | PAR |
 | Todd Lang, OD | UHC Nursing Home Plan FL PPO-87726 | No Ref/No Auth Required | PAR |
 | Trisha Werner, OD | UHC Nursing Home Plan FL PPO-87726 | No Ref/No Auth Required | PAR |
-| William Soscia, MD | UHC Nursing Home Plan FL PPO-87726 | No Ref/No Auth Required | PAR |
 
 </details>
 

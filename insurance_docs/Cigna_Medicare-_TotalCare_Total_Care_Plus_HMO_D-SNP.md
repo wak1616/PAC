@@ -21,6 +21,7 @@
 | James Lenhart, OD | Primary: Cigna Dual MDCR HMO Primary-REFERRAL REQ                                                      Secondary: Cigna Dual Medicaid HMO Secondary | Referral Required | PAR |
 | Joaquin De Rojas, MD | Primary: Cigna Dual MDCR HMO Primary-REFERRAL REQ                                                      Secondary: Cigna Dual Medicaid HMO Secondary | Referral Required | PAR |
 | John Fezza, MD (Oculoplastics) | Primary: Cigna Dual MDCR HMO Primary-REFERRAL REQ                                                      Secondary: Cigna Dual Medicaid HMO Secondary | Referral Required | PAR |
+| Jordan Shoemaker, PA - Start Date 10/06/2025 | Primary: Cigna Dual MDCR HMO Primary-REFERRAL REQ                                                      Secondary: Cigna Dual Medicaid HMO Secondary | Referral Required | Non-PAR |
 | Joseph Sowka, OD | Primary: Cigna Dual MDCR HMO Primary-REFERRAL REQ                                                      Secondary: Cigna Dual Medicaid HMO Secondary | Referral Required | PAR |
 | Joshua Kim, MD | Primary: Cigna Dual MDCR HMO Primary-REFERRAL REQ                                                      Secondary: Cigna Dual Medicaid HMO Secondary | Referral Required | PAR |
 | Joshua Newman, MD | Primary: Cigna Dual MDCR HMO Primary-REFERRAL REQ                                                      Secondary: Cigna Dual Medicaid HMO Secondary | Referral Required | PAR |
@@ -43,7 +44,6 @@
 | Tanuj Banker, MD (RETINA) | Primary: Cigna Dual MDCR HMO Primary-REFERRAL REQ                                                      Secondary: Cigna Dual Medicaid HMO Secondary | Referral Required | Non-PAR |
 | Todd Lang, OD | Primary: Cigna Dual MDCR HMO Primary-REFERRAL REQ                                                      Secondary: Cigna Dual Medicaid HMO Secondary | Referral Required | PAR |
 | Trisha Werner, OD | Primary: Cigna Dual MDCR HMO Primary-REFERRAL REQ                                                      Secondary: Cigna Dual Medicaid HMO Secondary | Referral Required | PAR |
-| William Soscia, MD | Primary: Cigna Dual MDCR HMO Primary-REFERRAL REQ                                                      Secondary: Cigna Dual Medicaid HMO Secondary | Referral Required | PAR |
 
 ## Retina Health Center
 

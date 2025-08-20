@@ -21,6 +21,7 @@
 | James Lenhart, OD | BCBS Out of State Commercial PPO | No Ref/No Auth Required | PAR |
 | Joaquin De Rojas, MD | BCBS Out of State Commercial PPO | No Ref/No Auth Required | PAR |
 | John Fezza, MD (Oculoplastics) | BCBS Out of State Commercial PPO | No Ref/No Auth Required | PAR |
+| Jordan Shoemaker, PA - Start Date 10/06/2025 | BCBS Out of State Commercial PPO | No Ref/No Auth Required | PAR |
 | Joseph Sowka, OD | BCBS Out of State Commercial PPO | No Ref/No Auth Required | PAR |
 | Joshua Kim, MD | BCBS Out of State Commercial PPO | No Ref/No Auth Required | PAR |
 | Joshua Newman, MD | BCBS Out of State Commercial PPO | No Ref/No Auth Required | PAR |
@@ -43,7 +44,6 @@
 | Tanuj Banker, MD (RETINA) | BCBS Out of State Commercial PPO | No Ref/No Auth Required | PAR |
 | Todd Lang, OD | BCBS Out of State Commercial PPO | No Ref/No Auth Required | PAR |
 | Trisha Werner, OD | BCBS Out of State Commercial PPO | No Ref/No Auth Required | PAR |
-| William Soscia, MD | BCBS Out of State Commercial PPO | No Ref/No Auth Required | PAR |
 
 ## Center for Sight-Naples
 
@@ -62,7 +62,7 @@
 | Christine Bui, OD | BCBS Out of State Commercial PPO | No Ref/No Auth Required | PAR |
 | Diba Ossareh, OD | BCBS Out of State Commercial PPO | No Ref/No Auth Required | PAR |
 | Jose Vazques-Diaz, MD | BCBS Out of State Commercial PPO | No Ref/No Auth Required | PAR |
-| Karin Girgis, OD - Start Date 8/18/2025 | BCBS Out of State Commercial PPO | No Ref/No Auth Required | Non-PAR |
+| Karin Girgis, OD | BCBS Out of State Commercial PPO | No Ref/No Auth Required | Non-PAR |
 | Mari Holderby, OD | BCBS Out of State Commercial PPO | No Ref/No Auth Required | PAR |
 | Scot Holman, MD | BCBS Out of State Commercial PPO | No Ref/No Auth Required | PAR |
 | Scott Wehrly, MD | BCBS Out of State Commercial PPO | No Ref/No Auth Required | PAR |

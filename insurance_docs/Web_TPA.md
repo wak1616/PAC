@@ -21,6 +21,7 @@
 | James Lenhart, OD | Web TPA | No Ref/No Auth Required | PAR |
 | Joaquin De Rojas, MD | Web TPA | No Ref/No Auth Required | PAR |
 | John Fezza, MD (Oculoplastics) | Web TPA | No Ref/No Auth Required | PAR |
+| Jordan Shoemaker, PA - Start Date 10/06/2025 | Web TPA | No Ref/No Auth Required | Non-PAR |
 | Joseph Sowka, OD | Web TPA | No Ref/No Auth Required | PAR |
 | Joshua Kim, MD | Web TPA | No Ref/No Auth Required | PAR |
 | Joshua Newman, MD | Web TPA | No Ref/No Auth Required | PAR |
@@ -43,14 +44,13 @@
 | Tanuj Banker, MD (RETINA) | Web TPA | No Ref/No Auth Required | PAR |
 | Todd Lang, OD | Web TPA | No Ref/No Auth Required | PAR |
 | Trisha Werner, OD | Web TPA | No Ref/No Auth Required | Non-PAR |
-| William Soscia, MD | Web TPA | No Ref/No Auth Required | PAR |
 
 ## Center for Sight-Naples
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
 | George Brinnig-Jastrzebski, MD | Web TPA | No Ref/No Auth Required | PAR |
-| Jenna Getman, OD - Start Date 9/29/2025 | Web TPA | No Ref/No Auth Required | Non-PAR |
+| Jenna Getman, OD - Start Date 9/29/2025 | Web TPA | No Ref/No Auth Required | PAR |
 | Jon Berlie, MD | Web TPA | No Ref/No Auth Required | PAR |
 | Julie Carter, MD | Web TPA | No Ref/No Auth Required | PAR |
 
@@ -62,7 +62,7 @@
 | Christine Bui, OD | Self Pay Non-Par with Ins |  | Non-PAR |
 | Diba Ossareh, OD | Self Pay Non-Par with Ins |  | Non-PAR |
 | Jose Vazques-Diaz, MD | Self Pay Non-Par with Ins |  | Non-PAR |
-| Karin Girgis, OD - Start Date 8/18/2025 | Self Pay Non-Par with Ins |  | Non-PAR |
+| Karin Girgis, OD | Self Pay Non-Par with Ins |  | Non-PAR |
 | Mari Holderby, OD | Self Pay Non-Par with Ins |  | Non-PAR |
 | Scot Holman, MD | Self Pay Non-Par with Ins |  | Non-PAR |
 | Scott Wehrly, MD | Self Pay Non-Par with Ins |  | Non-PAR |

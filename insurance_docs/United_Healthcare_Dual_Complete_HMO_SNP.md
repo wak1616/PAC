@@ -21,6 +21,7 @@
 | James Lenhart, OD | Primary: UHC Dual Complete HMO-87726                                                                 Secondary: Medicaid Secondary | No Ref/No Auth Required | PAR |
 | Joaquin De Rojas, MD | Primary: UHC Dual Complete HMO-87726                                                                 Secondary: Medicaid Secondary | No Ref/No Auth Required | PAR |
 | John Fezza, MD (Oculoplastics) | Primary: UHC Dual Complete HMO-87726                                                                 Secondary: Medicaid Secondary | No Ref/No Auth Required | PAR |
+| Jordan Shoemaker, PA - Start Date 10/06/2025 | Primary: UHC Dual Complete HMO-87726                                                                 Secondary: Medicaid Secondary | No Ref/No Auth Required | Non-PAR |
 | Joseph Sowka, OD | Primary: UHC Dual Complete HMO-87726                                                                 Secondary: Medicaid Secondary | No Ref/No Auth Required | PAR |
 | Joshua Kim, MD | Primary: UHC Dual Complete HMO-87726                                                                 Secondary: Medicaid Secondary | No Ref/No Auth Required | PAR |
 | Joshua Newman, MD | Primary: UHC Dual Complete HMO-87726                                                                 Secondary: Medicaid Secondary | No Ref/No Auth Required | PAR |
@@ -43,7 +44,6 @@
 | Tanuj Banker, MD (RETINA) | Primary: UHC Dual Complete HMO-87726                                                                 Secondary: Medicaid Secondary | No Ref/No Auth Required | Non-PAR |
 | Todd Lang, OD | Primary: UHC Dual Complete HMO-87726                                                                 Secondary: Medicaid Secondary | No Ref/No Auth Required | PAR |
 | Trisha Werner, OD | Primary: UHC Dual Complete HMO-87726                                                                 Secondary: Medicaid Secondary | No Ref/No Auth Required | PAR |
-| William Soscia, MD | Primary: UHC Dual Complete HMO-87726                                                                 Secondary: Medicaid Secondary | No Ref/No Auth Required | PAR |
 
 </details>
 

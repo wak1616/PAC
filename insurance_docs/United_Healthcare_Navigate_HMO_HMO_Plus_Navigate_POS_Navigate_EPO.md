@@ -21,7 +21,7 @@
 | Christine Bui, OD | UHC Navigate REFERRAL REQ | Referral Required | PAR |
 | Diba Ossareh, OD | UHC Navigate REFERRAL REQ | Referral Required | PAR |
 | Jose Vazques-Diaz, MD | UHC Navigate REFERRAL REQ | Referral Required | PAR |
-| Karin Girgis, OD - Start Date 8/18/2025 | UHC Navigate REFERRAL REQ | Referral Required | Non-PAR |
+| Karin Girgis, OD | UHC Navigate REFERRAL REQ | Referral Required | Non-PAR |
 | Mari Holderby, OD | UHC Navigate REFERRAL REQ | Referral Required | PAR |
 | Scot Holman, MD | UHC Navigate REFERRAL REQ | Referral Required | PAR |
 | Scott Wehrly, MD | UHC Navigate REFERRAL REQ | Referral Required | PAR |

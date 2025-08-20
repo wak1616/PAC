@@ -21,6 +21,7 @@
 | James Lenhart, OD | Self Pay Non-Par with Ins |  | Non-PAR |
 | Joaquin De Rojas, MD | Self Pay Non-Par with Ins |  | Non-PAR |
 | John Fezza, MD (Oculoplastics) | Self Pay Non-Par with Ins |  | Non-PAR |
+| Jordan Shoemaker, PA - Start Date 10/06/2025 | Self Pay Non-Par with Ins |  | Non-PAR |
 | Joseph Sowka, OD | Self Pay Non-Par with Ins |  | Non-PAR |
 | Joshua Kim, MD | Self Pay Non-Par with Ins |  | Non-PAR |
 | Joshua Newman, MD | Self Pay Non-Par with Ins |  | Non-PAR |
@@ -43,7 +44,6 @@
 | Tanuj Banker, MD (RETINA) | Self Pay Non-Par with Ins |  | Non-PAR |
 | Todd Lang, OD | Self Pay Non-Par with Ins |  | Non-PAR |
 | Trisha Werner, OD | Self Pay Non-Par with Ins |  | Non-PAR |
-| William Soscia, MD | Self Pay Non-Par with Ins |  | Non-PAR |
 
 ## Center for Sight-Naples
 

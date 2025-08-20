@@ -21,6 +21,7 @@
 | James Lenhart, OD | Primary: Humana Dual Medicare PPO Primary                                                 Secondary: Humana Dual Medicaid Secondary | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Joaquin De Rojas, MD | Primary: Humana Dual Medicare PPO Primary                                                 Secondary: Humana Dual Medicaid Secondary | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | John Fezza, MD (Oculoplastics) | Primary: Humana Dual Medicare PPO Primary                                                 Secondary: Humana Dual Medicaid Secondary | No Ref/No Auth Required | Non-PAR -OON Benefits |
+| Jordan Shoemaker, PA - Start Date 10/06/2025 | Primary: Humana Dual Medicare PPO Primary                                                 Secondary: Humana Dual Medicaid Secondary | No Ref/No Auth Required | Non-PAR |
 | Joseph Sowka, OD | Primary: Humana Dual Medicare PPO Primary                                                 Secondary: Humana Dual Medicaid Secondary | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Joshua Kim, MD | Primary: Humana Dual Medicare PPO Primary                                                 Secondary: Humana Dual Medicaid Secondary | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Joshua Newman, MD | Primary: Humana Dual Medicare PPO Primary                                                 Secondary: Humana Dual Medicaid Secondary | No Ref/No Auth Required | Non-PAR -OON Benefits |
@@ -43,7 +44,6 @@
 | Tanuj Banker, MD (RETINA) | Primary: Humana Dual Medicare PPO Primary                                                 Secondary: Humana Dual Medicaid Secondary | No Ref/No Auth Required | Non-PAR |
 | Todd Lang, OD | Primary: Humana Dual Medicare PPO Primary                                                 Secondary: Humana Dual Medicaid Secondary | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Trisha Werner, OD | Primary: Humana Dual Medicare PPO Primary                                                 Secondary: Humana Dual Medicaid Secondary | No Ref/No Auth Required | Non-PAR -OON Benefits |
-| William Soscia, MD | Primary: Humana Dual Medicare PPO Primary                                                 Secondary: Humana Dual Medicaid Secondary | No Ref/No Auth Required | Non-PAR -OON Benefits |
 
 </details>
 

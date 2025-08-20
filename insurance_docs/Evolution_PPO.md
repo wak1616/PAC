@@ -21,6 +21,7 @@
 | James Lenhart, OD | Evolutions PPO | No Ref/No Auth Required | PAR |
 | Joaquin De Rojas, MD | Evolutions PPO | No Ref/No Auth Required | PAR |
 | John Fezza, MD (Oculoplastics) | Evolutions PPO | No Ref/No Auth Required | PAR |
+| Jordan Shoemaker, PA - Start Date 10/06/2025 | Evolutions PPO | No Ref/No Auth Required | Non-PAR |
 | Joseph Sowka, OD | Evolutions PPO | No Ref/No Auth Required | PAR |
 | Joshua Kim, MD | Evolutions PPO | No Ref/No Auth Required | PAR |
 | Joshua Newman, MD | Evolutions PPO | No Ref/No Auth Required | PAR |
@@ -43,7 +44,6 @@
 | Tanuj Banker, MD (RETINA) | Evolutions PPO | No Ref/No Auth Required | PAR |
 | Todd Lang, OD | Evolutions PPO | No Ref/No Auth Required | PAR |
 | Trisha Werner, OD | Evolutions PPO | No Ref/No Auth Required | PAR |
-| William Soscia, MD | Evolutions PPO | No Ref/No Auth Required | PAR |
 
 </details>
 

@@ -21,6 +21,7 @@
 | James Lenhart, OD | BCBS FL Commercial PPO | No Ref/No Auth Required | PAR |
 | Joaquin De Rojas, MD | BCBS FL Commercial PPO | No Ref/No Auth Required | PAR |
 | John Fezza, MD (Oculoplastics) | BCBS FL Commercial PPO | No Ref/No Auth Required | PAR |
+| Jordan Shoemaker, PA - Start Date 10/06/2025 | BCBS FL Commercial PPO | No Ref/No Auth Required | PAR |
 | Joseph Sowka, OD | BCBS FL Commercial PPO | No Ref/No Auth Required | PAR |
 | Joshua Kim, MD | BCBS FL Commercial PPO | No Ref/No Auth Required | PAR |
 | Joshua Newman, MD | BCBS FL Commercial PPO | No Ref/No Auth Required | PAR |
@@ -43,7 +44,6 @@
 | Tanuj Banker, MD (RETINA) | BCBS FL Commercial PPO | No Ref/No Auth Required | Non-PAR |
 | Todd Lang, OD | BCBS FL Commercial PPO | No Ref/No Auth Required | PAR |
 | Trisha Werner, OD | BCBS FL Commercial PPO | No Ref/No Auth Required | PAR |
-| William Soscia, MD | BCBS FL Commercial PPO | No Ref/No Auth Required | PAR |
 
 ## Center for Sight-Naples
 

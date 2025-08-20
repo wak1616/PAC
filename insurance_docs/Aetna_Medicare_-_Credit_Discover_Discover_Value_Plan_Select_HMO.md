@@ -9,7 +9,7 @@
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
 | George Brinnig-Jastrzebski, MD | Aetna Medicare HMO REFERRAL REQ | Referral Required | PAR |
-| Jenna Getman, OD - Start Date 9/29/2025 | Aetna Medicare HMO REFERRAL REQ | Referral Required | Non-PAR |
+| Jenna Getman, OD - Start Date 9/29/2025 | Aetna Medicare HMO REFERRAL REQ | Referral Required | PAR |
 | Jon Berlie, MD | Aetna Medicare HMO REFERRAL REQ | Referral Required | PAR |
 | Julie Carter, MD | Aetna Medicare HMO REFERRAL REQ | Referral Required | PAR |
 
@@ -21,7 +21,7 @@
 | Christine Bui, OD | Aetna Medicare HMO REFERRAL REQ | Referral Required | PAR |
 | Diba Ossareh, OD | Aetna Medicare HMO REFERRAL REQ | Referral Required | PAR |
 | Jose Vazques-Diaz, MD | Aetna Medicare HMO REFERRAL REQ | Referral Required | PAR |
-| Karin Girgis, OD - Start Date 8/18/2025 | Aetna Medicare HMO REFERRAL REQ | Referral Required | Non-PAR |
+| Karin Girgis, OD | Aetna Medicare HMO REFERRAL REQ | Referral Required | PAR |
 | Mari Holderby, OD | Aetna Medicare HMO REFERRAL REQ | Referral Required | PAR |
 | Scot Holman, MD | Aetna Medicare HMO REFERRAL REQ | Referral Required | PAR |
 | Scott Wehrly, MD | Aetna Medicare HMO REFERRAL REQ | Referral Required | PAR |
