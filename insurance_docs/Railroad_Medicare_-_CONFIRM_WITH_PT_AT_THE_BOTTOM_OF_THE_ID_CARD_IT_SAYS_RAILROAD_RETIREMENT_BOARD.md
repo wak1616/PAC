@@ -26,7 +26,7 @@
 | Joshua Kim, MD | Railroad Medicare | No Ref/No Auth Required | PAR |
 | Joshua Newman, MD | Railroad Medicare | No Ref/No Auth Required | PAR |
 | Kalie Kosek, PA | Railroad Medicare | No Ref/No Auth Required | PAR |
-| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | Railroad Medicare | No Ref/No Auth Required | Non-PAR |
+| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | Railroad Medicare | No Ref/No Auth Required | PAR |
 | Kyle Schaub, OD | Railroad Medicare | No Ref/No Auth Required | PAR |
 | Len Brown, OD | Railroad Medicare | No Ref/No Auth Required | PAR |
 | Logan Page, OD | Railroad Medicare | No Ref/No Auth Required | PAR |

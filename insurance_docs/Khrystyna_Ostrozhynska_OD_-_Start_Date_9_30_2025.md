@@ -161,7 +161,7 @@
 | Priority Health Commercial- (Cigna Open Access Network) PPO | Priority Health Commercial PPO - Cigna | No Ref/No Auth Required | Non-PAR |
 | Priority Health Medicare- Priority Medicare Ideal/Travel Pass (Multiplan) PPO | Priority Health Medicare PPO - Multiplan | No Ref/No Auth Required | Non-PAR |
 | Priority Health Medicare- Priority Medicare Value/Travel Pass (Multiplan) HMO -POS | Priority Health Medicare HMO - Multiplan | No Ref/No Auth Required | Non-PAR |
-| Railroad Medicare - CONFIRM WITH PT AT THE BOTTOM OF THE ID CARD IT SAYS "RAILROAD RETIREMENT BOARD" | Railroad Medicare | No Ref/No Auth Required | Non-PAR |
+| Railroad Medicare - CONFIRM WITH PT AT THE BOTTOM OF THE ID CARD IT SAYS "RAILROAD RETIREMENT BOARD" | Railroad Medicare | No Ref/No Auth Required | PAR |
 | ROTC/Military Screening - Dr. MIDDAUGH ONLY. pATIENT WILL NOT HAVE AN ID CARD AS THEY ARE PRESENTING FOR A ROTC/MILITARY SCREENING | Concorde Inc | Authorization Required- ROTC Fom is required for the Clinical Team | Non-PAR |
 | Simply Health Care Medicare PPO (ICARE Network) | Self Pay Non-Par with Ins |  | Non-PAR |
 | Spectera Vision | Spectera Vision | No Ref/No Auth Required | Non-PAR |
