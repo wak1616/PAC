@@ -17,7 +17,7 @@
 | Elizabeth Davis, MD | Meritain Health Commercial - Aetna | No Ref/No Auth Required | PAR |
 | Erin Hardie, OD | Meritain Health Commercial - Aetna | No Ref/No Auth Required | PAR |
 | George Hurwitz, OD | Meritain Health Commercial - Aetna | No Ref/No Auth Required | PAR |
-| Gisselle Vega Carraso | Meritain Health Commercial - Aetna | No Ref/No Auth Required | Non-PAR |
+| Gisselle Vega Carraso | Meritain Health Commercial - Aetna | No Ref/No Auth Required | PAR |
 | James Lenhart, OD | Meritain Health Commercial - Aetna | No Ref/No Auth Required | PAR |
 | Joaquin De Rojas, MD | Meritain Health Commercial - Aetna | No Ref/No Auth Required | PAR |
 | John Fezza, MD (Oculoplastics) | Meritain Health Commercial - Aetna | No Ref/No Auth Required | PAR |

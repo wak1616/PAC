@@ -17,7 +17,7 @@
 | Elizabeth Davis, MD | Aetna Commercial HMO REFERRAL REQ | Referral Required | PAR |
 | Erin Hardie, OD | Aetna Commercial HMO REFERRAL REQ | Referral Required | PAR |
 | George Hurwitz, OD | Aetna Commercial HMO REFERRAL REQ | Referral Required | PAR |
-| Gisselle Vega Carraso | Aetna Commercial HMO REFERRAL REQ | Referral Required | Non-PAR |
+| Gisselle Vega Carraso | Aetna Commercial HMO REFERRAL REQ | Referral Required | PAR |
 | James Lenhart, OD | Aetna Commercial HMO REFERRAL REQ | Referral Required | PAR |
 | Joaquin De Rojas, MD | Aetna Commercial HMO REFERRAL REQ | Referral Required | PAR |
 | John Fezza, MD (Oculoplastics) | Aetna Commercial HMO REFERRAL REQ | Referral Required | PAR |

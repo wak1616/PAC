@@ -8,9 +8,9 @@
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
-| Albert Smolyar, MD | Humana Medicare HMO | No Ref/No Auth Required | PAR |
-| Brian Marhue, OD | Humana Medicare HMO | No Ref/No Auth Required | PAR |
-| Penny Orr, OD | Humana Medicare HMO | No Ref/No Auth Required | PAR |
+| Albert Smolyar, MD | Humana Medicare HMO | No Ref/No Auth Required | Non-PAR |
+| Brian Marhue, OD | Humana Medicare HMO | No Ref/No Auth Required | Non-PAR |
+| Penny Orr, OD | Humana Medicare HMO | No Ref/No Auth Required | Non-PAR |
 | Sarah Johnson, OD | Humana Medicare HMO | No Ref/No Auth Required | Non-PAR |
 
 </details>

@@ -17,7 +17,7 @@
 | Elizabeth Davis, MD | Lumimare Comm PPO - Aetna | No Ref/No Auth Required | PAR |
 | Erin Hardie, OD | Lumimare Comm PPO - Aetna | No Ref/No Auth Required | PAR |
 | George Hurwitz, OD | Lumimare Comm PPO - Aetna | No Ref/No Auth Required | PAR |
-| Gisselle Vega Carraso | Lumimare Comm PPO - Aetna | No Ref/No Auth Required | Non-PAR |
+| Gisselle Vega Carraso | Lumimare Comm PPO - Aetna | No Ref/No Auth Required | PAR |
 | James Lenhart, OD | Lumimare Comm PPO - Aetna | No Ref/No Auth Required | PAR |
 | Joaquin De Rojas, MD | Lumimare Comm PPO - Aetna | No Ref/No Auth Required | PAR |
 | John Fezza, MD (Oculoplastics) | Lumimare Comm PPO - Aetna | No Ref/No Auth Required | PAR |

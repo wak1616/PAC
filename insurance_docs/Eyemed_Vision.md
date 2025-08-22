@@ -17,7 +17,7 @@
 | Elizabeth Davis, MD | Eyemed Vision | No Ref/No Auth Required | Non-PAR |
 | Erin Hardie, OD | Eyemed Vision | No Ref/No Auth Required | PAR |
 | George Hurwitz, OD | Eyemed Vision | No Ref/No Auth Required | PAR |
-| Gisselle Vega Carraso | Eyemed Vision | No Ref/No Auth Required | Non-PAR |
+| Gisselle Vega Carraso | Eyemed Vision | No Ref/No Auth Required | PAR |
 | James Lenhart, OD | Eyemed Vision | No Ref/No Auth Required | PAR |
 | Joaquin De Rojas, MD | Eyemed Vision | No Ref/No Auth Required | Non-PAR |
 | John Fezza, MD (Oculoplastics) | Eyemed Vision | No Ref/No Auth Required | Non-PAR |

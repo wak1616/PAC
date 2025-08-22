@@ -17,7 +17,7 @@
 | Elizabeth Davis, MD | Aetna Medicare HMO POS | No Ref/No Auth Required | PAR |
 | Erin Hardie, OD | Aetna Medicare HMO POS | No Ref/No Auth Required | PAR |
 | George Hurwitz, OD | Aetna Medicare HMO POS | No Ref/No Auth Required | PAR |
-| Gisselle Vega Carraso | Aetna Medicare HMO POS | No Ref/No Auth Required | Non-PAR |
+| Gisselle Vega Carraso | Aetna Medicare HMO POS | No Ref/No Auth Required | PAR |
 | James Lenhart, OD | Aetna Medicare HMO POS | No Ref/No Auth Required | PAR |
 | Joaquin De Rojas, MD | Aetna Medicare HMO POS | No Ref/No Auth Required | PAR |
 | John Fezza, MD (Oculoplastics) | Aetna Medicare HMO POS | No Ref/No Auth Required | PAR |
@@ -49,10 +49,10 @@
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
-| Albert Smolyar, MD | Aetna Medicare HMO POS |  | PAR |
-| Brian Marhue, OD | Aetna Medicare HMO POS |  | PAR |
-| Penny Orr, OD | Aetna Medicare HMO POS |  | PAR |
-| Sarah Johnson, OD | Aetna Medicare HMO POS |  | PAR |
+| Albert Smolyar, MD | Aetna Medicare HMO POS |  | Non-PAR |
+| Brian Marhue, OD | Aetna Medicare HMO POS |  | Non-PAR |
+| Penny Orr, OD | Aetna Medicare HMO POS |  | Non-PAR |
+| Sarah Johnson, OD | Aetna Medicare HMO POS |  | Non-PAR |
 
 </details>
 
