@@ -992,6 +992,8 @@ The **retina** is a delicate, light-sensitive tissue lining the interior of the 
    * If >8 weeks since last injection, schedule a **Dilated Fundus** exam.
    * Rescheduling an injection should be done within **10 business days** of the original date.
    * For all other injection-scheduling questions, send an **ICP** message to the doctor's team.
+6. Referrals to retina should not come from a primary care physician. If we receive a referral from a PCP to retina, we should schedule with an OD first.
+7. Dr. Eaton is no longer accepting new patients.
 
 #### Process
 
