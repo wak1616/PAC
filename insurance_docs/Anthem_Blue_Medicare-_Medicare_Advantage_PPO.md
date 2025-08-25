@@ -17,7 +17,7 @@
 | Elizabeth Davis, MD | Anthem BCBS Medicare PPO | No Ref/No Auth Required | PAR |
 | Erin Hardie, OD | Anthem BCBS Medicare PPO | No Ref/No Auth Required | PAR |
 | George Hurwitz, OD | Anthem BCBS Medicare PPO | No Ref/No Auth Required | PAR |
-| Gisselle Vega Carraso | Anthem BCBS Medicare PPO | No Ref/No Auth Required | Non-PAR |
+| Gisselle Vega Carraso | Anthem BCBS Medicare PPO | No Ref/No Auth Required | PAR |
 | James Lenhart, OD | Anthem BCBS Medicare PPO | No Ref/No Auth Required | PAR |
 | Joaquin De Rojas, MD | Anthem BCBS Medicare PPO | No Ref/No Auth Required | PAR |
 | John Fezza, MD (Oculoplastics) | Anthem BCBS Medicare PPO | No Ref/No Auth Required | PAR |

@@ -17,7 +17,7 @@
 | Elizabeth Davis, MD | UHC Global  USN01 | No Ref/No Auth Required | PAR |
 | Erin Hardie, OD | UHC Global  USN01 | No Ref/No Auth Required | PAR |
 | George Hurwitz, OD | UHC Global  USN01 | No Ref/No Auth Required | PAR |
-| Gisselle Vega Carraso | UHC Global  USN01 | No Ref/No Auth Required | Non-PAR |
+| Gisselle Vega Carraso | UHC Global  USN01 | No Ref/No Auth Required | PAR |
 | James Lenhart, OD | UHC Global  USN01 | No Ref/No Auth Required | PAR |
 | Joaquin De Rojas, MD | UHC Global  USN01 | No Ref/No Auth Required | PAR |
 | John Fezza, MD (Oculoplastics) | UHC Global  USN01 | No Ref/No Auth Required | PAR |
@@ -26,7 +26,7 @@
 | Joshua Kim, MD | UHC Global  USN01 | No Ref/No Auth Required | PAR |
 | Joshua Newman, MD | UHC Global  USN01 | No Ref/No Auth Required | PAR |
 | Kalie Kosek, PA | UHC Global  USN01 | No Ref/No Auth Required | PAR |
-| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | UHC Global  USN01 | No Ref/No Auth Required | Non-PAR |
+| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | UHC Global  USN01 | No Ref/No Auth Required | PAR |
 | Kyle Schaub, OD | UHC Global  USN01 | No Ref/No Auth Required | PAR |
 | Len Brown, OD | UHC Global  USN01 | No Ref/No Auth Required | PAR |
 | Logan Page, OD | UHC Global  USN01 | No Ref/No Auth Required | PAR |

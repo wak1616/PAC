@@ -91,7 +91,7 @@
 | BCBS of FL SimplyBlue - Alpha Prefix FSOH | BCBS FL Commercial HMO | Authorization Required | PAR |
 | BCBS Out of State California ONLY | BCBS OOS CA - REFERRAL AND AUTH REQ- | Authorization Required | PAR |
 | BCBS Out of State Commercial PPO Plans -all plans that are not BCBS of Florida; please ask the patient to check the front and back copy of the card for the state. If the card says "Anthem", please see ANTHEM on the insurance guide | BCBS Out of State Commercial PPO | No Ref/No Auth Required | PAR |
-| BCBS Out of State HMO Plans - ALL PLANS Commercial and Medicare HMO PLANS | Self Pay Non-Par with Ins |  | PAR |
+| BCBS Out of State HMO Plans - ALL PLANS Commercial and Medicare HMO PLANS | Self Pay Non-Par with Ins |  | Non-PAR |
 | BCBS Out of State Medicare HMO-POS Plans - Medicare HMO POS Plans do have OON benefits. Note: BCBS Michigan Medicare HMO-POS (alpha prefix XYK) | BCBS OOS MDCR HMO POS - REFERRAL REQ | Referral Required | PAR |
 | BCBS Out of State Medicare PPO Plans -all plans that are not BCBS of Florida; please ask the patient to check the front and back copy of the card for the state. If the card says "Anthem", please see ANTHEM on the insurance guide | BCBS Out of State Medicare PPO | No Ref/No Auth Required | PAR |
 | Best Care Alliance (Former Innovatus Health) | PENDING | No Ref/No Auth Required | PAR |
@@ -106,7 +106,7 @@
 | Carefirst BCBS Medicare Advantage (PPO) | Carefirst BCBS Medicare PPO | No Ref/No Auth Required | PAR |
 | Carefirst Commercial - CareFirst Regional | Carefirst BCBS Commercial HMO | No Ref/No Auth Required | PAR |
 | Carefirst Commercial - CareFirst Regional-BlueChoice Plus Gold/ BlueChoice HMO Standard/BlueChoice HMO HSA/HRA Gold BlueChoice HMO Gold Virtual Connect | Carefirst BCBS Commercial HMO | No Ref/No Auth Required | PAR |
-| ChampVA (VACCN) | Champva | No Ref/No Auth Required | Non-PAR |
+| ChampVA (VACCN) | Champva | No Ref/No Auth Required | PAR |
 | CHCBP Claims - Tricare East - CFS is OUT OF NETWORK. PATIENT HAS OON BENEFITS. PLEASE INFORM PATIENT OF POSSIBLE HIGHER OUT OF POCKET COSTS. Routine Eye Exams are NON-covered | CHCBP Claims | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Cigna - NALC Benefit Health Plan | NALC Health Benefit Plan- Cigna | No Ref/No Auth Required | Non-PAR |
 | Cigna Commercial- ChoiceFund OA Plus/ Cigna ChoiceFund OA Plus with CareLink | Cigna Commercial PPO | No Ref/No Auth Required | Non-PAR |
@@ -168,9 +168,9 @@
 | Surest (United Healthcare Choice Plus Network) | UHC Surest-25463 Commercial - UHC | No Ref/No Auth Required | Non-PAR |
 | The Empire Plan- NYSHIP | UHC Empire Plan-NYSHIP-87726 | No Ref/No Auth Required | Non-PAR |
 | The Health Plan PPO - PHCS | The Health Plan PPO - PHCS | No Ref/No Auth Required | Non-PAR |
-| Tricare Prime CFS is OUT OF NETWORK. PATIENT HAS OON BENEFITS. PLEASE INFORM PATIENT OF POSSIBLE HIGHER OUT OF POCKET COSTS (see note). covered for a Routine Eye Exam every two years | Tricare Prime HMO-REFERRAL REQ | Referral Required | Non-PAR |
-| Tricare Select CFS is OUT OF NETWORK. PATIENT HAS OON BENEFITS. PLEASE INFORM PATIENT OF POSSIBLE HIGHER OUT OF POCKET COSTS. Routine Eye Exams are NON-covered | Tricare Select | No Ref/No Auth Required | Non-PAR |
-| UCare Medicare HMO CFS is OUT OF NETWORK. PATIENT HAS OON BENEFITS. PLEASE INFORM PATIENT OF POSSIBLE HIGHER OUT OF POCKET COSTS. | UCare Medicare HMO | No Ref/No Auth Required | Non-PAR |
+| Tricare Prime CFS is OUT OF NETWORK. PATIENT HAS OON BENEFITS. PLEASE INFORM PATIENT OF POSSIBLE HIGHER OUT OF POCKET COSTS (see note). covered for a Routine Eye Exam every two years | Tricare Prime HMO-REFERRAL REQ | Referral Required | Non-PAR -OON Benefits |
+| Tricare Select CFS is OUT OF NETWORK. PATIENT HAS OON BENEFITS. PLEASE INFORM PATIENT OF POSSIBLE HIGHER OUT OF POCKET COSTS. Routine Eye Exams are NON-covered | Tricare Select | No Ref/No Auth Required | Non-PAR -OON Benefits |
+| UCare Medicare HMO CFS is OUT OF NETWORK. PATIENT HAS OON BENEFITS. PLEASE INFORM PATIENT OF POSSIBLE HIGHER OUT OF POCKET COSTS. | UCare Medicare HMO | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | UMR (UHC Choice Plus, Core, Freedom, NEXAUSACO OAP, Options PPO, Select Plus POS Networks) | UHC UMR-39026 | No Ref/No Auth Required | Non-PAR |
 | United Healthcare Care Advantage FL-E001 PPO I-SNP | Self Pay Non-Par with Ins |  | Non-PAR |
 | United Healthcare Charter EPO/ POS | UHC PPO/POS-87726 | No Ref/No Auth Required | Non-PAR |

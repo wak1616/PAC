@@ -17,7 +17,7 @@
 | Elizabeth Davis, MD | UHC All Savers-81400 | No Ref/No Auth Required | PAR |
 | Erin Hardie, OD | UHC All Savers-81400 | No Ref/No Auth Required | PAR |
 | George Hurwitz, OD | UHC All Savers-81400 | No Ref/No Auth Required | PAR |
-| Gisselle Vega Carraso | UHC All Savers-81400 | No Ref/No Auth Required | Non-PAR |
+| Gisselle Vega Carraso | UHC All Savers-81400 | No Ref/No Auth Required | PAR |
 | James Lenhart, OD | UHC All Savers-81400 | No Ref/No Auth Required | PAR |
 | Joaquin De Rojas, MD | UHC All Savers-81400 | No Ref/No Auth Required | PAR |
 | John Fezza, MD (Oculoplastics) | UHC All Savers-81400 | No Ref/No Auth Required | PAR |
@@ -26,7 +26,7 @@
 | Joshua Kim, MD | UHC All Savers-81400 | No Ref/No Auth Required | PAR |
 | Joshua Newman, MD | UHC All Savers-81400 | No Ref/No Auth Required | PAR |
 | Kalie Kosek, PA | UHC All Savers-81400 | No Ref/No Auth Required | PAR |
-| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | UHC All Savers-81400 | No Ref/No Auth Required | Non-PAR |
+| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | UHC All Savers-81400 | No Ref/No Auth Required | PAR |
 | Kyle Schaub, OD | UHC All Savers-81400 | No Ref/No Auth Required | PAR |
 | Len Brown, OD | UHC All Savers-81400 | No Ref/No Auth Required | PAR |
 | Logan Page, OD | UHC All Savers-81400 | No Ref/No Auth Required | PAR |

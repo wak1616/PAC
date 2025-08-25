@@ -17,7 +17,7 @@
 | Elizabeth Davis, MD | UHC Golden Rule-37602 | No Ref/No Auth Required | PAR |
 | Erin Hardie, OD | UHC Golden Rule-37602 | No Ref/No Auth Required | PAR |
 | George Hurwitz, OD | UHC Golden Rule-37602 | No Ref/No Auth Required | PAR |
-| Gisselle Vega Carraso | UHC Golden Rule-37602 | No Ref/No Auth Required | Non-PAR |
+| Gisselle Vega Carraso | UHC Golden Rule-37602 | No Ref/No Auth Required | PAR |
 | James Lenhart, OD | UHC Golden Rule-37602 | No Ref/No Auth Required | PAR |
 | Joaquin De Rojas, MD | UHC Golden Rule-37602 | No Ref/No Auth Required | PAR |
 | John Fezza, MD (Oculoplastics) | UHC Golden Rule-37602 | No Ref/No Auth Required | PAR |
@@ -26,7 +26,7 @@
 | Joshua Kim, MD | UHC Golden Rule-37602 | No Ref/No Auth Required | PAR |
 | Joshua Newman, MD | UHC Golden Rule-37602 | No Ref/No Auth Required | PAR |
 | Kalie Kosek, PA | UHC Golden Rule-37602 | No Ref/No Auth Required | PAR |
-| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | UHC Golden Rule-37602 | No Ref/No Auth Required | Non-PAR |
+| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | UHC Golden Rule-37602 | No Ref/No Auth Required | PAR |
 | Kyle Schaub, OD | UHC Golden Rule-37602 | No Ref/No Auth Required | PAR |
 | Len Brown, OD | UHC Golden Rule-37602 | No Ref/No Auth Required | PAR |
 | Logan Page, OD | UHC Golden Rule-37602 | No Ref/No Auth Required | PAR |

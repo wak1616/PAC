@@ -17,7 +17,7 @@
 | Elizabeth Davis, MD | BCBS OOS MDCR HMO POS - REFERRAL REQ | Referral Required | PAR |
 | Erin Hardie, OD | BCBS OOS MDCR HMO POS - REFERRAL REQ | Referral Required | PAR |
 | George Hurwitz, OD | BCBS OOS MDCR HMO POS - REFERRAL REQ | Referral Required | PAR |
-| Gisselle Vega Carraso | BCBS OOS MDCR HMO POS - REFERRAL REQ | Referral Required | Non-PAR |
+| Gisselle Vega Carraso | BCBS OOS MDCR HMO POS - REFERRAL REQ | Referral Required | PAR |
 | James Lenhart, OD | BCBS OOS MDCR HMO POS - REFERRAL REQ | Referral Required | PAR |
 | Joaquin De Rojas, MD | BCBS OOS MDCR HMO POS - REFERRAL REQ | Referral Required | PAR |
 | John Fezza, MD (Oculoplastics) | BCBS OOS MDCR HMO POS - REFERRAL REQ | Referral Required | PAR |

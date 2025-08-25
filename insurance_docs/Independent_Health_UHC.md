@@ -17,7 +17,7 @@
 | Elizabeth Davis, MD | Independent Health - UHC | No Ref/No Auth Required | PAR |
 | Erin Hardie, OD | Independent Health - UHC | No Ref/No Auth Required | PAR |
 | George Hurwitz, OD | Independent Health - UHC | No Ref/No Auth Required | PAR |
-| Gisselle Vega Carraso | Independent Health - UHC | No Ref/No Auth Required | Non-PAR |
+| Gisselle Vega Carraso | Independent Health - UHC | No Ref/No Auth Required | PAR |
 | James Lenhart, OD | Independent Health - UHC | No Ref/No Auth Required | PAR |
 | Joaquin De Rojas, MD | Independent Health - UHC | No Ref/No Auth Required | PAR |
 | John Fezza, MD (Oculoplastics) | Independent Health - UHC | No Ref/No Auth Required | PAR |
@@ -26,7 +26,7 @@
 | Joshua Kim, MD | Independent Health - UHC | No Ref/No Auth Required | PAR |
 | Joshua Newman, MD | Independent Health - UHC | No Ref/No Auth Required | PAR |
 | Kalie Kosek, PA | Independent Health - UHC | No Ref/No Auth Required | PAR |
-| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | Independent Health - UHC | No Ref/No Auth Required | Non-PAR |
+| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | Independent Health - UHC | No Ref/No Auth Required | PAR |
 | Kyle Schaub, OD | Independent Health - UHC | No Ref/No Auth Required | PAR |
 | Len Brown, OD | Independent Health - UHC | No Ref/No Auth Required | PAR |
 | Logan Page, OD | Independent Health - UHC | No Ref/No Auth Required | PAR |

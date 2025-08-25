@@ -17,7 +17,7 @@
 | Elizabeth Davis, MD | UHC ER Wrap | Authorization Required | PAR |
 | Erin Hardie, OD | UHC ER Wrap | Authorization Required | PAR |
 | George Hurwitz, OD | UHC ER Wrap | Authorization Required | PAR |
-| Gisselle Vega Carraso | UHC ER Wrap | Authorization Required | Non-PAR |
+| Gisselle Vega Carraso | UHC ER Wrap | Authorization Required | PAR |
 | James Lenhart, OD | UHC ER Wrap | Authorization Required | PAR |
 | Joaquin De Rojas, MD | UHC ER Wrap | Authorization Required | PAR |
 | John Fezza, MD (Oculoplastics) | UHC ER Wrap | Authorization Required | PAR |

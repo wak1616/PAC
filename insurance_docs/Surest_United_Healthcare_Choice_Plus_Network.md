@@ -17,7 +17,7 @@
 | Elizabeth Davis, MD | UHC Surest-25463 Commercial - UHC | No Ref/No Auth Required | PAR |
 | Erin Hardie, OD | UHC Surest-25463 Commercial - UHC | No Ref/No Auth Required | PAR |
 | George Hurwitz, OD | UHC Surest-25463 Commercial - UHC | No Ref/No Auth Required | PAR |
-| Gisselle Vega Carraso | UHC Surest-25463 Commercial - UHC | No Ref/No Auth Required | Non-PAR |
+| Gisselle Vega Carraso | UHC Surest-25463 Commercial - UHC | No Ref/No Auth Required | PAR |
 | James Lenhart, OD | UHC Surest-25463 Commercial - UHC | No Ref/No Auth Required | PAR |
 | Joaquin De Rojas, MD | UHC Surest-25463 Commercial - UHC | No Ref/No Auth Required | PAR |
 | John Fezza, MD (Oculoplastics) | UHC Surest-25463 Commercial - UHC | No Ref/No Auth Required | PAR |
@@ -26,7 +26,7 @@
 | Joshua Kim, MD | UHC Surest-25463 Commercial - UHC | No Ref/No Auth Required | PAR |
 | Joshua Newman, MD | UHC Surest-25463 Commercial - UHC | No Ref/No Auth Required | PAR |
 | Kalie Kosek, PA | UHC Surest-25463 Commercial - UHC | No Ref/No Auth Required | PAR |
-| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | UHC Surest-25463 Commercial - UHC | No Ref/No Auth Required | Non-PAR |
+| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | UHC Surest-25463 Commercial - UHC | No Ref/No Auth Required | PAR |
 | Kyle Schaub, OD | UHC Surest-25463 Commercial - UHC | No Ref/No Auth Required | PAR |
 | Len Brown, OD | UHC Surest-25463 Commercial - UHC | No Ref/No Auth Required | PAR |
 | Logan Page, OD | UHC Surest-25463 Commercial - UHC | No Ref/No Auth Required | PAR |

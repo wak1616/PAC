@@ -21,7 +21,7 @@
 | James Lenhart, OD | UCare Medicare HMO | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Joaquin De Rojas, MD | UCare Medicare HMO | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | John Fezza, MD (Oculoplastics) | UCare Medicare HMO | No Ref/No Auth Required | Non-PAR -OON Benefits |
-| Jordan Shoemaker, PA - Start Date 10/06/2025 | UCare Medicare HMO | No Ref/No Auth Required | Non-PAR |
+| Jordan Shoemaker, PA - Start Date 10/06/2025 | UCare Medicare HMO | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Joseph Sowka, OD | UCare Medicare HMO | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Joshua Kim, MD | UCare Medicare HMO | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Joshua Newman, MD | UCare Medicare HMO | No Ref/No Auth Required | Non-PAR -OON Benefits |

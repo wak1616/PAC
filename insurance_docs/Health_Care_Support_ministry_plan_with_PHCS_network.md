@@ -26,7 +26,7 @@
 | Joshua Kim, MD | Health Care Support - PHCS | No Ref/No Auth Required | PAR |
 | Joshua Newman, MD | Health Care Support - PHCS | No Ref/No Auth Required | PAR |
 | Kalie Kosek, PA | Health Care Support - PHCS | No Ref/No Auth Required | PAR |
-| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | Health Care Support - PHCS | No Ref/No Auth Required | Non-PAR |
+| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | Health Care Support - PHCS | No Ref/No Auth Required | PAR |
 | Kyle Schaub, OD | Health Care Support - PHCS | No Ref/No Auth Required | PAR |
 | Len Brown, OD | Health Care Support - PHCS | No Ref/No Auth Required | PAR |
 | Logan Page, OD | Health Care Support - PHCS | No Ref/No Auth Required | PAR |

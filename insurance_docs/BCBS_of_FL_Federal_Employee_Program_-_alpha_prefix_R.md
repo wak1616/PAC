@@ -17,7 +17,7 @@
 | Elizabeth Davis, MD | BCBS Federal | No Ref/No Auth Required | PAR |
 | Erin Hardie, OD | BCBS Federal | No Ref/No Auth Required | PAR |
 | George Hurwitz, OD | BCBS Federal | No Ref/No Auth Required | PAR |
-| Gisselle Vega Carraso | BCBS Federal | No Ref/No Auth Required | Non-PAR |
+| Gisselle Vega Carraso | BCBS Federal | No Ref/No Auth Required | PAR |
 | James Lenhart, OD | BCBS Federal | No Ref/No Auth Required | PAR |
 | Joaquin De Rojas, MD | BCBS Federal | No Ref/No Auth Required | PAR |
 | John Fezza, MD (Oculoplastics) | BCBS Federal | No Ref/No Auth Required | PAR |

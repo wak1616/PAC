@@ -17,7 +17,7 @@
 | Elizabeth Davis, MD | BCBS FL Commercial PPO | No Ref/No Auth Required | PAR |
 | Erin Hardie, OD | BCBS FL Commercial PPO | No Ref/No Auth Required | PAR |
 | George Hurwitz, OD | BCBS FL Commercial PPO | No Ref/No Auth Required | PAR |
-| Gisselle Vega Carraso | BCBS FL Commercial PPO | No Ref/No Auth Required | Non-PAR |
+| Gisselle Vega Carraso | BCBS FL Commercial PPO | No Ref/No Auth Required | PAR |
 | James Lenhart, OD | BCBS FL Commercial PPO | No Ref/No Auth Required | PAR |
 | Joaquin De Rojas, MD | BCBS FL Commercial PPO | No Ref/No Auth Required | PAR |
 | John Fezza, MD (Oculoplastics) | BCBS FL Commercial PPO | No Ref/No Auth Required | PAR |

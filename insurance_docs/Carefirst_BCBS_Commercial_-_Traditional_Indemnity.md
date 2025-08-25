@@ -17,7 +17,7 @@
 | Elizabeth Davis, MD | Carefirst BCBS Commercial PPO | No Ref/No Auth Required | PAR |
 | Erin Hardie, OD | Carefirst BCBS Commercial PPO | No Ref/No Auth Required | PAR |
 | George Hurwitz, OD | Carefirst BCBS Commercial PPO | No Ref/No Auth Required | PAR |
-| Gisselle Vega Carraso | Carefirst BCBS Commercial PPO | No Ref/No Auth Required | Non-PAR |
+| Gisselle Vega Carraso | Carefirst BCBS Commercial PPO | No Ref/No Auth Required | PAR |
 | James Lenhart, OD | Carefirst BCBS Commercial PPO | No Ref/No Auth Required | PAR |
 | Joaquin De Rojas, MD | Carefirst BCBS Commercial PPO | No Ref/No Auth Required | PAR |
 | John Fezza, MD (Oculoplastics) | Carefirst BCBS Commercial PPO | No Ref/No Auth Required | PAR |

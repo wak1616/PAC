@@ -17,7 +17,7 @@
 | Elizabeth Davis, MD | BCBS Out of State Medicare PPO | No Ref/No Auth Required | PAR |
 | Erin Hardie, OD | BCBS Out of State Medicare PPO | No Ref/No Auth Required | PAR |
 | George Hurwitz, OD | BCBS Out of State Medicare PPO | No Ref/No Auth Required | PAR |
-| Gisselle Vega Carraso | BCBS Out of State Medicare PPO | No Ref/No Auth Required | Non-PAR |
+| Gisselle Vega Carraso | BCBS Out of State Medicare PPO | No Ref/No Auth Required | PAR |
 | James Lenhart, OD | BCBS Out of State Medicare PPO | No Ref/No Auth Required | PAR |
 | Joaquin De Rojas, MD | BCBS Out of State Medicare PPO | No Ref/No Auth Required | PAR |
 | John Fezza, MD (Oculoplastics) | BCBS Out of State Medicare PPO | No Ref/No Auth Required | PAR |

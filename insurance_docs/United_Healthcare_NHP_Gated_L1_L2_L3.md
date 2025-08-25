@@ -17,7 +17,7 @@
 | Elizabeth Davis, MD | UHC Comm HMO REFERRAL REQ | Referral Required | PAR |
 | Erin Hardie, OD | UHC Comm HMO REFERRAL REQ | Referral Required | PAR |
 | George Hurwitz, OD | UHC Comm HMO REFERRAL REQ | Referral Required | PAR |
-| Gisselle Vega Carraso | UHC Comm HMO REFERRAL REQ | Referral Required | Non-PAR |
+| Gisselle Vega Carraso | UHC Comm HMO REFERRAL REQ | Referral Required | PAR |
 | James Lenhart, OD | UHC Comm HMO REFERRAL REQ | Referral Required | PAR |
 | Joaquin De Rojas, MD | UHC Comm HMO REFERRAL REQ | Referral Required | PAR |
 | John Fezza, MD (Oculoplastics) | UHC Comm HMO REFERRAL REQ | Referral Required | PAR |
@@ -26,7 +26,7 @@
 | Joshua Kim, MD | UHC Comm HMO REFERRAL REQ | Referral Required | PAR |
 | Joshua Newman, MD | UHC Comm HMO REFERRAL REQ | Referral Required | PAR |
 | Kalie Kosek, PA | UHC Comm HMO REFERRAL REQ | Referral Required | PAR |
-| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | UHC Comm HMO REFERRAL REQ | Referral Required | Non-PAR |
+| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | UHC Comm HMO REFERRAL REQ | Referral Required | PAR |
 | Kyle Schaub, OD | UHC Comm HMO REFERRAL REQ | Referral Required | PAR |
 | Len Brown, OD | UHC Comm HMO REFERRAL REQ | Referral Required | PAR |
 | Logan Page, OD | UHC Comm HMO REFERRAL REQ | Referral Required | PAR |

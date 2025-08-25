@@ -17,11 +17,11 @@
 | Elizabeth Davis, MD | Champva | No Ref/No Auth Required | PAR |
 | Erin Hardie, OD | Champva | No Ref/No Auth Required | PAR |
 | George Hurwitz, OD | Champva | No Ref/No Auth Required | PAR |
-| Gisselle Vega Carraso | Champva | No Ref/No Auth Required | Non-PAR |
+| Gisselle Vega Carraso | Champva | No Ref/No Auth Required | PAR |
 | James Lenhart, OD | Champva | No Ref/No Auth Required | PAR |
 | Joaquin De Rojas, MD | Champva | No Ref/No Auth Required | PAR |
 | John Fezza, MD (Oculoplastics) | Champva | No Ref/No Auth Required | PAR |
-| Jordan Shoemaker, PA - Start Date 10/06/2025 | Champva | No Ref/No Auth Required | Non-PAR |
+| Jordan Shoemaker, PA - Start Date 10/06/2025 | Champva | No Ref/No Auth Required | PAR |
 | Joseph Sowka, OD | Champva | No Ref/No Auth Required | PAR |
 | Joshua Kim, MD | Champva | No Ref/No Auth Required | PAR |
 | Joshua Newman, MD | Champva | No Ref/No Auth Required | PAR |

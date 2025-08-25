@@ -17,7 +17,7 @@
 | Elizabeth Davis, MD | UHC Shared Services PPO-39026 | No Ref/No Auth Required | PAR |
 | Erin Hardie, OD | UHC Shared Services PPO-39026 | No Ref/No Auth Required | PAR |
 | George Hurwitz, OD | UHC Shared Services PPO-39026 | No Ref/No Auth Required | PAR |
-| Gisselle Vega Carraso | UHC Shared Services PPO-39026 | No Ref/No Auth Required | Non-PAR |
+| Gisselle Vega Carraso | UHC Shared Services PPO-39026 | No Ref/No Auth Required | PAR |
 | James Lenhart, OD | UHC Shared Services PPO-39026 | No Ref/No Auth Required | PAR |
 | Joaquin De Rojas, MD | UHC Shared Services PPO-39026 | No Ref/No Auth Required | PAR |
 | John Fezza, MD (Oculoplastics) | UHC Shared Services PPO-39026 | No Ref/No Auth Required | PAR |
@@ -26,7 +26,7 @@
 | Joshua Kim, MD | UHC Shared Services PPO-39026 | No Ref/No Auth Required | PAR |
 | Joshua Newman, MD | UHC Shared Services PPO-39026 | No Ref/No Auth Required | PAR |
 | Kalie Kosek, PA | UHC Shared Services PPO-39026 | No Ref/No Auth Required | PAR |
-| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | UHC Shared Services PPO-39026 | No Ref/No Auth Required | Non-PAR |
+| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | UHC Shared Services PPO-39026 | No Ref/No Auth Required | PAR |
 | Kyle Schaub, OD | UHC Shared Services PPO-39026 | No Ref/No Auth Required | PAR |
 | Len Brown, OD | UHC Shared Services PPO-39026 | No Ref/No Auth Required | PAR |
 | Logan Page, OD | UHC Shared Services PPO-39026 | No Ref/No Auth Required | PAR |

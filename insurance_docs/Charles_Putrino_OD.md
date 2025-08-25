@@ -180,7 +180,7 @@
 | United Healthcare Choice Plus POS | UHC PPO/POS-87726 | No Ref/No Auth Required | PAR |
 | United Healthcare Choice Plus POS- the card will say HCA Healthcare-If patient has surgery, OOP costs are higher at 75% coinsurance as the patient's preferred facility is HCA Healthcare | UHC HCA Healthcare-87726 | No Ref/No Auth Required | PAR |
 | United Healthcare Compass ALL PLANS | Self Pay Non-Par with Ins |  | Non-PAR |
-| United Healthcare Complete Care Walgreens FL-0014 HMO-POS C-SNP | UHC AARP Advantage HMO-87726 | No Ref/No Auth Required | PAR |
+| United Healthcare Complete Care Walgreens FL-0014 HMO-POS C-SNP | UHC AARP Advantage HMO-87726 | No Ref/No Auth Required | Non-PAR |
 | United Healthcare Core Choice Plus/ Choice Plus POS/ EPO | UHC PPO/POS-87726 | No Ref/No Auth Required | PAR |
 | United Healthcare Core HMO | UHC Commercial HMO | No Ref/No Auth Required | PAR |
 | United Healthcare Doctors Plan EPO/ Plan Plus POS | UHC PPO/POS-87726 | No Ref/No Auth Required | PAR |

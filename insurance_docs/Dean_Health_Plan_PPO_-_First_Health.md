@@ -17,7 +17,7 @@
 | Elizabeth Davis, MD | Dean Health Plan PPO | No Ref/No Auth Required | PAR |
 | Erin Hardie, OD | Dean Health Plan PPO | No Ref/No Auth Required | PAR |
 | George Hurwitz, OD | Dean Health Plan PPO | No Ref/No Auth Required | PAR |
-| Gisselle Vega Carraso | Dean Health Plan PPO | No Ref/No Auth Required | Non-PAR |
+| Gisselle Vega Carraso | Dean Health Plan PPO | No Ref/No Auth Required | PAR |
 | James Lenhart, OD | Dean Health Plan PPO | No Ref/No Auth Required | PAR |
 | Joaquin De Rojas, MD | Dean Health Plan PPO | No Ref/No Auth Required | PAR |
 | John Fezza, MD (Oculoplastics) | Dean Health Plan PPO | No Ref/No Auth Required | PAR |
@@ -26,7 +26,7 @@
 | Joshua Kim, MD | Dean Health Plan PPO | No Ref/No Auth Required | PAR |
 | Joshua Newman, MD | Dean Health Plan PPO | No Ref/No Auth Required | PAR |
 | Kalie Kosek, PA | Dean Health Plan PPO | No Ref/No Auth Required | PAR |
-| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | Dean Health Plan PPO | No Ref/No Auth Required | Non-PAR |
+| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | Dean Health Plan PPO | No Ref/No Auth Required | PAR |
 | Kyle Schaub, OD | Dean Health Plan PPO | No Ref/No Auth Required | PAR |
 | Len Brown, OD | Dean Health Plan PPO | No Ref/No Auth Required | PAR |
 | Logan Page, OD | Dean Health Plan PPO | No Ref/No Auth Required | PAR |

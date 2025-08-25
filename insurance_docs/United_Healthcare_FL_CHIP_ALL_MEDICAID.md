@@ -17,7 +17,7 @@
 | Elizabeth Davis, MD | Self Pay Non-Par with Ins |  | PAR |
 | Erin Hardie, OD | Self Pay Non-Par with Ins |  | Non-PAR |
 | George Hurwitz, OD | Self Pay Non-Par with Ins |  | Non-PAR |
-| Gisselle Vega Carraso | Self Pay Non-Par with Ins |  | Non-PAR |
+| Gisselle Vega Carraso | Self Pay Non-Par with Ins |  | PAR |
 | James Lenhart, OD | Self Pay Non-Par with Ins |  | Non-PAR |
 | Joaquin De Rojas, MD | Self Pay Non-Par with Ins |  | Non-PAR |
 | John Fezza, MD (Oculoplastics) | Self Pay Non-Par with Ins |  | Non-PAR |

@@ -17,7 +17,7 @@
 | Elizabeth Davis, MD | Division of Blind | Authorization Required | PAR |
 | Erin Hardie, OD | Division of Blind | Authorization Required | PAR |
 | George Hurwitz, OD | Division of Blind | Authorization Required | PAR |
-| Gisselle Vega Carraso | Division of Blind | Authorization Required | Non-PAR |
+| Gisselle Vega Carraso | Division of Blind | Authorization Required | PAR |
 | James Lenhart, OD | Division of Blind | Authorization Required | PAR |
 | Joaquin De Rojas, MD | Division of Blind | Authorization Required | PAR |
 | John Fezza, MD (Oculoplastics) | Division of Blind | Authorization Required | PAR |

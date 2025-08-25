@@ -17,7 +17,7 @@
 | Elizabeth Davis, MD | BCBS OOS CA - REFERRAL AND AUTH REQ- | Authorization Required | PAR |
 | Erin Hardie, OD | BCBS OOS CA - REFERRAL AND AUTH REQ- | Authorization Required | PAR |
 | George Hurwitz, OD | BCBS OOS CA - REFERRAL AND AUTH REQ- | Authorization Required | PAR |
-| Gisselle Vega Carraso | BCBS OOS CA - REFERRAL AND AUTH REQ- | Authorization Required | Non-PAR |
+| Gisselle Vega Carraso | BCBS OOS CA - REFERRAL AND AUTH REQ- | Authorization Required | PAR |
 | James Lenhart, OD | BCBS OOS CA - REFERRAL AND AUTH REQ- | Authorization Required | PAR |
 | Joaquin De Rojas, MD | BCBS OOS CA - REFERRAL AND AUTH REQ- | Authorization Required | PAR |
 | John Fezza, MD (Oculoplastics) | BCBS OOS CA - REFERRAL AND AUTH REQ- | Authorization Required | PAR |
