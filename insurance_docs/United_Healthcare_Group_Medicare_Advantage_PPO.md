@@ -62,7 +62,7 @@
 | Christine Bui, OD | UHC Medicare Advantage PPO-87726 | No Ref/No Auth Required | PAR |
 | Diba Ossareh, OD | UHC Medicare Advantage PPO-87726 | No Ref/No Auth Required | PAR |
 | Jose Vazques-Diaz, MD | UHC Medicare Advantage PPO-87726 | No Ref/No Auth Required | PAR |
-| Karin Girgis, OD | UHC Medicare Advantage PPO-87726 | No Ref/No Auth Required | Non-PAR |
+| Karin Girgis, OD | UHC Medicare Advantage PPO-87726 | No Ref/No Auth Required | PAR |
 | Mari Holderby, OD | UHC Medicare Advantage PPO-87726 | No Ref/No Auth Required | PAR |
 | Scot Holman, MD | UHC Medicare Advantage PPO-87726 | No Ref/No Auth Required | PAR |
 | Scott Wehrly, MD | UHC Medicare Advantage PPO-87726 | No Ref/No Auth Required | PAR |

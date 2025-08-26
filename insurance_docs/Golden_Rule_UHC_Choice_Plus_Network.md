@@ -62,7 +62,7 @@
 | Christine Bui, OD | UHC Golden Rule-37602 | No Ref/No Auth Required | PAR |
 | Diba Ossareh, OD | UHC Golden Rule-37602 | No Ref/No Auth Required | PAR |
 | Jose Vazques-Diaz, MD | UHC Golden Rule-37602 | No Ref/No Auth Required | PAR |
-| Karin Girgis, OD | UHC Golden Rule-37602 | No Ref/No Auth Required | Non-PAR |
+| Karin Girgis, OD | UHC Golden Rule-37602 | No Ref/No Auth Required | PAR |
 | Mari Holderby, OD | UHC Golden Rule-37602 | No Ref/No Auth Required | PAR |
 | Scot Holman, MD | UHC Golden Rule-37602 | No Ref/No Auth Required | PAR |
 | Scott Wehrly, MD | UHC Golden Rule-37602 | No Ref/No Auth Required | PAR |

@@ -62,7 +62,7 @@
 | Christine Bui, OD | ChampVA | No Ref/No Auth Required | PAR |
 | Diba Ossareh, OD | ChampVA | No Ref/No Auth Required | PAR |
 | Jose Vazques-Diaz, MD | ChampVA | No Ref/No Auth Required | PAR |
-| Karin Girgis, OD | ChampVA | No Ref/No Auth Required | Non-PAR |
+| Karin Girgis, OD | ChampVA | No Ref/No Auth Required | PAR |
 | Mari Holderby, OD | ChampVA | No Ref/No Auth Required | PAR |
 | Scot Holman, MD | ChampVA | No Ref/No Auth Required | PAR |
 | Scott Wehrly, MD | ChampVA | No Ref/No Auth Required | PAR |

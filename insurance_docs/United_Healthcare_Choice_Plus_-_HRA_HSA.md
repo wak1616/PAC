@@ -62,7 +62,7 @@
 | Christine Bui, OD | UHC HRA/HSA/POS-87726 | No Ref/No Auth Required | PAR |
 | Diba Ossareh, OD | UHC HRA/HSA/POS-87726 | No Ref/No Auth Required | PAR |
 | Jose Vazques-Diaz, MD | UHC HRA/HSA/POS-87726 | No Ref/No Auth Required | PAR |
-| Karin Girgis, OD | UHC HRA/HSA/POS-87726 | No Ref/No Auth Required | Non-PAR |
+| Karin Girgis, OD | UHC HRA/HSA/POS-87726 | No Ref/No Auth Required | PAR |
 | Mari Holderby, OD | UHC HRA/HSA/POS-87726 | No Ref/No Auth Required | PAR |
 | Scot Holman, MD | UHC HRA/HSA/POS-87726 | No Ref/No Auth Required | PAR |
 | Scott Wehrly, MD | UHC HRA/HSA/POS-87726 | No Ref/No Auth Required | PAR |

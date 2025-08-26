@@ -12,7 +12,7 @@
 | Christine Bui, OD | Tricare Select | No Ref/No Auth Required | PAR |
 | Diba Ossareh, OD | Tricare Select | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Jose Vazques-Diaz, MD | Tricare Select | No Ref/No Auth Required | PAR |
-| Karin Girgis, OD | Tricare Select | No Ref/No Auth Required | Non-PAR |
+| Karin Girgis, OD | Tricare Select | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Mari Holderby, OD | Tricare Select | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Scot Holman, MD | Tricare Select | No Ref/No Auth Required | PAR |
 | Scott Wehrly, MD | Tricare Select | No Ref/No Auth Required | PAR |

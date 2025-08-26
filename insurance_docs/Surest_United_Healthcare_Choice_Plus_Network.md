@@ -62,7 +62,7 @@
 | Christine Bui, OD | UHC Surest-25463 | No Ref/No Auth Required | PAR |
 | Diba Ossareh, OD | UHC Surest-25463 | No Ref/No Auth Required | PAR |
 | Jose Vazques-Diaz, MD | UHC Surest-25463 | No Ref/No Auth Required | PAR |
-| Karin Girgis, OD | UHC Surest-25463 | No Ref/No Auth Required | Non-PAR |
+| Karin Girgis, OD | UHC Surest-25463 | No Ref/No Auth Required | PAR |
 | Mari Holderby, OD | UHC Surest-25463 | No Ref/No Auth Required | PAR |
 | Scot Holman, MD | UHC Surest-25463 | No Ref/No Auth Required | PAR |
 | Scott Wehrly, MD | UHC Surest-25463 | No Ref/No Auth Required | PAR |

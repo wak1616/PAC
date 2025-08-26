@@ -62,7 +62,7 @@
 | Christine Bui, OD | UHC Medica-94265 |  | PAR |
 | Diba Ossareh, OD | UHC Medica-94265 |  | PAR |
 | Jose Vazques-Diaz, MD | UHC Medica-94265 |  | PAR |
-| Karin Girgis, OD | UHC Medica-94265 |  | Non-PAR |
+| Karin Girgis, OD | UHC Medica-94265 |  | PAR |
 | Mari Holderby, OD | UHC Medica-94265 |  | PAR |
 | Scot Holman, MD | UHC Medica-94265 |  | PAR |
 | Scott Wehrly, MD | UHC Medica-94265 |  | PAR |

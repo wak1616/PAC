@@ -62,7 +62,7 @@
 | Christine Bui, OD | UHC GEHA-39026 | No Ref/No Auth Required | PAR |
 | Diba Ossareh, OD | UHC GEHA-39026 | No Ref/No Auth Required | PAR |
 | Jose Vazques-Diaz, MD | UHC GEHA-39026 | No Ref/No Auth Required | PAR |
-| Karin Girgis, OD | UHC GEHA-39026 | No Ref/No Auth Required | Non-PAR |
+| Karin Girgis, OD | UHC GEHA-39026 | No Ref/No Auth Required | PAR |
 | Mari Holderby, OD | UHC GEHA-39026 | No Ref/No Auth Required | PAR |
 | Scot Holman, MD | UHC GEHA-39026 | No Ref/No Auth Required | PAR |
 | Scott Wehrly, MD | UHC GEHA-39026 | No Ref/No Auth Required | PAR |

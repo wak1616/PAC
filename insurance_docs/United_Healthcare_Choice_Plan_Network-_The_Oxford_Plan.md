@@ -62,7 +62,7 @@
 | Christine Bui, OD | UHC Oxford PPO-06111 | No Ref/No Auth Required | PAR |
 | Diba Ossareh, OD | UHC Oxford PPO-06111 | No Ref/No Auth Required | PAR |
 | Jose Vazques-Diaz, MD | UHC Oxford PPO-06111 | No Ref/No Auth Required | PAR |
-| Karin Girgis, OD | UHC Oxford PPO-06111 | No Ref/No Auth Required | Non-PAR |
+| Karin Girgis, OD | UHC Oxford PPO-06111 | No Ref/No Auth Required | PAR |
 | Mari Holderby, OD | UHC Oxford PPO-06111 | No Ref/No Auth Required | PAR |
 | Scot Holman, MD | UHC Oxford PPO-06111 | No Ref/No Auth Required | PAR |
 | Scott Wehrly, MD | UHC Oxford PPO-06111 | No Ref/No Auth Required | PAR |

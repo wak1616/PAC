@@ -62,7 +62,7 @@
 | Christine Bui, OD | UHC Shared Services PPO-39026 | No Ref/No Auth Required | PAR |
 | Diba Ossareh, OD | UHC Shared Services PPO-39026 | No Ref/No Auth Required | PAR |
 | Jose Vazques-Diaz, MD | UHC Shared Services PPO-39026 | No Ref/No Auth Required | PAR |
-| Karin Girgis, OD | UHC Shared Services PPO-39026 | No Ref/No Auth Required | Non-PAR |
+| Karin Girgis, OD | UHC Shared Services PPO-39026 | No Ref/No Auth Required | PAR |
 | Mari Holderby, OD | UHC Shared Services PPO-39026 | No Ref/No Auth Required | PAR |
 | Scot Holman, MD | UHC Shared Services PPO-39026 | No Ref/No Auth Required | PAR |
 | Scott Wehrly, MD | UHC Shared Services PPO-39026 | No Ref/No Auth Required | PAR |
