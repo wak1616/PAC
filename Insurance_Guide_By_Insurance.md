@@ -1,6 +1,6 @@
 # Insurance Guide By Insurance Plan
 
-*Last Updated: 08/26/2025 (based on data from Excel file: [US Eye Insurance Guide.xlsx](https://useyecorp.sharepoint.com/:x:/r/RCM/Shared%20Documents/Insurance%20Guides/US%20Eye%20Insurance%20Guide.xlsx?d=w2a2138d41fa04bfa919fc4966998346a&csf=1&web=1&e=73a3Gf&nav=MTVfezIwMjg5MTIyLTdDRkEtNEE0OS1CODBGLTdFNTc3Njc3OTJDNX0))*
+*Last Updated: 08/27/2025 (based on data from Excel file: [US Eye Insurance Guide.xlsx](https://useyecorp.sharepoint.com/:x:/r/RCM/Shared%20Documents/Insurance%20Guides/US%20Eye%20Insurance%20Guide.xlsx?d=w2a2138d41fa04bfa919fc4966998346a&csf=1&web=1&e=73a3Gf&nav=MTVfezIwMjg5MTIyLTdDRkEtNEE0OS1CODBGLTdFNTc3Njc3OTJDNX0))*
 
 *This guide lists insurance participation by insurance plan. Click an insurance plan to view all providers who accept that insurance, grouped by location.*
 
@@ -207,6 +207,7 @@
 * [BCBS BlueOptions/Blue Options Hospial Surgical Plus/Blue Options with Pediactric Vision](insurance_docs/BCBS_BlueOptions_Blue_Options_Hospial_Surgical_Plus_Blue_Options_with_Pediactric_Vision.md)
 * [BCBS BlueSelect/BlueSelect Hospital Surgical Plus/BlueSelect w. Pediatric Vision](insurance_docs/BCBS_BlueSelect_BlueSelect_Hospital_Surgical_Plus_BlueSelect_w._Pediatric_Vision.md)
 * [BCBS FL - ALL DUAL PLANS](insurance_docs/BCBS_FL_-_ALL_DUAL_PLANS.md)
+* [BCBS FL GatorCare (Tier 2)](insurance_docs/BCBS_FL_GatorCare_Tier_2.md)
 * [BCBS FL HMO Plans - ALL PLANS Commercial and Medicare HMO PLANS](insurance_docs/BCBS_FL_HMO_Plans_-_ALL_PLANS_Commercial_and_Medicare_HMO_PLANS.md)
 * [BCBS Out of State California ONLY](insurance_docs/BCBS_Out_of_State_California_ONLY.md)
 * [BCBS Out of State California ONLY -](insurance_docs/BCBS_Out_of_State_California_ONLY_-.md)

@@ -75,6 +75,7 @@
 | BCBS BlueOptions/Blue Options Hospial Surgical Plus/Blue Options with Pediactric Vision | BCBS FL Commercial PPO | No Ref/No Auth Required | PAR |
 | BCBS BlueSelect/BlueSelect Hospital Surgical Plus/BlueSelect w. Pediatric Vision | BCBS FL Commercial PPO | No Ref/No Auth Required | PAR |
 | BCBS of FL BlueCare/Blue Care w. Pediactric Vision - Alpha Prefix XJGH, VMBH, VMEH | BCBS FL myBlue HMO REFERRAL REQ | Referral Required | PAR |
+| BCBS FL GatorCare (Tier 2) | BCBS FL Commercial PPO |  | PAR |
 | BCBS of FL BlueChoice | BCBS FL Commercial PPO | No Ref/No Auth Required | PAR |
 | BCBS of FL BlueMedicare Group PPO (Employer PPO) | BCBS FL Medicare PPO | No Ref/No Auth Required | PAR |
 | BCBS of FL BlueMedicare Patriot (PPO) | BCBS FL Medicare PPO | No Ref/No Auth Required | PAR |

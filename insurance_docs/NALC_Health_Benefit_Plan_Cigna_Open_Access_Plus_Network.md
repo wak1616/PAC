@@ -62,7 +62,7 @@
 | Christine Bui, OD | NALC Health Benefit Plan- Cigna | No Ref/No Auth Required | PAR |
 | Diba Ossareh, OD | NALC Health Benefit Plan- Cigna | No Ref/No Auth Required | PAR |
 | Jose Vazques-Diaz, MD | NALC Health Benefit Plan- Cigna | No Ref/No Auth Required | PAR |
-| Karin Girgis, OD | NALC Health Benefit Plan- Cigna | No Ref/No Auth Required | Non-PAR |
+| Karin Girgis, OD | NALC Health Benefit Plan- Cigna | No Ref/No Auth Required | PAR |
 | Mari Holderby, OD | NALC Health Benefit Plan- Cigna | No Ref/No Auth Required | PAR |
 | Scot Holman, MD | NALC Health Benefit Plan- Cigna | No Ref/No Auth Required | PAR |
 | Scott Wehrly, MD | NALC Health Benefit Plan- Cigna | No Ref/No Auth Required | PAR |

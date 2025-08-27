@@ -62,7 +62,7 @@
 | Christine Bui, OD | Cigna International | Authorization Required | PAR |
 | Diba Ossareh, OD | Cigna International | Authorization Required | PAR |
 | Jose Vazques-Diaz, MD | Cigna International | Authorization Required | PAR |
-| Karin Girgis, OD | Cigna International | Authorization Required | Non-PAR |
+| Karin Girgis, OD | Cigna International | Authorization Required | PAR |
 | Mari Holderby, OD | Cigna International | Authorization Required | PAR |
 | Scot Holman, MD | Cigna International | Authorization Required | PAR |
 | Scott Wehrly, MD | Cigna International | Authorization Required | PAR |

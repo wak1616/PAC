@@ -12,7 +12,7 @@
 | Christine Bui, OD | Cigna Commercial PPO | No Ref/No Auth Required | PAR |
 | Diba Ossareh, OD | Cigna Commercial PPO | No Ref/No Auth Required | PAR |
 | Jose Vazques-Diaz, MD | Cigna Commercial PPO | No Ref/No Auth Required | PAR |
-| Karin Girgis, OD | Cigna Commercial PPO | No Ref/No Auth Required | Non-PAR |
+| Karin Girgis, OD | Cigna Commercial PPO | No Ref/No Auth Required | PAR |
 | Mari Holderby, OD | Cigna Commercial PPO | No Ref/No Auth Required | PAR |
 | Scot Holman, MD | Cigna Commercial PPO | No Ref/No Auth Required | PAR |
 | Scott Wehrly, MD | Cigna Commercial PPO | No Ref/No Auth Required | PAR |
