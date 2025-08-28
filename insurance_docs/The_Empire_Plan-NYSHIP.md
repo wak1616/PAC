@@ -17,15 +17,15 @@
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
-| Alexandria Rawls, OD | UHC Empire Plan-NYSHIP-87726 | No Ref/No Auth Required | Non-PAR |
-| Christine Bui, OD | UHC Empire Plan-NYSHIP-87726 | No Ref/No Auth Required | Non-PAR |
-| Diba Ossareh, OD | UHC Empire Plan-NYSHIP-87726 | No Ref/No Auth Required | Non-PAR |
-| Jose Vazques-Diaz, MD | UHC Empire Plan-NYSHIP-87726 | No Ref/No Auth Required | Non-PAR |
-| Karin Girgis, OD | UHC Empire Plan-NYSHIP-87726 | No Ref/No Auth Required | Non-PAR |
+| Alexandria Rawls, OD | UHC Empire Plan-NYSHIP-87726 | No Ref/No Auth Required | PAR |
+| Christine Bui, OD | UHC Empire Plan-NYSHIP-87726 | No Ref/No Auth Required | PAR |
+| Diba Ossareh, OD | UHC Empire Plan-NYSHIP-87726 | No Ref/No Auth Required | PAR |
+| Jose Vazques-Diaz, MD | UHC Empire Plan-NYSHIP-87726 | No Ref/No Auth Required | PAR |
+| Karin Girgis, OD | UHC Empire Plan-NYSHIP-87726 | No Ref/No Auth Required | PAR |
 | Mari Holderby, OD | UHC Empire Plan-NYSHIP-87726 | No Ref/No Auth Required | Non-PAR |
-| Scot Holman, MD | UHC Empire Plan-NYSHIP-87726 | No Ref/No Auth Required | Non-PAR |
-| Scott Wehrly, MD | UHC Empire Plan-NYSHIP-87726 | No Ref/No Auth Required | Non-PAR |
-| Vinay Gutti, MD | UHC Empire Plan-NYSHIP-87726 | No Ref/No Auth Required | Non-PAR |
+| Scot Holman, MD | UHC Empire Plan-NYSHIP-87726 | No Ref/No Auth Required | PAR |
+| Scott Wehrly, MD | UHC Empire Plan-NYSHIP-87726 | No Ref/No Auth Required | PAR |
+| Vinay Gutti, MD | UHC Empire Plan-NYSHIP-87726 | No Ref/No Auth Required | PAR |
 
 ## Retina Health Center
 

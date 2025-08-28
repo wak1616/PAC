@@ -9,6 +9,7 @@
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
 | Alexandria Rawls, OD | UHC Harvard Pilgrim-39026 | No Ref/No Auth Required | PAR |
+| Christine Bui, OD | UHC Harvard Pilgrim-39026 | No Ref/No Auth Required | PAR |
 | Diba Ossareh, OD | UHC Harvard Pilgrim-39026 | No Ref/No Auth Required | PAR |
 | Jose Vazques-Diaz, MD | UHC Harvard Pilgrim-39026 | No Ref/No Auth Required | PAR |
 | Karin Girgis, OD | UHC Harvard Pilgrim-39026 | No Ref/No Auth Required | PAR |
