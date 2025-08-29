@@ -146,7 +146,7 @@
 | Optum VA-VETERANS AFFAIRS Community Care Network (CCN) | Optum VA Community Care | Authorization Required | PAR |
 | PHCS PLEASE ASK THE PATIENT FOR THE HEALTH PLAN NAME ON THE CARD AND LOAD THE PLAN INTO NEXTGEN ACCORDING TO THEIR HEALTH PLAN | PLEASE ASK THE PATIENT FOR THE HEALTH PLAN NAME ON THE CARD. IF THE PAYER IS NOT LOADED INTO THE SYSTEM, USE: INS NOT IN NEXTGEN. SEE: Generic Insurance Protocol - PAC, Front Desk, and Customer Service.pdf |  | PAR |
 | Railroad Medicare - CONFIRM WITH PT AT THE BOTTOM OF THE ID CARD IT SAYS "RAILROAD RETIREMENT BOARD" | Railroad Medicare | No Ref/No Auth Required | PAR |
-| Spectera Vision | Spectera Vision | No Ref/No Auth Required | Non-PAR |
+| Spectera Vision | Spectera Vision | No Ref/No Auth Required | PAR |
 | Surest (United Healthcare Choice Plus Network) | UHC Surest-25463 | No Ref/No Auth Required | PAR |
 | The Empire Plan-NYSHIP | UHC Empire Plan-NYSHIP-87726 | No Ref/No Auth Required | PAR |
 | Tricare Prime LEA is OUT OF NETWORK. PATIENT HAS OON BENEFITS. PLEASE INFORM PATIENT OF POSSIBLE HIGHER OUT OF POCKET COSTS (see note). covered for a Routine Eye Exam every two years | Tricare Prime HMO-REFERRAL REQ | Referral Required | Non-PAR -OON Benefits |
