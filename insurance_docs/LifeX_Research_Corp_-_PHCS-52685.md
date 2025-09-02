@@ -51,6 +51,7 @@
 |----------|-------------|--------------|--------|
 | George Brinnig-Jastrzebski, MD | LifeX Research Corp - PHCS | No Ref/No Auth Required | PAR |
 | Jenna Getman, OD - Start Date 9/29/2025 | LifeX Research Corp - PHCS | No Ref/No Auth Required | PAR |
+| Jon Berlie, MD | LifeX Research Corp - PHCS | No Ref/No Auth Required | PAR |
 | Julie Carter, MD | LifeX Research Corp - PHCS | No Ref/No Auth Required | PAR |
 
 </details>

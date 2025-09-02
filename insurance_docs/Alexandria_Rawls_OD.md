@@ -182,8 +182,8 @@
 | United Healthcare NATIONAL ANCILLARY | Self Pay Non-Par with Ins |  | Non-PAR |
 | United Healthcare Navigate HMO/ HMO Plus/ Navigate POS/Navigate EPO | UHC Navigate REFERRAL REQ | Referral Required | PAR |
 | United Healthcare NexusACO NR EPO,NR POS, R EPO, R POS/NR HMO/R HMO | UHC Comm HMO Referral REQ | Referral Required | PAR |
-| United Healthcare NexusACO OA POS/ OA EPO | UHC PPO/POS-87726 | No Ref/No Auth Required | PAR |
 | United Healthcare NexusACO OA HMO | UHC Commercial HMO | No Ref/No Auth Required | PAR |
+| United Healthcare NexusACO OA POS/ OA EPO | UHC PPO/POS-87726 | No Ref/No Auth Required | PAR |
 | United Healthcare NHP-Neighborhood Health Plan/ Direct Access, Gated L1, L2, L3 | Self Pay Non-Par with Ins (Holderby and Ossareh are PAR |  | Non-PAR |
 | United Healthcare Nursing Home Plan EX-F006 (HMO-POS I-SNP)/F001-F002 (PPO I-SNP) | UHC Nursing Home Plan FL PPO-87726 | No Ref/No Auth Required | PAR |
 | United Healthcare PPO | UHC PPO/POS-87726 | No Ref/No Auth Required | PAR |

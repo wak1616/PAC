@@ -14,7 +14,7 @@
 | Daniel Hadland, OD | Self Pay Non-Par with Ins |  | Non-PAR |
 | David Mertzlufft, OD | Self Pay Non-Par with Ins |  | Non-PAR |
 | David Shoemaker, MD | Self Pay Non-Par with Ins |  | Non-PAR |
-| Elizabeth Davis, MD | Self Pay Non-Par with Ins |  | PAR |
+| Elizabeth Davis, MD | Self Pay Non-Par with Ins |  | Non-PAR |
 | Erin Hardie, OD | Self Pay Non-Par with Ins |  | Non-PAR |
 | George Hurwitz, OD | Self Pay Non-Par with Ins |  | Non-PAR |
 | Gisselle Vega Carraso | Self Pay Non-Par with Ins |  | PAR |

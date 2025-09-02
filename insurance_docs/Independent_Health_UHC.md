@@ -51,6 +51,7 @@
 |----------|-------------|--------------|--------|
 | George Brinnig-Jastrzebski, MD | Independent Health - UHC | No Ref/No Auth Required | PAR |
 | Jenna Getman, OD - Start Date 9/29/2025 | Independent Health - UHC | No Ref/No Auth Required | PAR |
+| Jon Berlie, MD | Independent Health - UHC | No Ref/No Auth Required | PAR |
 | Julie Carter, MD | Independent Health - UHC | No Ref/No Auth Required | PAR |
 
 </details>

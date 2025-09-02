@@ -194,17 +194,17 @@
 | United Healthcare Group Medicare Advantage HMO | UHC AARP Advantage HMO-87726 | No Ref/No Auth Required | PAR |
 | United Healthcare Group Medicare Advantage Johnson & Johnson Retiree Employees (PPO) patient will have Johnson & Johnson in red on the top right of their card | UHC Medicare PPO J and J Retiree-87726 | No Ref/No Auth Required | PAR |
 | United Healthcare Group Plan - employer group SHL Solutions. Card will say SHL Solutions Group | UHC Commercial - SHL Emp Group | No Ref/No Auth Required | PAR |
-| United Healthcare Heritage ALL PLANS | Self Pay Non-Par with Ins |  | PAR |
-| United Healthcare Indemnity-we will only accept this plan as a secondary/supplement | Self Pay Non-Par with Ins |  | PAR |
-| United Healthcare Individual Exchange (FLONEX) - Essential (Bronze), Value (Bronz, Silver, Gold), Advantage (Silver, Gold), Copay Focus (Bronze, Silver, Gold), Virtual (Bronze, Silver, Gold) | Self Pay Non-Par with Ins |  | PAR |
-| United Healthcare Long Term Care | Self Pay Non-Par with Ins |  | PAR |
-| United Healthcare Mid-Atlantic Gated HMO | Self Pay Non-Par with Ins |  | PAR |
-| United Healthcare National Ancillary | Self Pay Non-Par with Ins |  | PAR |
+| United Healthcare Heritage ALL PLANS | Self Pay Non-Par with Ins |  | Non-PAR |
+| United Healthcare Indemnity-we will only accept this plan as a secondary/supplement | Self Pay Non-Par with Ins |  | Non-PAR |
+| United Healthcare Individual Exchange (FLONEX) - Essential (Bronze), Value (Bronz, Silver, Gold), Advantage (Silver, Gold), Copay Focus (Bronze, Silver, Gold), Virtual (Bronze, Silver, Gold) | Self Pay Non-Par with Ins |  | Non-PAR |
+| United Healthcare Long Term Care | Self Pay Non-Par with Ins |  | Non-PAR |
+| United Healthcare Mid-Atlantic Gated HMO | Self Pay Non-Par with Ins |  | Non-PAR |
+| United Healthcare National Ancillary | Self Pay Non-Par with Ins |  | Non-PAR |
 | United Healthcare Navigate HMO/ HMO Plus/ Navigate POS/ Navigate EPO | UHC Navigate REFERRAL REQ | Referral Required | PAR |
 | United Healthcare NexusACO NR EPO, NR POS, R EPO, R POS/ NR HMO/ R HMO | UHC Comm HMO REFERRAL REQ | Referral Required | PAR |
 | United Healthcare NexusACO OA POS/ OA EPO | UHC PPO/POS-87726 | No Ref/No Auth Required | PAR |
-| United Healthcare NexusACO OA HMO | UHC Commercial HMO | No Ref/No Auth Required | PAR |
-| United Healthcare NHP Gated L1, L2, L3 | UHC Comm HMO REFERRAL REQ | Referral Required | PAR |
+| United Healthcare NexusACO OA POS/ OA EPO | UHC PPO/POS-87727 | No Ref/No Auth Required | PAR |
+| United Healthcare NexusACO OA POS/ OA EPO | UHC PPO/POS-87728 | No Ref/No Auth Required | PAR |
 | United Healthcare NHP-Neighborhood Health Plan Direct Access | UHC NHP HMO Access-87226 | No Ref/No Auth Required | PAR |
 | United Healthcare NHP-Neighborhood Health Plan Direct Access | UHC Commercial HMO | No Ref/No Auth Required | PAR |
 | United Healthcare Nursing Home Plan EX-F006 HMO-POS I-SNP | UHC Nursing Home Plan FL PPO-87726 | No Ref/No Auth Required | PAR |

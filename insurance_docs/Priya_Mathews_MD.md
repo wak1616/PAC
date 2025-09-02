@@ -203,8 +203,8 @@
 | United Healthcare Navigate HMO/ HMO Plus/ Navigate POS/ Navigate EPO | UHC Navigate REFERRAL REQ | Referral Required | PAR |
 | United Healthcare NexusACO NR EPO, NR POS, R EPO, R POS/ NR HMO/ R HMO | UHC Comm HMO REFERRAL REQ | Referral Required | PAR |
 | United Healthcare NexusACO OA POS/ OA EPO | UHC PPO/POS-87726 | No Ref/No Auth Required | PAR |
-| United Healthcare NexusACO OA HMO | UHC Commercial HMO | No Ref/No Auth Required | PAR |
-| United Healthcare NHP Gated L1, L2, L3 | UHC Comm HMO REFERRAL REQ | Referral Required | PAR |
+| United Healthcare NexusACO OA POS/ OA EPO | UHC PPO/POS-87727 | No Ref/No Auth Required | PAR |
+| United Healthcare NexusACO OA POS/ OA EPO | UHC PPO/POS-87728 | No Ref/No Auth Required | PAR |
 | United Healthcare NHP-Neighborhood Health Plan Direct Access | UHC NHP HMO Access-87226 | No Ref/No Auth Required | PAR |
 | United Healthcare NHP-Neighborhood Health Plan Direct Access | UHC Commercial HMO | No Ref/No Auth Required | PAR |
 | United Healthcare Nursing Home Plan EX-F006 HMO-POS I-SNP | UHC Nursing Home Plan FL PPO-87726 | No Ref/No Auth Required | PAR |

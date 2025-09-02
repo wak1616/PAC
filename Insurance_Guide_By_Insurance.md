@@ -1,6 +1,6 @@
 # Insurance Guide By Insurance Plan
 
-*Last Updated: 08/29/2025 (based on data from Excel file: [US Eye Insurance Guide.xlsx](https://useyecorp.sharepoint.com/:x:/r/RCM/Shared%20Documents/Insurance%20Guides/US%20Eye%20Insurance%20Guide.xlsx?d=w2a2138d41fa04bfa919fc4966998346a&csf=1&web=1&e=73a3Gf&nav=MTVfezIwMjg5MTIyLTdDRkEtNEE0OS1CODBGLTdFNTc3Njc3OTJDNX0))*
+*Last Updated: 09/02/2025 (based on data from Excel file: [US Eye Insurance Guide.xlsx](https://useyecorp.sharepoint.com/:x:/r/RCM/Shared%20Documents/Insurance%20Guides/US%20Eye%20Insurance%20Guide.xlsx?d=w2a2138d41fa04bfa919fc4966998346a&csf=1&web=1&e=73a3Gf&nav=MTVfezIwMjg5MTIyLTdDRkEtNEE0OS1CODBGLTdFNTc3Njc3OTJDNX0))*
 
 *This guide lists insurance participation by insurance plan. Click an insurance plan to view all providers who accept that insurance, grouped by location.*
 
@@ -466,7 +466,6 @@
 * [United Healthcare Long Term Care](insurance_docs/United_Healthcare_Long_Term_Care.md)
 * [United Healthcare Mid-Atlantic Gated HMO](insurance_docs/United_Healthcare_Mid-Atlantic_Gated_HMO.md)
 * [United Healthcare NATIONAL ANCILLARY](insurance_docs/United_Healthcare_NATIONAL_ANCILLARY.md)
-* [United Healthcare NHP Gated L1, L2, L3](insurance_docs/United_Healthcare_NHP_Gated_L1_L2_L3.md)
 * [United Healthcare NHP-Neighborhood Health Plan Direct Access](insurance_docs/United_Healthcare_NHP-Neighborhood_Health_Plan_Direct_Access.md)
 * [United Healthcare NHP-Neighborhood Health Plan/ Direct Access, Gated L1, L2, L3](insurance_docs/United_Healthcare_NHP-Neighborhood_Health_Plan_Direct_Access_Gated_L1_L2_L3.md)
 * [United Healthcare National Ancillary](insurance_docs/United_Healthcare_National_Ancillary.md)
@@ -474,9 +473,10 @@
 * [United Healthcare Navigate HMO/ HMO Plus/ Navigate POS/Navigate EPO](insurance_docs/United_Healthcare_Navigate_HMO_HMO_Plus_Navigate_POS_Navigate_EPO.md)
 * [United Healthcare NexusACO NR EPO, NR POS, R EPO, R POS/ NR HMO/ R HMO](insurance_docs/United_Healthcare_NexusACO_NR_EPO_NR_POS_R_EPO_R_POS_NR_HMO_R_HMO.md)
 * [United Healthcare NexusACO NR EPO,NR POS, R EPO, R POS/NR HMO/R HMO](insurance_docs/United_Healthcare_NexusACO_NR_EPO_NR_POS_R_EPO_R_POS_NR_HMO_R_HMO.md)
+* [United Healthcare NexusACO NR EPO/HMO/POS](insurance_docs/United_Healthcare_NexusACO_NR_EPO_HMO_POS.md)
 * [United Healthcare NexusACO OA HMO](insurance_docs/United_Healthcare_NexusACO_OA_HMO.md)
 * [United Healthcare NexusACO OA POS/ OA EPO](insurance_docs/United_Healthcare_NexusACO_OA_POS_OA_EPO.md)
-* [United Healthcare NexusACO OA POS/OA EPO](insurance_docs/United_Healthcare_NexusACO_OA_POS_OA_EPO.md)
+* [United Healthcare NexusACO R EPO/HMO/POS](insurance_docs/United_Healthcare_NexusACO_R_EPO_HMO_POS.md)
 * [United Healthcare Nursing Home Plan EX-F006 (HMO-POS I-SNP)](insurance_docs/United_Healthcare_Nursing_Home_Plan_EX-F006_HMO-POS_I-SNP.md)
 * [United Healthcare Nursing Home Plan EX-F006 (HMO-POS I-SNP)/F001-F002 (PPO I-SNP)](insurance_docs/United_Healthcare_Nursing_Home_Plan_EX-F006_HMO-POS_I-SNP_F001-F002_PPO_I-SNP.md)
 * [United Healthcare Nursing Home Plan EX-F006 (HMO-POS I-SNP)/FL-F001 (PPO I-SNP)/FL-F002 (PPO I-SNP)](insurance_docs/United_Healthcare_Nursing_Home_Plan_EX-F006_HMO-POS_I-SNP_FL-F001_PPO_I-SNP_FL-F002_PPO_I-SNP.md)
@@ -506,7 +506,7 @@
 * [VSP Vision - DO NOT SCHEDULE ANY VSP AFTER 1/1/2025 WITH DR. GUTTI AND DR. HOLMAN](insurance_docs/VSP_Vision_-_DO_NOT_SCHEDULE_ANY_VSP_AFTER_1_1_2025_WITH_DR._GUTTI_AND_DR._HOLMAN.md)
 * [Versant: Davis Vision](insurance_docs/Versant_Davis_Vision.md)
 * [Versant: Superior Vision](insurance_docs/Versant_Superior_Vision.md)
-* [Versant: Superior Vision (PAR FOR VITTONE ONLY; PLEASE USE PAYER NAME: SUPERIOR VISION)](insurance_docs/Versant_Superior_Vision_PAR_FOR_VITTONE_ONLY_PLEASE_USE_PAYER_NAME_SUPERIOR_VISION.md)
+* [Versant: Superior Vision (PAR FOR Getman ONLY; PLEASE USE PAYER NAME: SUPERIOR VISION)](insurance_docs/Versant_Superior_Vision_PAR_FOR_Getman_ONLY_PLEASE_USE_PAYER_NAME_SUPERIOR_VISION.md)
 * [Vitori Health Open Access Plan](insurance_docs/Vitori_Health_Open_Access_Plan.md)
 * [We Care](insurance_docs/We_Care.md)
 * [Web TPA](insurance_docs/Web_TPA.md)

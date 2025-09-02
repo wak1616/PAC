@@ -1,6 +1,6 @@
 # Insurance Guide By Provider
 
-*Last Updated: 08/29/2025 (based on data from Excel file: [US Eye Insurance Guide.xlsx](https://useyecorp.sharepoint.com/:x:/r/RCM/Shared%20Documents/Insurance%20Guides/US%20Eye%20Insurance%20Guide.xlsx?d=w2a2138d41fa04bfa919fc4966998346a&csf=1&web=1&e=73a3Gf&nav=MTVfezIwMjg5MTIyLTdDRkEtNEE0OS1CODBGLTdFNTc3Njc3OTJDNX0))*
+*Last Updated: 09/02/2025 (based on data from Excel file: [US Eye Insurance Guide.xlsx](https://useyecorp.sharepoint.com/:x:/r/RCM/Shared%20Documents/Insurance%20Guides/US%20Eye%20Insurance%20Guide.xlsx?d=w2a2138d41fa04bfa919fc4966998346a&csf=1&web=1&e=73a3Gf&nav=MTVfezIwMjg5MTIyLTdDRkEtNEE0OS1CODBGLTdFNTc3Njc3OTJDNX0))*
 
 *This guide lists insurance participation by doctor. Click a doctor's name to view all insurance info for that doctor, grouped by location/CSV.*
 
@@ -57,6 +57,7 @@
 * [Tanuj Banker, MD (RETINA) (Center for Sight)](insurance_docs/Tanuj_Banker_MD_RETINA.md)
 * [Todd Lang, OD (Center for Sight)](insurance_docs/Todd_Lang_OD.md)
 * [Trisha Werner, OD (Center for Sight)](insurance_docs/Trisha_Werner_OD.md)
+* [Unnamed: 8 (Center for Sight-Naples)](insurance_docs/Unnamed_8.md)
 * [Veronica Kon Graversen, MD (Retina Health Center)](insurance_docs/Veronica_Kon_Graversen_MD.md)
 * [Vinay Gutti, MD (Lake Eye )](insurance_docs/Vinay_Gutti_MD.md)
 

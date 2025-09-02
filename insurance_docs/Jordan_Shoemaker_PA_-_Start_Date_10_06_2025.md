@@ -94,7 +94,7 @@
 | BCBS Out of State HMO Plans - ALL PLANS Commercial and Medicare HMO PLANS | Self Pay Non-Par with Ins |  | Non-PAR |
 | BCBS Out of State Medicare HMO-POS Plans - Medicare HMO POS Plans do have OON benefits. Note: BCBS Michigan Medicare HMO-POS (alpha prefix XYK) | BCBS OOS MDCR HMO POS - REFERRAL REQ | Referral Required | PAR |
 | BCBS Out of State Medicare PPO Plans -all plans that are not BCBS of Florida; please ask the patient to check the front and back copy of the card for the state. If the card says "Anthem", please see ANTHEM on the insurance guide | BCBS Out of State Medicare PPO | No Ref/No Auth Required | PAR |
-| Best Care Alliance (Former Innovatus Health) | PENDING | No Ref/No Auth Required | PAR |
+| Best Care Alliance (Former Innovatus Health) | PENDING | No Ref/No Auth Required | Non-PAR |
 | Carefirst BCBS Commercial - BlueChoice Advantage/BlueChoice Advantage HDHP/BlueChoice Plus/BlueHPN/BluePreferred (PPO) | Carefirst BCBS Commercial PPO | No Ref/No Auth Required | PAR |
 | Carefirst BCBS Commercial - BlueChoice Opt-Out Open Access/BlueChoice Opt-Out Plus Open Access/CareFirst Regional (HMO) | Carefirst BCBS Commercial HMO | No Ref/No Auth Required | PAR |
 | Carefirst BCBS Commercial - Comprehensive Major Medical | Carefirst BCBS Commercial PPO | No Ref/No Auth Required | PAR |
@@ -133,7 +133,7 @@
 | Golden Rule (UHC Choice Plus Network) | UHC Golden Rule-37602 | No Ref/No Auth Required | Non-PAR |
 | Harvard Pilgrim Healthcare (UHC Choice Plus Network) | UHC Harvard Pilgrim-39026 | No Ref/No Auth Required | Non-PAR |
 | Health Care Support (ministry plan with PHCS network) | Health Care Support - PHCS | No Ref/No Auth Required | Non-PAR |
-| Humana Medicare Choice Florida SNP-DE (PPO D-SNP)-CFS is OUT OF NETWORK. PATIENT HAS OON BENEFITS. PLEASE INFORM PATIENT OF POSSIBLE HIGHER OUT OF POCKET COSTS | Primary: Humana Dual Medicare PPO Primary                                                 Secondary: Humana Dual Medicaid Secondary | No Ref/No Auth Required | Non-PAR |
+| Humana Medicare Choice Florida SNP-DE (PPO D-SNP)-CFS is OUT OF NETWORK. PATIENT HAS OON BENEFITS. PLEASE INFORM PATIENT OF POSSIBLE HIGHER OUT OF POCKET COSTS | Primary: Humana Dual Medicare PPO Primary                                                 Secondary: Humana Dual Medicaid Secondary | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Humana Commercial - ALL PLANS - AS OF 01/01/25- PLAN IS NO LONGER OFFERED IN FL MARKETS | Self Pay Non-Par with Ins |  | Non-PAR |
 | Humana Medicare- Choice Florida (PPO)/Choice (Regional PPO)/USAA Honor PPO -CFS is OUT OF NETWORK. PATIENT HAS OON BENEFITS. PLEASE INFORM PATIENT OF POSSIBLE HIGHER OUT OF POCKET COSTS | Humana Medicare PPO | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Humana Medicare- HMO ALL PLANS | Self Pay Non-Par with Ins |  | Non-PAR |
@@ -203,8 +203,8 @@
 | United Healthcare Navigate HMO/ HMO Plus/ Navigate POS/ Navigate EPO | UHC Navigate REFERRAL REQ | Referral Required | Non-PAR |
 | United Healthcare NexusACO NR EPO, NR POS, R EPO, R POS/ NR HMO/ R HMO | UHC Comm HMO REFERRAL REQ | Referral Required | Non-PAR |
 | United Healthcare NexusACO OA POS/ OA EPO | UHC PPO/POS-87726 | No Ref/No Auth Required | Non-PAR |
-| United Healthcare NexusACO OA HMO | UHC Commercial HMO | No Ref/No Auth Required | Non-PAR |
-| United Healthcare NHP Gated L1, L2, L3 | UHC Comm HMO REFERRAL REQ | Referral Required | Non-PAR |
+| United Healthcare NexusACO OA POS/ OA EPO | UHC PPO/POS-87727 | No Ref/No Auth Required | Non-PAR |
+| United Healthcare NexusACO OA POS/ OA EPO | UHC PPO/POS-87728 | No Ref/No Auth Required | Non-PAR |
 | United Healthcare NHP-Neighborhood Health Plan Direct Access | UHC NHP HMO Access-87226 | No Ref/No Auth Required | Non-PAR |
 | United Healthcare NHP-Neighborhood Health Plan Direct Access | UHC Commercial HMO | No Ref/No Auth Required | Non-PAR |
 | United Healthcare Nursing Home Plan EX-F006 HMO-POS I-SNP | UHC Nursing Home Plan FL PPO-87726 | No Ref/No Auth Required | Non-PAR |

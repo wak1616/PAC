@@ -10,7 +10,7 @@
 |----------|-------------|--------------|--------|
 | George Brinnig-Jastrzebski, MD | Humana Medicare PPO | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Jenna Getman, OD - Start Date 9/29/2025 | Humana Medicare PPO | No Ref/No Auth Required | Non-PAR -OON Benefits |
-| Jon Berlie, MD | Humana Medicare PPO | No Ref/No Auth Required | PAR |
+| Jon Berlie, MD | Humana Medicare PPO | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Julie Carter, MD | Humana Medicare PPO | No Ref/No Auth Required | Non-PAR -OON Benefits |
 
 </details>

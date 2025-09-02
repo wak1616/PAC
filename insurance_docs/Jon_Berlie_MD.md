@@ -139,11 +139,13 @@
 | GEHA (United Healthcare Choice Plus Network) PLEASE INCLUDE THE SUFFIX IN THE POLICY # ON THE ID CARD AS GEHA (EX: 1234567GEHA) | UHC GEHA-39026 | No Ref/No Auth Required | PAR |
 | Golden Rule (UHC Choice Plus Network) | UHC Golden Rule-37602 | No Ref/No Auth Required | PAR |
 | Harvard Pilgrim Healthcare (UHC Choice Plus Network) | UHC Harvard Pilgrim-39026 | No Ref/No Auth Required | PAR |
-| Humana Medicare-DUAL Choice Florida SNP-DE (PPO D-SNP) | Primary: Humana Dual Medicare PPO Primary                                                 Secondary: Humana Dual Medicaid Secondary | No Ref/No Auth Required | PAR |
+| Humana Medicare-DUAL Choice Florida SNP-DE (PPO D-SNP) | Primary: Humana Dual Medicare PPO Primary                                                 Secondary: Humana Dual Medicaid Secondary | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Humana Commercial - ALL PLANS - AS OF 01/01/25- PLAN IS NO LONGER OFFERED IN FL MARKETS | Self Pay Non-Par with Ins |  | Non-PAR |
-| Humana Medicare- Choice Florida (PPO)/Choice (Regional PPO)/USAA Honor PPO | Humana Medicare PPO | No Ref/No Auth Required | PAR |
+| Humana Medicare- Choice Florida (PPO)/Choice (Regional PPO)/USAA Honor PPO | Humana Medicare PPO | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Humana Medicare- HMO ALL PLANS | Self Pay Non-Par with Ins |  | Non-PAR |
-| Humana Medicare- Medicare PPO/Employee PPO Plus/Gold Choice Ntek PFFS | Humana Medicare PPO | No Ref/No Auth Required | PAR |
+| Humana Medicare- Medicare PPO/Employee PPO Plus/Gold Choice Ntek PFFS | Humana Medicare PPO | No Ref/No Auth Required | Non-PAR -OON Benefits |
+| Independent Health (UHC) | Independent Health - UHC | No Ref/No Auth Required | PAR |
+| LifeX Research Corp - PHCS-52685 | LifeX Research Corp - PHCS | No Ref/No Auth Required | PAR |
 | Lutheran Preferred (PHP Network) | Lutheran Preferred - PHP | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Mailhandlers (Aetna Choice® POS II Network) | Mail Handlers Benefit Plan Comm - Aetna | No Ref/No Auth Required | PAR |
 | March Vision | Self Pay Non-Par with Ins |  | Non-PAR |
@@ -200,8 +202,8 @@
 | United Healthcare Navigate HMO/ HMO Plus/ Navigate POS/Navigate EPO | UHC Navigate REFERRAL REQ | Referral Required | PAR |
 | United Healthcare NexusACO NR EPO,NR POS, R EPO, R POS/NR HMO/R HMO | UHC Comm HMO REFERRAL REQ | Referral Required | PAR |
 | United Healthcare NexusACO OA POS/ OA EPO | UHC PPO/POS-87726 | No Ref/No Auth Required | PAR |
-| United Healthcare NexusACO OA HMO | UHC Commercial HMO | No Ref/No Auth Required | PAR |
-| United Healthcare NHP Gated L1, L2, L3 | UHC Comm HMO REFERRAL REQ | Referral Required | PAR |
+| United Healthcare NexusACO OA POS/ OA EPO | UHC PPO/POS-87727 | No Ref/No Auth Required | PAR |
+| United Healthcare NexusACO OA POS/ OA EPO | UHC PPO/POS-87728 | No Ref/No Auth Required | PAR |
 | United Healthcare NHP-Neighborhood Health Plan Direct Access | UHC NHP HMO Access-87226 | No Ref/No Auth Required | PAR |
 | United Healthcare Nursing Home Plan EX-F006 (HMO-POS I-SNP) | UHC MDCR Nursing Plan | No Ref/No Auth Required | PAR |
 | United Healthcare Nursing Home Plan FL-F001 (PPO I-SNP) | UHC Nursing Home Plan FL PPO-87726 | No Ref/No Auth Required | PAR |
@@ -212,7 +214,7 @@
 | United Healthcare Shared Services - Options PPO Network | UHC Shared Services PPO-39026 | No Ref/No Auth Required | PAR |
 | United Healthcare The Villages Medicare Advantage FL-0004/FL-004P (HMO-POS) | UHC AARP Advantage HMO-87726 | No Ref/No Auth Required | PAR |
 | Versant: Davis Vision | Self Pay Non-Par with Ins |  | Non-PAR |
-| Versant: Superior Vision (PAR FOR VITTONE ONLY; PLEASE USE PAYER NAME: SUPERIOR VISION) | Self Pay Non-Par with Ins | Authorization Required | Non-PAR |
+| Versant: Superior Vision (PAR FOR Getman ONLY; PLEASE USE PAYER NAME: SUPERIOR VISION) | Self Pay Non-Par with Ins | Authorization Required | Non-PAR |
 | Vitori Health Open Access Plan | Vitori Health Open Access Plan | No Ref/No Auth Required | PAR |
 | VSP Vision | Self Pay Non-Par with Ins |  | Non-PAR |
 | Web TPA | Web TPA | No Ref/No Auth Required | PAR |
