@@ -28,9 +28,9 @@
 | Aetna Innovation- Aetna National Advantage Program (NAP) | Aetna Commercial PPO | No Ref/No Auth Required | PAR |
 | Aetna Innovation- Innovation Health Aetna POS/PPO | Aetna Commercial PPO | No Ref/No Auth Required | PAR |
 | Aetna Medicare - Credit Plan (PPO) | Aetna Medicare PPO | No Ref/No Auth Required | PAR |
-| Aetna Medicare - Credit/Discover/Discover Value Plan/Select (HMO) | Aetna Medicare HMO REFERRAL REQ | Referral Required | PAR |
+| Aetna Medicare - Credit/Discover/Discover Value Plan/Select (HMO) | Aetna Medicare HMO REFERRAL REQ | Referral Required | Non-PAR |
 | Aetna Medicare - Essential/Essential Elite/Essentials (PPO) | Aetna Medicare PPO | No Ref/No Auth Required | PAR |
-| Aetna Medicare - Select (HMO) | Aetna Medicare HMO REFERRAL REQ | Referral Required | PAR |
+| Aetna Medicare - Select (HMO) | Aetna Medicare HMO REFERRAL REQ | Referral Required | Non-PAR |
 | Aetna Medicare- Advantra Credit Value/Advantra Gold/Advtantra Silver/Advantra Preferred/Advantra Premier/ Advantra Premier Plus/Advantra Value (PPO) | Aetna Medicare PPO | No Ref/No Auth Required | PAR |
 | Aetna Medicare- Bronze Plan (PPO) /Core Plan (PPO)/Deluxe Plan (PPO)/Discover Plan (PPO) | Aetna Medicare PPO | No Ref/No Auth Required | PAR |
 | Aetna Medicare- Core Plan (PPO) | Aetna Medicare PPO | No Ref/No Auth Required | PAR |
@@ -41,7 +41,7 @@
 | Aetna Medicare- Elite/Elite Plan 3 (PPO) | Aetna Medicare PPO | No Ref/No Auth Required | PAR |
 | Aetna Medicare Enhanced Select (PPO) - H1608-064 | Aetna Medicare PPO | No Ref/No Auth Required | PAR |
 | Aetna Medicare- Explorer/Explore Premier/Explore Premier II (PPO) | Aetna Medicare PPO | No Ref/No Auth Required | PAR |
-| Aetna Medicare- FL Dual Select (HMO D-SNP), Aetna Medicare Assure (HMO-SNP), Aetna Medicare Assure Flex (HMO D-SNP), Aetna Medicare Assure Plus (HMO-POS D-SNP), Aetna Medicare Assure Primary (HMO D-SNP | Primary: Aetna Dual MCR HMO Primary REFERRAL REQ                                                             Secondary: Aetna Dual Complete MCD HMO Secondary |  | PAR |
+| Aetna Medicare- FL Dual Select (HMO D-SNP), Aetna Medicare Assure (HMO-SNP), Aetna Medicare Assure Flex (HMO D-SNP), Aetna Medicare Assure Plus (HMO-POS D-SNP), Aetna Medicare Assure Primary (HMO D-SNP | Primary: Aetna Dual MCR HMO Primary REFERRAL REQ                                                             Secondary: Aetna Dual Complete MCD HMO Secondary |  | Non-PAR |
 | Aetna Medicare- Freedom/Freedom Core/Freedom Plus/Freedom Preferred (PPO) | Aetna Medicare PPO | No Ref/No Auth Required | PAR |
 | Aetna Medicare- Giveback Choice/Giveback Choice Plus (PPO) | Aetna Medicare PPO | No Ref/No Auth Required | PAR |
 | Aetna Medicare- Gold Plan/Platinum Plan PPO | Aetna Medicare PPO | No Ref/No Auth Required | PAR |
@@ -58,7 +58,7 @@
 | Aetna Standard Plan - Aetna Managed Choice® POS/Open Choice PPO/QPOS/Aetna Select/Aetna Voluntary Plan | Aetna Commercial PPO | No Ref/No Auth Required | PAR |
 | Aetna Standard Plan- Aetna Affordable Health Choices® limited benefits insurance plan (SRC only) | Aetna Comm Fixed Benefits PPO | No Ref/No Auth Required | PAR |
 | Aetna Whole Health- Orlando HNO/Orlando Open Access Aetna Select/Open Access Elect Choice | Aetna Commercial PPO | No Ref/No Auth Required | PAR |
-| Allegiance Benefit Plan (Cigna Open Access Plus Network) | Allegiance Benefit Plan Management-Cigna | No Ref/No Auth Required | Non-PAR |
+| Allegiance Benefit Plan (Cigna Open Access Plus Network) | Allegiance Benefit Plan Management-Cigna | No Ref/No Auth Required | PAR |
 | AllSavers (UHC) (Choice and Choice Plus) | UHC All Savers-81400 | No Ref/No Auth Required | Non-PAR |
 | Ambetter ALL PLANS | Self Pay Non-Par with Ins |  | Non-PAR |
 | Anthem BCBS-Blue View Vision/Blue Vision Insight/Blue Vision Insight Plus/Vision Insight Plus Select/IBM Vision Plan/Vision Access Value/Vision Minimum Premium Plan (Eyemed Network) | Anthem BCBS Vision | No Ref/No Auth Required | Non-PAR |

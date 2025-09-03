@@ -53,23 +53,23 @@
 | Anthem Blue- (Select Network) Alliance/ Blue Choice Open Access/Blue Choice Options/Blue Value/HealthSync | Anthem BCBS Commercial PPO | No Ref/No Auth Required | PAR |
 | Anthem Blue- (Select Network) Century Preferred/High Value Network/Horizon Managed Care Network/National PPO/Network S/Network Blue/ Select PPO | Anthem BCBS Commercial PPO | No Ref/No Auth Required | PAR |
 | Anthem Blue- Grocery/Traditional/Traditional PPO | Anthem BCBS Commercial PPO | No Ref/No Auth Required | PAR |
-| Anthem Blue Medicare- Medicare Advantage (PPO) | Anthem BCBS Medicare PPO | No Ref/No Auth Required | PAR |
+| Anthem Blue Medicare- Medicare Advantage (PPO) | Self Pay Non-Par with Ins | No Ref/No Auth Required | Non-PAR |
 | Anthem Blue- POS | Anthem BCBS Commercial PPO | No Ref/No Auth Required | PAR |
 | Anthem Blue-Pathway Essentials/Essentials Standard PPO/EPO | Anthem BCBS Commercial PPO | No Ref/No Auth Required | PAR |
 | Anthem Blue-Preferred POS (Select Network) | Anthem BCBS Commercial PPO | No Ref/No Auth Required | PAR |
 | AvMed HMO (State of Florida High Deductible Health Plan and State of Florida Standard HMO Plan) | AvMed Commercial HMO | No Ref/No Auth Required | PAR |
 | BCBS FL - ALL DUAL PLANS | Self Pay Non-Par with Ins |  | Non-PAR |
 | BCBS FL HMO Plans - ALL PLANS Commercial and Medicare HMO PLANS | Self Pay Non-Par with Ins |  | Non-PAR |
-| BCBS of FL BlueMedicare Patriot (PPO) | BCBS FL Medicare PPO | No Ref/No Auth Required | PAR |
-| BCBS of FL BlueMedicare Select (PPO) | BCBS FL Medicare PPO | No Ref/No Auth Required | PAR |
-| BCBS of FL BlueMedicare Value PPO/ BlueMedicare Value w. Level 1 - PLEASE DO NOT SCHEDULE ANY APPTS AFTER 12/31/2024 AS THIS PLAN IS NO LONGER OFFERED AS OF 01/01/2025 FOR RHC-NAPLES OFFICE ONLY | BCBS FL Medicare PPO | No Ref/No Auth Required | PAR |
+| BCBS of FL BlueMedicare Patriot (PPO) | Self Pay Non-Par with Ins |  | Non-PAR |
+| BCBS of FL BlueMedicare Select (PPO) | Self Pay Non-Par with Ins |  | Non-PAR |
+| BCBS of FL BlueMedicare Value PPO/ BlueMedicare Value w. Level 1 | Self Pay Non-Par with Ins |  | Non-PAR |
 | BCBS of FL BlueOptions/Blue Options Hospital Surgical Plus/Blue Options with Pediactric Vision/Commercial PPO | BCBS FL Commercial PPO |  | PAR |
 | BCBS of FL Federal Employee Program - alpha prefix R | BCBS Federal | No Ref/No Auth Required | PAR |
 | BCBS Select Bronze PPO - PLAN HAS OON BENEFITS. PLEASE CALL INSURANCE TO CONFIRM IF PLAN HAS OON BENEFITS | Self Pay Non-Par with Ins |  | Non-PAR |
 | BCBS Out of State California ONLY | Self Pay Non-Par with Ins | Authorization Required | PAR |
 | BCBS Out of State Commercial PPO Plans -all plans that are not BCBS of Florida; please ask the patient to check the front and back copy of the card for the state. If the card says "Anthem", please see ANTHEM on the insurance guide | BCBS Out of State Commercial PPO | No Ref/No Auth Required | PAR |
 | BCBS Out of State HMO Plans - ALL PLANS Commercial and Medicare HMO PLANS | Self Pay Non-Par with Ins |  | Non-PAR |
-| BCBS Out of State Medicare PPO Plans -all plans that are not BCBS of Florida; please ask the patient to check the front and back copy of the card for the state. If the card says "Anthem", please see ANTHEM on the insurance guide | BCBS Out of State Medicare PPO | No Ref/No Auth Required | PAR |
+| BCBS Out of State Medicare PPO Plans -all plans that are not BCBS of Florida; please ask the patient to check the front and back copy of the card for the state. If the card says "Anthem", please see ANTHEM on the insurance guide | Self Pay Non-Par with Ins |  | Non-PAR |
 | Carefirst BCBS Commercial - BlueChoice Advantage/BlueChoice Advantage HDHP/BlueChoice Plus/BlueHPN/BluePreferred (PPO) | Carefirst BCBS Commercial PPO | No Ref/No Auth Required | PAR |
 | Carefirst BCBS Commercial - BlueChoice Opt-Out Open Access/BlueChoice Opt-Out Plus Open Access/CareFirst Regional (HMO) | Carefirst BCBS Commercial HMO | No Ref/No Auth Required | PAR |
 | Carefirst BCBS Commercial - Comprehensive Major Medical | Carefirst BCBS Commercial PPO | No Ref/No Auth Required | PAR |
@@ -77,7 +77,7 @@
 | Carefirst BCBS Commercial - Personal Comp | Carefirst BCBS Commercial PPO | No Ref/No Auth Required | PAR |
 | Carefirst BCBS Commercial - PPO/EPO/HealthyBlue Plus/HealthyBlue PPO/ BlueCard PAR/ BlueCard PPO/ EPO/ BlueCard Traditional | Carefirst BCBS Commercial PPO | No Ref/No Auth Required | PAR |
 | Carefirst BCBS Commercial - Standard BlueChoice (HMO) | Carefirst BCBS Commercial HMO | No Ref/No Auth Required | PAR |
-| Carefirst BCBS Commercial - Traditional/Indemnity | Carefirst BCBS Medicare PPO | No Ref/No Auth Required | PAR |
+| Carefirst BCBS Commercial - Traditional/Indemnity | Self Pay Non-Par with Ins |  | Non-PAR |
 | Carefirst BCBS Medicare Advantage (PPO) | Carefirst BCBS Commercial PPO | No Ref/No Auth Required | PAR |
 | Carefirst Commercial - CareFirst Regional | Carefirst BCBS Commercial HMO | No Ref/No Auth Required | PAR |
 | ChampVA | ChampVA | No Ref/No Auth Required | PAR |

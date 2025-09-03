@@ -28,9 +28,9 @@
 | Aetna Innovation- Aetna National Advantage Program (NAP) | Aetna Commercial PPO | No Ref/No Auth Required | PAR |
 | Aetna Innovation- Innovation Health Aetna POS/PPO | Aetna Commercial PPO | No Ref/No Auth Required | PAR |
 | Aetna Medicare - Credit Plan (PPO) | Aetna Medicare PPO | No Ref/No Auth Required | PAR |
-| Aetna Medicare - Credit/Discover/Discover Value Plan/Select (HMO) | Aetna Medicare HMO REFERRAL REQ | Referral Required | PAR |
+| Aetna Medicare - Credit/Discover/Discover Value Plan/Select (HMO) | Aetna Medicare HMO REFERRAL REQ | Referral Required | Non-PAR |
 | Aetna Medicare - Essential/Essential Elite/Essentials (PPO) | Aetna Medicare PPO | No Ref/No Auth Required | PAR |
-| Aetna Medicare - Select (HMO) | Aetna Medicare HMO REFERRAL REQ | Referral Required | PAR |
+| Aetna Medicare - Select (HMO) | Aetna Medicare HMO REFERRAL REQ | Referral Required | Non-PAR |
 | Aetna Medicare- Advantra Credit Value/Advantra Gold/Advtantra Silver/Advantra Preferred/Advantra Premier/ Advantra Premier Plus/Advantra Value (PPO) | Aetna Medicare PPO | No Ref/No Auth Required | PAR |
 | Aetna Medicare- Bronze Plan (PPO) /Core Plan (PPO)/Deluxe Plan (PPO)/Discover Plan (PPO) | Aetna Medicare PPO | No Ref/No Auth Required | PAR |
 | Aetna Medicare- Core Plan (PPO) | Aetna Medicare PPO | No Ref/No Auth Required | PAR |

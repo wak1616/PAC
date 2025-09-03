@@ -1,6 +1,6 @@
 # Insurance Guide By Insurance Plan
 
-*Last Updated: 09/02/2025 (based on data from Excel file: [US Eye Insurance Guide.xlsx](https://useyecorp.sharepoint.com/:x:/r/RCM/Shared%20Documents/Insurance%20Guides/US%20Eye%20Insurance%20Guide.xlsx?d=w2a2138d41fa04bfa919fc4966998346a&csf=1&web=1&e=73a3Gf&nav=MTVfezIwMjg5MTIyLTdDRkEtNEE0OS1CODBGLTdFNTc3Njc3OTJDNX0))*
+*Last Updated: 09/03/2025 (based on data from Excel file: [US Eye Insurance Guide.xlsx](https://useyecorp.sharepoint.com/:x:/r/RCM/Shared%20Documents/Insurance%20Guides/US%20Eye%20Insurance%20Guide.xlsx?d=w2a2138d41fa04bfa919fc4966998346a&csf=1&web=1&e=73a3Gf&nav=MTVfezIwMjg5MTIyLTdDRkEtNEE0OS1CODBGLTdFNTc3Njc3OTJDNX0))*
 
 *This guide lists insurance participation by insurance plan. Click an insurance plan to view all providers who accept that insurance, grouped by location.*
 
@@ -230,8 +230,8 @@
 * [BCBS of FL BlueMedicare Premier HMO - Alpha Prefix XJIH](insurance_docs/BCBS_of_FL_BlueMedicare_Premier_HMO_-_Alpha_Prefix_XJIH.md)
 * [BCBS of FL BlueMedicare Select (PPO)](insurance_docs/BCBS_of_FL_BlueMedicare_Select_PPO.md)
 * [BCBS of FL BlueMedicare Select PPO](insurance_docs/BCBS_of_FL_BlueMedicare_Select_PPO.md)
+* [BCBS of FL BlueMedicare Value PPO/ BlueMedicare Value w. Level 1](insurance_docs/BCBS_of_FL_BlueMedicare_Value_PPO_BlueMedicare_Value_w._Level_1.md)
 * [BCBS of FL BlueMedicare Value PPO/ BlueMedicare Value w. Level 1 -](insurance_docs/BCBS_of_FL_BlueMedicare_Value_PPO_BlueMedicare_Value_w._Level_1_-.md)
-* [BCBS of FL BlueMedicare Value PPO/ BlueMedicare Value w. Level 1 - PLEASE DO NOT SCHEDULE ANY APPTS AFTER 12/31/2024 AS THIS PLAN IS NO LONGER OFFERED AS OF 01/01/2025 FOR RHC-NAPLES OFFICE ONLY](insurance_docs/BCBS_of_FL_BlueMedicare_Value_PPO_BlueMedicare_Val_FFERED_AS_OF_01_01_2025_FOR_RHC-NAPLES_OFFICE_ONLY.md)
 * [BCBS of FL BlueMedicare Value PPO/ BlueMedicare Value w. Level 1 - PLEASE DO NOT SCHEDULE ANY APPTS AFTER 12/31/2024 AS THIS PLAN IS NO LONGER OFFERED AS OF 01/01/2025 FOR SFEC-NAPLES OFFICE ONLY](insurance_docs/BCBS_of_FL_BlueMedicare_Value_PPO_BlueMedicare_Val_FERED_AS_OF_01_01_2025_FOR_SFEC-NAPLES_OFFICE_ONLY.md)
 * [BCBS of FL BlueOptions Commercial PPO](insurance_docs/BCBS_of_FL_BlueOptions_Commercial_PPO.md)
 * [BCBS of FL BlueOptions Temporary Insurance/Blue Select Temporary Insurance](insurance_docs/BCBS_of_FL_BlueOptions_Temporary_Insurance_Blue_Select_Temporary_Insurance.md)

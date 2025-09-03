@@ -17,15 +17,15 @@
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
-| Alexandria Rawls, OD | Aetna Medicare HMO REFERRAL REQ | Referral Required | PAR |
-| Christine Bui, OD | Aetna Medicare HMO REFERRAL REQ | Referral Required | PAR |
-| Diba Ossareh, OD | Aetna Medicare HMO REFERRAL REQ | Referral Required | PAR |
-| Jose Vazques-Diaz, MD | Aetna Medicare HMO REFERRAL REQ | Referral Required | PAR |
-| Karin Girgis, OD | Aetna Medicare HMO REFERRAL REQ | Referral Required | PAR |
-| Mari Holderby, OD | Aetna Medicare HMO REFERRAL REQ | Referral Required | PAR |
-| Scot Holman, MD | Aetna Medicare HMO REFERRAL REQ | Referral Required | PAR |
+| Alexandria Rawls, OD | Aetna Medicare HMO REFERRAL REQ | Referral Required | Non-PAR |
+| Christine Bui, OD | Aetna Medicare HMO REFERRAL REQ | Referral Required | Non-PAR |
+| Diba Ossareh, OD | Aetna Medicare HMO REFERRAL REQ | Referral Required | Non-PAR |
+| Jose Vazques-Diaz, MD | Aetna Medicare HMO REFERRAL REQ | Referral Required | Non-PAR |
+| Karin Girgis, OD | Aetna Medicare HMO REFERRAL REQ | Referral Required | Non-PAR |
+| Mari Holderby, OD | Aetna Medicare HMO REFERRAL REQ | Referral Required | Non-PAR |
+| Scot Holman, MD | Aetna Medicare HMO REFERRAL REQ | Referral Required | Non-PAR |
 | Scott Wehrly, MD | Aetna Medicare HMO REFERRAL REQ | Referral Required | PAR |
-| Vinay Gutti, MD | Aetna Medicare HMO REFERRAL REQ | Referral Required | PAR |
+| Vinay Gutti, MD | Aetna Medicare HMO REFERRAL REQ | Referral Required | Non-PAR |
 
 </details>
 

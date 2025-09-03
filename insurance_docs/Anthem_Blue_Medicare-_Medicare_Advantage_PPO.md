@@ -72,8 +72,8 @@
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
-| Alexander Eaton, MD | Anthem BCBS Medicare PPO | No Ref/No Auth Required | PAR |
-| Veronica Kon Graversen, MD | Anthem BCBS Medicare PPO | No Ref/No Auth Required | PAR |
+| Alexander Eaton, MD | Self Pay Non-Par with Ins | No Ref/No Auth Required | Non-PAR |
+| Veronica Kon Graversen, MD | Self Pay Non-Par with Ins | No Ref/No Auth Required | Non-PAR |
 
 ## SW FL Eye
 

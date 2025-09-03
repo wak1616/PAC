@@ -72,8 +72,8 @@
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
-| Alexander Eaton, MD | BCBS Out of State Medicare PPO | No Ref/No Auth Required | PAR |
-| Veronica Kon Graversen, MD | BCBS Out of State Medicare PPO | No Ref/No Auth Required | PAR |
+| Alexander Eaton, MD | Self Pay Non-Par with Ins |  | Non-PAR |
+| Veronica Kon Graversen, MD | Self Pay Non-Par with Ins |  | Non-PAR |
 
 ## SW FL Eye
 

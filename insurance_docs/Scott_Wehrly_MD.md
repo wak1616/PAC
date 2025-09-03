@@ -41,7 +41,7 @@
 | Aetna Medicare- Elite/Elite Plan 3 (PPO) | Aetna Medicare PPO | No Ref/No Auth Required | PAR |
 | Aetna Medicare Enhanced Select (PPO) - H1608-064 | Aetna Medicare PPO | No Ref/No Auth Required | PAR |
 | Aetna Medicare- Explorer/Explore Premier/Explore Premier II (PPO) | Aetna Medicare PPO | No Ref/No Auth Required | PAR |
-| Aetna Medicare- FL Dual Select (HMO D-SNP), Aetna Medicare Assure (HMO-SNP), Aetna Medicare Assure Flex (HMO D-SNP), Aetna Medicare Assure Plus (HMO-POS D-SNP), Aetna Medicare Assure Primary (HMO D-SNP | Primary: Aetna Dual MCR HMO Primary REFERRAL REQ                                                             Secondary: Aetna Dual Complete MCD HMO Secondary |  | Non-PAR |
+| Aetna Medicare- FL Dual Select (HMO D-SNP), Aetna Medicare Assure (HMO-SNP), Aetna Medicare Assure Flex (HMO D-SNP), Aetna Medicare Assure Plus (HMO-POS D-SNP), Aetna Medicare Assure Primary (HMO D-SNP | Primary: Aetna Dual MCR HMO Primary REFERRAL REQ                                                             Secondary: Aetna Dual Complete MCD HMO Secondary |  | PAR |
 | Aetna Medicare- Freedom/Freedom Core/Freedom Plus/Freedom Preferred (PPO) | Aetna Medicare PPO | No Ref/No Auth Required | PAR |
 | Aetna Medicare- Giveback Choice/Giveback Choice Plus (PPO) | Aetna Medicare PPO | No Ref/No Auth Required | PAR |
 | Aetna Medicare- Gold Plan/Platinum Plan PPO | Aetna Medicare PPO | No Ref/No Auth Required | PAR |
