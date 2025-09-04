@@ -24,19 +24,19 @@
 | Aetna Florida Health Network Only (HNOnly) | Aetna Commercial PPO | No Ref/No Auth Required | PAR |
 | Aetna Health Network Only℠ (Open Access)/Network Option℠ (Open Access) | Aetna Commercial PPO | No Ref/No Auth Required | PAR |
 | Aetna HealthFund® Aetna Health Network Only℠ (Open Access)/Aetna Health Network Option℠ (Open Access) | Aetna Commercial PPO | No Ref/No Auth Required | PAR |
-| Aetna HMO | Aetna Comm HMO REFERRAL REQ | Referral Required | Non-PAR |
-| Aetna HMO / Health Network Only | Aetna Comm HMO REFERRAL REQ | Referral Required | Non-PAR |
-| Aetna HMO Gold/Silver | Aetna Comm HMO REFERRAL REQ | Referral Required | Non-PAR |
+| Aetna HMO | Aetna Comm HMO REFERRAL REQ | Referral Required | PAR |
+| Aetna HMO / Health Network Only | Aetna Comm HMO REFERRAL REQ | Referral Required | PAR |
+| Aetna HMO Gold/Silver | Aetna Comm HMO REFERRAL REQ | Referral Required | PAR |
 | Aetna Managed Choice Open Access/Managed Choice/POS/Open Choice PPO/QPOS?Choice POS | Aetna Commercial PPO | No Ref/No Auth Required | PAR |
-| Aetna Medicare - Advantra - Eagle, Elite, Gold (HMO-POS) | Aetna Medicare HMO POS |  | Non-PAR |
+| Aetna Medicare - Advantra - Eagle, Elite, Gold (HMO-POS) | Aetna Medicare HMO POS | No Ref/No Auth Required | PAR |
 | Aetna Medicare - Credit Plan (PPO) | Aetna Medicare PPO | No Ref/No Auth Required | PAR |
-| Aetna Medicare - Credit/Discover/Discover Value Plan (HMO) | Aetna Medicare HMO REFERRAL REQ | Referral Required | Non-PAR |
+| Aetna Medicare - Credit/Discover/Discover Value Plan (HMO) | Aetna Medicare HMO REFERRAL REQ | Referral Required | PAR |
 | Aetna Medicare - Essential/ Essential Elite/ Essentials PPO | Aetna Medicare PPO | No Ref/No Auth Required | PAR |
 | Aetna Medicare - Preferred/ Preferred Premium PPO | Aetna Medicare PPO | No Ref/No Auth Required | PAR |
-| Aetna Medicare - Select (HMO) | Aetna Medicare HMO REFERRAL REQ | Referral Required | Non-PAR |
+| Aetna Medicare - Select (HMO) | Aetna Medicare HMO REFERRAL REQ | Referral Required | PAR |
 | Aetna Medicare- Advantra Credit Value/ Advantra Gold/ Advtantra Silver/ Advantra Preferred/ Advantra Premier/ Advantra Premier Plus/ Advantra Value PPO | Aetna Medicare PPO | No Ref/No Auth Required | PAR |
 | Aetna Medicare- Bronze/ Gold/ Platinum/ Core/ Core Elite/ Deluxe/ Discover/ Discover Value Plan PPO | Aetna Medicare PPO | No Ref/No Auth Required | PAR |
-| Aetna Medicare- Dual Choice/ Dual Preferred Plan/ Dual Select Choice/ Dual Select Signature HMO D-SNP | Primary: Aetna Dual MCR HMO Primary REFERRAL REQ                                                             Secondary: Aetna Dual Complete MCD HMO Secondary | Referral Required | Non-PAR |
+| Aetna Medicare- Dual Choice/ Dual Preferred Plan/ Dual Select Choice/ Dual Select Signature HMO D-SNP | Primary: Aetna Dual MCR HMO Primary REFERRAL REQ                                                             Secondary: Aetna Dual Complete MCD HMO Secondary | Referral Required | PAR |
 | Aetna Medicare- Dual Choice/ Dual Preferred Plan/ Dual Select Choice/ Dual Select Signature PPO D-SNP | Primary: Aetna Dual Complete Medicare PPO Primary                                                               Secondary: Aetna Dual Complete MCD PPO Secondary | No Ref/No Auth Required | PAR |
 | Aetna Medicare- Eagle/ Eagle Giveback/ Eagle I & II/ Eagle Plus PPO | Aetna Medicare PPO | No Ref/No Auth Required | PAR |
 | Aetna Medicare- Elite/Elite Plan 3 PPO | Aetna Medicare PPO | No Ref/No Auth Required | PAR |

@@ -8,10 +8,10 @@
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
-| Albert Smolyar, MD | Aetna Comm HMO REFERRAL REQ | Referral Required | Non-PAR |
-| Brian Marhue, OD | Aetna Comm HMO REFERRAL REQ | Referral Required | Non-PAR |
-| Penny Orr, OD | Aetna Comm HMO REFERRAL REQ | Referral Required | Non-PAR |
-| Sarah Johnson, OD | Aetna Comm HMO REFERRAL REQ | Referral Required | Non-PAR |
+| Albert Smolyar, MD | Aetna Comm HMO REFERRAL REQ | Referral Required | PAR |
+| Brian Marhue, OD | Aetna Comm HMO REFERRAL REQ | Referral Required | PAR |
+| Penny Orr, OD | Aetna Comm HMO REFERRAL REQ | Referral Required | PAR |
+| Sarah Johnson, OD | Aetna Comm HMO REFERRAL REQ | Referral Required | PAR |
 
 </details>
 

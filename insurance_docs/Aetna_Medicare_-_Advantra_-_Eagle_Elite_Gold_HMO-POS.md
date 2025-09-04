@@ -49,10 +49,10 @@
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
-| Albert Smolyar, MD | Aetna Medicare HMO POS |  | Non-PAR |
-| Brian Marhue, OD | Aetna Medicare HMO POS |  | Non-PAR |
-| Penny Orr, OD | Aetna Medicare HMO POS |  | Non-PAR |
-| Sarah Johnson, OD | Aetna Medicare HMO POS |  | Non-PAR |
+| Albert Smolyar, MD | Aetna Medicare HMO POS | No Ref/No Auth Required | PAR |
+| Brian Marhue, OD | Aetna Medicare HMO POS | No Ref/No Auth Required | PAR |
+| Penny Orr, OD | Aetna Medicare HMO POS | No Ref/No Auth Required | PAR |
+| Sarah Johnson, OD | Aetna Medicare HMO POS | No Ref/No Auth Required | PAR |
 
 </details>
 
