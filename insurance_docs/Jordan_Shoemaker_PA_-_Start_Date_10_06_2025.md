@@ -146,7 +146,7 @@
 | MBA - Medical Benefits Administrators (Cigna Network) | MBA TPA Commercial - Cigna | No Ref/No Auth Required | Non-PAR |
 | Medica (United Healthcare Choice Plus Network) | UHC Medica-94265 | No Ref/No Auth Required | Non-PAR |
 | Medicaid of Florida/ All Medicaid (MCO) plans | Self Pay Non-Par with Ins |  | Non-PAR |
-| Medicare | Medicare Part B | No Ref/No Auth Required | Non-PAR |
+| Medicare | Medicare Part B | No Ref/No Auth Required | PAR |
 | Meritain Gulf Coast (Aetna Choice POS II Network) | Meritain Health Commercial - Aetna | No Ref/No Auth Required | Non-PAR |
 | Meritain Health - Sarasota Memorial (BASIC AND/OR COMPREHENSIVE PLAN) PLEASE ASK THE PATIENT IF THE CARD HAS "SMH" ON THEIR CARD. IF THE CARD SAYS BASIC OR COMPREHENSIVE PLAN, WE ARE OUT OF NETWORK AND THERE ARE NO OON BENEFITS | Self Pay Non-Par with Ins |  | Non-PAR |
 | Meritain Health - Sarasota Memorial (EXTENSIVE MEDICAL PLAN) PLEASE ASK THE PATIENT IF THE CARD HAS "SMH" ON THEIR CARD AND THE CARD MUST SAY EXTENDED MEDICAL PLAN. THE EXTENDED MEDICAL PLAN APPLIES TOWARDS THE PATIENT'S TIER 2 BENEFITS - AETNA CHOICE POS II | Meritain Health SMH Extd  Pln | Authorization MAY be Required | Non-PAR |
