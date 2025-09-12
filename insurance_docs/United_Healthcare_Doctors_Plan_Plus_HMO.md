@@ -21,7 +21,7 @@
 | James Lenhart, OD | UHC Commercial HMO | No Ref/No Auth Required | PAR |
 | Joaquin De Rojas, MD | UHC Commercial HMO | No Ref/No Auth Required | PAR |
 | John Fezza, MD (Oculoplastics) | UHC Commercial HMO | No Ref/No Auth Required | PAR |
-| Jordan Shoemaker, PA - Start Date 10/06/2025 | UHC Commercial HMO | No Ref/No Auth Required | Non-PAR |
+| Jordan Shoemaker, PA - Start Date 10/06/2025 | UHC Commercial HMO | No Ref/No Auth Required | PAR |
 | Joseph Sowka, OD | UHC Commercial HMO | No Ref/No Auth Required | PAR |
 | Joshua Kim, MD | UHC Commercial HMO | No Ref/No Auth Required | PAR |
 | Joshua Newman, MD | UHC Commercial HMO | No Ref/No Auth Required | PAR |

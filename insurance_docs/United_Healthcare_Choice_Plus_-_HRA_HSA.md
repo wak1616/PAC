@@ -21,7 +21,7 @@
 | James Lenhart, OD | UHC HRA/HSA/POS-87726 | No Ref/No Auth Required | PAR |
 | Joaquin De Rojas, MD | UHC HRA/HSA/POS-87726 | No Ref/No Auth Required | PAR |
 | John Fezza, MD (Oculoplastics) | UHC HRA/HSA/POS-87726 | No Ref/No Auth Required | PAR |
-| Jordan Shoemaker, PA - Start Date 10/06/2025 | UHC HRA/HSA/POS-87726 | No Ref/No Auth Required | Non-PAR |
+| Jordan Shoemaker, PA - Start Date 10/06/2025 | UHC HRA/HSA/POS-87726 | No Ref/No Auth Required | PAR |
 | Joseph Sowka, OD | UHC HRA/HSA/POS-87726 | No Ref/No Auth Required | PAR |
 | Joshua Kim, MD | UHC HRA/HSA/POS-87726 | No Ref/No Auth Required | PAR |
 | Joshua Newman, MD | UHC HRA/HSA/POS-87726 | No Ref/No Auth Required | PAR |

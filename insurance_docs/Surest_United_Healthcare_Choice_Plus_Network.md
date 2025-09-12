@@ -21,7 +21,7 @@
 | James Lenhart, OD | UHC Surest-25463 Commercial - UHC | No Ref/No Auth Required | PAR |
 | Joaquin De Rojas, MD | UHC Surest-25463 Commercial - UHC | No Ref/No Auth Required | PAR |
 | John Fezza, MD (Oculoplastics) | UHC Surest-25463 Commercial - UHC | No Ref/No Auth Required | PAR |
-| Jordan Shoemaker, PA - Start Date 10/06/2025 | UHC Surest-25463 Commercial - UHC | No Ref/No Auth Required | Non-PAR |
+| Jordan Shoemaker, PA - Start Date 10/06/2025 | UHC Surest-25463 Commercial - UHC | No Ref/No Auth Required | PAR |
 | Joseph Sowka, OD | UHC Surest-25463 Commercial - UHC | No Ref/No Auth Required | PAR |
 | Joshua Kim, MD | UHC Surest-25463 Commercial - UHC | No Ref/No Auth Required | PAR |
 | Joshua Newman, MD | UHC Surest-25463 Commercial - UHC | No Ref/No Auth Required | PAR |

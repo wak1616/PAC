@@ -21,7 +21,7 @@
 | James Lenhart, OD | UHC Harvard Pilgrim-39026 | No Ref/No Auth Required | PAR |
 | Joaquin De Rojas, MD | UHC Harvard Pilgrim-39026 | No Ref/No Auth Required | PAR |
 | John Fezza, MD (Oculoplastics) | UHC Harvard Pilgrim-39026 | No Ref/No Auth Required | PAR |
-| Jordan Shoemaker, PA - Start Date 10/06/2025 | UHC Harvard Pilgrim-39026 | No Ref/No Auth Required | Non-PAR |
+| Jordan Shoemaker, PA - Start Date 10/06/2025 | UHC Harvard Pilgrim-39026 | No Ref/No Auth Required | PAR |
 | Joseph Sowka, OD | UHC Harvard Pilgrim-39026 | No Ref/No Auth Required | PAR |
 | Joshua Kim, MD | UHC Harvard Pilgrim-39026 | No Ref/No Auth Required | PAR |
 | Joshua Newman, MD | UHC Harvard Pilgrim-39026 | No Ref/No Auth Required | PAR |

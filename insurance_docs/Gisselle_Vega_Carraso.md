@@ -172,14 +172,14 @@
 | Tricare Select CFS is OUT OF NETWORK. PATIENT HAS OON BENEFITS. PLEASE INFORM PATIENT OF POSSIBLE HIGHER OUT OF POCKET COSTS. Routine Eye Exams are NON-covered | Tricare Select | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | UCare Medicare HMO CFS is OUT OF NETWORK. PATIENT HAS OON BENEFITS. PLEASE INFORM PATIENT OF POSSIBLE HIGHER OUT OF POCKET COSTS. | UCare Medicare HMO | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | UMR (UHC Choice Plus, Core, Freedom, NEXAUSACO OAP, Options PPO, Select Plus POS Networks) | UHC UMR-39026 | No Ref/No Auth Required | PAR |
-| United Healthcare Care Advantage FL-E001 PPO I-SNP | Self Pay Non-Par with Ins |  | PAR |
+| United Healthcare Care Advantage FL-E001 PPO I-SNP | Self Pay Non-Par with Ins |  | Non-PAR |
 | United Healthcare Charter EPO/ POS | UHC PPO/POS-87726 | No Ref/No Auth Required | PAR |
 | United Healthcare Choice Plan Network- The Oxford Plan | UHC Oxford PPO-06111 | No Ref/No Auth Required | PAR |
 | United Healthcare Choice Plus - HRA/HSA | UHC HRA/HSA/POS-87726 | No Ref/No Auth Required | PAR |
 | United Healthcare Choice Plus HMO | UHC Commercial HMO | No Ref/No Auth Required | PAR |
 | United Healthcare Choice Plus POS | UHC PPO/POS-87726 | No Ref/No Auth Required | PAR |
 | United Healthcare Choice Plus POS- the card will say HCA Healthcare-If patient has surgery, OOP costs are higher at 75% coinsurance as the patient's preferred facility is HCA Healthcare | UHC HCA Healthcare-87726 | No Ref/No Auth Required | PAR |
-| United Healthcare Compass ALL PLANS | Self Pay Non-Par with Ins |  | PAR |
+| United Healthcare Compass ALL PLANS | Self Pay Non-Par with Ins |  | Non-PAR |
 | United Healthcare Complete Care Walgreens FL-0014 HMO-POS C-SNP | UHC AARP Advantage HMO-87726 | No Ref/No Auth Required | PAR |
 | United Healthcare Core Choice Plus/ Choice Plus POS/ EPO | UHC PPO/POS-87726 | No Ref/No Auth Required | PAR |
 | United Healthcare Core HMO | UHC Commercial HMO | No Ref/No Auth Required | PAR |
@@ -188,7 +188,7 @@
 | United Healthcare Dual Complete™ HMO SNP | Primary: UHC Dual Complete HMO-87726                                                                 Secondary: Medicaid Secondary | No Ref/No Auth Required | PAR |
 | United Healthcare Dual Complete™ PPO SNP | Primary: UHC Dual Complete PPO-87726                                                              Secondary: Medicaid Secondary | No Ref/No Auth Required | PAR |
 | United Healthcare ER Wrap (W500 on back of card) | UHC ER Wrap | Authorization Required | PAR |
-| United Healthcare FL CHIP ALL MEDICAID | Self Pay Non-Par with Ins |  | PAR |
+| United Healthcare FL CHIP ALL MEDICAID | Self Pay Non-Par with Ins |  | Non-PAR |
 | UHC Global (PPO) | UHC Global  USN01 | No Ref/No Auth Required | PAR |
 | United Healthcare Group Medicare Advantage (PPO) | UHC Medicare Advantage PPO-87726 | No Ref/No Auth Required | PAR |
 | United Healthcare Group Medicare Advantage HMO | UHC AARP Advantage HMO-87726 | No Ref/No Auth Required | PAR |

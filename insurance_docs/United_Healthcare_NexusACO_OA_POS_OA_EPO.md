@@ -47,9 +47,9 @@
 | John Fezza, MD (Oculoplastics) | UHC PPO/POS-87726 | No Ref/No Auth Required | PAR |
 | John Fezza, MD (Oculoplastics) | UHC PPO/POS-87727 | No Ref/No Auth Required | PAR |
 | John Fezza, MD (Oculoplastics) | UHC PPO/POS-87728 | No Ref/No Auth Required | PAR |
-| Jordan Shoemaker, PA - Start Date 10/06/2025 | UHC PPO/POS-87726 | No Ref/No Auth Required | Non-PAR |
-| Jordan Shoemaker, PA - Start Date 10/06/2025 | UHC PPO/POS-87727 | No Ref/No Auth Required | Non-PAR |
-| Jordan Shoemaker, PA - Start Date 10/06/2025 | UHC PPO/POS-87728 | No Ref/No Auth Required | Non-PAR |
+| Jordan Shoemaker, PA - Start Date 10/06/2025 | UHC PPO/POS-87726 | No Ref/No Auth Required | PAR |
+| Jordan Shoemaker, PA - Start Date 10/06/2025 | UHC PPO/POS-87727 | No Ref/No Auth Required | PAR |
+| Jordan Shoemaker, PA - Start Date 10/06/2025 | UHC PPO/POS-87728 | No Ref/No Auth Required | PAR |
 | Joseph Sowka, OD | UHC PPO/POS-87726 | No Ref/No Auth Required | PAR |
 | Joseph Sowka, OD | UHC PPO/POS-87727 | No Ref/No Auth Required | PAR |
 | Joseph Sowka, OD | UHC PPO/POS-87728 | No Ref/No Auth Required | PAR |

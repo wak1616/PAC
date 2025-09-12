@@ -21,7 +21,7 @@
 | James Lenhart, OD | LifeX Research Corp - PHCS |  | PAR |
 | Joaquin De Rojas, MD | LifeX Research Corp - PHCS |  | PAR |
 | John Fezza, MD (Oculoplastics) | LifeX Research Corp - PHCS |  | PAR |
-| Jordan Shoemaker, PA - Start Date 10/06/2025 | LifeX Research Corp - PHCS |  | Non-PAR |
+| Jordan Shoemaker, PA - Start Date 10/06/2025 | LifeX Research Corp - PHCS |  | PAR |
 | Joseph Sowka, OD | LifeX Research Corp - PHCS |  | PAR |
 | Joshua Kim, MD | LifeX Research Corp - PHCS |  | PAR |
 | Joshua Newman, MD | LifeX Research Corp - PHCS |  | PAR |

@@ -34,8 +34,8 @@
 | Joaquin De Rojas, MD | UHC Commercial HMO | No Ref/No Auth Required | PAR |
 | John Fezza, MD (Oculoplastics) | UHC NHP HMO Access-87226 | No Ref/No Auth Required | PAR |
 | John Fezza, MD (Oculoplastics) | UHC Commercial HMO | No Ref/No Auth Required | PAR |
-| Jordan Shoemaker, PA - Start Date 10/06/2025 | UHC NHP HMO Access-87226 | No Ref/No Auth Required | Non-PAR |
-| Jordan Shoemaker, PA - Start Date 10/06/2025 | UHC Commercial HMO | No Ref/No Auth Required | Non-PAR |
+| Jordan Shoemaker, PA - Start Date 10/06/2025 | UHC NHP HMO Access-87226 | No Ref/No Auth Required | PAR |
+| Jordan Shoemaker, PA - Start Date 10/06/2025 | UHC Commercial HMO | No Ref/No Auth Required | PAR |
 | Joseph Sowka, OD | UHC NHP HMO Access-87226 | No Ref/No Auth Required | PAR |
 | Joseph Sowka, OD | UHC Commercial HMO | No Ref/No Auth Required | PAR |
 | Joshua Kim, MD | UHC NHP HMO Access-87226 | No Ref/No Auth Required | PAR |

@@ -21,7 +21,7 @@
 | James Lenhart, OD | UHC AARP Medicare Advantage PPO-WELM2 | No Ref/No Auth Required | PAR |
 | Joaquin De Rojas, MD | UHC AARP Medicare Advantage PPO-WELM2 | No Ref/No Auth Required | PAR |
 | John Fezza, MD (Oculoplastics) | UHC AARP Medicare Advantage PPO-WELM2 | No Ref/No Auth Required | PAR |
-| Jordan Shoemaker, PA - Start Date 10/06/2025 | UHC AARP Medicare Advantage PPO-WELM2 | No Ref/No Auth Required | Non-PAR |
+| Jordan Shoemaker, PA - Start Date 10/06/2025 | UHC AARP Medicare Advantage PPO-WELM2 | No Ref/No Auth Required | PAR |
 | Joseph Sowka, OD | UHC AARP Medicare Advantage PPO-WELM2 | No Ref/No Auth Required | PAR |
 | Joshua Kim, MD | UHC AARP Medicare Advantage PPO-WELM2 | No Ref/No Auth Required | PAR |
 | Joshua Newman, MD | UHC AARP Medicare Advantage PPO-WELM2 | No Ref/No Auth Required | PAR |

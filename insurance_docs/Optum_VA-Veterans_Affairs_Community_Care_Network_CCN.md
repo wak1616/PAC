@@ -21,7 +21,7 @@
 | James Lenhart, OD | Optum VA Community Care | Authorization Required | PAR |
 | Joaquin De Rojas, MD | Optum VA Community Care | Authorization Required | PAR |
 | John Fezza, MD (Oculoplastics) | Optum VA Community Care | Authorization Required | PAR |
-| Jordan Shoemaker, PA - Start Date 10/06/2025 | Optum VA Community Care | Authorization Required | Non-PAR |
+| Jordan Shoemaker, PA - Start Date 10/06/2025 | Optum VA Community Care | Authorization Required | PAR |
 | Joseph Sowka, OD | Optum VA Community Care | Authorization Required | PAR |
 | Joshua Kim, MD | Optum VA Community Care | Authorization Required | PAR |
 | Joshua Newman, MD | Optum VA Community Care | Authorization Required | PAR |
