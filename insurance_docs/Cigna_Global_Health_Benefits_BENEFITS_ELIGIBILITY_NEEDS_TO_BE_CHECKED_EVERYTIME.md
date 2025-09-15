@@ -26,7 +26,7 @@
 | Joshua Kim, MD | Cigna International | Authorization Required | PAR |
 | Joshua Newman, MD | Cigna International | Authorization Required | PAR |
 | Kalie Kosek, PA | Cigna International | Authorization Required | PAR |
-| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | Cigna International | Authorization Required | Non-PAR |
+| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | Cigna International | Authorization Required | PAR |
 | Kyle Schaub, OD | Cigna International | Authorization Required | PAR |
 | Len Brown, OD | Cigna International | Authorization Required | PAR |
 | Logan Page, OD | Cigna International | Authorization Required | PAR |

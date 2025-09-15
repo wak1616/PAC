@@ -26,7 +26,7 @@
 | Joshua Kim, MD | Vision Service Plan | Authorization Required | Non-PAR |
 | Joshua Newman, MD | Vision Service Plan | Authorization Required | PAR |
 | Kalie Kosek, PA | Vision Service Plan | Authorization Required | Non-PAR |
-| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | Vision Service Plan | Authorization Required | Non-PAR |
+| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | Vision Service Plan | Authorization Required | PAR |
 | Kyle Schaub, OD | Vision Service Plan | Authorization Required | PAR |
 | Len Brown, OD | Vision Service Plan | Authorization Required | PAR |
 | Logan Page, OD | Vision Service Plan | Authorization Required | PAR |

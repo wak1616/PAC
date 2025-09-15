@@ -26,7 +26,7 @@
 | Joshua Kim, MD | LifeX Research Corp - PHCS |  | PAR |
 | Joshua Newman, MD | LifeX Research Corp - PHCS |  | PAR |
 | Kalie Kosek, PA | LifeX Research Corp - PHCS |  | PAR |
-| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | LifeX Research Corp - PHCS |  | Non-PAR |
+| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | LifeX Research Corp - PHCS |  | PAR |
 | Kyle Schaub, OD | LifeX Research Corp - PHCS |  | PAR |
 | Len Brown, OD | LifeX Research Corp - PHCS |  | PAR |
 | Logan Page, OD | LifeX Research Corp - PHCS |  | PAR |

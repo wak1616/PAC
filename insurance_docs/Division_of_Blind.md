@@ -26,7 +26,7 @@
 | Joshua Kim, MD | Division of Blind | Authorization Required | PAR |
 | Joshua Newman, MD | Division of Blind | Authorization Required | PAR |
 | Kalie Kosek, PA | Division of Blind | Authorization Required | Non-PAR |
-| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | Division of Blind | Authorization Required | Non-PAR |
+| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | Division of Blind | Authorization Required | PAR |
 | Kyle Schaub, OD | Division of Blind | Authorization Required | PAR |
 | Len Brown, OD | Division of Blind | Authorization Required | PAR |
 | Logan Page, OD | Division of Blind | Authorization Required | PAR |

@@ -26,7 +26,7 @@
 | Joshua Kim, MD | NALC Health Benefit Plan- Cigna | No Ref/No Auth Required | PAR |
 | Joshua Newman, MD | NALC Health Benefit Plan- Cigna | No Ref/No Auth Required | PAR |
 | Kalie Kosek, PA | NALC Health Benefit Plan- Cigna | No Ref/No Auth Required | Non-PAR |
-| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | NALC Health Benefit Plan- Cigna | No Ref/No Auth Required | Non-PAR |
+| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | NALC Health Benefit Plan- Cigna | No Ref/No Auth Required | PAR |
 | Kyle Schaub, OD | NALC Health Benefit Plan- Cigna | No Ref/No Auth Required | PAR |
 | Len Brown, OD | NALC Health Benefit Plan- Cigna | No Ref/No Auth Required | PAR |
 | Logan Page, OD | NALC Health Benefit Plan- Cigna | No Ref/No Auth Required | PAR |

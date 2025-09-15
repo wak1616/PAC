@@ -26,7 +26,7 @@
 | Joshua Kim, MD | EBMS Commercial PPO - Aetna | No Ref/No Auth Required | PAR |
 | Joshua Newman, MD | EBMS Commercial PPO - Aetna | No Ref/No Auth Required | PAR |
 | Kalie Kosek, PA | EBMS Commercial PPO - Aetna | No Ref/No Auth Required | PAR |
-| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | EBMS Commercial PPO - Aetna | No Ref/No Auth Required | Non-PAR |
+| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | EBMS Commercial PPO - Aetna | No Ref/No Auth Required | PAR |
 | Kyle Schaub, OD | EBMS Commercial PPO - Aetna | No Ref/No Auth Required | PAR |
 | Len Brown, OD | EBMS Commercial PPO - Aetna | No Ref/No Auth Required | PAR |
 | Logan Page, OD | EBMS Commercial PPO - Aetna | No Ref/No Auth Required | PAR |

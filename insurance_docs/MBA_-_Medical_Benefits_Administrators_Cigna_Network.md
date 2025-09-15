@@ -26,7 +26,7 @@
 | Joshua Kim, MD | MBA TPA Commercial - Cigna | No Ref/No Auth Required | PAR |
 | Joshua Newman, MD | MBA TPA Commercial - Cigna | No Ref/No Auth Required | PAR |
 | Kalie Kosek, PA | MBA TPA Commercial - Cigna | No Ref/No Auth Required | PAR |
-| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | MBA TPA Commercial - Cigna | No Ref/No Auth Required | Non-PAR |
+| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | MBA TPA Commercial - Cigna | No Ref/No Auth Required | PAR |
 | Kyle Schaub, OD | MBA TPA Commercial - Cigna | No Ref/No Auth Required | PAR |
 | Len Brown, OD | MBA TPA Commercial - Cigna | No Ref/No Auth Required | PAR |
 | Logan Page, OD | MBA TPA Commercial - Cigna | No Ref/No Auth Required | PAR |

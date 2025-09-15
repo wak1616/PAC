@@ -26,7 +26,7 @@
 | Joshua Kim, MD | Priority Health Medicare HMO - Multiplan | No Ref/No Auth Required | PAR |
 | Joshua Newman, MD | Priority Health Medicare HMO - Multiplan | No Ref/No Auth Required | PAR |
 | Kalie Kosek, PA | Priority Health Medicare HMO - Multiplan | No Ref/No Auth Required | PAR |
-| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | Priority Health Medicare HMO - Multiplan | No Ref/No Auth Required | Non-PAR |
+| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | Priority Health Medicare HMO - Multiplan | No Ref/No Auth Required | PAR |
 | Kyle Schaub, OD | Priority Health Medicare HMO - Multiplan | No Ref/No Auth Required | PAR |
 | Len Brown, OD | Priority Health Medicare HMO - Multiplan | No Ref/No Auth Required | PAR |
 | Logan Page, OD | Priority Health Medicare HMO - Multiplan | No Ref/No Auth Required | PAR |

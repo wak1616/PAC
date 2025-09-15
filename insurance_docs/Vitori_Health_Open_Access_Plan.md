@@ -26,7 +26,7 @@
 | Joshua Kim, MD | Vitori Health Open Access Plan | No Ref/No Auth Required | PAR |
 | Joshua Newman, MD | Vitori Health Open Access Plan | No Ref/No Auth Required | PAR |
 | Kalie Kosek, PA | Vitori Health Open Access Plan | No Ref/No Auth Required | PAR |
-| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | Vitori Health Open Access Plan | No Ref/No Auth Required | Non-PAR |
+| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | Vitori Health Open Access Plan | No Ref/No Auth Required | PAR |
 | Kyle Schaub, OD | Vitori Health Open Access Plan | No Ref/No Auth Required | PAR |
 | Len Brown, OD | Vitori Health Open Access Plan | No Ref/No Auth Required | PAR |
 | Logan Page, OD | Vitori Health Open Access Plan | No Ref/No Auth Required | PAR |
