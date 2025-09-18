@@ -289,7 +289,7 @@ Use this rule to override standard appointment templates if attempting to schedu
 * **AEC:** N/A
 * **CEP:** N/A
 * **CFS:** Dr. Len Brown, Dr. Daniel Hadland, Dr. Melissa Hammond, Dr. Erin Hardie, Dr. George Hurwitz, Dr. Todd Lang, Dr. James Lenhart , Dr. Casey Maloney, Dr. Elizabeth McVey, Dr. David Mertzlufft, Dr. Bradley Middaugh, Dr. Patrick Nelson, Dr. Logan Page, Dr. Charles Putrino, Dr. Rachel Randolph, Dr. Kyle Schaub, Dr. Joseph Sowka, Dr. Scott Stevens, Dr. Trisha Werner
-* **SFEC:** Dr. Sarah Johnson, Dr. Brian Marhue, Dr. Penny Orr&#x20;
+* **SFEC:** Dr. Sarah Johnson, Dr. Brian Marhue, Dr. Penny Orr
 * **LEA:** Dr. Christine Bui, Dr. Mari Holderby, Dr. Diba Ossareh, Dr. Alexandria Rawls
 * **GEC, KEC, RHC:** N/A
 
@@ -412,12 +412,12 @@ These exams are usually performed annually and help maintain overall eye health.
 
 **Providers By Location**
 
-| Location | MD/DO Providers                                                                                                                                     | OD Providers                                                                                                                                                                                                                                                                                                                                                                                                                          |
-| -------- | --------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **CFS**  | <p>Dr. Elizabeth Davis (does NOT fit contact lenses; book in blue short spots ONLY)<br>Dr. Jon Berlie<br>Dr. George Brinnig<br>Dr. Julie Carter</p> | <p>Dr. Len Brown<br>Dr. Daniel Hadland<br>Dr. Melissa Hammond<br>Dr. Erin Hardie<br>Dr. George Hurwitz<br>Dr. Todd Lang<br>Dr. James Lenhart <br>Dr. Michael Maloney<br>Dr. Mary McVey<br>Dr. David Mertzlufft<br>Dr. Bradley Middaugh<br>Dr. Patrick Nelson<br>Dr. Logan Page<br>Dr. Charles Putrino<br>Dr. Rachel Randolph<br>Dr. Kyle Schaub<br>Dr. Joseph Sowka<br>Dr. Scott Stevens<br>Dr. Lori Vollmer<br>Dr. Trisha Werner</p> |
-| **LEA**  | Dr. Jose Vazquez (does NOT fit contact lenses)                                                                                                      | <p>Dr. Christine Bui<br>Dr. Mari Holderby<br>Dr. Diba Ossareh<br>Dr. Alexandria Rawls</p>                                                                                                                                                                                                                                                                                                                                             |
-| **RHC**  | _(None listed)_                                                                                                                                     | _(None listed)_                                                                                                                                                                                                                                                                                                                                                                                                                       |
-| **SFEC** | Dr. Albert Smolyar                                                                                                                                  | <p>Dr. Sarah Johnson<br>Dr. Brian Marhue<br>Dr. Penny Orr</p>                                                                                                                                                                                                                                                                                                                                                                         |
+| Location | MD/DO Providers                                                                                                                                     | OD Providers                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| -------- | --------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **CFS**  | <p>Dr. Elizabeth Davis (does NOT fit contact lenses; book in blue short spots ONLY)<br>Dr. Jon Berlie<br>Dr. George Brinnig<br>Dr. Julie Carter</p> | <p>Dr. Len Brown<br>Dr. Daniel Hadland<br>Dr. Melissa Hammond<br>Dr. Erin Hardie<br>Dr. George Hurwitz<br>Dr. Todd Lang<br>Dr. James Lenhart<br>Dr. Michael Maloney<br>Dr. Mary McVey<br>Dr. David Mertzlufft<br>Dr. Bradley Middaugh<br>Dr. Patrick Nelson<br>Dr. Logan Page<br>Dr. Charles Putrino<br>Dr. Rachel Randolph<br>Dr. Kyle Schaub<br>Dr. Joseph Sowka<br>Dr. Scott Stevens<br>Dr. Lori Vollmer<br>Dr. Trisha Werner</p> |
+| **LEA**  | Dr. Jose Vazquez (does NOT fit contact lenses)                                                                                                      | <p>Dr. Christine Bui<br>Dr. Mari Holderby<br>Dr. Diba Ossareh<br>Dr. Alexandria Rawls</p>                                                                                                                                                                                                                                                                                                                                            |
+| **RHC**  | _(None listed)_                                                                                                                                     | _(None listed)_                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| **SFEC** | Dr. Albert Smolyar                                                                                                                                  | <p>Dr. Sarah Johnson<br>Dr. Brian Marhue<br>Dr. Penny Orr</p>                                                                                                                                                                                                                                                                                                                                                                        |
 
 #### Important Reminders
 
@@ -613,14 +613,15 @@ US Eye offers **Light Adjustable Lens**, **Advanced**, **Custom**, and **Basic**
 
 #### Providers by location
 
-| Location | Providers                                                                                                                   |
-| -------- | --------------------------------------------------------------------------------------------------------------------------- |
-| **CFS**  | Dr. Jon Berlie, Dr. Joaquin De Rojas\*, Dr. Joshua Kim\*, Dr. Priya Mathews\*, Dr. David Shoemaker\*, Dr. Elizabeth Davis\* |
-| **LEA**  | Dr. Vinay Gutti, Dr. Scot Holman, Dr. Scott Wehrly                                                                          |
-| **RHC**  | (No providers listed)                                                                                                       |
-| **SFEC** | Dr. Albert Smolyar\*                                                                                                        |
+| Location | Providers                                                                                                                                                            |
+| -------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **CFS**  | <p>Dr. Jon Berlie</p><p>Dr. Joaquin De Rojas*</p><p>Dr. Joshua Kim*</p><p>Dr. Priya Mathews*</p><p>Dr. David Shoemaker * <kbd>╛</kbd></p><p>Dr. Elizabeth Davis*</p> |
+| **LEA**  | Dr. Vinay Gutti, Dr. Scot Holman, Dr. Scott Wehrly                                                                                                                   |
+| **RHC**  | (No providers listed)                                                                                                                                                |
+| **SFEC** | Dr. Albert Smolyar\*                                                                                                                                                 |
 
-> `*` Performs biometry day of consult
+> `*` Performs biometry day of consult\
+> <kbd>╛</kbd>Will not see patients that already had cataract surgery
 
 #### Important Reminders
 
@@ -714,12 +715,13 @@ Refractive procedures help improve the patient's vision to minimize dependence o
 
 * _\* Performs CLE/RLE Only (denoted by an asterisk `*` after the name)_
 * _† Does not perform EVO ICL (denoted by a dagger `†`)_
+* <kbd>╛</kbd>  Will not see patients that already had cataract surgery in the past (denoted with <kbd>╛</kbd>)
 
-| Location | Providers                                                                                                                                                 |
-| -------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **CFS**  | <p>Dr. Joaquin De Rojas<br>Dr. Priya Mathews<br>Dr. David Shoemaker*<br>Dr. Elizabeth Davis<br>Dr. Joshua Kim*<br>Dr. Jon Berlie<sup>†</sup> (Naples)</p> |
-| **LEA**  | <p>Dr. Vinay Gutti*<br>Dr. Scot Holman<br>Dr. Scott Wehrly*</p>                                                                                           |
-| **SFEC** | Dr. Albert Smolyar                                                                                                                                        |
+| Location | Providers                                                                                                                                                              |
+| -------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **CFS**  | <p>Dr. Joaquin De Rojas<br>Dr. Priya Mathews<br>Dr. David Shoemaker* <kbd>╛</kbd><br>Dr. Elizabeth Davis<br>Dr. Joshua Kim*<br>Dr. Jon Berlie<sup>†</sup> (Naples)</p> |
+| **LEA**  | <p>Dr. Vinay Gutti*<br>Dr. Scot Holman<br>Dr. Scott Wehrly*</p>                                                                                                        |
+| **SFEC** | Dr. Albert Smolyar                                                                                                                                                     |
 
 #### Important Reminders
 
