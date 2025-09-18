@@ -44,6 +44,7 @@ _Click on the map below to access the interactive version_
 * **Retina Health Center (RHC)**: [retinahealthcenter.com](https://www.retinahealthcenter.com/)
 
 ### Translator
+
 * Account number: 501036068
 * Pin: 6483
 
@@ -91,7 +92,7 @@ This protocol outlines the standard steps when scheduling patients who may or ma
 
 ### Instructions for Patient with Acute Issues
 
-This protocol details the steps taken to properly triage and schedule a patient with an acute issue.  
+This protocol details the steps taken to properly triage and schedule a patient with an acute issue.
 
 **NO medical advice should be given to the patient by PAC agents.**
 
@@ -117,18 +118,18 @@ This protocol details the steps taken to properly triage and schedule a patient 
 
 The following guide outlines when to schedule appointment based on their symptoms:
 
-| Emergency (Same Day)                                                           | Urgent (24–48 hrs)                                         | Non-Urgent (Next Avail)                                             |
-| ------------------------------------------------------------------------------ | ---------------------------------------------------------- | ------------------------------------------------------------------- |
-| **Retinal Tear/Detachment (within 30 days)**                                   | Progressively worsening eye pain for 1 week                | Mild ocular irritation/redness                                      |
-| **Sudden painless loss of vision**                                             | Moderate redness/pain for 1 week                           | Floaters (unchanged, previously diagnosed)                          |
-| **Sudden onset of floaters/flashes/veil/spider webs**                          | Sub-acute loss of vision over a few days to 1 week         | Eyes become tired and blur after reading; trouble seeing road signs |
-| **Sudden distortion/change on Amsler Grid**                                    | Sudden onset of double vision                              | Difficulty with near/fine print                                     |
-| **Foreign body (something in eye)**                                            | Ocular discharge (clear, milky, watery)                    | Lid twitching                                                       |
-| **Chemicals in eye** (flush at urgent care/hospital until pH = 7, then clinic) | Severe photophobia (with/without pain)                     | Mucous discharge                                                    |
-| **Acute, rapid onset eye pain/discomfort**                                     |                                                            | Tearing (no other symptoms)                                         |
-| **Acute red eye w/ or w/out discharge**                                        |                                                            | Mild redness w/o other symptoms                                     |
-| **Trauma to eye, head, face**                                                  |                                                            | Loss of only pair of glasses/contacts needed for daily use          |
-| **Referral stating emergent situation**                                        |                                                            |                                                                     |
+| Emergency (Same Day)                                                           | Urgent (24–48 hrs)                                 | Non-Urgent (Next Avail)                                             |
+| ------------------------------------------------------------------------------ | -------------------------------------------------- | ------------------------------------------------------------------- |
+| **Retinal Tear/Detachment (within 30 days)**                                   | Progressively worsening eye pain for 1 week        | Mild ocular irritation/redness                                      |
+| **Sudden painless loss of vision**                                             | Moderate redness/pain for 1 week                   | Floaters (unchanged, previously diagnosed)                          |
+| **Sudden onset of floaters/flashes/veil/spider webs**                          | Sub-acute loss of vision over a few days to 1 week | Eyes become tired and blur after reading; trouble seeing road signs |
+| **Sudden distortion/change on Amsler Grid**                                    | Sudden onset of double vision                      | Difficulty with near/fine print                                     |
+| **Foreign body (something in eye)**                                            | Ocular discharge (clear, milky, watery)            | Lid twitching                                                       |
+| **Chemicals in eye** (flush at urgent care/hospital until pH = 7, then clinic) | Severe photophobia (with/without pain)             | Mucous discharge                                                    |
+| **Acute, rapid onset eye pain/discomfort**                                     |                                                    | Tearing (no other symptoms)                                         |
+| **Acute red eye w/ or w/out discharge**                                        |                                                    | Mild redness w/o other symptoms                                     |
+| **Trauma to eye, head, face**                                                  |                                                    | Loss of only pair of glasses/contacts needed for daily use          |
+| **Referral stating emergent situation**                                        |                                                    |                                                                     |
 
 ***
 
@@ -146,16 +147,16 @@ The following guide outlines when to schedule appointment based on their symptom
 * If no same day spots are available for that provider, send an **ICP** communication to the Patient Care Team of that region and mark **urgent**.
 * If the patient's provider is out of the office, schedule with another provider in the region and note in the details their provider is out. **Check availability for all office locations in the region** **to include smaller satellite offices.**
 * For **retina** patients (Dr. Banker or RHC): Triaged by an **OD first** for emergency appts. For retina emergency referrals (e.g. detachment or tear), send an **ICP** message to either Dr. Banker's team or RHC Pateint Care Team marked **urgent**. **Do not schedule**.
-   - If this is a Dr. Banker patient that recently had an injection (2 weeks) and experiencing pain or decrease in vision, schedule them same day with an OD.
+  * If this is a Dr. Banker patient that recently had an injection (2 weeks) and experiencing pain or decrease in vision, schedule them same day with an OD.
 * If it's **3:30 PM–5:00 PM**:
   * Attempt a warm transfer to the office.
   * If the office is unavailable, enter an **ICP** message to the Patient Care Team. The office will contact the patient directly to schedule.
 * If uncertain or unable to schedule, **notify** the Patient Care Team in ICP (if new patient, see "ICP IntelleChart – New Patient Task" below).
-   - If a messaage is required to be sent, please make sure it is being sent to the proper **Patient Care Team** and include **all** details of symptoms.
+  * If a messaage is required to be sent, please make sure it is being sent to the proper **Patient Care Team** and include **all** details of symptoms.
 
 ***
 
-### Urgent --> Appointment Within 48 Hours Required  - Follow these instructions:
+### Urgent --> Appointment Within 48 Hours Required - Follow these instructions:
 
 * **If New Patient**: Schedule with **OD within 2 days** (although some MDs at SFEC and LEA see ERs as well)
 * **If Established Patient**: Schedule with **primary provider whenever possible**.
@@ -169,7 +170,7 @@ The following guide outlines when to schedule appointment based on their symptom
 
 ***
 
-### Non-Urgent – Next Available  - Follow these instructions:
+### Non-Urgent – Next Available - Follow these instructions:
 
 * **If New Patient**: Schedule with **OD**.
 * **If Established Patient**: Schedule with **primary provider**. For more information about scheduling non-urgent established patients, see "[Scheduling Established Patients](./#scheduling-established-patients)".
@@ -287,8 +288,8 @@ Use this rule to override standard appointment templates if attempting to schedu
 
 * **AEC:** N/A
 * **CEP:** N/A
-* **CFS:** Dr. Len Brown, Dr. Daniel Hadland, Dr. Melissa Hammond, Dr. Erin Hardie, Dr. George Hurwitz, Dr. Todd Lang, Dr. James Lenhart, Dr. Lori Long, Dr. Casey Maloney, Dr. Elizabeth McVey, Dr. David Mertzlufft, Dr. Bradley Middaugh, Dr. Patrick Nelson, Dr. Logan Page, Dr. Charles Putrino, Dr. Rachel Randolph, Dr. Kyle Schaub, Dr. Joseph Sowka, Dr. Scott Stevens, Dr. Trisha Werner
-* **SFEC:** Dr. Sarah Johnson, Dr. Brian Marhue, Dr. Penny Orr, Dr. Hunter Vittone
+* **CFS:** Dr. Len Brown, Dr. Daniel Hadland, Dr. Melissa Hammond, Dr. Erin Hardie, Dr. George Hurwitz, Dr. Todd Lang, Dr. James Lenhart , Dr. Casey Maloney, Dr. Elizabeth McVey, Dr. David Mertzlufft, Dr. Bradley Middaugh, Dr. Patrick Nelson, Dr. Logan Page, Dr. Charles Putrino, Dr. Rachel Randolph, Dr. Kyle Schaub, Dr. Joseph Sowka, Dr. Scott Stevens, Dr. Trisha Werner
+* **SFEC:** Dr. Sarah Johnson, Dr. Brian Marhue, Dr. Penny Orr&#x20;
 * **LEA:** Dr. Christine Bui, Dr. Mari Holderby, Dr. Diba Ossareh, Dr. Alexandria Rawls
 * **GEC, KEC, RHC:** N/A
 
@@ -411,19 +412,19 @@ These exams are usually performed annually and help maintain overall eye health.
 
 **Providers By Location**
 
-| Location | MD/DO Providers                                                 | OD Providers                                                                                                                                                                                                                                                                                                                                                                                                                                          |
-| -------- | --------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **CFS**  | <p>Dr. Elizabeth Davis (does NOT fit contact lenses; book in blue short spots ONLY)<br>Dr. Jon Berlie<br>Dr. George Brinnig<br>Dr. Julie Carter</p> | <p>Dr. Len Brown<br>Dr. Daniel Hadland<br>Dr. Melissa Hammond<br>Dr. Erin Hardie<br>Dr. George Hurwitz<br>Dr. Todd Lang<br>Dr. James Lenhart<br>Dr. Lori Long<br>Dr. Michael Maloney<br>Dr. Mary McVey<br>Dr. David Mertzlufft<br>Dr. Bradley Middaugh<br>Dr. Patrick Nelson<br>Dr. Logan Page<br>Dr. Charles Putrino<br>Dr. Rachel Randolph<br>Dr. Kyle Schaub<br>Dr. Joseph Sowka<br>Dr. Scott Stevens<br>Dr. Lori Vollmer<br>Dr. Trisha Werner</p> |
-| **LEA**  | Dr. Jose Vazquez (does NOT fit contact lenses)                  | <p>Dr. Christine Bui<br>Dr. Mari Holderby<br>Dr. Diba Ossareh<br>Dr. Alexandria Rawls</p>                                                                                                                                                                                                                                                                                                                                                             |
-| **RHC**  | _(None listed)_                                                 | _(None listed)_                                                                                                                                                                                                                                                                                                                                                                                                                                       |
-| **SFEC** | Dr. Albert Smolyar                                              | <p>Dr. Sarah Johnson<br>Dr. Brian Marhue<br>Dr. Penny Orr</p>                                                                                                                                                                                                                                                                                                                                                                   |
+| Location | MD/DO Providers                                                                                                                                     | OD Providers                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| -------- | --------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **CFS**  | <p>Dr. Elizabeth Davis (does NOT fit contact lenses; book in blue short spots ONLY)<br>Dr. Jon Berlie<br>Dr. George Brinnig<br>Dr. Julie Carter</p> | <p>Dr. Len Brown<br>Dr. Daniel Hadland<br>Dr. Melissa Hammond<br>Dr. Erin Hardie<br>Dr. George Hurwitz<br>Dr. Todd Lang<br>Dr. James Lenhart <br>Dr. Michael Maloney<br>Dr. Mary McVey<br>Dr. David Mertzlufft<br>Dr. Bradley Middaugh<br>Dr. Patrick Nelson<br>Dr. Logan Page<br>Dr. Charles Putrino<br>Dr. Rachel Randolph<br>Dr. Kyle Schaub<br>Dr. Joseph Sowka<br>Dr. Scott Stevens<br>Dr. Lori Vollmer<br>Dr. Trisha Werner</p> |
+| **LEA**  | Dr. Jose Vazquez (does NOT fit contact lenses)                                                                                                      | <p>Dr. Christine Bui<br>Dr. Mari Holderby<br>Dr. Diba Ossareh<br>Dr. Alexandria Rawls</p>                                                                                                                                                                                                                                                                                                                                             |
+| **RHC**  | _(None listed)_                                                                                                                                     | _(None listed)_                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| **SFEC** | Dr. Albert Smolyar                                                                                                                                  | <p>Dr. Sarah Johnson<br>Dr. Brian Marhue<br>Dr. Penny Orr</p>                                                                                                                                                                                                                                                                                                                                                                         |
 
 #### Important Reminders
 
 1. Make certain that every appointment is scheduled in **time order.**
 2. **Refraction rechecks** should always be scheduled with the **same provider** who performed the comprehensive exam. Patients should consult an optician first to check their glasses before scheduling a refraction recheck.
 3. If a patient **hasn't been seen in 3+ months**, a **comprehensive exam** is scheduled, **not** just a refraction.
-4. **Any OD** can see a patient for punctal plugs. Schedule in a light blue spot for a follow up and add in the appointment details: **"Punctal Plugs"** 
+4. **Any OD** can see a patient for punctal plugs. Schedule in a light blue spot for a follow up and add in the appointment details: **"Punctal Plugs"**
 5. **CFS/SFEC/LEA**: Do not schedule more than **two family members** in one day **per provider**.
 6. If you offer an appointment more than **10 days out**, you **must** offer to place the patient on the **waitlist** (in addition to scheduling them).
 7. ROTC exams are only done by Dr. Middaugh at the CFS Brantley Rd location. There is a limit of **2 per day** (one in the AM and one in the PM). Scheduled as short visits with "ROTC Exam" in the appointment details.
@@ -454,13 +455,12 @@ These exams are usually performed annually and help maintain overall eye health.
 2. **Exam Duration**
    * Comprehensive exams generally last **90–120 minutes**.
    * **Script**: "Because of the complexity and diagnostic testing, we usually need about 90 minutes. This ensures thorough care."
-3. **Self-Pay Pricing**  
-   a. The self-pay price for a comprehensive exam is typically **$150-$250**.  
+3. **Self-Pay Pricing**\
+   a. The self-pay price for a comprehensive exam is typically **$150-$250**.\
    b. **Script:** "The estimated costs for an exam can range between $150-$250. Once you have checked out, our check-out staff will provide your final self-pay costs. All costs are due at the time of the appointment."
-4. **Important Reminders**   
-   a. Patients are typically only eligible through their vision plan once per year. If a routine exam is being scheduled before the 1-year eligibility timeframe, the patient may need to use their medical insurance instead.  
+4. **Important Reminders**\
+   a. Patients are typically only eligible through their vision plan once per year. If a routine exam is being scheduled before the 1-year eligibility timeframe, the patient may need to use their medical insurance instead.\
    b. Always schedule patients with both vision and medical insurance info.
-
 
 #### Closing Reminders
 
@@ -613,12 +613,12 @@ US Eye offers **Light Adjustable Lens**, **Advanced**, **Custom**, and **Basic**
 
 #### Providers by location
 
-| Location | Providers                                                                                                                                                             |
-| -------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Location | Providers                                                                                                                   |
+| -------- | --------------------------------------------------------------------------------------------------------------------------- |
 | **CFS**  | Dr. Jon Berlie, Dr. Joaquin De Rojas\*, Dr. Joshua Kim\*, Dr. Priya Mathews\*, Dr. David Shoemaker\*, Dr. Elizabeth Davis\* |
-| **LEA**  | Dr. Vinay Gutti, Dr. Scot Holman, Dr. Scott Wehrly                                                                                                                    |
-| **RHC**  | (No providers listed)                                                                                                                                                 |
-| **SFEC** | Dr. Albert Smolyar\*                                                                                                                                                  |
+| **LEA**  | Dr. Vinay Gutti, Dr. Scot Holman, Dr. Scott Wehrly                                                                          |
+| **RHC**  | (No providers listed)                                                                                                       |
+| **SFEC** | Dr. Albert Smolyar\*                                                                                                        |
 
 > `*` Performs biometry day of consult
 
@@ -908,9 +908,9 @@ Glaucoma is a disease caused by increased fluid pressure within the eye, potenti
 | **CFS**  | <p>Dr. Joshua Kim,<br>Dr. Julia Carter (Naples),<br>Dr. Jon Berlie* (Naples),<br>Dr. Joaquin De Rojas*,<br>Dr. Priya Mathews*,<br>Dr. Elizabeth Davis*</p> |
 | **LEA**  | <p>Dr. Vinay Gutti*,<br>Dr. Scott Holman*,<br>Dr. Scott Wehrly*<br></p>                                                                                    |
 | **RHC**  | N/A                                                                                                                                                        |
-| **SFEC** | Dr. Albert Smolyar                                                                                                                                       |
+| **SFEC** | Dr. Albert Smolyar                                                                                                                                         |
 
-*These providers only perform MIGS at the time of cataract surgery (they do not offer primary glaucoma evaluations).
+\*These providers only perform MIGS at the time of cataract surgery (they do not offer primary glaucoma evaluations).
 
 #### Important Reminders
 
@@ -1086,8 +1086,8 @@ Oculoplastics consultations focus on facial and eyelid conditions and treatments
 
 * Make certain every appointment is scheduled in **time order.**
 * **CFS AMARA**: Transfer calls for AMARA scheduling to the AMARA ext:
-   * 104401
-   * 103657
+  * 104401
+  * 77753
 * If offering an appointment more than **10 days out**, you **must** offer to place the patient on the **waitlist**.
 * **Vision plans** cannot be used for Oculoplastic Consultations.
 
@@ -1159,8 +1159,8 @@ Dermatology providers offer both surgical and non-surgical treatment options for
 
 * Make certain every appointment is scheduled in **time order.**
 * **AMARA:** Transfer all calls about AMARA scheduling to the AMARA:
-   * 104401
-   * 103657
+  * 104401
+  * 77753
 * If you offer an appointment more than **10 days away**, you **must** offer to place the patient on the **waitlist**.
 * If Dr. Newman is out of the office or booking too far out, offer the patient an appointment with Shannon Bednarz for the same services (excluding Mohs).
 * When Dr. Newman is out, one of his team is still available for tech-only visits (e.g., suture removals).
@@ -1269,8 +1269,8 @@ Below are the listed providers at Center For Sight, along with the services they
 
 * Make certain every appointment is scheduled in **time order.**
 * Transfer all calls for **AMARA** scheduling to the AMARA ext:
-   * 104401
-   * 103657
+  * 104401
+  * 77753
 * Aesthetician services are **elective** and **not covered** by insurance.
 * **CoolSculpting** is only offered at **AMARA (1370 Venice)**.
 * **Morpheus 8** is only offered at **AMARA (1370 Venice) on Thursdays** when Dr. Fezza is in office.
@@ -1334,30 +1334,29 @@ Below are the listed providers at Center For Sight, along with the services they
   1. Direct the patient to the **medical records release form** on the practice website.
   2. Alternatively, email or fax the release form upon request.
   3. Completed forms can be returned by mail, fax, or at any practice location.
-      - CFS: frontdesk@centerforsight.net
-      - RHC: frontdesk@retinahealthcenter.com
-      - LEA: pservices@lakeeye.com
-      - SFEC: No email
-  
+     * CFS: frontdesk@useye.com
+     * RHC: frontdesk@retinahealthcenter.com
+     * LEA: pservices@lakeeye.com
+     * SFEC: No email
 * **Turnaround**: Records requests typically take **3–5 business days**.
 * **Status Check**:
-  1.  Double check the patient has signed and sent a medical records release.
-  2.  Send an ICP task to the proper PT Care Team to give the patient a call back regarding their medical records release form.
+  1. Double check the patient has signed and sent a medical records release.
+  2. Send an ICP task to the proper PT Care Team to give the patient a call back regarding their medical records release form.
 
 ### RCM Inquiries – Financial Requests
 
 _**Important Reminder:** The patient’s insurance company is the only entity that can provide accurate and up-to-date information about their policy, coverage, or costs. Since the insurance company writes and manages the patient’s policy, they have access to all the necessary details and are best positioned to answer questions. Please do not send these types of inquiries to RCM, instead put it back on the patient to reach out to their insurance company._
 
-| **Request**                                                                                            | **Where to Direct**                                                                                                                                                                                                |
-| ------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Surgery Costs / Estimates**                                                                          | <p>1. Submit request to: RCM Support Inquiries<br>2. Choose <strong>Financial Counseling – Estimate Review/Questions</strong></p> |
-| **Payments for Upcoming Surgery** (not from a statement)                                               | WARM transfer the call to extension **103863**                                                                                                                                                                     |
-| **Center For Sight (CFS) ONLY**: Cataract surgery with CV/ADV/LAL lens payments for upcoming surgeries | <p>1. Send an <strong>ICP Communication</strong><br>2. Message and notify <strong>"CFS Surgical Counselors"</strong></p>                                                                                           |
-| **Cosmetic Oculoplastics Surgeries**                                                                   | <p>1. Send <strong>ICP Communication</strong><br>2. Notify either <strong>CFS Dr. Fezza Team</strong> (for Dr. Fezza) or <strong>CFS Surgical Counselors</strong> (for Dr. Berlie)</p>                             |
-| **Insurance Verification** (Referrals or Authorization for upcoming appt)                              | <p>1. Submit request to: RCM Support Inquiries<br>2. Choose <strong>Insurance Verification – Benefits Verification</strong></p>   |
-| **Retina Provider Questions** (Insurance Verification, Authorization, or Financial Counseling)         | Submit request to: RCM Support Inquiries                                                                                                     |
-| **Billing / Customer Service** (past due balance, statements, itemized statements)                     | Transfer to **BILLING Quick Connect**                                                                                                                                                                              |
-| **Audit Calls from Insurances**                                                                        | Email info to **Heather Hickman** (Accounts Receivable Manager)                                                                                                                                                    |
+| **Request**                                                                                            | **Where to Direct**                                                                                                                                                                    |
+| ------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Surgery Costs / Estimates**                                                                          | <p>1. Submit request to: RCM Support Inquiries<br>2. Choose <strong>Financial Counseling – Estimate Review/Questions</strong></p>                                                      |
+| **Payments for Upcoming Surgery** (not from a statement)                                               | WARM transfer the call to extension **103863**                                                                                                                                         |
+| **Center For Sight (CFS) ONLY**: Cataract surgery with CV/ADV/LAL lens payments for upcoming surgeries | <p>1. Send an <strong>ICP Communication</strong><br>2. Message and notify <strong>"CFS Surgical Counselors"</strong></p>                                                               |
+| **Cosmetic Oculoplastics Surgeries**                                                                   | <p>1. Send <strong>ICP Communication</strong><br>2. Notify either <strong>CFS Dr. Fezza Team</strong> (for Dr. Fezza) or <strong>CFS Surgical Counselors</strong> (for Dr. Berlie)</p> |
+| **Insurance Verification** (Referrals or Authorization for upcoming appt)                              | <p>1. Submit request to: RCM Support Inquiries<br>2. Choose <strong>Insurance Verification – Benefits Verification</strong></p>                                                        |
+| **Retina Provider Questions** (Insurance Verification, Authorization, or Financial Counseling)         | Submit request to: RCM Support Inquiries                                                                                                                                               |
+| **Billing / Customer Service** (past due balance, statements, itemized statements)                     | Transfer to **BILLING Quick Connect**                                                                                                                                                  |
+| **Audit Calls from Insurances**                                                                        | Email info to **Heather Hickman** (Accounts Receivable Manager)                                                                                                                        |
 
 ### ICP Patient Tasks Related to Clinical Questions / Medication Refills / DMV Forms
 
@@ -1379,9 +1378,9 @@ Certain requests **only** clinical staff or providers can handle. Refer to the t
 | Medications / Drops                         | Normal      | Prescription Drug Management | \*Practice (Provider) Team (Established patients only) |
 | Post Op Care                                | Urgent      | Continuing Care              | \*Practice (Provider) Team (mark as Urgent)            |
 | General Exam / Diagnosis                    | Normal      | Continuing Care              | \*Practice (Provider) Team                             |
-| CL or Glasses Copy of Prescription          | Normal      | Contact Lens / Glasses       | \*Practice Patient Care Team                             |
+| CL or Glasses Copy of Prescription          | Normal      | Contact Lens / Glasses       | \*Practice Patient Care Team                           |
 | Change/Alter CL or Glasses Rx (not expired) | Normal      | Contact Lens / Glasses       | \*Practice (Provider) Team                             |
-| DMV Forms                                   | Normal      | Continuing Care              | \*Practice Patient Care Team                             |
+| DMV Forms                                   | Normal      | Continuing Care              | \*Practice Patient Care Team                           |
 
 > **Notify Field Examples**:
 >

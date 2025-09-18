@@ -4,7 +4,7 @@
 
 ### Tanuj Banker, MD
 
-* **Patient Types**: Young Child (3-7 Years), Teen (8-17 Years), Adult (18 & Over)
+* **Patient Types**: Adult (18 & Over)
 * **Specialties**: Retina
 * **Patient Care Team**: CFS North & Mid
 * **Office Locations**: Englewood, North Port, University Park, US41 Sarasota, Venice
@@ -75,16 +75,16 @@
 * **NPI**: 1184715187
 
 ### Karin Girgis, OD
+
 * **Patient Types**: Young Child (3-7 Years), Teen (8-17 years), Adult (18 & Over)
 * **Specialties**: Primary Eye Care, Soft CL, RGP CL
 * **Patient Care Team**: LEA
 * **Office Locations**: The Villages
 * **NPI**: 1780472134
 
-
 ### Daniel Hadland, OD
 
-* **Patient Types**: Teen (8-17 Years), Adult (18 & Over)
+* **Patient Types**: Teen (10-17 Years), Adult (18 & Over)
 * **Specialties**: Primary Eye Care, Soft CL, RGP CL
 * **Patient Care Team**: CFS North
 * **Office Locations**: Pelican Plaza
@@ -146,13 +146,7 @@
 * **Office Locations**: Venice, US41 Sarasota
 * **NPI**: 1326037391
 
-### Lori Long, OD
 
-* **Patient Types**: Adult (18 & Over)
-* **Specialties**: Primary Eye Care, Soft CL, RGP CL
-* **Patient Care Team**: CFS Mid
-* **Office Locations**: Englewood
-* **NPI**: 1477685931
 
 ### Michael Maloney, OD
 
@@ -247,7 +241,7 @@
 * **Patient Types**: Young Child (3-7 Years), Teen (8-17 Years), Adult (18 & Over)
 * **Specialties**: Primary Eye Care, Soft CL, RGP CL
 * **Patient Care Team**: CFS North
-* **Office Locations**: Siesta Drive, US41 Sarasota
+* **Office Locations**:  US41 Sarasota
 * **NPI**: 1679682777
 
 ### David Shoemaker, MD
