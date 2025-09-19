@@ -1,8 +1,8 @@
 # Insurance Guide By Provider
 
-_Last Updated: 09/18/2025 (based on data from Excel file:_ [_US Eye Insurance Guide.xlsx_](https://useyecorp.sharepoint.com/:x:/r/RCM/Shared%20Documents/Insurance%20Guides/US%20Eye%20Insurance%20Guide.xlsx?d=w2a2138d41fa04bfa919fc4966998346a\&csf=1\&web=1\&e=73a3Gf\&nav=MTVfezIwMjg5MTIyLTdDRkEtNEE0OS1CODBGLTdFNTc3Njc3OTJDNX0)_)_
+*Last Updated: 09/19/2025 (based on data from Excel file: [US Eye Insurance Guide.xlsx](https://useyecorp.sharepoint.com/:x:/r/RCM/Shared%20Documents/Insurance%20Guides/US%20Eye%20Insurance%20Guide.xlsx?d=w2a2138d41fa04bfa919fc4966998346a&csf=1&web=1&e=73a3Gf&nav=MTVfezIwMjg5MTIyLTdDRkEtNEE0OS1CODBGLTdFNTc3Njc3OTJDNX0))*
 
-_This guide lists insurance participation by doctor. Click a doctor's name to view all insurance info for that doctor, grouped by location/CSV._
+*This guide lists insurance participation by doctor. Click a doctor's name to view all insurance info for that doctor, grouped by location/CSV.*
 
 * [Albert Smolyar, MD (SW FL Eye)](insurance_docs/Albert_Smolyar_MD.md)
 * [Alexander Eaton, MD (Retina Health Center)](insurance_docs/Alexander_Eaton_MD.md)
@@ -38,6 +38,7 @@ _This guide lists insurance participation by doctor. Click a doctor's name to vi
 * [Kyle Schaub, OD (Center for Sight)](insurance_docs/Kyle_Schaub_OD.md)
 * [Len Brown, OD (Center for Sight)](insurance_docs/Len_Brown_OD.md)
 * [Logan Page, OD (Center for Sight)](insurance_docs/Logan_Page_OD.md)
+* [Lori Long, OD (Center for Sight)](insurance_docs/Lori_Long_OD.md)
 * [Lori Vollmer, OD (Center for Sight)](insurance_docs/Lori_Vollmer_OD.md)
 * [Mari Holderby, OD (Lake Eye )](insurance_docs/Mari_Holderby_OD.md)
 * [Mary Mcvey, OD (Center for Sight)](insurance_docs/Mary_Mcvey_OD.md)
@@ -60,10 +61,14 @@ _This guide lists insurance participation by doctor. Click a doctor's name to vi
 * [Veronica Kon Graversen, MD (Retina Health Center)](insurance_docs/Veronica_Kon_Graversen_MD.md)
 * [Vinay Gutti, MD (Lake Eye )](insurance_docs/Vinay_Gutti_MD.md)
 
+
 ## Status Legend
 
-**PAR**: Participating (PAR) providers contract with the patient's health plan. There is a direct contract between the provider/practice and an insurance company that allows our claims to be processed and paid, based on our contracted amounts negotiated per CPT code. Patients save a considerable amount of money when they are seen by a participating provider than a non-participating provider.
+<div class="status-legend">
+<p><strong>PAR</strong>: Participating (PAR) providers contract with the patient's health plan. There is a direct contract between the provider/practice and an insurance company that allows our claims to be processed and paid, based on our contracted amounts negotiated per CPT code. Patients save a considerable amount of money when they are seen by a participating provider than a non-participating provider.</p>
 
-**Non-PAR-OON Benefits**: If a patient has a plan NON-PAR or OON, they may have OON benefits. OON benefits may be available with PPO plans. OON with benefits means that the insurance company will pay us based on usual and customary (U\&C), but not based on a contract since the provider/practice does not have a direct contract with the payer. If the patient has OON benefits, the insurance typically applies a higher benefit (i.e., copay is $40 to see a participating provider, but may increase to $75 due to OON, etc.)
+<p><strong>Non-PAR-OON Benefits</strong>: If a patient has a plan NON-PAR or OON, they may have OON benefits. OON benefits may be available with PPO plans. OON with benefits means that the insurance company will pay us based on usual and customary (U&C), but not based on a contract since the provider/practice does not have a direct contract with the payer. If the patient has OON benefits, the insurance typically applies a higher benefit (i.e., copay is $40 to see a participating provider, but may increase to $75 due to OON, etc.)</p>
 
-**Non-PAR**: Non-participating (NON-PAR) means the provider/practice does not have a contract with the patient's health plan. This is also called a non-preferred provider or OUT-OF-NETWORK (OON). If the patient chooses to be seen by a non-participating provider, the patient will pay more as a self-pay patient. OON plans may or may not have OON benefits. HMO plans do not have OON benefits, therefore, the patient must be seen as self-pay.
+<p><strong>Non-PAR</strong>: Non-participating (NON-PAR) means the provider/practice does not have a contract with the patient's health plan. This is also called a non-preferred provider or OUT-OF-NETWORK (OON). If the patient chooses to be seen by a non-participating provider, the patient will pay more as a self-pay patient. OON plans may or may not have OON benefits. HMO plans do not have OON benefits, therefore, the patient must be seen as self-pay.</p>
+</div>
+

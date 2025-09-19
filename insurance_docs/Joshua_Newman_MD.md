@@ -205,6 +205,7 @@
 | United Healthcare NexusACO OA POS/ OA EPO | UHC PPO/POS-87726 | No Ref/No Auth Required | PAR |
 | United Healthcare NexusACO OA POS/ OA EPO | UHC PPO/POS-87727 | No Ref/No Auth Required | PAR |
 | United Healthcare NexusACO OA POS/ OA EPO | UHC PPO/POS-87728 | No Ref/No Auth Required | PAR |
+| United Healthcare NexusACO R EPO/HMO/POS | UHC NexusACO R-87726 | Referral Required | PAR |
 | United Healthcare NHP-Neighborhood Health Plan Direct Access | UHC NHP HMO Access-87226 | No Ref/No Auth Required | PAR |
 | United Healthcare NHP-Neighborhood Health Plan Direct Access | UHC Commercial HMO | No Ref/No Auth Required | PAR |
 | United Healthcare Nursing Home Plan EX-F006 HMO-POS I-SNP | UHC Nursing Home Plan FL PPO-87726 | No Ref/No Auth Required | PAR |
