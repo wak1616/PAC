@@ -728,7 +728,8 @@ Refractive procedures help improve the patient's vision to minimize dependence o
 * Make certain every appointment is scheduled in **time order.**
 * If you are offering an appointment that is more than **10 days out**, please book the appointment but also offer to place the patient on the waitlist.
 * Refractive Consults are **$128** and are **not covered by insurance or vision plans.**
-* Inform the patient that payment in full is **due at check-in.**
+* Insurance must be collected from the patient at the time of scheduling in case the appointment turns medical. Inform the patient that payment in full is **due at check-in.**
+* Inform the patient that payment in full is due at check-in.
 
 #### Process
 

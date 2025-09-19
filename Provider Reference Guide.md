@@ -146,8 +146,6 @@
 * **Office Locations**: Venice, US41 Sarasota
 * **NPI**: 1326037391
 
-
-
 ### Michael Maloney, OD
 
 * **Patient Types**: Young Child (3-7 Years), Teen (8-17 Years), Adult (18 & Over)
@@ -214,7 +212,7 @@
 
 ### Logan Page, OD
 
-* **Patient Types**: Teen (8-17 Years), Adult (18 & Over)
+* **Patient Types**: Teen (13-17 Years), Adult (18 & Over)
 * **Specialties**: Primary Eye Care, Soft CL, RGP CL
 * **Patient Care Team**: CFS North
 * **Office Locations**: Siesta Drive
@@ -241,7 +239,7 @@
 * **Patient Types**: Young Child (3-7 Years), Teen (8-17 Years), Adult (18 & Over)
 * **Specialties**: Primary Eye Care, Soft CL, RGP CL
 * **Patient Care Team**: CFS North
-* **Office Locations**:  US41 Sarasota
+* **Office Locations**: US41 Sarasota
 * **NPI**: 1679682777
 
 ### David Shoemaker, MD
