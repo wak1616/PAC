@@ -9,7 +9,7 @@
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
 | George Brinnig-Jastrzebski, MD | BCBS FL myBlue HMO REFERRAL REQ | Referral Required | PAR |
-| Jenna Getman, OD - Start Date 9/29/2025 | BCBS FL myBlue HMO REFERRAL REQ | Referral Required | Non-PAR |
+| Jenna Getman, OD - Start Date 9/29/2025 | BCBS FL myBlue HMO REFERRAL REQ | Referral Required | PAR |
 | Jon Berlie, MD | BCBS FL myBlue HMO REFERRAL REQ | Referral Required | PAR |
 | Julie Carter, MD | BCBS FL myBlue HMO REFERRAL REQ | Referral Required | PAR |
 

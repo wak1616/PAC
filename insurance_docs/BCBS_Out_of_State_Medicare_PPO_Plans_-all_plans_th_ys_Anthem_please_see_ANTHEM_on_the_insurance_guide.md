@@ -50,7 +50,7 @@
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
 | George Brinnig-Jastrzebski, MD | BCBS Out of State Medicare PPO | No Ref/No Auth Required | PAR |
-| Jenna Getman, OD - Start Date 9/29/2025 | BCBS Out of State Medicare PPO | No Ref/No Auth Required | Non-PAR |
+| Jenna Getman, OD - Start Date 9/29/2025 | BCBS Out of State Medicare PPO | No Ref/No Auth Required | PAR |
 | Jon Berlie, MD | BCBS Out of State Medicare PPO | No Ref/No Auth Required | PAR |
 | Julie Carter, MD | BCBS Out of State Medicare PPO | No Ref/No Auth Required | PAR |
 

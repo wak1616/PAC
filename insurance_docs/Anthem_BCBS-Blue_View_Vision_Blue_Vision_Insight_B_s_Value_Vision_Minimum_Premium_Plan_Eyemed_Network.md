@@ -50,7 +50,7 @@
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
 | George Brinnig-Jastrzebski, MD | Anthem BCBS Vision | No Ref/No Auth Required | Non-PAR |
-| Jenna Getman, OD - Start Date 9/29/2025 | Anthem BCBS Vision | No Ref/No Auth Required | Non-PAR |
+| Jenna Getman, OD - Start Date 9/29/2025 | Anthem BCBS Vision | No Ref/No Auth Required | PAR |
 | Jon Berlie, MD | Anthem BCBS Vision | No Ref/No Auth Required | Non-PAR |
 | Julie Carter, MD | Anthem BCBS Vision | No Ref/No Auth Required | PAR |
 
