@@ -21,7 +21,7 @@
 | James Lenhart, OD | Railroad Medicare | No Ref/No Auth Required | PAR |
 | Joaquin De Rojas, MD | Railroad Medicare | No Ref/No Auth Required | PAR |
 | John Fezza, MD (Oculoplastics) | Railroad Medicare | No Ref/No Auth Required | PAR |
-| Jordan Shoemaker, PA - Start Date 10/06/2025 | Railroad Medicare | No Ref/No Auth Required | Non-PAR |
+| Jordan Shoemaker, PA - Start Date 10/06/2025 | Railroad Medicare | No Ref/No Auth Required | PAR |
 | Joseph Sowka, OD | Railroad Medicare | No Ref/No Auth Required | PAR |
 | Joshua Kim, MD | Railroad Medicare | No Ref/No Auth Required | PAR |
 | Joshua Newman, MD | Railroad Medicare | No Ref/No Auth Required | PAR |
