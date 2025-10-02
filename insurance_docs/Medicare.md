@@ -50,7 +50,7 @@
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
 | George Brinnig-Jastrzebski, MD | Medicare Part B | No Ref/No Auth Required | PAR |
-| Jenna Getman, OD - Start Date 9/29/2025 | Medicare Part B | No Ref/No Auth Required | PAR |
+| Jenna Getman, OD | Medicare Part B | No Ref/No Auth Required | PAR |
 | Jon Berlie, MD | Medicare Part B | No Ref/No Auth Required | PAR |
 | Julie Carter, MD | Medicare Part B | No Ref/No Auth Required | PAR |
 

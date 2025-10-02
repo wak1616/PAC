@@ -50,7 +50,7 @@
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
 | George Brinnig-Jastrzebski, MD | Web TPA | No Ref/No Auth Required | PAR |
-| Jenna Getman, OD - Start Date 9/29/2025 | Web TPA | No Ref/No Auth Required | PAR |
+| Jenna Getman, OD | Web TPA | No Ref/No Auth Required | PAR |
 | Jon Berlie, MD | Web TPA | No Ref/No Auth Required | PAR |
 | Julie Carter, MD | Web TPA | No Ref/No Auth Required | PAR |
 

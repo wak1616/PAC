@@ -50,7 +50,7 @@
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
 | George Brinnig-Jastrzebski, MD | MBA TPA Commercial - Cigna | No Ref/No Auth Required | PAR |
-| Jenna Getman, OD - Start Date 9/29/2025 | MBA TPA Commercial - Cigna | No Ref/No Auth Required | Non-PAR |
+| Jenna Getman, OD | MBA TPA Commercial - Cigna | No Ref/No Auth Required | PAR |
 | Jon Berlie, MD | MBA TPA Commercial - Cigna | No Ref/No Auth Required | PAR |
 | Julie Carter, MD | MBA TPA Commercial - Cigna | No Ref/No Auth Required | PAR |
 

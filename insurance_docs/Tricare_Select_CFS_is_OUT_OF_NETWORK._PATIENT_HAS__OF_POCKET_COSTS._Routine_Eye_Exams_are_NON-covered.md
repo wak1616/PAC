@@ -50,7 +50,7 @@
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
 | George Brinnig-Jastrzebski, MD | Tricare Select | No Ref/No Auth Required | Non-PAR -OON Benefits |
-| Jenna Getman, OD - Start Date 9/29/2025 | Tricare Select | No Ref/No Auth Required | Non-PAR -OON Benefits |
+| Jenna Getman, OD | Tricare Select | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Jon Berlie, MD | Tricare Select | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Julie Carter, MD | Tricare Select | No Ref/No Auth Required | Non-PAR -OON Benefits |
 

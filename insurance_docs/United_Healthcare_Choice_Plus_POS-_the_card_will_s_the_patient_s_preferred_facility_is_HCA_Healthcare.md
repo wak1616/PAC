@@ -50,7 +50,7 @@
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
 | George Brinnig-Jastrzebski, MD | UHC HCA Healthcare-87726 | No Ref/No Auth Required | PAR |
-| Jenna Getman, OD - Start Date 9/29/2025 | UHC HCA Healthcare-87726 | No Ref/No Auth Required | PAR |
+| Jenna Getman, OD | UHC HCA Healthcare-87726 | No Ref/No Auth Required | PAR |
 | Jon Berlie, MD | UHC HCA Healthcare-87726 | No Ref/No Auth Required | PAR |
 | Julie Carter, MD | UHC HCA Healthcare-87726 | No Ref/No Auth Required | PAR |
 

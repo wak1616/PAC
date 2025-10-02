@@ -9,7 +9,7 @@
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
 | George Brinnig-Jastrzebski, MD | WellCare Medicare PPO | No Ref/No Auth Required | Non-PAR -OON Benefits |
-| Jenna Getman, OD - Start Date 9/29/2025 | WellCare Medicare PPO | No Ref/No Auth Required | Non-PAR -OON Benefits |
+| Jenna Getman, OD | WellCare Medicare PPO | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Jon Berlie, MD | WellCare Medicare PPO | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Julie Carter, MD | WellCare Medicare PPO | No Ref/No Auth Required | Non-PAR -OON Benefits |
 

@@ -50,7 +50,7 @@
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
 | George Brinnig-Jastrzebski, MD | Aetna Medicare HMO REFERRAL REQ | Referral Required | PAR |
-| Jenna Getman, OD - Start Date 9/29/2025 | Aetna Medicare HMO REFERRAL REQ | Referral Required | PAR |
+| Jenna Getman, OD | Aetna Medicare HMO REFERRAL REQ | Referral Required | PAR |
 | Jon Berlie, MD | Aetna Medicare HMO REFERRAL REQ | Referral Required | PAR |
 | Julie Carter, MD | Aetna Medicare HMO REFERRAL REQ | Referral Required | PAR |
 

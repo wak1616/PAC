@@ -9,7 +9,7 @@
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
 | George Brinnig-Jastrzebski, MD | BCBS FL Commercial PPO | No Ref/No Auth Required | PAR |
-| Jenna Getman, OD - Start Date 9/29/2025 | BCBS FL Commercial PPO | No Ref/No Auth Required | PAR |
+| Jenna Getman, OD | BCBS FL Commercial PPO | No Ref/No Auth Required | PAR |
 | Jon Berlie, MD | BCBS FL Commercial PPO | No Ref/No Auth Required | PAR |
 | Julie Carter, MD | BCBS FL Commercial PPO | No Ref/No Auth Required | PAR |
 

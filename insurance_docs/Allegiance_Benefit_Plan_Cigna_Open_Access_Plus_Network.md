@@ -50,7 +50,7 @@
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
 | George Brinnig-Jastrzebski, MD | Allegiance Benefit Plan Management-Cigna | No Ref/No Auth Required | PAR |
-| Jenna Getman, OD - Start Date 9/29/2025 | Allegiance Benefit Plan Management-Cigna | No Ref/No Auth Required | Non-PAR |
+| Jenna Getman, OD | Allegiance Benefit Plan Management-Cigna | No Ref/No Auth Required | Non-PAR |
 | Jon Berlie, MD | Allegiance Benefit Plan Management-Cigna | No Ref/No Auth Required | PAR |
 | Julie Carter, MD | Allegiance Benefit Plan Management-Cigna | No Ref/No Auth Required | PAR |
 

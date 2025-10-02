@@ -50,7 +50,7 @@
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
 | George Brinnig-Jastrzebski, MD | EBMS Commercial PPO - Aetna | No Ref/No Auth Required | PAR |
-| Jenna Getman, OD - Start Date 9/29/2025 | EBMS Commercial PPO - Aetna | No Ref/No Auth Required | PAR |
+| Jenna Getman, OD | EBMS Commercial PPO - Aetna | No Ref/No Auth Required | PAR |
 | Jon Berlie, MD | EBMS Commercial PPO - Aetna | No Ref/No Auth Required | PAR |
 | Julie Carter, MD | EBMS Commercial PPO - Aetna | No Ref/No Auth Required | PAR |
 

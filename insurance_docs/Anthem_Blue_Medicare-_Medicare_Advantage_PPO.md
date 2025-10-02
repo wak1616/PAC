@@ -50,7 +50,7 @@
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
 | George Brinnig-Jastrzebski, MD | Anthem BCBS Medicare PPO | No Ref/No Auth Required | PAR |
-| Jenna Getman, OD - Start Date 9/29/2025 | Anthem BCBS Medicare PPO | No Ref/No Auth Required | PAR |
+| Jenna Getman, OD | Anthem BCBS Medicare PPO | No Ref/No Auth Required | PAR |
 | Jon Berlie, MD | Anthem BCBS Medicare PPO | No Ref/No Auth Required | PAR |
 | Julie Carter, MD | Anthem BCBS Medicare PPO | No Ref/No Auth Required | PAR |
 

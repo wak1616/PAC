@@ -50,7 +50,7 @@
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
 | George Brinnig-Jastrzebski, MD | UCare Medicare HMO | No Ref/No Auth Required | Non-PAR -OON Benefits |
-| Jenna Getman, OD - Start Date 9/29/2025 | UCare Medicare HMO | No Ref/No Auth Required | Non-PAR -OON Benefits |
+| Jenna Getman, OD | UCare Medicare HMO | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Jon Berlie, MD | UCare Medicare HMO | No Ref/No Auth Required | Non-PAR -OON Benefits |
 | Julie Carter, MD | UCare Medicare HMO | No Ref/No Auth Required | Non-PAR -OON Benefits |
 

@@ -50,7 +50,7 @@
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
 | George Brinnig-Jastrzebski, MD | UHC NexusACO R-87726 | Referral Required | PAR |
-| Jenna Getman, OD - Start Date 9/29/2025 | UHC NexusACO R-87726 | Referral Required | PAR |
+| Jenna Getman, OD | UHC NexusACO R-87726 | Referral Required | PAR |
 | Jon Berlie, MD | UHC NexusACO R-87726 | Referral Required | PAR |
 | Julie Carter, MD | UHC NexusACO R-87726 | Referral Required | PAR |
 

@@ -9,7 +9,7 @@
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
 | George Brinnig-Jastrzebski, MD | Optum VA Community Care | Authorization Required | PAR |
-| Jenna Getman, OD - Start Date 9/29/2025 | Optum VA Community Care | Authorization Required | PAR |
+| Jenna Getman, OD | Optum VA Community Care | Authorization Required | PAR |
 | Jon Berlie, MD | Optum VA Community Care | Authorization Required | PAR |
 | Julie Carter, MD | Optum VA Community Care | Authorization Required | PAR |
 

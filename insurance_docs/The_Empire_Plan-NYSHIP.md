@@ -9,7 +9,7 @@
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
 | George Brinnig-Jastrzebski, MD | UHC Empire Plan-NYSHIP-87726 | No Ref/No Auth Required | PAR |
-| Jenna Getman, OD - Start Date 9/29/2025 | UHC Empire Plan-NYSHIP-87726 | No Ref/No Auth Required | PAR |
+| Jenna Getman, OD | UHC Empire Plan-NYSHIP-87726 | No Ref/No Auth Required | PAR |
 | Jon Berlie, MD | UHC Empire Plan-NYSHIP-87726 | No Ref/No Auth Required | PAR |
 | Julie Carter, MD | UHC Empire Plan-NYSHIP-87726 | No Ref/No Auth Required | PAR |
 

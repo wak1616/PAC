@@ -50,7 +50,7 @@
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
 | George Brinnig-Jastrzebski, MD | Meritain Health SMH Extd  Pln | Authorization MAY be Required | PAR |
-| Jenna Getman, OD - Start Date 9/29/2025 | Meritain Health SMH Extd  Pln | Authorization MAY be Required | PAR |
+| Jenna Getman, OD | Meritain Health SMH Extd  Pln | Authorization MAY be Required | PAR |
 | Jon Berlie, MD | Meritain Health SMH Extd  Pln | Authorization MAY be Required | PAR |
 | Julie Carter, MD | Meritain Health SMH Extd  Pln | Authorization MAY be Required | PAR |
 

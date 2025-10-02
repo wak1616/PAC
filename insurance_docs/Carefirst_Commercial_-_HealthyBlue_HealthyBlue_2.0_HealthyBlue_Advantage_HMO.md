@@ -9,7 +9,7 @@
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
 | George Brinnig-Jastrzebski, MD | Carefirst BCBS Medicare HMO | No Ref/No Auth Required | PAR |
-| Jenna Getman, OD - Start Date 9/29/2025 | Carefirst BCBS Medicare HMO | No Ref/No Auth Required | PAR |
+| Jenna Getman, OD | Carefirst BCBS Medicare HMO | No Ref/No Auth Required | PAR |
 | Jon Berlie, MD | Carefirst BCBS Medicare HMO | No Ref/No Auth Required | PAR |
 | Julie Carter, MD | Carefirst BCBS Medicare HMO | No Ref/No Auth Required | PAR |
 

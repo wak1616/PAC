@@ -50,7 +50,7 @@
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
 | George Brinnig-Jastrzebski, MD | Priority Health Medicare PPO - Multiplan | No Ref/No Auth Required | PAR |
-| Jenna Getman, OD - Start Date 9/29/2025 | Priority Health Medicare PPO - Multiplan | No Ref/No Auth Required | PAR |
+| Jenna Getman, OD | Priority Health Medicare PPO - Multiplan | No Ref/No Auth Required | PAR |
 | Jon Berlie, MD | Priority Health Medicare PPO - Multiplan | No Ref/No Auth Required | PAR |
 | Julie Carter, MD | Priority Health Medicare PPO - Multiplan | No Ref/No Auth Required | PAR |
 

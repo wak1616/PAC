@@ -124,9 +124,9 @@
 | George Brinnig-Jastrzebski, MD | UHC PPO/POS-87726 | No Ref/No Auth Required | PAR |
 | George Brinnig-Jastrzebski, MD | UHC PPO/POS-87727 | No Ref/No Auth Required | PAR |
 | George Brinnig-Jastrzebski, MD | UHC PPO/POS-87728 | No Ref/No Auth Required | PAR |
-| Jenna Getman, OD - Start Date 9/29/2025 | UHC PPO/POS-87726 | No Ref/No Auth Required | PAR |
-| Jenna Getman, OD - Start Date 9/29/2025 | UHC PPO/POS-87727 | No Ref/No Auth Required | PAR |
-| Jenna Getman, OD - Start Date 9/29/2025 | UHC PPO/POS-87728 | No Ref/No Auth Required | PAR |
+| Jenna Getman, OD | UHC PPO/POS-87726 | No Ref/No Auth Required | PAR |
+| Jenna Getman, OD | UHC PPO/POS-87727 | No Ref/No Auth Required | PAR |
+| Jenna Getman, OD | UHC PPO/POS-87728 | No Ref/No Auth Required | PAR |
 | Jon Berlie, MD | UHC PPO/POS-87726 | No Ref/No Auth Required | PAR |
 | Jon Berlie, MD | UHC PPO/POS-87727 | No Ref/No Auth Required | PAR |
 | Jon Berlie, MD | UHC PPO/POS-87728 | No Ref/No Auth Required | PAR |

@@ -50,7 +50,7 @@
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
 | George Brinnig-Jastrzebski, MD | Mail Handlers Benefit Plan Comm - Aetna | No Ref/No Auth Required | PAR |
-| Jenna Getman, OD - Start Date 9/29/2025 | Mail Handlers Benefit Plan Comm - Aetna | No Ref/No Auth Required | PAR |
+| Jenna Getman, OD | Mail Handlers Benefit Plan Comm - Aetna | No Ref/No Auth Required | PAR |
 | Jon Berlie, MD | Mail Handlers Benefit Plan Comm - Aetna | No Ref/No Auth Required | PAR |
 | Julie Carter, MD | Mail Handlers Benefit Plan Comm - Aetna | No Ref/No Auth Required | PAR |
 

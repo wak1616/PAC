@@ -50,7 +50,7 @@
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
 | George Brinnig-Jastrzebski, MD | Allied National Open Access | No Ref/No Auth Required | PAR |
-| Jenna Getman, OD - Start Date 9/29/2025 | Allied National Open Access | No Ref/No Auth Required | Non-PAR |
+| Jenna Getman, OD | Allied National Open Access | No Ref/No Auth Required | Non-PAR |
 | Jon Berlie, MD | Allied National Open Access | No Ref/No Auth Required | PAR |
 | Julie Carter, MD | Allied National Open Access | No Ref/No Auth Required | PAR |
 

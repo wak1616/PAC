@@ -50,7 +50,7 @@
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
 | George Brinnig-Jastrzebski, MD | Cigna International | Authorization Required | PAR |
-| Jenna Getman, OD - Start Date 9/29/2025 | Cigna International | Authorization Required | Non-PAR |
+| Jenna Getman, OD | Cigna International | Authorization Required | PAR |
 | Jon Berlie, MD | Cigna International | Authorization Required | PAR |
 | Julie Carter, MD | Cigna International | Authorization Required | PAR |
 
