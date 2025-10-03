@@ -124,12 +124,12 @@ The following guide outlines when to schedule appointment based on their symptom
 | **Sudden painless loss of vision**                                             | Moderate redness/pain for 1 week                   | Floaters (unchanged, previously diagnosed)                          |
 | **Sudden onset of floaters/flashes/veil/spider webs**                          | Sub-acute loss of vision over a few days to 1 week | Eyes become tired and blur after reading; trouble seeing road signs |
 | **Sudden distortion/change on Amsler Grid**                                    | Sudden onset of double vision                      | Difficulty with near/fine print                                     |
-| **Foreign body (something in eye)**                                            | Ocular discharge (clear, milky, watery)            | Lid twitching                                                       |
+| **Foreign body (something in eye)**                                            | Ocular discharge (clear, milky, watery)            | Styes, chalazions, or eyelid bumps (_if diagnosed by external doctor in CFS area, schedule directly with Kalie Kosek, PA-C_)                                                    |
 | **Chemicals in eye** (flush at urgent care/hospital until pH = 7, then clinic) | Severe photophobia (with/without pain)             | Mucous discharge                                                    |
 | **Acute, rapid onset eye pain/discomfort**                                     |                                                    | Tearing (no other symptoms)                                         |
 | **Acute red eye w/ or w/out discharge**                                        |                                                    | Mild redness w/o other symptoms                                     |
 | **Trauma to eye, head, face**                                                  |                                                    | Loss of only pair of glasses/contacts needed for daily use          |
-| **Referral stating emergent situation**                                        |                                                    |                                                                     |
+| **Referral stating emergent situation**                                        |                                                    | Eyelid twitching                                                    |
 
 ***
 
@@ -1060,12 +1060,15 @@ Follow the [Standard Closing Procedures](./#standard-closing-procedures-scriptin
 
 Oculoplastics consultations focus on facial and eyelid conditions and treatments.
 
+** In Center For Sight, please schedule new patients with a diagnosis of styes, chalazions, or eyelid bumps or lesions directly with Kalie Kosek ** (In these cases, do NOT schedule with an optometrist.)
+
 #### Common Medical Conditions
 
 * Ptosis (drooping eyelids)
 * Entropion
 * Ectropion
-* Eyelid lesions
+* Eyelid lesions, bumps, or growths
+* Styes or Chalazions
 * Trichiasis
 * Facial trauma
 
