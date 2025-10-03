@@ -1060,7 +1060,7 @@ Follow the [Standard Closing Procedures](./#standard-closing-procedures-scriptin
 
 Oculoplastics consultations focus on facial and eyelid conditions and treatments.
 
-** In Center For Sight, please schedule new patients with a diagnosis of styes, chalazions, or eyelid bumps or lesions directly with Kalie Kosek ** (In these cases, do NOT schedule with an optometrist.)
+**In CFS area, please schedule new patients with a diagnosis of styes, chalazions, or eyelid bumps or lesions directly with Kalie Kosek, PA-C** (In these cases, do NOT schedule with an optometrist.)
 
 #### Common Medical Conditions
 
