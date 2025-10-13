@@ -2,13 +2,13 @@
 
 ## CFS
 
-### Tanuj Banker, MD
+### Tanuj Banker, OD
 
-* **Patient Types**: Adult (18 & Over)
-* **Specialties**: Retina
-* **Patient Care Team**: CFS North & Mid
-* **Office Locations**: Englewood, North Port, University Park, US41 Sarasota, Venice
-* **NPI**: 1447542410
+* Patient Types: Adult (18 & Over)
+* Specialties: Retina
+* Patient Care Team: CFS North & Mid
+* Office Locations: University Park, US41 Sarasota, Venice
+* NPI: 1447542410
 
 ### Shannon Bednarz, PA-C
 
@@ -305,6 +305,32 @@
 * **Office Locations**: Pelican Plaza
 * **NPI**: 1851336481
 
+### Gisselle Vega Carraso, OD
+
+* Patient Types: Adult (18 & Over)
+* Specialties: Primary Eye Care
+* Patient Care Team: CFS Mid
+* Office Locations: Venice, Englewood, Jacaranda
+* NPI: Currently unknown
+
+### Khrystyna Ostrozhynska, OD
+
+* Patient Types: Adult (18 & Over)
+* Specialties: Primary Eye Care
+* Patient Care Team: CFS Mid
+* Office Locations: Englewood
+* NPI: 1720515174
+
+### Jenna Getman, OD
+
+* Patient Types: Adult (18 & Over)
+* Specialties: Primary Eye Care
+* Patient Care Team: CFS South
+* Office Locations: Naples
+* NPI: 1578311791
+
+
+
 ## LEA
 
 ### Christine Bui, OD
@@ -370,6 +396,14 @@
 * **Patient Care Team**: LEA
 * **Office Locations**: Leesburg, Tavares, The Villages, Wildwood
 * **NPI**: 1174563696
+
+### Karin Girgis, OD
+
+* Patient Types: Young Child (3–7 Years), Teen (8–17 Years), Adult (18 & Over)
+* Specialties: Primary Eye Care, Soft CL, RPG CL
+* Patient Care Team: CFS North
+* Office Locations: Pelican Plaza
+* NPI: 1326531542
 
 ## RHC
 
