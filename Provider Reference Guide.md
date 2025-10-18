@@ -401,8 +401,8 @@
 
 * Patient Types: Young Child (3–7 Years), Teen (8–17 Years), Adult (18 & Over)
 * Specialties: Primary Eye Care, Soft CL, RPG CL
-* Patient Care Team: CFS North
-* Office Locations: Pelican Plaza
+* Patient Care Team: LEA
+* Office Locations: The Villages
 * NPI: 1326531542
 
 ## RHC
