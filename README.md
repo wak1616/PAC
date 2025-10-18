@@ -1,8 +1,12 @@
 # Patient Access Center Master Guide
 
-**Last Update:** October 08, 2025
+**Last Update:** October 18, 2025
 
 Note: For detailed navigation, please use the GitBook sidebar menu on the **right** 👉
+
+{% hint style="success" %}
+Have a question - Ask AI -[ Launch AI Chat here](https://raiabot.raia2.com/eb86e30d-e601-44c5-81c9-dc46cfa34b90/chat).
+{% endhint %}
 
 ## Introduction
 
