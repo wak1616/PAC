@@ -124,12 +124,12 @@ The following guide outlines when to schedule appointment based on their symptom
 
 | Emergency (Same Day)                                                           | Urgent (24–48 hrs)                                 | Non-Urgent (Next Avail)                                                                                                      |
 | ------------------------------------------------------------------------------ | -------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
-| **Retinal Tear/Detachment (within 30 days)**                                   | Progressively worsening eye pain for 1 week        | Mild ocular irritation/redness                                                                                               |
-| **Sudden painless loss of vision**                                             | Moderate redness/pain for 1 week                   | Floaters (unchanged, previously diagnosed)                                                                                   |
-| **Sudden onset of floaters/flashes/veil/spider webs**                          | Sub-acute loss of vision over a few days to 1 week | Eyes become tired and blur after reading; trouble seeing road signs                                                          |
-| **Sudden distortion/change on Amsler Grid**                                    | Sudden onset of double vision                      | Difficulty with near/fine print                                                                                              |
-| **Foreign body (something in eye)**                                            | Ocular discharge (clear, milky, watery)            | Styes, chalazions, or eyelid bumps (_if diagnosed by external doctor in CFS area, schedule directly with Kalie Kosek, PA-C_) |
-| **Chemicals in eye** (flush at urgent care/hospital until pH = 7, then clinic) | Severe photophobia (with/without pain)             | Mucous discharge                                                                                                             |
+| **Retinal Tear/Detachment (within 30 days)**                                   | Progressively worsening eye pain for 1 week         | Mild ocular irritation/redness                                                                                               |
+| **Sudden painless loss of vision**                                             | Moderate redness/pain for 1 week                    | Floaters (unchanged, previously diagnosed)                                                                                   |
+| **Sudden onset of floaters/flashes/veil/spider webs**                          | Sub-acute loss of vision over a few days to 1 week  | Eyes become tired and blur after reading; trouble seeing road signs                                                          |
+| **Sudden distortion/change on Amsler Grid**                                    | Sub-acute onset of double vision (over a few days)| Difficulty with near/fine print                                                                            |
+| **Foreign body or chemicals in eye (something in eye)**  (if chemical to eye, instruct to go to urgent care/ hospital and flush out until pH =7, then clinic)                                         | Ocular discharge (clear, milky, watery)            | Styes, chalazions, or eyelid bumps, lumps or growing lesions (_Schedule directly with Kalie Kosek, PA-C_) |
+| **Sudden onset of double vision**  | Severe photophobia (with/without pain)             | Mucous                                                                                                                                |
 | **Acute, rapid onset eye pain/discomfort**                                     |                                                    | Tearing (no other symptoms)                                                                                                  |
 | **Acute red eye w/ or w/out discharge**                                        |                                                    | Mild redness w/o other symptoms                                                                                              |
 | **Trauma to eye, head, face**                                                  |                                                    | Loss of only pair of glasses/contacts needed for daily use                                                                   |
@@ -1066,7 +1066,7 @@ Follow the [Standard Closing Procedures](./#standard-closing-procedures-scriptin
 
 Oculoplastics consultations focus on facial and eyelid conditions and treatments.
 
-**In CFS area, please schedule new patients with a diagnosis of styes, chalazions, or eyelid bumps or lesions directly with Kalie Kosek, PA-C** (In these cases, do NOT schedule with an optometrist.)
+**In CFS area, please schedule new patients with a diagnosis of styes, chalazions, or eyelid bumps, growths, or lesions directly with Kalie Kosek, PA-C** (In these cases, do NOT schedule with an optometrist.) This is especially important if they say the lump or bump or stye is swelling or getting worse
 
 #### Common Medical Conditions
 
