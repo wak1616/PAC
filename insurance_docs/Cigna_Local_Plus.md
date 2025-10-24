@@ -8,8 +8,10 @@
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
-| Alexander Eaton, MD | Cigna Commercial PPO | No Ref/No Auth Required | PAR |
-| Veronica Kon Graversen, MD | Cigna Commercial PPO | No Ref/No Auth Required | PAR |
+| Alexander Eaton, MD |  | Cigna Commercial PPO | PAR |
+| Hussein Wafapoor, MD |  | Cigna Commercial PPO | Non-PAR |
+| Referral and/or Auth Required? |  | Cigna Commercial PPO | No Ref/No Auth Required |
+| Veronica Kon Graversen, MD |  | Cigna Commercial PPO | PAR |
 
 </details>
 

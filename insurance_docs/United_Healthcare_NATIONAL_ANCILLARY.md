@@ -8,40 +8,41 @@
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
-| George Brinnig-Jastrzebski, MD | Self Pay Non-Par with Ins |  | Non-PAR |
-| Jenna Getman, OD | Self Pay Non-Par with Ins |  | Non-PAR |
-| Jon Berlie, MD | Self Pay Non-Par with Ins |  | Non-PAR |
-| Julie Carter, MD | Self Pay Non-Par with Ins |  | Non-PAR |
+| George Brinnig-Jastrzebski, MD |  | Self Pay Non-Par with Ins | Non-PAR |
+| Jenna Getman, OD |  | Self Pay Non-Par with Ins | Non-PAR |
+| Jon Berlie, MD |  | Self Pay Non-Par with Ins | Non-PAR |
+| Julie Carter, MD |  | Self Pay Non-Par with Ins | Non-PAR |
 
 ## Lake Eye 
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
-| Alexandria Rawls, OD | Self Pay Non-Par with Ins |  | Non-PAR |
-| Christine Bui, OD | Self Pay Non-Par with Ins |  | Non-PAR |
-| Diba Ossareh, OD | Self Pay Non-Par with Ins |  | Non-PAR |
-| Jose Vazques-Diaz, MD | Self Pay Non-Par with Ins |  | Non-PAR |
-| Karin Girgis, OD | Self Pay Non-Par with Ins |  | Non-PAR |
-| Mari Holderby, OD | Self Pay Non-Par with Ins |  | Non-PAR |
-| Scot Holman, MD | Self Pay Non-Par with Ins |  | Non-PAR |
-| Scott Wehrly, MD | Self Pay Non-Par with Ins |  | Non-PAR |
-| Vinay Gutti, MD | Self Pay Non-Par with Ins |  | Non-PAR |
+| Alexandria Rawls, OD |  | Self Pay Non-Par with Ins | Non-PAR |
+| Christine Bui, OD |  | Self Pay Non-Par with Ins | Non-PAR |
+| Diba Ossareh, OD |  | Self Pay Non-Par with Ins | Non-PAR |
+| Jose Vazques-Diaz, MD |  | Self Pay Non-Par with Ins | Non-PAR |
+| Karin Girgis, OD |  | Self Pay Non-Par with Ins | Non-PAR |
+| Mari Holderby, OD |  | Self Pay Non-Par with Ins | Non-PAR |
+| Scot Holman, MD |  | Self Pay Non-Par with Ins | Non-PAR |
+| Scott Wehrly, MD |  | Self Pay Non-Par with Ins | Non-PAR |
+| Vinay Gutti, MD |  | Self Pay Non-Par with Ins | Non-PAR |
 
 ## Retina Health Center
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
-| Alexander Eaton, MD | Self Pay Non-Par with Ins |  | Non-PAR |
-| Veronica Kon Graversen, MD | Self Pay Non-Par with Ins |  | Non-PAR |
+| Alexander Eaton, MD |  | Self Pay Non-Par with Ins | Non-PAR |
+| Hussein Wafapoor, MD |  | Self Pay Non-Par with Ins | Non-PAR |
+| Veronica Kon Graversen, MD |  | Self Pay Non-Par with Ins | Non-PAR |
 
 ## SW FL Eye
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
-| Albert Smolyar, MD | Self Pay Non-Par with Ins |  | Non-PAR |
-| Brian Marhue, OD | Self Pay Non-Par with Ins |  | Non-PAR |
-| Penny Orr, OD | Self Pay Non-Par with Ins |  | Non-PAR |
-| Sarah Johnson, OD | Self Pay Non-Par with Ins |  | Non-PAR |
+| Albert Smolyar, MD |  | Self Pay Non-Par with Ins | Non-PAR |
+| Brian Marhue, OD |  | Self Pay Non-Par with Ins | Non-PAR |
+| Penny Orr, OD |  | Self Pay Non-Par with Ins | Non-PAR |
+| Sarah Johnson, OD |  | Self Pay Non-Par with Ins | Non-PAR |
 
 </details>
 

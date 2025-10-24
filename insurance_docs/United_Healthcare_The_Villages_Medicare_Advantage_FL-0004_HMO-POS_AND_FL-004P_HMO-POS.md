@@ -8,15 +8,16 @@
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
-| Alexandria Rawls, OD | UHC Medicare Advantage HMO-87726 | No Ref/No Auth Required | PAR |
-| Christine Bui, OD | UHC Medicare Advantage HMO-87726 | No Ref/No Auth Required | PAR |
-| Diba Ossareh, OD | UHC Medicare Advantage HMO-87726 | No Ref/No Auth Required | PAR |
-| Jose Vazques-Diaz, MD | UHC Medicare Advantage HMO-87726 | No Ref/No Auth Required | PAR |
-| Karin Girgis, OD | UHC Medicare Advantage HMO-87726 | No Ref/No Auth Required | PAR |
-| Mari Holderby, OD | UHC Medicare Advantage HMO-87726 | No Ref/No Auth Required | PAR |
-| Scot Holman, MD | UHC Medicare Advantage HMO-87726 | No Ref/No Auth Required | PAR |
-| Scott Wehrly, MD | UHC Medicare Advantage HMO-87726 | No Ref/No Auth Required | PAR |
-| Vinay Gutti, MD | UHC Medicare Advantage HMO-87726 | No Ref/No Auth Required | PAR |
+| Alexandria Rawls, OD |  | UHC Medicare Advantage HMO-87726 | PAR |
+| Christine Bui, OD |  | UHC Medicare Advantage HMO-87726 | PAR |
+| Diba Ossareh, OD |  | UHC Medicare Advantage HMO-87726 | PAR |
+| Jose Vazques-Diaz, MD |  | UHC Medicare Advantage HMO-87726 | PAR |
+| Karin Girgis, OD |  | UHC Medicare Advantage HMO-87726 | PAR |
+| Mari Holderby, OD |  | UHC Medicare Advantage HMO-87726 | PAR |
+| Referral and/or Auth Required? |  | UHC Medicare Advantage HMO-87726 | No Ref/No Auth Required |
+| Scot Holman, MD |  | UHC Medicare Advantage HMO-87726 | PAR |
+| Scott Wehrly, MD |  | UHC Medicare Advantage HMO-87726 | PAR |
+| Vinay Gutti, MD |  | UHC Medicare Advantage HMO-87726 | PAR |
 
 </details>
 

@@ -8,15 +8,16 @@
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
-| Alexandria Rawls, OD | Cigna Commercial PPO | No Ref/No Auth Required | PAR |
-| Christine Bui, OD | Cigna Commercial PPO | No Ref/No Auth Required | PAR |
-| Diba Ossareh, OD | Cigna Commercial PPO | No Ref/No Auth Required | PAR |
-| Jose Vazques-Diaz, MD | Cigna Commercial PPO | No Ref/No Auth Required | PAR |
-| Karin Girgis, OD | Cigna Commercial PPO | No Ref/No Auth Required | PAR |
-| Mari Holderby, OD | Cigna Commercial PPO | No Ref/No Auth Required | PAR |
-| Scot Holman, MD | Cigna Commercial PPO | No Ref/No Auth Required | PAR |
-| Scott Wehrly, MD | Cigna Commercial PPO | No Ref/No Auth Required | PAR |
-| Vinay Gutti, MD | Cigna Commercial PPO | No Ref/No Auth Required | PAR |
+| Alexandria Rawls, OD |  | Cigna Commercial PPO | PAR |
+| Christine Bui, OD |  | Cigna Commercial PPO | PAR |
+| Diba Ossareh, OD |  | Cigna Commercial PPO | PAR |
+| Jose Vazques-Diaz, MD |  | Cigna Commercial PPO | PAR |
+| Karin Girgis, OD |  | Cigna Commercial PPO | PAR |
+| Mari Holderby, OD |  | Cigna Commercial PPO | PAR |
+| Referral and/or Auth Required? |  | Cigna Commercial PPO | No Ref/No Auth Required |
+| Scot Holman, MD |  | Cigna Commercial PPO | PAR |
+| Scott Wehrly, MD |  | Cigna Commercial PPO | PAR |
+| Vinay Gutti, MD |  | Cigna Commercial PPO | PAR |
 
 </details>
 

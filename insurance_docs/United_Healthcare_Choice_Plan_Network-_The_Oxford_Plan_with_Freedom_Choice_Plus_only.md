@@ -8,10 +8,10 @@
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
-| Albert Smolyar, MD | UHC Oxford PPO-06111 | No Ref/No Auth Required | PAR |
-| Brian Marhue, OD | UHC Oxford PPO-06111 | No Ref/No Auth Required | PAR |
-| Penny Orr, OD | UHC Oxford PPO-06111 | No Ref/No Auth Required | PAR |
-| Sarah Johnson, OD | UHC Oxford PPO-06111 | No Ref/No Auth Required | PAR |
+| Albert Smolyar, MD |  | UHC Oxford PPO-06111 | PAR |
+| Brian Marhue, OD |  | UHC Oxford PPO-06111 | PAR |
+| Penny Orr, OD |  | UHC Oxford PPO-06111 | PAR |
+| Sarah Johnson, OD |  | UHC Oxford PPO-06111 | PAR |
 
 </details>
 

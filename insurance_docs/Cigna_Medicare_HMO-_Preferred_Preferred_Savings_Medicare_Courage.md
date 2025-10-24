@@ -8,58 +8,60 @@
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
-| Bradley Middaugh, OD | Cigna Medicare HMO REFERRAL REQUIRED | Referral Required | PAR |
-| Brittany Coyle, OD | Cigna Medicare HMO REFERRAL REQUIRED | Referral Required | PAR |
-| Charles Putrino, OD | Cigna Medicare HMO REFERRAL REQUIRED | Referral Required | PAR |
-| Daniel Hadland, OD | Cigna Medicare HMO REFERRAL REQUIRED | Referral Required | PAR |
-| David Mertzlufft, OD | Cigna Medicare HMO REFERRAL REQUIRED | Referral Required | PAR |
-| David Shoemaker, MD | Cigna Medicare HMO REFERRAL REQUIRED | Referral Required | PAR |
-| Elizabeth Davis, MD | Cigna Medicare HMO REFERRAL REQUIRED | Referral Required | Non-PAR |
-| Erin Hardie, OD | Cigna Medicare HMO REFERRAL REQUIRED | Referral Required | PAR |
-| George Hurwitz, OD | Cigna Medicare HMO REFERRAL REQUIRED | Referral Required | PAR |
-| Gisselle Vega Carraso | Cigna Medicare HMO REFERRAL REQUIRED | Referral Required | Non-PAR |
-| James Lenhart, OD | Cigna Medicare HMO REFERRAL REQUIRED | Referral Required | PAR |
-| Joaquin De Rojas, MD | Cigna Medicare HMO REFERRAL REQUIRED | Referral Required | PAR |
-| John Fezza, MD (Oculoplastics) | Cigna Medicare HMO REFERRAL REQUIRED | Referral Required | PAR |
-| Jordan Shoemaker, PA - Start Date 10/06/2025 | Cigna Medicare HMO REFERRAL REQUIRED | Referral Required | Non-PAR |
-| Joseph Sowka, OD | Cigna Medicare HMO REFERRAL REQUIRED | Referral Required | PAR |
-| Joshua Kim, MD | Cigna Medicare HMO REFERRAL REQUIRED | Referral Required | PAR |
-| Joshua Newman, MD | Cigna Medicare HMO REFERRAL REQUIRED | Referral Required | PAR |
-| Kalie Kosek, PA | Cigna Medicare HMO REFERRAL REQUIRED | Referral Required | Non-PAR |
-| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | Cigna Medicare HMO REFERRAL REQUIRED | Referral Required | Non-PAR |
-| Kyle Schaub, OD | Cigna Medicare HMO REFERRAL REQUIRED | Referral Required | PAR |
-| Len Brown, OD | Cigna Medicare HMO REFERRAL REQUIRED | Referral Required | PAR |
-| Logan Page, OD | Cigna Medicare HMO REFERRAL REQUIRED | Referral Required | PAR |
-| Lori Long, OD | Cigna Medicare HMO REFERRAL REQUIRED | Referral Required | PAR |
-| Lori Vollmer, OD | Cigna Medicare HMO REFERRAL REQUIRED | Referral Required | PAR |
-| Mary Mcvey, OD | Cigna Medicare HMO REFERRAL REQUIRED | Referral Required | PAR |
-| Maureen Traina, PA | Cigna Medicare HMO REFERRAL REQUIRED | Referral Required | Non-PAR |
-| Melissa Hammond, OD | Cigna Medicare HMO REFERRAL REQUIRED | Referral Required | PAR |
-| Michael Maloney, OD | Cigna Medicare HMO REFERRAL REQUIRED | Referral Required | PAR |
-| Patrick Nelson, OD | Cigna Medicare HMO REFERRAL REQUIRED | Referral Required | PAR |
-| Priya Mathews, MD | Cigna Medicare HMO REFERRAL REQUIRED | Referral Required | PAR |
-| Rachael Randolph, OD | Cigna Medicare HMO REFERRAL REQUIRED | Referral Required | PAR |
-| Scott Stevens, OD | Cigna Medicare HMO REFERRAL REQUIRED | Referral Required | PAR |
-| Shannon Bednarz, PA | Cigna Medicare HMO REFERRAL REQUIRED | Referral Required | Non-PAR |
-| Tanuj Banker, MD (RETINA) | Cigna Medicare HMO REFERRAL REQUIRED | Referral Required | PAR |
-| Todd Lang, OD | Cigna Medicare HMO REFERRAL REQUIRED | Referral Required | PAR |
-| Trisha Werner, OD | Cigna Medicare HMO REFERRAL REQUIRED | Referral Required | PAR |
+| Bradley Middaugh, OD |  | Cigna Medicare HMO REFERRAL REQUIRED | PAR |
+| Brittany Coyle, OD |  | Cigna Medicare HMO REFERRAL REQUIRED | PAR |
+| Charles Putrino, OD |  | Cigna Medicare HMO REFERRAL REQUIRED | PAR |
+| Daniel Hadland, OD |  | Cigna Medicare HMO REFERRAL REQUIRED | PAR |
+| David Mertzlufft, OD |  | Cigna Medicare HMO REFERRAL REQUIRED | PAR |
+| David Shoemaker, MD |  | Cigna Medicare HMO REFERRAL REQUIRED | PAR |
+| Elizabeth Davis, MD |  | Cigna Medicare HMO REFERRAL REQUIRED | Non-PAR |
+| Erin Hardie, OD |  | Cigna Medicare HMO REFERRAL REQUIRED | PAR |
+| George Hurwitz, OD |  | Cigna Medicare HMO REFERRAL REQUIRED | PAR |
+| Gisselle Vega Carraso |  | Cigna Medicare HMO REFERRAL REQUIRED | Non-PAR |
+| James Lenhart, OD |  | Cigna Medicare HMO REFERRAL REQUIRED | PAR |
+| Joaquin De Rojas, MD |  | Cigna Medicare HMO REFERRAL REQUIRED | PAR |
+| John Fezza, MD (Oculoplastics) |  | Cigna Medicare HMO REFERRAL REQUIRED | PAR |
+| Jordan Shoemaker, PA - Start Date 10/06/2025 |  | Cigna Medicare HMO REFERRAL REQUIRED | Non-PAR |
+| Joseph Sowka, OD |  | Cigna Medicare HMO REFERRAL REQUIRED | PAR |
+| Joshua Kim, MD |  | Cigna Medicare HMO REFERRAL REQUIRED | PAR |
+| Joshua Newman, MD |  | Cigna Medicare HMO REFERRAL REQUIRED | PAR |
+| Kalie Kosek, PA |  | Cigna Medicare HMO REFERRAL REQUIRED | Non-PAR |
+| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 |  | Cigna Medicare HMO REFERRAL REQUIRED | Non-PAR |
+| Kyle Schaub, OD |  | Cigna Medicare HMO REFERRAL REQUIRED | PAR |
+| Len Brown, OD |  | Cigna Medicare HMO REFERRAL REQUIRED | PAR |
+| Logan Page, OD |  | Cigna Medicare HMO REFERRAL REQUIRED | PAR |
+| Lori Long, OD |  | Cigna Medicare HMO REFERRAL REQUIRED | PAR |
+| Lori Vollmer, OD |  | Cigna Medicare HMO REFERRAL REQUIRED | PAR |
+| Mary Mcvey, OD |  | Cigna Medicare HMO REFERRAL REQUIRED | PAR |
+| Maureen Traina, PA |  | Cigna Medicare HMO REFERRAL REQUIRED | Non-PAR |
+| Melissa Hammond, OD |  | Cigna Medicare HMO REFERRAL REQUIRED | PAR |
+| Michael Maloney, OD |  | Cigna Medicare HMO REFERRAL REQUIRED | PAR |
+| Patrick Nelson, OD |  | Cigna Medicare HMO REFERRAL REQUIRED | PAR |
+| Priya Mathews, MD |  | Cigna Medicare HMO REFERRAL REQUIRED | PAR |
+| Rachael Randolph, OD |  | Cigna Medicare HMO REFERRAL REQUIRED | PAR |
+| Scott Stevens, OD |  | Cigna Medicare HMO REFERRAL REQUIRED | PAR |
+| Shannon Bednarz, PA |  | Cigna Medicare HMO REFERRAL REQUIRED | Non-PAR |
+| Tanuj Banker, MD (RETINA) |  | Cigna Medicare HMO REFERRAL REQUIRED | PAR |
+| Todd Lang, OD |  | Cigna Medicare HMO REFERRAL REQUIRED | PAR |
+| Trisha Werner, OD |  | Cigna Medicare HMO REFERRAL REQUIRED | PAR |
 
 ## Center for Sight-Naples
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
-| George Brinnig-Jastrzebski, MD | Cigna Medicare HMO REFERRAL REQUIRED | Referral Required | Non-PAR |
-| Jenna Getman, OD | Cigna Medicare HMO REFERRAL REQUIRED | Referral Required | Non-PAR |
-| Jon Berlie, MD | Cigna Medicare HMO REFERRAL REQUIRED | Referral Required | Non-PAR |
-| Julie Carter, MD | Cigna Medicare HMO REFERRAL REQUIRED | Referral Required | PAR |
+| George Brinnig-Jastrzebski, MD |  | Cigna Medicare HMO REFERRAL REQUIRED | Non-PAR |
+| Jenna Getman, OD |  | Cigna Medicare HMO REFERRAL REQUIRED | Non-PAR |
+| Jon Berlie, MD |  | Cigna Medicare HMO REFERRAL REQUIRED | Non-PAR |
+| Julie Carter, MD |  | Cigna Medicare HMO REFERRAL REQUIRED | PAR |
 
 ## Retina Health Center
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
-| Alexander Eaton, MD | Cigna Medicare HMO REFERRAL REQUIRED | Referral Required | PAR |
-| Veronica Kon Graversen, MD | Cigna Medicare HMO REFERRAL REQUIRED | Referral Required | PAR |
+| Alexander Eaton, MD |  | Cigna Medicare HMO REFERRAL REQUIRED | PAR |
+| Hussein Wafapoor, MD |  | Cigna Medicare HMO REFERRAL REQUIRED | Non-PAR |
+| Referral and/or Auth Required? |  | Cigna Medicare HMO REFERRAL REQUIRED | Referral Required |
+| Veronica Kon Graversen, MD |  | Cigna Medicare HMO REFERRAL REQUIRED | PAR |
 
 </details>
 

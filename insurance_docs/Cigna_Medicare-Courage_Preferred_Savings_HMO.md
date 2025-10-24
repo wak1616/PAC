@@ -8,10 +8,10 @@
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
-| Albert Smolyar, MD | Cigna Medicare HMO REFERRAL REQUIRED | Referral Required | PAR |
-| Brian Marhue, OD | Cigna Medicare HMO REFERRAL REQUIRED | Referral Required | Non-PAR |
-| Penny Orr, OD | Cigna Medicare HMO REFERRAL REQUIRED | Referral Required | PAR |
-| Sarah Johnson, OD | Cigna Medicare HMO REFERRAL REQUIRED | Referral Required | PAR |
+| Albert Smolyar, MD |  | Cigna Medicare HMO REFERRAL REQUIRED | PAR |
+| Brian Marhue, OD |  | Cigna Medicare HMO REFERRAL REQUIRED | Non-PAR |
+| Penny Orr, OD |  | Cigna Medicare HMO REFERRAL REQUIRED | PAR |
+| Sarah Johnson, OD |  | Cigna Medicare HMO REFERRAL REQUIRED | PAR |
 
 </details>
 

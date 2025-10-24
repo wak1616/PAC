@@ -8,22 +8,25 @@
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
-| Alexandria Rawls, OD | UHC AARP Medicare Advantage HMO-87726 | No Ref/No Auth Required | PAR |
-| Christine Bui, OD | UHC AARP Medicare Advantage HMO-87726 | No Ref/No Auth Required | PAR |
-| Diba Ossareh, OD | UHC AARP Medicare Advantage HMO-87726 | No Ref/No Auth Required | PAR |
-| Jose Vazques-Diaz, MD | UHC AARP Medicare Advantage HMO-87726 | No Ref/No Auth Required | PAR |
-| Karin Girgis, OD | UHC AARP Medicare Advantage HMO-87726 | No Ref/No Auth Required | PAR |
-| Mari Holderby, OD | UHC AARP Medicare Advantage HMO-87726 | No Ref/No Auth Required | PAR |
-| Scot Holman, MD | UHC AARP Medicare Advantage HMO-87726 | No Ref/No Auth Required | PAR |
-| Scott Wehrly, MD | UHC AARP Medicare Advantage HMO-87726 | No Ref/No Auth Required | PAR |
-| Vinay Gutti, MD | UHC AARP Medicare Advantage HMO-87726 | No Ref/No Auth Required | PAR |
+| Alexandria Rawls, OD |  | UHC AARP Medicare Advantage HMO-87726 | PAR |
+| Christine Bui, OD |  | UHC AARP Medicare Advantage HMO-87726 | PAR |
+| Diba Ossareh, OD |  | UHC AARP Medicare Advantage HMO-87726 | PAR |
+| Jose Vazques-Diaz, MD |  | UHC AARP Medicare Advantage HMO-87726 | PAR |
+| Karin Girgis, OD |  | UHC AARP Medicare Advantage HMO-87726 | PAR |
+| Mari Holderby, OD |  | UHC AARP Medicare Advantage HMO-87726 | PAR |
+| Referral and/or Auth Required? |  | UHC AARP Medicare Advantage HMO-87726 | No Ref/No Auth Required |
+| Scot Holman, MD |  | UHC AARP Medicare Advantage HMO-87726 | PAR |
+| Scott Wehrly, MD |  | UHC AARP Medicare Advantage HMO-87726 | PAR |
+| Vinay Gutti, MD |  | UHC AARP Medicare Advantage HMO-87726 | PAR |
 
 ## Retina Health Center
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
-| Alexander Eaton, MD | UHC AARP Medicare Advantage HMO-87726 | No Ref/No Auth Required | PAR |
-| Veronica Kon Graversen, MD | UHC AARP Medicare Advantage HMO-87726 | No Ref/No Auth Required | PAR |
+| Alexander Eaton, MD |  | UHC AARP Medicare Advantage HMO-87726 | PAR |
+| Hussein Wafapoor, MD |  | UHC AARP Medicare Advantage HMO-87726 | Non-PAR |
+| Referral and/or Auth Required? |  | UHC AARP Medicare Advantage HMO-87726 | No Ref/No Auth Required |
+| Veronica Kon Graversen, MD |  | UHC AARP Medicare Advantage HMO-87726 | PAR |
 
 </details>
 

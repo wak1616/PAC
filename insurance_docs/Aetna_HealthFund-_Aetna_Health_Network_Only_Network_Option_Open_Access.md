@@ -8,24 +8,25 @@
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
-| George Brinnig-Jastrzebski, MD | Aetna Commercial PPO | No Ref/No Auth Required | PAR |
-| Jenna Getman, OD | Aetna Commercial PPO | No Ref/No Auth Required | PAR |
-| Jon Berlie, MD | Aetna Commercial PPO | No Ref/No Auth Required | PAR |
-| Julie Carter, MD | Aetna Commercial PPO | No Ref/No Auth Required | PAR |
+| George Brinnig-Jastrzebski, MD |  | Aetna Commercial PPO | PAR |
+| Jenna Getman, OD |  | Aetna Commercial PPO | PAR |
+| Jon Berlie, MD |  | Aetna Commercial PPO | PAR |
+| Julie Carter, MD |  | Aetna Commercial PPO | PAR |
 
 ## Lake Eye 
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
-| Alexandria Rawls, OD | Aetna Commercial PPO | No Ref/No Auth Required | PAR |
-| Christine Bui, OD | Aetna Commercial PPO | No Ref/No Auth Required | PAR |
-| Diba Ossareh, OD | Aetna Commercial PPO | No Ref/No Auth Required | PAR |
-| Jose Vazques-Diaz, MD | Aetna Commercial PPO | No Ref/No Auth Required | PAR |
-| Karin Girgis, OD | Aetna Commercial PPO | No Ref/No Auth Required | PAR |
-| Mari Holderby, OD | Aetna Commercial PPO | No Ref/No Auth Required | PAR |
-| Scot Holman, MD | Aetna Commercial PPO | No Ref/No Auth Required | PAR |
-| Scott Wehrly, MD | Aetna Commercial PPO | No Ref/No Auth Required | PAR |
-| Vinay Gutti, MD | Aetna Commercial PPO | No Ref/No Auth Required | PAR |
+| Alexandria Rawls, OD |  | Aetna Commercial PPO | PAR |
+| Christine Bui, OD |  | Aetna Commercial PPO | PAR |
+| Diba Ossareh, OD |  | Aetna Commercial PPO | PAR |
+| Jose Vazques-Diaz, MD |  | Aetna Commercial PPO | PAR |
+| Karin Girgis, OD |  | Aetna Commercial PPO | PAR |
+| Mari Holderby, OD |  | Aetna Commercial PPO | PAR |
+| Referral and/or Auth Required? |  | Aetna Commercial PPO | No Ref/No Auth Required |
+| Scot Holman, MD |  | Aetna Commercial PPO | PAR |
+| Scott Wehrly, MD |  | Aetna Commercial PPO | PAR |
+| Vinay Gutti, MD |  | Aetna Commercial PPO | PAR |
 
 </details>
 

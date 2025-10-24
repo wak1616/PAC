@@ -8,60 +8,60 @@
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
-| Bradley Middaugh, OD | PENDING | No Ref/No Auth Required | PAR |
-| Brittany Coyle, OD | PENDING | No Ref/No Auth Required | PAR |
-| Charles Putrino, OD | PENDING | No Ref/No Auth Required | Non-PAR |
-| Daniel Hadland, OD | PENDING | No Ref/No Auth Required | Non-PAR |
-| David Mertzlufft, OD | PENDING | No Ref/No Auth Required | Non-PAR |
-| David Shoemaker, MD | PENDING | No Ref/No Auth Required | Non-PAR |
-| Elizabeth Davis, MD | PENDING | No Ref/No Auth Required | Non-PAR |
-| Erin Hardie, OD | PENDING | No Ref/No Auth Required | Non-PAR |
-| George Hurwitz, OD | PENDING | No Ref/No Auth Required | Non-PAR |
-| Gisselle Vega Carraso | PENDING | No Ref/No Auth Required | Non-PAR |
-| James Lenhart, OD | PENDING | No Ref/No Auth Required | Non-PAR |
-| Joaquin De Rojas, MD | PENDING | No Ref/No Auth Required | Non-PAR |
-| John Fezza, MD (Oculoplastics) | PENDING | No Ref/No Auth Required | Non-PAR |
-| Jordan Shoemaker, PA - Start Date 10/06/2025 | PENDING | No Ref/No Auth Required | Non-PAR |
-| Joseph Sowka, OD | PENDING | No Ref/No Auth Required | Non-PAR |
-| Joshua Kim, MD | PENDING | No Ref/No Auth Required | Non-PAR |
-| Joshua Newman, MD | PENDING | No Ref/No Auth Required | Non-PAR |
-| Kalie Kosek, PA | PENDING | No Ref/No Auth Required | Non-PAR |
-| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | PENDING | No Ref/No Auth Required | Non-PAR |
-| Kyle Schaub, OD | PENDING | No Ref/No Auth Required | Non-PAR |
-| Len Brown, OD | PENDING | No Ref/No Auth Required | PAR |
-| Logan Page, OD | PENDING | No Ref/No Auth Required | Non-PAR |
-| Lori Long, OD | PENDING | No Ref/No Auth Required | Non-PAR |
-| Lori Vollmer, OD | PENDING | No Ref/No Auth Required | Non-PAR |
-| Mary Mcvey, OD | PENDING | No Ref/No Auth Required | Non-PAR |
-| Maureen Traina, PA | PENDING | No Ref/No Auth Required | Non-PAR |
-| Melissa Hammond, OD | PENDING | No Ref/No Auth Required | Non-PAR |
-| Michael Maloney, OD | PENDING | No Ref/No Auth Required | Non-PAR |
-| Patrick Nelson, OD | PENDING | No Ref/No Auth Required | Non-PAR |
-| Priya Mathews, MD | PENDING | No Ref/No Auth Required | Non-PAR |
-| Rachael Randolph, OD | PENDING | No Ref/No Auth Required | Non-PAR |
-| Scott Stevens, OD | PENDING | No Ref/No Auth Required | Non-PAR |
-| Shannon Bednarz, PA | PENDING | No Ref/No Auth Required | Non-PAR |
-| Tanuj Banker, MD (RETINA) | PENDING | No Ref/No Auth Required | Non-PAR |
-| Todd Lang, OD | PENDING | No Ref/No Auth Required | Non-PAR |
-| Trisha Werner, OD | PENDING | No Ref/No Auth Required | Non-PAR |
+| Bradley Middaugh, OD |  | PENDING | PAR |
+| Brittany Coyle, OD |  | PENDING | PAR |
+| Charles Putrino, OD |  | PENDING | Non-PAR |
+| Daniel Hadland, OD |  | PENDING | Non-PAR |
+| David Mertzlufft, OD |  | PENDING | Non-PAR |
+| David Shoemaker, MD |  | PENDING | Non-PAR |
+| Elizabeth Davis, MD |  | PENDING | Non-PAR |
+| Erin Hardie, OD |  | PENDING | Non-PAR |
+| George Hurwitz, OD |  | PENDING | Non-PAR |
+| Gisselle Vega Carraso |  | PENDING | Non-PAR |
+| James Lenhart, OD |  | PENDING | Non-PAR |
+| Joaquin De Rojas, MD |  | PENDING | Non-PAR |
+| John Fezza, MD (Oculoplastics) |  | PENDING | Non-PAR |
+| Jordan Shoemaker, PA - Start Date 10/06/2025 |  | PENDING | Non-PAR |
+| Joseph Sowka, OD |  | PENDING | Non-PAR |
+| Joshua Kim, MD |  | PENDING | Non-PAR |
+| Joshua Newman, MD |  | PENDING | Non-PAR |
+| Kalie Kosek, PA |  | PENDING | Non-PAR |
+| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 |  | PENDING | Non-PAR |
+| Kyle Schaub, OD |  | PENDING | Non-PAR |
+| Len Brown, OD |  | PENDING | PAR |
+| Logan Page, OD |  | PENDING | Non-PAR |
+| Lori Long, OD |  | PENDING | Non-PAR |
+| Lori Vollmer, OD |  | PENDING | Non-PAR |
+| Mary Mcvey, OD |  | PENDING | Non-PAR |
+| Maureen Traina, PA |  | PENDING | Non-PAR |
+| Melissa Hammond, OD |  | PENDING | Non-PAR |
+| Michael Maloney, OD |  | PENDING | Non-PAR |
+| Patrick Nelson, OD |  | PENDING | Non-PAR |
+| Priya Mathews, MD |  | PENDING | Non-PAR |
+| Rachael Randolph, OD |  | PENDING | Non-PAR |
+| Scott Stevens, OD |  | PENDING | Non-PAR |
+| Shannon Bednarz, PA |  | PENDING | Non-PAR |
+| Tanuj Banker, MD (RETINA) |  | PENDING | Non-PAR |
+| Todd Lang, OD |  | PENDING | Non-PAR |
+| Trisha Werner, OD |  | PENDING | Non-PAR |
 
 ## Center for Sight-Naples
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
-| George Brinnig-Jastrzebski, MD | Self Pay Non-Par with Ins |  | Non-PAR |
-| Jenna Getman, OD | Self Pay Non-Par with Ins |  | Non-PAR |
-| Jon Berlie, MD | Self Pay Non-Par with Ins |  | Non-PAR |
-| Julie Carter, MD | Self Pay Non-Par with Ins |  | Non-PAR |
+| George Brinnig-Jastrzebski, MD |  | Self Pay Non-Par with Ins | Non-PAR |
+| Jenna Getman, OD |  | Self Pay Non-Par with Ins | Non-PAR |
+| Jon Berlie, MD |  | Self Pay Non-Par with Ins | Non-PAR |
+| Julie Carter, MD |  | Self Pay Non-Par with Ins | Non-PAR |
 
 ## SW FL Eye
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
-| Albert Smolyar, MD | PENDING | No Ref/No Auth Required | PAR |
-| Brian Marhue, OD | PENDING | No Ref/No Auth Required | PAR |
-| Penny Orr, OD | PENDING | No Ref/No Auth Required | PAR |
-| Sarah Johnson, OD | PENDING | No Ref/No Auth Required | PAR |
+| Albert Smolyar, MD |  | PENDING | PAR |
+| Brian Marhue, OD |  | PENDING | PAR |
+| Penny Orr, OD |  | PENDING | PAR |
+| Sarah Johnson, OD |  | PENDING | PAR |
 
 </details>
 

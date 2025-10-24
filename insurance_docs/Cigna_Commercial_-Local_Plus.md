@@ -8,42 +8,42 @@
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
-| Bradley Middaugh, OD | Cigna Commercial PPO | No Ref/No Auth Required | Non-PAR |
-| Brittany Coyle, OD | Cigna Commercial PPO | No Ref/No Auth Required | Non-PAR |
-| Charles Putrino, OD | Cigna Commercial PPO | No Ref/No Auth Required | Non-PAR |
-| Daniel Hadland, OD | Cigna Commercial PPO | No Ref/No Auth Required | Non-PAR |
-| David Mertzlufft, OD | Cigna Commercial PPO | No Ref/No Auth Required | Non-PAR |
-| David Shoemaker, MD | Cigna Commercial PPO | No Ref/No Auth Required | Non-PAR |
-| Elizabeth Davis, MD | Cigna Commercial PPO | No Ref/No Auth Required | Non-PAR |
-| Erin Hardie, OD | Cigna Commercial PPO | No Ref/No Auth Required | Non-PAR |
-| George Hurwitz, OD | Cigna Commercial PPO | No Ref/No Auth Required | Non-PAR |
-| Gisselle Vega Carraso | Cigna Commercial PPO | No Ref/No Auth Required | Non-PAR |
-| James Lenhart, OD | Cigna Commercial PPO | No Ref/No Auth Required | Non-PAR |
-| Joaquin De Rojas, MD | Cigna Commercial PPO | No Ref/No Auth Required | Non-PAR |
-| John Fezza, MD (Oculoplastics) | Cigna Commercial PPO | No Ref/No Auth Required | Non-PAR |
-| Jordan Shoemaker, PA - Start Date 10/06/2025 | Cigna Commercial PPO | No Ref/No Auth Required | Non-PAR |
-| Joseph Sowka, OD | Cigna Commercial PPO | No Ref/No Auth Required | Non-PAR |
-| Joshua Kim, MD | Cigna Commercial PPO | No Ref/No Auth Required | Non-PAR |
-| Joshua Newman, MD | Cigna Commercial PPO | No Ref/No Auth Required | Non-PAR |
-| Kalie Kosek, PA | Cigna Commercial PPO | No Ref/No Auth Required | Non-PAR |
-| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | Cigna Commercial PPO | No Ref/No Auth Required | Non-PAR |
-| Kyle Schaub, OD | Cigna Commercial PPO | No Ref/No Auth Required | Non-PAR |
-| Len Brown, OD | Cigna Commercial PPO | No Ref/No Auth Required | Non-PAR |
-| Logan Page, OD | Cigna Commercial PPO | No Ref/No Auth Required | Non-PAR |
-| Lori Long, OD | Cigna Commercial PPO | No Ref/No Auth Required | Non-PAR |
-| Lori Vollmer, OD | Cigna Commercial PPO | No Ref/No Auth Required | Non-PAR |
-| Mary Mcvey, OD | Cigna Commercial PPO | No Ref/No Auth Required | Non-PAR |
-| Maureen Traina, PA | Cigna Commercial PPO | No Ref/No Auth Required | Non-PAR |
-| Melissa Hammond, OD | Cigna Commercial PPO | No Ref/No Auth Required | Non-PAR |
-| Michael Maloney, OD | Cigna Commercial PPO | No Ref/No Auth Required | Non-PAR |
-| Patrick Nelson, OD | Cigna Commercial PPO | No Ref/No Auth Required | Non-PAR |
-| Priya Mathews, MD | Cigna Commercial PPO | No Ref/No Auth Required | PAR |
-| Rachael Randolph, OD | Cigna Commercial PPO | No Ref/No Auth Required | Non-PAR |
-| Scott Stevens, OD | Cigna Commercial PPO | No Ref/No Auth Required | Non-PAR |
-| Shannon Bednarz, PA | Cigna Commercial PPO | No Ref/No Auth Required | Non-PAR |
-| Tanuj Banker, MD (RETINA) | Cigna Commercial PPO | No Ref/No Auth Required | Non-PAR |
-| Todd Lang, OD | Cigna Commercial PPO | No Ref/No Auth Required | Non-PAR |
-| Trisha Werner, OD | Cigna Commercial PPO | No Ref/No Auth Required | Non-PAR |
+| Bradley Middaugh, OD |  | Cigna Commercial PPO | Non-PAR |
+| Brittany Coyle, OD |  | Cigna Commercial PPO | Non-PAR |
+| Charles Putrino, OD |  | Cigna Commercial PPO | Non-PAR |
+| Daniel Hadland, OD |  | Cigna Commercial PPO | Non-PAR |
+| David Mertzlufft, OD |  | Cigna Commercial PPO | Non-PAR |
+| David Shoemaker, MD |  | Cigna Commercial PPO | Non-PAR |
+| Elizabeth Davis, MD |  | Cigna Commercial PPO | Non-PAR |
+| Erin Hardie, OD |  | Cigna Commercial PPO | Non-PAR |
+| George Hurwitz, OD |  | Cigna Commercial PPO | Non-PAR |
+| Gisselle Vega Carraso |  | Cigna Commercial PPO | Non-PAR |
+| James Lenhart, OD |  | Cigna Commercial PPO | Non-PAR |
+| Joaquin De Rojas, MD |  | Cigna Commercial PPO | Non-PAR |
+| John Fezza, MD (Oculoplastics) |  | Cigna Commercial PPO | Non-PAR |
+| Jordan Shoemaker, PA - Start Date 10/06/2025 |  | Cigna Commercial PPO | Non-PAR |
+| Joseph Sowka, OD |  | Cigna Commercial PPO | Non-PAR |
+| Joshua Kim, MD |  | Cigna Commercial PPO | Non-PAR |
+| Joshua Newman, MD |  | Cigna Commercial PPO | Non-PAR |
+| Kalie Kosek, PA |  | Cigna Commercial PPO | Non-PAR |
+| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 |  | Cigna Commercial PPO | Non-PAR |
+| Kyle Schaub, OD |  | Cigna Commercial PPO | Non-PAR |
+| Len Brown, OD |  | Cigna Commercial PPO | Non-PAR |
+| Logan Page, OD |  | Cigna Commercial PPO | Non-PAR |
+| Lori Long, OD |  | Cigna Commercial PPO | Non-PAR |
+| Lori Vollmer, OD |  | Cigna Commercial PPO | Non-PAR |
+| Mary Mcvey, OD |  | Cigna Commercial PPO | Non-PAR |
+| Maureen Traina, PA |  | Cigna Commercial PPO | Non-PAR |
+| Melissa Hammond, OD |  | Cigna Commercial PPO | Non-PAR |
+| Michael Maloney, OD |  | Cigna Commercial PPO | Non-PAR |
+| Patrick Nelson, OD |  | Cigna Commercial PPO | Non-PAR |
+| Priya Mathews, MD |  | Cigna Commercial PPO | PAR |
+| Rachael Randolph, OD |  | Cigna Commercial PPO | Non-PAR |
+| Scott Stevens, OD |  | Cigna Commercial PPO | Non-PAR |
+| Shannon Bednarz, PA |  | Cigna Commercial PPO | Non-PAR |
+| Tanuj Banker, MD (RETINA) |  | Cigna Commercial PPO | Non-PAR |
+| Todd Lang, OD |  | Cigna Commercial PPO | Non-PAR |
+| Trisha Werner, OD |  | Cigna Commercial PPO | Non-PAR |
 
 </details>
 

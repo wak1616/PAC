@@ -8,22 +8,23 @@
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
-| Alexandria Rawls, OD | Self Pay Non-Par with Ins |  | Non-PAR |
-| Christine Bui, OD | Self Pay Non-Par with Ins |  | Non-PAR |
-| Diba Ossareh, OD | Self Pay Non-Par with Ins |  | Non-PAR |
-| Jose Vazques-Diaz, MD | Self Pay Non-Par with Ins |  | Non-PAR |
-| Karin Girgis, OD | Self Pay Non-Par with Ins |  | Non-PAR |
-| Mari Holderby, OD | Self Pay Non-Par with Ins |  | Non-PAR |
-| Scot Holman, MD | Self Pay Non-Par with Ins |  | Non-PAR |
-| Scott Wehrly, MD | Self Pay Non-Par with Ins |  | Non-PAR |
-| Vinay Gutti, MD | Self Pay Non-Par with Ins |  | Non-PAR |
+| Alexandria Rawls, OD |  | Self Pay Non-Par with Ins | Non-PAR |
+| Christine Bui, OD |  | Self Pay Non-Par with Ins | Non-PAR |
+| Diba Ossareh, OD |  | Self Pay Non-Par with Ins | Non-PAR |
+| Jose Vazques-Diaz, MD |  | Self Pay Non-Par with Ins | Non-PAR |
+| Karin Girgis, OD |  | Self Pay Non-Par with Ins | Non-PAR |
+| Mari Holderby, OD |  | Self Pay Non-Par with Ins | Non-PAR |
+| Scot Holman, MD |  | Self Pay Non-Par with Ins | Non-PAR |
+| Scott Wehrly, MD |  | Self Pay Non-Par with Ins | Non-PAR |
+| Vinay Gutti, MD |  | Self Pay Non-Par with Ins | Non-PAR |
 
 ## Retina Health Center
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
-| Alexander Eaton, MD | Self Pay Non-Par with Ins |  | Non-PAR |
-| Veronica Kon Graversen, MD | Self Pay Non-Par with Ins |  | Non-PAR |
+| Alexander Eaton, MD |  | Self Pay Non-Par with Ins | Non-PAR |
+| Hussein Wafapoor, MD |  | Self Pay Non-Par with Ins | Non-PAR |
+| Veronica Kon Graversen, MD |  | Self Pay Non-Par with Ins | Non-PAR |
 
 </details>
 

@@ -8,17 +8,18 @@
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
-| Alexander Eaton, MD | Self Pay Non-Par with Ins |  | Non-PAR |
-| Veronica Kon Graversen, MD | Self Pay Non-Par with Ins |  | Non-PAR |
+| Alexander Eaton, MD |  | Self Pay Non-Par with Ins | Non-PAR |
+| Hussein Wafapoor, MD |  | Self Pay Non-Par with Ins | Non-PAR |
+| Veronica Kon Graversen, MD |  | Self Pay Non-Par with Ins | Non-PAR |
 
 ## SW FL Eye
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
-| Albert Smolyar, MD | Self Pay Non-Par with Ins |  | Non-PAR |
-| Brian Marhue, OD | Self Pay Non-Par with Ins |  | Non-PAR |
-| Penny Orr, OD | Self Pay Non-Par with Ins |  | Non-PAR |
-| Sarah Johnson, OD | Self Pay Non-Par with Ins |  | Non-PAR |
+| Albert Smolyar, MD |  | Self Pay Non-Par with Ins | Non-PAR |
+| Brian Marhue, OD |  | Self Pay Non-Par with Ins | Non-PAR |
+| Penny Orr, OD |  | Self Pay Non-Par with Ins | Non-PAR |
+| Sarah Johnson, OD |  | Self Pay Non-Par with Ins | Non-PAR |
 
 </details>
 

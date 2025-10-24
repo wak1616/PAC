@@ -8,15 +8,16 @@
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
-| Alexandria Rawls, OD | Tricare Prime HMO-REFERRAL REQ | Referral Required | Non-PAR -OON Benefits |
-| Christine Bui, OD | Tricare Prime HMO-REFERRAL REQ | Referral Required | Non-PAR -OON Benefits |
-| Diba Ossareh, OD | Tricare Prime HMO-REFERRAL REQ | Referral Required | Non-PAR -OON Benefits |
-| Jose Vazques-Diaz, MD | Tricare Prime HMO-REFERRAL REQ | Referral Required | Non-PAR -OON Benefits |
-| Karin Girgis, OD | Tricare Prime HMO-REFERRAL REQ | Referral Required | Non-PAR -OON Benefits |
-| Mari Holderby, OD | Tricare Prime HMO-REFERRAL REQ | Referral Required | Non-PAR -OON Benefits |
-| Scot Holman, MD | Tricare Prime HMO-REFERRAL REQ | Referral Required | Non-PAR -OON Benefits |
-| Scott Wehrly, MD | Tricare Prime HMO-REFERRAL REQ | Referral Required | Non-PAR -OON Benefits |
-| Vinay Gutti, MD | Tricare Prime HMO-REFERRAL REQ | Referral Required | Non-PAR -OON Benefits |
+| Alexandria Rawls, OD |  | Tricare Prime HMO-REFERRAL REQ | Non-PAR -OON Benefits |
+| Christine Bui, OD |  | Tricare Prime HMO-REFERRAL REQ | Non-PAR -OON Benefits |
+| Diba Ossareh, OD |  | Tricare Prime HMO-REFERRAL REQ | Non-PAR -OON Benefits |
+| Jose Vazques-Diaz, MD |  | Tricare Prime HMO-REFERRAL REQ | Non-PAR -OON Benefits |
+| Karin Girgis, OD |  | Tricare Prime HMO-REFERRAL REQ | Non-PAR -OON Benefits |
+| Mari Holderby, OD |  | Tricare Prime HMO-REFERRAL REQ | Non-PAR -OON Benefits |
+| Referral and/or Auth Required? |  | Tricare Prime HMO-REFERRAL REQ | Referral Required |
+| Scot Holman, MD |  | Tricare Prime HMO-REFERRAL REQ | Non-PAR -OON Benefits |
+| Scott Wehrly, MD |  | Tricare Prime HMO-REFERRAL REQ | Non-PAR -OON Benefits |
+| Vinay Gutti, MD |  | Tricare Prime HMO-REFERRAL REQ | Non-PAR -OON Benefits |
 
 </details>
 

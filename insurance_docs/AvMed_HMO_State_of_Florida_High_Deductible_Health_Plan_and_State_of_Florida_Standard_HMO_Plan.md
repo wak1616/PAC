@@ -8,58 +8,60 @@
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
-| Bradley Middaugh, OD | AvMed Commercial HMO | No Ref/No Auth Required | Non-PAR |
-| Brittany Coyle, OD | AvMed Commercial HMO | No Ref/No Auth Required | Non-PAR |
-| Charles Putrino, OD | AvMed Commercial HMO | No Ref/No Auth Required | Non-PAR |
-| Daniel Hadland, OD | AvMed Commercial HMO | No Ref/No Auth Required | Non-PAR |
-| David Mertzlufft, OD | AvMed Commercial HMO | No Ref/No Auth Required | PAR |
-| David Shoemaker, MD | AvMed Commercial HMO | No Ref/No Auth Required | PAR |
-| Elizabeth Davis, MD | AvMed Commercial HMO | No Ref/No Auth Required | Non-PAR |
-| Erin Hardie, OD | AvMed Commercial HMO | No Ref/No Auth Required | PAR |
-| George Hurwitz, OD | AvMed Commercial HMO | No Ref/No Auth Required | PAR |
-| Gisselle Vega Carraso | AvMed Commercial HMO | No Ref/No Auth Required | Non-PAR |
-| James Lenhart, OD | AvMed Commercial HMO | No Ref/No Auth Required | PAR |
-| Joaquin De Rojas, MD | AvMed Commercial HMO | No Ref/No Auth Required | PAR |
-| John Fezza, MD (Oculoplastics) | AvMed Commercial HMO | No Ref/No Auth Required | PAR |
-| Jordan Shoemaker, PA - Start Date 10/06/2025 | AvMed Commercial HMO | No Ref/No Auth Required | Non-PAR |
-| Joseph Sowka, OD | AvMed Commercial HMO | No Ref/No Auth Required | Non-PAR |
-| Joshua Kim, MD | AvMed Commercial HMO | No Ref/No Auth Required | PAR |
-| Joshua Newman, MD | AvMed Commercial HMO | No Ref/No Auth Required | PAR |
-| Kalie Kosek, PA | AvMed Commercial HMO | No Ref/No Auth Required | Non-PAR |
-| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | AvMed Commercial HMO | No Ref/No Auth Required | Non-PAR |
-| Kyle Schaub, OD | AvMed Commercial HMO | No Ref/No Auth Required | PAR |
-| Len Brown, OD | AvMed Commercial HMO | No Ref/No Auth Required | Non-PAR |
-| Logan Page, OD | AvMed Commercial HMO | No Ref/No Auth Required | PAR |
-| Lori Long, OD | AvMed Commercial HMO | No Ref/No Auth Required | PAR |
-| Lori Vollmer, OD | AvMed Commercial HMO | No Ref/No Auth Required | Non-PAR |
-| Mary Mcvey, OD | AvMed Commercial HMO | No Ref/No Auth Required | PAR |
-| Maureen Traina, PA | AvMed Commercial HMO | No Ref/No Auth Required | Non-PAR |
-| Melissa Hammond, OD | AvMed Commercial HMO | No Ref/No Auth Required | PAR |
-| Michael Maloney, OD | AvMed Commercial HMO | No Ref/No Auth Required | Non-PAR |
-| Patrick Nelson, OD | AvMed Commercial HMO | No Ref/No Auth Required | Non-PAR |
-| Priya Mathews, MD | AvMed Commercial HMO | No Ref/No Auth Required | Non-PAR |
-| Rachael Randolph, OD | AvMed Commercial HMO | No Ref/No Auth Required | PAR |
-| Scott Stevens, OD | AvMed Commercial HMO | No Ref/No Auth Required | PAR |
-| Shannon Bednarz, PA | AvMed Commercial HMO | No Ref/No Auth Required | Non-PAR |
-| Tanuj Banker, MD (RETINA) | AvMed Commercial HMO | No Ref/No Auth Required | PAR |
-| Todd Lang, OD | AvMed Commercial HMO | No Ref/No Auth Required | PAR |
-| Trisha Werner, OD | AvMed Commercial HMO | No Ref/No Auth Required | Non-PAR |
+| Bradley Middaugh, OD |  | AvMed Commercial HMO | Non-PAR |
+| Brittany Coyle, OD |  | AvMed Commercial HMO | Non-PAR |
+| Charles Putrino, OD |  | AvMed Commercial HMO | Non-PAR |
+| Daniel Hadland, OD |  | AvMed Commercial HMO | Non-PAR |
+| David Mertzlufft, OD |  | AvMed Commercial HMO | PAR |
+| David Shoemaker, MD |  | AvMed Commercial HMO | PAR |
+| Elizabeth Davis, MD |  | AvMed Commercial HMO | Non-PAR |
+| Erin Hardie, OD |  | AvMed Commercial HMO | PAR |
+| George Hurwitz, OD |  | AvMed Commercial HMO | PAR |
+| Gisselle Vega Carraso |  | AvMed Commercial HMO | Non-PAR |
+| James Lenhart, OD |  | AvMed Commercial HMO | PAR |
+| Joaquin De Rojas, MD |  | AvMed Commercial HMO | PAR |
+| John Fezza, MD (Oculoplastics) |  | AvMed Commercial HMO | PAR |
+| Jordan Shoemaker, PA - Start Date 10/06/2025 |  | AvMed Commercial HMO | Non-PAR |
+| Joseph Sowka, OD |  | AvMed Commercial HMO | Non-PAR |
+| Joshua Kim, MD |  | AvMed Commercial HMO | PAR |
+| Joshua Newman, MD |  | AvMed Commercial HMO | PAR |
+| Kalie Kosek, PA |  | AvMed Commercial HMO | Non-PAR |
+| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 |  | AvMed Commercial HMO | Non-PAR |
+| Kyle Schaub, OD |  | AvMed Commercial HMO | PAR |
+| Len Brown, OD |  | AvMed Commercial HMO | Non-PAR |
+| Logan Page, OD |  | AvMed Commercial HMO | PAR |
+| Lori Long, OD |  | AvMed Commercial HMO | PAR |
+| Lori Vollmer, OD |  | AvMed Commercial HMO | Non-PAR |
+| Mary Mcvey, OD |  | AvMed Commercial HMO | PAR |
+| Maureen Traina, PA |  | AvMed Commercial HMO | Non-PAR |
+| Melissa Hammond, OD |  | AvMed Commercial HMO | PAR |
+| Michael Maloney, OD |  | AvMed Commercial HMO | Non-PAR |
+| Patrick Nelson, OD |  | AvMed Commercial HMO | Non-PAR |
+| Priya Mathews, MD |  | AvMed Commercial HMO | Non-PAR |
+| Rachael Randolph, OD |  | AvMed Commercial HMO | PAR |
+| Scott Stevens, OD |  | AvMed Commercial HMO | PAR |
+| Shannon Bednarz, PA |  | AvMed Commercial HMO | Non-PAR |
+| Tanuj Banker, MD (RETINA) |  | AvMed Commercial HMO | PAR |
+| Todd Lang, OD |  | AvMed Commercial HMO | PAR |
+| Trisha Werner, OD |  | AvMed Commercial HMO | Non-PAR |
 
 ## Center for Sight-Naples
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
-| George Brinnig-Jastrzebski, MD | AvMed Commercial HMO | No Ref/No Auth Required | Non-PAR |
-| Jenna Getman, OD | AvMed Commercial HMO | No Ref/No Auth Required | PAR |
-| Jon Berlie, MD | AvMed Commercial HMO | No Ref/No Auth Required | PAR |
-| Julie Carter, MD | AvMed Commercial HMO | No Ref/No Auth Required | PAR |
+| George Brinnig-Jastrzebski, MD |  | AvMed Commercial HMO | Non-PAR |
+| Jenna Getman, OD |  | AvMed Commercial HMO | PAR |
+| Jon Berlie, MD |  | AvMed Commercial HMO | PAR |
+| Julie Carter, MD |  | AvMed Commercial HMO | PAR |
 
 ## Retina Health Center
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
-| Alexander Eaton, MD | AvMed Commercial HMO | No Ref/No Auth Required | PAR |
-| Veronica Kon Graversen, MD | AvMed Commercial HMO | No Ref/No Auth Required | PAR |
+| Alexander Eaton, MD |  | AvMed Commercial HMO | PAR |
+| Hussein Wafapoor, MD |  | AvMed Commercial HMO | Non-PAR |
+| Referral and/or Auth Required? |  | AvMed Commercial HMO | No Ref/No Auth Required |
+| Veronica Kon Graversen, MD |  | AvMed Commercial HMO | PAR |
 
 </details>
 

@@ -8,10 +8,10 @@
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
-| George Brinnig-Jastrzebski, MD | Cigna Commercial PPO | No Ref/No Auth Required | PAR |
-| Jenna Getman, OD | Cigna Commercial PPO | No Ref/No Auth Required | PAR |
-| Jon Berlie, MD | Cigna Commercial PPO | No Ref/No Auth Required | PAR |
-| Julie Carter, MD | Cigna Commercial PPO | No Ref/No Auth Required | PAR |
+| George Brinnig-Jastrzebski, MD |  | Cigna Commercial PPO | PAR |
+| Jenna Getman, OD |  | Cigna Commercial PPO | PAR |
+| Jon Berlie, MD |  | Cigna Commercial PPO | PAR |
+| Julie Carter, MD |  | Cigna Commercial PPO | PAR |
 
 </details>
 

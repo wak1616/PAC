@@ -8,8 +8,10 @@
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
-| Alexander Eaton, MD | Cigna Medicare HMO REFERRAL REQUIRED | Referral Required | PAR |
-| Veronica Kon Graversen, MD | Cigna Medicare HMO REFERRAL REQUIRED | Referral Required | PAR |
+| Alexander Eaton, MD |  | Cigna Medicare HMO REFERRAL REQUIRED | PAR |
+| Hussein Wafapoor, MD |  | Cigna Medicare HMO REFERRAL REQUIRED | Non-PAR |
+| Referral and/or Auth Required? |  | Cigna Medicare HMO REFERRAL REQUIRED | Referral Required |
+| Veronica Kon Graversen, MD |  | Cigna Medicare HMO REFERRAL REQUIRED | PAR |
 
 </details>
 

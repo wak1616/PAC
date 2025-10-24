@@ -8,10 +8,10 @@
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
-| Albert Smolyar, MD | UHC PPO/POS-87726 | No Ref/No Auth Required | PAR |
-| Brian Marhue, OD | UHC PPO/POS-87726 | No Ref/No Auth Required | PAR |
-| Penny Orr, OD | UHC PPO/POS-87726 | No Ref/No Auth Required | PAR |
-| Sarah Johnson, OD | UHC PPO/POS-87726 | No Ref/No Auth Required | PAR |
+| Albert Smolyar, MD |  | UHC PPO/POS-87726 | PAR |
+| Brian Marhue, OD |  | UHC PPO/POS-87726 | PAR |
+| Penny Orr, OD |  | UHC PPO/POS-87726 | PAR |
+| Sarah Johnson, OD |  | UHC PPO/POS-87726 | PAR |
 
 </details>
 

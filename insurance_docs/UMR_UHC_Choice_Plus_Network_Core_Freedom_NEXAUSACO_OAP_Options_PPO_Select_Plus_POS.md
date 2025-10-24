@@ -8,10 +8,10 @@
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
-| George Brinnig-Jastrzebski, MD | UHC UMR-39026 | No Ref/No Auth Required | PAR |
-| Jenna Getman, OD | UHC UMR-39026 | No Ref/No Auth Required | PAR |
-| Jon Berlie, MD | UHC UMR-39026 | No Ref/No Auth Required | PAR |
-| Julie Carter, MD | UHC UMR-39026 | No Ref/No Auth Required | PAR |
+| George Brinnig-Jastrzebski, MD |  | UHC UMR-39026 | PAR |
+| Jenna Getman, OD |  | UHC UMR-39026 | PAR |
+| Jon Berlie, MD |  | UHC UMR-39026 | PAR |
+| Julie Carter, MD |  | UHC UMR-39026 | PAR |
 
 </details>
 

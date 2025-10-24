@@ -8,10 +8,10 @@
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
-| Albert Smolyar, MD | UHC AARP Medicare Advantage HMO-87726 | No Ref/No Auth Required | PAR |
-| Brian Marhue, OD | UHC AARP Medicare Advantage HMO-87726 | No Ref/No Auth Required | PAR |
-| Penny Orr, OD | UHC AARP Medicare Advantage HMO-87726 | No Ref/No Auth Required | PAR |
-| Sarah Johnson, OD | UHC AARP Medicare Advantage HMO-87726 | No Ref/No Auth Required | PAR |
+| Albert Smolyar, MD |  | UHC AARP Medicare Advantage HMO-87726 | PAR |
+| Brian Marhue, OD |  | UHC AARP Medicare Advantage HMO-87726 | PAR |
+| Penny Orr, OD |  | UHC AARP Medicare Advantage HMO-87726 | PAR |
+| Sarah Johnson, OD |  | UHC AARP Medicare Advantage HMO-87726 | PAR |
 
 </details>
 

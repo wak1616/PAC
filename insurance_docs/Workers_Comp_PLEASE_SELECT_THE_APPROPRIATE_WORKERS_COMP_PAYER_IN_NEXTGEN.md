@@ -8,15 +8,16 @@
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
-| Alexandria Rawls, OD | See NEXTGEN "WC" PAYERS | Authorization Required | PAR |
-| Christine Bui, OD | See NEXTGEN "WC" PAYERS | Authorization Required | PAR |
-| Diba Ossareh, OD | See NEXTGEN "WC" PAYERS | Authorization Required | PAR |
-| Jose Vazques-Diaz, MD | See NEXTGEN "WC" PAYERS | Authorization Required | PAR |
-| Karin Girgis, OD | See NEXTGEN "WC" PAYERS | Authorization Required | Non-PAR |
-| Mari Holderby, OD | See NEXTGEN "WC" PAYERS | Authorization Required | PAR |
-| Scot Holman, MD | See NEXTGEN "WC" PAYERS | Authorization Required | PAR |
-| Scott Wehrly, MD | See NEXTGEN "WC" PAYERS | Authorization Required | PAR |
-| Vinay Gutti, MD | See NEXTGEN "WC" PAYERS | Authorization Required | Non-PAR |
+| Alexandria Rawls, OD |  | See NEXTGEN "WC" PAYERS | PAR |
+| Christine Bui, OD |  | See NEXTGEN "WC" PAYERS | PAR |
+| Diba Ossareh, OD |  | See NEXTGEN "WC" PAYERS | PAR |
+| Jose Vazques-Diaz, MD |  | See NEXTGEN "WC" PAYERS | PAR |
+| Karin Girgis, OD |  | See NEXTGEN "WC" PAYERS | Non-PAR |
+| Mari Holderby, OD |  | See NEXTGEN "WC" PAYERS | PAR |
+| Referral and/or Auth Required? |  | See NEXTGEN "WC" PAYERS | Authorization Required |
+| Scot Holman, MD |  | See NEXTGEN "WC" PAYERS | PAR |
+| Scott Wehrly, MD |  | See NEXTGEN "WC" PAYERS | PAR |
+| Vinay Gutti, MD |  | See NEXTGEN "WC" PAYERS | Non-PAR |
 
 </details>
 

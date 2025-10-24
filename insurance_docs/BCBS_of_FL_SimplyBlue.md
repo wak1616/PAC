@@ -8,19 +8,19 @@
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
-| George Brinnig-Jastrzebski, MD | BCBS FL Commercial HMO | Authorization Required | PAR |
-| Jenna Getman, OD | BCBS FL Commercial HMO | Authorization Required | PAR |
-| Jon Berlie, MD | BCBS FL Commercial HMO | Authorization Required | PAR |
-| Julie Carter, MD | BCBS FL Commercial HMO | Authorization Required | PAR |
+| George Brinnig-Jastrzebski, MD |  | BCBS FL Commercial HMO | PAR |
+| Jenna Getman, OD |  | BCBS FL Commercial HMO | PAR |
+| Jon Berlie, MD |  | BCBS FL Commercial HMO | PAR |
+| Julie Carter, MD |  | BCBS FL Commercial HMO | PAR |
 
 ## SW FL Eye
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
-| Albert Smolyar, MD | BCBS FL Commercial HMO | Authorization Required | PAR |
-| Brian Marhue, OD | BCBS FL Commercial HMO | Authorization Required | PAR |
-| Penny Orr, OD | BCBS FL Commercial HMO | Authorization Required | PAR |
-| Sarah Johnson, OD | BCBS FL Commercial HMO | Authorization Required | PAR |
+| Albert Smolyar, MD |  | BCBS FL Commercial HMO | PAR |
+| Brian Marhue, OD |  | BCBS FL Commercial HMO | PAR |
+| Penny Orr, OD |  | BCBS FL Commercial HMO | PAR |
+| Sarah Johnson, OD |  | BCBS FL Commercial HMO | PAR |
 
 </details>
 

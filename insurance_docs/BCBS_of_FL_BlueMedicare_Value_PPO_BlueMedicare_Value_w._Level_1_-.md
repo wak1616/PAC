@@ -8,56 +8,57 @@
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
-| Bradley Middaugh, OD | BCBS FL Medicare PPO | No Ref/No Auth Required | PAR |
-| Brittany Coyle, OD | BCBS FL Medicare PPO | No Ref/No Auth Required | PAR |
-| Charles Putrino, OD | BCBS FL Medicare PPO | No Ref/No Auth Required | PAR |
-| Daniel Hadland, OD | BCBS FL Medicare PPO | No Ref/No Auth Required | PAR |
-| David Mertzlufft, OD | BCBS FL Medicare PPO | No Ref/No Auth Required | PAR |
-| David Shoemaker, MD | BCBS FL Medicare PPO | No Ref/No Auth Required | PAR |
-| Elizabeth Davis, MD | BCBS FL Medicare PPO | No Ref/No Auth Required | PAR |
-| Erin Hardie, OD | BCBS FL Medicare PPO | No Ref/No Auth Required | PAR |
-| George Hurwitz, OD | BCBS FL Medicare PPO | No Ref/No Auth Required | PAR |
-| Gisselle Vega Carraso | BCBS FL Medicare PPO | No Ref/No Auth Required | PAR |
-| James Lenhart, OD | BCBS FL Medicare PPO | No Ref/No Auth Required | PAR |
-| Joaquin De Rojas, MD | BCBS FL Medicare PPO | No Ref/No Auth Required | PAR |
-| John Fezza, MD (Oculoplastics) | BCBS FL Medicare PPO | No Ref/No Auth Required | PAR |
-| Jordan Shoemaker, PA - Start Date 10/06/2025 | BCBS FL Medicare PPO | No Ref/No Auth Required | PAR |
-| Joseph Sowka, OD | BCBS FL Medicare PPO | No Ref/No Auth Required | PAR |
-| Joshua Kim, MD | BCBS FL Medicare PPO | No Ref/No Auth Required | PAR |
-| Joshua Newman, MD | BCBS FL Medicare PPO | No Ref/No Auth Required | PAR |
-| Kalie Kosek, PA | BCBS FL Medicare PPO | No Ref/No Auth Required | PAR |
-| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | BCBS FL Medicare PPO | No Ref/No Auth Required | Non-PAR |
-| Kyle Schaub, OD | BCBS FL Medicare PPO | No Ref/No Auth Required | PAR |
-| Len Brown, OD | BCBS FL Medicare PPO | No Ref/No Auth Required | PAR |
-| Logan Page, OD | BCBS FL Medicare PPO | No Ref/No Auth Required | PAR |
-| Lori Long, OD | BCBS FL Medicare PPO | No Ref/No Auth Required | PAR |
-| Lori Vollmer, OD | BCBS FL Medicare PPO | No Ref/No Auth Required | PAR |
-| Mary Mcvey, OD | BCBS FL Medicare PPO | No Ref/No Auth Required | PAR |
-| Maureen Traina, PA | BCBS FL Medicare PPO | No Ref/No Auth Required | PAR |
-| Melissa Hammond, OD | BCBS FL Medicare PPO | No Ref/No Auth Required | PAR |
-| Michael Maloney, OD | BCBS FL Medicare PPO | No Ref/No Auth Required | PAR |
-| Patrick Nelson, OD | BCBS FL Medicare PPO | No Ref/No Auth Required | PAR |
-| Priya Mathews, MD | BCBS FL Medicare PPO | No Ref/No Auth Required | PAR |
-| Rachael Randolph, OD | BCBS FL Medicare PPO | No Ref/No Auth Required | PAR |
-| Scott Stevens, OD | BCBS FL Medicare PPO | No Ref/No Auth Required | PAR |
-| Shannon Bednarz, PA | BCBS FL Medicare PPO | No Ref/No Auth Required | PAR |
-| Tanuj Banker, MD (RETINA) | BCBS FL Medicare PPO | No Ref/No Auth Required | PAR |
-| Todd Lang, OD | BCBS FL Medicare PPO | No Ref/No Auth Required | PAR |
-| Trisha Werner, OD | BCBS FL Medicare PPO | No Ref/No Auth Required | PAR |
+| Bradley Middaugh, OD |  | BCBS FL Medicare PPO | PAR |
+| Brittany Coyle, OD |  | BCBS FL Medicare PPO | PAR |
+| Charles Putrino, OD |  | BCBS FL Medicare PPO | PAR |
+| Daniel Hadland, OD |  | BCBS FL Medicare PPO | PAR |
+| David Mertzlufft, OD |  | BCBS FL Medicare PPO | PAR |
+| David Shoemaker, MD |  | BCBS FL Medicare PPO | PAR |
+| Elizabeth Davis, MD |  | BCBS FL Medicare PPO | PAR |
+| Erin Hardie, OD |  | BCBS FL Medicare PPO | PAR |
+| George Hurwitz, OD |  | BCBS FL Medicare PPO | PAR |
+| Gisselle Vega Carraso |  | BCBS FL Medicare PPO | PAR |
+| James Lenhart, OD |  | BCBS FL Medicare PPO | PAR |
+| Joaquin De Rojas, MD |  | BCBS FL Medicare PPO | PAR |
+| John Fezza, MD (Oculoplastics) |  | BCBS FL Medicare PPO | PAR |
+| Jordan Shoemaker, PA - Start Date 10/06/2025 |  | BCBS FL Medicare PPO | PAR |
+| Joseph Sowka, OD |  | BCBS FL Medicare PPO | PAR |
+| Joshua Kim, MD |  | BCBS FL Medicare PPO | PAR |
+| Joshua Newman, MD |  | BCBS FL Medicare PPO | PAR |
+| Kalie Kosek, PA |  | BCBS FL Medicare PPO | PAR |
+| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 |  | BCBS FL Medicare PPO | Non-PAR |
+| Kyle Schaub, OD |  | BCBS FL Medicare PPO | PAR |
+| Len Brown, OD |  | BCBS FL Medicare PPO | PAR |
+| Logan Page, OD |  | BCBS FL Medicare PPO | PAR |
+| Lori Long, OD |  | BCBS FL Medicare PPO | PAR |
+| Lori Vollmer, OD |  | BCBS FL Medicare PPO | PAR |
+| Mary Mcvey, OD |  | BCBS FL Medicare PPO | PAR |
+| Maureen Traina, PA |  | BCBS FL Medicare PPO | PAR |
+| Melissa Hammond, OD |  | BCBS FL Medicare PPO | PAR |
+| Michael Maloney, OD |  | BCBS FL Medicare PPO | PAR |
+| Patrick Nelson, OD |  | BCBS FL Medicare PPO | PAR |
+| Priya Mathews, MD |  | BCBS FL Medicare PPO | PAR |
+| Rachael Randolph, OD |  | BCBS FL Medicare PPO | PAR |
+| Scott Stevens, OD |  | BCBS FL Medicare PPO | PAR |
+| Shannon Bednarz, PA |  | BCBS FL Medicare PPO | PAR |
+| Tanuj Banker, MD (RETINA) |  | BCBS FL Medicare PPO | PAR |
+| Todd Lang, OD |  | BCBS FL Medicare PPO | PAR |
+| Trisha Werner, OD |  | BCBS FL Medicare PPO | PAR |
 
 ## Lake Eye 
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
-| Alexandria Rawls, OD | BCBS FL Medicare PPO | No Ref/No Auth Required | PAR |
-| Christine Bui, OD | BCBS FL Medicare PPO | No Ref/No Auth Required | PAR |
-| Diba Ossareh, OD | BCBS FL Medicare PPO | No Ref/No Auth Required | PAR |
-| Jose Vazques-Diaz, MD | BCBS FL Medicare PPO | No Ref/No Auth Required | PAR |
-| Karin Girgis, OD | BCBS FL Medicare PPO | No Ref/No Auth Required | Non-PAR |
-| Mari Holderby, OD | BCBS FL Medicare PPO | No Ref/No Auth Required | PAR |
-| Scot Holman, MD | BCBS FL Medicare PPO | No Ref/No Auth Required | PAR |
-| Scott Wehrly, MD | BCBS FL Medicare PPO | No Ref/No Auth Required | PAR |
-| Vinay Gutti, MD | BCBS FL Medicare PPO | No Ref/No Auth Required | PAR |
+| Alexandria Rawls, OD |  | BCBS FL Medicare PPO | PAR |
+| Christine Bui, OD |  | BCBS FL Medicare PPO | PAR |
+| Diba Ossareh, OD |  | BCBS FL Medicare PPO | PAR |
+| Jose Vazques-Diaz, MD |  | BCBS FL Medicare PPO | PAR |
+| Karin Girgis, OD |  | BCBS FL Medicare PPO | Non-PAR |
+| Mari Holderby, OD |  | BCBS FL Medicare PPO | PAR |
+| Referral and/or Auth Required? |  | BCBS FL Medicare PPO | No Ref/No Auth Required |
+| Scot Holman, MD |  | BCBS FL Medicare PPO | PAR |
+| Scott Wehrly, MD |  | BCBS FL Medicare PPO | PAR |
+| Vinay Gutti, MD |  | BCBS FL Medicare PPO | PAR |
 
 </details>
 

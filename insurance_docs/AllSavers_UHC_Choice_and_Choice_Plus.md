@@ -8,40 +8,43 @@
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
-| George Brinnig-Jastrzebski, MD | UHC All Savers-81400 | No Ref/No Auth Required | PAR |
-| Jenna Getman, OD | UHC All Savers-81400 | No Ref/No Auth Required | Non-PAR |
-| Jon Berlie, MD | UHC All Savers-81400 | No Ref/No Auth Required | PAR |
-| Julie Carter, MD | UHC All Savers-81400 | No Ref/No Auth Required | PAR |
+| George Brinnig-Jastrzebski, MD |  | UHC All Savers-81400 | PAR |
+| Jenna Getman, OD |  | UHC All Savers-81400 | Non-PAR |
+| Jon Berlie, MD |  | UHC All Savers-81400 | PAR |
+| Julie Carter, MD |  | UHC All Savers-81400 | PAR |
 
 ## Lake Eye 
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
-| Alexandria Rawls, OD | UHC All Savers-81400 | No Ref/No Auth Required | PAR |
-| Christine Bui, OD | UHC All Savers-81400 | No Ref/No Auth Required | PAR |
-| Diba Ossareh, OD | UHC All Savers-81400 | No Ref/No Auth Required | PAR |
-| Jose Vazques-Diaz, MD | UHC All Savers-81400 | No Ref/No Auth Required | PAR |
-| Karin Girgis, OD | UHC All Savers-81400 | No Ref/No Auth Required | Non-PAR |
-| Mari Holderby, OD | UHC All Savers-81400 | No Ref/No Auth Required | PAR |
-| Scot Holman, MD | UHC All Savers-81400 | No Ref/No Auth Required | PAR |
-| Scott Wehrly, MD | UHC All Savers-81400 | No Ref/No Auth Required | PAR |
-| Vinay Gutti, MD | UHC All Savers-81400 | No Ref/No Auth Required | PAR |
+| Alexandria Rawls, OD |  | UHC All Savers-81400 | PAR |
+| Christine Bui, OD |  | UHC All Savers-81400 | PAR |
+| Diba Ossareh, OD |  | UHC All Savers-81400 | PAR |
+| Jose Vazques-Diaz, MD |  | UHC All Savers-81400 | PAR |
+| Karin Girgis, OD |  | UHC All Savers-81400 | Non-PAR |
+| Mari Holderby, OD |  | UHC All Savers-81400 | PAR |
+| Referral and/or Auth Required? |  | UHC All Savers-81400 | No Ref/No Auth Required |
+| Scot Holman, MD |  | UHC All Savers-81400 | PAR |
+| Scott Wehrly, MD |  | UHC All Savers-81400 | PAR |
+| Vinay Gutti, MD |  | UHC All Savers-81400 | PAR |
 
 ## Retina Health Center
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
-| Alexander Eaton, MD | All Savers Commercial - UHC | No Ref/No Auth Required | PAR |
-| Veronica Kon Graversen, MD | All Savers Commercial - UHC | No Ref/No Auth Required | PAR |
+| Alexander Eaton, MD |  | All Savers Commercial - UHC | PAR |
+| Hussein Wafapoor, MD |  | All Savers Commercial - UHC | Non-PAR |
+| Referral and/or Auth Required? |  | All Savers Commercial - UHC | No Ref/No Auth Required |
+| Veronica Kon Graversen, MD |  | All Savers Commercial - UHC | PAR |
 
 ## SW FL Eye
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
-| Albert Smolyar, MD | UHC All Savers-81400 | No Ref/No Auth Required | PAR |
-| Brian Marhue, OD | UHC All Savers-81400 | No Ref/No Auth Required | PAR |
-| Penny Orr, OD | UHC All Savers-81400 | No Ref/No Auth Required | PAR |
-| Sarah Johnson, OD | UHC All Savers-81400 | No Ref/No Auth Required | PAR |
+| Albert Smolyar, MD |  | UHC All Savers-81400 | PAR |
+| Brian Marhue, OD |  | UHC All Savers-81400 | PAR |
+| Penny Orr, OD |  | UHC All Savers-81400 | PAR |
+| Sarah Johnson, OD |  | UHC All Savers-81400 | PAR |
 
 </details>
 

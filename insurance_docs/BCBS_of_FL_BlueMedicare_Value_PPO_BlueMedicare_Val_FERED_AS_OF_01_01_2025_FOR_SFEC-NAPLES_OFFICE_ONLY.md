@@ -8,10 +8,10 @@
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
-| Albert Smolyar, MD | BCBS FL Medicare PPO | No Ref/No Auth Required | PAR |
-| Brian Marhue, OD | BCBS FL Medicare PPO | No Ref/No Auth Required | PAR |
-| Penny Orr, OD | BCBS FL Medicare PPO | No Ref/No Auth Required | PAR |
-| Sarah Johnson, OD | BCBS FL Medicare PPO | No Ref/No Auth Required | PAR |
+| Albert Smolyar, MD |  | BCBS FL Medicare PPO | PAR |
+| Brian Marhue, OD |  | BCBS FL Medicare PPO | PAR |
+| Penny Orr, OD |  | BCBS FL Medicare PPO | PAR |
+| Sarah Johnson, OD |  | BCBS FL Medicare PPO | PAR |
 
 </details>
 

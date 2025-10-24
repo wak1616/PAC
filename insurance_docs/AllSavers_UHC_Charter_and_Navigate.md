@@ -8,19 +8,19 @@
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
-| George Brinnig-Jastrzebski, MD | All Savers Comm REFERRAL REQ - UHC | Referral Required | PAR |
-| Jenna Getman, OD | All Savers Comm REFERRAL REQ - UHC | Referral Required | Non-PAR |
-| Jon Berlie, MD | All Savers Comm REFERRAL REQ - UHC | Referral Required | PAR |
-| Julie Carter, MD | All Savers Comm REFERRAL REQ - UHC | Referral Required | PAR |
+| George Brinnig-Jastrzebski, MD |  | All Savers Comm REFERRAL REQ - UHC | PAR |
+| Jenna Getman, OD |  | All Savers Comm REFERRAL REQ - UHC | Non-PAR |
+| Jon Berlie, MD |  | All Savers Comm REFERRAL REQ - UHC | PAR |
+| Julie Carter, MD |  | All Savers Comm REFERRAL REQ - UHC | PAR |
 
 ## SW FL Eye
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
-| Albert Smolyar, MD | All Savers Comm REFERRAL REQ - UHC | Referral Required | PAR |
-| Brian Marhue, OD | All Savers Comm REFERRAL REQ - UHC | Referral Required | PAR |
-| Penny Orr, OD | All Savers Comm REFERRAL REQ - UHC | Referral Required | PAR |
-| Sarah Johnson, OD | All Savers Comm REFERRAL REQ - UHC | Referral Required | PAR |
+| Albert Smolyar, MD |  | All Savers Comm REFERRAL REQ - UHC | PAR |
+| Brian Marhue, OD |  | All Savers Comm REFERRAL REQ - UHC | PAR |
+| Penny Orr, OD |  | All Savers Comm REFERRAL REQ - UHC | PAR |
+| Sarah Johnson, OD |  | All Savers Comm REFERRAL REQ - UHC | PAR |
 
 </details>
 

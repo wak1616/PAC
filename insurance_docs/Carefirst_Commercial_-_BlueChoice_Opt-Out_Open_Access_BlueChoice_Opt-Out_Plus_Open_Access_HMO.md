@@ -8,15 +8,16 @@
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
-| Alexandria Rawls, OD | Carefirst BCBS Commercial HMO | No Ref/No Auth Required | PAR |
-| Christine Bui, OD | Carefirst BCBS Commercial HMO | No Ref/No Auth Required | PAR |
-| Diba Ossareh, OD | Carefirst BCBS Commercial HMO | No Ref/No Auth Required | PAR |
-| Jose Vazques-Diaz, MD | Carefirst BCBS Commercial HMO | No Ref/No Auth Required | PAR |
-| Karin Girgis, OD | Carefirst BCBS Commercial HMO | No Ref/No Auth Required | Non-PAR |
-| Mari Holderby, OD | Carefirst BCBS Commercial HMO | No Ref/No Auth Required | PAR |
-| Scot Holman, MD | Carefirst BCBS Commercial HMO | No Ref/No Auth Required | PAR |
-| Scott Wehrly, MD | Carefirst BCBS Commercial HMO | No Ref/No Auth Required | PAR |
-| Vinay Gutti, MD | Carefirst BCBS Commercial HMO | No Ref/No Auth Required | PAR |
+| Alexandria Rawls, OD |  | Carefirst BCBS Commercial HMO | PAR |
+| Christine Bui, OD |  | Carefirst BCBS Commercial HMO | PAR |
+| Diba Ossareh, OD |  | Carefirst BCBS Commercial HMO | PAR |
+| Jose Vazques-Diaz, MD |  | Carefirst BCBS Commercial HMO | PAR |
+| Karin Girgis, OD |  | Carefirst BCBS Commercial HMO | Non-PAR |
+| Mari Holderby, OD |  | Carefirst BCBS Commercial HMO | PAR |
+| Referral and/or Auth Required? |  | Carefirst BCBS Commercial HMO | No Ref/No Auth Required |
+| Scot Holman, MD |  | Carefirst BCBS Commercial HMO | PAR |
+| Scott Wehrly, MD |  | Carefirst BCBS Commercial HMO | PAR |
+| Vinay Gutti, MD |  | Carefirst BCBS Commercial HMO | PAR |
 
 </details>
 

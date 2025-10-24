@@ -8,10 +8,10 @@
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
-| Albert Smolyar, MD | Anthem BCBS Vision | No Ref/No Auth Required | Non-PAR |
-| Brian Marhue, OD | Anthem BCBS Vision | No Ref/No Auth Required | PAR |
-| Penny Orr, OD | Anthem BCBS Vision | No Ref/No Auth Required | PAR |
-| Sarah Johnson, OD | Anthem BCBS Vision | No Ref/No Auth Required | PAR |
+| Albert Smolyar, MD |  | Anthem BCBS Vision | Non-PAR |
+| Brian Marhue, OD |  | Anthem BCBS Vision | PAR |
+| Penny Orr, OD |  | Anthem BCBS Vision | PAR |
+| Sarah Johnson, OD |  | Anthem BCBS Vision | PAR |
 
 </details>
 

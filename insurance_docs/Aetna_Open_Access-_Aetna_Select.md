@@ -8,42 +8,42 @@
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
-| Bradley Middaugh, OD | Aetna Commercial PPO | No Ref/No Auth Required | PAR |
-| Brittany Coyle, OD | Aetna Commercial PPO | No Ref/No Auth Required | PAR |
-| Charles Putrino, OD | Aetna Commercial PPO | No Ref/No Auth Required | PAR |
-| Daniel Hadland, OD | Aetna Commercial PPO | No Ref/No Auth Required | PAR |
-| David Mertzlufft, OD | Aetna Commercial PPO | No Ref/No Auth Required | PAR |
-| David Shoemaker, MD | Aetna Commercial PPO | No Ref/No Auth Required | PAR |
-| Elizabeth Davis, MD | Aetna Commercial PPO | No Ref/No Auth Required | PAR |
-| Erin Hardie, OD | Aetna Commercial PPO | No Ref/No Auth Required | PAR |
-| George Hurwitz, OD | Aetna Commercial PPO | No Ref/No Auth Required | PAR |
-| Gisselle Vega Carraso | Aetna Commercial PPO | No Ref/No Auth Required | PAR |
-| James Lenhart, OD | Aetna Commercial PPO | No Ref/No Auth Required | PAR |
-| Joaquin De Rojas, MD | Aetna Commercial PPO | No Ref/No Auth Required | PAR |
-| John Fezza, MD (Oculoplastics) | Aetna Commercial PPO | No Ref/No Auth Required | PAR |
-| Jordan Shoemaker, PA - Start Date 10/06/2025 | Aetna Commercial PPO | No Ref/No Auth Required | Non-PAR |
-| Joseph Sowka, OD | Aetna Commercial PPO | No Ref/No Auth Required | PAR |
-| Joshua Kim, MD | Aetna Commercial PPO | No Ref/No Auth Required | PAR |
-| Joshua Newman, MD | Aetna Commercial PPO | No Ref/No Auth Required | PAR |
-| Kalie Kosek, PA | Aetna Commercial PPO | No Ref/No Auth Required | PAR |
-| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | Aetna Commercial PPO | No Ref/No Auth Required | PAR |
-| Kyle Schaub, OD | Aetna Commercial PPO | No Ref/No Auth Required | PAR |
-| Len Brown, OD | Aetna Commercial PPO | No Ref/No Auth Required | PAR |
-| Logan Page, OD | Aetna Commercial PPO | No Ref/No Auth Required | PAR |
-| Lori Long, OD | Aetna Commercial PPO | No Ref/No Auth Required | PAR |
-| Lori Vollmer, OD | Aetna Commercial PPO | No Ref/No Auth Required | PAR |
-| Mary Mcvey, OD | Aetna Commercial PPO | No Ref/No Auth Required | PAR |
-| Maureen Traina, PA | Aetna Commercial PPO | No Ref/No Auth Required | PAR |
-| Melissa Hammond, OD | Aetna Commercial PPO | No Ref/No Auth Required | PAR |
-| Michael Maloney, OD | Aetna Commercial PPO | No Ref/No Auth Required | PAR |
-| Patrick Nelson, OD | Aetna Commercial PPO | No Ref/No Auth Required | PAR |
-| Priya Mathews, MD | Aetna Commercial PPO | No Ref/No Auth Required | PAR |
-| Rachael Randolph, OD | Aetna Commercial PPO | No Ref/No Auth Required | PAR |
-| Scott Stevens, OD | Aetna Commercial PPO | No Ref/No Auth Required | PAR |
-| Shannon Bednarz, PA | Aetna Commercial PPO | No Ref/No Auth Required | PAR |
-| Tanuj Banker, MD (RETINA) | Aetna Commercial PPO | No Ref/No Auth Required | PAR |
-| Todd Lang, OD | Aetna Commercial PPO | No Ref/No Auth Required | PAR |
-| Trisha Werner, OD | Aetna Commercial PPO | No Ref/No Auth Required | PAR |
+| Bradley Middaugh, OD |  | Aetna Commercial PPO | PAR |
+| Brittany Coyle, OD |  | Aetna Commercial PPO | PAR |
+| Charles Putrino, OD |  | Aetna Commercial PPO | PAR |
+| Daniel Hadland, OD |  | Aetna Commercial PPO | PAR |
+| David Mertzlufft, OD |  | Aetna Commercial PPO | PAR |
+| David Shoemaker, MD |  | Aetna Commercial PPO | PAR |
+| Elizabeth Davis, MD |  | Aetna Commercial PPO | PAR |
+| Erin Hardie, OD |  | Aetna Commercial PPO | PAR |
+| George Hurwitz, OD |  | Aetna Commercial PPO | PAR |
+| Gisselle Vega Carraso |  | Aetna Commercial PPO | PAR |
+| James Lenhart, OD |  | Aetna Commercial PPO | PAR |
+| Joaquin De Rojas, MD |  | Aetna Commercial PPO | PAR |
+| John Fezza, MD (Oculoplastics) |  | Aetna Commercial PPO | PAR |
+| Jordan Shoemaker, PA - Start Date 10/06/2025 |  | Aetna Commercial PPO | Non-PAR |
+| Joseph Sowka, OD |  | Aetna Commercial PPO | PAR |
+| Joshua Kim, MD |  | Aetna Commercial PPO | PAR |
+| Joshua Newman, MD |  | Aetna Commercial PPO | PAR |
+| Kalie Kosek, PA |  | Aetna Commercial PPO | PAR |
+| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 |  | Aetna Commercial PPO | PAR |
+| Kyle Schaub, OD |  | Aetna Commercial PPO | PAR |
+| Len Brown, OD |  | Aetna Commercial PPO | PAR |
+| Logan Page, OD |  | Aetna Commercial PPO | PAR |
+| Lori Long, OD |  | Aetna Commercial PPO | PAR |
+| Lori Vollmer, OD |  | Aetna Commercial PPO | PAR |
+| Mary Mcvey, OD |  | Aetna Commercial PPO | PAR |
+| Maureen Traina, PA |  | Aetna Commercial PPO | PAR |
+| Melissa Hammond, OD |  | Aetna Commercial PPO | PAR |
+| Michael Maloney, OD |  | Aetna Commercial PPO | PAR |
+| Patrick Nelson, OD |  | Aetna Commercial PPO | PAR |
+| Priya Mathews, MD |  | Aetna Commercial PPO | PAR |
+| Rachael Randolph, OD |  | Aetna Commercial PPO | PAR |
+| Scott Stevens, OD |  | Aetna Commercial PPO | PAR |
+| Shannon Bednarz, PA |  | Aetna Commercial PPO | PAR |
+| Tanuj Banker, MD (RETINA) |  | Aetna Commercial PPO | PAR |
+| Todd Lang, OD |  | Aetna Commercial PPO | PAR |
+| Trisha Werner, OD |  | Aetna Commercial PPO | PAR |
 
 </details>
 

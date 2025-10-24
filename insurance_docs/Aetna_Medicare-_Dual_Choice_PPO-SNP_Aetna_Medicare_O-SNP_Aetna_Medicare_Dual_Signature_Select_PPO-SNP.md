@@ -8,15 +8,16 @@
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
-| Alexandria Rawls, OD | Primary: Aetna Dual Complete Medicare PPO Primary                                                   Secondary: Aetna Dual Complete MCD PPO Secondary | No Ref/No Auth Required | PAR |
-| Christine Bui, OD | Primary: Aetna Dual Complete Medicare PPO Primary                                                   Secondary: Aetna Dual Complete MCD PPO Secondary | No Ref/No Auth Required | PAR |
-| Diba Ossareh, OD | Primary: Aetna Dual Complete Medicare PPO Primary                                                   Secondary: Aetna Dual Complete MCD PPO Secondary | No Ref/No Auth Required | PAR |
-| Jose Vazques-Diaz, MD | Primary: Aetna Dual Complete Medicare PPO Primary                                                   Secondary: Aetna Dual Complete MCD PPO Secondary | No Ref/No Auth Required | PAR |
-| Karin Girgis, OD | Primary: Aetna Dual Complete Medicare PPO Primary                                                   Secondary: Aetna Dual Complete MCD PPO Secondary | No Ref/No Auth Required | PAR |
-| Mari Holderby, OD | Primary: Aetna Dual Complete Medicare PPO Primary                                                   Secondary: Aetna Dual Complete MCD PPO Secondary | No Ref/No Auth Required | PAR |
-| Scot Holman, MD | Primary: Aetna Dual Complete Medicare PPO Primary                                                   Secondary: Aetna Dual Complete MCD PPO Secondary | No Ref/No Auth Required | PAR |
-| Scott Wehrly, MD | Primary: Aetna Dual Complete Medicare PPO Primary                                                   Secondary: Aetna Dual Complete MCD PPO Secondary | No Ref/No Auth Required | PAR |
-| Vinay Gutti, MD | Primary: Aetna Dual Complete Medicare PPO Primary                                                   Secondary: Aetna Dual Complete MCD PPO Secondary | No Ref/No Auth Required | PAR |
+| Alexandria Rawls, OD |  | Primary: Aetna Dual Complete Medicare PPO Primary                                                   Secondary: Aetna Dual Complete MCD PPO Secondary | PAR |
+| Christine Bui, OD |  | Primary: Aetna Dual Complete Medicare PPO Primary                                                   Secondary: Aetna Dual Complete MCD PPO Secondary | PAR |
+| Diba Ossareh, OD |  | Primary: Aetna Dual Complete Medicare PPO Primary                                                   Secondary: Aetna Dual Complete MCD PPO Secondary | PAR |
+| Jose Vazques-Diaz, MD |  | Primary: Aetna Dual Complete Medicare PPO Primary                                                   Secondary: Aetna Dual Complete MCD PPO Secondary | PAR |
+| Karin Girgis, OD |  | Primary: Aetna Dual Complete Medicare PPO Primary                                                   Secondary: Aetna Dual Complete MCD PPO Secondary | PAR |
+| Mari Holderby, OD |  | Primary: Aetna Dual Complete Medicare PPO Primary                                                   Secondary: Aetna Dual Complete MCD PPO Secondary | PAR |
+| Referral and/or Auth Required? |  | Primary: Aetna Dual Complete Medicare PPO Primary                                                   Secondary: Aetna Dual Complete MCD PPO Secondary | No Ref/No Auth Required |
+| Scot Holman, MD |  | Primary: Aetna Dual Complete Medicare PPO Primary                                                   Secondary: Aetna Dual Complete MCD PPO Secondary | PAR |
+| Scott Wehrly, MD |  | Primary: Aetna Dual Complete Medicare PPO Primary                                                   Secondary: Aetna Dual Complete MCD PPO Secondary | PAR |
+| Vinay Gutti, MD |  | Primary: Aetna Dual Complete Medicare PPO Primary                                                   Secondary: Aetna Dual Complete MCD PPO Secondary | PAR |
 
 </details>
 

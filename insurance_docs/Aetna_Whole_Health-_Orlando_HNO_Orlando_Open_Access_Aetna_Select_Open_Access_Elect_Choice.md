@@ -8,15 +8,16 @@
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
-| Alexandria Rawls, OD | Aetna Commercial PPO | No Ref/No Auth Required | PAR |
-| Christine Bui, OD | Aetna Commercial PPO | No Ref/No Auth Required | PAR |
-| Diba Ossareh, OD | Aetna Commercial PPO | No Ref/No Auth Required | PAR |
-| Jose Vazques-Diaz, MD | Aetna Commercial PPO | No Ref/No Auth Required | Non-PAR |
-| Karin Girgis, OD | Aetna Commercial PPO | No Ref/No Auth Required | PAR |
-| Mari Holderby, OD | Aetna Commercial PPO | No Ref/No Auth Required | PAR |
-| Scot Holman, MD | Aetna Commercial PPO | No Ref/No Auth Required | Non-PAR |
-| Scott Wehrly, MD | Aetna Commercial PPO | No Ref/No Auth Required | Non-PAR |
-| Vinay Gutti, MD | Aetna Commercial PPO | No Ref/No Auth Required | Non-PAR |
+| Alexandria Rawls, OD |  | Aetna Commercial PPO | PAR |
+| Christine Bui, OD |  | Aetna Commercial PPO | PAR |
+| Diba Ossareh, OD |  | Aetna Commercial PPO | PAR |
+| Jose Vazques-Diaz, MD |  | Aetna Commercial PPO | Non-PAR |
+| Karin Girgis, OD |  | Aetna Commercial PPO | PAR |
+| Mari Holderby, OD |  | Aetna Commercial PPO | PAR |
+| Referral and/or Auth Required? |  | Aetna Commercial PPO | No Ref/No Auth Required |
+| Scot Holman, MD |  | Aetna Commercial PPO | Non-PAR |
+| Scott Wehrly, MD |  | Aetna Commercial PPO | Non-PAR |
+| Vinay Gutti, MD |  | Aetna Commercial PPO | Non-PAR |
 
 </details>
 

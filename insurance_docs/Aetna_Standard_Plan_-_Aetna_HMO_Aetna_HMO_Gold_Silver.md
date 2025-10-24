@@ -8,10 +8,10 @@
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
-| George Brinnig-Jastrzebski, MD | Aetna Comm HMO Referral Req | Referral Required | PAR |
-| Jenna Getman, OD | Aetna Comm HMO Referral Req | Referral Required | PAR |
-| Jon Berlie, MD | Aetna Comm HMO Referral Req | Referral Required | PAR |
-| Julie Carter, MD | Aetna Comm HMO Referral Req | Referral Required | PAR |
+| George Brinnig-Jastrzebski, MD |  | Aetna Comm HMO Referral Req | PAR |
+| Jenna Getman, OD |  | Aetna Comm HMO Referral Req | PAR |
+| Jon Berlie, MD |  | Aetna Comm HMO Referral Req | PAR |
+| Julie Carter, MD |  | Aetna Comm HMO Referral Req | PAR |
 
 </details>
 

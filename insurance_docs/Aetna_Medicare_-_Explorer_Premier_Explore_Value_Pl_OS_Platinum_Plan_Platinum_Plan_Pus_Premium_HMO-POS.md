@@ -8,8 +8,10 @@
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
-| Alexander Eaton, MD | Aetna Medicare HMO POS | No Ref/No Auth Required | PAR |
-| Veronica Kon Graversen, MD | Aetna Medicare HMO POS | No Ref/No Auth Required | PAR |
+| Alexander Eaton, MD |  | Aetna Medicare HMO POS | PAR |
+| Hussein Wafapoor, MD |  | Aetna Medicare HMO POS | Non-PAR |
+| Referral and/or Auth Required? |  | Aetna Medicare HMO POS | No Ref/No Auth Required |
+| Veronica Kon Graversen, MD |  | Aetna Medicare HMO POS | PAR |
 
 </details>
 

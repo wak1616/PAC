@@ -8,10 +8,10 @@
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
-| George Brinnig-Jastrzebski, MD | Cigna Commercial HMO | No Ref/No Auth Required | Non-PAR |
-| Jenna Getman, OD | Cigna Commercial HMO | No Ref/No Auth Required | Non-PAR |
-| Jon Berlie, MD | Cigna Commercial HMO | No Ref/No Auth Required | Non-PAR |
-| Julie Carter, MD | Cigna Commercial HMO | No Ref/No Auth Required | Non-PAR |
+| George Brinnig-Jastrzebski, MD |  | Cigna Commercial HMO | Non-PAR |
+| Jenna Getman, OD |  | Cigna Commercial HMO | Non-PAR |
+| Jon Berlie, MD |  | Cigna Commercial HMO | Non-PAR |
+| Julie Carter, MD |  | Cigna Commercial HMO | Non-PAR |
 
 </details>
 

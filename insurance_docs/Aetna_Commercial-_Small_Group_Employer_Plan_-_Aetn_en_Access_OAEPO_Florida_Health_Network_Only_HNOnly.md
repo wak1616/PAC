@@ -8,8 +8,10 @@
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
-| Alexander Eaton, MD | Aetna Commercial PPO | No Ref/No Auth Required | PAR |
-| Veronica Kon Graversen, MD | Aetna Commercial PPO | No Ref/No Auth Required | PAR |
+| Alexander Eaton, MD |  | Aetna Commercial PPO | PAR |
+| Hussein Wafapoor, MD |  | Aetna Commercial PPO | Non-PAR |
+| Referral and/or Auth Required? |  | Aetna Commercial PPO | No Ref/No Auth Required |
+| Veronica Kon Graversen, MD |  | Aetna Commercial PPO | PAR |
 
 </details>
 

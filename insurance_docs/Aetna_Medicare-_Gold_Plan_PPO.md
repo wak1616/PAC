@@ -8,10 +8,10 @@
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
-| George Brinnig-Jastrzebski, MD | Aetna Medicare PPO | No Ref/No Auth Required | PAR |
-| Jenna Getman, OD | Aetna Medicare PPO | No Ref/No Auth Required | PAR |
-| Jon Berlie, MD | Aetna Medicare PPO | No Ref/No Auth Required | PAR |
-| Julie Carter, MD | Aetna Medicare PPO | No Ref/No Auth Required | PAR |
+| George Brinnig-Jastrzebski, MD |  | Aetna Medicare PPO | PAR |
+| Jenna Getman, OD |  | Aetna Medicare PPO | PAR |
+| Jon Berlie, MD |  | Aetna Medicare PPO | PAR |
+| Julie Carter, MD |  | Aetna Medicare PPO | PAR |
 
 </details>
 

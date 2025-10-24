@@ -8,42 +8,42 @@
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
-| Bradley Middaugh, OD | The Health Plan PPO - PHCS | No Ref/No Auth Required | PAR |
-| Brittany Coyle, OD | The Health Plan PPO - PHCS | No Ref/No Auth Required | PAR |
-| Charles Putrino, OD | The Health Plan PPO - PHCS | No Ref/No Auth Required | PAR |
-| Daniel Hadland, OD | The Health Plan PPO - PHCS | No Ref/No Auth Required | PAR |
-| David Mertzlufft, OD | The Health Plan PPO - PHCS | No Ref/No Auth Required | PAR |
-| David Shoemaker, MD | The Health Plan PPO - PHCS | No Ref/No Auth Required | PAR |
-| Elizabeth Davis, MD | The Health Plan PPO - PHCS | No Ref/No Auth Required | PAR |
-| Erin Hardie, OD | The Health Plan PPO - PHCS | No Ref/No Auth Required | PAR |
-| George Hurwitz, OD | The Health Plan PPO - PHCS | No Ref/No Auth Required | PAR |
-| Gisselle Vega Carraso | The Health Plan PPO - PHCS | No Ref/No Auth Required | PAR |
-| James Lenhart, OD | The Health Plan PPO - PHCS | No Ref/No Auth Required | PAR |
-| Joaquin De Rojas, MD | The Health Plan PPO - PHCS | No Ref/No Auth Required | PAR |
-| John Fezza, MD (Oculoplastics) | The Health Plan PPO - PHCS | No Ref/No Auth Required | PAR |
-| Jordan Shoemaker, PA - Start Date 10/06/2025 | The Health Plan PPO - PHCS | No Ref/No Auth Required | PAR |
-| Joseph Sowka, OD | The Health Plan PPO - PHCS | No Ref/No Auth Required | PAR |
-| Joshua Kim, MD | The Health Plan PPO - PHCS | No Ref/No Auth Required | PAR |
-| Joshua Newman, MD | The Health Plan PPO - PHCS | No Ref/No Auth Required | PAR |
-| Kalie Kosek, PA | The Health Plan PPO - PHCS | No Ref/No Auth Required | PAR |
-| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | The Health Plan PPO - PHCS | No Ref/No Auth Required | PAR |
-| Kyle Schaub, OD | The Health Plan PPO - PHCS | No Ref/No Auth Required | PAR |
-| Len Brown, OD | The Health Plan PPO - PHCS | No Ref/No Auth Required | PAR |
-| Logan Page, OD | The Health Plan PPO - PHCS | No Ref/No Auth Required | PAR |
-| Lori Long, OD | The Health Plan PPO - PHCS | No Ref/No Auth Required | PAR |
-| Lori Vollmer, OD | The Health Plan PPO - PHCS | No Ref/No Auth Required | PAR |
-| Mary Mcvey, OD | The Health Plan PPO - PHCS | No Ref/No Auth Required | PAR |
-| Maureen Traina, PA | The Health Plan PPO - PHCS | No Ref/No Auth Required | PAR |
-| Melissa Hammond, OD | The Health Plan PPO - PHCS | No Ref/No Auth Required | PAR |
-| Michael Maloney, OD | The Health Plan PPO - PHCS | No Ref/No Auth Required | PAR |
-| Patrick Nelson, OD | The Health Plan PPO - PHCS | No Ref/No Auth Required | PAR |
-| Priya Mathews, MD | The Health Plan PPO - PHCS | No Ref/No Auth Required | PAR |
-| Rachael Randolph, OD | The Health Plan PPO - PHCS | No Ref/No Auth Required | PAR |
-| Scott Stevens, OD | The Health Plan PPO - PHCS | No Ref/No Auth Required | PAR |
-| Shannon Bednarz, PA | The Health Plan PPO - PHCS | No Ref/No Auth Required | PAR |
-| Tanuj Banker, MD (RETINA) | The Health Plan PPO - PHCS | No Ref/No Auth Required | PAR |
-| Todd Lang, OD | The Health Plan PPO - PHCS | No Ref/No Auth Required | PAR |
-| Trisha Werner, OD | The Health Plan PPO - PHCS | No Ref/No Auth Required | PAR |
+| Bradley Middaugh, OD |  | The Health Plan PPO - PHCS | PAR |
+| Brittany Coyle, OD |  | The Health Plan PPO - PHCS | PAR |
+| Charles Putrino, OD |  | The Health Plan PPO - PHCS | PAR |
+| Daniel Hadland, OD |  | The Health Plan PPO - PHCS | PAR |
+| David Mertzlufft, OD |  | The Health Plan PPO - PHCS | PAR |
+| David Shoemaker, MD |  | The Health Plan PPO - PHCS | PAR |
+| Elizabeth Davis, MD |  | The Health Plan PPO - PHCS | PAR |
+| Erin Hardie, OD |  | The Health Plan PPO - PHCS | PAR |
+| George Hurwitz, OD |  | The Health Plan PPO - PHCS | PAR |
+| Gisselle Vega Carraso |  | The Health Plan PPO - PHCS | PAR |
+| James Lenhart, OD |  | The Health Plan PPO - PHCS | PAR |
+| Joaquin De Rojas, MD |  | The Health Plan PPO - PHCS | PAR |
+| John Fezza, MD (Oculoplastics) |  | The Health Plan PPO - PHCS | PAR |
+| Jordan Shoemaker, PA - Start Date 10/06/2025 |  | The Health Plan PPO - PHCS | PAR |
+| Joseph Sowka, OD |  | The Health Plan PPO - PHCS | PAR |
+| Joshua Kim, MD |  | The Health Plan PPO - PHCS | PAR |
+| Joshua Newman, MD |  | The Health Plan PPO - PHCS | PAR |
+| Kalie Kosek, PA |  | The Health Plan PPO - PHCS | PAR |
+| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 |  | The Health Plan PPO - PHCS | PAR |
+| Kyle Schaub, OD |  | The Health Plan PPO - PHCS | PAR |
+| Len Brown, OD |  | The Health Plan PPO - PHCS | PAR |
+| Logan Page, OD |  | The Health Plan PPO - PHCS | PAR |
+| Lori Long, OD |  | The Health Plan PPO - PHCS | PAR |
+| Lori Vollmer, OD |  | The Health Plan PPO - PHCS | PAR |
+| Mary Mcvey, OD |  | The Health Plan PPO - PHCS | PAR |
+| Maureen Traina, PA |  | The Health Plan PPO - PHCS | PAR |
+| Melissa Hammond, OD |  | The Health Plan PPO - PHCS | PAR |
+| Michael Maloney, OD |  | The Health Plan PPO - PHCS | PAR |
+| Patrick Nelson, OD |  | The Health Plan PPO - PHCS | PAR |
+| Priya Mathews, MD |  | The Health Plan PPO - PHCS | PAR |
+| Rachael Randolph, OD |  | The Health Plan PPO - PHCS | PAR |
+| Scott Stevens, OD |  | The Health Plan PPO - PHCS | PAR |
+| Shannon Bednarz, PA |  | The Health Plan PPO - PHCS | PAR |
+| Tanuj Banker, MD (RETINA) |  | The Health Plan PPO - PHCS | PAR |
+| Todd Lang, OD |  | The Health Plan PPO - PHCS | PAR |
+| Trisha Werner, OD |  | The Health Plan PPO - PHCS | PAR |
 
 </details>
 

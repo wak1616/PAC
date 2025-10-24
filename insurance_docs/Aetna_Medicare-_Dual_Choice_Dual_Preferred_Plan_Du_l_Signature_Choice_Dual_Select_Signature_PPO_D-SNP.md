@@ -8,8 +8,10 @@
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
-| Alexander Eaton, MD | Primary: Aetna Dual Complete Medicare PPO Primary                                            Secondary: Aetna Dual Complete MCD PPO Secondary | No Ref/No Auth Required | PAR |
-| Veronica Kon Graversen, MD | Primary: Aetna Dual Complete Medicare PPO Primary                                            Secondary: Aetna Dual Complete MCD PPO Secondary | No Ref/No Auth Required | PAR |
+| Alexander Eaton, MD |  | Primary: Aetna Dual Complete Medicare PPO Primary                                            Secondary: Aetna Dual Complete MCD PPO Secondary | PAR |
+| Hussein Wafapoor, MD |  | Primary: Aetna Dual Complete Medicare PPO Primary                                            Secondary: Aetna Dual Complete MCD PPO Secondary | Non-PAR |
+| Referral and/or Auth Required? |  | Primary: Aetna Dual Complete Medicare PPO Primary                                            Secondary: Aetna Dual Complete MCD PPO Secondary | No Ref/No Auth Required |
+| Veronica Kon Graversen, MD |  | Primary: Aetna Dual Complete Medicare PPO Primary                                            Secondary: Aetna Dual Complete MCD PPO Secondary | PAR |
 
 </details>
 

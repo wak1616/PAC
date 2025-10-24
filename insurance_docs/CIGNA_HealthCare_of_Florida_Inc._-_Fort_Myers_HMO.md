@@ -8,17 +8,19 @@
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
-| Alexander Eaton, MD | Cigna Commercial HMO | No Ref/No Auth Required | PAR |
-| Veronica Kon Graversen, MD | Cigna Commercial HMO | No Ref/No Auth Required | PAR |
+| Alexander Eaton, MD |  | Cigna Commercial HMO | PAR |
+| Hussein Wafapoor, MD |  | Cigna Commercial HMO | Non-PAR |
+| Referral and/or Auth Required? |  | Cigna Commercial HMO | No Ref/No Auth Required |
+| Veronica Kon Graversen, MD |  | Cigna Commercial HMO | PAR |
 
 ## SW FL Eye
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
-| Albert Smolyar, MD | Cigna Commercial HMO | No Ref/No Auth Required | PAR |
-| Brian Marhue, OD | Cigna Commercial HMO | No Ref/No Auth Required | PAR |
-| Penny Orr, OD | Cigna Commercial HMO | No Ref/No Auth Required | PAR |
-| Sarah Johnson, OD | Cigna Commercial HMO | No Ref/No Auth Required | PAR |
+| Albert Smolyar, MD |  | Cigna Commercial HMO | PAR |
+| Brian Marhue, OD |  | Cigna Commercial HMO | PAR |
+| Penny Orr, OD |  | Cigna Commercial HMO | PAR |
+| Sarah Johnson, OD |  | Cigna Commercial HMO | PAR |
 
 </details>
 

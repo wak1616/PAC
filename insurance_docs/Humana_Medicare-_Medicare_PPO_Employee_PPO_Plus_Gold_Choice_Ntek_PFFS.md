@@ -8,10 +8,10 @@
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
-| George Brinnig-Jastrzebski, MD | Humana Medicare PPO | No Ref/No Auth Required | Non-PAR -OON Benefits |
-| Jenna Getman, OD | Humana Medicare PPO | No Ref/No Auth Required | Non-PAR -OON Benefits |
-| Jon Berlie, MD | Humana Medicare PPO | No Ref/No Auth Required | Non-PAR -OON Benefits |
-| Julie Carter, MD | Humana Medicare PPO | No Ref/No Auth Required | Non-PAR -OON Benefits |
+| George Brinnig-Jastrzebski, MD |  | Humana Medicare PPO | Non-PAR -OON Benefits |
+| Jenna Getman, OD |  | Humana Medicare PPO | Non-PAR -OON Benefits |
+| Jon Berlie, MD |  | Humana Medicare PPO | Non-PAR -OON Benefits |
+| Julie Carter, MD |  | Humana Medicare PPO | Non-PAR -OON Benefits |
 
 </details>
 

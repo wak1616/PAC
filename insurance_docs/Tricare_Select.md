@@ -8,8 +8,10 @@
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
-| Alexander Eaton, MD | Tricare Select | No Ref/No Auth Required | PAR |
-| Veronica Kon Graversen, MD | Tricare Select | No Ref/No Auth Required | PAR |
+| Alexander Eaton, MD |  | Tricare Select | PAR |
+| Hussein Wafapoor, MD |  | Tricare Select | Non-PAR |
+| Referral and/or Auth Required? |  | Tricare Select | No Ref/No Auth Required |
+| Veronica Kon Graversen, MD |  | Tricare Select | PAR |
 
 </details>
 

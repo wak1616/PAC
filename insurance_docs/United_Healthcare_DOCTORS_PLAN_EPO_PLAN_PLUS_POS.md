@@ -8,8 +8,10 @@
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
-| Alexander Eaton, MD | UHC PPO/POS-87726 | No Ref/No Auth Required | PAR |
-| Veronica Kon Graversen, MD | UHC PPO/POS-87726 | No Ref/No Auth Required | PAR |
+| Alexander Eaton, MD |  | UHC PPO/POS-87726 | PAR |
+| Hussein Wafapoor, MD |  | UHC PPO/POS-87726 | Non-PAR |
+| Referral and/or Auth Required? |  | UHC PPO/POS-87726 | No Ref/No Auth Required |
+| Veronica Kon Graversen, MD |  | UHC PPO/POS-87726 | PAR |
 
 </details>
 

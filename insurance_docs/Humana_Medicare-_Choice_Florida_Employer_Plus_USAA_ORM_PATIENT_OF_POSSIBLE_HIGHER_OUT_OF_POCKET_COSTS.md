@@ -8,15 +8,16 @@
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
-| Alexandria Rawls, OD | Humana Medicare PPO | No Ref/No Auth Required | Non-PAR -OON Benefits |
-| Christine Bui, OD | Humana Medicare PPO | No Ref/No Auth Required | Non-PAR -OON Benefits |
-| Diba Ossareh, OD | Humana Medicare PPO | No Ref/No Auth Required | Non-PAR -OON Benefits |
-| Jose Vazques-Diaz, MD | Humana Medicare PPO | No Ref/No Auth Required | Non-PAR -OON Benefits |
-| Karin Girgis, OD | Humana Medicare PPO | No Ref/No Auth Required | Non-PAR -OON Benefits |
-| Mari Holderby, OD | Humana Medicare PPO | No Ref/No Auth Required | Non-PAR -OON Benefits |
-| Scot Holman, MD | Humana Medicare PPO | No Ref/No Auth Required | Non-PAR -OON Benefits |
-| Scott Wehrly, MD | Humana Medicare PPO | No Ref/No Auth Required | Non-PAR -OON Benefits |
-| Vinay Gutti, MD | Humana Medicare PPO | No Ref/No Auth Required | Non-PAR -OON Benefits |
+| Alexandria Rawls, OD |  | Humana Medicare PPO | Non-PAR -OON Benefits |
+| Christine Bui, OD |  | Humana Medicare PPO | Non-PAR -OON Benefits |
+| Diba Ossareh, OD |  | Humana Medicare PPO | Non-PAR -OON Benefits |
+| Jose Vazques-Diaz, MD |  | Humana Medicare PPO | Non-PAR -OON Benefits |
+| Karin Girgis, OD |  | Humana Medicare PPO | Non-PAR -OON Benefits |
+| Mari Holderby, OD |  | Humana Medicare PPO | Non-PAR -OON Benefits |
+| Referral and/or Auth Required? |  | Humana Medicare PPO | No Ref/No Auth Required |
+| Scot Holman, MD |  | Humana Medicare PPO | Non-PAR -OON Benefits |
+| Scott Wehrly, MD |  | Humana Medicare PPO | Non-PAR -OON Benefits |
+| Vinay Gutti, MD |  | Humana Medicare PPO | Non-PAR -OON Benefits |
 
 </details>
 

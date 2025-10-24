@@ -8,15 +8,16 @@
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
-| Alexandria Rawls, OD | UHP Management PPO | No Ref/No Auth Required | PAR |
-| Christine Bui, OD | UHP Management PPO | No Ref/No Auth Required | PAR |
-| Diba Ossareh, OD | UHP Management PPO | No Ref/No Auth Required | PAR |
-| Jose Vazques-Diaz, MD | UHP Management PPO | No Ref/No Auth Required | PAR |
-| Karin Girgis, OD | UHP Management PPO | No Ref/No Auth Required | PAR |
-| Mari Holderby, OD | UHP Management PPO | No Ref/No Auth Required | PAR |
-| Scot Holman, MD | UHP Management PPO | No Ref/No Auth Required | PAR |
-| Scott Wehrly, MD | UHP Management PPO | No Ref/No Auth Required | PAR |
-| Vinay Gutti, MD | UHP Management PPO | No Ref/No Auth Required | PAR |
+| Alexandria Rawls, OD |  | UHP Management PPO | PAR |
+| Christine Bui, OD |  | UHP Management PPO | PAR |
+| Diba Ossareh, OD |  | UHP Management PPO | PAR |
+| Jose Vazques-Diaz, MD |  | UHP Management PPO | PAR |
+| Karin Girgis, OD |  | UHP Management PPO | PAR |
+| Mari Holderby, OD |  | UHP Management PPO | PAR |
+| Referral and/or Auth Required? |  | UHP Management PPO | No Ref/No Auth Required |
+| Scot Holman, MD |  | UHP Management PPO | PAR |
+| Scott Wehrly, MD |  | UHP Management PPO | PAR |
+| Vinay Gutti, MD |  | UHP Management PPO | PAR |
 
 </details>
 

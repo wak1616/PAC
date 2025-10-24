@@ -8,42 +8,42 @@
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
-| Bradley Middaugh, OD | Aetna Medicare HMO REFERRAL REQ | Referral Required | PAR |
-| Brittany Coyle, OD | Aetna Medicare HMO REFERRAL REQ | Referral Required | PAR |
-| Charles Putrino, OD | Aetna Medicare HMO REFERRAL REQ | Referral Required | PAR |
-| Daniel Hadland, OD | Aetna Medicare HMO REFERRAL REQ | Referral Required | PAR |
-| David Mertzlufft, OD | Aetna Medicare HMO REFERRAL REQ | Referral Required | PAR |
-| David Shoemaker, MD | Aetna Medicare HMO REFERRAL REQ | Referral Required | PAR |
-| Elizabeth Davis, MD | Aetna Medicare HMO REFERRAL REQ | Referral Required | PAR |
-| Erin Hardie, OD | Aetna Medicare HMO REFERRAL REQ | Referral Required | PAR |
-| George Hurwitz, OD | Aetna Medicare HMO REFERRAL REQ | Referral Required | PAR |
-| Gisselle Vega Carraso | Aetna Medicare HMO REFERRAL REQ | Referral Required | PAR |
-| James Lenhart, OD | Aetna Medicare HMO REFERRAL REQ | Referral Required | PAR |
-| Joaquin De Rojas, MD | Aetna Medicare HMO REFERRAL REQ | Referral Required | PAR |
-| John Fezza, MD (Oculoplastics) | Aetna Medicare HMO REFERRAL REQ | Referral Required | PAR |
-| Jordan Shoemaker, PA - Start Date 10/06/2025 | Aetna Medicare HMO REFERRAL REQ | Referral Required | Non-PAR |
-| Joseph Sowka, OD | Aetna Medicare HMO REFERRAL REQ | Referral Required | PAR |
-| Joshua Kim, MD | Aetna Medicare HMO REFERRAL REQ | Referral Required | PAR |
-| Joshua Newman, MD | Aetna Medicare HMO REFERRAL REQ | Referral Required | PAR |
-| Kalie Kosek, PA | Aetna Medicare HMO REFERRAL REQ | Referral Required | PAR |
-| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | Aetna Medicare HMO REFERRAL REQ | Referral Required | PAR |
-| Kyle Schaub, OD | Aetna Medicare HMO REFERRAL REQ | Referral Required | PAR |
-| Len Brown, OD | Aetna Medicare HMO REFERRAL REQ | Referral Required | PAR |
-| Logan Page, OD | Aetna Medicare HMO REFERRAL REQ | Referral Required | PAR |
-| Lori Long, OD | Aetna Medicare HMO REFERRAL REQ | Referral Required | PAR |
-| Lori Vollmer, OD | Aetna Medicare HMO REFERRAL REQ | Referral Required | PAR |
-| Mary Mcvey, OD | Aetna Medicare HMO REFERRAL REQ | Referral Required | PAR |
-| Maureen Traina, PA | Aetna Medicare HMO REFERRAL REQ | Referral Required | PAR |
-| Melissa Hammond, OD | Aetna Medicare HMO REFERRAL REQ | Referral Required | PAR |
-| Michael Maloney, OD | Aetna Medicare HMO REFERRAL REQ | Referral Required | PAR |
-| Patrick Nelson, OD | Aetna Medicare HMO REFERRAL REQ | Referral Required | PAR |
-| Priya Mathews, MD | Aetna Medicare HMO REFERRAL REQ | Referral Required | PAR |
-| Rachael Randolph, OD | Aetna Medicare HMO REFERRAL REQ | Referral Required | PAR |
-| Scott Stevens, OD | Aetna Medicare HMO REFERRAL REQ | Referral Required | PAR |
-| Shannon Bednarz, PA | Aetna Medicare HMO REFERRAL REQ | Referral Required | PAR |
-| Tanuj Banker, MD (RETINA) | Aetna Medicare HMO REFERRAL REQ | Referral Required | Non-PAR |
-| Todd Lang, OD | Aetna Medicare HMO REFERRAL REQ | Referral Required | PAR |
-| Trisha Werner, OD | Aetna Medicare HMO REFERRAL REQ | Referral Required | PAR |
+| Bradley Middaugh, OD |  | Aetna Medicare HMO REFERRAL REQ | PAR |
+| Brittany Coyle, OD |  | Aetna Medicare HMO REFERRAL REQ | PAR |
+| Charles Putrino, OD |  | Aetna Medicare HMO REFERRAL REQ | PAR |
+| Daniel Hadland, OD |  | Aetna Medicare HMO REFERRAL REQ | PAR |
+| David Mertzlufft, OD |  | Aetna Medicare HMO REFERRAL REQ | PAR |
+| David Shoemaker, MD |  | Aetna Medicare HMO REFERRAL REQ | PAR |
+| Elizabeth Davis, MD |  | Aetna Medicare HMO REFERRAL REQ | PAR |
+| Erin Hardie, OD |  | Aetna Medicare HMO REFERRAL REQ | PAR |
+| George Hurwitz, OD |  | Aetna Medicare HMO REFERRAL REQ | PAR |
+| Gisselle Vega Carraso |  | Aetna Medicare HMO REFERRAL REQ | PAR |
+| James Lenhart, OD |  | Aetna Medicare HMO REFERRAL REQ | PAR |
+| Joaquin De Rojas, MD |  | Aetna Medicare HMO REFERRAL REQ | PAR |
+| John Fezza, MD (Oculoplastics) |  | Aetna Medicare HMO REFERRAL REQ | PAR |
+| Jordan Shoemaker, PA - Start Date 10/06/2025 |  | Aetna Medicare HMO REFERRAL REQ | Non-PAR |
+| Joseph Sowka, OD |  | Aetna Medicare HMO REFERRAL REQ | PAR |
+| Joshua Kim, MD |  | Aetna Medicare HMO REFERRAL REQ | PAR |
+| Joshua Newman, MD |  | Aetna Medicare HMO REFERRAL REQ | PAR |
+| Kalie Kosek, PA |  | Aetna Medicare HMO REFERRAL REQ | PAR |
+| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 |  | Aetna Medicare HMO REFERRAL REQ | PAR |
+| Kyle Schaub, OD |  | Aetna Medicare HMO REFERRAL REQ | PAR |
+| Len Brown, OD |  | Aetna Medicare HMO REFERRAL REQ | PAR |
+| Logan Page, OD |  | Aetna Medicare HMO REFERRAL REQ | PAR |
+| Lori Long, OD |  | Aetna Medicare HMO REFERRAL REQ | PAR |
+| Lori Vollmer, OD |  | Aetna Medicare HMO REFERRAL REQ | PAR |
+| Mary Mcvey, OD |  | Aetna Medicare HMO REFERRAL REQ | PAR |
+| Maureen Traina, PA |  | Aetna Medicare HMO REFERRAL REQ | PAR |
+| Melissa Hammond, OD |  | Aetna Medicare HMO REFERRAL REQ | PAR |
+| Michael Maloney, OD |  | Aetna Medicare HMO REFERRAL REQ | PAR |
+| Patrick Nelson, OD |  | Aetna Medicare HMO REFERRAL REQ | PAR |
+| Priya Mathews, MD |  | Aetna Medicare HMO REFERRAL REQ | PAR |
+| Rachael Randolph, OD |  | Aetna Medicare HMO REFERRAL REQ | PAR |
+| Scott Stevens, OD |  | Aetna Medicare HMO REFERRAL REQ | PAR |
+| Shannon Bednarz, PA |  | Aetna Medicare HMO REFERRAL REQ | PAR |
+| Tanuj Banker, MD (RETINA) |  | Aetna Medicare HMO REFERRAL REQ | Non-PAR |
+| Todd Lang, OD |  | Aetna Medicare HMO REFERRAL REQ | PAR |
+| Trisha Werner, OD |  | Aetna Medicare HMO REFERRAL REQ | PAR |
 
 </details>
 

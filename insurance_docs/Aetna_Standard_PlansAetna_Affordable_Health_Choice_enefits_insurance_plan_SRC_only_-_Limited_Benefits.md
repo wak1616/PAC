@@ -8,10 +8,10 @@
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
-| Albert Smolyar, MD | Aetna Comm Fixed Benefits PPO | No Ref/No Auth Required | PAR |
-| Brian Marhue, OD | Aetna Comm Fixed Benefits PPO | No Ref/No Auth Required | PAR |
-| Penny Orr, OD | Aetna Comm Fixed Benefits PPO | No Ref/No Auth Required | PAR |
-| Sarah Johnson, OD | Aetna Comm Fixed Benefits PPO | No Ref/No Auth Required | PAR |
+| Albert Smolyar, MD |  | Aetna Comm Fixed Benefits PPO | PAR |
+| Brian Marhue, OD |  | Aetna Comm Fixed Benefits PPO | PAR |
+| Penny Orr, OD |  | Aetna Comm Fixed Benefits PPO | PAR |
+| Sarah Johnson, OD |  | Aetna Comm Fixed Benefits PPO | PAR |
 
 </details>
 

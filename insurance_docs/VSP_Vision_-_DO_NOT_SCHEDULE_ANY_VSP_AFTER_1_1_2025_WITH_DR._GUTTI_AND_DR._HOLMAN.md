@@ -8,15 +8,16 @@
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
-| Alexandria Rawls, OD | Vision Service Plan | Authorization Required | PAR |
-| Christine Bui, OD | Vision Service Plan | Authorization Required | PAR |
-| Diba Ossareh, OD | Vision Service Plan | Authorization Required | PAR |
-| Jose Vazques-Diaz, MD | Vision Service Plan | Authorization Required | PAR |
-| Karin Girgis, OD | Vision Service Plan | Authorization Required | PAR- Effective 8/20 |
-| Mari Holderby, OD | Vision Service Plan | Authorization Required | PAR |
-| Scot Holman, MD | Vision Service Plan | Authorization Required | Non-PAR |
-| Scott Wehrly, MD | Vision Service Plan | Authorization Required | PAR |
-| Vinay Gutti, MD | Vision Service Plan | Authorization Required | Non-PAR |
+| Alexandria Rawls, OD |  | Vision Service Plan | PAR |
+| Christine Bui, OD |  | Vision Service Plan | PAR |
+| Diba Ossareh, OD |  | Vision Service Plan | PAR |
+| Jose Vazques-Diaz, MD |  | Vision Service Plan | PAR |
+| Karin Girgis, OD |  | Vision Service Plan | PAR- Effective 8/20 |
+| Mari Holderby, OD |  | Vision Service Plan | PAR |
+| Referral and/or Auth Required? |  | Vision Service Plan | Authorization Required |
+| Scot Holman, MD |  | Vision Service Plan | Non-PAR |
+| Scott Wehrly, MD |  | Vision Service Plan | PAR |
+| Vinay Gutti, MD |  | Vision Service Plan | Non-PAR |
 
 </details>
 

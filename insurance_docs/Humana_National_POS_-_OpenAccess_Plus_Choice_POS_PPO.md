@@ -8,8 +8,10 @@
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
-| Alexander Eaton, MD | Humana Commercial PPO | No Ref/No Auth Required | Non-PAR |
-| Veronica Kon Graversen, MD | Humana Commercial PPO | No Ref/No Auth Required | Non-PAR |
+| Alexander Eaton, MD |  | Humana Commercial PPO | Non-PAR |
+| Hussein Wafapoor, MD |  | Humana Commercial PPO | Non-PAR |
+| Referral and/or Auth Required? |  | Humana Commercial PPO | No Ref/No Auth Required |
+| Veronica Kon Graversen, MD |  | Humana Commercial PPO | Non-PAR |
 
 </details>
 

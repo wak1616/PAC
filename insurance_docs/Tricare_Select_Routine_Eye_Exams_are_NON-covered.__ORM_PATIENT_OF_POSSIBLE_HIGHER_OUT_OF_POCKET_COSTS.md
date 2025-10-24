@@ -8,24 +8,25 @@
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
-| Alexandria Rawls, OD | Tricare Select | No Ref/No Auth Required | Non-PAR -OON Benefits |
-| Christine Bui, OD | Tricare Select | No Ref/No Auth Required | PAR |
-| Diba Ossareh, OD | Tricare Select | No Ref/No Auth Required | Non-PAR -OON Benefits |
-| Jose Vazques-Diaz, MD | Tricare Select | No Ref/No Auth Required | PAR |
-| Karin Girgis, OD | Tricare Select | No Ref/No Auth Required | Non-PAR -OON Benefits |
-| Mari Holderby, OD | Tricare Select | No Ref/No Auth Required | Non-PAR -OON Benefits |
-| Scot Holman, MD | Tricare Select | No Ref/No Auth Required | PAR |
-| Scott Wehrly, MD | Tricare Select | No Ref/No Auth Required | PAR |
-| Vinay Gutti, MD | Tricare Select | No Ref/No Auth Required | PAR |
+| Alexandria Rawls, OD |  | Tricare Select | Non-PAR -OON Benefits |
+| Christine Bui, OD |  | Tricare Select | PAR |
+| Diba Ossareh, OD |  | Tricare Select | Non-PAR -OON Benefits |
+| Jose Vazques-Diaz, MD |  | Tricare Select | PAR |
+| Karin Girgis, OD |  | Tricare Select | Non-PAR -OON Benefits |
+| Mari Holderby, OD |  | Tricare Select | Non-PAR -OON Benefits |
+| Referral and/or Auth Required? |  | Tricare Select | No Ref/No Auth Required |
+| Scot Holman, MD |  | Tricare Select | PAR |
+| Scott Wehrly, MD |  | Tricare Select | PAR |
+| Vinay Gutti, MD |  | Tricare Select | PAR |
 
 ## SW FL Eye
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
-| Albert Smolyar, MD | Tricare Select | No Ref/No Auth Required | PAR |
-| Brian Marhue, OD | Tricare Select | No Ref/No Auth Required | Non-PAR -OON Benefits |
-| Penny Orr, OD | Tricare Select | No Ref/No Auth Required | Non-PAR -OON Benefits |
-| Sarah Johnson, OD | Tricare Select | No Ref/No Auth Required | Non-PAR -OON Benefits |
+| Albert Smolyar, MD |  | Tricare Select | PAR |
+| Brian Marhue, OD |  | Tricare Select | Non-PAR -OON Benefits |
+| Penny Orr, OD |  | Tricare Select | Non-PAR -OON Benefits |
+| Sarah Johnson, OD |  | Tricare Select | Non-PAR -OON Benefits |
 
 </details>
 

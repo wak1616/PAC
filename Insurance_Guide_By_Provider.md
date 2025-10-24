@@ -1,6 +1,6 @@
 # Insurance Guide By Provider
 
-*Last Updated: 10/23/2025 (based on data from Excel file: [US Eye Insurance Guide.xlsx](https://useyecorp.sharepoint.com/:x:/r/RCM/Shared%20Documents/Insurance%20Guides/US%20Eye%20Insurance%20Guide.xlsx?d=w2a2138d41fa04bfa919fc4966998346a&csf=1&web=1&e=73a3Gf&nav=MTVfezIwMjg5MTIyLTdDRkEtNEE0OS1CODBGLTdFNTc3Njc3OTJDNX0))*
+*Last Updated: 10/24/2025 (based on data from Excel file: [US Eye Insurance Guide.xlsx](https://useyecorp.sharepoint.com/:x:/r/RCM/Shared%20Documents/Insurance%20Guides/US%20Eye%20Insurance%20Guide.xlsx?d=w2a2138d41fa04bfa919fc4966998346a&csf=1&web=1&e=73a3Gf&nav=MTVfezIwMjg5MTIyLTdDRkEtNEE0OS1CODBGLTdFNTc3Njc3OTJDNX0))*
 
 *This guide lists insurance participation by doctor. Click a doctor's name to view all insurance info for that doctor, grouped by location/CSV.*
 
@@ -21,6 +21,7 @@
 * [George Brinnig-Jastrzebski, MD (Center for Sight-Naples)](insurance_docs/George_Brinnig-Jastrzebski_MD.md)
 * [George Hurwitz, OD (Center for Sight)](insurance_docs/George_Hurwitz_OD.md)
 * [Gisselle Vega Carraso (Center for Sight)](insurance_docs/Gisselle_Vega_Carraso.md)
+* [Hussein Wafapoor, MD (Retina Health Center)](insurance_docs/Hussein_Wafapoor_MD.md)
 * [James Lenhart, OD (Center for Sight)](insurance_docs/James_Lenhart_OD.md)
 * [Jenna Getman, OD (Center for Sight-Naples)](insurance_docs/Jenna_Getman_OD.md)
 * [Joaquin De Rojas, MD (Center for Sight)](insurance_docs/Joaquin_De_Rojas_MD.md)
@@ -49,6 +50,7 @@
 * [Penny Orr, OD (SW FL Eye)](insurance_docs/Penny_Orr_OD.md)
 * [Priya Mathews, MD (Center for Sight)](insurance_docs/Priya_Mathews_MD.md)
 * [Rachael Randolph, OD (Center for Sight)](insurance_docs/Rachael_Randolph_OD.md)
+* [Referral and/or Auth Required? (Lake Eye , Retina Health Center)](insurance_docs/Referral_and_or_Auth_Required.md)
 * [Sarah Johnson, OD (SW FL Eye)](insurance_docs/Sarah_Johnson_OD.md)
 * [Scot Holman, MD (Lake Eye )](insurance_docs/Scot_Holman_MD.md)
 * [Scott Stevens, OD (Center for Sight)](insurance_docs/Scott_Stevens_OD.md)
@@ -57,7 +59,7 @@
 * [Tanuj Banker, MD (RETINA) (Center for Sight)](insurance_docs/Tanuj_Banker_MD_RETINA.md)
 * [Todd Lang, OD (Center for Sight)](insurance_docs/Todd_Lang_OD.md)
 * [Trisha Werner, OD (Center for Sight)](insurance_docs/Trisha_Werner_OD.md)
-* [Unnamed: 8 (Center for Sight-Naples)](insurance_docs/Unnamed_8.md)
+* [Unnamed: 9 (Center for Sight-Naples)](insurance_docs/Unnamed_9.md)
 * [Veronica Kon Graversen, MD (Retina Health Center)](insurance_docs/Veronica_Kon_Graversen_MD.md)
 * [Vinay Gutti, MD (Lake Eye )](insurance_docs/Vinay_Gutti_MD.md)
 

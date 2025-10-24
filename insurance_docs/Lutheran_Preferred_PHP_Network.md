@@ -8,81 +8,84 @@
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
-| Bradley Middaugh, OD | Lutheran Preferred - PHP | No Ref/No Auth Required | Non-PAR -OON Benefits |
-| Brittany Coyle, OD | Lutheran Preferred - PHP | No Ref/No Auth Required | Non-PAR -OON Benefits |
-| Charles Putrino, OD | Lutheran Preferred - PHP | No Ref/No Auth Required | Non-PAR -OON Benefits |
-| Daniel Hadland, OD | Lutheran Preferred - PHP | No Ref/No Auth Required | Non-PAR -OON Benefits |
-| David Mertzlufft, OD | Lutheran Preferred - PHP | No Ref/No Auth Required | Non-PAR -OON Benefits |
-| David Shoemaker, MD | Lutheran Preferred - PHP | No Ref/No Auth Required | Non-PAR -OON Benefits |
-| Elizabeth Davis, MD | Lutheran Preferred - PHP | No Ref/No Auth Required | Non-PAR -OON Benefits |
-| Erin Hardie, OD | Lutheran Preferred - PHP | No Ref/No Auth Required | Non-PAR -OON Benefits |
-| George Hurwitz, OD | Lutheran Preferred - PHP | No Ref/No Auth Required | Non-PAR -OON Benefits |
-| Gisselle Vega Carraso | Lutheran Preferred - PHP | No Ref/No Auth Required | Non-PAR -OON Benefits |
-| James Lenhart, OD | Lutheran Preferred - PHP | No Ref/No Auth Required | Non-PAR -OON Benefits |
-| Joaquin De Rojas, MD | Lutheran Preferred - PHP | No Ref/No Auth Required | Non-PAR -OON Benefits |
-| John Fezza, MD (Oculoplastics) | Lutheran Preferred - PHP | No Ref/No Auth Required | Non-PAR -OON Benefits |
-| Jordan Shoemaker, PA - Start Date 10/06/2025 | Lutheran Preferred - PHP | No Ref/No Auth Required | Non-PAR -OON Benefits |
-| Joseph Sowka, OD | Lutheran Preferred - PHP | No Ref/No Auth Required | Non-PAR -OON Benefits |
-| Joshua Kim, MD | Lutheran Preferred - PHP | No Ref/No Auth Required | Non-PAR -OON Benefits |
-| Joshua Newman, MD | Lutheran Preferred - PHP | No Ref/No Auth Required | Non-PAR -OON Benefits |
-| Kalie Kosek, PA | Lutheran Preferred - PHP | No Ref/No Auth Required | Non-PAR -OON Benefits |
-| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 | Lutheran Preferred - PHP | No Ref/No Auth Required | Non-PAR -OON Benefits |
-| Kyle Schaub, OD | Lutheran Preferred - PHP | No Ref/No Auth Required | Non-PAR -OON Benefits |
-| Len Brown, OD | Lutheran Preferred - PHP | No Ref/No Auth Required | Non-PAR -OON Benefits |
-| Logan Page, OD | Lutheran Preferred - PHP | No Ref/No Auth Required | Non-PAR -OON Benefits |
-| Lori Long, OD | Lutheran Preferred - PHP | No Ref/No Auth Required | Non-PAR -OON Benefits |
-| Lori Vollmer, OD | Lutheran Preferred - PHP | No Ref/No Auth Required | Non-PAR -OON Benefits |
-| Mary Mcvey, OD | Lutheran Preferred - PHP | No Ref/No Auth Required | Non-PAR -OON Benefits |
-| Maureen Traina, PA | Lutheran Preferred - PHP | No Ref/No Auth Required | Non-PAR -OON Benefits |
-| Melissa Hammond, OD | Lutheran Preferred - PHP | No Ref/No Auth Required | Non-PAR -OON Benefits |
-| Michael Maloney, OD | Lutheran Preferred - PHP | No Ref/No Auth Required | Non-PAR -OON Benefits |
-| Patrick Nelson, OD | Lutheran Preferred - PHP | No Ref/No Auth Required | Non-PAR -OON Benefits |
-| Priya Mathews, MD | Lutheran Preferred - PHP | No Ref/No Auth Required | Non-PAR -OON Benefits |
-| Rachael Randolph, OD | Lutheran Preferred - PHP | No Ref/No Auth Required | Non-PAR -OON Benefits |
-| Scott Stevens, OD | Lutheran Preferred - PHP | No Ref/No Auth Required | Non-PAR -OON Benefits |
-| Shannon Bednarz, PA | Lutheran Preferred - PHP | No Ref/No Auth Required | Non-PAR -OON Benefits |
-| Tanuj Banker, MD (RETINA) | Lutheran Preferred - PHP | No Ref/No Auth Required | Non-PAR -OON Benefits |
-| Todd Lang, OD | Lutheran Preferred - PHP | No Ref/No Auth Required | Non-PAR -OON Benefits |
-| Trisha Werner, OD | Lutheran Preferred - PHP | No Ref/No Auth Required | Non-PAR -OON Benefits |
+| Bradley Middaugh, OD |  | Lutheran Preferred - PHP | Non-PAR -OON Benefits |
+| Brittany Coyle, OD |  | Lutheran Preferred - PHP | Non-PAR -OON Benefits |
+| Charles Putrino, OD |  | Lutheran Preferred - PHP | Non-PAR -OON Benefits |
+| Daniel Hadland, OD |  | Lutheran Preferred - PHP | Non-PAR -OON Benefits |
+| David Mertzlufft, OD |  | Lutheran Preferred - PHP | Non-PAR -OON Benefits |
+| David Shoemaker, MD |  | Lutheran Preferred - PHP | Non-PAR -OON Benefits |
+| Elizabeth Davis, MD |  | Lutheran Preferred - PHP | Non-PAR -OON Benefits |
+| Erin Hardie, OD |  | Lutheran Preferred - PHP | Non-PAR -OON Benefits |
+| George Hurwitz, OD |  | Lutheran Preferred - PHP | Non-PAR -OON Benefits |
+| Gisselle Vega Carraso |  | Lutheran Preferred - PHP | Non-PAR -OON Benefits |
+| James Lenhart, OD |  | Lutheran Preferred - PHP | Non-PAR -OON Benefits |
+| Joaquin De Rojas, MD |  | Lutheran Preferred - PHP | Non-PAR -OON Benefits |
+| John Fezza, MD (Oculoplastics) |  | Lutheran Preferred - PHP | Non-PAR -OON Benefits |
+| Jordan Shoemaker, PA - Start Date 10/06/2025 |  | Lutheran Preferred - PHP | Non-PAR -OON Benefits |
+| Joseph Sowka, OD |  | Lutheran Preferred - PHP | Non-PAR -OON Benefits |
+| Joshua Kim, MD |  | Lutheran Preferred - PHP | Non-PAR -OON Benefits |
+| Joshua Newman, MD |  | Lutheran Preferred - PHP | Non-PAR -OON Benefits |
+| Kalie Kosek, PA |  | Lutheran Preferred - PHP | Non-PAR -OON Benefits |
+| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 |  | Lutheran Preferred - PHP | Non-PAR -OON Benefits |
+| Kyle Schaub, OD |  | Lutheran Preferred - PHP | Non-PAR -OON Benefits |
+| Len Brown, OD |  | Lutheran Preferred - PHP | Non-PAR -OON Benefits |
+| Logan Page, OD |  | Lutheran Preferred - PHP | Non-PAR -OON Benefits |
+| Lori Long, OD |  | Lutheran Preferred - PHP | Non-PAR -OON Benefits |
+| Lori Vollmer, OD |  | Lutheran Preferred - PHP | Non-PAR -OON Benefits |
+| Mary Mcvey, OD |  | Lutheran Preferred - PHP | Non-PAR -OON Benefits |
+| Maureen Traina, PA |  | Lutheran Preferred - PHP | Non-PAR -OON Benefits |
+| Melissa Hammond, OD |  | Lutheran Preferred - PHP | Non-PAR -OON Benefits |
+| Michael Maloney, OD |  | Lutheran Preferred - PHP | Non-PAR -OON Benefits |
+| Patrick Nelson, OD |  | Lutheran Preferred - PHP | Non-PAR -OON Benefits |
+| Priya Mathews, MD |  | Lutheran Preferred - PHP | Non-PAR -OON Benefits |
+| Rachael Randolph, OD |  | Lutheran Preferred - PHP | Non-PAR -OON Benefits |
+| Scott Stevens, OD |  | Lutheran Preferred - PHP | Non-PAR -OON Benefits |
+| Shannon Bednarz, PA |  | Lutheran Preferred - PHP | Non-PAR -OON Benefits |
+| Tanuj Banker, MD (RETINA) |  | Lutheran Preferred - PHP | Non-PAR -OON Benefits |
+| Todd Lang, OD |  | Lutheran Preferred - PHP | Non-PAR -OON Benefits |
+| Trisha Werner, OD |  | Lutheran Preferred - PHP | Non-PAR -OON Benefits |
 
 ## Center for Sight-Naples
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
-| George Brinnig-Jastrzebski, MD | Lutheran Preferred - PHP | No Ref/No Auth Required | Non-PAR -OON Benefits |
-| Jenna Getman, OD | Lutheran Preferred - PHP | No Ref/No Auth Required | Non-PAR -OON Benefits |
-| Jon Berlie, MD | Lutheran Preferred - PHP | No Ref/No Auth Required | Non-PAR -OON Benefits |
-| Julie Carter, MD | Lutheran Preferred - PHP | No Ref/No Auth Required | Non-PAR -OON Benefits |
+| George Brinnig-Jastrzebski, MD |  | Lutheran Preferred - PHP | Non-PAR -OON Benefits |
+| Jenna Getman, OD |  | Lutheran Preferred - PHP | Non-PAR -OON Benefits |
+| Jon Berlie, MD |  | Lutheran Preferred - PHP | Non-PAR -OON Benefits |
+| Julie Carter, MD |  | Lutheran Preferred - PHP | Non-PAR -OON Benefits |
 
 ## Lake Eye 
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
-| Alexandria Rawls, OD | Lutheran Preferred - PHP | No Ref/No Auth Required | Non-PAR -OON Benefits |
-| Christine Bui, OD | Lutheran Preferred - PHP | No Ref/No Auth Required | Non-PAR -OON Benefits |
-| Diba Ossareh, OD | Lutheran Preferred - PHP | No Ref/No Auth Required | Non-PAR -OON Benefits |
-| Jose Vazques-Diaz, MD | Lutheran Preferred - PHP | No Ref/No Auth Required | Non-PAR -OON Benefits |
-| Karin Girgis, OD | Lutheran Preferred - PHP | No Ref/No Auth Required | Non-PAR -OON Benefits |
-| Mari Holderby, OD | Lutheran Preferred - PHP | No Ref/No Auth Required | Non-PAR -OON Benefits |
-| Scot Holman, MD | Lutheran Preferred - PHP | No Ref/No Auth Required | Non-PAR -OON Benefits |
-| Scott Wehrly, MD | Lutheran Preferred - PHP | No Ref/No Auth Required | Non-PAR -OON Benefits |
-| Vinay Gutti, MD | Lutheran Preferred - PHP | No Ref/No Auth Required | Non-PAR -OON Benefits |
+| Alexandria Rawls, OD |  | Lutheran Preferred - PHP | Non-PAR -OON Benefits |
+| Christine Bui, OD |  | Lutheran Preferred - PHP | Non-PAR -OON Benefits |
+| Diba Ossareh, OD |  | Lutheran Preferred - PHP | Non-PAR -OON Benefits |
+| Jose Vazques-Diaz, MD |  | Lutheran Preferred - PHP | Non-PAR -OON Benefits |
+| Karin Girgis, OD |  | Lutheran Preferred - PHP | Non-PAR -OON Benefits |
+| Mari Holderby, OD |  | Lutheran Preferred - PHP | Non-PAR -OON Benefits |
+| Referral and/or Auth Required? |  | Lutheran Preferred - PHP | No Ref/No Auth Required |
+| Scot Holman, MD |  | Lutheran Preferred - PHP | Non-PAR -OON Benefits |
+| Scott Wehrly, MD |  | Lutheran Preferred - PHP | Non-PAR -OON Benefits |
+| Vinay Gutti, MD |  | Lutheran Preferred - PHP | Non-PAR -OON Benefits |
 
 ## Retina Health Center
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
-| Alexander Eaton, MD | Lutheran Preferred - PHP | No Ref/No Auth Required | Non-PAR -OON Benefits |
-| Veronica Kon Graversen, MD | Lutheran Preferred - PHP | No Ref/No Auth Required | Non-PAR -OON Benefits |
+| Alexander Eaton, MD |  | Lutheran Preferred - PHP | Non-PAR -OON Benefits |
+| Hussein Wafapoor, MD |  | Lutheran Preferred - PHP | Non-PAR |
+| Referral and/or Auth Required? |  | Lutheran Preferred - PHP | No Ref/No Auth Required |
+| Veronica Kon Graversen, MD |  | Lutheran Preferred - PHP | Non-PAR -OON Benefits |
 
 ## SW FL Eye
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
-| Albert Smolyar, MD | Lutheran Preferred - PHP | No Ref/No Auth Required | Non-PAR -OON Benefits |
-| Brian Marhue, OD | Lutheran Preferred - PHP | No Ref/No Auth Required | Non-PAR -OON Benefits |
-| Penny Orr, OD | Lutheran Preferred - PHP | No Ref/No Auth Required | Non-PAR -OON Benefits |
-| Sarah Johnson, OD | Lutheran Preferred - PHP | No Ref/No Auth Required | Non-PAR -OON Benefits |
+| Albert Smolyar, MD |  | Lutheran Preferred - PHP | Non-PAR -OON Benefits |
+| Brian Marhue, OD |  | Lutheran Preferred - PHP | Non-PAR -OON Benefits |
+| Penny Orr, OD |  | Lutheran Preferred - PHP | Non-PAR -OON Benefits |
+| Sarah Johnson, OD |  | Lutheran Preferred - PHP | Non-PAR -OON Benefits |
 
 </details>
 

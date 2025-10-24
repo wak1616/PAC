@@ -8,10 +8,10 @@
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
-| George Brinnig-Jastrzebski, MD | UHC PPO/POS-87726 | No Ref/No Auth Required | PAR |
-| Jenna Getman, OD | UHC PPO/POS-87726 | No Ref/No Auth Required | PAR |
-| Jon Berlie, MD | UHC PPO/POS-87726 | No Ref/No Auth Required | PAR |
-| Julie Carter, MD | UHC PPO/POS-87726 | No Ref/No Auth Required | PAR |
+| George Brinnig-Jastrzebski, MD |  | UHC PPO/POS-87726 | PAR |
+| Jenna Getman, OD |  | UHC PPO/POS-87726 | PAR |
+| Jon Berlie, MD |  | UHC PPO/POS-87726 | PAR |
+| Julie Carter, MD |  | UHC PPO/POS-87726 | PAR |
 
 </details>
 

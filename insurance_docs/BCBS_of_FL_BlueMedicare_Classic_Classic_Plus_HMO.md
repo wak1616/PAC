@@ -8,19 +8,19 @@
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
-| George Brinnig-Jastrzebski, MD | BCBS FL Medicare HMO REFERRAL REQ | Referral Required | PAR |
-| Jenna Getman, OD | BCBS FL Medicare HMO REFERRAL REQ | Referral Required | PAR |
-| Jon Berlie, MD | BCBS FL Medicare HMO REFERRAL REQ | Referral Required | PAR |
-| Julie Carter, MD | BCBS FL Medicare HMO REFERRAL REQ | Referral Required | PAR |
+| George Brinnig-Jastrzebski, MD |  | BCBS FL Medicare HMO REFERRAL REQ | PAR |
+| Jenna Getman, OD |  | BCBS FL Medicare HMO REFERRAL REQ | PAR |
+| Jon Berlie, MD |  | BCBS FL Medicare HMO REFERRAL REQ | PAR |
+| Julie Carter, MD |  | BCBS FL Medicare HMO REFERRAL REQ | PAR |
 
 ## SW FL Eye
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
-| Albert Smolyar, MD | BCBS FL Medicare HMO REFERRAL REQ | Referral Required | PAR |
-| Brian Marhue, OD | BCBS FL Medicare HMO REFERRAL REQ | Referral Required | PAR |
-| Penny Orr, OD | BCBS FL Medicare HMO REFERRAL REQ | Referral Required | PAR |
-| Sarah Johnson, OD | BCBS FL Medicare HMO REFERRAL REQ | Referral Required | PAR |
+| Albert Smolyar, MD |  | BCBS FL Medicare HMO REFERRAL REQ | PAR |
+| Brian Marhue, OD |  | BCBS FL Medicare HMO REFERRAL REQ | PAR |
+| Penny Orr, OD |  | BCBS FL Medicare HMO REFERRAL REQ | PAR |
+| Sarah Johnson, OD |  | BCBS FL Medicare HMO REFERRAL REQ | PAR |
 
 </details>
 

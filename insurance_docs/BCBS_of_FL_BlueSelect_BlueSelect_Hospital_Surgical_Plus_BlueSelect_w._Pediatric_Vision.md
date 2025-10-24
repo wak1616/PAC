@@ -8,10 +8,10 @@
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
-| George Brinnig-Jastrzebski, MD | BCBS FL Commercial PPO | No Ref/No Auth Required | PAR |
-| Jenna Getman, OD | BCBS FL Commercial PPO | No Ref/No Auth Required | PAR |
-| Jon Berlie, MD | BCBS FL Commercial PPO | No Ref/No Auth Required | PAR |
-| Julie Carter, MD | BCBS FL Commercial PPO | No Ref/No Auth Required | PAR |
+| George Brinnig-Jastrzebski, MD |  | BCBS FL Commercial PPO | PAR |
+| Jenna Getman, OD |  | BCBS FL Commercial PPO | PAR |
+| Jon Berlie, MD |  | BCBS FL Commercial PPO | PAR |
+| Julie Carter, MD |  | BCBS FL Commercial PPO | PAR |
 
 </details>
 

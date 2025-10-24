@@ -8,15 +8,15 @@
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
-| Alexandria Rawls, OD | Self Pay Non-Par with Ins (Holderby and Ossareh are PAR |  | Non-PAR |
-| Christine Bui, OD | Self Pay Non-Par with Ins (Holderby and Ossareh are PAR |  | Non-PAR |
-| Diba Ossareh, OD | Self Pay Non-Par with Ins (Holderby and Ossareh are PAR |  | PAR |
-| Jose Vazques-Diaz, MD | Self Pay Non-Par with Ins (Holderby and Ossareh are PAR |  | Non-PAR |
-| Karin Girgis, OD | Self Pay Non-Par with Ins (Holderby and Ossareh are PAR |  | Non-PAR |
-| Mari Holderby, OD | Self Pay Non-Par with Ins (Holderby and Ossareh are PAR |  | PAR |
-| Scot Holman, MD | Self Pay Non-Par with Ins (Holderby and Ossareh are PAR |  | Non-PAR |
-| Scott Wehrly, MD | Self Pay Non-Par with Ins (Holderby and Ossareh are PAR |  | Non-PAR |
-| Vinay Gutti, MD | Self Pay Non-Par with Ins (Holderby and Ossareh are PAR |  | Non-PAR |
+| Alexandria Rawls, OD |  | Self Pay Non-Par with Ins (Holderby and Ossareh are PAR | Non-PAR |
+| Christine Bui, OD |  | Self Pay Non-Par with Ins (Holderby and Ossareh are PAR | Non-PAR |
+| Diba Ossareh, OD |  | Self Pay Non-Par with Ins (Holderby and Ossareh are PAR | PAR |
+| Jose Vazques-Diaz, MD |  | Self Pay Non-Par with Ins (Holderby and Ossareh are PAR | Non-PAR |
+| Karin Girgis, OD |  | Self Pay Non-Par with Ins (Holderby and Ossareh are PAR | Non-PAR |
+| Mari Holderby, OD |  | Self Pay Non-Par with Ins (Holderby and Ossareh are PAR | PAR |
+| Scot Holman, MD |  | Self Pay Non-Par with Ins (Holderby and Ossareh are PAR | Non-PAR |
+| Scott Wehrly, MD |  | Self Pay Non-Par with Ins (Holderby and Ossareh are PAR | Non-PAR |
+| Vinay Gutti, MD |  | Self Pay Non-Par with Ins (Holderby and Ossareh are PAR | Non-PAR |
 
 </details>
 

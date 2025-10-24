@@ -8,10 +8,10 @@
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
-| Albert Smolyar, MD | Tricare Prime - REFERRAL REQ | Referral Required | PAR |
-| Brian Marhue, OD | Tricare Prime - REFERRAL REQ | Referral Required | Non-PAR -OON Benefits |
-| Penny Orr, OD | Tricare Prime - REFERRAL REQ | Referral Required | Non-PAR -OON Benefits |
-| Sarah Johnson, OD | Tricare Prime - REFERRAL REQ | Referral Required | Non-PAR -OON Benefits |
+| Albert Smolyar, MD |  | Tricare Prime - REFERRAL REQ | PAR |
+| Brian Marhue, OD |  | Tricare Prime - REFERRAL REQ | Non-PAR -OON Benefits |
+| Penny Orr, OD |  | Tricare Prime - REFERRAL REQ | Non-PAR -OON Benefits |
+| Sarah Johnson, OD |  | Tricare Prime - REFERRAL REQ | Non-PAR -OON Benefits |
 
 </details>
 
