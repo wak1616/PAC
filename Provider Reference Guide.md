@@ -311,11 +311,11 @@
 * Specialties: Primary Eye Care
 * Patient Care Team: CFS Mid
 * Office Locations: Venice, Englewood, Jacaranda
-* NPI: Currently unknown
+* NPI: 1023801479
 
 ### Khrystyna Ostrozhynska, OD
 
-* Patient Types: Adult (18 & Over)
+* Patient Types: Teen (7-17 Years), Adult (18 & Over)
 * Specialties: Primary Eye Care
 * Patient Care Team: CFS Mid
 * Office Locations: Englewood
