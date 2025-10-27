@@ -114,6 +114,13 @@
 * **Office Locations**: North Port, Venice
 * **NPI**: 1144887357
 
+### Hussein Wafapoor, MD
+
+* Patient Types: Adult (18 & Over)
+* Specialties: Retina
+* Patient Care Team: RHC
+* Office Locations: Naples
+
 ### Joshua Kim, MD
 
 * **Patient Types**: Adult (18 & Over)
