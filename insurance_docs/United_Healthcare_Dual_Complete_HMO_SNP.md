@@ -21,12 +21,12 @@
 | James Lenhart, OD |  | Primary: UHC Dual Complete HMO-87726                                                                 Secondary: Medicaid Secondary | PAR |
 | Joaquin De Rojas, MD |  | Primary: UHC Dual Complete HMO-87726                                                                 Secondary: Medicaid Secondary | PAR |
 | John Fezza, MD (Oculoplastics) |  | Primary: UHC Dual Complete HMO-87726                                                                 Secondary: Medicaid Secondary | PAR |
-| Jordan Shoemaker, PA - Start Date 10/06/2025 |  | Primary: UHC Dual Complete HMO-87726                                                                 Secondary: Medicaid Secondary | PAR |
+| Jordan Shoemaker, PA |  | Primary: UHC Dual Complete HMO-87726                                                                 Secondary: Medicaid Secondary | PAR |
 | Joseph Sowka, OD |  | Primary: UHC Dual Complete HMO-87726                                                                 Secondary: Medicaid Secondary | PAR |
 | Joshua Kim, MD |  | Primary: UHC Dual Complete HMO-87726                                                                 Secondary: Medicaid Secondary | PAR |
 | Joshua Newman, MD |  | Primary: UHC Dual Complete HMO-87726                                                                 Secondary: Medicaid Secondary | PAR |
 | Kalie Kosek, PA |  | Primary: UHC Dual Complete HMO-87726                                                                 Secondary: Medicaid Secondary | PAR |
-| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 |  | Primary: UHC Dual Complete HMO-87726                                                                 Secondary: Medicaid Secondary | PAR |
+| Khrystyna Ostrozhynska, OD |  | Primary: UHC Dual Complete HMO-87726                                                                 Secondary: Medicaid Secondary | PAR |
 | Kyle Schaub, OD |  | Primary: UHC Dual Complete HMO-87726                                                                 Secondary: Medicaid Secondary | PAR |
 | Len Brown, OD |  | Primary: UHC Dual Complete HMO-87726                                                                 Secondary: Medicaid Secondary | PAR |
 | Logan Page, OD |  | Primary: UHC Dual Complete HMO-87726                                                                 Secondary: Medicaid Secondary | PAR |

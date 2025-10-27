@@ -21,12 +21,12 @@
 | James Lenhart, OD |  | Aetna Medicare PPO | PAR |
 | Joaquin De Rojas, MD |  | Aetna Medicare PPO | PAR |
 | John Fezza, MD (Oculoplastics) |  | Aetna Medicare PPO | PAR |
-| Jordan Shoemaker, PA - Start Date 10/06/2025 |  | Aetna Medicare PPO | Non-PAR |
+| Jordan Shoemaker, PA |  | Aetna Medicare PPO | Non-PAR |
 | Joseph Sowka, OD |  | Aetna Medicare PPO | PAR |
 | Joshua Kim, MD |  | Aetna Medicare PPO | PAR |
 | Joshua Newman, MD |  | Aetna Medicare PPO | PAR |
 | Kalie Kosek, PA |  | Aetna Medicare PPO | PAR |
-| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 |  | Aetna Medicare PPO | PAR |
+| Khrystyna Ostrozhynska, OD |  | Aetna Medicare PPO | PAR |
 | Kyle Schaub, OD |  | Aetna Medicare PPO | PAR |
 | Len Brown, OD |  | Aetna Medicare PPO | PAR |
 | Logan Page, OD |  | Aetna Medicare PPO | PAR |

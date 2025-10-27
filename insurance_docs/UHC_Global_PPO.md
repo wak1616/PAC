@@ -21,12 +21,12 @@
 | James Lenhart, OD |  | UHC Global  USN01 | PAR |
 | Joaquin De Rojas, MD |  | UHC Global  USN01 | PAR |
 | John Fezza, MD (Oculoplastics) |  | UHC Global  USN01 | PAR |
-| Jordan Shoemaker, PA - Start Date 10/06/2025 |  | UHC Global  USN01 | PAR |
+| Jordan Shoemaker, PA |  | UHC Global  USN01 | PAR |
 | Joseph Sowka, OD |  | UHC Global  USN01 | PAR |
 | Joshua Kim, MD |  | UHC Global  USN01 | PAR |
 | Joshua Newman, MD |  | UHC Global  USN01 | PAR |
 | Kalie Kosek, PA |  | UHC Global  USN01 | PAR |
-| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 |  | UHC Global  USN01 | PAR |
+| Khrystyna Ostrozhynska, OD |  | UHC Global  USN01 | PAR |
 | Kyle Schaub, OD |  | UHC Global  USN01 | PAR |
 | Len Brown, OD |  | UHC Global  USN01 | PAR |
 | Logan Page, OD |  | UHC Global  USN01 | PAR |

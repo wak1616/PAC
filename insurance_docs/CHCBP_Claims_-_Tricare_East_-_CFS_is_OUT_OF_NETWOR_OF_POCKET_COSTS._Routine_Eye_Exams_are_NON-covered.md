@@ -21,12 +21,12 @@
 | James Lenhart, OD |  | CHCBP Claims | Non-PAR -OON Benefits |
 | Joaquin De Rojas, MD |  | CHCBP Claims | Non-PAR -OON Benefits |
 | John Fezza, MD (Oculoplastics) |  | CHCBP Claims | Non-PAR -OON Benefits |
-| Jordan Shoemaker, PA - Start Date 10/06/2025 |  | CHCBP Claims | Non-PAR -OON Benefits |
+| Jordan Shoemaker, PA |  | CHCBP Claims | Non-PAR -OON Benefits |
 | Joseph Sowka, OD |  | CHCBP Claims | Non-PAR -OON Benefits |
 | Joshua Kim, MD |  | CHCBP Claims | Non-PAR -OON Benefits |
 | Joshua Newman, MD |  | CHCBP Claims | Non-PAR -OON Benefits |
 | Kalie Kosek, PA |  | CHCBP Claims | Non-PAR -OON Benefits |
-| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 |  | CHCBP Claims | Non-PAR -OON Benefits |
+| Khrystyna Ostrozhynska, OD |  | CHCBP Claims | Non-PAR -OON Benefits |
 | Kyle Schaub, OD |  | CHCBP Claims | Non-PAR -OON Benefits |
 | Len Brown, OD |  | CHCBP Claims | Non-PAR -OON Benefits |
 | Logan Page, OD |  | CHCBP Claims | Non-PAR -OON Benefits |

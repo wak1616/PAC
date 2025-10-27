@@ -21,12 +21,12 @@
 | James Lenhart, OD |  | Primary: Humana Dual Medicare PPO Primary                                                 Secondary: Humana Dual Medicaid Secondary | Non-PAR -OON Benefits |
 | Joaquin De Rojas, MD |  | Primary: Humana Dual Medicare PPO Primary                                                 Secondary: Humana Dual Medicaid Secondary | Non-PAR -OON Benefits |
 | John Fezza, MD (Oculoplastics) |  | Primary: Humana Dual Medicare PPO Primary                                                 Secondary: Humana Dual Medicaid Secondary | Non-PAR -OON Benefits |
-| Jordan Shoemaker, PA - Start Date 10/06/2025 |  | Primary: Humana Dual Medicare PPO Primary                                                 Secondary: Humana Dual Medicaid Secondary | Non-PAR -OON Benefits |
+| Jordan Shoemaker, PA |  | Primary: Humana Dual Medicare PPO Primary                                                 Secondary: Humana Dual Medicaid Secondary | Non-PAR -OON Benefits |
 | Joseph Sowka, OD |  | Primary: Humana Dual Medicare PPO Primary                                                 Secondary: Humana Dual Medicaid Secondary | Non-PAR -OON Benefits |
 | Joshua Kim, MD |  | Primary: Humana Dual Medicare PPO Primary                                                 Secondary: Humana Dual Medicaid Secondary | Non-PAR -OON Benefits |
 | Joshua Newman, MD |  | Primary: Humana Dual Medicare PPO Primary                                                 Secondary: Humana Dual Medicaid Secondary | Non-PAR -OON Benefits |
 | Kalie Kosek, PA |  | Primary: Humana Dual Medicare PPO Primary                                                 Secondary: Humana Dual Medicaid Secondary | Non-PAR -OON Benefits |
-| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 |  | Primary: Humana Dual Medicare PPO Primary                                                 Secondary: Humana Dual Medicaid Secondary | Non-PAR -OON Benefits |
+| Khrystyna Ostrozhynska, OD |  | Primary: Humana Dual Medicare PPO Primary                                                 Secondary: Humana Dual Medicaid Secondary | Non-PAR -OON Benefits |
 | Kyle Schaub, OD |  | Primary: Humana Dual Medicare PPO Primary                                                 Secondary: Humana Dual Medicaid Secondary | Non-PAR -OON Benefits |
 | Len Brown, OD |  | Primary: Humana Dual Medicare PPO Primary                                                 Secondary: Humana Dual Medicaid Secondary | Non-PAR -OON Benefits |
 | Logan Page, OD |  | Primary: Humana Dual Medicare PPO Primary                                                 Secondary: Humana Dual Medicaid Secondary | Non-PAR -OON Benefits |

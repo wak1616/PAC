@@ -21,12 +21,12 @@
 | James Lenhart, OD |  | All Savers Comm REFERRAL REQ - UHC | PAR |
 | Joaquin De Rojas, MD |  | All Savers Comm REFERRAL REQ - UHC | PAR |
 | John Fezza, MD (Oculoplastics) |  | All Savers Comm REFERRAL REQ - UHC | PAR |
-| Jordan Shoemaker, PA - Start Date 10/06/2025 |  | All Savers Comm REFERRAL REQ - UHC | Non-PAR |
+| Jordan Shoemaker, PA |  | All Savers Comm REFERRAL REQ - UHC | Non-PAR |
 | Joseph Sowka, OD |  | All Savers Comm REFERRAL REQ - UHC | PAR |
 | Joshua Kim, MD |  | All Savers Comm REFERRAL REQ - UHC | PAR |
 | Joshua Newman, MD |  | All Savers Comm REFERRAL REQ - UHC | PAR |
 | Kalie Kosek, PA |  | All Savers Comm REFERRAL REQ - UHC | PAR |
-| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 |  | All Savers Comm REFERRAL REQ - UHC | Non-PAR |
+| Khrystyna Ostrozhynska, OD |  | All Savers Comm REFERRAL REQ - UHC | Non-PAR |
 | Kyle Schaub, OD |  | All Savers Comm REFERRAL REQ - UHC | PAR |
 | Len Brown, OD |  | All Savers Comm REFERRAL REQ - UHC | PAR |
 | Logan Page, OD |  | All Savers Comm REFERRAL REQ - UHC | PAR |
@@ -44,6 +44,15 @@
 | Tanuj Banker, MD (RETINA) |  | All Savers Comm REFERRAL REQ - UHC | PAR |
 | Todd Lang, OD |  | All Savers Comm REFERRAL REQ - UHC | PAR |
 | Trisha Werner, OD |  | All Savers Comm REFERRAL REQ - UHC | PAR |
+
+## Center for Sight-Naples
+
+| Provider | NextGen Name | Referral/Auth | Status |
+|----------|-------------|--------------|--------|
+| George Brinnig-Jastrzebski, MD |  | All Savers Comm REFERRAL REQ - UHC | PAR |
+| Jenna Getman, OD |  | All Savers Comm REFERRAL REQ - UHC | Non-PAR |
+| Jon Berlie, MD |  | All Savers Comm REFERRAL REQ - UHC | PAR |
+| Julie Carter, MD |  | All Savers Comm REFERRAL REQ - UHC | PAR |
 
 </details>
 

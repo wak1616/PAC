@@ -21,12 +21,12 @@
 | James Lenhart, OD |  | Cigna Medicare HMO REFERRAL REQUIRED | PAR |
 | Joaquin De Rojas, MD |  | Cigna Medicare HMO REFERRAL REQUIRED | PAR |
 | John Fezza, MD (Oculoplastics) |  | Cigna Medicare HMO REFERRAL REQUIRED | PAR |
-| Jordan Shoemaker, PA - Start Date 10/06/2025 |  | Cigna Medicare HMO REFERRAL REQUIRED | Non-PAR |
+| Jordan Shoemaker, PA |  | Cigna Medicare HMO REFERRAL REQUIRED | Non-PAR |
 | Joseph Sowka, OD |  | Cigna Medicare HMO REFERRAL REQUIRED | PAR |
 | Joshua Kim, MD |  | Cigna Medicare HMO REFERRAL REQUIRED | PAR |
 | Joshua Newman, MD |  | Cigna Medicare HMO REFERRAL REQUIRED | PAR |
 | Kalie Kosek, PA |  | Cigna Medicare HMO REFERRAL REQUIRED | Non-PAR |
-| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 |  | Cigna Medicare HMO REFERRAL REQUIRED | Non-PAR |
+| Khrystyna Ostrozhynska, OD |  | Cigna Medicare HMO REFERRAL REQUIRED | Non-PAR |
 | Kyle Schaub, OD |  | Cigna Medicare HMO REFERRAL REQUIRED | PAR |
 | Len Brown, OD |  | Cigna Medicare HMO REFERRAL REQUIRED | PAR |
 | Logan Page, OD |  | Cigna Medicare HMO REFERRAL REQUIRED | PAR |
@@ -50,7 +50,7 @@
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
 | George Brinnig-Jastrzebski, MD |  | Cigna Medicare HMO REFERRAL REQUIRED | Non-PAR |
-| Jenna Getman, OD |  | Cigna Medicare HMO REFERRAL REQUIRED | Non-PAR |
+| Jenna Getman, OD |  | Cigna Medicare HMO REFERRAL REQUIRED | PAR |
 | Jon Berlie, MD |  | Cigna Medicare HMO REFERRAL REQUIRED | Non-PAR |
 | Julie Carter, MD |  | Cigna Medicare HMO REFERRAL REQUIRED | PAR |
 

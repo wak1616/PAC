@@ -21,12 +21,12 @@
 | James Lenhart, OD |  | Concorde Inc | Non-PAR |
 | Joaquin De Rojas, MD |  | Concorde Inc | Non-PAR |
 | John Fezza, MD (Oculoplastics) |  | Concorde Inc | Non-PAR |
-| Jordan Shoemaker, PA - Start Date 10/06/2025 |  | Concorde Inc | Non-PAR |
+| Jordan Shoemaker, PA |  | Concorde Inc | Non-PAR |
 | Joseph Sowka, OD |  | Concorde Inc | Non-PAR |
 | Joshua Kim, MD |  | Concorde Inc | Non-PAR |
 | Joshua Newman, MD |  | Concorde Inc | Non-PAR |
 | Kalie Kosek, PA |  | Concorde Inc | Non-PAR |
-| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 |  | Concorde Inc | Non-PAR |
+| Khrystyna Ostrozhynska, OD |  | Concorde Inc | Non-PAR |
 | Kyle Schaub, OD |  | Concorde Inc | Non-PAR |
 | Len Brown, OD |  | Concorde Inc | Non-PAR |
 | Logan Page, OD |  | Concorde Inc | Non-PAR |

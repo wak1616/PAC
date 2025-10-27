@@ -21,12 +21,12 @@
 | James Lenhart, OD |  | NALC Health Benefit Plan- Cigna | PAR |
 | Joaquin De Rojas, MD |  | NALC Health Benefit Plan- Cigna | PAR |
 | John Fezza, MD (Oculoplastics) |  | NALC Health Benefit Plan- Cigna | PAR |
-| Jordan Shoemaker, PA - Start Date 10/06/2025 |  | NALC Health Benefit Plan- Cigna | Non-PAR |
+| Jordan Shoemaker, PA |  | NALC Health Benefit Plan- Cigna | Non-PAR |
 | Joseph Sowka, OD |  | NALC Health Benefit Plan- Cigna | PAR |
 | Joshua Kim, MD |  | NALC Health Benefit Plan- Cigna | PAR |
 | Joshua Newman, MD |  | NALC Health Benefit Plan- Cigna | PAR |
 | Kalie Kosek, PA |  | NALC Health Benefit Plan- Cigna | Non-PAR |
-| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 |  | NALC Health Benefit Plan- Cigna | PAR |
+| Khrystyna Ostrozhynska, OD |  | NALC Health Benefit Plan- Cigna | PAR |
 | Kyle Schaub, OD |  | NALC Health Benefit Plan- Cigna | PAR |
 | Len Brown, OD |  | NALC Health Benefit Plan- Cigna | PAR |
 | Logan Page, OD |  | NALC Health Benefit Plan- Cigna | PAR |

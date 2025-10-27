@@ -21,12 +21,12 @@
 | James Lenhart, OD |  | Railroad Medicare | PAR |
 | Joaquin De Rojas, MD |  | Railroad Medicare | PAR |
 | John Fezza, MD (Oculoplastics) |  | Railroad Medicare | PAR |
-| Jordan Shoemaker, PA - Start Date 10/06/2025 |  | Railroad Medicare | PAR |
+| Jordan Shoemaker, PA |  | Railroad Medicare | PAR |
 | Joseph Sowka, OD |  | Railroad Medicare | PAR |
 | Joshua Kim, MD |  | Railroad Medicare | PAR |
 | Joshua Newman, MD |  | Railroad Medicare | PAR |
 | Kalie Kosek, PA |  | Railroad Medicare | PAR |
-| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 |  | Railroad Medicare | PAR |
+| Khrystyna Ostrozhynska, OD |  | Railroad Medicare | PAR |
 | Kyle Schaub, OD |  | Railroad Medicare | PAR |
 | Len Brown, OD |  | Railroad Medicare | PAR |
 | Logan Page, OD |  | Railroad Medicare | PAR |

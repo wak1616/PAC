@@ -21,12 +21,12 @@
 | James Lenhart, OD |  | UHC HCA Healthcare-87726 | PAR |
 | Joaquin De Rojas, MD |  | UHC HCA Healthcare-87726 | PAR |
 | John Fezza, MD (Oculoplastics) |  | UHC HCA Healthcare-87726 | PAR |
-| Jordan Shoemaker, PA - Start Date 10/06/2025 |  | UHC HCA Healthcare-87726 | PAR |
+| Jordan Shoemaker, PA |  | UHC HCA Healthcare-87726 | PAR |
 | Joseph Sowka, OD |  | UHC HCA Healthcare-87726 | PAR |
 | Joshua Kim, MD |  | UHC HCA Healthcare-87726 | PAR |
 | Joshua Newman, MD |  | UHC HCA Healthcare-87726 | PAR |
 | Kalie Kosek, PA |  | UHC HCA Healthcare-87726 | PAR |
-| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 |  | UHC HCA Healthcare-87726 | PAR |
+| Khrystyna Ostrozhynska, OD |  | UHC HCA Healthcare-87726 | PAR |
 | Kyle Schaub, OD |  | UHC HCA Healthcare-87726 | PAR |
 | Len Brown, OD |  | UHC HCA Healthcare-87726 | PAR |
 | Logan Page, OD |  | UHC HCA Healthcare-87726 | PAR |
@@ -74,7 +74,6 @@
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
 | Alexander Eaton, MD |  | UHC HCA Healthcare-87726 | PAR |
-| Hussein Wafapoor, MD |  | UHC HCA Healthcare-87726 | Non-PAR |
 | Referral and/or Auth Required? |  | UHC HCA Healthcare-87726 | No Ref/No Auth Required |
 | Veronica Kon Graversen, MD |  | UHC HCA Healthcare-87726 | PAR |
 

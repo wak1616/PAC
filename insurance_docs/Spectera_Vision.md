@@ -21,12 +21,12 @@
 | James Lenhart, OD |  | Spectera Vision | Non-PAR |
 | Joaquin De Rojas, MD |  | Spectera Vision | Non-PAR |
 | John Fezza, MD (Oculoplastics) |  | Spectera Vision | Non-PAR |
-| Jordan Shoemaker, PA - Start Date 10/06/2025 |  | Spectera Vision | Non-PAR |
+| Jordan Shoemaker, PA |  | Spectera Vision | Non-PAR |
 | Joseph Sowka, OD |  | Spectera Vision | Non-PAR |
 | Joshua Kim, MD |  | Spectera Vision | Non-PAR |
 | Joshua Newman, MD |  | Spectera Vision | Non-PAR |
 | Kalie Kosek, PA |  | Spectera Vision | Non-PAR |
-| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 |  | Spectera Vision | Non-PAR |
+| Khrystyna Ostrozhynska, OD |  | Spectera Vision | Non-PAR |
 | Kyle Schaub, OD |  | Spectera Vision | Non-PAR |
 | Len Brown, OD |  | Spectera Vision | PAR |
 | Logan Page, OD |  | Spectera Vision | Non-PAR |
@@ -50,7 +50,7 @@
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
 | George Brinnig-Jastrzebski, MD |  | Self Pay Non-Par with Ins | Non-PAR |
-| Jenna Getman, OD |  | Self Pay Non-Par with Ins | Non-PAR |
+| Jenna Getman, OD |  | Self Pay Non-Par with Ins | PAR |
 | Jon Berlie, MD |  | Self Pay Non-Par with Ins | Non-PAR |
 | Julie Carter, MD |  | Self Pay Non-Par with Ins | Non-PAR |
 

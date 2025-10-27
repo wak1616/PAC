@@ -21,12 +21,12 @@
 | James Lenhart, OD |  | WellCare Medicare PPO | Non-PAR -OON Benefits |
 | Joaquin De Rojas, MD |  | WellCare Medicare PPO | Non-PAR -OON Benefits |
 | John Fezza, MD (Oculoplastics) |  | WellCare Medicare PPO | Non-PAR -OON Benefits |
-| Jordan Shoemaker, PA - Start Date 10/06/2025 |  | WellCare Medicare PPO | Non-PAR -OON Benefits |
+| Jordan Shoemaker, PA |  | WellCare Medicare PPO | Non-PAR -OON Benefits |
 | Joseph Sowka, OD |  | WellCare Medicare PPO | Non-PAR -OON Benefits |
 | Joshua Kim, MD |  | WellCare Medicare PPO | Non-PAR -OON Benefits |
 | Joshua Newman, MD |  | WellCare Medicare PPO | Non-PAR -OON Benefits |
 | Kalie Kosek, PA |  | WellCare Medicare PPO | Non-PAR -OON Benefits |
-| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 |  | WellCare Medicare PPO | Non-PAR -OON Benefits |
+| Khrystyna Ostrozhynska, OD |  | WellCare Medicare PPO | Non-PAR -OON Benefits |
 | Kyle Schaub, OD |  | WellCare Medicare PPO | Non-PAR -OON Benefits |
 | Len Brown, OD |  | WellCare Medicare PPO | Non-PAR -OON Benefits |
 | Logan Page, OD |  | WellCare Medicare PPO | Non-PAR -OON Benefits |

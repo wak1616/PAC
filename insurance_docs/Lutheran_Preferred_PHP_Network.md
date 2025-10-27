@@ -21,12 +21,12 @@
 | James Lenhart, OD |  | Lutheran Preferred - PHP | Non-PAR -OON Benefits |
 | Joaquin De Rojas, MD |  | Lutheran Preferred - PHP | Non-PAR -OON Benefits |
 | John Fezza, MD (Oculoplastics) |  | Lutheran Preferred - PHP | Non-PAR -OON Benefits |
-| Jordan Shoemaker, PA - Start Date 10/06/2025 |  | Lutheran Preferred - PHP | Non-PAR -OON Benefits |
+| Jordan Shoemaker, PA |  | Lutheran Preferred - PHP | Non-PAR -OON Benefits |
 | Joseph Sowka, OD |  | Lutheran Preferred - PHP | Non-PAR -OON Benefits |
 | Joshua Kim, MD |  | Lutheran Preferred - PHP | Non-PAR -OON Benefits |
 | Joshua Newman, MD |  | Lutheran Preferred - PHP | Non-PAR -OON Benefits |
 | Kalie Kosek, PA |  | Lutheran Preferred - PHP | Non-PAR -OON Benefits |
-| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 |  | Lutheran Preferred - PHP | Non-PAR -OON Benefits |
+| Khrystyna Ostrozhynska, OD |  | Lutheran Preferred - PHP | Non-PAR -OON Benefits |
 | Kyle Schaub, OD |  | Lutheran Preferred - PHP | Non-PAR -OON Benefits |
 | Len Brown, OD |  | Lutheran Preferred - PHP | Non-PAR -OON Benefits |
 | Logan Page, OD |  | Lutheran Preferred - PHP | Non-PAR -OON Benefits |
@@ -50,7 +50,7 @@
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
 | George Brinnig-Jastrzebski, MD |  | Lutheran Preferred - PHP | Non-PAR -OON Benefits |
-| Jenna Getman, OD |  | Lutheran Preferred - PHP | Non-PAR -OON Benefits |
+| Jenna Getman, OD |  | Lutheran Preferred - PHP | PAR |
 | Jon Berlie, MD |  | Lutheran Preferred - PHP | Non-PAR -OON Benefits |
 | Julie Carter, MD |  | Lutheran Preferred - PHP | Non-PAR -OON Benefits |
 

@@ -21,12 +21,12 @@
 | James Lenhart, OD |  | Priority Health Commercial PPO - Cigna | PAR |
 | Joaquin De Rojas, MD |  | Priority Health Commercial PPO - Cigna | PAR |
 | John Fezza, MD (Oculoplastics) |  | Priority Health Commercial PPO - Cigna | Non-PAR |
-| Jordan Shoemaker, PA - Start Date 10/06/2025 |  | Priority Health Commercial PPO - Cigna | Non-PAR |
+| Jordan Shoemaker, PA |  | Priority Health Commercial PPO - Cigna | Non-PAR |
 | Joseph Sowka, OD |  | Priority Health Commercial PPO - Cigna | PAR |
 | Joshua Kim, MD |  | Priority Health Commercial PPO - Cigna | PAR |
 | Joshua Newman, MD |  | Priority Health Commercial PPO - Cigna | PAR |
 | Kalie Kosek, PA |  | Priority Health Commercial PPO - Cigna | Non-PAR |
-| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 |  | Priority Health Commercial PPO - Cigna | PAR |
+| Khrystyna Ostrozhynska, OD |  | Priority Health Commercial PPO - Cigna | PAR |
 | Kyle Schaub, OD |  | Priority Health Commercial PPO - Cigna | PAR |
 | Len Brown, OD |  | Priority Health Commercial PPO - Cigna | PAR |
 | Logan Page, OD |  | Priority Health Commercial PPO - Cigna | PAR |

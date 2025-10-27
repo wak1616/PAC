@@ -21,12 +21,12 @@
 | James Lenhart, OD |  | Mail Handlers Benefit Plan Comm - Aetna | PAR |
 | Joaquin De Rojas, MD |  | Mail Handlers Benefit Plan Comm - Aetna | PAR |
 | John Fezza, MD (Oculoplastics) |  | Mail Handlers Benefit Plan Comm - Aetna | PAR |
-| Jordan Shoemaker, PA - Start Date 10/06/2025 |  | Mail Handlers Benefit Plan Comm - Aetna | Non-PAR |
+| Jordan Shoemaker, PA |  | Mail Handlers Benefit Plan Comm - Aetna | Non-PAR |
 | Joseph Sowka, OD |  | Mail Handlers Benefit Plan Comm - Aetna | PAR |
 | Joshua Kim, MD |  | Mail Handlers Benefit Plan Comm - Aetna | PAR |
 | Joshua Newman, MD |  | Mail Handlers Benefit Plan Comm - Aetna | PAR |
 | Kalie Kosek, PA |  | Mail Handlers Benefit Plan Comm - Aetna | PAR |
-| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 |  | Mail Handlers Benefit Plan Comm - Aetna | PAR |
+| Khrystyna Ostrozhynska, OD |  | Mail Handlers Benefit Plan Comm - Aetna | PAR |
 | Kyle Schaub, OD |  | Mail Handlers Benefit Plan Comm - Aetna | PAR |
 | Len Brown, OD |  | Mail Handlers Benefit Plan Comm - Aetna | PAR |
 | Logan Page, OD |  | Mail Handlers Benefit Plan Comm - Aetna | PAR |

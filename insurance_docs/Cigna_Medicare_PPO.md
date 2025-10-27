@@ -21,12 +21,12 @@
 | James Lenhart, OD |  | Cigna Medicare PPO | PAR |
 | Joaquin De Rojas, MD |  | Cigna Medicare PPO | PAR |
 | John Fezza, MD (Oculoplastics) |  | Cigna Medicare PPO | PAR |
-| Jordan Shoemaker, PA - Start Date 10/06/2025 |  | Cigna Medicare PPO | Non-PAR |
+| Jordan Shoemaker, PA |  | Cigna Medicare PPO | Non-PAR |
 | Joseph Sowka, OD |  | Cigna Medicare PPO | PAR |
 | Joshua Kim, MD |  | Cigna Medicare PPO | PAR |
 | Joshua Newman, MD |  | Cigna Medicare PPO | PAR |
 | Kalie Kosek, PA |  | Cigna Medicare PPO | PAR |
-| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 |  | Cigna Medicare PPO | Non-PAR |
+| Khrystyna Ostrozhynska, OD |  | Cigna Medicare PPO | Non-PAR |
 | Kyle Schaub, OD |  | Cigna Medicare PPO | PAR |
 | Len Brown, OD |  | Cigna Medicare PPO | PAR |
 | Logan Page, OD |  | Cigna Medicare PPO | PAR |
@@ -50,7 +50,7 @@
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
 | George Brinnig-Jastrzebski, MD |  | Self Pay Non-Par with Ins | PAR |
-| Jenna Getman, OD |  | Self Pay Non-Par with Ins | Non-PAR |
+| Jenna Getman, OD |  | Self Pay Non-Par with Ins | PAR |
 | Jon Berlie, MD |  | Self Pay Non-Par with Ins | PAR |
 | Julie Carter, MD |  | Self Pay Non-Par with Ins | PAR |
 

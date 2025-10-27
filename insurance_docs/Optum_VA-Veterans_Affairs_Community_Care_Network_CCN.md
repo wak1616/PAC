@@ -21,12 +21,12 @@
 | James Lenhart, OD |  | Optum VA Community Care | PAR |
 | Joaquin De Rojas, MD |  | Optum VA Community Care | PAR |
 | John Fezza, MD (Oculoplastics) |  | Optum VA Community Care | PAR |
-| Jordan Shoemaker, PA - Start Date 10/06/2025 |  | Optum VA Community Care | PAR |
+| Jordan Shoemaker, PA |  | Optum VA Community Care | PAR |
 | Joseph Sowka, OD |  | Optum VA Community Care | PAR |
 | Joshua Kim, MD |  | Optum VA Community Care | PAR |
 | Joshua Newman, MD |  | Optum VA Community Care | PAR |
 | Kalie Kosek, PA |  | Optum VA Community Care | PAR |
-| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 |  | Optum VA Community Care | PAR |
+| Khrystyna Ostrozhynska, OD |  | Optum VA Community Care | PAR |
 | Kyle Schaub, OD |  | Optum VA Community Care | PAR |
 | Len Brown, OD |  | Optum VA Community Care | PAR |
 | Logan Page, OD |  | Optum VA Community Care | PAR |

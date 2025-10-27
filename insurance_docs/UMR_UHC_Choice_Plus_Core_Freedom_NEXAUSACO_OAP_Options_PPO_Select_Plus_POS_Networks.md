@@ -21,12 +21,12 @@
 | James Lenhart, OD |  | UHC UMR-39026 | PAR |
 | Joaquin De Rojas, MD |  | UHC UMR-39026 | PAR |
 | John Fezza, MD (Oculoplastics) |  | UHC UMR-39026 | PAR |
-| Jordan Shoemaker, PA - Start Date 10/06/2025 |  | UHC UMR-39026 | PAR |
+| Jordan Shoemaker, PA |  | UHC UMR-39026 | PAR |
 | Joseph Sowka, OD |  | UHC UMR-39026 | PAR |
 | Joshua Kim, MD |  | UHC UMR-39026 | PAR |
 | Joshua Newman, MD |  | UHC UMR-39026 | PAR |
 | Kalie Kosek, PA |  | UHC UMR-39026 | PAR |
-| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 |  | UHC UMR-39026 | PAR |
+| Khrystyna Ostrozhynska, OD |  | UHC UMR-39026 | PAR |
 | Kyle Schaub, OD |  | UHC UMR-39026 | PAR |
 | Len Brown, OD |  | UHC UMR-39026 | PAR |
 | Logan Page, OD |  | UHC UMR-39026 | PAR |

@@ -21,12 +21,12 @@
 | James Lenhart, OD |  | Avesis Vision | Non-PAR |
 | Joaquin De Rojas, MD |  | Avesis Vision | Non-PAR |
 | John Fezza, MD (Oculoplastics) |  | Avesis Vision | Non-PAR |
-| Jordan Shoemaker, PA - Start Date 10/06/2025 |  | Avesis Vision | Non-PAR |
+| Jordan Shoemaker, PA |  | Avesis Vision | Non-PAR |
 | Joseph Sowka, OD |  | Avesis Vision | Non-PAR |
 | Joshua Kim, MD |  | Avesis Vision | Non-PAR |
 | Joshua Newman, MD |  | Avesis Vision | Non-PAR |
 | Kalie Kosek, PA |  | Avesis Vision | Non-PAR |
-| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 |  | Avesis Vision | Non-PAR |
+| Khrystyna Ostrozhynska, OD |  | Avesis Vision | Non-PAR |
 | Kyle Schaub, OD |  | Avesis Vision | Non-PAR |
 | Len Brown, OD |  | Avesis Vision | PAR |
 | Logan Page, OD |  | Avesis Vision | Non-PAR |

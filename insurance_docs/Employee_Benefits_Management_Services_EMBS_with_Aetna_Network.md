@@ -21,12 +21,12 @@
 | James Lenhart, OD |  | EBMS Commercial PPO - Aetna | PAR |
 | Joaquin De Rojas, MD |  | EBMS Commercial PPO - Aetna | PAR |
 | John Fezza, MD (Oculoplastics) |  | EBMS Commercial PPO - Aetna | PAR |
-| Jordan Shoemaker, PA - Start Date 10/06/2025 |  | EBMS Commercial PPO - Aetna | Non-PAR |
+| Jordan Shoemaker, PA |  | EBMS Commercial PPO - Aetna | Non-PAR |
 | Joseph Sowka, OD |  | EBMS Commercial PPO - Aetna | PAR |
 | Joshua Kim, MD |  | EBMS Commercial PPO - Aetna | PAR |
 | Joshua Newman, MD |  | EBMS Commercial PPO - Aetna | PAR |
 | Kalie Kosek, PA |  | EBMS Commercial PPO - Aetna | PAR |
-| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 |  | EBMS Commercial PPO - Aetna | PAR |
+| Khrystyna Ostrozhynska, OD |  | EBMS Commercial PPO - Aetna | PAR |
 | Kyle Schaub, OD |  | EBMS Commercial PPO - Aetna | PAR |
 | Len Brown, OD |  | EBMS Commercial PPO - Aetna | PAR |
 | Logan Page, OD |  | EBMS Commercial PPO - Aetna | PAR |

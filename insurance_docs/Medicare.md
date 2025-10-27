@@ -21,12 +21,12 @@
 | James Lenhart, OD |  | Medicare Part B | PAR |
 | Joaquin De Rojas, MD |  | Medicare Part B | PAR |
 | John Fezza, MD (Oculoplastics) |  | Medicare Part B | PAR |
-| Jordan Shoemaker, PA - Start Date 10/06/2025 |  | Medicare Part B | PAR |
+| Jordan Shoemaker, PA |  | Medicare Part B | PAR |
 | Joseph Sowka, OD |  | Medicare Part B | PAR |
 | Joshua Kim, MD |  | Medicare Part B | PAR |
 | Joshua Newman, MD |  | Medicare Part B | PAR |
 | Kalie Kosek, PA |  | Medicare Part B | PAR |
-| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 |  | Medicare Part B | PAR |
+| Khrystyna Ostrozhynska, OD |  | Medicare Part B | PAR |
 | Kyle Schaub, OD |  | Medicare Part B | PAR |
 | Len Brown, OD |  | Medicare Part B | PAR |
 | Logan Page, OD |  | Medicare Part B | PAR |
@@ -74,7 +74,7 @@
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
 | Alexander Eaton, MD |  | Medicare Part B | PAR |
-| Hussein Wafapoor, MD |  | Medicare Part B | OK to Schedule - PENDING |
+| Hussein Wafapoor, MD |  | Medicare Part B | Non-PAR |
 | Referral and/or Auth Required? |  | Medicare Part B | No Ref/No Auth Required |
 | Veronica Kon Graversen, MD |  | Medicare Part B | PAR |
 

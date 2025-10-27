@@ -21,12 +21,12 @@
 | James Lenhart, OD |  | UHC NexusACO R-87726 | PAR |
 | Joaquin De Rojas, MD |  | UHC NexusACO R-87726 | PAR |
 | John Fezza, MD (Oculoplastics) |  | UHC NexusACO R-87726 | PAR |
-| Jordan Shoemaker, PA - Start Date 10/06/2025 |  | UHC NexusACO R-87726 | PAR |
+| Jordan Shoemaker, PA |  | UHC NexusACO R-87726 | PAR |
 | Joseph Sowka, OD |  | UHC NexusACO R-87726 | PAR |
 | Joshua Kim, MD |  | UHC NexusACO R-87726 | PAR |
 | Joshua Newman, MD |  | UHC NexusACO R-87726 | PAR |
 | Kalie Kosek, PA |  | UHC NexusACO R-87726 | PAR |
-| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 |  | UHC NexusACO R-87726 | PAR |
+| Khrystyna Ostrozhynska, OD |  | UHC NexusACO R-87726 | PAR |
 | Kyle Schaub, OD |  | UHC NexusACO R-87726 | PAR |
 | Len Brown, OD |  | UHC NexusACO R-87726 | PAR |
 | Logan Page, OD |  | UHC NexusACO R-87726 | PAR |
@@ -73,26 +73,22 @@
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
-| Alexander Eaton, MD |  | UHC PPO/POS-87726 | PAR |
 | Alexander Eaton, MD |  | UHC NexusACO R-87726 | PAR |
-| Hussein Wafapoor, MD |  | UHC PPO/POS-87726 | Non-PAR |
+| Alexander Eaton, MD |  | UHC PPO/POS-87726 | PAR |
 | Hussein Wafapoor, MD |  | UHC NexusACO R-87726 | Non-PAR |
-| Referral and/or Auth Required? |  | UHC PPO/POS-87726 | Referral Required |
+| Hussein Wafapoor, MD |  | UHC PPO/POS-87726 | Non-PAR |
 | Referral and/or Auth Required? |  | UHC NexusACO R-87726 | Referral Required |
-| Veronica Kon Graversen, MD |  | UHC PPO/POS-87726 | PAR |
+| Referral and/or Auth Required? |  | UHC PPO/POS-87726 | Referral Required |
 | Veronica Kon Graversen, MD |  | UHC NexusACO R-87726 | PAR |
+| Veronica Kon Graversen, MD |  | UHC PPO/POS-87726 | PAR |
 
 ## SW FL Eye
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
-| Albert Smolyar, MD |  | UHC PPO/POS-87726 | PAR |
 | Albert Smolyar, MD |  | UHC NexusACO R-87726 | PAR |
-| Brian Marhue, OD |  | UHC PPO/POS-87726 | PAR |
 | Brian Marhue, OD |  | UHC NexusACO R-87726 | PAR |
-| Penny Orr, OD |  | UHC PPO/POS-87726 | PAR |
 | Penny Orr, OD |  | UHC NexusACO R-87726 | PAR |
-| Sarah Johnson, OD |  | UHC PPO/POS-87726 | PAR |
 | Sarah Johnson, OD |  | UHC NexusACO R-87726 | PAR |
 
 </details>

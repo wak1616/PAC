@@ -21,12 +21,12 @@
 | James Lenhart, OD |  | Health Care Support - PHCS | PAR |
 | Joaquin De Rojas, MD |  | Health Care Support - PHCS | PAR |
 | John Fezza, MD (Oculoplastics) |  | Health Care Support - PHCS | PAR |
-| Jordan Shoemaker, PA - Start Date 10/06/2025 |  | Health Care Support - PHCS | PAR |
+| Jordan Shoemaker, PA |  | Health Care Support - PHCS | PAR |
 | Joseph Sowka, OD |  | Health Care Support - PHCS | PAR |
 | Joshua Kim, MD |  | Health Care Support - PHCS | PAR |
 | Joshua Newman, MD |  | Health Care Support - PHCS | PAR |
 | Kalie Kosek, PA |  | Health Care Support - PHCS | PAR |
-| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 |  | Health Care Support - PHCS | PAR |
+| Khrystyna Ostrozhynska, OD |  | Health Care Support - PHCS | PAR |
 | Kyle Schaub, OD |  | Health Care Support - PHCS | PAR |
 | Len Brown, OD |  | Health Care Support - PHCS | PAR |
 | Logan Page, OD |  | Health Care Support - PHCS | PAR |

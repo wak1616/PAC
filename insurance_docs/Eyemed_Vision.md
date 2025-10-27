@@ -21,12 +21,12 @@
 | James Lenhart, OD |  | Eyemed Vision | PAR |
 | Joaquin De Rojas, MD |  | Eyemed Vision | Non-PAR |
 | John Fezza, MD (Oculoplastics) |  | Eyemed Vision | Non-PAR |
-| Jordan Shoemaker, PA - Start Date 10/06/2025 |  | Eyemed Vision | Non-PAR |
+| Jordan Shoemaker, PA |  | Eyemed Vision | Non-PAR |
 | Joseph Sowka, OD |  | Eyemed Vision | PAR |
 | Joshua Kim, MD |  | Eyemed Vision | Non-PAR |
 | Joshua Newman, MD |  | Eyemed Vision | Non-PAR |
 | Kalie Kosek, PA |  | Eyemed Vision | Non-PAR |
-| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 |  | Eyemed Vision | PAR |
+| Khrystyna Ostrozhynska, OD |  | Eyemed Vision | PAR |
 | Kyle Schaub, OD |  | Eyemed Vision | PAR |
 | Len Brown, OD |  | Eyemed Vision | PAR |
 | Logan Page, OD |  | Eyemed Vision | PAR |

@@ -17,16 +17,16 @@
 | Elizabeth Davis, MD |  | Superior Vision | Non-PAR |
 | Erin Hardie, OD |  | Superior Vision | PAR |
 | George Hurwitz, OD |  | Superior Vision | Non-PAR |
-| Gisselle Vega Carraso |  | Superior Vision | Non-PAR |
+| Gisselle Vega Carraso |  | Superior Vision | PAR |
 | James Lenhart, OD |  | Superior Vision | PAR |
 | Joaquin De Rojas, MD |  | Superior Vision | Non-PAR |
 | John Fezza, MD (Oculoplastics) |  | Superior Vision | PAR |
-| Jordan Shoemaker, PA - Start Date 10/06/2025 |  | Superior Vision | Non-PAR |
+| Jordan Shoemaker, PA |  | Superior Vision | Non-PAR |
 | Joseph Sowka, OD |  | Superior Vision | PAR |
 | Joshua Kim, MD |  | Superior Vision | Non-PAR |
 | Joshua Newman, MD |  | Superior Vision | PAR |
 | Kalie Kosek, PA |  | Superior Vision | Non-PAR |
-| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 |  | Superior Vision | Non-PAR |
+| Khrystyna Ostrozhynska, OD |  | Superior Vision | Non-PAR |
 | Kyle Schaub, OD |  | Superior Vision | Non-PAR |
 | Len Brown, OD |  | Superior Vision | PAR |
 | Logan Page, OD |  | Superior Vision | PAR |

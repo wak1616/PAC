@@ -21,12 +21,12 @@
 | James Lenhart, OD |  | Cigna International | PAR |
 | Joaquin De Rojas, MD |  | Cigna International | PAR |
 | John Fezza, MD (Oculoplastics) |  | Cigna International | PAR |
-| Jordan Shoemaker, PA - Start Date 10/06/2025 |  | Cigna International | Non-PAR |
+| Jordan Shoemaker, PA |  | Cigna International | Non-PAR |
 | Joseph Sowka, OD |  | Cigna International | PAR |
 | Joshua Kim, MD |  | Cigna International | PAR |
 | Joshua Newman, MD |  | Cigna International | PAR |
 | Kalie Kosek, PA |  | Cigna International | PAR |
-| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 |  | Cigna International | PAR |
+| Khrystyna Ostrozhynska, OD |  | Cigna International | PAR |
 | Kyle Schaub, OD |  | Cigna International | PAR |
 | Len Brown, OD |  | Cigna International | PAR |
 | Logan Page, OD |  | Cigna International | PAR |

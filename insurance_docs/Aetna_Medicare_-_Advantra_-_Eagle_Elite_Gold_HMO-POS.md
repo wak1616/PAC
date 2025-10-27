@@ -21,12 +21,12 @@
 | James Lenhart, OD |  | Aetna Medicare HMO POS | PAR |
 | Joaquin De Rojas, MD |  | Aetna Medicare HMO POS | PAR |
 | John Fezza, MD (Oculoplastics) |  | Aetna Medicare HMO POS | PAR |
-| Jordan Shoemaker, PA - Start Date 10/06/2025 |  | Aetna Medicare HMO POS | Non-PAR |
+| Jordan Shoemaker, PA |  | Aetna Medicare HMO POS | Non-PAR |
 | Joseph Sowka, OD |  | Aetna Medicare HMO POS | PAR |
 | Joshua Kim, MD |  | Aetna Medicare HMO POS | PAR |
 | Joshua Newman, MD |  | Aetna Medicare HMO POS | PAR |
 | Kalie Kosek, PA |  | Aetna Medicare HMO POS | PAR |
-| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 |  | Aetna Medicare HMO POS | PAR |
+| Khrystyna Ostrozhynska, OD |  | Aetna Medicare HMO POS | PAR |
 | Kyle Schaub, OD |  | Aetna Medicare HMO POS | PAR |
 | Len Brown, OD |  | Aetna Medicare HMO POS | PAR |
 | Logan Page, OD |  | Aetna Medicare HMO POS | PAR |

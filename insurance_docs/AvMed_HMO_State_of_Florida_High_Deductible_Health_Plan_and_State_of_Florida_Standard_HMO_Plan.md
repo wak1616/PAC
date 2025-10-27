@@ -21,12 +21,12 @@
 | James Lenhart, OD |  | AvMed Commercial HMO | PAR |
 | Joaquin De Rojas, MD |  | AvMed Commercial HMO | PAR |
 | John Fezza, MD (Oculoplastics) |  | AvMed Commercial HMO | PAR |
-| Jordan Shoemaker, PA - Start Date 10/06/2025 |  | AvMed Commercial HMO | Non-PAR |
+| Jordan Shoemaker, PA |  | AvMed Commercial HMO | Non-PAR |
 | Joseph Sowka, OD |  | AvMed Commercial HMO | Non-PAR |
 | Joshua Kim, MD |  | AvMed Commercial HMO | PAR |
 | Joshua Newman, MD |  | AvMed Commercial HMO | PAR |
 | Kalie Kosek, PA |  | AvMed Commercial HMO | Non-PAR |
-| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 |  | AvMed Commercial HMO | Non-PAR |
+| Khrystyna Ostrozhynska, OD |  | AvMed Commercial HMO | Non-PAR |
 | Kyle Schaub, OD |  | AvMed Commercial HMO | PAR |
 | Len Brown, OD |  | AvMed Commercial HMO | Non-PAR |
 | Logan Page, OD |  | AvMed Commercial HMO | PAR |

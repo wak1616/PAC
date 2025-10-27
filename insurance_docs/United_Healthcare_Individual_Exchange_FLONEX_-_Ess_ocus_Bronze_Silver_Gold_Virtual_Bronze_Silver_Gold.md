@@ -21,12 +21,12 @@
 | James Lenhart, OD |  | Self Pay Non-Par with Ins | Non-PAR |
 | Joaquin De Rojas, MD |  | Self Pay Non-Par with Ins | Non-PAR |
 | John Fezza, MD (Oculoplastics) |  | Self Pay Non-Par with Ins | Non-PAR |
-| Jordan Shoemaker, PA - Start Date 10/06/2025 |  | Self Pay Non-Par with Ins | Non-PAR |
+| Jordan Shoemaker, PA |  | Self Pay Non-Par with Ins | Non-PAR |
 | Joseph Sowka, OD |  | Self Pay Non-Par with Ins | Non-PAR |
 | Joshua Kim, MD |  | Self Pay Non-Par with Ins | Non-PAR |
 | Joshua Newman, MD |  | Self Pay Non-Par with Ins | Non-PAR |
 | Kalie Kosek, PA |  | Self Pay Non-Par with Ins | Non-PAR |
-| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 |  | Self Pay Non-Par with Ins | Non-PAR |
+| Khrystyna Ostrozhynska, OD |  | Self Pay Non-Par with Ins | Non-PAR |
 | Kyle Schaub, OD |  | Self Pay Non-Par with Ins | Non-PAR |
 | Len Brown, OD |  | Self Pay Non-Par with Ins | Non-PAR |
 | Logan Page, OD |  | Self Pay Non-Par with Ins | Non-PAR |
@@ -50,7 +50,7 @@
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
 | George Brinnig-Jastrzebski, MD |  | Self Pay Non-Par with Ins | Non-PAR |
-| Jenna Getman, OD |  | Self Pay Non-Par with Ins | Non-PAR |
+| Jenna Getman, OD |  | Self Pay Non-Par with Ins | PAR |
 | Jon Berlie, MD |  | Self Pay Non-Par with Ins | Non-PAR |
 | Julie Carter, MD |  | Self Pay Non-Par with Ins | Non-PAR |
 

@@ -21,12 +21,12 @@
 | James Lenhart, OD |  | Independent Health - UHC | PAR |
 | Joaquin De Rojas, MD |  | Independent Health - UHC | PAR |
 | John Fezza, MD (Oculoplastics) |  | Independent Health - UHC | PAR |
-| Jordan Shoemaker, PA - Start Date 10/06/2025 |  | Independent Health - UHC | PAR |
+| Jordan Shoemaker, PA |  | Independent Health - UHC | PAR |
 | Joseph Sowka, OD |  | Independent Health - UHC | PAR |
 | Joshua Kim, MD |  | Independent Health - UHC | PAR |
 | Joshua Newman, MD |  | Independent Health - UHC | PAR |
 | Kalie Kosek, PA |  | Independent Health - UHC | PAR |
-| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 |  | Independent Health - UHC | PAR |
+| Khrystyna Ostrozhynska, OD |  | Independent Health - UHC | PAR |
 | Kyle Schaub, OD |  | Independent Health - UHC | PAR |
 | Len Brown, OD |  | Independent Health - UHC | PAR |
 | Logan Page, OD |  | Independent Health - UHC | PAR |

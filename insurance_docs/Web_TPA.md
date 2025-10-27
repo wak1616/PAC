@@ -21,12 +21,12 @@
 | James Lenhart, OD |  | Web TPA | PAR |
 | Joaquin De Rojas, MD |  | Web TPA | PAR |
 | John Fezza, MD (Oculoplastics) |  | Web TPA | PAR |
-| Jordan Shoemaker, PA - Start Date 10/06/2025 |  | Web TPA | Non-PAR |
+| Jordan Shoemaker, PA |  | Web TPA | Non-PAR |
 | Joseph Sowka, OD |  | Web TPA | PAR |
 | Joshua Kim, MD |  | Web TPA | PAR |
 | Joshua Newman, MD |  | Web TPA | PAR |
 | Kalie Kosek, PA |  | Web TPA | PAR |
-| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 |  | Web TPA | Non-PAR |
+| Khrystyna Ostrozhynska, OD |  | Web TPA | Non-PAR |
 | Kyle Schaub, OD |  | Web TPA | PAR |
 | Len Brown, OD |  | Web TPA | PAR |
 | Logan Page, OD |  | Web TPA | PAR |
@@ -50,7 +50,7 @@
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
 | George Brinnig-Jastrzebski, MD |  | Web TPA | PAR |
-| Jenna Getman, OD |  | Web TPA | PAR |
+| Jenna Getman, OD |  | Web TPA | Non-PAR |
 | Jon Berlie, MD |  | Web TPA | PAR |
 | Julie Carter, MD |  | Web TPA | PAR |
 

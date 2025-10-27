@@ -13,14 +13,5 @@
 | Referral and/or Auth Required? |  | UHC PPO/POS-87726 | No Ref/No Auth Required |
 | Veronica Kon Graversen, MD |  | UHC PPO/POS-87726 | PAR |
 
-## SW FL Eye
-
-| Provider | NextGen Name | Referral/Auth | Status |
-|----------|-------------|--------------|--------|
-| Albert Smolyar, MD |  | UHC PPO/POS-87726 | PAR |
-| Brian Marhue, OD |  | UHC PPO/POS-87726 | PAR |
-| Penny Orr, OD |  | UHC PPO/POS-87726 | PAR |
-| Sarah Johnson, OD |  | UHC PPO/POS-87726 | PAR |
-
 </details>
 

@@ -21,12 +21,12 @@
 | James Lenhart, OD |  | Tricare Select | Non-PAR -OON Benefits |
 | Joaquin De Rojas, MD |  | Tricare Select | Non-PAR -OON Benefits |
 | John Fezza, MD (Oculoplastics) |  | Tricare Select | Non-PAR -OON Benefits |
-| Jordan Shoemaker, PA - Start Date 10/06/2025 |  | Tricare Select | Non-PAR -OON Benefits |
+| Jordan Shoemaker, PA |  | Tricare Select | Non-PAR -OON Benefits |
 | Joseph Sowka, OD |  | Tricare Select | Non-PAR -OON Benefits |
 | Joshua Kim, MD |  | Tricare Select | Non-PAR -OON Benefits |
 | Joshua Newman, MD |  | Tricare Select | Non-PAR -OON Benefits |
 | Kalie Kosek, PA |  | Tricare Select | Non-PAR -OON Benefits |
-| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 |  | Tricare Select | Non-PAR -OON Benefits |
+| Khrystyna Ostrozhynska, OD |  | Tricare Select | Non-PAR -OON Benefits |
 | Kyle Schaub, OD |  | Tricare Select | Non-PAR -OON Benefits |
 | Len Brown, OD |  | Tricare Select | Non-PAR -OON Benefits |
 | Logan Page, OD |  | Tricare Select | Non-PAR -OON Benefits |
@@ -50,7 +50,7 @@
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
 | George Brinnig-Jastrzebski, MD |  | Tricare Select | Non-PAR -OON Benefits |
-| Jenna Getman, OD |  | Tricare Select | Non-PAR -OON Benefits |
+| Jenna Getman, OD |  | Tricare Select | PAR |
 | Jon Berlie, MD |  | Tricare Select | Non-PAR -OON Benefits |
 | Julie Carter, MD |  | Tricare Select | Non-PAR -OON Benefits |
 

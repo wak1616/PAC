@@ -13,21 +13,6 @@
 | Jon Berlie, MD |  | UHC All Savers-81400 | PAR |
 | Julie Carter, MD |  | UHC All Savers-81400 | PAR |
 
-## Lake Eye 
-
-| Provider | NextGen Name | Referral/Auth | Status |
-|----------|-------------|--------------|--------|
-| Alexandria Rawls, OD |  | UHC All Savers-81400 | PAR |
-| Christine Bui, OD |  | UHC All Savers-81400 | PAR |
-| Diba Ossareh, OD |  | UHC All Savers-81400 | PAR |
-| Jose Vazques-Diaz, MD |  | UHC All Savers-81400 | PAR |
-| Karin Girgis, OD |  | UHC All Savers-81400 | Non-PAR |
-| Mari Holderby, OD |  | UHC All Savers-81400 | PAR |
-| Referral and/or Auth Required? |  | UHC All Savers-81400 | No Ref/No Auth Required |
-| Scot Holman, MD |  | UHC All Savers-81400 | PAR |
-| Scott Wehrly, MD |  | UHC All Savers-81400 | PAR |
-| Vinay Gutti, MD |  | UHC All Savers-81400 | PAR |
-
 ## Retina Health Center
 
 | Provider | NextGen Name | Referral/Auth | Status |

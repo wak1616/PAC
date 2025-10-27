@@ -50,36 +50,136 @@
 | Allegiance Benefit Plan (Cigna Open Access Plus Network) |  | Allegiance Benefit Plan Management-Cigna | PAR |
 | AllSavers (UHC) (Choice and Choice Plus) |  | All Savers Commercial - UHC | PAR |
 | Ambetter ALL PLANS |  | Self Pay Non-Par with Ins | Non-PAR |
-| Anthem Blue- (Select Network) Alliance/ Blue Choice Open Access/Blue Choice Options/Blue Value/HealthSync |  | Anthem BCBS Commercial PPO | PAR |
-| Anthem Blue- (Select Network) Century Preferred/High Value Network/Horizon Managed Care Network/National PPO/Network S/Network Blue/ Select PPO |  | Anthem BCBS Commercial PPO | PAR |
-| Anthem Blue- Grocery/Traditional/Traditional PPO |  | Anthem BCBS Commercial PPO | PAR |
-| Anthem Blue Medicare- Medicare Advantage (PPO) |  | Self Pay Non-Par with Ins | Non-PAR |
-| Anthem Blue- POS |  | Anthem BCBS Commercial PPO | PAR |
-| Anthem Blue-Pathway Essentials/Essentials Standard PPO/EPO |  | Anthem BCBS Commercial PPO | PAR |
-| Anthem Blue-Preferred POS (Select Network) |  | Anthem BCBS Commercial PPO | PAR |
 | AvMed HMO (State of Florida High Deductible Health Plan and State of Florida Standard HMO Plan) |  | AvMed Commercial HMO | PAR |
-| BCBS FL - ALL DUAL PLANS |  | Self Pay Non-Par with Ins | Non-PAR |
-| BCBS FL HMO Plans - ALL PLANS Commercial and Medicare HMO PLANS |  | Self Pay Non-Par with Ins | Non-PAR |
-| BCBS of FL BlueMedicare Patriot (PPO) |  | Self Pay Non-Par with Ins | Non-PAR |
-| BCBS of FL BlueMedicare Select (PPO) |  | Self Pay Non-Par with Ins | Non-PAR |
-| BCBS of FL BlueMedicare Value PPO/ BlueMedicare Value w. Level 1 |  | Self Pay Non-Par with Ins | Non-PAR |
-| BCBS of FL BlueOptions/Blue Options Hospital Surgical Plus/Blue Options with Pediactric Vision/Commercial PPO |  | BCBS FL Commercial PPO | PAR |
-| BCBS of FL Federal Employee Program - alpha prefix R |  | BCBS Federal | PAR |
-| BCBS Select Bronze PPO - PLAN HAS OON BENEFITS. PLEASE CALL INSURANCE TO CONFIRM IF PLAN HAS OON BENEFITS |  | Self Pay Non-Par with Ins | Non-PAR |
-| BCBS Out of State California ONLY |  | Self Pay Non-Par with Ins | PAR |
-| BCBS Out of State Commercial PPO Plans -all plans that are not BCBS of Florida; please ask the patient to check the front and back copy of the card for the state. If the card says "Anthem", please see ANTHEM on the insurance guide |  | BCBS Out of State Commercial PPO | PAR |
-| BCBS Out of State HMO Plans - ALL PLANS Commercial and Medicare HMO PLANS |  | Self Pay Non-Par with Ins | Non-PAR |
-| BCBS Out of State Medicare PPO Plans -all plans that are not BCBS of Florida; please ask the patient to check the front and back copy of the card for the state. If the card says "Anthem", please see ANTHEM on the insurance guide |  | Self Pay Non-Par with Ins | Non-PAR |
-| Carefirst BCBS Commercial - BlueChoice Advantage/BlueChoice Advantage HDHP/BlueChoice Plus/BlueHPN/BluePreferred (PPO) |  | Carefirst BCBS Commercial PPO | PAR |
-| Carefirst BCBS Commercial - BlueChoice Opt-Out Open Access/BlueChoice Opt-Out Plus Open Access/CareFirst Regional (HMO) |  | Carefirst BCBS Commercial HMO | PAR |
-| Carefirst BCBS Commercial - Comprehensive Major Medical |  | Carefirst BCBS Commercial PPO | PAR |
-| Carefirst BCBS Commercial - HealthyBlue/HealthyBlue 2.0/HealthyBlue Advantage (HMO) |  | Carefirst BCBS Commercial HMO | PAR |
-| Carefirst BCBS Commercial - Personal Comp |  | Carefirst BCBS Commercial PPO | PAR |
-| Carefirst BCBS Commercial - PPO/EPO/HealthyBlue Plus/HealthyBlue PPO/ BlueCard PAR/ BlueCard PPO/ EPO/ BlueCard Traditional |  | Carefirst BCBS Commercial PPO | PAR |
-| Carefirst BCBS Commercial - Standard BlueChoice (HMO) |  | Carefirst BCBS Commercial HMO | PAR |
-| Carefirst BCBS Commercial - Traditional/Indemnity |  | Self Pay Non-Par with Ins | Non-PAR |
-| Carefirst BCBS Medicare Advantage (PPO) |  | Carefirst BCBS Commercial PPO | PAR |
-| Carefirst Commercial - CareFirst Regional |  | Carefirst BCBS Commercial HMO | PAR |
+| BCBS Alabama Commercial PPO Plans - Ask the patient to check the front and back copy of the card for the state. If the card says "Anthem", please see "BCBS Anthem" on the insurance guide. |  | BCBS AL PPO FL-00590 | PAR |
+| BCBS Alaska Commercial PPO Plans - Ask the patient to check the front and back copy of the card for the state. If the card says "Anthem", please see "BCBS Anthem" on the insurance guide. |  | BCBS AK PPO FL-00590 | PAR |
+| BCBS Anthem Arkansas Commercial PPO Plans -Ask the patient to check the front of the card for "Anthem" and the state on the back right bottom of the card. |  | BCBS AR PPO FL-00590 | PAR |
+| BCBS Anthem California PPO Plans - Ask the patient to check the front of the card for "Anthem" and the state on the back right bottom of the card. (If it is BlueShield CA - see "BCBS CA" on the insurance guide.) |  | BCBS Anthem CA PPO FL-00590 | PAR |
+| BCBS Anthem Community Insurance Company PPO Plans - Ask the patient to check the front of the card for "Anthem" and "Community Insurance Company" on the back right bottom of the card. |  | BCBS Anthem Community PPO FL-00590 | PAR |
+| BCBS Anthem Connecticut Commercial PPO Plans - Ask the patient to check the front of the card for "Anthem" and the state on the back right bottom of the card. |  | BCBS Anthem CT PPO FL-00590 | PAR |
+| BCBS Anthem Episcopal Commercial (PPO) - The patient will find Episcopal on the front/back of the card. |  | BCBS Anthem Episcopal PPO FL-00590 | PAR |
+| BCBS Anthem Georgia Commercial PPO Plans - Ask the patient to check the front of the card for "Anthem" and the state on the back right bottom of the card. |  | BCBS Anthem GA PPO FL-00590 | PAR |
+| BCBS Anthem HealthChoice Commercial PPO Plans - Ask the patient to check the front of the card for "Anthem" and the HealthChoice on the back right bottom of the card. |  | BCBS Anthem HealthChoice PPO FL-00590 | PAR |
+| BCBS Anthem Kentucky Commercial PPO Plans -Ask the patient to check the front of the card for "Anthem" and the state on the back right bottom of the card. |  | BCBS Anthem KY PPO FL-00590 | PAR |
+| BCBS Anthem Maine Commercial PPO Plans -Ask the patient to check the front of the card for "Anthem" and the state on the back right bottom of the card. |  | BCBS Anthem ME PPO FL-00590 | PAR |
+| BCBS Anthem Missouri Commercial PPO Plans -Ask the patient to check the front of the card for "Anthem" and the state on the back right bottom of the card. |  | BCBS Anthem MO PPO FL-00590 | PAR |
+| BCBS Anthem Nebraska Commercial PPO Plans -Ask the patient to check the front of the card for "Anthem" and the state on the back right bottom of the card. |  | BCBS Anthem NE PPO FL-00590 | PAR |
+| BCBS Anthem New Hampshire Commercial PPO Plans -Ask the patient to check the front of the card for "Anthem" and the state on the back right bottom of the card. |  | BCBS Anthem NH PPO FL-00590 | PAR |
+| BCBS Anthem North Dakota Commercial PPO Plans -Ask the patient to check the front of the card for "Anthem" and the state on the back right bottom of the card. |  | BCBS Anthem ND PPO FL-00590 | PAR |
+| BCBS Anthem Not Otherwise Classified Commercial HPN Plans - This is to be selected only for Anthem plans without a state or plan on the back on the card. |  | BCBS Anthem NOC HPN FL-00590 | PAR |
+| BCBS Anthem Not Otherwise Classified Commercial PPO Plans - This is to be selected only for Anthem plans without a state or plan on the back on the card. |  | BCBS Anthem NOC PPO FL-00590 | PAR |
+| BCBS Anthem Not Otherwise Classified Medicare (PPO) - These plans do not have a state or payer name found on the back of the card |  | Self Pay Non-Par with Ins | Non-PAR |
+| BCBS Anthem Out of State California Medicare (PPO) - all plans that are not BCBS of Florida; please ask the patient to check the front and back copy of the card for the state. The patient will find California on the back right bottom of the card |  | Self Pay Non-Par with Ins | Non-PAR |
+| BCBS Anthem Out of State Community Medicare (HMO) - all plans that are not BCBS of Florida; please ask the patient to check the front and back copy of the card for the state. The patient will find Community on the back right bottom of the card ALL PLANS Commercial and Medicare HMO PLANS ARE OUT OF NETWORK- SELF PAY |  | Self Pay Non-Par with Ins | Non-PAR |
+| BCBS Anthem Out of State Community Medicare (PPO) - all plans that are not BCBS of Florida; please ask the patient to check the front and back copy of the card for the state. The patient will find Community on the back right bottom of the card |  | Self Pay Non-Par with Ins | Non-PAR |
+| BCBS Anthem Out of State Community Medicare Supplement - all plans that are not BCBS of Florida; please ask the patient to check the front and back copy of the card for the state. The patient will find Community on the back right bottom of the card |  | Self Pay Non-Par with Ins | Non-PAR |
+| BCBS Anthem Out of State Connecticut Medicare (PPO) - all plans that are not BCBS of Florida; please ask the patient to check the front and back copy of the card for the state. The patient will find Connecticut on the back right bottom of the card |  | Self Pay Non-Par with Ins | Non-PAR |
+| BCBS Anthem Out of State Georgia Medicare (PPO) - all plans that are not BCBS of Florida; please ask the patient to check the front and back copy of the card for the state. The patient will find Georgia on the back right bottom of the card |  | Self Pay Non-Par with Ins | Non-PAR |
+| BCBS Anthem Out of State Kentucky Medicare (PPO) - all plans that are not BCBS of Florida; please ask the patient to check the front and back copy of the card for the state. The patient will find Kentucky on the back right bottom of the card |  | Self Pay Non-Par with Ins | Non-PAR |
+| BCBS Anthem Out of State Montana Medicare (PPO) - all plans that are not BCBS of Florida; please ask the patient to check the front and back copy of the card for the state. The patient will find Montana on the back right bottom of the card |  | Self Pay Non-Par with Ins | Non-PAR |
+| BCBS Anthem Out of State Not Otherwise Classified Medicare (HMO) - These plans do not have a state or payer name found on the back of the card ALL PLANS Commercial and Medicare HMO PLANS ARE OUT OF NETWORK- SELF PAY |  | Self Pay Non-Par with Ins | Non-PAR |
+| BCBS Anthem Out of State Ohio Medicare (PPO) - all plans that are not BCBS of Florida; please ask the patient to check the front and back copy of the card for the state. The patient will find Ohio on the back right bottom of the card |  | Self Pay Non-Par with Ins | Non-PAR |
+| BCBS Anthem Rocky Mountain Commercial HPN Plans -Ask the patient to check the front of the card for "Anthem" and the Rocky Mountain on the back right bottom of the card. |  | BCBS Anthem Rocky Mtn HPN FL-00590 | PAR |
+| BCBS Anthem Rocky Mountain Commercial PPO Plans -Ask the patient to check the front of the card for "Anthem" and the Rocky Mountain on the back right bottom of the card. |  | BCBS Anthem Rocky Mtn PPO FL-00590 | PAR |
+| BCBS Anthem Rocky Mountain Medicare (PPO) - all plans that are not BCBS of Florida; please ask the patient to check the front and back copy of the card for the state. The patient will find Rocky Mountain on the back right bottom of the card |  | Self Pay Non-Par with Ins | Non-PAR |
+| BCBS Anthem Virginia Commercial PPO Plans -Ask the patient to check the front of the card for "Anthem" and the state on the back right bottom of the card. |  | BCBS Anthem VA PPO FL-00590 | PAR |
+| BCBS Anthem Virginia Medicare (PPO) - all plans that are not BCBS of Florida; please ask the patient to check the front and back copy of the card for the state. The patient will find Virginia on the back right bottom of the card |  | Self Pay Non-Par with Ins | Non-PAR |
+| BCBS Anthem Wisconsin Commercial PPO Plans -Ask the patient to check the front of the card for "Anthem" and the state on the back right bottom of the card. |  | BCBS Anthem WI PPO FL-00590 | PAR |
+| BCBS Anthem Wisconsin Medicare (PPO) - all plans that are not BCBS of Florida; please ask the patient to check the front and back copy of the card for the state. The patient will find Wisconsin on the back right bottom of the card |  | Self Pay Non-Par with Ins | Non-PAR |
+| BCBS Arizona Commercial PPO Plans - Ask the patient to check the front of the card for "BCBS" and the state on the back of the card. |  | BCBS AZ PPO FL-00590 | PAR |
+| BCBS California PPO Plans - Ask the patient to check the front of the card for "BlueShield" and the state on the back of the card. (If it is Anthem - see "BCBS Anthem" on the insurance guide.) |  | BCBS CA PPO FL-00590 | PAR |
+| BCBS Capital Commercial PPO - The front of the card will state Capital in the upper left hand corner and will have PPO in the bottom right corner |  | BCBS Capital PPO FL-00590 | PAR |
+| BCBS Carefirst Admin Commercial PPO - The front of the card will state CareFirst BlueChoice in the upper left hand corner. This card does not say BlueChoice. |  | BCBS CareFirst Admin PPO FL-00590 | PAR |
+| BCBS Carefirst BlueChoice Commercial PPO - The front of the card will state CareFirst BlueChoice in the upper left hand corner. |  | BCBS CareFirst BC PPO FL-00590 | PAR |
+| BCBS CareFirst Maryland Commercial PPO - CareFirst is on the front top left of the card. Maryland is found on the back of the card. This card does not say BlueChoice. |  | BCBS CareFirst MD PPO FL-00590 | PAR |
+| BCBS CareFirst Maryland Medicare Supplemental - CareFirst is on the front top left of the card. Maryland is found on the back of the card. This card does not say BlueChoice |  | BCBS CareFirst MD Medicare Supp FL-00590 | PAR |
+| BCBS Credence Commercial PPO - Credence is largely on the front or back of the card. |  | BCBS Credence PPO FL-00590 | PAR |
+| BCBS Excellus Commercial PPO - Excellus is largely on the front or back of the card. |  | BCBS Excellus PPO FL-00590 | PAR |
+| BCBS Hawaii Commercial PPO Plans - Ask the patient to check the front of the card for "BCBS" and the state on the back of the card. |  | BCBS HI PPO FL-00590 | PAR |
+| BCBS Highmark Delaware Commercial PPO - Highmark is largely on the card, ask the patient to locate the state on the front or back. |  | BCBS Highmark DE PPO FL-00590 | PAR |
+| BCBS Highmark North Eastern New York Commercial PPO - Highmark is largely on the card, ask the patient to locate the state on the front or back. |  | BCBS Highmark NE.NY PPO FL-00590 | PAR |
+| BCBS Highmark Not Otherwise Classified Commercial PPO - Highmark is largely on the front or back of the card. This plan is to be select ONLY when a state is not found on the back of the card. |  | BCBS Highmark NOC PPO FL-00590 | PAR |
+| BCBS Highmark Not Otherwise Classified Medicare Supplemental - Highmark is largely on the front or back of the card. This plan is to be select ONLY when a state is not found on the back of the card. |  | BCBS Highmark NOC Medicare Supp FL-00590 | PAR |
+| BCBS Highmark West Virginia Commercial PPO - Highmark is largely on the card, ask the patient to locate the state on the front or back. |  | BCBS Highmark WV PPO FL-00590 | PAR |
+| BCBS Highmark Western New York Commercial PPO - Highmark is largely on the card, ask the patient to locate the state on the front or back. |  | BCBS Highmark W.NY PPO FL-00590 | PAR |
+| BCBS Horizon New Jersey Commercial PPO - Horizon is largely on the front or back of the card. |  | BCBS Horizon NJ PPO FL-00590 | PAR |
+| BCBS Horizon New Jersey Medicare Supplemental - Horizon is largely on the front or back of the card. |  | BCBS Horizon NJ Medicare Supp FL-00590 | PAR |
+| BCBS Illinois Commercial HPN Plans - Ask the patient to check the front of the card for "BCBS" and the state on the back of the card. |  | BCBS IL HPN FL-00590 | PAR |
+| BCBS Illinois Commercial PPO Plans - Ask the patient to check the front of the card for "BCBS" and the state on the back of the card. |  | BCBS IL PPO FL-00590 | PAR |
+| BCBS Illinois Medicare PPO Supplemental - Ask the patient to check the front of the card for "BCBS" and the state on the back of the card. |  | BCBS IL Medicare Supp FL-00590 | PAR |
+| BCBS Independence Commercial PPO - Independence is largely on the front or back of the card. |  | BCBS Independence PPO FL-00590 | PAR |
+| BCBS Independence Medicare Suuplemental - Independence is largely on the front or back of the card. |  | BCBS Independence Medicare Supp FL-00590 | PAR |
+| BCBS Iowa Commercial PPO Plans - Ask the patient to check the front of the card for "BCBS" and the state on the back of the card. |  | BCBS IA PPO FL-00590 | PAR |
+| BCBS Kansas City Commercial PPO Plans - Ask the patient to check the front of the card for "BCBS" and the state/city on the back of the card. |  | BCBS Kansas City PPO FL-00590 | PAR |
+| BCBS Kansas Commercial PPO Plans - Ask the patient to check the front of the card for "BCBS" and the state on the back of the card. |  | BCBS KS PPO FL-00590 | PAR |
+| BCBS Kentucky Commercial PPO Plans - Ask the patient to check the front of the card for "BCBS" and the state/city on the back of the card. |  | BCBS KY PPO FL-00590 | PAR |
+| BCBS Louisiana Commercial PPO Plans - Ask the patient to check the front of the card for "BCBS" and the state on the back of the card. |  | BCBS LA PPO FL-00590 | PAR |
+| BCBS Maryland Commercial PPO Plans - Ask the patient to check the front of the card for "BCBS" and the state on the back of the card. |  | BCBS MD PPO FL-00590 | PAR |
+| BCBS Massachusetts Commercial PPO Plans - Ask the patient to check the front of the card for "BCBS" and the state on the back of the card. |  | BCBS MA PPO FL-00590 | PAR |
+| BCBS Michigan Commercial PPO Plans - Ask the patient to check the front of the card for "BCBS" and the state on the back of the card. |  | BCBS MI PPO FL-00590 | PAR |
+| BCBS Michigan Medicare Supplemental PPO Plans - Ask the patient to check the front of the card for "BCBS" and the state on the back of the card. |  | BCBS MI Medicare Supp FL-00590 | PAR |
+| BCBS Minnesota Commercial PPO Plans - Ask the patient to check the front of the card for "BCBS" and the state on the back of the card. |  | BCBS MN PPO FL-00590 | PAR |
+| BCBS Minnesota Medicare Supplemental Plans - Ask the patient to check the front of the card for "BCBS" and the state on the back of the card. |  | BCBS MN Medicare Supp FL-00590 | PAR |
+| BCBS Montana Commercial PPO Plans - Ask the patient to check the front of the card for "BCBS" and the state on the back of the card. |  | BCBS MT PPO FL-00590 | PAR |
+| BCBS Nebraska Commercial PPO Plans - Ask the patient to check the front of the card for "BCBS" and the state on the back of the card. |  | BCBS NE PPO FL-00590 | PAR |
+| BCBS New Mexico Commercial PPO Plans - Ask the patient to check the front of the card for "BCBS" and the state on the back of the card. |  | BCBS NM PPO FL-00590 | PAR |
+| BCBS New Mexico Commercial PPO Plans - Ask the patient to check the front of the card for "BCBS" and the state on the back of the card. |  | BCBS NM PPO FL-00590 | PAR |
+| BCBS North Carolina Commercial PPO Plans - Ask the patient to check the front of the card for "BCBS" and the state on the back of the card. |  | BCBS NC PPO FL-00590 | PAR |
+| BCBS of FL Blue Choice Commercial (HMO) - Ask the patient to check the front of the card for "BCBS" and the state on the back of the card. |  | BCBS BlueChoice HMO FL-00590 | PAR |
+| BCBS of FL Blue Option (HMO) - Ask the patient to check the front of the card for "BCBS" and the state on the back of the card. |  | BCBS BlueOption HMO FL-00590 | PAR |
+| BCBS of FL Blue Select (HMO) - Ask the patient to check the front of the card for "BCBS" and the state on the back of the card. |  | BCBS BlueSelect HMO FL-00590 | PAR |
+| BCBS of FL BlueCare Commercial(HMO) - Ask the patient to find FL on the front/back of the card. |  | BCBS BlueCare HMO FL-00590 | PAR |
+| BCBS of FL BlueMedicare (HMO) |  | Self Pay Non-Par with Ins | Non-PAR |
+| BCBS of FL BlueMedicare (PPO) |  | Self Pay Non-Par with Ins | Non-PAR |
+| BCBS of FL Federal Employee Program | R | BCBS Federal FL-00590 | PAR |
+| BCBS of FL MyBlue Commercial (HMO) - Ask the patient to find FL on the front/back of the card. | VMYH | BCBS MyBlue HMO FL-00590 | PAR |
+| BCBS of FL Network Blue Commercial (PPO) - Ask the patient to find FL on the front/back of the card. |  | BCBS Network Blue PPO FL-00590 | PAR |
+| BCBS of FL No Plan on Card Commercial PPO - FL will be found on the front/back of the card, ask the patient what plan is along the front right side of the card and search within the guide. This plan is ONLY to be selected if there is no plan on the card. |  | BCBS PPO FL-00590 | PAR |
+| BCBS of FL SimplyBlue Commercial (HMO) | FSOH | BCBS SimplyBlue HMO FL-00590 | PAR |
+| BCBS of FL Traditional Commercial (PPO) - Ask the patient to find FL on the front/back of the card. |  | BCBS Traditional PPO FL-00590 | PAR |
+| BCBS Oklahoma Commercial PPO Plans - Ask the patient to check the front of the card for "BCBS" and the state on the back of the card. |  | BCBS OK PPO FL-00590 | PAR |
+| BCBS Oregon Commercial PPO Plans - Ask the patient to check the front of the card for "BCBS" and the state on the back of the card. |  | BCBS OR PPO FL-00590 | PAR |
+| BCBS Out of State California Medicare (PPO) -all plans that are not BCBS of Florida; please ask the patient to check the front and back copy of the card for the state. If the card says "Anthem", please see ANTHEM on the insurance guide |  | Self Pay Non-Par with Ins | Non-PAR |
+| BCBS Out of State Capital Medicare (PPO) |  | Self Pay Non-Par with Ins | Non-PAR |
+| BCBS Out of State CareFirst Administrators Vision |  | Self Pay Non-Par with Ins | Non-PAR |
+| BCBS Out of State Carefirst Medicare (PPO) |  | Self Pay Non-Par with Ins | Non-PAR |
+| BCBS Out of State Excellus Medicare (PPO) |  | Self Pay Non-Par with Ins | Non-PAR |
+| BCBS Out of State Highmark Not Otherwise Classified Medicare (PPO) - These plans do not have a state or payer name found on the back of the card |  | Self Pay Non-Par with Ins | Non-PAR |
+| BCBS Out of State Highmark of Delaware Medicare (PPO) |  | Self Pay Non-Par with Ins | Non-PAR |
+| BCBS Out of State Highmark Senior Medicare (PPO) |  | Self Pay Non-Par with Ins | Non-PAR |
+| BCBS Out of State Highmark West Virginia Medicare (PPO) |  | Self Pay Non-Par with Ins | Non-PAR |
+| BCBS Out of State Highmark Western New York Medicare (PPO) |  | Self Pay Non-Par with Ins | Non-PAR |
+| BCBS Out of State Horizon New Jersey Medicare (PPO) -all plans that are not BCBS of Florida; please ask the patient to check the front and back copy of the card for the state. If the card says "Anthem", please see ANTHEM on the insurance guide |  | Self Pay Non-Par with Ins | Non-PAR |
+| BCBS Out of State Illinois Medicare (PPO) -all plans that are not BCBS of Florida; please ask the patient to check the front and back copy of the card for the state. If the card says "Anthem", please see ANTHEM on the insurance guide |  | Self Pay Non-Par with Ins | Non-PAR |
+| BCBS Out of State Independence Medicare (PPO) |  | Self Pay Non-Par with Ins | Non-PAR |
+| BCBS Out of State Michigan Medicare (HMO) - all plans that are not BCBS of Florida; please ask the patient to check the front and back copy of the card for the state. If the card says "Anthem", please see ANTHEM on the insurance guide ALL PLANS Commercial and Medicare HMO PLANS ARE OUT OF NETWORK- SELF PAY |  | Self Pay Non-Par with Ins | Non-PAR |
+| BCBS Out of State Michigan Medicare (PPO) -all plans that are not BCBS of Florida; please ask the patient to check the front and back copy of the card for the state. If the card says "Anthem", please see ANTHEM on the insurance guide |  | Self Pay Non-Par with Ins | Non-PAR |
+| BCBS Out of State Minnesota Medicare (PPO) -all plans that are not BCBS of Florida; please ask the patient to check the front and back copy of the card for the state. If the card says "Anthem", please see ANTHEM on the insurance guide |  | Self Pay Non-Par with Ins | Non-PAR |
+| BCBS Out of State North Carolina Medicare (PPO) -all plans that are not BCBS of Florida; please ask the patient to check the front and back copy of the card for the state. If the card says "Anthem", please see ANTHEM on the insurance guide |  | Self Pay Non-Par with Ins | Non-PAR |
+| BCBS Out of State Oklahoma Medicare (PPO) -all plans that are not BCBS of Florida; please ask the patient to check the front and back copy of the card for the state. If the card says "Anthem", please see ANTHEM on the insurance guide |  | Self Pay Non-Par with Ins | Non-PAR |
+| BCBS Out of State Rhode Island Medicare (HMO) - all plans that are not BCBS of Florida; please ask the patient to check the front and back copy of the card for the state. If the card says "Anthem", please see ANTHEM on the insurance guide |  | Self Pay Non-Par with Ins | Non-PAR |
+| BCBS Out of State Rhode Island Medicare (PPO) -all plans that are not BCBS of Florida; please ask the patient to check the front and back copy of the card for the state. If the card says "Anthem", please see ANTHEM on the insurance guide |  | Self Pay Non-Par with Ins | Non-PAR |
+| BCBS Out of State South Carolina Commercial (PPO) -all plans that are not BCBS of Florida; please ask the patient to check the front and back copy of the card for the state. If the card says "Anthem", please see ANTHEM on the insurance guide |  | BCBS SC PPO FL-00590 | PAR |
+| BCBS Out of State Tennessee Commercial (PPO) -all plans that are not BCBS of Florida; please ask the patient to check the front and back copy of the card for the state. If the card says "Anthem", please see ANTHEM on the insurance guide |  | BCBS TN PPO FL-00590 | PAR |
+| BCBS Out of State Tennessee Medicare (PPO) -all plans that are not BCBS of Florida; please ask the patient to check the front and back copy of the card for the state. If the card says "Anthem", please see ANTHEM on the insurance guide |  | Self Pay Non-Par with Ins | Non-PAR |
+| BCBS Out of State Texas Medicare (PPO) -all plans that are not BCBS of Florida; please ask the patient to check the front and back copy of the card for the state. If the card says "Anthem", please see ANTHEM on the insurance guide |  | Self Pay Non-Par with Ins | Non-PAR |
+| BCBS Out of State Vermont Medicare (PPO) -all plans that are not BCBS of Florida; please ask the patient to check the front and back copy of the card for the state. If the card says "Anthem", please see ANTHEM on the insurance guide |  | Self Pay Non-Par with Ins | Non-PAR |
+| BCBS Out of State Wellmark of Iowa Medicare (PPO) |  | Self Pay Non-Par with Ins | Non-PAR |
+| BCBS Out of State Wyoming Commercial (PPO) -all plans that are not BCBS of Florida; please ask the patient to check the front and back copy of the card for the state. If the card says "Anthem", please see ANTHEM on the insurance guide |  | BCBS WY PPO FL-00590 | PAR |
+| BCBS Premera Commercial PPO - Premera is largely on the front or back of the card. |  | BCBS Premera PPO FL-00590 | PAR |
+| BCBS Regence Not Otherwise Classified Commercial PPO - Ask the patient to locate the state, Regence is largely on the front or back of the card. This plan is only to be selected if a state i not on the card. |  | BCBS Regence NOC PPO FL-00590 | PAR |
+| BCBS Regence of Idaho Commercial PPO - Ask the patient to locate the state, Regence is largely on the front or back of the card. |  | BCBS Regence ID PPO FL-00590 | PAR |
+| BCBS Regence of Oregon Commercial PPO - Ask the patient to locate the state, Regence is largely on the front or back of the card. |  | BCBS Regence OR PPO FL-00590 | PAR |
+| BCBS Regence of Utah Commercial PPO - Ask the patient to locate the state, Regence is largely on the front or back of the card. |  | BCBS Regence UT PPO FL-00590 | PAR |
+| BCBS Regence of Washington Commercial PPO - Ask the patient to locate the state, Regence is largely on the front or back of the card. |  | BCBS Regence WA PPO FL-00590 | PAR |
+| BCBS Rhode Island Commercial PPO Plans - Ask the patient to check the front of the card for "BCBS" and the state on the back of the card. |  | BCBS RI PPO FL-00590 | PAR |
+| BCBS Rhode Island Medicare Supplemental Plans - Ask the patient to check the front of the card for "BCBS" and the state on the back of the card. |  | BCBS RI Medicare Supp FL-00590 | PAR |
+| BCBS Texas Commercial Medicare Supplemental Plans - Ask the patient to check the front of the card for "BCBS" and the state on the back of the card. |  | BCBS TX Medicare Supp FL-00590 | PAR |
+| BCBS Texas Commercial PPO Plans - Ask the patient to check the front of the card for "BCBS" and the state on the back of the card. |  | BCBS TX PPO FL-00590 | PAR |
+| BCBS Utah Commercial PPO Plans - Ask the patient to check the front of the card for "BCBS" and the state on the back of the card. |  | BCBS UT PPO FL-00590 | PAR |
+| BCBS Vermont Commercial PPO Plans - Ask the patient to check the front of the card for "BCBS" and the state on the back of the card. |  | BCBS VT PPO FL-00590 | PAR |
+| BCBS Wellmark Iowa Commercial PPO - Wellmark is largely on the front or back of the card. |  | BCBS Wellmark IA PPO FL-00590 | PAR |
+| BCBS Western New York Commercial (PPO) -Ask the patient to check the front and back copy of the card for the state. |  | BCBS W.NY PPO FL-00590 | PAR |
 | ChampVA |  | ChampVA | PAR |
 | Cigna Choice Fund PPO |  | Cigna Commercial PPO | PAR |
 | Cigna ChoiceFund OA Plus/Cigna ChoiceFund OA Plus with CareLink |  | Cigna Commercial PPO | PAR |
@@ -132,6 +232,7 @@
 | Tricare Prime |  | Tricare Prime HMO-REFERRAL REQ | PAR |
 | Tricare Select |  | Tricare Select | PAR |
 | UHC Care Advantage FL-E001 (PPO I-SNP) |  | UHC Medicare Advantage PPO-87726 | PAR |
+| UHC Global (PPO) |  | UHC Global  USN01 | PAR |
 | UMR (Choice Plus, Core, Freedom, NexusACO OAP, Options PPO, Select Plus POS Network) |  | UHC UMR-39026 | PAR |
 | United Healthcare Charter EPO/Charter POS |  | UHC PPO/POS-87726 | PAR |
 | United Healthcare Choice EPO/Choice Plus POS |  | UHC PPO/POS-87726 | PAR |
@@ -150,7 +251,6 @@
 | United Healthcare ER Wrap (W500 on back of card) |  | UHC ER Wrap | PAR |
 | United Healthcare FL ALL Medicaid plans |  | Self Pay Non-Par with Ins | Non-PAR |
 | United Healthcare FL CHIP |  | Self Pay Non-Par with Ins | Non-PAR |
-| UHC Global (PPO) |  | UHC Global  USN01 | PAR |
 | United Healthcare Group Medicare Advantage (PPO) |  | UHC Medicare Advantage PPO-87726 | PAR |
 | United Healthcare Heritage ALL Plans |  | Self Pay Non-Par with Ins | Non-PAR |
 | United Healthcare Indemnity-we will only accept this plan as a secondary/supplement |  | Self Pay Non-Par with Ins | Non-PAR |
@@ -160,10 +260,10 @@
 | United Healthcare NATIONAL ANCILLARY |  | Self Pay Non-Par with Ins | Non-PAR |
 | United Healthcare Navigate HMO/ HMO Plus/ Navigate POS/Navigate EPO |  | UHC Navigate REFERRAL REQ | PAR |
 | United Healthcare NexusACO NR EPO,NR POS, R EPO, R POS/NR HMO/R HMO |  | UHC Comm HMO Referral REQ | PAR |
-| United Healthcare NexusACO OA POS/ OA EPO |  | UHC PPO/POS-87726 | PAR |
 | United Healthcare NexusACO NR EPO/HMO/POS |  | UHC PPO/POS-87726 | PAR |
-| United Healthcare NexusACO R EPO/HMO/POS |  | UHC PPO/POS-87726 | PAR |
+| United Healthcare NexusACO OA POS/ OA EPO |  | UHC PPO/POS-87726 | PAR |
 | United Healthcare NexusACO R EPO/HMO/POS |  | UHC NexusACO R-87726 | PAR |
+| United Healthcare NexusACO R EPO/HMO/POS |  | UHC PPO/POS-87726 | PAR |
 | United Healthcare NHP-Neighborhood Health Plan Direct Access |  | UHC NHP HMO Access-87226 | PAR |
 | United Healthcare Nursing Home Plan EX-F006 (HMO-POS I-SNP)/FL-F001 (PPO I-SNP)/FL-F002 (PPO I-SNP) |  | UHC Nursing Home Plan FL PPO-87726 | PAR |
 | United Healthcare PPO |  | UHC PPO/POS-87726 | PAR |

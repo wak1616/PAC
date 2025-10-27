@@ -21,12 +21,12 @@
 | James Lenhart, OD |  | UHC Shared Services PPO-39026 | PAR |
 | Joaquin De Rojas, MD |  | UHC Shared Services PPO-39026 | PAR |
 | John Fezza, MD (Oculoplastics) |  | UHC Shared Services PPO-39026 | PAR |
-| Jordan Shoemaker, PA - Start Date 10/06/2025 |  | UHC Shared Services PPO-39026 | PAR |
+| Jordan Shoemaker, PA |  | UHC Shared Services PPO-39026 | PAR |
 | Joseph Sowka, OD |  | UHC Shared Services PPO-39026 | PAR |
 | Joshua Kim, MD |  | UHC Shared Services PPO-39026 | PAR |
 | Joshua Newman, MD |  | UHC Shared Services PPO-39026 | PAR |
 | Kalie Kosek, PA |  | UHC Shared Services PPO-39026 | PAR |
-| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 |  | UHC Shared Services PPO-39026 | PAR |
+| Khrystyna Ostrozhynska, OD |  | UHC Shared Services PPO-39026 | PAR |
 | Kyle Schaub, OD |  | UHC Shared Services PPO-39026 | PAR |
 | Len Brown, OD |  | UHC Shared Services PPO-39026 | PAR |
 | Logan Page, OD |  | UHC Shared Services PPO-39026 | PAR |

@@ -21,12 +21,12 @@
 | James Lenhart, OD |  | Priority Health Medicare HMO - Multiplan | PAR |
 | Joaquin De Rojas, MD |  | Priority Health Medicare HMO - Multiplan | PAR |
 | John Fezza, MD (Oculoplastics) |  | Priority Health Medicare HMO - Multiplan | PAR |
-| Jordan Shoemaker, PA - Start Date 10/06/2025 |  | Priority Health Medicare HMO - Multiplan | PAR |
+| Jordan Shoemaker, PA |  | Priority Health Medicare HMO - Multiplan | PAR |
 | Joseph Sowka, OD |  | Priority Health Medicare HMO - Multiplan | PAR |
 | Joshua Kim, MD |  | Priority Health Medicare HMO - Multiplan | PAR |
 | Joshua Newman, MD |  | Priority Health Medicare HMO - Multiplan | PAR |
 | Kalie Kosek, PA |  | Priority Health Medicare HMO - Multiplan | PAR |
-| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 |  | Priority Health Medicare HMO - Multiplan | PAR |
+| Khrystyna Ostrozhynska, OD |  | Priority Health Medicare HMO - Multiplan | PAR |
 | Kyle Schaub, OD |  | Priority Health Medicare HMO - Multiplan | PAR |
 | Len Brown, OD |  | Priority Health Medicare HMO - Multiplan | PAR |
 | Logan Page, OD |  | Priority Health Medicare HMO - Multiplan | PAR |

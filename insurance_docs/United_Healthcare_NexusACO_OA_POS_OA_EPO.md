@@ -47,9 +47,9 @@
 | John Fezza, MD (Oculoplastics) |  | UHC PPO/POS-87726 | PAR |
 | John Fezza, MD (Oculoplastics) |  | UHC PPO/POS-87727 | PAR |
 | John Fezza, MD (Oculoplastics) |  | UHC PPO/POS-87728 | PAR |
-| Jordan Shoemaker, PA - Start Date 10/06/2025 |  | UHC PPO/POS-87726 | PAR |
-| Jordan Shoemaker, PA - Start Date 10/06/2025 |  | UHC PPO/POS-87727 | PAR |
-| Jordan Shoemaker, PA - Start Date 10/06/2025 |  | UHC PPO/POS-87728 | PAR |
+| Jordan Shoemaker, PA |  | UHC PPO/POS-87726 | PAR |
+| Jordan Shoemaker, PA |  | UHC PPO/POS-87727 | PAR |
+| Jordan Shoemaker, PA |  | UHC PPO/POS-87728 | PAR |
 | Joseph Sowka, OD |  | UHC PPO/POS-87726 | PAR |
 | Joseph Sowka, OD |  | UHC PPO/POS-87727 | PAR |
 | Joseph Sowka, OD |  | UHC PPO/POS-87728 | PAR |
@@ -62,9 +62,9 @@
 | Kalie Kosek, PA |  | UHC PPO/POS-87726 | PAR |
 | Kalie Kosek, PA |  | UHC PPO/POS-87727 | PAR |
 | Kalie Kosek, PA |  | UHC PPO/POS-87728 | PAR |
-| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 |  | UHC PPO/POS-87726 | PAR |
-| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 |  | UHC PPO/POS-87727 | PAR |
-| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 |  | UHC PPO/POS-87728 | PAR |
+| Khrystyna Ostrozhynska, OD |  | UHC PPO/POS-87726 | PAR |
+| Khrystyna Ostrozhynska, OD |  | UHC PPO/POS-87727 | PAR |
+| Khrystyna Ostrozhynska, OD |  | UHC PPO/POS-87728 | PAR |
 | Kyle Schaub, OD |  | UHC PPO/POS-87726 | PAR |
 | Kyle Schaub, OD |  | UHC PPO/POS-87727 | PAR |
 | Kyle Schaub, OD |  | UHC PPO/POS-87728 | PAR |
@@ -122,17 +122,9 @@
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
 | George Brinnig-Jastrzebski, MD |  | UHC PPO/POS-87726 | PAR |
-| George Brinnig-Jastrzebski, MD |  | UHC PPO/POS-87727 | PAR |
-| George Brinnig-Jastrzebski, MD |  | UHC PPO/POS-87728 | PAR |
 | Jenna Getman, OD |  | UHC PPO/POS-87726 | PAR |
-| Jenna Getman, OD |  | UHC PPO/POS-87727 | PAR |
-| Jenna Getman, OD |  | UHC PPO/POS-87728 | PAR |
 | Jon Berlie, MD |  | UHC PPO/POS-87726 | PAR |
-| Jon Berlie, MD |  | UHC PPO/POS-87727 | PAR |
-| Jon Berlie, MD |  | UHC PPO/POS-87728 | PAR |
 | Julie Carter, MD |  | UHC PPO/POS-87726 | PAR |
-| Julie Carter, MD |  | UHC PPO/POS-87727 | PAR |
-| Julie Carter, MD |  | UHC PPO/POS-87728 | PAR |
 
 ## Lake Eye 
 

@@ -21,12 +21,12 @@
 | James Lenhart, OD |  | Allegiance Benefit Plan Management-Cigna | PAR |
 | Joaquin De Rojas, MD |  | Allegiance Benefit Plan Management-Cigna | PAR |
 | John Fezza, MD (Oculoplastics) |  | Allegiance Benefit Plan Management-Cigna | PAR |
-| Jordan Shoemaker, PA - Start Date 10/06/2025 |  | Allegiance Benefit Plan Management-Cigna | Non-PAR |
+| Jordan Shoemaker, PA |  | Allegiance Benefit Plan Management-Cigna | Non-PAR |
 | Joseph Sowka, OD |  | Allegiance Benefit Plan Management-Cigna | PAR |
 | Joshua Kim, MD |  | Allegiance Benefit Plan Management-Cigna | PAR |
 | Joshua Newman, MD |  | Allegiance Benefit Plan Management-Cigna | PAR |
 | Kalie Kosek, PA |  | Allegiance Benefit Plan Management-Cigna | PAR |
-| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 |  | Allegiance Benefit Plan Management-Cigna | PAR |
+| Khrystyna Ostrozhynska, OD |  | Allegiance Benefit Plan Management-Cigna | PAR |
 | Kyle Schaub, OD |  | Allegiance Benefit Plan Management-Cigna | PAR |
 | Len Brown, OD |  | Allegiance Benefit Plan Management-Cigna | PAR |
 | Logan Page, OD |  | Allegiance Benefit Plan Management-Cigna | PAR |

@@ -21,12 +21,12 @@
 | James Lenhart, OD |  | UHC Commercial HMO | PAR |
 | Joaquin De Rojas, MD |  | UHC Commercial HMO | PAR |
 | John Fezza, MD (Oculoplastics) |  | UHC Commercial HMO | PAR |
-| Jordan Shoemaker, PA - Start Date 10/06/2025 |  | UHC Commercial HMO | PAR |
+| Jordan Shoemaker, PA |  | UHC Commercial HMO | PAR |
 | Joseph Sowka, OD |  | UHC Commercial HMO | PAR |
 | Joshua Kim, MD |  | UHC Commercial HMO | PAR |
 | Joshua Newman, MD |  | UHC Commercial HMO | PAR |
 | Kalie Kosek, PA |  | UHC Commercial HMO | PAR |
-| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 |  | UHC Commercial HMO | PAR |
+| Khrystyna Ostrozhynska, OD |  | UHC Commercial HMO | PAR |
 | Kyle Schaub, OD |  | UHC Commercial HMO | PAR |
 | Len Brown, OD |  | UHC Commercial HMO | PAR |
 | Logan Page, OD |  | UHC Commercial HMO | PAR |

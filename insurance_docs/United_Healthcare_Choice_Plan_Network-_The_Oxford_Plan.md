@@ -21,12 +21,12 @@
 | James Lenhart, OD |  | UHC Oxford PPO-06111 | PAR |
 | Joaquin De Rojas, MD |  | UHC Oxford PPO-06111 | PAR |
 | John Fezza, MD (Oculoplastics) |  | UHC Oxford PPO-06111 | PAR |
-| Jordan Shoemaker, PA - Start Date 10/06/2025 |  | UHC Oxford PPO-06111 | PAR |
+| Jordan Shoemaker, PA |  | UHC Oxford PPO-06111 | PAR |
 | Joseph Sowka, OD |  | UHC Oxford PPO-06111 | PAR |
 | Joshua Kim, MD |  | UHC Oxford PPO-06111 | PAR |
 | Joshua Newman, MD |  | UHC Oxford PPO-06111 | PAR |
 | Kalie Kosek, PA |  | UHC Oxford PPO-06111 | PAR |
-| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 |  | UHC Oxford PPO-06111 | PAR |
+| Khrystyna Ostrozhynska, OD |  | UHC Oxford PPO-06111 | PAR |
 | Kyle Schaub, OD |  | UHC Oxford PPO-06111 | PAR |
 | Len Brown, OD |  | UHC Oxford PPO-06111 | PAR |
 | Logan Page, OD |  | UHC Oxford PPO-06111 | PAR |

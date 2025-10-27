@@ -21,12 +21,12 @@
 | James Lenhart, OD |  | Evolutions PPO | PAR |
 | Joaquin De Rojas, MD |  | Evolutions PPO | PAR |
 | John Fezza, MD (Oculoplastics) |  | Evolutions PPO | PAR |
-| Jordan Shoemaker, PA - Start Date 10/06/2025 |  | Evolutions PPO | Non-PAR |
+| Jordan Shoemaker, PA |  | Evolutions PPO | Non-PAR |
 | Joseph Sowka, OD |  | Evolutions PPO | PAR |
 | Joshua Kim, MD |  | Evolutions PPO | PAR |
 | Joshua Newman, MD |  | Evolutions PPO | PAR |
 | Kalie Kosek, PA |  | Evolutions PPO | PAR |
-| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 |  | Evolutions PPO | Non-PAR |
+| Khrystyna Ostrozhynska, OD |  | Evolutions PPO | Non-PAR |
 | Kyle Schaub, OD |  | Evolutions PPO | PAR |
 | Len Brown, OD |  | Evolutions PPO | PAR |
 | Logan Page, OD |  | Evolutions PPO | PAR |

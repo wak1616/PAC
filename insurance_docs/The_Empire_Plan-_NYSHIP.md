@@ -21,12 +21,12 @@
 | James Lenhart, OD |  | UHC Empire Plan-NYSHIP-87726 | PAR |
 | Joaquin De Rojas, MD |  | UHC Empire Plan-NYSHIP-87726 | PAR |
 | John Fezza, MD (Oculoplastics) |  | UHC Empire Plan-NYSHIP-87726 | PAR |
-| Jordan Shoemaker, PA - Start Date 10/06/2025 |  | UHC Empire Plan-NYSHIP-87726 | PAR |
+| Jordan Shoemaker, PA |  | UHC Empire Plan-NYSHIP-87726 | PAR |
 | Joseph Sowka, OD |  | UHC Empire Plan-NYSHIP-87726 | PAR |
 | Joshua Kim, MD |  | UHC Empire Plan-NYSHIP-87726 | PAR |
 | Joshua Newman, MD |  | UHC Empire Plan-NYSHIP-87726 | PAR |
 | Kalie Kosek, PA |  | UHC Empire Plan-NYSHIP-87726 | PAR |
-| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 |  | UHC Empire Plan-NYSHIP-87726 | PAR |
+| Khrystyna Ostrozhynska, OD |  | UHC Empire Plan-NYSHIP-87726 | PAR |
 | Kyle Schaub, OD |  | UHC Empire Plan-NYSHIP-87726 | PAR |
 | Len Brown, OD |  | UHC Empire Plan-NYSHIP-87726 | PAR |
 | Logan Page, OD |  | UHC Empire Plan-NYSHIP-87726 | PAR |

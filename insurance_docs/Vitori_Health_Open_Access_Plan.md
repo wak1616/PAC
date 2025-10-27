@@ -21,12 +21,12 @@
 | James Lenhart, OD |  | Vitori Health Open Access Plan | PAR |
 | Joaquin De Rojas, MD |  | Vitori Health Open Access Plan | PAR |
 | John Fezza, MD (Oculoplastics) |  | Vitori Health Open Access Plan | PAR |
-| Jordan Shoemaker, PA - Start Date 10/06/2025 |  | Vitori Health Open Access Plan | Non-PAR |
+| Jordan Shoemaker, PA |  | Vitori Health Open Access Plan | Non-PAR |
 | Joseph Sowka, OD |  | Vitori Health Open Access Plan | PAR |
 | Joshua Kim, MD |  | Vitori Health Open Access Plan | PAR |
 | Joshua Newman, MD |  | Vitori Health Open Access Plan | PAR |
 | Kalie Kosek, PA |  | Vitori Health Open Access Plan | PAR |
-| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 |  | Vitori Health Open Access Plan | PAR |
+| Khrystyna Ostrozhynska, OD |  | Vitori Health Open Access Plan | PAR |
 | Kyle Schaub, OD |  | Vitori Health Open Access Plan | PAR |
 | Len Brown, OD |  | Vitori Health Open Access Plan | PAR |
 | Logan Page, OD |  | Vitori Health Open Access Plan | PAR |
@@ -50,7 +50,7 @@
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
 | George Brinnig-Jastrzebski, MD |  | Vitori Health Open Access Plan | PAR |
-| Jenna Getman, OD |  | Vitori Health Open Access Plan | Non-PAR |
+| Jenna Getman, OD |  | Vitori Health Open Access Plan | PAR |
 | Jon Berlie, MD |  | Vitori Health Open Access Plan | PAR |
 | Julie Carter, MD |  | Vitori Health Open Access Plan | PAR |
 

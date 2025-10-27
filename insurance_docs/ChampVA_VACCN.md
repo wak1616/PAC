@@ -21,12 +21,12 @@
 | James Lenhart, OD |  | Champva | PAR |
 | Joaquin De Rojas, MD |  | Champva | PAR |
 | John Fezza, MD (Oculoplastics) |  | Champva | PAR |
-| Jordan Shoemaker, PA - Start Date 10/06/2025 |  | Champva | PAR |
+| Jordan Shoemaker, PA |  | Champva | PAR |
 | Joseph Sowka, OD |  | Champva | PAR |
 | Joshua Kim, MD |  | Champva | PAR |
 | Joshua Newman, MD |  | Champva | PAR |
 | Kalie Kosek, PA |  | Champva | PAR |
-| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 |  | Champva | PAR |
+| Khrystyna Ostrozhynska, OD |  | Champva | PAR |
 | Kyle Schaub, OD |  | Champva | PAR |
 | Len Brown, OD |  | Champva | PAR |
 | Logan Page, OD |  | Champva | PAR |

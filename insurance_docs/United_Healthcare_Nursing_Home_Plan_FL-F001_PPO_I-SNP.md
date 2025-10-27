@@ -21,12 +21,12 @@
 | James Lenhart, OD |  | UHC Nursing Home Plan FL PPO-87726 | PAR |
 | Joaquin De Rojas, MD |  | UHC Nursing Home Plan FL PPO-87726 | PAR |
 | John Fezza, MD (Oculoplastics) |  | UHC Nursing Home Plan FL PPO-87726 | PAR |
-| Jordan Shoemaker, PA - Start Date 10/06/2025 |  | UHC Nursing Home Plan FL PPO-87726 | PAR |
+| Jordan Shoemaker, PA |  | UHC Nursing Home Plan FL PPO-87726 | PAR |
 | Joseph Sowka, OD |  | UHC Nursing Home Plan FL PPO-87726 | PAR |
 | Joshua Kim, MD |  | UHC Nursing Home Plan FL PPO-87726 | PAR |
 | Joshua Newman, MD |  | UHC Nursing Home Plan FL PPO-87726 | PAR |
 | Kalie Kosek, PA |  | UHC Nursing Home Plan FL PPO-87726 | PAR |
-| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 |  | UHC Nursing Home Plan FL PPO-87726 | PAR |
+| Khrystyna Ostrozhynska, OD |  | UHC Nursing Home Plan FL PPO-87726 | PAR |
 | Kyle Schaub, OD |  | UHC Nursing Home Plan FL PPO-87726 | PAR |
 | Len Brown, OD |  | UHC Nursing Home Plan FL PPO-87726 | PAR |
 | Logan Page, OD |  | UHC Nursing Home Plan FL PPO-87726 | PAR |

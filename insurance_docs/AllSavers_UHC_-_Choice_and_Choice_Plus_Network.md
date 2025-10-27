@@ -21,12 +21,12 @@
 | James Lenhart, OD |  | UHC All Savers-81400 | PAR |
 | Joaquin De Rojas, MD |  | UHC All Savers-81400 | PAR |
 | John Fezza, MD (Oculoplastics) |  | UHC All Savers-81400 | PAR |
-| Jordan Shoemaker, PA - Start Date 10/06/2025 |  | UHC All Savers-81400 | Non-PAR |
+| Jordan Shoemaker, PA |  | UHC All Savers-81400 | Non-PAR |
 | Joseph Sowka, OD |  | UHC All Savers-81400 | PAR |
 | Joshua Kim, MD |  | UHC All Savers-81400 | PAR |
 | Joshua Newman, MD |  | UHC All Savers-81400 | PAR |
 | Kalie Kosek, PA |  | UHC All Savers-81400 | PAR |
-| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 |  | UHC All Savers-81400 | PAR |
+| Khrystyna Ostrozhynska, OD |  | UHC All Savers-81400 | PAR |
 | Kyle Schaub, OD |  | UHC All Savers-81400 | PAR |
 | Len Brown, OD |  | UHC All Savers-81400 | PAR |
 | Logan Page, OD |  | UHC All Savers-81400 | PAR |

@@ -21,12 +21,12 @@
 | James Lenhart, OD |  | Lumimare Comm PPO - Aetna | PAR |
 | Joaquin De Rojas, MD |  | Lumimare Comm PPO - Aetna | PAR |
 | John Fezza, MD (Oculoplastics) |  | Lumimare Comm PPO - Aetna | PAR |
-| Jordan Shoemaker, PA - Start Date 10/06/2025 |  | Lumimare Comm PPO - Aetna | Non-PAR |
+| Jordan Shoemaker, PA |  | Lumimare Comm PPO - Aetna | Non-PAR |
 | Joseph Sowka, OD |  | Lumimare Comm PPO - Aetna | PAR |
 | Joshua Kim, MD |  | Lumimare Comm PPO - Aetna | PAR |
 | Joshua Newman, MD |  | Lumimare Comm PPO - Aetna | PAR |
 | Kalie Kosek, PA |  | Lumimare Comm PPO - Aetna | PAR |
-| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 |  | Lumimare Comm PPO - Aetna | PAR |
+| Khrystyna Ostrozhynska, OD |  | Lumimare Comm PPO - Aetna | PAR |
 | Kyle Schaub, OD |  | Lumimare Comm PPO - Aetna | PAR |
 | Len Brown, OD |  | Lumimare Comm PPO - Aetna | PAR |
 | Logan Page, OD |  | Lumimare Comm PPO - Aetna | PAR |

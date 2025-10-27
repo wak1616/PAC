@@ -21,12 +21,12 @@
 | James Lenhart, OD |  | Cigna Commercial HMO | PAR |
 | Joaquin De Rojas, MD |  | Cigna Commercial HMO | PAR |
 | John Fezza, MD (Oculoplastics) |  | Cigna Commercial HMO | Non-PAR |
-| Jordan Shoemaker, PA - Start Date 10/06/2025 |  | Cigna Commercial HMO | Non-PAR |
+| Jordan Shoemaker, PA |  | Cigna Commercial HMO | Non-PAR |
 | Joseph Sowka, OD |  | Cigna Commercial HMO | PAR |
 | Joshua Kim, MD |  | Cigna Commercial HMO | PAR |
 | Joshua Newman, MD |  | Cigna Commercial HMO | PAR |
 | Kalie Kosek, PA |  | Cigna Commercial HMO | Non-PAR |
-| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 |  | Cigna Commercial HMO | PAR |
+| Khrystyna Ostrozhynska, OD |  | Cigna Commercial HMO | PAR |
 | Kyle Schaub, OD |  | Cigna Commercial HMO | PAR |
 | Len Brown, OD |  | Cigna Commercial HMO | PAR |
 | Logan Page, OD |  | Cigna Commercial HMO | PAR |

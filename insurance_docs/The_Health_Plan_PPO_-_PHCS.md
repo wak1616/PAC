@@ -21,12 +21,12 @@
 | James Lenhart, OD |  | The Health Plan PPO - PHCS | PAR |
 | Joaquin De Rojas, MD |  | The Health Plan PPO - PHCS | PAR |
 | John Fezza, MD (Oculoplastics) |  | The Health Plan PPO - PHCS | PAR |
-| Jordan Shoemaker, PA - Start Date 10/06/2025 |  | The Health Plan PPO - PHCS | PAR |
+| Jordan Shoemaker, PA |  | The Health Plan PPO - PHCS | PAR |
 | Joseph Sowka, OD |  | The Health Plan PPO - PHCS | PAR |
 | Joshua Kim, MD |  | The Health Plan PPO - PHCS | PAR |
 | Joshua Newman, MD |  | The Health Plan PPO - PHCS | PAR |
 | Kalie Kosek, PA |  | The Health Plan PPO - PHCS | PAR |
-| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 |  | The Health Plan PPO - PHCS | PAR |
+| Khrystyna Ostrozhynska, OD |  | The Health Plan PPO - PHCS | PAR |
 | Kyle Schaub, OD |  | The Health Plan PPO - PHCS | PAR |
 | Len Brown, OD |  | The Health Plan PPO - PHCS | PAR |
 | Logan Page, OD |  | The Health Plan PPO - PHCS | PAR |

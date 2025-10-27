@@ -21,12 +21,12 @@
 | James Lenhart, OD |  | UHC AARP Advantage HMO-87726 | PAR |
 | Joaquin De Rojas, MD |  | UHC AARP Advantage HMO-87726 | PAR |
 | John Fezza, MD (Oculoplastics) |  | UHC AARP Advantage HMO-87726 | PAR |
-| Jordan Shoemaker, PA - Start Date 10/06/2025 |  | UHC AARP Advantage HMO-87726 | Non-PAR |
+| Jordan Shoemaker, PA |  | UHC AARP Advantage HMO-87726 | Non-PAR |
 | Joseph Sowka, OD |  | UHC AARP Advantage HMO-87726 | PAR |
 | Joshua Kim, MD |  | UHC AARP Advantage HMO-87726 | PAR |
 | Joshua Newman, MD |  | UHC AARP Advantage HMO-87726 | PAR |
 | Kalie Kosek, PA |  | UHC AARP Advantage HMO-87726 | PAR |
-| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 |  | UHC AARP Advantage HMO-87726 | PAR |
+| Khrystyna Ostrozhynska, OD |  | UHC AARP Advantage HMO-87726 | PAR |
 | Kyle Schaub, OD |  | UHC AARP Advantage HMO-87726 | PAR |
 | Len Brown, OD |  | UHC AARP Advantage HMO-87726 | PAR |
 | Logan Page, OD |  | UHC AARP Advantage HMO-87726 | PAR |
@@ -44,6 +44,15 @@
 | Tanuj Banker, MD (RETINA) |  | UHC AARP Advantage HMO-87726 | PAR |
 | Todd Lang, OD |  | UHC AARP Advantage HMO-87726 | PAR |
 | Trisha Werner, OD |  | UHC AARP Advantage HMO-87726 | PAR |
+
+## Center for Sight-Naples
+
+| Provider | NextGen Name | Referral/Auth | Status |
+|----------|-------------|--------------|--------|
+| George Brinnig-Jastrzebski, MD |  | UHC AARP Advantage HMO-87726 | PAR |
+| Jenna Getman, OD |  | UHC AARP Advantage HMO-87726 | PAR |
+| Jon Berlie, MD |  | UHC AARP Advantage HMO-87726 | PAR |
+| Julie Carter, MD |  | UHC AARP Advantage HMO-87726 | PAR |
 
 </details>
 

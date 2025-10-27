@@ -21,12 +21,12 @@
 | James Lenhart, OD |  | MBA TPA Commercial - Cigna | PAR |
 | Joaquin De Rojas, MD |  | MBA TPA Commercial - Cigna | PAR |
 | John Fezza, MD (Oculoplastics) |  | MBA TPA Commercial - Cigna | PAR |
-| Jordan Shoemaker, PA - Start Date 10/06/2025 |  | MBA TPA Commercial - Cigna | Non-PAR |
+| Jordan Shoemaker, PA |  | MBA TPA Commercial - Cigna | Non-PAR |
 | Joseph Sowka, OD |  | MBA TPA Commercial - Cigna | PAR |
 | Joshua Kim, MD |  | MBA TPA Commercial - Cigna | PAR |
 | Joshua Newman, MD |  | MBA TPA Commercial - Cigna | PAR |
 | Kalie Kosek, PA |  | MBA TPA Commercial - Cigna | PAR |
-| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 |  | MBA TPA Commercial - Cigna | PAR |
+| Khrystyna Ostrozhynska, OD |  | MBA TPA Commercial - Cigna | PAR |
 | Kyle Schaub, OD |  | MBA TPA Commercial - Cigna | PAR |
 | Len Brown, OD |  | MBA TPA Commercial - Cigna | PAR |
 | Logan Page, OD |  | MBA TPA Commercial - Cigna | PAR |

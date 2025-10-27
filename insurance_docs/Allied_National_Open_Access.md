@@ -21,12 +21,12 @@
 | James Lenhart, OD |  | Allied National Open Access | PAR |
 | Joaquin De Rojas, MD |  | Allied National Open Access | PAR |
 | John Fezza, MD (Oculoplastics) |  | Allied National Open Access | PAR |
-| Jordan Shoemaker, PA - Start Date 10/06/2025 |  | Allied National Open Access | Non-PAR |
+| Jordan Shoemaker, PA |  | Allied National Open Access | Non-PAR |
 | Joseph Sowka, OD |  | Allied National Open Access | PAR |
 | Joshua Kim, MD |  | Allied National Open Access | PAR |
 | Joshua Newman, MD |  | Allied National Open Access | PAR |
 | Kalie Kosek, PA |  | Allied National Open Access | PAR |
-| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 |  | Allied National Open Access | PAR |
+| Khrystyna Ostrozhynska, OD |  | Allied National Open Access | PAR |
 | Kyle Schaub, OD |  | Allied National Open Access | PAR |
 | Len Brown, OD |  | Allied National Open Access | PAR |
 | Logan Page, OD |  | Allied National Open Access | PAR |

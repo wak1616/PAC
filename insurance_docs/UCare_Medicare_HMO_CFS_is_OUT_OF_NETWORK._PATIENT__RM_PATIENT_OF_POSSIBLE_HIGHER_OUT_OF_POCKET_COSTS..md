@@ -21,12 +21,12 @@
 | James Lenhart, OD |  | UCare Medicare HMO | Non-PAR -OON Benefits |
 | Joaquin De Rojas, MD |  | UCare Medicare HMO | Non-PAR -OON Benefits |
 | John Fezza, MD (Oculoplastics) |  | UCare Medicare HMO | Non-PAR -OON Benefits |
-| Jordan Shoemaker, PA - Start Date 10/06/2025 |  | UCare Medicare HMO | Non-PAR -OON Benefits |
+| Jordan Shoemaker, PA |  | UCare Medicare HMO | Non-PAR -OON Benefits |
 | Joseph Sowka, OD |  | UCare Medicare HMO | Non-PAR -OON Benefits |
 | Joshua Kim, MD |  | UCare Medicare HMO | Non-PAR -OON Benefits |
 | Joshua Newman, MD |  | UCare Medicare HMO | Non-PAR -OON Benefits |
 | Kalie Kosek, PA |  | UCare Medicare HMO | Non-PAR -OON Benefits |
-| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 |  | UCare Medicare HMO | Non-PAR -OON Benefits |
+| Khrystyna Ostrozhynska, OD |  | UCare Medicare HMO | Non-PAR -OON Benefits |
 | Kyle Schaub, OD |  | UCare Medicare HMO | Non-PAR -OON Benefits |
 | Len Brown, OD |  | UCare Medicare HMO | Non-PAR -OON Benefits |
 | Logan Page, OD |  | UCare Medicare HMO | Non-PAR -OON Benefits |
@@ -50,7 +50,7 @@
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
 | George Brinnig-Jastrzebski, MD |  | UCare Medicare HMO | Non-PAR -OON Benefits |
-| Jenna Getman, OD |  | UCare Medicare HMO | Non-PAR -OON Benefits |
+| Jenna Getman, OD |  | UCare Medicare HMO | PAR |
 | Jon Berlie, MD |  | UCare Medicare HMO | Non-PAR -OON Benefits |
 | Julie Carter, MD |  | UCare Medicare HMO | Non-PAR -OON Benefits |
 

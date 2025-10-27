@@ -21,12 +21,12 @@
 | James Lenhart, OD |  | Vision Service Plan | PAR |
 | Joaquin De Rojas, MD |  | Vision Service Plan | Non-PAR |
 | John Fezza, MD (Oculoplastics) |  | Vision Service Plan | Non-PAR |
-| Jordan Shoemaker, PA - Start Date 10/06/2025 |  | Vision Service Plan | Non-PAR |
+| Jordan Shoemaker, PA |  | Vision Service Plan | Non-PAR |
 | Joseph Sowka, OD |  | Vision Service Plan | PAR |
 | Joshua Kim, MD |  | Vision Service Plan | Non-PAR |
 | Joshua Newman, MD |  | Vision Service Plan | PAR |
 | Kalie Kosek, PA |  | Vision Service Plan | Non-PAR |
-| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 |  | Vision Service Plan | PAR |
+| Khrystyna Ostrozhynska, OD |  | Vision Service Plan | PAR |
 | Kyle Schaub, OD |  | Vision Service Plan | PAR |
 | Len Brown, OD |  | Vision Service Plan | PAR |
 | Logan Page, OD |  | Vision Service Plan | PAR |
@@ -50,7 +50,7 @@
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
 | George Brinnig-Jastrzebski, MD |  | Self Pay Non-Par with Ins | Non-PAR |
-| Jenna Getman, OD |  | Self Pay Non-Par with Ins | PAR |
+| Jenna Getman, OD |  | Self Pay Non-Par with Ins | Non-PAR |
 | Jon Berlie, MD |  | Self Pay Non-Par with Ins | Non-PAR |
 | Julie Carter, MD |  | Self Pay Non-Par with Ins | Non-PAR |
 

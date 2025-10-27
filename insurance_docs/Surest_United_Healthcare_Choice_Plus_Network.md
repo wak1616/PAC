@@ -21,12 +21,12 @@
 | James Lenhart, OD |  | UHC Surest-25463 Commercial - UHC | PAR |
 | Joaquin De Rojas, MD |  | UHC Surest-25463 Commercial - UHC | PAR |
 | John Fezza, MD (Oculoplastics) |  | UHC Surest-25463 Commercial - UHC | PAR |
-| Jordan Shoemaker, PA - Start Date 10/06/2025 |  | UHC Surest-25463 Commercial - UHC | PAR |
+| Jordan Shoemaker, PA |  | UHC Surest-25463 Commercial - UHC | PAR |
 | Joseph Sowka, OD |  | UHC Surest-25463 Commercial - UHC | PAR |
 | Joshua Kim, MD |  | UHC Surest-25463 Commercial - UHC | PAR |
 | Joshua Newman, MD |  | UHC Surest-25463 Commercial - UHC | PAR |
 | Kalie Kosek, PA |  | UHC Surest-25463 Commercial - UHC | PAR |
-| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 |  | UHC Surest-25463 Commercial - UHC | PAR |
+| Khrystyna Ostrozhynska, OD |  | UHC Surest-25463 Commercial - UHC | PAR |
 | Kyle Schaub, OD |  | UHC Surest-25463 Commercial - UHC | PAR |
 | Len Brown, OD |  | UHC Surest-25463 Commercial - UHC | PAR |
 | Logan Page, OD |  | UHC Surest-25463 Commercial - UHC | PAR |

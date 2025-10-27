@@ -21,12 +21,12 @@
 | James Lenhart, OD |  | Aetna Comm Fixed Benefits PPO | PAR |
 | Joaquin De Rojas, MD |  | Aetna Comm Fixed Benefits PPO | PAR |
 | John Fezza, MD (Oculoplastics) |  | Aetna Comm Fixed Benefits PPO | PAR |
-| Jordan Shoemaker, PA - Start Date 10/06/2025 |  | Aetna Comm Fixed Benefits PPO | Non-PAR |
+| Jordan Shoemaker, PA |  | Aetna Comm Fixed Benefits PPO | Non-PAR |
 | Joseph Sowka, OD |  | Aetna Comm Fixed Benefits PPO | PAR |
 | Joshua Kim, MD |  | Aetna Comm Fixed Benefits PPO | PAR |
 | Joshua Newman, MD |  | Aetna Comm Fixed Benefits PPO | PAR |
 | Kalie Kosek, PA |  | Aetna Comm Fixed Benefits PPO | PAR |
-| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 |  | Aetna Comm Fixed Benefits PPO | PAR |
+| Khrystyna Ostrozhynska, OD |  | Aetna Comm Fixed Benefits PPO | PAR |
 | Kyle Schaub, OD |  | Aetna Comm Fixed Benefits PPO | PAR |
 | Len Brown, OD |  | Aetna Comm Fixed Benefits PPO | PAR |
 | Logan Page, OD |  | Aetna Comm Fixed Benefits PPO | PAR |

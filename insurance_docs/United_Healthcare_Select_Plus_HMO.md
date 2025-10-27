@@ -21,12 +21,12 @@
 | James Lenhart, OD |  | UHC Commercial HMO | PAR |
 | Joaquin De Rojas, MD |  | UHC Commercial HMO | PAR |
 | John Fezza, MD (Oculoplastics) |  | UHC Commercial HMO | PAR |
-| Jordan Shoemaker, PA - Start Date 10/06/2025 |  | UHC Commercial HMO | PAR |
+| Jordan Shoemaker, PA |  | UHC Commercial HMO | PAR |
 | Joseph Sowka, OD |  | UHC Commercial HMO | PAR |
 | Joshua Kim, MD |  | UHC Commercial HMO | PAR |
 | Joshua Newman, MD |  | UHC Commercial HMO | PAR |
 | Kalie Kosek, PA |  | UHC Commercial HMO | PAR |
-| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 |  | UHC Commercial HMO | PAR |
+| Khrystyna Ostrozhynska, OD |  | UHC Commercial HMO | PAR |
 | Kyle Schaub, OD |  | UHC Commercial HMO | PAR |
 | Len Brown, OD |  | UHC Commercial HMO | PAR |
 | Logan Page, OD |  | UHC Commercial HMO | PAR |
@@ -45,35 +45,6 @@
 | Todd Lang, OD |  | UHC Commercial HMO | PAR |
 | Trisha Werner, OD |  | UHC Commercial HMO | PAR |
 
-## Center for Sight-Naples
-
-| Provider | NextGen Name | Referral/Auth | Status |
-|----------|-------------|--------------|--------|
-| George Brinnig-Jastrzebski, MD |  | UHC Commercial HMO | PAR |
-| Jenna Getman, OD |  | UHC Commercial HMO | PAR |
-| Jon Berlie, MD |  | UHC Commercial HMO | PAR |
-| Julie Carter, MD |  | UHC Commercial HMO | PAR |
-
-## Lake Eye 
-
-| Provider | NextGen Name | Referral/Auth | Status |
-|----------|-------------|--------------|--------|
-| Alexandria Rawls, OD |  | UHC Commercial HMO | PAR |
-| Alexandria Rawls, OD |  | UHC Commercial HMO | PAR |
-| Christine Bui, OD |  | UHC Commercial HMO | PAR |
-| Diba Ossareh, OD |  | UHC Commercial HMO | PAR |
-| Jose Vazques-Diaz, MD |  | UHC Commercial HMO | PAR |
-| Jose Vazques-Diaz, MD |  | UHC Commercial HMO | PAR |
-| Karin Girgis, OD |  | UHC Commercial HMO | PAR |
-| Karin Girgis, OD |  | UHC Commercial HMO | PAR |
-| Mari Holderby, OD |  | UHC Commercial HMO | PAR |
-| Referral and/or Auth Required? |  | UHC Commercial HMO | No Ref/No Auth Required |
-| Referral and/or Auth Required? |  | UHC Commercial HMO | Referral MAY Be Required |
-| Scot Holman, MD |  | UHC Commercial HMO | PAR |
-| Scott Wehrly, MD |  | UHC Commercial HMO | PAR |
-| Scott Wehrly, MD |  | UHC Commercial HMO | PAR |
-| Vinay Gutti, MD |  | UHC Commercial HMO | PAR |
-
 ## Retina Health Center
 
 | Provider | NextGen Name | Referral/Auth | Status |
@@ -82,15 +53,6 @@
 | Hussein Wafapoor, MD |  | UHC Commercial HMO | Non-PAR |
 | Referral and/or Auth Required? |  | UHC Commercial HMO | No Ref/No Auth Required |
 | Veronica Kon Graversen, MD |  | UHC Commercial HMO | PAR |
-
-## SW FL Eye
-
-| Provider | NextGen Name | Referral/Auth | Status |
-|----------|-------------|--------------|--------|
-| Albert Smolyar, MD |  | UHC Commercial HMO | PAR |
-| Brian Marhue, OD |  | UHC Commercial HMO | PAR |
-| Penny Orr, OD |  | UHC Commercial HMO | PAR |
-| Sarah Johnson, OD |  | UHC Commercial HMO | PAR |
 
 </details>
 

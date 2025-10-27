@@ -21,12 +21,12 @@
 | James Lenhart, OD |  | PENDING | Non-PAR |
 | Joaquin De Rojas, MD |  | PENDING | Non-PAR |
 | John Fezza, MD (Oculoplastics) |  | PENDING | Non-PAR |
-| Jordan Shoemaker, PA - Start Date 10/06/2025 |  | PENDING | Non-PAR |
+| Jordan Shoemaker, PA |  | PENDING | Non-PAR |
 | Joseph Sowka, OD |  | PENDING | Non-PAR |
 | Joshua Kim, MD |  | PENDING | Non-PAR |
 | Joshua Newman, MD |  | PENDING | Non-PAR |
 | Kalie Kosek, PA |  | PENDING | Non-PAR |
-| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 |  | PENDING | Non-PAR |
+| Khrystyna Ostrozhynska, OD |  | PENDING | Non-PAR |
 | Kyle Schaub, OD |  | PENDING | Non-PAR |
 | Len Brown, OD |  | PENDING | PAR |
 | Logan Page, OD |  | PENDING | Non-PAR |
@@ -50,7 +50,7 @@
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
 | George Brinnig-Jastrzebski, MD |  | Self Pay Non-Par with Ins | Non-PAR |
-| Jenna Getman, OD |  | Self Pay Non-Par with Ins | Non-PAR |
+| Jenna Getman, OD |  | Self Pay Non-Par with Ins | PAR |
 | Jon Berlie, MD |  | Self Pay Non-Par with Ins | Non-PAR |
 | Julie Carter, MD |  | Self Pay Non-Par with Ins | Non-PAR |
 

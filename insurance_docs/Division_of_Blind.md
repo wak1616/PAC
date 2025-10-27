@@ -21,12 +21,12 @@
 | James Lenhart, OD |  | Division of Blind | PAR |
 | Joaquin De Rojas, MD |  | Division of Blind | PAR |
 | John Fezza, MD (Oculoplastics) |  | Division of Blind | PAR |
-| Jordan Shoemaker, PA - Start Date 10/06/2025 |  | Division of Blind | Non-PAR |
+| Jordan Shoemaker, PA |  | Division of Blind | Non-PAR |
 | Joseph Sowka, OD |  | Division of Blind | PAR |
 | Joshua Kim, MD |  | Division of Blind | PAR |
 | Joshua Newman, MD |  | Division of Blind | PAR |
 | Kalie Kosek, PA |  | Division of Blind | Non-PAR |
-| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 |  | Division of Blind | PAR |
+| Khrystyna Ostrozhynska, OD |  | Division of Blind | PAR |
 | Kyle Schaub, OD |  | Division of Blind | PAR |
 | Len Brown, OD |  | Division of Blind | PAR |
 | Logan Page, OD |  | Division of Blind | PAR |

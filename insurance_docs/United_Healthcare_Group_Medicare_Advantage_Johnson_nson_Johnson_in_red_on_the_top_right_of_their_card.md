@@ -21,12 +21,12 @@
 | James Lenhart, OD |  | UHC Medicare PPO J and J Retiree-87726 | PAR |
 | Joaquin De Rojas, MD |  | UHC Medicare PPO J and J Retiree-87726 | PAR |
 | John Fezza, MD (Oculoplastics) |  | UHC Medicare PPO J and J Retiree-87726 | PAR |
-| Jordan Shoemaker, PA - Start Date 10/06/2025 |  | UHC Medicare PPO J and J Retiree-87726 | PAR |
+| Jordan Shoemaker, PA |  | UHC Medicare PPO J and J Retiree-87726 | PAR |
 | Joseph Sowka, OD |  | UHC Medicare PPO J and J Retiree-87726 | PAR |
 | Joshua Kim, MD |  | UHC Medicare PPO J and J Retiree-87726 | PAR |
 | Joshua Newman, MD |  | UHC Medicare PPO J and J Retiree-87726 | PAR |
 | Kalie Kosek, PA |  | UHC Medicare PPO J and J Retiree-87726 | PAR |
-| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 |  | UHC Medicare PPO J and J Retiree-87726 | PAR |
+| Khrystyna Ostrozhynska, OD |  | UHC Medicare PPO J and J Retiree-87726 | PAR |
 | Kyle Schaub, OD |  | UHC Medicare PPO J and J Retiree-87726 | PAR |
 | Len Brown, OD |  | UHC Medicare PPO J and J Retiree-87726 | PAR |
 | Logan Page, OD |  | UHC Medicare PPO J and J Retiree-87726 | PAR |

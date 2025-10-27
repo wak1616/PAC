@@ -21,12 +21,12 @@
 | James Lenhart, OD |  | Meritain Health SMH Extd  Pln | PAR |
 | Joaquin De Rojas, MD |  | Meritain Health SMH Extd  Pln | PAR |
 | John Fezza, MD (Oculoplastics) |  | Meritain Health SMH Extd  Pln | PAR |
-| Jordan Shoemaker, PA - Start Date 10/06/2025 |  | Meritain Health SMH Extd  Pln | Non-PAR |
+| Jordan Shoemaker, PA |  | Meritain Health SMH Extd  Pln | Non-PAR |
 | Joseph Sowka, OD |  | Meritain Health SMH Extd  Pln | PAR |
 | Joshua Kim, MD |  | Meritain Health SMH Extd  Pln | PAR |
 | Joshua Newman, MD |  | Meritain Health SMH Extd  Pln | PAR |
 | Kalie Kosek, PA |  | Meritain Health SMH Extd  Pln | PAR |
-| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 |  | Meritain Health SMH Extd  Pln | PAR |
+| Khrystyna Ostrozhynska, OD |  | Meritain Health SMH Extd  Pln | PAR |
 | Kyle Schaub, OD |  | Meritain Health SMH Extd  Pln | PAR |
 | Len Brown, OD |  | Meritain Health SMH Extd  Pln | PAR |
 | Logan Page, OD |  | Meritain Health SMH Extd  Pln | PAR |

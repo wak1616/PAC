@@ -21,12 +21,12 @@
 | James Lenhart, OD |  | Dean Health Plan PPO | PAR |
 | Joaquin De Rojas, MD |  | Dean Health Plan PPO | PAR |
 | John Fezza, MD (Oculoplastics) |  | Dean Health Plan PPO | PAR |
-| Jordan Shoemaker, PA - Start Date 10/06/2025 |  | Dean Health Plan PPO | Non-PAR |
+| Jordan Shoemaker, PA |  | Dean Health Plan PPO | Non-PAR |
 | Joseph Sowka, OD |  | Dean Health Plan PPO | PAR |
 | Joshua Kim, MD |  | Dean Health Plan PPO | PAR |
 | Joshua Newman, MD |  | Dean Health Plan PPO | PAR |
 | Kalie Kosek, PA |  | Dean Health Plan PPO | PAR |
-| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 |  | Dean Health Plan PPO | PAR |
+| Khrystyna Ostrozhynska, OD |  | Dean Health Plan PPO | PAR |
 | Kyle Schaub, OD |  | Dean Health Plan PPO | PAR |
 | Len Brown, OD |  | Dean Health Plan PPO | PAR |
 | Logan Page, OD |  | Dean Health Plan PPO | PAR |

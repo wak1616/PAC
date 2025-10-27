@@ -21,12 +21,12 @@
 | James Lenhart, OD |  | UHC Golden Rule-37602 | PAR |
 | Joaquin De Rojas, MD |  | UHC Golden Rule-37602 | PAR |
 | John Fezza, MD (Oculoplastics) |  | UHC Golden Rule-37602 | PAR |
-| Jordan Shoemaker, PA - Start Date 10/06/2025 |  | UHC Golden Rule-37602 | PAR |
+| Jordan Shoemaker, PA |  | UHC Golden Rule-37602 | PAR |
 | Joseph Sowka, OD |  | UHC Golden Rule-37602 | PAR |
 | Joshua Kim, MD |  | UHC Golden Rule-37602 | PAR |
 | Joshua Newman, MD |  | UHC Golden Rule-37602 | PAR |
 | Kalie Kosek, PA |  | UHC Golden Rule-37602 | PAR |
-| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 |  | UHC Golden Rule-37602 | PAR |
+| Khrystyna Ostrozhynska, OD |  | UHC Golden Rule-37602 | PAR |
 | Kyle Schaub, OD |  | UHC Golden Rule-37602 | PAR |
 | Len Brown, OD |  | UHC Golden Rule-37602 | PAR |
 | Logan Page, OD |  | UHC Golden Rule-37602 | PAR |

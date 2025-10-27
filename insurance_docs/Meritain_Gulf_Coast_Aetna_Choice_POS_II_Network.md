@@ -21,12 +21,12 @@
 | James Lenhart, OD |  | Meritain Health Commercial - Aetna | PAR |
 | Joaquin De Rojas, MD |  | Meritain Health Commercial - Aetna | PAR |
 | John Fezza, MD (Oculoplastics) |  | Meritain Health Commercial - Aetna | PAR |
-| Jordan Shoemaker, PA - Start Date 10/06/2025 |  | Meritain Health Commercial - Aetna | Non-PAR |
+| Jordan Shoemaker, PA |  | Meritain Health Commercial - Aetna | Non-PAR |
 | Joseph Sowka, OD |  | Meritain Health Commercial - Aetna | PAR |
 | Joshua Kim, MD |  | Meritain Health Commercial - Aetna | PAR |
 | Joshua Newman, MD |  | Meritain Health Commercial - Aetna | PAR |
 | Kalie Kosek, PA |  | Meritain Health Commercial - Aetna | PAR |
-| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 |  | Meritain Health Commercial - Aetna | PAR |
+| Khrystyna Ostrozhynska, OD |  | Meritain Health Commercial - Aetna | PAR |
 | Kyle Schaub, OD |  | Meritain Health Commercial - Aetna | PAR |
 | Len Brown, OD |  | Meritain Health Commercial - Aetna | PAR |
 | Logan Page, OD |  | Meritain Health Commercial - Aetna | PAR |

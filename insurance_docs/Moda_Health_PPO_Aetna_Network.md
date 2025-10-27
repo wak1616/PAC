@@ -21,12 +21,12 @@
 | James Lenhart, OD |  | Moda Health PPO | PAR |
 | Joaquin De Rojas, MD |  | Moda Health PPO | PAR |
 | John Fezza, MD (Oculoplastics) |  | Moda Health PPO | PAR |
-| Jordan Shoemaker, PA - Start Date 10/06/2025 |  | Moda Health PPO | Non-PAR |
+| Jordan Shoemaker, PA |  | Moda Health PPO | Non-PAR |
 | Joseph Sowka, OD |  | Moda Health PPO | PAR |
 | Joshua Kim, MD |  | Moda Health PPO | PAR |
 | Joshua Newman, MD |  | Moda Health PPO | PAR |
 | Kalie Kosek, PA |  | Moda Health PPO | PAR |
-| Khrystyna Ostrozhynska, OD - Start Date 9/30/2025 |  | Moda Health PPO | PAR |
+| Khrystyna Ostrozhynska, OD |  | Moda Health PPO | PAR |
 | Kyle Schaub, OD |  | Moda Health PPO | PAR |
 | Len Brown, OD |  | Moda Health PPO | PAR |
 | Logan Page, OD |  | Moda Health PPO | PAR |
