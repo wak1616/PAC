@@ -122,32 +122,33 @@ This protocol details the steps taken to properly triage and schedule a patient 
 
 The following guide outlines when to schedule appointment based on their symptoms:
 
-| Emergency (Same Day)                                                           | Urgent (24–48 hrs)                                 | Non-Urgent (Next Avail)                                                                                                      |
-| ------------------------------------------------------------------------------ | -------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
-| **Retinal Tear/Detachment (within 30 days)**                                   | Progressively worsening eye pain for 1 week         | Mild ocular irritation/redness                                                                                               |
-| **Sudden painless loss of vision**                                             | Moderate redness/pain for 1 week                    | Floaters (unchanged, previously diagnosed)                                                                                   |
-| **Sudden onset of floaters/flashes/veil/spider webs**                          | Sub-acute loss of vision over a few days to 1 week  | Eyes become tired and blur after reading; trouble seeing road signs                                                          |
-| **Sudden distortion/change on Amsler Grid**                                    | Sub-acute onset of double vision (over a few days)| Difficulty with near/fine print                                                                            |
-| **Foreign body or chemicals in eye (something in eye)**  (if chemical to eye, instruct to go to urgent care/ hospital and flush out until pH =7, then clinic)                                                                           | Ocular discharge (clear, milky, watery)            | Styes, chalazions, or eyelid bumps, lumps or growing lesions (_Schedule directly with Kalie Kosek, PA-C_) |
-| **Sudden onset of double vision**  | Severe photophobia (with/without pain)             | Mucous                                                                                                                                |
-| **Acute, rapid onset eye pain/discomfort**                                     |                                                    | Tearing (no other symptoms)                                                                                                  |
-| **Acute red eye w/ or w/out discharge**                                        |                                                    | Mild redness w/o other symptoms                                                                                              |
-| **Trauma to eye, head, face**                                                  |                                                    | Loss of only pair of glasses/contacts needed for daily use                                                                   |
-| **Referral stating emergent situation**                                        |                                                    | Eyelid twitching                                                                                                             |
+| Emergency (Same Day)                                                                                                                                         | Urgent (24–48 hrs)                                 | Non-Urgent (Next Avail)                                                                                   |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
+| **Retinal Tear/Detachment (within 30 days)**                                                                                                                 | Progressively worsening eye pain for 1 week        | Mild ocular irritation/redness                                                                            |
+| **Sudden painless loss of vision**                                                                                                                           | Moderate redness/pain for 1 week                   | Floaters (unchanged, previously diagnosed)                                                                |
+| **Sudden onset of floaters/flashes/veil/spider webs**                                                                                                        | Sub-acute loss of vision over a few days to 1 week | Eyes become tired and blur after reading; trouble seeing road signs                                       |
+| **Sudden distortion/change on Amsler Grid**                                                                                                                  | Sub-acute onset of double vision (over a few days) | Difficulty with near/fine print                                                                           |
+| **Foreign body or chemicals in eye (something in eye)** (if chemical to eye, instruct to go to urgent care/ hospital and flush out until pH =7, then clinic) | Ocular discharge (clear, milky, watery)            | Styes, chalazions, or eyelid bumps, lumps or growing lesions (_Schedule directly with Kalie Kosek, PA-C_) |
+| **Sudden onset of double vision**                                                                                                                            | Severe photophobia (with/without pain)             | Mucous                                                                                                    |
+| **Acute, rapid onset eye pain/discomfort**                                                                                                                   |                                                    | Tearing (no other symptoms)                                                                               |
+| **Acute red eye w/ or w/out discharge**                                                                                                                      |                                                    | Mild redness w/o other symptoms                                                                           |
+| **Trauma to eye, head, face**                                                                                                                                |                                                    | Loss of only pair of glasses/contacts needed for daily use                                                |
+| **Referral stating emergent situation**                                                                                                                      |                                                    | Eyelid twitching                                                                                          |
 
 ***
 
 ### Emergency --> Same Day Appointment Required - Follow these instructions:
 
-* **If New Patient**: Schedule with an **OD at CFS.**
+* **If New Patient**: Schedule with an **OD at CFS** in open orange ER spot or in open long appointment spot (i.e. Comp spots).
   * **At LEA and SFEC, ODs or MDs see emergencies.**
+* **New patients** cannot be scheduled in short blue spots unless given permission from the office.
 * **If Established Patient:** Schedule with their **primary provider whenever possible**.
 * If they are in a **post-op period** and **comanaged**, they should see their comanaging provider.
 
 **Process**
 
-* PAC schedules the **first available** opening (same day).
-* If no ER spot is open, you may schedule in any open space (short or long)
+* PAC schedules the **first available** opening (same day) for established patients only.
+* PAC schedules in the first **available** orange ER or open long appointment spot for new patients.
 * If no same day spots are available for that provider, send an **ICP** communication to the Patient Care Team of that region and mark **urgent**.
 * If the patient's provider is out of the office, schedule with another provider in the region and note in the details their provider is out. **Check availability for all office locations in the region** **to include smaller satellite offices.**
 * For **retina** patients (Dr. Banker or RHC): Triaged by an **OD first** for emergency appts. For retina emergency referrals (e.g. detachment or tear), send an **ICP** message to either Dr. Banker's team or RHC Pateint Care Team marked **urgent**. **Do not schedule**.
