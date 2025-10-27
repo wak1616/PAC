@@ -980,12 +980,12 @@ The **retina** is a delicate, light-sensitive tissue lining the interior of the 
 
 #### Providers
 
-| Location | Providers                                                     |
-| -------- | ------------------------------------------------------------- |
-| **CFS**  | Dr. Tanuj Banker\* (New patients at CFS-Venice location only) |
-| **LEA**  | _(None listed)_                                               |
-| **RHC**  | <p>Dr. Alexander Eaton<br>Dr. Veronica Graversen</p>          |
-| **SFEC** | _(None listed)_                                               |
+| Location | Providers                                                                    |
+| -------- | ---------------------------------------------------------------------------- |
+| **CFS**  | Dr. Tanuj Banker\* (New patients at CFS-Venice location only)                |
+| **LEA**  | _(None listed)_                                                              |
+| **RHC**  | <p>Dr. Alexander Eaton<br>Dr. Veronica Graversen<br>Dr. Hussein Wafapoor</p> |
+| **SFEC** | _(None listed)_                                                              |
 
 > * Dr. Banker sees new patients only at **CFS-Venice**.
 > * Dr. Banker can perform **Valeda light therapy.**
