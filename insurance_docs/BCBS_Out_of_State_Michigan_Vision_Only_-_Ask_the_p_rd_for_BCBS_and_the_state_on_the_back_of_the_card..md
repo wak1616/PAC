@@ -64,8 +64,10 @@
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
+| Alexander Eaton, MD |  | BCBS MI Vision Only FL-00590 | Non-PAR |
 | Hussein Wafapoor, MD |  | BCBS MI Vision Only FL-00590 | Non-PAR |
 | Referral and/or Auth Required? |  | BCBS MI Vision Only FL-00590 | Authorization Required |
+| Veronica Kon Graversen, MD |  | BCBS MI Vision Only FL-00590 | Non-PAR |
 
 ## SW FL Eye
 

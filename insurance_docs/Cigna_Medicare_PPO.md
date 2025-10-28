@@ -14,7 +14,7 @@
 | Daniel Hadland, OD |  | Cigna Medicare PPO | PAR |
 | David Mertzlufft, OD |  | Cigna Medicare PPO | PAR |
 | David Shoemaker, MD |  | Cigna Medicare PPO | PAR |
-| Elizabeth Davis, MD |  | Cigna Medicare PPO | Non-PAR |
+| Elizabeth Davis, MD |  | Cigna Medicare PPO | PAR |
 | Erin Hardie, OD |  | Cigna Medicare PPO | PAR |
 | George Hurwitz, OD |  | Cigna Medicare PPO | PAR |
 | Gisselle Vega Carraso |  | Cigna Medicare PPO | Non-PAR |

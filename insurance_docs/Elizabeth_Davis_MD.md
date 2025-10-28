@@ -157,8 +157,8 @@
 | BCBS North Carolina Commercial PPO Plans - Ask the patient to check the front of the card for "BCBS" and the state on the back of the card. |  | BCBS NC PPO FL-00590 | PAR |
 | BCBS North Carolina Medicare PPO Plans - Ask the patient to check the front of the card for "BCBS" and the state on the back of the card. |  | BCBS NC Medicare PPO FL-00590 | PAR |
 | BCBS of FL Blue Choice Commercial (HMO) - Ask the patient to check the front of the card for "BCBS" and the state on the back of the card. |  | BCBS BlueChoice HMO FL-00590 | PAR |
-| BCBS of FL Blue Option (HMO) - Ask the patient to check the front of the card for "BCBS" and the state on the back of the card. |  | BCBS BlueOption HMO FL-00590 | PAR |
-| BCBS of FL Blue Select (HMO) - Ask the patient to check the front of the card for "BCBS" and the state on the back of the card. |  | BCBS BlueSelect HMO FL-00590 | PAR |
+| BCBS of FL Blue Option (HMO) - Ask the patient to check the front of the card for "BCBS" and the state on the back of the card. |  | BCBS BlueOptions PPO FL-00590 | PAR |
+| BCBS of FL Blue Select (HMO) - Ask the patient to check the front of the card for "BCBS" and the state on the back of the card. |  | BCBS BlueSelect PPO FL-00590 | PAR |
 | BCBS of FL BlueCare Commercial(HMO) - Ask the patient to find FL on the front/back of the card. |  | BCBS BlueCare HMO FL-00590 | PAR |
 | BCBS of FL BlueMedicare (HMO) - Ask the patient to check the front of the card for "BCBS" and the state on the back of the card. |  | BCBS BlueMedicare HMO FL-00590 | PAR |
 | BCBS of FL BlueMedicare (PPO) - Ask the patient to check the front of the card for "BCBS" and the state on the back of the card. |  | BCBS BlueMedicare PPO FL-00590 | PAR |
@@ -208,9 +208,9 @@
 | Cigna Commercial -Local Plus |  | Cigna Commercial PPO | Non-PAR |
 | Cigna Commercial- Open Access Plus/ Carelink Open Access Plus/PPO/Choice Fund PPO |  | Cigna Commercial PPO | PAR |
 | Cigna Global Health Benefits (BENEFITS/ELIGIBILITY NEEDS TO BE CHECKED EVERYTIME) |  | Cigna International | PAR |
-| Cigna Medicare HMO- Preferred/Preferred Savings Medicare/Courage |  | Cigna Medicare HMO REFERRAL REQUIRED | Non-PAR |
-| Cigna Medicare PPO |  | Cigna Medicare PPO | Non-PAR |
-| Cigna Medicare- TotalCare/Total Care Plus HMO D-SNP |  | Primary: Cigna Dual MDCR HMO Primary-REFERRAL REQ                                                      Secondary: Cigna Dual Medicaid HMO Secondary | Non-PAR |
+| Cigna Medicare HMO- Preferred/Preferred Savings Medicare/Courage |  | Cigna Medicare HMO REFERRAL REQUIRED | PAR |
+| Cigna Medicare PPO |  | Cigna Medicare PPO | PAR |
+| Cigna Medicare- TotalCare/Total Care Plus HMO D-SNP |  | Primary: Cigna Dual MDCR HMO Primary-REFERRAL REQ                                                      Secondary: Cigna Dual Medicaid HMO Secondary | PAR |
 | Cigna Oscar- Open Access Plus/Local Plus |  | Self Pay Non-Par with Ins | Non-PAR |
 | Cigna TotalCare Plus HMO D-SNP |  | Primary: Cigna Dual MDCR HMO Primary-REFERRAL REQ                                                      Secondary: Cigna Dual Medicaid HMO Secondary | PAR |
 | Dean Health Plan PPO - First Health |  | Dean Health Plan PPO | PAR |

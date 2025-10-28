@@ -58,7 +58,6 @@
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
-| Hussein Wafapoor, MD |  | BCBS MI HMO FL-00590 | Non-PAR |
 | Referral and/or Auth Required? |  | BCBS MI HMO FL-00590 | Authorization Required |
 
 ## SW FL Eye

@@ -74,7 +74,7 @@
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
 | Alexander Eaton, MD |  | BCBS BlueChoice HMO FL-00590 | PAR |
-| Hussein Wafapoor, MD |  | BCBS BlueChoice HMO FL-00590 | Non-PAR |
+| Hussein Wafapoor, MD |  | BCBS BlueChoice HMO FL-00590 | PAR |
 | Referral and/or Auth Required? |  | BCBS BlueChoice HMO FL-00590 | Authorization Required |
 | Veronica Kon Graversen, MD |  | BCBS BlueChoice HMO FL-00590 | PAR |
 

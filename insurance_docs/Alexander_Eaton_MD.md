@@ -129,8 +129,8 @@
 | BCBS of FL Blue Option (HMO) - Ask the patient to check the front of the card for "BCBS" and the state on the back of the card. |  | BCBS BlueOption HMO FL-00590 | PAR |
 | BCBS of FL Blue Select (HMO) - Ask the patient to check the front of the card for "BCBS" and the state on the back of the card. |  | BCBS BlueSelect HMO FL-00590 | PAR |
 | BCBS of FL BlueCare Commercial(HMO) - Ask the patient to find FL on the front/back of the card. |  | BCBS BlueCare HMO FL-00590 | PAR |
-| BCBS of FL BlueMedicare (HMO) |  | Self Pay Non-Par with Ins | Non-PAR |
-| BCBS of FL BlueMedicare (PPO) |  | Self Pay Non-Par with Ins | Non-PAR |
+| BCBS of FL BlueMedicare (HMO) |  | BCBS BlueMedicare HMO FL-00590 | Non-PAR |
+| BCBS of FL BlueMedicare (PPO) |  | BCBS BlueMedicare PPO FL-00590 | Non-PAR |
 | BCBS of FL Federal Employee Program | R | BCBS Federal FL-00590 | PAR |
 | BCBS of FL MyBlue Commercial (HMO) - Ask the patient to find FL on the front/back of the card. | VMYH | BCBS MyBlue HMO FL-00590 | PAR |
 | BCBS of FL Network Blue Commercial (PPO) - Ask the patient to find FL on the front/back of the card. |  | BCBS Network Blue PPO FL-00590 | PAR |
@@ -154,6 +154,7 @@
 | BCBS Out of State Independence Medicare (PPO) |  | Self Pay Non-Par with Ins | Non-PAR |
 | BCBS Out of State Michigan Medicare (HMO) - all plans that are not BCBS of Florida; please ask the patient to check the front and back copy of the card for the state. If the card says "Anthem", please see ANTHEM on the insurance guide ALL PLANS Commercial and Medicare HMO PLANS ARE OUT OF NETWORK- SELF PAY |  | Self Pay Non-Par with Ins | Non-PAR |
 | BCBS Out of State Michigan Medicare (PPO) -all plans that are not BCBS of Florida; please ask the patient to check the front and back copy of the card for the state. If the card says "Anthem", please see ANTHEM on the insurance guide |  | Self Pay Non-Par with Ins | Non-PAR |
+| BCBS Out of State Michigan Vision Only - Ask the patient to check the front of the card for "BCBS" and the state on the back of the card. |  | BCBS MI Vision Only FL-00590 | Non-PAR |
 | BCBS Out of State Minnesota Medicare (PPO) -all plans that are not BCBS of Florida; please ask the patient to check the front and back copy of the card for the state. If the card says "Anthem", please see ANTHEM on the insurance guide |  | Self Pay Non-Par with Ins | Non-PAR |
 | BCBS Out of State North Carolina Medicare (PPO) -all plans that are not BCBS of Florida; please ask the patient to check the front and back copy of the card for the state. If the card says "Anthem", please see ANTHEM on the insurance guide |  | Self Pay Non-Par with Ins | Non-PAR |
 | BCBS Out of State Oklahoma Medicare (PPO) -all plans that are not BCBS of Florida; please ask the patient to check the front and back copy of the card for the state. If the card says "Anthem", please see ANTHEM on the insurance guide |  | Self Pay Non-Par with Ins | Non-PAR |

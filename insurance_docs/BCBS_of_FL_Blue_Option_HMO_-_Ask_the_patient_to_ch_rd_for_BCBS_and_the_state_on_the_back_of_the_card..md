@@ -8,42 +8,42 @@
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
-| Bradley Middaugh, OD |  | BCBS BlueOption HMO FL-00590 | PAR |
-| Brittany Coyle, OD |  | BCBS BlueOption HMO FL-00590 | PAR |
-| Charles Putrino, OD |  | BCBS BlueOption HMO FL-00590 | PAR |
-| Daniel Hadland, OD |  | BCBS BlueOption HMO FL-00590 | PAR |
-| David Mertzlufft, OD |  | BCBS BlueOption HMO FL-00590 | PAR |
-| David Shoemaker, MD |  | BCBS BlueOption HMO FL-00590 | PAR |
-| Elizabeth Davis, MD |  | BCBS BlueOption HMO FL-00590 | PAR |
-| Erin Hardie, OD |  | BCBS BlueOption HMO FL-00590 | PAR |
-| George Hurwitz, OD |  | BCBS BlueOption HMO FL-00590 | PAR |
-| Gisselle Vega Carraso |  | BCBS BlueOption HMO FL-00590 | PAR |
-| James Lenhart, OD |  | BCBS BlueOption HMO FL-00590 | PAR |
-| Joaquin De Rojas, MD |  | BCBS BlueOption HMO FL-00590 | PAR |
-| John Fezza, MD (Oculoplastics) |  | BCBS BlueOption HMO FL-00590 | PAR |
-| Jordan Shoemaker, PA |  | BCBS BlueOption HMO FL-00590 | PAR |
-| Joseph Sowka, OD |  | BCBS BlueOption HMO FL-00590 | PAR |
-| Joshua Kim, MD |  | BCBS BlueOption HMO FL-00590 | PAR |
-| Joshua Newman, MD |  | BCBS BlueOption HMO FL-00590 | PAR |
-| Kalie Kosek, PA |  | BCBS BlueOption HMO FL-00590 | PAR |
-| Khrystyna Ostrozhynska, OD |  | BCBS BlueOption HMO FL-00590 | Non-PAR |
-| Kyle Schaub, OD |  | BCBS BlueOption HMO FL-00590 | PAR |
-| Len Brown, OD |  | BCBS BlueOption HMO FL-00590 | PAR |
-| Logan Page, OD |  | BCBS BlueOption HMO FL-00590 | PAR |
-| Lori Long, OD |  | BCBS BlueOption HMO FL-00590 | PAR |
-| Lori Vollmer, OD |  | BCBS BlueOption HMO FL-00590 | PAR |
-| Mary Mcvey, OD |  | BCBS BlueOption HMO FL-00590 | PAR |
-| Maureen Traina, PA |  | BCBS BlueOption HMO FL-00590 | PAR |
-| Melissa Hammond, OD |  | BCBS BlueOption HMO FL-00590 | PAR |
-| Michael Maloney, OD |  | BCBS BlueOption HMO FL-00590 | PAR |
-| Patrick Nelson, OD |  | BCBS BlueOption HMO FL-00590 | PAR |
-| Priya Mathews, MD |  | BCBS BlueOption HMO FL-00590 | PAR |
-| Rachael Randolph, OD |  | BCBS BlueOption HMO FL-00590 | PAR |
-| Scott Stevens, OD |  | BCBS BlueOption HMO FL-00590 | PAR |
-| Shannon Bednarz, PA |  | BCBS BlueOption HMO FL-00590 | PAR |
-| Tanuj Banker, MD (RETINA) |  | BCBS BlueOption HMO FL-00590 | Non-PAR |
-| Todd Lang, OD |  | BCBS BlueOption HMO FL-00590 | PAR |
-| Trisha Werner, OD |  | BCBS BlueOption HMO FL-00590 | PAR |
+| Bradley Middaugh, OD |  | BCBS BlueOptions PPO FL-00590 | PAR |
+| Brittany Coyle, OD |  | BCBS BlueOptions PPO FL-00590 | PAR |
+| Charles Putrino, OD |  | BCBS BlueOptions PPO FL-00590 | PAR |
+| Daniel Hadland, OD |  | BCBS BlueOptions PPO FL-00590 | PAR |
+| David Mertzlufft, OD |  | BCBS BlueOptions PPO FL-00590 | PAR |
+| David Shoemaker, MD |  | BCBS BlueOptions PPO FL-00590 | PAR |
+| Elizabeth Davis, MD |  | BCBS BlueOptions PPO FL-00590 | PAR |
+| Erin Hardie, OD |  | BCBS BlueOptions PPO FL-00590 | PAR |
+| George Hurwitz, OD |  | BCBS BlueOptions PPO FL-00590 | PAR |
+| Gisselle Vega Carraso |  | BCBS BlueOptions PPO FL-00590 | PAR |
+| James Lenhart, OD |  | BCBS BlueOptions PPO FL-00590 | PAR |
+| Joaquin De Rojas, MD |  | BCBS BlueOptions PPO FL-00590 | PAR |
+| John Fezza, MD (Oculoplastics) |  | BCBS BlueOptions PPO FL-00590 | PAR |
+| Jordan Shoemaker, PA |  | BCBS BlueOptions PPO FL-00590 | PAR |
+| Joseph Sowka, OD |  | BCBS BlueOptions PPO FL-00590 | PAR |
+| Joshua Kim, MD |  | BCBS BlueOptions PPO FL-00590 | PAR |
+| Joshua Newman, MD |  | BCBS BlueOptions PPO FL-00590 | PAR |
+| Kalie Kosek, PA |  | BCBS BlueOptions PPO FL-00590 | PAR |
+| Khrystyna Ostrozhynska, OD |  | BCBS BlueOptions PPO FL-00590 | Non-PAR |
+| Kyle Schaub, OD |  | BCBS BlueOptions PPO FL-00590 | PAR |
+| Len Brown, OD |  | BCBS BlueOptions PPO FL-00590 | PAR |
+| Logan Page, OD |  | BCBS BlueOptions PPO FL-00590 | PAR |
+| Lori Long, OD |  | BCBS BlueOptions PPO FL-00590 | PAR |
+| Lori Vollmer, OD |  | BCBS BlueOptions PPO FL-00590 | PAR |
+| Mary Mcvey, OD |  | BCBS BlueOptions PPO FL-00590 | PAR |
+| Maureen Traina, PA |  | BCBS BlueOptions PPO FL-00590 | PAR |
+| Melissa Hammond, OD |  | BCBS BlueOptions PPO FL-00590 | PAR |
+| Michael Maloney, OD |  | BCBS BlueOptions PPO FL-00590 | PAR |
+| Patrick Nelson, OD |  | BCBS BlueOptions PPO FL-00590 | PAR |
+| Priya Mathews, MD |  | BCBS BlueOptions PPO FL-00590 | PAR |
+| Rachael Randolph, OD |  | BCBS BlueOptions PPO FL-00590 | PAR |
+| Scott Stevens, OD |  | BCBS BlueOptions PPO FL-00590 | PAR |
+| Shannon Bednarz, PA |  | BCBS BlueOptions PPO FL-00590 | PAR |
+| Tanuj Banker, MD (RETINA) |  | BCBS BlueOptions PPO FL-00590 | Non-PAR |
+| Todd Lang, OD |  | BCBS BlueOptions PPO FL-00590 | PAR |
+| Trisha Werner, OD |  | BCBS BlueOptions PPO FL-00590 | PAR |
 
 ## Center for Sight-Naples
 
@@ -74,7 +74,7 @@
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
 | Alexander Eaton, MD |  | BCBS BlueOption HMO FL-00590 | PAR |
-| Hussein Wafapoor, MD |  | BCBS BlueOption HMO FL-00590 | Non-PAR |
+| Hussein Wafapoor, MD |  | BCBS BlueOption HMO FL-00590 | PAR |
 | Referral and/or Auth Required? |  | BCBS BlueOption HMO FL-00590 | Authorization Required |
 | Veronica Kon Graversen, MD |  | BCBS BlueOption HMO FL-00590 | PAR |
 

@@ -85,8 +85,8 @@
 |----------|-------------|--------------|--------|
 | Alexander Eaton, MD |  | BCBS NM PPO FL-00590 | PAR |
 | Alexander Eaton, MD |  | BCBS NM PPO FL-00590 | PAR |
-| Hussein Wafapoor, MD |  | BCBS NM PPO FL-00590 | Non-PAR |
-| Hussein Wafapoor, MD |  | BCBS NM PPO FL-00590 | Non-PAR |
+| Hussein Wafapoor, MD |  | BCBS NM PPO FL-00590 | PAR |
+| Hussein Wafapoor, MD |  | BCBS NM PPO FL-00590 | PAR |
 | Referral and/or Auth Required? |  | BCBS NM PPO FL-00590 | No Ref/No Auth Required |
 | Referral and/or Auth Required? |  | BCBS NM PPO FL-00590 | No Ref/No Auth Required |
 | Veronica Kon Graversen, MD |  | BCBS NM PPO FL-00590 | PAR |

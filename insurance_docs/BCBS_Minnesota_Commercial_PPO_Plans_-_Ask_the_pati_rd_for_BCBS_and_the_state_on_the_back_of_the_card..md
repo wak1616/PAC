@@ -74,7 +74,7 @@
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
 | Alexander Eaton, MD |  | BCBS MN PPO FL-00590 | PAR |
-| Hussein Wafapoor, MD |  | BCBS MN PPO FL-00590 | Non-PAR |
+| Hussein Wafapoor, MD |  | BCBS MN PPO FL-00590 | PAR |
 | Referral and/or Auth Required? |  | BCBS MN PPO FL-00590 | No Ref/No Auth Required |
 | Veronica Kon Graversen, MD |  | BCBS MN PPO FL-00590 | PAR |
 

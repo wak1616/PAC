@@ -74,7 +74,7 @@
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
 | Alexander Eaton, MD |  | BCBS Independence PPO FL-00590 | PAR |
-| Hussein Wafapoor, MD |  | BCBS Independence PPO FL-00590 | Non-PAR |
+| Hussein Wafapoor, MD |  | BCBS Independence PPO FL-00590 | PAR |
 | Referral and/or Auth Required? |  | BCBS Independence PPO FL-00590 | No Ref/No Auth Required |
 | Veronica Kon Graversen, MD |  | BCBS Independence PPO FL-00590 | PAR |
 

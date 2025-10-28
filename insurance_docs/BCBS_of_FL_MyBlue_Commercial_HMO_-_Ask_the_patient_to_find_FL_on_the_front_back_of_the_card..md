@@ -74,7 +74,7 @@
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
 | Alexander Eaton, MD | VMYH | BCBS MyBlue HMO FL-00590 | PAR |
-| Hussein Wafapoor, MD | VMYH | BCBS MyBlue HMO FL-00590 | Non-PAR |
+| Hussein Wafapoor, MD | VMYH | BCBS MyBlue HMO FL-00590 | PAR |
 | Referral and/or Auth Required? | VMYH | BCBS MyBlue HMO FL-00590 | Referral Required |
 | Veronica Kon Graversen, MD | VMYH | BCBS MyBlue HMO FL-00590 | PAR |
 

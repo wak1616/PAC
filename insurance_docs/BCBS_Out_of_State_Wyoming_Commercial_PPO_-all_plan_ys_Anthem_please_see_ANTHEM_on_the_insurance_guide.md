@@ -9,7 +9,7 @@
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
 | Alexander Eaton, MD |  | BCBS WY PPO FL-00590 | PAR |
-| Hussein Wafapoor, MD |  | BCBS WY PPO FL-00590 | Non-PAR |
+| Hussein Wafapoor, MD |  | BCBS WY PPO FL-00590 | PAR |
 | Referral and/or Auth Required? |  | BCBS WY PPO FL-00590 | No Ref/No Auth Required |
 | Veronica Kon Graversen, MD |  | BCBS WY PPO FL-00590 | PAR |
 

@@ -74,7 +74,7 @@
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
 | Alexander Eaton, MD | FSOH | BCBS SimplyBlue HMO FL-00590 | PAR |
-| Hussein Wafapoor, MD | FSOH | BCBS SimplyBlue HMO FL-00590 | Non-PAR |
+| Hussein Wafapoor, MD | FSOH | BCBS SimplyBlue HMO FL-00590 | PAR |
 | Referral and/or Auth Required? | FSOH | BCBS SimplyBlue HMO FL-00590 | Authorization Required |
 | Veronica Kon Graversen, MD | FSOH | BCBS SimplyBlue HMO FL-00590 | PAR |
 
