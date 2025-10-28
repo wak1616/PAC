@@ -1330,6 +1330,41 @@ Below are the listed providers at Center For Sight, along with the services they
 * Example Closing:\
   "Thank you \[Mr./Ms. Patient Last Name], we look forward to seeing you for your Aesthetic consultation on \[date] at \[time] at our \[office] location." _(Follow_ [_Standard Closing Procedures_](./#standard-closing-procedures-scripting)_)_
 
+### Scheduling Routine Vision Exams
+
+#### **Overview of Routine Exams**
+
+A comprehensive exam typically includes:
+
+* Visual acuity
+* Eye coordination
+* Refraction
+* Evaluation of the eye structures
+
+These exams are usually performed annually and help maintain overall eye health. Routine Comprehensive exams are only performed by OD providers
+
+#### Imporant Reminders
+
+* Routine Comprehensive exams are only scheduled in the designated routine exam slots.
+* Dark Green for new and established patients
+* Gold for established only patients
+* Staff cannot override regular medical comprehensive exam spots to work in a patient with a vision plan. Staff must schedule in the next available appropriate spot.
+* We can offer to put the patient on the waitlist if these spots are booked out.
+* When a patient checks out from their appointment, front desk staff must schedule their routine one year comp in a routine vision exam slot.
+* Make certain that every appointment is scheduled in time order.
+* Vision plans cannot be used for medical exams such as cataracts, cornea, glaucoma, retina specialist, or LASIK consultations.
+* Patients are typically only eligible through their vision plan once per year. If a routine exam is scheduled before the 1-year eligibility timeframe, the patient may need to use their medical insurance instead.
+* Staff must ensure that medical insurance is obtained along with a vision plan and should never only list a vision plan as the primary insurance.
+* Check the insurance guide for participating providers.
+* Vision Plans cannot be scheduled under the 72-hour rule.
+
+#### Suggested scripting:
+
+_“Just so you’re aware, routine vision exams, glasses, and contact lens prescriptions are handled through your vision plan with our optometrists._\
+_If you’re experiencing any medical symptoms such as flashes, floaters, or changes in vision, your visit would be considered medical and billed through your medical insurance. We just like to clarify this ahead of time so there are no surprises.”_\
+_“I’d like to clarify that vision insurance covers routine vision exams with our optometrists, as well as glasses and contact lens prescriptions._\
+_If your visit involves any medical concerns — such as flashes, floaters, sudden vision changes, or other eye health issues — it would be billed to your medical insurance instead of your vision plan.”_
+
 ## Patient Support -- Handling Other Requests
 
 ### HR – Employment Wage & Job Verification
