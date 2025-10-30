@@ -26,7 +26,7 @@
 | Joshua Kim, MD |  | BCBS Independence Medicare Supp FL-00590 | PAR |
 | Joshua Newman, MD |  | BCBS Independence Medicare Supp FL-00590 | PAR |
 | Kalie Kosek, PA |  | BCBS Independence Medicare Supp FL-00590 | PAR |
-| Khrystyna Ostrozhynska, OD |  | BCBS Independence Medicare Supp FL-00590 | Non-PAR |
+| Khrystyna Ostrozhynska, OD |  | BCBS Independence Medicare Supp FL-00590 | PAR |
 | Kyle Schaub, OD |  | BCBS Independence Medicare Supp FL-00590 | PAR |
 | Len Brown, OD |  | BCBS Independence Medicare Supp FL-00590 | PAR |
 | Logan Page, OD |  | BCBS Independence Medicare Supp FL-00590 | PAR |

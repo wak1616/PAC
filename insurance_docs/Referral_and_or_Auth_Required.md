@@ -147,9 +147,9 @@
 | BCBS New Mexico Commercial PPO Plans - Ask the patient to check the front of the card for "BCBS" and the state on the back of the card. |  | BCBS NM PPO FL-00590 | No Ref/No Auth Required |
 | BCBS North Carolina Commercial PPO Plans - Ask the patient to check the front of the card for "BCBS" and the state on the back of the card. |  | BCBS NC PPO FL-00590 | No Ref/No Auth Required |
 | BCBS North Carolina Medicare PPO Plans - Ask the patient to check the front of the card for "BCBS" and the state on the back of the card. |  | BCBS NC Medicare PPO FL-00590 | No Ref/No Auth Required |
-| BCBS of FL Blue Choice Commercial (HMO) - Ask the patient to check the front of the card for "BCBS" and the state on the back of the card. |  | BCBS BlueChoice HMO FL-00590 | Authorization Required |
-| BCBS of FL Blue Option (HMO) - Ask the patient to check the front of the card for "BCBS" and the state on the back of the card. |  | BCBS BlueOption HMO FL-00590 | Authorization Required |
-| BCBS of FL Blue Select (HMO) - Ask the patient to check the front of the card for "BCBS" and the state on the back of the card. |  | BCBS BlueSelect PPO FL-00590 | No Ref/No Auth Required |
+| BCBS of FL Blue Choice Commercial (PPO) - Ask the patient to check the front of the card for "BCBS" and the state on the back of the card. |  | BCBS BlueChoice PPO FL-00590 | No Ref/No Auth Required |
+| BCBS of FL Blue Option (PPO) - Ask the patient to check the front of the card for "BCBS" and the state on the back of the card. |  | BCBS BlueOptions PPO FL-00590 | No Ref/No Auth Required |
+| BCBS of FL Blue Select (PPO) - Ask the patient to check the front of the card for "BCBS" and the state on the back of the card. |  | BCBS BlueSelect PPO FL-00590 | No Ref/No Auth Required |
 | BCBS of FL BlueCare Commercial(HMO) - Ask the patient to find FL on the front/back of the card. |  | BCBS BlueCare HMO FL-00590 | Authorization Required |
 | BCBS of FL BlueMedicare (HMO) - Ask the patient to check the front of the card for "BCBS" and the state on the back of the card. |  | BCBS BlueMedicare HMO FL-00590 | Referral Required |
 | BCBS of FL BlueMedicare (PPO) - Ask the patient to check the front of the card for "BCBS" and the state on the back of the card. |  | BCBS BlueMedicare PPO FL-00590 | No Ref/No Auth Required |
@@ -344,9 +344,9 @@
 | BCBS New Mexico Commercial PPO Plans - Ask the patient to check the front of the card for "BCBS" and the state on the back of the card. |  | BCBS NM PPO FL-00590 | No Ref/No Auth Required |
 | BCBS New Mexico Commercial PPO Plans - Ask the patient to check the front of the card for "BCBS" and the state on the back of the card. |  | BCBS NM PPO FL-00590 | No Ref/No Auth Required |
 | BCBS North Carolina Commercial PPO Plans - Ask the patient to check the front of the card for "BCBS" and the state on the back of the card. |  | BCBS NC PPO FL-00590 | No Ref/No Auth Required |
-| BCBS of FL Blue Choice Commercial (HMO) - Ask the patient to check the front of the card for "BCBS" and the state on the back of the card. |  | BCBS BlueChoice HMO FL-00590 | Authorization Required |
-| BCBS of FL Blue Option (HMO) - Ask the patient to check the front of the card for "BCBS" and the state on the back of the card. |  | BCBS BlueOption HMO FL-00590 | Authorization Required |
-| BCBS of FL Blue Select (HMO) - Ask the patient to check the front of the card for "BCBS" and the state on the back of the card. |  | BCBS BlueSelect HMO FL-00590 | Authorization Required |
+| BCBS of FL Blue Choice Commercial (PPO) - Ask the patient to check the front of the card for "BCBS" and the state on the back of the card. |  | BCBS BlueChoice PPO FL-00590 | No Ref/No Auth Required |
+| BCBS of FL Blue Options (PPO) - Ask the patient to check the front of the card for "BCBS" and the state on the back of the card. |  | BCBS BlueOptions PPO FL-00590 | No Ref/No Auth Required |
+| BCBS of FL Blue Select (PPO) - Ask the patient to check the front of the card for "BCBS" and the state on the back of the card. |  | BCBS BlueSelect PPO FL-00590 | No Ref/No Auth Required |
 | BCBS of FL BlueCare Commercial(HMO) - Ask the patient to find FL on the front/back of the card. |  | BCBS BlueCare HMO FL-00590 | Authorization Required |
 | BCBS of FL BlueMedicare (HMO) |  | BCBS BlueMedicare HMO FL-00590 | Self Pay Non-Par with Ins |
 | BCBS of FL BlueMedicare (PPO) |  | BCBS BlueMedicare PPO FL-00590 | Self Pay Non-Par with Ins |

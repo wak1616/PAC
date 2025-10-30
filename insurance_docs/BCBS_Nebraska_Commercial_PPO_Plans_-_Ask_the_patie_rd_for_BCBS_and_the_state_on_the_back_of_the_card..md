@@ -26,7 +26,7 @@
 | Joshua Kim, MD |  | BCBS NE PPO FL-00590 | PAR |
 | Joshua Newman, MD |  | BCBS NE PPO FL-00590 | PAR |
 | Kalie Kosek, PA |  | BCBS NE PPO FL-00590 | PAR |
-| Khrystyna Ostrozhynska, OD |  | BCBS NE PPO FL-00590 | Non-PAR |
+| Khrystyna Ostrozhynska, OD |  | BCBS NE PPO FL-00590 | PAR |
 | Kyle Schaub, OD |  | BCBS NE PPO FL-00590 | PAR |
 | Len Brown, OD |  | BCBS NE PPO FL-00590 | PAR |
 | Logan Page, OD |  | BCBS NE PPO FL-00590 | PAR |

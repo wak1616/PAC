@@ -26,7 +26,7 @@
 | Joshua Kim, MD |  | All Savers Comm REFERRAL REQ - UHC | PAR |
 | Joshua Newman, MD |  | All Savers Comm REFERRAL REQ - UHC | PAR |
 | Kalie Kosek, PA |  | All Savers Comm REFERRAL REQ - UHC | PAR |
-| Khrystyna Ostrozhynska, OD |  | All Savers Comm REFERRAL REQ - UHC | Non-PAR |
+| Khrystyna Ostrozhynska, OD |  | All Savers Comm REFERRAL REQ - UHC | PAR |
 | Kyle Schaub, OD |  | All Savers Comm REFERRAL REQ - UHC | PAR |
 | Len Brown, OD |  | All Savers Comm REFERRAL REQ - UHC | PAR |
 | Logan Page, OD |  | All Savers Comm REFERRAL REQ - UHC | PAR |

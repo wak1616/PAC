@@ -59,7 +59,7 @@
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
 | Alexander Eaton, MD |  | Division of Blind | PAR |
-| Hussein Wafapoor, MD |  | Division of Blind | Non-PAR |
+| Hussein Wafapoor, MD |  | Division of Blind | PAR |
 | Referral and/or Auth Required? |  | Division of Blind | Authorization Required |
 | Veronica Kon Graversen, MD |  | Division of Blind | PAR |
 

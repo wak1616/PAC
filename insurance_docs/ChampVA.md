@@ -9,7 +9,7 @@
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
 | Alexander Eaton, MD |  | ChampVA | PAR |
-| Hussein Wafapoor, MD |  | ChampVA | Non-PAR |
+| Hussein Wafapoor, MD |  | ChampVA | PAR |
 | Referral and/or Auth Required? |  | ChampVA | No Ref/No Auth Required |
 | Veronica Kon Graversen, MD |  | ChampVA | PAR |
 

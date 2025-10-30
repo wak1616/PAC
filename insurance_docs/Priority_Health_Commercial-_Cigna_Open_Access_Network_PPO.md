@@ -59,7 +59,7 @@
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
 | Alexander Eaton, MD |  | Priority Health Commercial PPO - Cigna | PAR |
-| Hussein Wafapoor, MD |  | Priority Health Commercial PPO - Cigna | Non-PAR |
+| Hussein Wafapoor, MD |  | Priority Health Commercial PPO - Cigna | PAR |
 | Referral and/or Auth Required? |  | Priority Health Commercial PPO - Cigna | No Ref/No Auth Required |
 | Veronica Kon Graversen, MD |  | Priority Health Commercial PPO - Cigna | PAR |
 

@@ -26,7 +26,7 @@
 | Joshua Kim, MD |  | BCBS CareFirst BC PPO FL-00590 | PAR |
 | Joshua Newman, MD |  | BCBS CareFirst BC PPO FL-00590 | PAR |
 | Kalie Kosek, PA |  | BCBS CareFirst BC PPO FL-00590 | PAR |
-| Khrystyna Ostrozhynska, OD |  | BCBS CareFirst BC PPO FL-00590 | Non-PAR |
+| Khrystyna Ostrozhynska, OD |  | BCBS CareFirst BC PPO FL-00590 | PAR |
 | Kyle Schaub, OD |  | BCBS CareFirst BC PPO FL-00590 | PAR |
 | Len Brown, OD |  | BCBS CareFirst BC PPO FL-00590 | PAR |
 | Logan Page, OD |  | BCBS CareFirst BC PPO FL-00590 | PAR |

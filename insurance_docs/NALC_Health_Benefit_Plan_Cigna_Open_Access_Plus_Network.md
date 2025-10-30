@@ -74,7 +74,7 @@
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
 | Alexander Eaton, MD |  | NALC Health Benefit Plan- Cigna | PAR |
-| Hussein Wafapoor, MD |  | NALC Health Benefit Plan- Cigna | Non-PAR |
+| Hussein Wafapoor, MD |  | NALC Health Benefit Plan- Cigna | PAR |
 | Referral and/or Auth Required? |  | NALC Health Benefit Plan- Cigna | No Ref/No Auth Required |
 | Veronica Kon Graversen, MD |  | NALC Health Benefit Plan- Cigna | PAR |
 

@@ -26,7 +26,7 @@
 | Joshua Kim, MD |  | BCBS MI Medicare PPO FL-00590 | PAR |
 | Joshua Newman, MD |  | BCBS MI Medicare PPO FL-00590 | PAR |
 | Kalie Kosek, PA |  | BCBS MI Medicare PPO FL-00590 | PAR |
-| Khrystyna Ostrozhynska, OD |  | BCBS MI Medicare PPO FL-00590 | Non-PAR |
+| Khrystyna Ostrozhynska, OD |  | BCBS MI Medicare PPO FL-00590 | PAR |
 | Kyle Schaub, OD |  | BCBS MI Medicare PPO FL-00590 | PAR |
 | Len Brown, OD |  | BCBS MI Medicare PPO FL-00590 | PAR |
 | Logan Page, OD |  | BCBS MI Medicare PPO FL-00590 | PAR |

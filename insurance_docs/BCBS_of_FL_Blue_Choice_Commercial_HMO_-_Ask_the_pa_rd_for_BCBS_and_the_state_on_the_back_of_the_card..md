@@ -26,7 +26,7 @@
 | Joshua Kim, MD |  | BCBS BlueChoice HMO FL-00590 | PAR |
 | Joshua Newman, MD |  | BCBS BlueChoice HMO FL-00590 | PAR |
 | Kalie Kosek, PA |  | BCBS BlueChoice HMO FL-00590 | PAR |
-| Khrystyna Ostrozhynska, OD |  | BCBS BlueChoice HMO FL-00590 | Non-PAR |
+| Khrystyna Ostrozhynska, OD |  | BCBS BlueChoice HMO FL-00590 | PAR |
 | Kyle Schaub, OD |  | BCBS BlueChoice HMO FL-00590 | PAR |
 | Len Brown, OD |  | BCBS BlueChoice HMO FL-00590 | PAR |
 | Logan Page, OD |  | BCBS BlueChoice HMO FL-00590 | PAR |
@@ -44,48 +44,6 @@
 | Tanuj Banker, MD (RETINA) |  | BCBS BlueChoice HMO FL-00590 | Non-PAR |
 | Todd Lang, OD |  | BCBS BlueChoice HMO FL-00590 | PAR |
 | Trisha Werner, OD |  | BCBS BlueChoice HMO FL-00590 | PAR |
-
-## Center for Sight-Naples
-
-| Provider | NextGen Name | Referral/Auth | Status |
-|----------|-------------|--------------|--------|
-| George Brinnig-Jastrzebski, MD |  | BCBS BlueChoice HMO FL-00590 | PAR |
-| Jenna Getman, OD |  | BCBS BlueChoice HMO FL-00590 | Non-PAR |
-| Jon Berlie, MD |  | BCBS BlueChoice HMO FL-00590 | PAR |
-| Julie Carter, MD |  | BCBS BlueChoice HMO FL-00590 | PAR |
-
-## Lake Eye 
-
-| Provider | NextGen Name | Referral/Auth | Status |
-|----------|-------------|--------------|--------|
-| Alexandria Rawls, OD |  | BCBS BlueChoice HMO FL-00590 | PAR |
-| Christine Bui, OD |  | BCBS BlueChoice HMO FL-00590 | PAR |
-| Diba Ossareh, OD |  | BCBS BlueChoice HMO FL-00590 | PAR |
-| Jose Vazques-Diaz, MD |  | BCBS BlueChoice HMO FL-00590 | PAR |
-| Karin Girgis, OD |  | BCBS BlueChoice HMO FL-00590 | Non-PAR |
-| Mari Holderby, OD |  | BCBS BlueChoice HMO FL-00590 | PAR |
-| Referral and/or Auth Required? |  | BCBS BlueChoice HMO FL-00590 | Authorization Required |
-| Scot Holman, MD |  | BCBS BlueChoice HMO FL-00590 | PAR |
-| Scott Wehrly, MD |  | BCBS BlueChoice HMO FL-00590 | PAR |
-| Vinay Gutti, MD |  | BCBS BlueChoice HMO FL-00590 | PAR |
-
-## Retina Health Center
-
-| Provider | NextGen Name | Referral/Auth | Status |
-|----------|-------------|--------------|--------|
-| Alexander Eaton, MD |  | BCBS BlueChoice HMO FL-00590 | PAR |
-| Hussein Wafapoor, MD |  | BCBS BlueChoice HMO FL-00590 | PAR |
-| Referral and/or Auth Required? |  | BCBS BlueChoice HMO FL-00590 | Authorization Required |
-| Veronica Kon Graversen, MD |  | BCBS BlueChoice HMO FL-00590 | PAR |
-
-## SW FL Eye
-
-| Provider | NextGen Name | Referral/Auth | Status |
-|----------|-------------|--------------|--------|
-| Albert Smolyar, MD |  | BCBS BlueChoice HMO FL-00590 | PAR |
-| Brian Marhue, OD |  | BCBS BlueChoice HMO FL-00590 | PAR |
-| Penny Orr, OD |  | BCBS BlueChoice HMO FL-00590 | PAR |
-| Sarah Johnson, OD |  | BCBS BlueChoice HMO FL-00590 | PAR |
 
 </details>
 

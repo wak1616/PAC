@@ -26,7 +26,7 @@
 | Joshua Kim, MD |  | BCBS Horizon NJ Medicare Supp FL-00590 | PAR |
 | Joshua Newman, MD |  | BCBS Horizon NJ Medicare Supp FL-00590 | PAR |
 | Kalie Kosek, PA |  | BCBS Horizon NJ Medicare Supp FL-00590 | PAR |
-| Khrystyna Ostrozhynska, OD |  | BCBS Horizon NJ Medicare Supp FL-00590 | Non-PAR |
+| Khrystyna Ostrozhynska, OD |  | BCBS Horizon NJ Medicare Supp FL-00590 | PAR |
 | Kyle Schaub, OD |  | BCBS Horizon NJ Medicare Supp FL-00590 | PAR |
 | Len Brown, OD |  | BCBS Horizon NJ Medicare Supp FL-00590 | PAR |
 | Logan Page, OD |  | BCBS Horizon NJ Medicare Supp FL-00590 | PAR |

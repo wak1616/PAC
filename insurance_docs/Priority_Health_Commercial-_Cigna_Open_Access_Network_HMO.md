@@ -59,7 +59,7 @@
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
 | Alexander Eaton, MD |  | Priority Health Comm HMO | PAR |
-| Hussein Wafapoor, MD |  | Priority Health Comm HMO | Non-PAR |
+| Hussein Wafapoor, MD |  | Priority Health Comm HMO | PAR |
 | Referral and/or Auth Required? |  | Priority Health Comm HMO | No Ref/No Auth Required |
 | Veronica Kon Graversen, MD |  | Priority Health Comm HMO | PAR |
 

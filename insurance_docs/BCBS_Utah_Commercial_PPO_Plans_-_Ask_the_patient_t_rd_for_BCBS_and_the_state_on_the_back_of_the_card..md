@@ -26,7 +26,7 @@
 | Joshua Kim, MD |  | BCBS UT PPO FL-00590 | PAR |
 | Joshua Newman, MD |  | BCBS UT PPO FL-00590 | PAR |
 | Kalie Kosek, PA |  | BCBS UT PPO FL-00590 | PAR |
-| Khrystyna Ostrozhynska, OD |  | BCBS UT PPO FL-00590 | Non-PAR |
+| Khrystyna Ostrozhynska, OD |  | BCBS UT PPO FL-00590 | PAR |
 | Kyle Schaub, OD |  | BCBS UT PPO FL-00590 | PAR |
 | Len Brown, OD |  | BCBS UT PPO FL-00590 | PAR |
 | Logan Page, OD |  | BCBS UT PPO FL-00590 | PAR |

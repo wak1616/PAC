@@ -26,7 +26,7 @@
 | Joshua Kim, MD | VMYH | BCBS MyBlue HMO FL-00590 | PAR |
 | Joshua Newman, MD | VMYH | BCBS MyBlue HMO FL-00590 | PAR |
 | Kalie Kosek, PA | VMYH | BCBS MyBlue HMO FL-00590 | PAR |
-| Khrystyna Ostrozhynska, OD | VMYH | BCBS MyBlue HMO FL-00590 | Non-PAR |
+| Khrystyna Ostrozhynska, OD | VMYH | BCBS MyBlue HMO FL-00590 | PAR |
 | Kyle Schaub, OD | VMYH | BCBS MyBlue HMO FL-00590 | PAR |
 | Len Brown, OD | VMYH | BCBS MyBlue HMO FL-00590 | PAR |
 | Logan Page, OD | VMYH | BCBS MyBlue HMO FL-00590 | PAR |

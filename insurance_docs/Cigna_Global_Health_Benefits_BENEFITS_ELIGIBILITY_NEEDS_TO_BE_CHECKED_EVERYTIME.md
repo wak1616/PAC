@@ -74,7 +74,7 @@
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
 | Alexander Eaton, MD |  | Cigna International | PAR |
-| Hussein Wafapoor, MD |  | Cigna International | Non-PAR |
+| Hussein Wafapoor, MD |  | Cigna International | PAR |
 | Referral and/or Auth Required? |  | Cigna International | Authorization Required |
 | Veronica Kon Graversen, MD |  | Cigna International | PAR |
 

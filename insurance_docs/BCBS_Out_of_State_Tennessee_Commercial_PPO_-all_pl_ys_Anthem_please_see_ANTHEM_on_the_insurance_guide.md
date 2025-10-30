@@ -26,7 +26,7 @@
 | Joshua Kim, MD |  | BCBS TN PPO FL-00590 | PAR |
 | Joshua Newman, MD |  | BCBS TN PPO FL-00590 | PAR |
 | Kalie Kosek, PA |  | BCBS TN PPO FL-00590 | PAR |
-| Khrystyna Ostrozhynska, OD |  | BCBS TN PPO FL-00590 | Non-PAR |
+| Khrystyna Ostrozhynska, OD |  | BCBS TN PPO FL-00590 | PAR |
 | Kyle Schaub, OD |  | BCBS TN PPO FL-00590 | PAR |
 | Len Brown, OD |  | BCBS TN PPO FL-00590 | PAR |
 | Logan Page, OD |  | BCBS TN PPO FL-00590 | PAR |

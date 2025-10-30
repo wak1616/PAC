@@ -26,7 +26,7 @@
 | Joshua Kim, MD |  | BCBS Regence ID PPO FL-00590 | PAR |
 | Joshua Newman, MD |  | BCBS Regence ID PPO FL-00590 | PAR |
 | Kalie Kosek, PA |  | BCBS Regence ID PPO FL-00590 | PAR |
-| Khrystyna Ostrozhynska, OD |  | BCBS Regence ID PPO FL-00590 | Non-PAR |
+| Khrystyna Ostrozhynska, OD |  | BCBS Regence ID PPO FL-00590 | PAR |
 | Kyle Schaub, OD |  | BCBS Regence ID PPO FL-00590 | PAR |
 | Len Brown, OD |  | BCBS Regence ID PPO FL-00590 | PAR |
 | Logan Page, OD |  | BCBS Regence ID PPO FL-00590 | PAR |

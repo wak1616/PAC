@@ -9,7 +9,7 @@
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
 | Alexander Eaton, MD |  | Cigna Commercial HMO | PAR |
-| Hussein Wafapoor, MD |  | Cigna Commercial HMO | Non-PAR |
+| Hussein Wafapoor, MD |  | Cigna Commercial HMO | PAR |
 | Referral and/or Auth Required? |  | Cigna Commercial HMO | No Ref/No Auth Required |
 | Veronica Kon Graversen, MD |  | Cigna Commercial HMO | PAR |
 

@@ -26,7 +26,7 @@
 | Joshua Kim, MD |  | BCBS Anthem Community PPO FL-00590 | PAR |
 | Joshua Newman, MD |  | BCBS Anthem Community PPO FL-00590 | PAR |
 | Kalie Kosek, PA |  | BCBS Anthem Community PPO FL-00590 | PAR |
-| Khrystyna Ostrozhynska, OD |  | BCBS Anthem Community PPO FL-00590 | Non-PAR |
+| Khrystyna Ostrozhynska, OD |  | BCBS Anthem Community PPO FL-00590 | PAR |
 | Kyle Schaub, OD |  | BCBS Anthem Community PPO FL-00590 | PAR |
 | Len Brown, OD |  | BCBS Anthem Community PPO FL-00590 | PAR |
 | Logan Page, OD |  | BCBS Anthem Community PPO FL-00590 | PAR |

@@ -26,7 +26,7 @@
 | Joshua Kim, MD |  | BCBS Anthem CA Medicare PPO FL-00590 | PAR |
 | Joshua Newman, MD |  | BCBS Anthem CA Medicare PPO FL-00590 | PAR |
 | Kalie Kosek, PA |  | BCBS Anthem CA Medicare PPO FL-00590 | PAR |
-| Khrystyna Ostrozhynska, OD |  | BCBS Anthem CA Medicare PPO FL-00590 | Non-PAR |
+| Khrystyna Ostrozhynska, OD |  | BCBS Anthem CA Medicare PPO FL-00590 | PAR |
 | Kyle Schaub, OD |  | BCBS Anthem CA Medicare PPO FL-00590 | PAR |
 | Len Brown, OD |  | BCBS Anthem CA Medicare PPO FL-00590 | PAR |
 | Logan Page, OD |  | BCBS Anthem CA Medicare PPO FL-00590 | PAR |

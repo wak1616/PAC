@@ -1,6 +1,6 @@
 # Insurance Guide By Insurance Plan
 
-*Last Updated: 10/29/2025 (based on data from Excel file: [US Eye Insurance Guide.xlsx](https://useyecorp.sharepoint.com/:x:/r/RCM/Shared%20Documents/Insurance%20Guides/US%20Eye%20Insurance%20Guide.xlsx?d=w2a2138d41fa04bfa919fc4966998346a&csf=1&web=1&e=73a3Gf&nav=MTVfezIwMjg5MTIyLTdDRkEtNEE0OS1CODBGLTdFNTc3Njc3OTJDNX0))*
+*Last Updated: 10/30/2025 (based on data from Excel file: [US Eye Insurance Guide.xlsx](https://useyecorp.sharepoint.com/:x:/r/RCM/Shared%20Documents/Insurance%20Guides/US%20Eye%20Insurance%20Guide.xlsx?d=w2a2138d41fa04bfa919fc4966998346a&csf=1&web=1&e=73a3Gf&nav=MTVfezIwMjg5MTIyLTdDRkEtNEE0OS1CODBGLTdFNTc3Njc3OTJDNX0))*
 
 *This guide lists insurance participation by insurance plan. Click an insurance plan to view all providers who accept that insurance, grouped by location.*
 
@@ -347,8 +347,10 @@
 * [BCBS Western New York Commercial (PPO) -Ask the patient to check the front and back copy of the card for the state.](insurance_docs/BCBS_Western_New_York_Commercial_PPO_-Ask_the_pati_the_front_and_back_copy_of_the_card_for_the_state..md)
 * [BCBS Wyoming Commercial PPO Plans - Ask the patient to check the front of the card for "BCBS" and the state on the back of the card.](insurance_docs/BCBS_Wyoming_Commercial_PPO_Plans_-_Ask_the_patien_rd_for_BCBS_and_the_state_on_the_back_of_the_card..md)
 * [BCBS of FL Blue Choice Commercial (HMO) - Ask the patient to check the front of the card for "BCBS" and the state on the back of the card.](insurance_docs/BCBS_of_FL_Blue_Choice_Commercial_HMO_-_Ask_the_pa_rd_for_BCBS_and_the_state_on_the_back_of_the_card..md)
-* [BCBS of FL Blue Option (HMO) - Ask the patient to check the front of the card for "BCBS" and the state on the back of the card.](insurance_docs/BCBS_of_FL_Blue_Option_HMO_-_Ask_the_patient_to_ch_rd_for_BCBS_and_the_state_on_the_back_of_the_card..md)
-* [BCBS of FL Blue Select (HMO) - Ask the patient to check the front of the card for "BCBS" and the state on the back of the card.](insurance_docs/BCBS_of_FL_Blue_Select_HMO_-_Ask_the_patient_to_ch_rd_for_BCBS_and_the_state_on_the_back_of_the_card..md)
+* [BCBS of FL Blue Choice Commercial (PPO) - Ask the patient to check the front of the card for "BCBS" and the state on the back of the card.](insurance_docs/BCBS_of_FL_Blue_Choice_Commercial_PPO_-_Ask_the_pa_rd_for_BCBS_and_the_state_on_the_back_of_the_card..md)
+* [BCBS of FL Blue Option (PPO) - Ask the patient to check the front of the card for "BCBS" and the state on the back of the card.](insurance_docs/BCBS_of_FL_Blue_Option_PPO_-_Ask_the_patient_to_ch_rd_for_BCBS_and_the_state_on_the_back_of_the_card..md)
+* [BCBS of FL Blue Options (PPO) - Ask the patient to check the front of the card for "BCBS" and the state on the back of the card.](insurance_docs/BCBS_of_FL_Blue_Options_PPO_-_Ask_the_patient_to_c_rd_for_BCBS_and_the_state_on_the_back_of_the_card..md)
+* [BCBS of FL Blue Select (PPO) - Ask the patient to check the front of the card for "BCBS" and the state on the back of the card.](insurance_docs/BCBS_of_FL_Blue_Select_PPO_-_Ask_the_patient_to_ch_rd_for_BCBS_and_the_state_on_the_back_of_the_card..md)
 * [BCBS of FL BlueCare Commercial(HMO) - Ask the patient to find FL on the front/back of the card.](insurance_docs/BCBS_of_FL_BlueCare_Commercial_HMO_-_Ask_the_patient_to_find_FL_on_the_front_back_of_the_card..md)
 * [BCBS of FL BlueMedicare (HMO)](insurance_docs/BCBS_of_FL_BlueMedicare_HMO.md)
 * [BCBS of FL BlueMedicare (HMO) - Ask the patient to check the front of the card for "BCBS" and the state on the back of the card.](insurance_docs/BCBS_of_FL_BlueMedicare_HMO_-_Ask_the_patient_to_c_rd_for_BCBS_and_the_state_on_the_back_of_the_card..md)

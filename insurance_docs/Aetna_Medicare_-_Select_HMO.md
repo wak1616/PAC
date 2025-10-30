@@ -26,7 +26,7 @@
 | Joshua Kim, MD |  | Aetna Medicare HMO REFERRAL REQ | PAR |
 | Joshua Newman, MD |  | Aetna Medicare HMO REFERRAL REQ | PAR |
 | Kalie Kosek, PA |  | Aetna Medicare HMO REFERRAL REQ | Non-PAR |
-| Khrystyna Ostrozhynska, OD |  | Aetna Medicare HMO REFERRAL REQ | PAR |
+| Khrystyna Ostrozhynska, OD |  | Aetna Medicare HMO REFERRAL REQ | Non-PAR |
 | Kyle Schaub, OD |  | Aetna Medicare HMO REFERRAL REQ | Non-PAR |
 | Len Brown, OD |  | Aetna Medicare HMO REFERRAL REQ | Non-PAR |
 | Logan Page, OD |  | Aetna Medicare HMO REFERRAL REQ | Non-PAR |

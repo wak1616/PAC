@@ -26,7 +26,7 @@
 | Joshua Kim, MD | FSOH | BCBS SimplyBlue HMO FL-00590 | PAR |
 | Joshua Newman, MD | FSOH | BCBS SimplyBlue HMO FL-00590 | PAR |
 | Kalie Kosek, PA | FSOH | BCBS SimplyBlue HMO FL-00590 | PAR |
-| Khrystyna Ostrozhynska, OD | FSOH | BCBS SimplyBlue HMO FL-00590 | Non-PAR |
+| Khrystyna Ostrozhynska, OD | FSOH | BCBS SimplyBlue HMO FL-00590 | PAR |
 | Kyle Schaub, OD | FSOH | BCBS SimplyBlue HMO FL-00590 | PAR |
 | Len Brown, OD | FSOH | BCBS SimplyBlue HMO FL-00590 | PAR |
 | Logan Page, OD | FSOH | BCBS SimplyBlue HMO FL-00590 | PAR |

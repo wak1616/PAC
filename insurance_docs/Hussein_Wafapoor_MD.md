@@ -125,9 +125,9 @@
 | BCBS New Mexico Commercial PPO Plans - Ask the patient to check the front of the card for "BCBS" and the state on the back of the card. |  | BCBS NM PPO FL-00590 | PAR |
 | BCBS New Mexico Commercial PPO Plans - Ask the patient to check the front of the card for "BCBS" and the state on the back of the card. |  | BCBS NM PPO FL-00590 | PAR |
 | BCBS North Carolina Commercial PPO Plans - Ask the patient to check the front of the card for "BCBS" and the state on the back of the card. |  | BCBS NC PPO FL-00590 | PAR |
-| BCBS of FL Blue Choice Commercial (HMO) - Ask the patient to check the front of the card for "BCBS" and the state on the back of the card. |  | BCBS BlueChoice HMO FL-00590 | PAR |
-| BCBS of FL Blue Option (HMO) - Ask the patient to check the front of the card for "BCBS" and the state on the back of the card. |  | BCBS BlueOption HMO FL-00590 | PAR |
-| BCBS of FL Blue Select (HMO) - Ask the patient to check the front of the card for "BCBS" and the state on the back of the card. |  | BCBS BlueSelect HMO FL-00590 | PAR |
+| BCBS of FL Blue Choice Commercial (PPO) - Ask the patient to check the front of the card for "BCBS" and the state on the back of the card. |  | BCBS BlueChoice PPO FL-00590 | PAR |
+| BCBS of FL Blue Options (PPO) - Ask the patient to check the front of the card for "BCBS" and the state on the back of the card. |  | BCBS BlueOptions PPO FL-00590 | PAR |
+| BCBS of FL Blue Select (PPO) - Ask the patient to check the front of the card for "BCBS" and the state on the back of the card. |  | BCBS BlueSelect PPO FL-00590 | Non-PAR -OON Benefits |
 | BCBS of FL BlueCare Commercial(HMO) - Ask the patient to find FL on the front/back of the card. |  | BCBS BlueCare HMO FL-00590 | PAR |
 | BCBS of FL BlueMedicare (HMO) |  | BCBS BlueMedicare HMO FL-00590 | Non-PAR |
 | BCBS of FL BlueMedicare (PPO) |  | BCBS BlueMedicare PPO FL-00590 | Non-PAR |
@@ -181,25 +181,25 @@
 | BCBS Vermont Commercial PPO Plans - Ask the patient to check the front of the card for "BCBS" and the state on the back of the card. |  | BCBS VT PPO FL-00590 | PAR |
 | BCBS Wellmark Iowa Commercial PPO - Wellmark is largely on the front or back of the card. |  | BCBS Wellmark IA PPO FL-00590 | PAR |
 | BCBS Western New York Commercial (PPO) -Ask the patient to check the front and back copy of the card for the state. |  | BCBS W.NY PPO FL-00590 | PAR |
-| ChampVA |  | ChampVA | Non-PAR |
-| Cigna Choice Fund PPO |  | Cigna Commercial PPO | Non-PAR |
-| Cigna ChoiceFund OA Plus/Cigna ChoiceFund OA Plus with CareLink |  | Cigna Commercial PPO | Non-PAR |
-| Cigna Courage Medicare (HMO) |  | Cigna Medicare HMO REFERRAL REQUIRED | Non-PAR |
+| ChampVA |  | ChampVA | PAR |
+| Cigna Choice Fund PPO |  | Cigna Commercial PPO | PAR |
+| Cigna ChoiceFund OA Plus/Cigna ChoiceFund OA Plus with CareLink |  | Cigna Commercial PPO | PAR |
+| Cigna Courage Medicare (HMO) |  | Cigna Medicare HMO REFERRAL REQUIRED | PAR |
 | Cigna Florida Connect EPO |  | Self Pay Non-Par with Ins | Non-PAR |
-| Cigna Global Health Benefits (BENEFITS/ELIGIBILITY NEEDS TO BE CHECKED EVERYTIME) |  | Cigna International | Non-PAR |
-| CIGNA HealthCare of Florida, Inc. - Fort Myers HMO |  | Cigna Commercial HMO | Non-PAR |
-| CIGNA HealthCare of Florida, Inc. - Tampa HMO |  | Cigna Commercial HMO | Non-PAR |
-| CIGNA HealthCare Seamless Network - Florida |  | Cigna Commercial PPO | Non-PAR |
-| Cigna Local Plus |  | Cigna Commercial PPO | Non-PAR |
+| Cigna Global Health Benefits (BENEFITS/ELIGIBILITY NEEDS TO BE CHECKED EVERYTIME) |  | Cigna International | PAR |
+| CIGNA HealthCare of Florida, Inc. - Fort Myers HMO |  | Cigna Commercial HMO | PAR |
+| CIGNA HealthCare of Florida, Inc. - Tampa HMO |  | Cigna Commercial HMO | PAR |
+| CIGNA HealthCare Seamless Network - Florida |  | Cigna Commercial PPO | PAR |
+| Cigna Local Plus |  | Cigna Commercial PPO | PAR |
 | Cigna Local Plus - Oscar |  | Self Pay Non-Par with Ins | Non-PAR |
 | Cigna Medicare HMO- Preferred/Preferred Savings Medicare/Courage |  | Cigna Medicare HMO REFERRAL REQUIRED | Non-PAR |
 | Cigna Medicare PPO |  | Cigna Medicare PPO | Non-PAR |
 | Cigna Medicare- TotalCare/Total Care Plus HMO D-SNP |  | Primary: Cigna Dual MDCR HMO Primary-REFERRAL REQ                                                      Secondary: Cigna Dual Medicaid HMO Secondary | Non-PAR |
 | Cigna OA Plus - Carelink |  | Cigna Commercial PPO | Non-PAR |
-| Cigna Open Access Plus |  | Cigna Commercial PPO | Non-PAR |
+| Cigna Open Access Plus |  | Cigna Commercial PPO | PAR |
 | Cigna Open Access Plus - Oscar |  | Self Pay Non-Par with Ins | Non-PAR |
-| Cigna PPO |  | Cigna Commercial PPO | Non-PAR |
-| Division of Blind |  | Division of Blind | Non-PAR |
+| Cigna PPO |  | Cigna Commercial PPO | PAR |
+| Division of Blind |  | Division of Blind | PAR |
 | First Health Network (through Aetna and/or PHP Network) PLEASE ASK THE PATIENT FOR THE HEALTH PLAN NAME ON THE CARD AND LOAD THE PLAN INTO NEXTGEN ACCORDING TO THEIR HEALTH PLAN |  | PLEASE ASK THE PATIENT FOR THE HEALTH PLAN NAME ON THE CARD. IF THE PAYER IS NOT LOADED INTO THE SYSTEM, USE: INS NOT IN NEXTGEN. SEE: Generic Insurance Protocol - PAC, Front Desk, and Customer Service.pdf | Non-PAR |
 | GEHA (United Healthcare Choice Plus Network) PLEASE INCLUDE THE SUFFIX IN THE POLICY # ON THE ID CARD AS GEHA (EX: 1234567GEHA) |  | UHC GEHA-39026 | Non-PAR |
 | Golden Rule (UHC Choice Plus Network) |  | UHC Golden Rule-37602 | Non-PAR |
@@ -219,11 +219,11 @@
 | Meritain Health - Sarasota Memorial (EXTENSIVE MEDICAL PLAN) PLEASE ASK THE PATIENT IF THE CARD HAS "SMH" ON THEIR CARD AND THE CARD MUST SAY EXTENDED MEDICAL PLAN. THE EXTENDED MEDICAL PLAN APPLIES TOWARDS THE PATIENT'S TIER 2 BENEFITS - AETNA CHOICE POS II |  | Meritain Health SMH Extd  Pln | Non-PAR |
 | Moda Health PPO (Aetna Network) |  | Moda Health PPO | Non-PAR |
 | Multiplan PLEASE ASK THE PATIENT FOR THE HEALTH PLAN NAME ON THE CARD AND LOAD THE PLAN INTO NEXTGEN ACCORDING TO THEIR HEALTH PLAN |  | PLEASE ASK THE PATIENT FOR THE HEALTH PLAN NAME ON THE CARD. IF THE PAYER IS NOT LOADED INTO THE SYSTEM, USE: INS NOT IN NEXTGEN. SEE: Generic Insurance Protocol - PAC, Front Desk, and Customer Service.pdf | Non-PAR |
-| NALC Health Benefit Plan (Cigna Open Access Plus Network) |  | NALC Health Benefit Plan- Cigna | Non-PAR |
+| NALC Health Benefit Plan (Cigna Open Access Plus Network) |  | NALC Health Benefit Plan- Cigna | PAR |
 | Optum VA-VETERANS AFFAIRS Community Care Network (CCN) |  | Optum VA Community Care | Non-PAR |
 | PHCS PLEASE ASK THE PATIENT FOR THE HEALTH PLAN NAME ON THE CARD AND LOAD THE PLAN INTO NEXTGEN ACCORDING TO THEIR HEALTH PLAN |  | PLEASE ASK THE PATIENT FOR THE HEALTH PLAN NAME ON THE CARD. IF THE PAYER IS NOT LOADED INTO THE SYSTEM, USE: INS NOT IN NEXTGEN. SEE: Generic Insurance Protocol - PAC, Front Desk, and Customer Service.pdf | Non-PAR |
-| Priority Health Commercial- (Cigna Open Access Network) HMO |  | Priority Health Comm HMO | Non-PAR |
-| Priority Health Commercial- (Cigna Open Access Network) PPO |  | Priority Health Commercial PPO - Cigna | Non-PAR |
+| Priority Health Commercial- (Cigna Open Access Network) HMO |  | Priority Health Comm HMO | PAR |
+| Priority Health Commercial- (Cigna Open Access Network) PPO |  | Priority Health Commercial PPO - Cigna | PAR |
 | Priority Health Medicare- Priority Medicare Ideal/Travel Pass (Multiplan) PPO |  | Priority Health Medicare PPO - Multiplan | Non-PAR |
 | Priority Health Medicare- Priority Medicare Value/Travel Pass (Multiplan) HMO -POS |  | Priority Health Medicare HMO - Multiplan | Non-PAR |
 | Railroad Medicare - CONFIRM WITH PT AT THE BOTTOM OF THE ID CARD IT SAYS "RAILROAD RETIREMENT BOARD" |  | Railroad Medicare | Non-PAR |

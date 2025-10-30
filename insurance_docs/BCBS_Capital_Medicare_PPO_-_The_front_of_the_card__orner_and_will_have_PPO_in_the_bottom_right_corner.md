@@ -26,7 +26,7 @@
 | Joshua Kim, MD |  | BCBS Capital Medicare PPO FL-00590 | PAR |
 | Joshua Newman, MD |  | BCBS Capital Medicare PPO FL-00590 | PAR |
 | Kalie Kosek, PA |  | BCBS Capital Medicare PPO FL-00590 | PAR |
-| Khrystyna Ostrozhynska, OD |  | BCBS Capital Medicare PPO FL-00590 | Non-PAR |
+| Khrystyna Ostrozhynska, OD |  | BCBS Capital Medicare PPO FL-00590 | PAR |
 | Kyle Schaub, OD |  | BCBS Capital Medicare PPO FL-00590 | PAR |
 | Len Brown, OD |  | BCBS Capital Medicare PPO FL-00590 | PAR |
 | Logan Page, OD |  | BCBS Capital Medicare PPO FL-00590 | PAR |
