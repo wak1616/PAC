@@ -50,18 +50,13 @@
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
 | Alexandria Rawls, OD |  | UHC Commercial HMO | PAR |
-| Alexandria Rawls, OD |  | UHC Commercial HMO | PAR |
 | Christine Bui, OD |  | UHC Commercial HMO | PAR |
 | Diba Ossareh, OD |  | UHC Commercial HMO | PAR |
 | Jose Vazques-Diaz, MD |  | UHC Commercial HMO | PAR |
-| Jose Vazques-Diaz, MD |  | UHC Commercial HMO | PAR |
-| Karin Girgis, OD |  | UHC Commercial HMO | PAR |
 | Karin Girgis, OD |  | UHC Commercial HMO | PAR |
 | Mari Holderby, OD |  | UHC Commercial HMO | PAR |
 | Referral and/or Auth Required? |  | UHC Commercial HMO | No Ref/No Auth Required |
-| Referral and/or Auth Required? |  | UHC Commercial HMO | Referral MAY Be Required |
 | Scot Holman, MD |  | UHC Commercial HMO | PAR |
-| Scott Wehrly, MD |  | UHC Commercial HMO | PAR |
 | Scott Wehrly, MD |  | UHC Commercial HMO | PAR |
 | Vinay Gutti, MD |  | UHC Commercial HMO | PAR |
 

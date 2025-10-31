@@ -92,23 +92,18 @@
 | BCBS Carefirst Admin Commercial PPO - The front of the card will state CareFirst BlueChoice in the upper left hand corner. This card does not say BlueChoice. |  | BCBS CareFirst Admin PPO FL-00590 | PAR |
 | BCBS Carefirst BlueChoice Commercial PPO - The front of the card will state CareFirst BlueChoice in the upper left hand corner. |  | BCBS CareFirst BC PPO FL-00590 | PAR |
 | BCBS CareFirst Maryland Commercial PPO - CareFirst is on the front top left of the card. Maryland is found on the back of the card. This card does not say BlueChoice. |  | BCBS CareFirst MD PPO FL-00590 | PAR |
-| BCBS CareFirst Maryland Medicare Supplemental - CareFirst is on the front top left of the card. Maryland is found on the back of the card. This card does not say BlueChoice |  | BCBS CareFirst MD Medicare Supp FL-00590 | PAR |
 | BCBS Credence Commercial PPO - Credence is largely on the front or back of the card. |  | BCBS Credence PPO FL-00590 | PAR |
 | BCBS Excellus Commercial PPO - Excellus is largely on the front or back of the card. |  | BCBS Excellus PPO FL-00590 | PAR |
 | BCBS Hawaii Commercial PPO Plans - Ask the patient to check the front of the card for "BCBS" and the state on the back of the card. |  | BCBS HI PPO FL-00590 | PAR |
 | BCBS Highmark Delaware Commercial PPO - Highmark is largely on the card, ask the patient to locate the state on the front or back. |  | BCBS Highmark DE PPO FL-00590 | PAR |
 | BCBS Highmark North Eastern New York Commercial PPO - Highmark is largely on the card, ask the patient to locate the state on the front or back. |  | BCBS Highmark NE.NY PPO FL-00590 | PAR |
 | BCBS Highmark Not Otherwise Classified Commercial PPO - Highmark is largely on the front or back of the card. This plan is to be select ONLY when a state is not found on the back of the card. |  | BCBS Highmark NOC PPO FL-00590 | PAR |
-| BCBS Highmark Not Otherwise Classified Medicare Supplemental - Highmark is largely on the front or back of the card. This plan is to be select ONLY when a state is not found on the back of the card. |  | BCBS Highmark NOC Medicare Supp FL-00590 | PAR |
 | BCBS Highmark West Virginia Commercial PPO - Highmark is largely on the card, ask the patient to locate the state on the front or back. |  | BCBS Highmark WV PPO FL-00590 | PAR |
 | BCBS Highmark Western New York Commercial PPO - Highmark is largely on the card, ask the patient to locate the state on the front or back. |  | BCBS Highmark W.NY PPO FL-00590 | PAR |
 | BCBS Horizon New Jersey Commercial PPO - Horizon is largely on the front or back of the card. |  | BCBS Horizon NJ PPO FL-00590 | PAR |
-| BCBS Horizon New Jersey Medicare Supplemental - Horizon is largely on the front or back of the card. |  | BCBS Horizon NJ Medicare Supp FL-00590 | PAR |
 | BCBS Illinois Commercial HPN Plans - Ask the patient to check the front of the card for "BCBS" and the state on the back of the card. |  | BCBS IL HPN FL-00590 | PAR |
 | BCBS Illinois Commercial PPO Plans - Ask the patient to check the front of the card for "BCBS" and the state on the back of the card. |  | BCBS IL PPO FL-00590 | PAR |
-| BCBS Illinois Medicare PPO Supplemental - Ask the patient to check the front of the card for "BCBS" and the state on the back of the card. |  | BCBS IL Medicare Supp FL-00590 | PAR |
 | BCBS Independence Commercial PPO - Independence is largely on the front or back of the card. |  | BCBS Independence PPO FL-00590 | PAR |
-| BCBS Independence Medicare Suuplemental - Independence is largely on the front or back of the card. |  | BCBS Independence Medicare Supp FL-00590 | PAR |
 | BCBS Iowa Commercial PPO Plans - Ask the patient to check the front of the card for "BCBS" and the state on the back of the card. |  | BCBS IA PPO FL-00590 | PAR |
 | BCBS Kansas City Commercial PPO Plans - Ask the patient to check the front of the card for "BCBS" and the state/city on the back of the card. |  | BCBS Kansas City PPO FL-00590 | PAR |
 | BCBS Kansas Commercial PPO Plans - Ask the patient to check the front of the card for "BCBS" and the state on the back of the card. |  | BCBS KS PPO FL-00590 | PAR |
@@ -116,10 +111,9 @@
 | BCBS Louisiana Commercial PPO Plans - Ask the patient to check the front of the card for "BCBS" and the state on the back of the card. |  | BCBS LA PPO FL-00590 | PAR |
 | BCBS Maryland Commercial PPO Plans - Ask the patient to check the front of the card for "BCBS" and the state on the back of the card. |  | BCBS MD PPO FL-00590 | PAR |
 | BCBS Massachusetts Commercial PPO Plans - Ask the patient to check the front of the card for "BCBS" and the state on the back of the card. |  | BCBS MA PPO FL-00590 | PAR |
+| BCBS Michigan Commercial HMO Plans - Ask the patient to check the front of the card for "BCBS" and the state on the back of the card. |  | BCBS MI HMO FL-00590 | PAR |
 | BCBS Michigan Commercial PPO Plans - Ask the patient to check the front of the card for "BCBS" and the state on the back of the card. |  | BCBS MI PPO FL-00590 | PAR |
-| BCBS Michigan Medicare Supplemental PPO Plans - Ask the patient to check the front of the card for "BCBS" and the state on the back of the card. |  | BCBS MI Medicare Supp FL-00590 | PAR |
 | BCBS Minnesota Commercial PPO Plans - Ask the patient to check the front of the card for "BCBS" and the state on the back of the card. |  | BCBS MN PPO FL-00590 | PAR |
-| BCBS Minnesota Medicare Supplemental Plans - Ask the patient to check the front of the card for "BCBS" and the state on the back of the card. |  | BCBS MN Medicare Supp FL-00590 | PAR |
 | BCBS Montana Commercial PPO Plans - Ask the patient to check the front of the card for "BCBS" and the state on the back of the card. |  | BCBS MT PPO FL-00590 | PAR |
 | BCBS Nebraska Commercial PPO Plans - Ask the patient to check the front of the card for "BCBS" and the state on the back of the card. |  | BCBS NE PPO FL-00590 | PAR |
 | BCBS New Mexico Commercial PPO Plans - Ask the patient to check the front of the card for "BCBS" and the state on the back of the card. |  | BCBS NM PPO FL-00590 | PAR |
@@ -174,8 +168,6 @@
 | BCBS Regence of Utah Commercial PPO - Ask the patient to locate the state, Regence is largely on the front or back of the card. |  | BCBS Regence UT PPO FL-00590 | PAR |
 | BCBS Regence of Washington Commercial PPO - Ask the patient to locate the state, Regence is largely on the front or back of the card. |  | BCBS Regence WA PPO FL-00590 | PAR |
 | BCBS Rhode Island Commercial PPO Plans - Ask the patient to check the front of the card for "BCBS" and the state on the back of the card. |  | BCBS RI PPO FL-00590 | PAR |
-| BCBS Rhode Island Medicare Supplemental Plans - Ask the patient to check the front of the card for "BCBS" and the state on the back of the card. |  | BCBS RI Medicare Supp FL-00590 | PAR |
-| BCBS Texas Commercial Medicare Supplemental Plans - Ask the patient to check the front of the card for "BCBS" and the state on the back of the card. |  | BCBS TX Medicare Supp FL-00590 | PAR |
 | BCBS Texas Commercial PPO Plans - Ask the patient to check the front of the card for "BCBS" and the state on the back of the card. |  | BCBS TX PPO FL-00590 | PAR |
 | BCBS Utah Commercial PPO Plans - Ask the patient to check the front of the card for "BCBS" and the state on the back of the card. |  | BCBS UT PPO FL-00590 | PAR |
 | BCBS Vermont Commercial PPO Plans - Ask the patient to check the front of the card for "BCBS" and the state on the back of the card. |  | BCBS VT PPO FL-00590 | PAR |

@@ -58,7 +58,10 @@
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
+| Alexander Eaton, MD |  | BCBS MI HMO FL-00590 | PAR |
+| Hussein Wafapoor, MD |  | BCBS MI HMO FL-00590 | PAR |
 | Referral and/or Auth Required? |  | BCBS MI HMO FL-00590 | Authorization Required |
+| Veronica Kon Graversen, MD |  | BCBS MI HMO FL-00590 | PAR |
 
 ## SW FL Eye
 
