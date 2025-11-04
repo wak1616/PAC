@@ -21,7 +21,7 @@
 | James Lenhart, OD |  | Aetna Commercial HMO REFERRAL REQ | PAR |
 | Joaquin De Rojas, MD |  | Aetna Commercial HMO REFERRAL REQ | PAR |
 | John Fezza, MD (Oculoplastics) |  | Aetna Commercial HMO REFERRAL REQ | PAR |
-| Jordan Shoemaker, PA |  | Aetna Commercial HMO REFERRAL REQ | Non-PAR |
+| Jordan Shoemaker, PA |  | Aetna Commercial HMO REFERRAL REQ | PAR |
 | Joseph Sowka, OD |  | Aetna Commercial HMO REFERRAL REQ | PAR |
 | Joshua Kim, MD |  | Aetna Commercial HMO REFERRAL REQ | PAR |
 | Joshua Newman, MD |  | Aetna Commercial HMO REFERRAL REQ | PAR |

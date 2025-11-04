@@ -21,7 +21,7 @@
 | James Lenhart, OD |  | Moda Health PPO | PAR |
 | Joaquin De Rojas, MD |  | Moda Health PPO | PAR |
 | John Fezza, MD (Oculoplastics) |  | Moda Health PPO | PAR |
-| Jordan Shoemaker, PA |  | Moda Health PPO | Non-PAR |
+| Jordan Shoemaker, PA |  | Moda Health PPO | PAR |
 | Joseph Sowka, OD |  | Moda Health PPO | PAR |
 | Joshua Kim, MD |  | Moda Health PPO | PAR |
 | Joshua Newman, MD |  | Moda Health PPO | PAR |

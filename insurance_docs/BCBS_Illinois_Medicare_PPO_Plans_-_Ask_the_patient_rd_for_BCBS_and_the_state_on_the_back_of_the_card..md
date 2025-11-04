@@ -62,7 +62,7 @@
 | Christine Bui, OD |  | BCBS IL Medicare PPO FL-00590 | PAR |
 | Diba Ossareh, OD |  | BCBS IL Medicare PPO FL-00590 | PAR |
 | Jose Vazques-Diaz, MD |  | BCBS IL Medicare PPO FL-00590 | PAR |
-| Karin Girgis, OD |  | BCBS IL Medicare PPO FL-00590 | Non-PAR |
+| Karin Girgis, OD |  | BCBS IL Medicare PPO FL-00590 | PAR |
 | Mari Holderby, OD |  | BCBS IL Medicare PPO FL-00590 | PAR |
 | Referral and/or Auth Required? |  | BCBS IL Medicare PPO FL-00590 | No Ref/No Auth Required |
 | Scot Holman, MD |  | BCBS IL Medicare PPO FL-00590 | PAR |

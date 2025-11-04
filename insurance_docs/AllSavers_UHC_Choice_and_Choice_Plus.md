@@ -9,7 +9,7 @@
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
 | George Brinnig-Jastrzebski, MD |  | UHC All Savers-81400 | PAR |
-| Jenna Getman, OD |  | UHC All Savers-81400 | Non-PAR |
+| Jenna Getman, OD |  | UHC All Savers-81400 | PAR |
 | Jon Berlie, MD |  | UHC All Savers-81400 | PAR |
 | Julie Carter, MD |  | UHC All Savers-81400 | PAR |
 

@@ -21,7 +21,7 @@
 | James Lenhart, OD |  | Priority Health Commercial PPO - Cigna | PAR |
 | Joaquin De Rojas, MD |  | Priority Health Commercial PPO - Cigna | PAR |
 | John Fezza, MD (Oculoplastics) |  | Priority Health Commercial PPO - Cigna | Non-PAR |
-| Jordan Shoemaker, PA |  | Priority Health Commercial PPO - Cigna | Non-PAR |
+| Jordan Shoemaker, PA |  | Priority Health Commercial PPO - Cigna | PAR |
 | Joseph Sowka, OD |  | Priority Health Commercial PPO - Cigna | PAR |
 | Joshua Kim, MD |  | Priority Health Commercial PPO - Cigna | PAR |
 | Joshua Newman, MD |  | Priority Health Commercial PPO - Cigna | PAR |

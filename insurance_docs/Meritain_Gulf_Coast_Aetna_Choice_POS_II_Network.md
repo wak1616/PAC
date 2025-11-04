@@ -21,7 +21,7 @@
 | James Lenhart, OD |  | Meritain Health Commercial - Aetna | PAR |
 | Joaquin De Rojas, MD |  | Meritain Health Commercial - Aetna | PAR |
 | John Fezza, MD (Oculoplastics) |  | Meritain Health Commercial - Aetna | PAR |
-| Jordan Shoemaker, PA |  | Meritain Health Commercial - Aetna | Non-PAR |
+| Jordan Shoemaker, PA |  | Meritain Health Commercial - Aetna | PAR |
 | Joseph Sowka, OD |  | Meritain Health Commercial - Aetna | PAR |
 | Joshua Kim, MD |  | Meritain Health Commercial - Aetna | PAR |
 | Joshua Newman, MD |  | Meritain Health Commercial - Aetna | PAR |

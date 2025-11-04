@@ -21,7 +21,7 @@
 | James Lenhart, OD |  | Priority Health Comm HMO | PAR |
 | Joaquin De Rojas, MD |  | Priority Health Comm HMO | PAR |
 | John Fezza, MD (Oculoplastics) |  | Priority Health Comm HMO | Non-PAR |
-| Jordan Shoemaker, PA |  | Priority Health Comm HMO | Non-PAR |
+| Jordan Shoemaker, PA |  | Priority Health Comm HMO | PAR |
 | Joseph Sowka, OD |  | Priority Health Comm HMO | PAR |
 | Joshua Kim, MD |  | Priority Health Comm HMO | PAR |
 | Joshua Newman, MD |  | Priority Health Comm HMO | PAR |

@@ -50,9 +50,15 @@
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
 | George Brinnig-Jastrzebski, MD |  | BCBS Anthem Community MCR HMO FL-00590 | Non-PAR |
-| Jenna Getman, OD |  | BCBS Anthem Community MCR HMO FL-00590 | PAR |
+| Jenna Getman, OD |  | BCBS Anthem Community MCR HMO FL-00590 | Non-PAR |
 | Jon Berlie, MD |  | BCBS Anthem Community MCR HMO FL-00590 | Non-PAR |
 | Julie Carter, MD |  | BCBS Anthem Community MCR HMO FL-00590 | Non-PAR |
+
+## Lake Eye 
+
+| Provider | NextGen Name | Referral/Auth | Status |
+|----------|-------------|--------------|--------|
+| Karin Girgis, OD |  | BCBS Anthem Community MCR HMO FL-00590 | PAR |
 
 ## SW FL Eye
 

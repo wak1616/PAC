@@ -21,7 +21,7 @@
 | James Lenhart, OD |  | Aetna Comm Fixed Benefits PPO | PAR |
 | Joaquin De Rojas, MD |  | Aetna Comm Fixed Benefits PPO | PAR |
 | John Fezza, MD (Oculoplastics) |  | Aetna Comm Fixed Benefits PPO | PAR |
-| Jordan Shoemaker, PA |  | Aetna Comm Fixed Benefits PPO | Non-PAR |
+| Jordan Shoemaker, PA |  | Aetna Comm Fixed Benefits PPO | PAR |
 | Joseph Sowka, OD |  | Aetna Comm Fixed Benefits PPO | PAR |
 | Joshua Kim, MD |  | Aetna Comm Fixed Benefits PPO | PAR |
 | Joshua Newman, MD |  | Aetna Comm Fixed Benefits PPO | PAR |

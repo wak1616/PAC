@@ -26,7 +26,7 @@
 | Joshua Kim, MD |  | Web TPA | PAR |
 | Joshua Newman, MD |  | Web TPA | PAR |
 | Kalie Kosek, PA |  | Web TPA | PAR |
-| Khrystyna Ostrozhynska, OD |  | Web TPA | Non-PAR |
+| Khrystyna Ostrozhynska, OD |  | Web TPA | PAR |
 | Kyle Schaub, OD |  | Web TPA | PAR |
 | Len Brown, OD |  | Web TPA | PAR |
 | Logan Page, OD |  | Web TPA | PAR |
@@ -50,7 +50,7 @@
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
 | George Brinnig-Jastrzebski, MD |  | Web TPA | PAR |
-| Jenna Getman, OD |  | Web TPA | Non-PAR |
+| Jenna Getman, OD |  | Web TPA | PAR |
 | Jon Berlie, MD |  | Web TPA | PAR |
 | Julie Carter, MD |  | Web TPA | PAR |
 

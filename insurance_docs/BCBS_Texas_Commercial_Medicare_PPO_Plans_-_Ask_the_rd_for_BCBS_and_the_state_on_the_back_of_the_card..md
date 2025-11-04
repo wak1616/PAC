@@ -62,7 +62,7 @@
 | Christine Bui, OD |  | BCBS TX Medicare PPO FL-00590 | PAR |
 | Diba Ossareh, OD |  | BCBS TX Medicare PPO FL-00590 | PAR |
 | Jose Vazques-Diaz, MD |  | BCBS TX Medicare PPO FL-00590 | PAR |
-| Karin Girgis, OD |  | BCBS TX Medicare PPO FL-00590 | Non-PAR |
+| Karin Girgis, OD |  | BCBS TX Medicare PPO FL-00590 | PAR |
 | Mari Holderby, OD |  | BCBS TX Medicare PPO FL-00590 | PAR |
 | Referral and/or Auth Required? |  | BCBS TX Medicare PPO FL-00590 | No Ref/No Auth Required |
 | Scot Holman, MD |  | BCBS TX Medicare PPO FL-00590 | PAR |

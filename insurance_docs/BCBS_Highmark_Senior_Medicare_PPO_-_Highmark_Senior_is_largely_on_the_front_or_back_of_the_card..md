@@ -50,7 +50,7 @@
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
 | George Brinnig-Jastrzebski, MD |  | BCBS Highmark Sr. Medicare PPO FL-00590 | PAR |
-| Jenna Getman, OD |  | BCBS Highmark Sr. Medicare PPO FL-00590 | Non-PAR -OON Benefits |
+| Jenna Getman, OD |  | BCBS Highmark Sr. Medicare PPO FL-00590 | PAR |
 | Jon Berlie, MD |  | BCBS Highmark Sr. Medicare PPO FL-00590 | PAR |
 | Julie Carter, MD |  | BCBS Highmark Sr. Medicare PPO FL-00590 | PAR |
 
@@ -62,7 +62,7 @@
 | Christine Bui, OD |  | BCBS Highmark Sr. Medicare PPO FL-00590 | PAR |
 | Diba Ossareh, OD |  | BCBS Highmark Sr. Medicare PPO FL-00590 | PAR |
 | Jose Vazques-Diaz, MD |  | BCBS Highmark Sr. Medicare PPO FL-00590 | PAR |
-| Karin Girgis, OD |  | BCBS Highmark Sr. Medicare PPO FL-00590 | Non-PAR |
+| Karin Girgis, OD |  | BCBS Highmark Sr. Medicare PPO FL-00590 | PAR |
 | Mari Holderby, OD |  | BCBS Highmark Sr. Medicare PPO FL-00590 | PAR |
 | Referral and/or Auth Required? |  | BCBS Highmark Sr. Medicare PPO FL-00590 | No Ref/No Auth Required |
 | Scot Holman, MD |  | BCBS Highmark Sr. Medicare PPO FL-00590 | PAR |

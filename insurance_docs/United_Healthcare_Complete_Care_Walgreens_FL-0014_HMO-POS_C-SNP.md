@@ -10,7 +10,7 @@
 |----------|-------------|--------------|--------|
 | Bradley Middaugh, OD |  | UHC AARP Advantage HMO-87726 | PAR |
 | Brittany Coyle, OD |  | UHC AARP Advantage HMO-87726 | PAR |
-| Charles Putrino, OD |  | UHC AARP Advantage HMO-87726 | Non-PAR |
+| Charles Putrino, OD |  | UHC AARP Advantage HMO-87726 | PAR |
 | Daniel Hadland, OD |  | UHC AARP Advantage HMO-87726 | PAR |
 | David Mertzlufft, OD |  | UHC AARP Advantage HMO-87726 | PAR |
 | David Shoemaker, MD |  | UHC AARP Advantage HMO-87726 | PAR |
@@ -21,7 +21,7 @@
 | James Lenhart, OD |  | UHC AARP Advantage HMO-87726 | PAR |
 | Joaquin De Rojas, MD |  | UHC AARP Advantage HMO-87726 | PAR |
 | John Fezza, MD (Oculoplastics) |  | UHC AARP Advantage HMO-87726 | PAR |
-| Jordan Shoemaker, PA |  | UHC AARP Advantage HMO-87726 | Non-PAR |
+| Jordan Shoemaker, PA |  | UHC AARP Advantage HMO-87726 | PAR |
 | Joseph Sowka, OD |  | UHC AARP Advantage HMO-87726 | PAR |
 | Joshua Kim, MD |  | UHC AARP Advantage HMO-87726 | PAR |
 | Joshua Newman, MD |  | UHC AARP Advantage HMO-87726 | PAR |

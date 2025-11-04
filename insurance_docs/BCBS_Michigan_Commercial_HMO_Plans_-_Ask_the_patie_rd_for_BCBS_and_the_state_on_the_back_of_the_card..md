@@ -50,7 +50,7 @@
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
 | George Brinnig-Jastrzebski, MD |  | BCBS MI HMO FL-00590 | Non-PAR |
-| Jenna Getman, OD |  | BCBS MI HMO FL-00590 | PAR |
+| Jenna Getman, OD |  | BCBS MI HMO FL-00590 | Non-PAR |
 | Jon Berlie, MD |  | BCBS MI HMO FL-00590 | Non-PAR |
 | Julie Carter, MD |  | BCBS MI HMO FL-00590 | Non-PAR |
 

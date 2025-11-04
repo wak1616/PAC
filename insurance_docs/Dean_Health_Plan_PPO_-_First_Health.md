@@ -21,7 +21,7 @@
 | James Lenhart, OD |  | Dean Health Plan PPO | PAR |
 | Joaquin De Rojas, MD |  | Dean Health Plan PPO | PAR |
 | John Fezza, MD (Oculoplastics) |  | Dean Health Plan PPO | PAR |
-| Jordan Shoemaker, PA |  | Dean Health Plan PPO | Non-PAR |
+| Jordan Shoemaker, PA |  | Dean Health Plan PPO | PAR |
 | Joseph Sowka, OD |  | Dean Health Plan PPO | PAR |
 | Joshua Kim, MD |  | Dean Health Plan PPO | PAR |
 | Joshua Newman, MD |  | Dean Health Plan PPO | PAR |

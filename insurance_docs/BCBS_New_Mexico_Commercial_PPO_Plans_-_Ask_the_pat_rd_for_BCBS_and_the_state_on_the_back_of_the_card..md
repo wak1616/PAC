@@ -66,8 +66,8 @@
 | Diba Ossareh, OD |  | BCBS NM PPO FL-00590 | PAR |
 | Jose Vazques-Diaz, MD |  | BCBS NM PPO FL-00590 | PAR |
 | Jose Vazques-Diaz, MD |  | BCBS NM PPO FL-00590 | PAR |
-| Karin Girgis, OD |  | BCBS NM PPO FL-00590 | Non-PAR |
-| Karin Girgis, OD |  | BCBS NM PPO FL-00590 | Non-PAR |
+| Karin Girgis, OD |  | BCBS NM PPO FL-00590 | PAR |
+| Karin Girgis, OD |  | BCBS NM PPO FL-00590 | PAR |
 | Mari Holderby, OD |  | BCBS NM PPO FL-00590 | PAR |
 | Mari Holderby, OD |  | BCBS NM PPO FL-00590 | PAR |
 | Referral and/or Auth Required? |  | BCBS NM PPO FL-00590 | No Ref/No Auth Required |

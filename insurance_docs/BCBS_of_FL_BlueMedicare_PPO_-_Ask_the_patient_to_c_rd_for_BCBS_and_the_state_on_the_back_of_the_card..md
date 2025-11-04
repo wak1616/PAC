@@ -62,7 +62,7 @@
 | Christine Bui, OD |  | BCBS BlueMedicare PPO FL-00590 | PAR |
 | Diba Ossareh, OD |  | BCBS BlueMedicare PPO FL-00590 | PAR |
 | Jose Vazques-Diaz, MD |  | BCBS BlueMedicare PPO FL-00590 | PAR |
-| Karin Girgis, OD |  | BCBS BlueMedicare PPO FL-00590 | Non-PAR |
+| Karin Girgis, OD |  | BCBS BlueMedicare PPO FL-00590 | PAR |
 | Mari Holderby, OD |  | BCBS BlueMedicare PPO FL-00590 | PAR |
 | Referral and/or Auth Required? |  | BCBS BlueMedicare PPO FL-00590 | No Ref/No Auth Required |
 | Scot Holman, MD |  | BCBS BlueMedicare PPO FL-00590 | PAR |

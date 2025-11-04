@@ -209,7 +209,7 @@
 | Cigna Medicare - TotalCare (HMO D-SNP) |  | Primary: Cigna Dual MDCR HMO Primary-REFERRAL REQ                                                      Secondary: Cigna Dual Medicaid HMO Secondary | Non-PAR |
 | Cigna Medicare - TotalCare Plus (HMO D-SNP) |  | Primary: Cigna Dual MDCR HMO Primary-REFERRAL REQ                                                      Secondary: Cigna Dual Medicaid HMO Secondary | Non-PAR |
 | Cigna Medicare HMO- Preferred/Preferred Savings Medicare/Courage |  | Cigna Medicare HMO REFERRAL REQUIRED | Non-PAR |
-| Cigna Medicare PPO |  | Self Pay Non-Par with Ins | PAR |
+| Cigna Medicare PPO |  | Cigna Medicare PPO | PAR |
 | Cigna Oscar- Open Access Plus/Local Plus |  | Self Pay Non-Par with Ins | Non-PAR |
 | CIGNACommercial - HealthCare Seamless Network - Florida |  | Cigna Commercial PPO | PAR |
 | Division of Blind |  | Division of Blind | PAR |

@@ -21,7 +21,7 @@
 | James Lenhart, OD |  | Aetna Medicare HMO POS | PAR |
 | Joaquin De Rojas, MD |  | Aetna Medicare HMO POS | PAR |
 | John Fezza, MD (Oculoplastics) |  | Aetna Medicare HMO POS | PAR |
-| Jordan Shoemaker, PA |  | Aetna Medicare HMO POS | Non-PAR |
+| Jordan Shoemaker, PA |  | Aetna Medicare HMO POS | PAR |
 | Joseph Sowka, OD |  | Aetna Medicare HMO POS | PAR |
 | Joshua Kim, MD |  | Aetna Medicare HMO POS | PAR |
 | Joshua Newman, MD |  | Aetna Medicare HMO POS | PAR |

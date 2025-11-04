@@ -62,7 +62,7 @@
 | Christine Bui, OD | VMYH | BCBS MyBlue HMO FL-00590 | PAR |
 | Diba Ossareh, OD | VMYH | BCBS MyBlue HMO FL-00590 | PAR |
 | Jose Vazques-Diaz, MD | VMYH | BCBS MyBlue HMO FL-00590 | PAR |
-| Karin Girgis, OD | VMYH | BCBS MyBlue HMO FL-00590 | Non-PAR |
+| Karin Girgis, OD | VMYH | BCBS MyBlue HMO FL-00590 | PAR |
 | Mari Holderby, OD | VMYH | BCBS MyBlue HMO FL-00590 | PAR |
 | Referral and/or Auth Required? | VMYH | BCBS MyBlue HMO FL-00590 | Referral Required |
 | Scot Holman, MD | VMYH | BCBS MyBlue HMO FL-00590 | PAR |

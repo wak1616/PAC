@@ -269,20 +269,20 @@
 | United Healthcare Doctors Plan Plus HMO |  | UHC Commercial HMO | PAR |
 | United Healthcare Dual Complete™ HMO SNP |  | Primary: UHC Dual Complete HMO-87726                                                                 Secondary: Medicaid Secondary | PAR |
 | United Healthcare Dual Complete™ PPO SNP |  | Primary: UHC Dual Complete PPO-87726                                                              Secondary: Medicaid Secondary | PAR |
-| United Healthcare ER Wrap (W500 on back of card) |  | UHC ER Wrap | Non-PAR |
+| United Healthcare ER Wrap (W500 on back of card) |  | UHC ER Wrap | PAR |
 | United Healthcare FL CHIP ALL MEDICAID |  | Self Pay Non-Par with Ins | Non-PAR |
 | United Healthcare Group Medicare Advantage (PPO) |  | UHC Medicare Advantage PPO-87726 | PAR |
 | United Healthcare Group Medicare Advantage HMO |  | UHC AARP Advantage HMO-87726 | PAR |
 | United Healthcare Group Medicare Advantage Johnson & Johnson Retiree Employees (PPO) patient will have Johnson & Johnson in red on the top right of their card |  | UHC Medicare PPO J and J Retiree-87726 | PAR |
-| United Healthcare Group Plan - employer group SHL Solutions. Card will say SHL Solutions Group |  | UHC Commercial - SHL Emp Group | Non-PAR |
+| United Healthcare Group Plan - employer group SHL Solutions. Card will say SHL Solutions Group |  | UHC Commercial - SHL Emp Group | PAR |
 | United Healthcare Heritage ALL PLANS |  | Self Pay Non-Par with Ins | Non-PAR |
 | United Healthcare Indemnity-we will only accept this plan as a secondary/supplement |  | Self Pay Non-Par with Ins | Non-PAR |
 | United Healthcare Individual Exchange (FLONEX) - Essential (Bronze), Value (Bronz, Silver, Gold), Advantage (Silver, Gold), Copay Focus (Bronze, Silver, Gold), Virtual (Bronze, Silver, Gold) |  | Self Pay Non-Par with Ins | Non-PAR |
 | United Healthcare Long Term Care |  | Self Pay Non-Par with Ins | Non-PAR |
 | United Healthcare Mid-Atlantic Gated HMO |  | Self Pay Non-Par with Ins | Non-PAR |
 | United Healthcare National Ancillary |  | Self Pay Non-Par with Ins | Non-PAR |
-| United Healthcare Navigate HMO/ HMO Plus/ Navigate POS/ Navigate EPO |  | UHC Navigate REFERRAL REQ | Non-PAR |
-| United Healthcare NexusACO NR EPO, NR POS, R EPO, R POS/ NR HMO/ R HMO |  | UHC Comm HMO REFERRAL REQ | Non-PAR |
+| United Healthcare Navigate HMO/ HMO Plus/ Navigate POS/ Navigate EPO |  | UHC Navigate REFERRAL REQ | PAR |
+| United Healthcare NexusACO NR EPO, NR POS, R EPO, R POS/ NR HMO/ R HMO |  | UHC Comm HMO REFERRAL REQ | PAR |
 | United Healthcare NexusACO OA POS/ OA EPO |  | UHC PPO/POS-87726 | PAR |
 | United Healthcare NexusACO OA POS/ OA EPO |  | UHC PPO/POS-87727 | PAR |
 | United Healthcare NexusACO OA POS/ OA EPO |  | UHC PPO/POS-87728 | PAR |
@@ -296,14 +296,14 @@
 | United Healthcare Select EPO/ Select Plus POS |  | UHC PPO/POS-87726 | PAR |
 | United Healthcare Select Plus HMO |  | UHC Commercial HMO | PAR |
 | United Healthcare Shared Services - Options PPO Network |  | UHC Shared Services PPO-39026 | PAR |
-| United Healthcare The Villages Medicare Advantage FL-0004/FL-004P HMO-POS |  | UHC AARP Advantage HMO-87726 | Non-PAR |
+| United Healthcare The Villages Medicare Advantage FL-0004/FL-004P HMO-POS |  | UHC AARP Advantage HMO-87726 | PAR |
 | United Healthcare UHN OneNet-Auto Liability |  | Self Pay Non-Par with Ins | Non-PAR |
 | United Healthcare UHN OneNet-Workers Comp |  | Self Pay Non-Par with Ins | Non-PAR |
 | Versant: Davis Vision |  | Self Pay Non-Par with Ins | Non-PAR |
 | Versant: Superior Vision |  | Superior Vision | Non-PAR |
 | Vitori Health Open Access Plan |  | Vitori Health Open Access Plan | PAR |
 | VSP Vision |  | Vision Service Plan | PAR |
-| Web TPA |  | Web TPA | Non-PAR |
+| Web TPA |  | Web TPA | PAR |
 | Wellcare Medicare HMO |  | Self Pay Non-Par with Ins | Non-PAR |
 | Wellcare Medicare PPO CFS is OUT OF NETWORK. PATIENT HAS OON BENEFITS. PLEASE INFORM PATIENT OF POSSIBLE HIGHER OUT OF POCKET COSTS. BENEFIT MUST BE CHECKED PRIOR TO APPT |  | WellCare Medicare PPO | Non-PAR -OON Benefits |
 | Workers' Comp |  | Self Pay Non-Par with Ins | Non-PAR |

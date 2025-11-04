@@ -62,7 +62,7 @@
 | Christine Bui, OD |  | BCBS TN PPO FL-00590 | PAR |
 | Diba Ossareh, OD |  | BCBS TN PPO FL-00590 | PAR |
 | Jose Vazques-Diaz, MD |  | BCBS TN PPO FL-00590 | PAR |
-| Karin Girgis, OD |  | BCBS TN PPO FL-00590 | Non-PAR |
+| Karin Girgis, OD |  | BCBS TN PPO FL-00590 | PAR |
 | Mari Holderby, OD |  | BCBS TN PPO FL-00590 | PAR |
 | Referral and/or Auth Required? |  | BCBS TN PPO FL-00590 | No Ref/No Auth Required |
 | Scot Holman, MD |  | BCBS TN PPO FL-00590 | PAR |

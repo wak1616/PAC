@@ -21,7 +21,7 @@
 | James Lenhart, OD |  | Cigna Medicare PPO | PAR |
 | Joaquin De Rojas, MD |  | Cigna Medicare PPO | PAR |
 | John Fezza, MD (Oculoplastics) |  | Cigna Medicare PPO | PAR |
-| Jordan Shoemaker, PA |  | Cigna Medicare PPO | Non-PAR |
+| Jordan Shoemaker, PA |  | Cigna Medicare PPO | PAR |
 | Joseph Sowka, OD |  | Cigna Medicare PPO | PAR |
 | Joshua Kim, MD |  | Cigna Medicare PPO | PAR |
 | Joshua Newman, MD |  | Cigna Medicare PPO | PAR |
@@ -49,10 +49,10 @@
 
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
-| George Brinnig-Jastrzebski, MD |  | Self Pay Non-Par with Ins | PAR |
-| Jenna Getman, OD |  | Self Pay Non-Par with Ins | PAR |
-| Jon Berlie, MD |  | Self Pay Non-Par with Ins | PAR |
-| Julie Carter, MD |  | Self Pay Non-Par with Ins | PAR |
+| George Brinnig-Jastrzebski, MD |  | Cigna Medicare PPO | PAR |
+| Jenna Getman, OD |  | Cigna Medicare PPO | PAR |
+| Jon Berlie, MD |  | Cigna Medicare PPO | PAR |
+| Julie Carter, MD |  | Cigna Medicare PPO | PAR |
 
 ## Retina Health Center
 

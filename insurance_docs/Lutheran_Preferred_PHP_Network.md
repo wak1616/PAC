@@ -50,7 +50,7 @@
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
 | George Brinnig-Jastrzebski, MD |  | Lutheran Preferred - PHP | Non-PAR -OON Benefits |
-| Jenna Getman, OD |  | Lutheran Preferred - PHP | PAR |
+| Jenna Getman, OD |  | Lutheran Preferred - PHP | Non-PAR -OON Benefits |
 | Jon Berlie, MD |  | Lutheran Preferred - PHP | Non-PAR -OON Benefits |
 | Julie Carter, MD |  | Lutheran Preferred - PHP | Non-PAR -OON Benefits |
 

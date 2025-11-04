@@ -21,7 +21,7 @@
 | James Lenhart, OD |  | Allied National Open Access | PAR |
 | Joaquin De Rojas, MD |  | Allied National Open Access | PAR |
 | John Fezza, MD (Oculoplastics) |  | Allied National Open Access | PAR |
-| Jordan Shoemaker, PA |  | Allied National Open Access | Non-PAR |
+| Jordan Shoemaker, PA |  | Allied National Open Access | PAR |
 | Joseph Sowka, OD |  | Allied National Open Access | PAR |
 | Joshua Kim, MD |  | Allied National Open Access | PAR |
 | Joshua Newman, MD |  | Allied National Open Access | PAR |
@@ -50,7 +50,7 @@
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
 | George Brinnig-Jastrzebski, MD |  | Allied National Open Access | PAR |
-| Jenna Getman, OD |  | Allied National Open Access | Non-PAR |
+| Jenna Getman, OD |  | Allied National Open Access | PAR |
 | Jon Berlie, MD |  | Allied National Open Access | PAR |
 | Julie Carter, MD |  | Allied National Open Access | PAR |
 

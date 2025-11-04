@@ -21,7 +21,7 @@
 | James Lenhart, OD |  | Mail Handlers Benefit Plan Comm - Aetna | PAR |
 | Joaquin De Rojas, MD |  | Mail Handlers Benefit Plan Comm - Aetna | PAR |
 | John Fezza, MD (Oculoplastics) |  | Mail Handlers Benefit Plan Comm - Aetna | PAR |
-| Jordan Shoemaker, PA |  | Mail Handlers Benefit Plan Comm - Aetna | Non-PAR |
+| Jordan Shoemaker, PA |  | Mail Handlers Benefit Plan Comm - Aetna | PAR |
 | Joseph Sowka, OD |  | Mail Handlers Benefit Plan Comm - Aetna | PAR |
 | Joshua Kim, MD |  | Mail Handlers Benefit Plan Comm - Aetna | PAR |
 | Joshua Newman, MD |  | Mail Handlers Benefit Plan Comm - Aetna | PAR |

@@ -62,7 +62,7 @@
 | Christine Bui, OD |  | BCBS MN Medicare PPO FL-00590 | PAR |
 | Diba Ossareh, OD |  | BCBS MN Medicare PPO FL-00590 | PAR |
 | Jose Vazques-Diaz, MD |  | BCBS MN Medicare PPO FL-00590 | PAR |
-| Karin Girgis, OD |  | BCBS MN Medicare PPO FL-00590 | Non-PAR |
+| Karin Girgis, OD |  | BCBS MN Medicare PPO FL-00590 | PAR |
 | Mari Holderby, OD |  | BCBS MN Medicare PPO FL-00590 | PAR |
 | Referral and/or Auth Required? |  | BCBS MN Medicare PPO FL-00590 | No Ref/No Auth Required |
 | Scot Holman, MD |  | BCBS MN Medicare PPO FL-00590 | PAR |

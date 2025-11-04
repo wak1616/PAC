@@ -21,7 +21,7 @@
 | James Lenhart, OD |  | Cigna Medicare HMO REFERRAL REQUIRED | PAR |
 | Joaquin De Rojas, MD |  | Cigna Medicare HMO REFERRAL REQUIRED | PAR |
 | John Fezza, MD (Oculoplastics) |  | Cigna Medicare HMO REFERRAL REQUIRED | PAR |
-| Jordan Shoemaker, PA |  | Cigna Medicare HMO REFERRAL REQUIRED | Non-PAR |
+| Jordan Shoemaker, PA |  | Cigna Medicare HMO REFERRAL REQUIRED | PAR |
 | Joseph Sowka, OD |  | Cigna Medicare HMO REFERRAL REQUIRED | PAR |
 | Joshua Kim, MD |  | Cigna Medicare HMO REFERRAL REQUIRED | PAR |
 | Joshua Newman, MD |  | Cigna Medicare HMO REFERRAL REQUIRED | PAR |
@@ -50,9 +50,9 @@
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
 | George Brinnig-Jastrzebski, MD |  | Cigna Medicare HMO REFERRAL REQUIRED | Non-PAR |
-| Jenna Getman, OD |  | Cigna Medicare HMO REFERRAL REQUIRED | PAR |
+| Jenna Getman, OD |  | Cigna Medicare HMO REFERRAL REQUIRED | Non-PAR |
 | Jon Berlie, MD |  | Cigna Medicare HMO REFERRAL REQUIRED | Non-PAR |
-| Julie Carter, MD |  | Cigna Medicare HMO REFERRAL REQUIRED | PAR |
+| Julie Carter, MD |  | Cigna Medicare HMO REFERRAL REQUIRED | Non-PAR |
 
 ## Retina Health Center
 

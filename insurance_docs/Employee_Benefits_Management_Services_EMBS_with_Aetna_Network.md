@@ -21,7 +21,7 @@
 | James Lenhart, OD |  | EBMS Commercial PPO - Aetna | PAR |
 | Joaquin De Rojas, MD |  | EBMS Commercial PPO - Aetna | PAR |
 | John Fezza, MD (Oculoplastics) |  | EBMS Commercial PPO - Aetna | PAR |
-| Jordan Shoemaker, PA |  | EBMS Commercial PPO - Aetna | Non-PAR |
+| Jordan Shoemaker, PA |  | EBMS Commercial PPO - Aetna | PAR |
 | Joseph Sowka, OD |  | EBMS Commercial PPO - Aetna | PAR |
 | Joshua Kim, MD |  | EBMS Commercial PPO - Aetna | PAR |
 | Joshua Newman, MD |  | EBMS Commercial PPO - Aetna | PAR |

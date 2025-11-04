@@ -62,7 +62,7 @@
 | Christine Bui, OD | R | BCBS Federal FL-00590 | PAR |
 | Diba Ossareh, OD | R | BCBS Federal FL-00590 | PAR |
 | Jose Vazques-Diaz, MD | R | BCBS Federal FL-00590 | PAR |
-| Karin Girgis, OD | R | BCBS Federal FL-00590 | Non-PAR |
+| Karin Girgis, OD | R | BCBS Federal FL-00590 | PAR |
 | Mari Holderby, OD | R | BCBS Federal FL-00590 | PAR |
 | Referral and/or Auth Required? | R | BCBS Federal FL-00590 | No Ref/No Auth Required |
 | Scot Holman, MD | R | BCBS Federal FL-00590 | PAR |

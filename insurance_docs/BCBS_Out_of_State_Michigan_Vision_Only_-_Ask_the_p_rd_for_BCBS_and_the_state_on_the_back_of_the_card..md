@@ -21,7 +21,7 @@
 | James Lenhart, OD |  | BCBS MI Vision Only FL-00590 | PAR |
 | Joaquin De Rojas, MD |  | BCBS MI Vision Only FL-00590 | Non-PAR |
 | John Fezza, MD (Oculoplastics) |  | BCBS MI Vision Only FL-00590 | Non-PAR |
-| Jordan Shoemaker, PA |  | BCBS MI Vision Only FL-00590 | Non-PAR |
+| Jordan Shoemaker, PA |  | BCBS MI Vision Only FL-00590 | PAR |
 | Joseph Sowka, OD |  | BCBS MI Vision Only FL-00590 | PAR |
 | Joshua Kim, MD |  | BCBS MI Vision Only FL-00590 | Non-PAR |
 | Joshua Newman, MD |  | BCBS MI Vision Only FL-00590 | PAR |
@@ -50,7 +50,7 @@
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
 | George Brinnig-Jastrzebski, MD |  | BCBS MI Vision Only FL-00590 | Non-PAR |
-| Jenna Getman, OD |  | BCBS MI Vision Only FL-00590 | PAR |
+| Jenna Getman, OD |  | BCBS MI Vision Only FL-00590 | Non-PAR |
 | Jon Berlie, MD |  | BCBS MI Vision Only FL-00590 | Non-PAR |
 | Julie Carter, MD |  | BCBS MI Vision Only FL-00590 | Non-PAR |
 

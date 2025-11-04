@@ -21,7 +21,7 @@
 | James Lenhart, OD |  | Meritain Health SMH Extd  Pln | PAR |
 | Joaquin De Rojas, MD |  | Meritain Health SMH Extd  Pln | PAR |
 | John Fezza, MD (Oculoplastics) |  | Meritain Health SMH Extd  Pln | PAR |
-| Jordan Shoemaker, PA |  | Meritain Health SMH Extd  Pln | Non-PAR |
+| Jordan Shoemaker, PA |  | Meritain Health SMH Extd  Pln | PAR |
 | Joseph Sowka, OD |  | Meritain Health SMH Extd  Pln | PAR |
 | Joshua Kim, MD |  | Meritain Health SMH Extd  Pln | PAR |
 | Joshua Newman, MD |  | Meritain Health SMH Extd  Pln | PAR |

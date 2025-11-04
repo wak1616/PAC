@@ -21,7 +21,7 @@
 | James Lenhart, OD |  | NALC Health Benefit Plan- Cigna | PAR |
 | Joaquin De Rojas, MD |  | NALC Health Benefit Plan- Cigna | PAR |
 | John Fezza, MD (Oculoplastics) |  | NALC Health Benefit Plan- Cigna | PAR |
-| Jordan Shoemaker, PA |  | NALC Health Benefit Plan- Cigna | Non-PAR |
+| Jordan Shoemaker, PA |  | NALC Health Benefit Plan- Cigna | PAR |
 | Joseph Sowka, OD |  | NALC Health Benefit Plan- Cigna | PAR |
 | Joshua Kim, MD |  | NALC Health Benefit Plan- Cigna | PAR |
 | Joshua Newman, MD |  | NALC Health Benefit Plan- Cigna | PAR |

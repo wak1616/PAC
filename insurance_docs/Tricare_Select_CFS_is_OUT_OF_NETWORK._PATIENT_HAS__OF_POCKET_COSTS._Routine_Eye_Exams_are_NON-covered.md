@@ -50,7 +50,7 @@
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
 | George Brinnig-Jastrzebski, MD |  | Tricare Select | Non-PAR -OON Benefits |
-| Jenna Getman, OD |  | Tricare Select | PAR |
+| Jenna Getman, OD |  | Tricare Select | Non-PAR -OON Benefits |
 | Jon Berlie, MD |  | Tricare Select | Non-PAR -OON Benefits |
 | Julie Carter, MD |  | Tricare Select | Non-PAR -OON Benefits |
 

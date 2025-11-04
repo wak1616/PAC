@@ -21,7 +21,7 @@
 | James Lenhart, OD |  | Allegiance Benefit Plan Management-Cigna | PAR |
 | Joaquin De Rojas, MD |  | Allegiance Benefit Plan Management-Cigna | PAR |
 | John Fezza, MD (Oculoplastics) |  | Allegiance Benefit Plan Management-Cigna | PAR |
-| Jordan Shoemaker, PA |  | Allegiance Benefit Plan Management-Cigna | Non-PAR |
+| Jordan Shoemaker, PA |  | Allegiance Benefit Plan Management-Cigna | PAR |
 | Joseph Sowka, OD |  | Allegiance Benefit Plan Management-Cigna | PAR |
 | Joshua Kim, MD |  | Allegiance Benefit Plan Management-Cigna | PAR |
 | Joshua Newman, MD |  | Allegiance Benefit Plan Management-Cigna | PAR |
@@ -50,7 +50,7 @@
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
 | George Brinnig-Jastrzebski, MD |  | Allegiance Benefit Plan Management-Cigna | PAR |
-| Jenna Getman, OD |  | Allegiance Benefit Plan Management-Cigna | Non-PAR |
+| Jenna Getman, OD |  | Allegiance Benefit Plan Management-Cigna | PAR |
 | Jon Berlie, MD |  | Allegiance Benefit Plan Management-Cigna | PAR |
 | Julie Carter, MD |  | Allegiance Benefit Plan Management-Cigna | PAR |
 

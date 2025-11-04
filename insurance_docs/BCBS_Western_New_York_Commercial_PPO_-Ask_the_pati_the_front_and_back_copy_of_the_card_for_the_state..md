@@ -62,7 +62,7 @@
 | Christine Bui, OD |  | BCBS W.NY PPO FL-00590 | PAR |
 | Diba Ossareh, OD |  | BCBS W.NY PPO FL-00590 | PAR |
 | Jose Vazques-Diaz, MD |  | BCBS W.NY PPO FL-00590 | PAR |
-| Karin Girgis, OD |  | BCBS W.NY PPO FL-00590 | Non-PAR |
+| Karin Girgis, OD |  | BCBS W.NY PPO FL-00590 | PAR |
 | Mari Holderby, OD |  | BCBS W.NY PPO FL-00590 | PAR |
 | Referral and/or Auth Required? |  | BCBS W.NY PPO FL-00590 | No Ref/No Auth Required |
 | Scot Holman, MD |  | BCBS W.NY PPO FL-00590 | PAR |

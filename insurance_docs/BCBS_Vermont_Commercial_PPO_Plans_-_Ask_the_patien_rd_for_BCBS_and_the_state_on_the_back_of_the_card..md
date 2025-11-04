@@ -62,7 +62,7 @@
 | Christine Bui, OD |  | BCBS VT PPO FL-00590 | PAR |
 | Diba Ossareh, OD |  | BCBS VT PPO FL-00590 | PAR |
 | Jose Vazques-Diaz, MD |  | BCBS VT PPO FL-00590 | PAR |
-| Karin Girgis, OD |  | BCBS VT PPO FL-00590 | Non-PAR |
+| Karin Girgis, OD |  | BCBS VT PPO FL-00590 | PAR |
 | Mari Holderby, OD |  | BCBS VT PPO FL-00590 | PAR |
 | Referral and/or Auth Required? |  | BCBS VT PPO FL-00590 | No Ref/No Auth Required |
 | Scot Holman, MD |  | BCBS VT PPO FL-00590 | PAR |

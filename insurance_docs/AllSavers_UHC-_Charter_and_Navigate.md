@@ -21,7 +21,7 @@
 | James Lenhart, OD |  | All Savers Comm REFERRAL REQ - UHC | PAR |
 | Joaquin De Rojas, MD |  | All Savers Comm REFERRAL REQ - UHC | PAR |
 | John Fezza, MD (Oculoplastics) |  | All Savers Comm REFERRAL REQ - UHC | PAR |
-| Jordan Shoemaker, PA |  | All Savers Comm REFERRAL REQ - UHC | Non-PAR |
+| Jordan Shoemaker, PA |  | All Savers Comm REFERRAL REQ - UHC | PAR |
 | Joseph Sowka, OD |  | All Savers Comm REFERRAL REQ - UHC | PAR |
 | Joshua Kim, MD |  | All Savers Comm REFERRAL REQ - UHC | PAR |
 | Joshua Newman, MD |  | All Savers Comm REFERRAL REQ - UHC | PAR |
@@ -50,7 +50,7 @@
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
 | George Brinnig-Jastrzebski, MD |  | All Savers Comm REFERRAL REQ - UHC | PAR |
-| Jenna Getman, OD |  | All Savers Comm REFERRAL REQ - UHC | Non-PAR |
+| Jenna Getman, OD |  | All Savers Comm REFERRAL REQ - UHC | PAR |
 | Jon Berlie, MD |  | All Savers Comm REFERRAL REQ - UHC | PAR |
 | Julie Carter, MD |  | All Savers Comm REFERRAL REQ - UHC | PAR |
 

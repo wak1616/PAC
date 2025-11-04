@@ -196,7 +196,7 @@
 | CIGNA Commercial- HealthCare of Florida, Inc. - Tampa HMO |  | Cigna Commercial HMO | Non-PAR |
 | CIGNA Commercial- HealthCare Seamless Network - Florida |  | Cigna Commercial PPO | PAR |
 | Cigna Commercial -Local Plus |  | Cigna Commercial PPO | Non-PAR |
-| Cigna Commercial- Open Access Plus/ Carelink Open Access Plus/PPO/Choice Fund PPO |  | Cigna Commercial PPO | Non-PAR |
+| Cigna Commercial- Open Access Plus/ Carelink Open Access Plus/PPO/Choice Fund PPO |  | Cigna Commercial PPO | PAR |
 | Cigna Global Health Benefits (BENEFITS/ELIGIBILITY NEEDS TO BE CHECKED EVERYTIME) |  | Cigna International | PAR |
 | Cigna Medicare HMO- Preferred/Preferred Savings Medicare/Courage |  | Cigna Medicare HMO REFERRAL REQUIRED | PAR |
 | Cigna Medicare PPO |  | Cigna Medicare PPO | PAR |

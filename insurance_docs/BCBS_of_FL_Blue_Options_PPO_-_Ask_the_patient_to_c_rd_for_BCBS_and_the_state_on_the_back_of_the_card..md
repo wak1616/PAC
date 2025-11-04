@@ -9,7 +9,7 @@
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
 | George Brinnig-Jastrzebski, MD |  | BCBS BlueOption PPO FL-00590 | PAR |
-| Jenna Getman, OD |  | BCBS BlueOption PPO FL-00590 | Non-PAR -OON Benefits |
+| Jenna Getman, OD |  | BCBS BlueOption PPO FL-00590 | PAR |
 | Jon Berlie, MD |  | BCBS BlueOption PPO FL-00590 | PAR |
 | Julie Carter, MD |  | BCBS BlueOption PPO FL-00590 | PAR |
 

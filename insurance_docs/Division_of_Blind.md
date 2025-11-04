@@ -21,7 +21,7 @@
 | James Lenhart, OD |  | Division of Blind | PAR |
 | Joaquin De Rojas, MD |  | Division of Blind | PAR |
 | John Fezza, MD (Oculoplastics) |  | Division of Blind | PAR |
-| Jordan Shoemaker, PA |  | Division of Blind | Non-PAR |
+| Jordan Shoemaker, PA |  | Division of Blind | PAR |
 | Joseph Sowka, OD |  | Division of Blind | PAR |
 | Joshua Kim, MD |  | Division of Blind | PAR |
 | Joshua Newman, MD |  | Division of Blind | PAR |

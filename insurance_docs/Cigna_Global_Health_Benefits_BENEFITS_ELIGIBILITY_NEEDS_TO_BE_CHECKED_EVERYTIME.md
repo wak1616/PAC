@@ -21,7 +21,7 @@
 | James Lenhart, OD |  | Cigna International | PAR |
 | Joaquin De Rojas, MD |  | Cigna International | PAR |
 | John Fezza, MD (Oculoplastics) |  | Cigna International | PAR |
-| Jordan Shoemaker, PA |  | Cigna International | Non-PAR |
+| Jordan Shoemaker, PA |  | Cigna International | PAR |
 | Joseph Sowka, OD |  | Cigna International | PAR |
 | Joshua Kim, MD |  | Cigna International | PAR |
 | Joshua Newman, MD |  | Cigna International | PAR |

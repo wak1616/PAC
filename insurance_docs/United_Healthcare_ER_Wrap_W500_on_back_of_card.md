@@ -21,12 +21,12 @@
 | James Lenhart, OD |  | UHC ER Wrap | PAR |
 | Joaquin De Rojas, MD |  | UHC ER Wrap | PAR |
 | John Fezza, MD (Oculoplastics) |  | UHC ER Wrap | PAR |
-| Jordan Shoemaker, PA |  | UHC ER Wrap | Non-PAR |
+| Jordan Shoemaker, PA |  | UHC ER Wrap | PAR |
 | Joseph Sowka, OD |  | UHC ER Wrap | PAR |
 | Joshua Kim, MD |  | UHC ER Wrap | PAR |
 | Joshua Newman, MD |  | UHC ER Wrap | PAR |
 | Kalie Kosek, PA |  | UHC ER Wrap | PAR |
-| Khrystyna Ostrozhynska, OD |  | UHC ER Wrap | Non-PAR |
+| Khrystyna Ostrozhynska, OD |  | UHC ER Wrap | PAR |
 | Kyle Schaub, OD |  | UHC ER Wrap | PAR |
 | Len Brown, OD |  | UHC ER Wrap | PAR |
 | Logan Page, OD |  | UHC ER Wrap | PAR |

@@ -62,7 +62,7 @@
 | Christine Bui, OD |  | BCBS RI PPO FL-00590 | PAR |
 | Diba Ossareh, OD |  | BCBS RI PPO FL-00590 | PAR |
 | Jose Vazques-Diaz, MD |  | BCBS RI PPO FL-00590 | PAR |
-| Karin Girgis, OD |  | BCBS RI PPO FL-00590 | Non-PAR |
+| Karin Girgis, OD |  | BCBS RI PPO FL-00590 | PAR |
 | Mari Holderby, OD |  | BCBS RI PPO FL-00590 | PAR |
 | Referral and/or Auth Required? |  | BCBS RI PPO FL-00590 | No Ref/No Auth Required |
 | Scot Holman, MD |  | BCBS RI PPO FL-00590 | PAR |

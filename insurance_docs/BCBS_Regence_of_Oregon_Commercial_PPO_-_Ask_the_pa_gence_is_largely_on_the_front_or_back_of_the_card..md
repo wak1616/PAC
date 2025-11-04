@@ -62,7 +62,7 @@
 | Christine Bui, OD |  | BCBS Regence OR PPO FL-00590 | PAR |
 | Diba Ossareh, OD |  | BCBS Regence OR PPO FL-00590 | PAR |
 | Jose Vazques-Diaz, MD |  | BCBS Regence OR PPO FL-00590 | PAR |
-| Karin Girgis, OD |  | BCBS Regence OR PPO FL-00590 | Non-PAR |
+| Karin Girgis, OD |  | BCBS Regence OR PPO FL-00590 | PAR |
 | Mari Holderby, OD |  | BCBS Regence OR PPO FL-00590 | PAR |
 | Referral and/or Auth Required? |  | BCBS Regence OR PPO FL-00590 | No Ref/No Auth Required |
 | Scot Holman, MD |  | BCBS Regence OR PPO FL-00590 | PAR |

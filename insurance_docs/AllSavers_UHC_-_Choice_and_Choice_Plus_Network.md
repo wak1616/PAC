@@ -21,7 +21,7 @@
 | James Lenhart, OD |  | UHC All Savers-81400 | PAR |
 | Joaquin De Rojas, MD |  | UHC All Savers-81400 | PAR |
 | John Fezza, MD (Oculoplastics) |  | UHC All Savers-81400 | PAR |
-| Jordan Shoemaker, PA |  | UHC All Savers-81400 | Non-PAR |
+| Jordan Shoemaker, PA |  | UHC All Savers-81400 | PAR |
 | Joseph Sowka, OD |  | UHC All Savers-81400 | PAR |
 | Joshua Kim, MD |  | UHC All Savers-81400 | PAR |
 | Joshua Newman, MD |  | UHC All Savers-81400 | PAR |

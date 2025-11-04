@@ -21,12 +21,12 @@
 | James Lenhart, OD |  | UHC Commercial - SHL Emp Group | PAR |
 | Joaquin De Rojas, MD |  | UHC Commercial - SHL Emp Group | PAR |
 | John Fezza, MD (Oculoplastics) |  | UHC Commercial - SHL Emp Group | PAR |
-| Jordan Shoemaker, PA |  | UHC Commercial - SHL Emp Group | Non-PAR |
+| Jordan Shoemaker, PA |  | UHC Commercial - SHL Emp Group | PAR |
 | Joseph Sowka, OD |  | UHC Commercial - SHL Emp Group | PAR |
 | Joshua Kim, MD |  | UHC Commercial - SHL Emp Group | PAR |
 | Joshua Newman, MD |  | UHC Commercial - SHL Emp Group | PAR |
 | Kalie Kosek, PA |  | UHC Commercial - SHL Emp Group | PAR |
-| Khrystyna Ostrozhynska, OD |  | UHC Commercial - SHL Emp Group | Non-PAR |
+| Khrystyna Ostrozhynska, OD |  | UHC Commercial - SHL Emp Group | PAR |
 | Kyle Schaub, OD |  | UHC Commercial - SHL Emp Group | PAR |
 | Len Brown, OD |  | UHC Commercial - SHL Emp Group | PAR |
 | Logan Page, OD |  | UHC Commercial - SHL Emp Group | PAR |

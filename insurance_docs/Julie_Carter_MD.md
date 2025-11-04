@@ -202,14 +202,14 @@
 | Cigna Commercial - Florida Connect |  | Self Pay Non-Par with Ins | Non-PAR |
 | CIGNA Commercial - HealthCare of Florida, Inc. - Fort Myers HMO |  | Cigna Commercial HMO | PAR |
 | CIGNA Commercial - HealthCare of Florida, Inc. - Tampa HMO |  | Cigna Commercial HMO | Non-PAR |
-| Cigna Commercial - Local Plus |  | Self Pay Non-Par with Ins | PAR |
+| Cigna Commercial - Local Plus |  | Self Pay Non-Par with Ins | Non-PAR |
 | Cigna Commercial- ChoiceFund OA Plus/ Cigna ChoiceFund OA Plus with CareLink |  | Cigna Commercial PPO | PAR |
 | Cigna Commercial- Open Access Plus/ Carelink Open Access Plus/PPO/Choice Fund PPO |  | Cigna Commercial PPO | PAR |
 | Cigna Global Health Benefits (BENEFITS/ELIGIBILITY NEEDS TO BE CHECKED EVERYTIME) |  | Cigna International | PAR |
-| Cigna Medicare - TotalCare (HMO D-SNP) |  | Primary: Cigna Dual MDCR HMO Primary-REFERRAL REQ                                                      Secondary: Cigna Dual Medicaid HMO Secondary | PAR |
-| Cigna Medicare - TotalCare Plus (HMO D-SNP) |  | Primary: Cigna Dual MDCR HMO Primary-REFERRAL REQ                                                      Secondary: Cigna Dual Medicaid HMO Secondary | PAR |
-| Cigna Medicare HMO- Preferred/Preferred Savings Medicare/Courage |  | Cigna Medicare HMO REFERRAL REQUIRED | PAR |
-| Cigna Medicare PPO |  | Self Pay Non-Par with Ins | PAR |
+| Cigna Medicare - TotalCare (HMO D-SNP) |  | Primary: Cigna Dual MDCR HMO Primary-REFERRAL REQ                                                      Secondary: Cigna Dual Medicaid HMO Secondary | Non-PAR |
+| Cigna Medicare - TotalCare Plus (HMO D-SNP) |  | Primary: Cigna Dual MDCR HMO Primary-REFERRAL REQ                                                      Secondary: Cigna Dual Medicaid HMO Secondary | Non-PAR |
+| Cigna Medicare HMO- Preferred/Preferred Savings Medicare/Courage |  | Cigna Medicare HMO REFERRAL REQUIRED | Non-PAR |
+| Cigna Medicare PPO |  | Cigna Medicare PPO | PAR |
 | Cigna Oscar- Open Access Plus/Local Plus |  | Self Pay Non-Par with Ins | Non-PAR |
 | CIGNACommercial - HealthCare Seamless Network - Florida |  | Cigna Commercial PPO | PAR |
 | Division of Blind |  | Division of Blind | PAR |

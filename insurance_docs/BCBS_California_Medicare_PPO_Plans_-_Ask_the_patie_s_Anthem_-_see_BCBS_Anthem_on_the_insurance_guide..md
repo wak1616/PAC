@@ -62,7 +62,7 @@
 | Christine Bui, OD |  | BCBS CA Medicare PPO FL-00590 | PAR |
 | Diba Ossareh, OD |  | BCBS CA Medicare PPO FL-00590 | PAR |
 | Jose Vazques-Diaz, MD |  | BCBS CA Medicare PPO FL-00590 | PAR |
-| Karin Girgis, OD |  | BCBS CA Medicare PPO FL-00590 | Non-PAR |
+| Karin Girgis, OD |  | BCBS CA Medicare PPO FL-00590 | PAR |
 | Mari Holderby, OD |  | BCBS CA Medicare PPO FL-00590 | PAR |
 | Referral and/or Auth Required? |  | BCBS CA Medicare PPO FL-00590 | No Ref/No Auth Required |
 | Scot Holman, MD |  | BCBS CA Medicare PPO FL-00590 | PAR |

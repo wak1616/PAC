@@ -62,7 +62,7 @@
 | Christine Bui, OD | FSOH | BCBS SimplyBlue HMO FL-00590 | PAR |
 | Diba Ossareh, OD | FSOH | BCBS SimplyBlue HMO FL-00590 | PAR |
 | Jose Vazques-Diaz, MD | FSOH | BCBS SimplyBlue HMO FL-00590 | PAR |
-| Karin Girgis, OD | FSOH | BCBS SimplyBlue HMO FL-00590 | Non-PAR |
+| Karin Girgis, OD | FSOH | BCBS SimplyBlue HMO FL-00590 | PAR |
 | Mari Holderby, OD | FSOH | BCBS SimplyBlue HMO FL-00590 | PAR |
 | Referral and/or Auth Required? | FSOH | BCBS SimplyBlue HMO FL-00590 | Authorization Required |
 | Scot Holman, MD | FSOH | BCBS SimplyBlue HMO FL-00590 | PAR |

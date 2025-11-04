@@ -50,7 +50,7 @@
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
 | George Brinnig-Jastrzebski, MD |  | Tricare Prime HMO-REFERRAL REQ | Non-PAR -OON Benefits |
-| Jenna Getman, OD |  | Tricare Prime HMO-REFERRAL REQ | PAR |
+| Jenna Getman, OD |  | Tricare Prime HMO-REFERRAL REQ | Non-PAR -OON Benefits |
 | Jon Berlie, MD |  | Tricare Prime HMO-REFERRAL REQ | Non-PAR -OON Benefits |
 | Julie Carter, MD |  | Tricare Prime HMO-REFERRAL REQ | Non-PAR -OON Benefits |
 

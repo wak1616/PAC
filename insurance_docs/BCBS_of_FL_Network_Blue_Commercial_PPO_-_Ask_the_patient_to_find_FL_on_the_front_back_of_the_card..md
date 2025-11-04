@@ -62,7 +62,7 @@
 | Christine Bui, OD |  | BCBS Network Blue PPO FL-00590 | PAR |
 | Diba Ossareh, OD |  | BCBS Network Blue PPO FL-00590 | PAR |
 | Jose Vazques-Diaz, MD |  | BCBS Network Blue PPO FL-00590 | PAR |
-| Karin Girgis, OD |  | BCBS Network Blue PPO FL-00590 | Non-PAR |
+| Karin Girgis, OD |  | BCBS Network Blue PPO FL-00590 | PAR |
 | Mari Holderby, OD |  | BCBS Network Blue PPO FL-00590 | PAR |
 | Referral and/or Auth Required? |  | BCBS Network Blue PPO FL-00590 | No Ref/No Auth Required |
 | Scot Holman, MD |  | BCBS Network Blue PPO FL-00590 | PAR |

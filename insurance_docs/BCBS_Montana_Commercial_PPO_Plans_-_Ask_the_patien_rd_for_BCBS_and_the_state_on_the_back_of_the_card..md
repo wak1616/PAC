@@ -62,7 +62,7 @@
 | Christine Bui, OD |  | BCBS MT PPO FL-00590 | PAR |
 | Diba Ossareh, OD |  | BCBS MT PPO FL-00590 | PAR |
 | Jose Vazques-Diaz, MD |  | BCBS MT PPO FL-00590 | PAR |
-| Karin Girgis, OD |  | BCBS MT PPO FL-00590 | Non-PAR |
+| Karin Girgis, OD |  | BCBS MT PPO FL-00590 | PAR |
 | Mari Holderby, OD |  | BCBS MT PPO FL-00590 | PAR |
 | Referral and/or Auth Required? |  | BCBS MT PPO FL-00590 | No Ref/No Auth Required |
 | Scot Holman, MD |  | BCBS MT PPO FL-00590 | PAR |

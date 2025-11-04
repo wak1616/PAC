@@ -21,7 +21,7 @@
 | James Lenhart, OD |  | Cigna Commercial PPO | PAR |
 | Joaquin De Rojas, MD |  | Cigna Commercial PPO | PAR |
 | John Fezza, MD (Oculoplastics) |  | Cigna Commercial PPO | Non-PAR |
-| Jordan Shoemaker, PA |  | Cigna Commercial PPO | Non-PAR |
+| Jordan Shoemaker, PA |  | Cigna Commercial PPO | PAR |
 | Joseph Sowka, OD |  | Cigna Commercial PPO | PAR |
 | Joshua Kim, MD |  | Cigna Commercial PPO | PAR |
 | Joshua Newman, MD |  | Cigna Commercial PPO | PAR |

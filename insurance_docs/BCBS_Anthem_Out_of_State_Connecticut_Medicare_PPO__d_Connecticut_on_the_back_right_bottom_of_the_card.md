@@ -50,7 +50,7 @@
 | Provider | NextGen Name | Referral/Auth | Status |
 |----------|-------------|--------------|--------|
 | George Brinnig-Jastrzebski, MD |  | BCBS Anthem CT Medicare PPO FL-00590 | PAR |
-| Jenna Getman, OD |  | BCBS Anthem CT Medicare PPO FL-00590 | Non-PAR -OON Benefits |
+| Jenna Getman, OD |  | BCBS Anthem CT Medicare PPO FL-00590 | PAR |
 | Jon Berlie, MD |  | BCBS Anthem CT Medicare PPO FL-00590 | PAR |
 | Julie Carter, MD |  | BCBS Anthem CT Medicare PPO FL-00590 | PAR |
 
@@ -62,7 +62,7 @@
 | Christine Bui, OD |  | BCBS Anthem CT Medicare PPO FL-00590 | PAR |
 | Diba Ossareh, OD |  | BCBS Anthem CT Medicare PPO FL-00590 | PAR |
 | Jose Vazques-Diaz, MD |  | BCBS Anthem CT Medicare PPO FL-00590 | PAR |
-| Karin Girgis, OD |  | BCBS Anthem CT Medicare PPO FL-00590 | Non-PAR |
+| Karin Girgis, OD |  | BCBS Anthem CT Medicare PPO FL-00590 | PAR |
 | Mari Holderby, OD |  | BCBS Anthem CT Medicare PPO FL-00590 | PAR |
 | Referral and/or Auth Required? |  | BCBS Anthem CT Medicare PPO FL-00590 | No Ref/No Auth Required |
 | Scot Holman, MD |  | BCBS Anthem CT Medicare PPO FL-00590 | PAR |

@@ -21,7 +21,7 @@
 | James Lenhart, OD |  | Lumimare Comm PPO - Aetna | PAR |
 | Joaquin De Rojas, MD |  | Lumimare Comm PPO - Aetna | PAR |
 | John Fezza, MD (Oculoplastics) |  | Lumimare Comm PPO - Aetna | PAR |
-| Jordan Shoemaker, PA |  | Lumimare Comm PPO - Aetna | Non-PAR |
+| Jordan Shoemaker, PA |  | Lumimare Comm PPO - Aetna | PAR |
 | Joseph Sowka, OD |  | Lumimare Comm PPO - Aetna | PAR |
 | Joshua Kim, MD |  | Lumimare Comm PPO - Aetna | PAR |
 | Joshua Newman, MD |  | Lumimare Comm PPO - Aetna | PAR |
