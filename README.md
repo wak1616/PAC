@@ -515,6 +515,75 @@ Follow the [Standard Closing Procedures](./#standard-closing-procedures-scriptin
 * **Routine vs. Medical Coverage Notice**: Include the routine vs. medical coverage script for routine eye exams
 * If location differs from usual, emphasize the change
 
+### Scheduling Testing by Location
+
+#### **LEA Region:**
+
+* Testing schedules are held in each location on specific days.
+  * Monday: Leesburg/Tavares/Villages/Wildwood
+  * Tuesday: Wildwood
+  * Wednesday: Villages/Tavares
+  * Thursday: Villages/Wildwood
+  * Friday: Leesburg/Tavares/Wildwood/Villages
+* Testing is scheduled on the testing schedule and then the appointment with the provider is booked 30 minutes later.
+* If there are not any same day testing appointments, then the testing is scheduled prior to the appointment with the provider.
+
+#### Sarasota Main:
+
+* Testing schedule is M-F with Tuesday being AM only
+* Testing is scheduled on the testing schedule and then the appointment with the provider is booked 30 minutes later.
+* Testing schedule is primarily for visual fields with the occasional fundus photo or OCT being scheduled there.
+  * Fundus and OCT are typically scheduled on the providers template with the patient's appointment.
+
+#### Pelican Plaza:
+
+* Testing Schedule is held on Wednesday.
+* Testing is scheduled on the testing schedule and then the appointment with the provider is booked 30 minutes later.
+* Testing schedule is primarily for visual fields with the occasional fundus photo or OCT being scheduled there.
+  * Fundus and OCT are typically scheduled on the providers template with the patient's appointment.
+
+#### University Parkway:
+
+* Testing Schedule is held on Tuesday AM, Thursday PM, Friday AM/PM with alternating Fridays AM only.
+* Testing is scheduled on the testing schedule and then the appointment with the provider is booked 30 minutes later.
+* Testing schedule is primarily for visual fields with the occasional fundus photo or OCT being scheduled there.
+  * Fundus and OCT are typically scheduled on the providers template with the patient's appointment.
+
+#### Siesta Drive:
+
+* Visual field/testing is built into the provider's template.
+
+#### CFS Naples:
+
+* VF & Pre-Op (biometry) slots are built into the provider templates.
+  * Only schedule in those designated spots
+
+#### CFS Brantley, San Carlos, and all SFEC:
+
+* Testing is scheduled on the provider's template.
+  * There are not any designated spots for the testing
+
+#### Venice Main:
+
+* Testing schedule is M-F
+* Testing is scheduled on the testing schedule and then the appointment with the provider is booked 30 minutes later.
+* Testing schedule is primarily for visual fields with the occasional fundus photo or OCT being scheduled there.
+  * Fundus and OCT are typically scheduled on the providers template with the patient's appointment.
+
+#### CFS Jacaranda:
+
+* Testing is scheduled on the provider template
+  * There must not be another visual field scheduled at the same time.
+  * When scheduling the VF on the provider template, the scheduler must check off the VF-JAC under the resource box.
+* The appointment with the provider is scheduled 30 minutes after the visual field.
+* OCT/Fundus are scheduled on the providers' template or are included in the comp appointment.
+
+#### CFS Englewood and North Port:
+
+* Testing schedule is M-F
+* Visual Fields and testing such as OCTs are scheduled on the testing schedule
+* The appointment with the provider is scheduled 15-45 minutes after the visual field.
+
 ### Handling Insurance Information During Scheduling
 
 #### Overview
