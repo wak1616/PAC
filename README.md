@@ -90,6 +90,68 @@ This protocol outlines the standard steps when scheduling patients who may or ma
 5. **Provider Selection:** If the patient has no surgeon/specialist preference, offer the next available appointment with an appropriate specialist at the requested/most convenient location.
 6. **Referring Physician Field:** Enter the **specialist's name** being scheduled in the _Referring Physician_ field in NextGen to indicate it's a self-referral handled internally. **This field should never be left blank.**
 
+## Required Fields for Consultation Appointment
+
+### 1. Referring Provider Field (REQUIRED)
+
+When an in-house or outside provider refers a patient for any type of consultation, PAC agents are REQUIRED to complete the Referring Provider field in the appointment screen. This ensures the referral information generates accurately on the Physician Relations Report, which is used to track and obtain medical records prior to the patient's appointment.
+
+**Requirements:**
+
+* Always enter the providers name who referred the patient, not the provider the appointment is being scheduled with.
+* This applies to both in-house and outside providers.
+
+**Exceptions:**
+
+* The only time the provider being scheduled with should be entered in the Referring Provider field is when:
+  1. The patient is self-referring (e.g., for cataract evaluation)
+  2. The outside referring provider is not listed in NextGen.
+
+**If the referring provider is not in NextGen:**
+
+1. Type the referring provider's full name and practice in the Appointment Details box.
+2. Submit a "Request to Add a Physician" task in the patient's chart (instructions previously provided).
+3. Once the provider is added, the chart should be updated to reflect this.
+
+### 2. Co-Managed Field in NextGen (REQUIRED for Outside Referrals)
+
+For outside referrals, PAC agents must:
+
+* Navigate to the patient's chart in NextGen.
+* Under Chart Details, mark the "Co-Managed" checkbox.
+* Enter the co-managing/referring provider's name in the field provided.
+
+_Note:_ If the provider is not yet in NextGen, the name can be added later once the record is created. However, the Co-Managed box must still be marked at the time of scheduling.
+
+### 3. Physician Relations/Records Dropdown (REQUIRED)
+
+PAC agents are also REQUIRED to complete the Physician Relations/Records dropdown when scheduling a consultation appointment.
+
+**Examples of Proper Use:**
+
+* If records have not been received and the patient was informed that records are required prior to the visit → select "Pt Notified Records Required."
+* If records have already been received → select "Referring Records Received."
+
+Agents should choose the dropdown option that best describes the situation at the time of scheduling.
+
+## Requesting a New Referring Provider to be Added to NextGen
+
+### Procedure:
+
+1. Access the patient's chart
+2. Click on the Clinical History/Notes tab
+3. Click Tasks
+4. Right click anywhere in the Details section and click New
+5. In Task Type, click the drop down and select "New Referring Provider Request"
+6. In Subject, type in the provider's name
+7. The Assigned To field should automatically default to "RCM". If not, click the drop down and select "RCM".
+8. In Details, type in the following information:
+   * Provider's first name, last name, and title (MD, OD, etc.)
+   * Provider's full address
+   * Provider's phone and fax number
+   * Provider's NPI
+9. Click Ok
+
 ***
 
 ## Emergency Triage Protocol
