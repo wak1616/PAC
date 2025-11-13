@@ -769,6 +769,7 @@ US Eye offers **Light Adjustable Lens**, **Advanced**, **Custom**, and **Basic**
 * Surgery measurements (biometry/AVT) are valid for **6 months**.
 * **Vision plans cannot be used** for cataract consults.
 * Self-pay = **Refractive consult**
+* Basic/Basic Plus Co-managed PO scheduling request should be sent to [referralcoordinator@useye.com](mailto:referralcoordinator@useye.com)&#x20;
 
 #### Process
 
