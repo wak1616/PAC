@@ -38,7 +38,7 @@ US Eye encompasses the following practices:
 
 _Click on the map below to access the interactive version_
 
-[![Interactive Map of Practice Locations](images/florida-practices-map.jpg)](https://wak1616.github.io/PAC/locations_map.html)
+[![Interactive Map of Practice Locations](.gitbook/assets/florida-practices-map.jpg)](https://wak1616.github.io/PAC/locations_map.html)
 
 ### Websites (with physician biographies)
 
@@ -1499,6 +1499,28 @@ _If your visit involves any medical concerns — such as flashes, floaters, sudd
 
 ## Patient Support -- Handling Other Requests
 
+### Verifying Prescription Consent Prior to Sending Tasks
+
+When a patient calls requesting that a copy of their glasses prescription be emailed to them, PAC agents must first verify that the patient has signed the required prescription acknowledgment consent in ICP before sending a task to the Patient Care Team.
+
+The office staff cannot send out prescriptions unless the patient signed for them on the day of their visit. When there is no signed consent on file, office staff must call the patient and request they return to the office to sign the form.
+
+By checking this information while on the call, PAC can significantly reduce unnecessary follow-up work for the offices and help avoid confusion or frustration for the patient.
+
+#### How to Check for the Signed Consent in ICP
+
+**Step 1:** Open the patient's chart in ICP and locate the Consents/Forms tab.
+
+**Step 2:** Click on the Consents/Forms tab and select the Consents option.
+
+**Step 3:** Look for the consent labeled: "Prescription Signed Acknowledgement – USEYE."
+
+A date will appear next to it—this is the date the patient signed. Use this date to determine which prescription the patient has acknowledged.
+
+If the consent is signed, proceed with sending the task to the Patient Care Team. If the consent is not signed, inform the patient that the office will need them to come in and sign the required form before their prescription can be released.
+
+**\*\*Important Note:** _In some cases, there may be a paper consent form scanned into the patients chart under the Documents tab. This can happen when ICP crashes or if some office locations had a delay in receiving the signature pads for patients to sign the consent electronically._
+
 ### HR – Employment Wage & Job Verification
 
 * Direct callers to **The Work Number** for employment and income verification.\
@@ -1572,38 +1594,79 @@ Certain requests **only** clinical staff or providers can handle. Refer to the t
 
 **Never** transfer such calls to an extension or voicemail. Inform the patient that the clinical staff are with patients but will respond as soon as possible, then create an **ICP task** with an appropriate urgency level.
 
-### Surgical Procedures — Scheduling questions and ICP Tasks
+## Surgical Procedures — Scheduling questions and ICP Tasks
 
 **Procedures are NOT scheduled by the PAC**
 
-**Surgical Inquiries Handling (scheduling, rescheduling, cancellations, and pre-payments)**
+### Surgical Inquiries Handling (scheduling, rescheduling, cancellations, and pre-payments)
 
-1. **Identify** where the patient is having surgery and which surgeon. Include this info in your message.
-2. **Create a Patient Task** in ICP (Task Category: **Surgery**, Urgency: **High**).
-   * **At Center For Sight Locations**:
-     * Notify **Surgical Counselors (PCCs)** ICP group for: **scheduling, rescheduling, and pre-payment of cash-pay and cataract ASC surgeries**: basic, CV, ADV, LAL, LASIK, PRK, EVO ICL, CLE, etc.
-     * Notify the **local Patient Care Team (CFS North, CFS Mid, or CFS South)** ICP group for all other non cash-pay procedures including YAG, SLT, cornea procedures, and glaucoma procedures.
-   * **At non-CFS locations (LEA, RHC, SFEC), notify Surgical Schedulers** ICP group for all surgical-related inquiries.
+#### 1. Basic Cataract Surgery:
 
-**Specific Questions related to Surgery:**
+**a. Financial Inquiries: Continue routing to the Financial Counselors at** [**financialcounselors@useye.com**](mailto:financialcounselors@useye.com) **or extension 103863.**
 
-* **For ASC Logistics** (arrival times, eating/drinking restrictions, retained IV in arm after surgery, etc):\
-  \* **Sarasota ASC**: [SRQ-ASCinquiries@useye.com](mailto:SRQ-ASCinquiries@useye.com)\
-  \* **Naples ASC** (including non-US Eye providers that only operate in our ASC): [Naples-ASCinquiries@useye.com](mailto:Naples-ASCinquiries@useye.com)\
-  \* **Santa Fe / LEA** (including non-US Eye providers that only operate in our ASC): [santafeasc@useye.com](mailto:santafeasc@useye.com)
-* **For Provider-Specific Surgical Questions**: Message the relevant **Practice (Provider) Team** in ICP (and mark as Urgent)
+**b. Insurance Inquiries: Continue routing to the Insurance Team at** [**insuranceverification@useye.com**](mailto:insuranceverification@useye.com) **or extension 103865.**
 
-\*_As a PAC agent, never provide surgery times_
+**c. Scheduling Basic Cataract/MDI tasks: These should now be handled by PAD (CFS North Patient Care Team/CFS Mid Patient Care Team) until further notice for all providers (apart from JWK).**
 
-**Surgery Time & Pre-Op**:
+* **i. If time permits, PCCs may still assist with basic cataract scheduling.**
+* **ii. Dr. Kim (JWK) patients only\*\*** _Scheduling for Basic cataract and cataract upgrade lens patients will continue to be handled by JWK's assigned PCC - send MDI task to \*CFS Surgical Counselors or email_ [PCCs@CenterForSight.net](mailto:PCCs@CenterForSight.net)_._
+
+**2. CV / AV / LAL / CLE / RLE Cataract Patients For any payment, scheduling, or lens-related questions, please send the MDI task to \*CFS Surgical Counselors or email PCCs@CenterForSight.net.**
+
+**3. MDI Tasking Guidelines: Please ensure all staff are aware of the correct routing for MDI tasks to prevent misdirections:**
+
+**a. Is the surgery CV/AV/LAL/CLE/RLE and the question is related to scheduling, pricing, or payment?**
+
+* **i. Route call, email PCCs@CenterForSight.net, or MDI task to \*CFS Surgical Counselors.**
+
+**b. Is this a medical question (eye drops, medications, symptoms) not related to payment?**
+
+* **i. Route MDI task to the Surgeon's Medical Team.**
+
+**c. Is this a Basic Cataract patient calling to make a payment?**
+
+* **i. Transfer to 103863 (Financial Counselors) or email** [**financialcounselors@useye.com**](mailto:financialcounselors@useye.com)**.**
+
+**d. Is the patient calling with insurance or authorization questions?**
+
+* **i. Transfer to 103865 (Insurance Verification) or email** [**insuranceverification@useye.com**](mailto:insuranceverification@useye.com)**.**
+
+**e. Patient calling to cancel surgery, questions regarding time of surgery, post op/pre op Questions?**
+
+* **i. Email surgeon's team, ASC inquiry and the assigned PCC in one email.** _(If surgery cancelation is within 48 hours of surgery date - Email must be sent High priority(!))\*\*_
+
+**f. Is the patient calling to schedule Basic or upgraded package for Dr. Kim?**
+
+* **i. Route call, email PCCs@CenterForSight.net, or MDI task to \*CFS Surgical Counselors.**
+
+**4. MDI Note Template for PCC Task:**
+
+1. Surgery Date: &#x20;
+2. Surgeon:
+3. Detailed Reason for Call: (e.g., "Patient called regarding CV questions / to make payment for CV surgery.")
+4. Call back Phone Number:
+
+* At Center For Sight Locations:
+  * § Notify Surgical Counselors (PCCs) ICP group for: scheduling, rescheduling, and pre-payment of cash-pay and cataract ASC surgeries. CV, ADV, LAL, LASIK, PRK, EVO ICL, CLE, etc.
+  * § Notify the local Patient Care Team (CFS North, CFS Mid, or CFS South) ICP group for all other non cash-pay procedures including YAG, SLT, cornea procedures, and glaucoma procedures.
+  * At non-CFS locations (LEA, RHC, SFEC), notify Surgical Schedulers ICP group for all surgical-related inquiries.
+
+### Specific Questions related to Surgeries:
+
+* **For ASC Logistics** (arrival times, eating/drinking restrictions, retained IV in arm after surgery, etc): **\* Sarasota ASC**: [SRQ-ASCinquiries@useye.com](mailto:SRQ-ASCinquiries@useye.com) **\* Naples ASC** (including non-US Eye providers that only operate in our ASC): [Naples-ASCinquiries@useye.com](mailto:Naples-ASCinquiries@useye.com) **\* Santa Fe / LEA** (including non-US Eye providers that only operate in our ASC): [santafeasc@useye.com](mailto:santafeasc@useye.com)
+* **For Provider-Specific Surgical Questions**: Message the relevant Practice (Provider) Team in ICP (and mark as Urgent)
+
+**\*As a PAC agent, never provide surgery times**
+
+### Surgery Time & Pre-Op:
 
 * For Southwest Florida Eye (SFEC), create ICP task for the practice surgical counselors.
 * For Center For Sight - Sarasota / Laser & Surgical Services: email [srq-ascinquiries@useye.com](mailto:srq-ascinquiries@useye.com).
-* For Center for Sight - Naples / Montogmery Eye Center: email [naples-ascinquiries@useye.com](mailto:naples-ascinquiries@useye.com).
+* For Center for Sight - Naples / Montgomery Eye Center: email [naples-ascinquiries@useye.com](mailto:naples-ascinquiries@useye.com).
 * For Santa Fe Surgery Center (Lake Eye Associates): email [santafeasc@useye.com](mailto:santafeasc@useye.com).
 * **Include patient name, DOB, surgery center, and surgeon.**
 
-**Post-Op** questions → **Provider Team** in ICP (**NOT** the surgical counselor group)
+**Post-Op questions → Provider Team in ICP (NOT the surgical counselor group)**
 
 ### Optical
 

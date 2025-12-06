@@ -458,7 +458,7 @@
 
 ### Albert Smolyar, MD
 
-* **Patient Types**: Teen (8-17 Years), Adult (18 & Over)
+* **Patient Types**: Teen (14-17 Years), Adult (18 & Over)
 * **Specialties**: Cataract, Refractive (LASIK/PRK), Glaucoma, Neuro, Oculoplastic, Primary Eye Care
 * **Patient Care Team**: SFEC
 * **Office Locations**: Ft. Myers
