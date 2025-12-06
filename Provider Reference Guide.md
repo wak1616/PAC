@@ -336,7 +336,12 @@
 * Office Locations: Naples
 * NPI: 1578311791
 
+### **Jordan Shoemaker, PA**
 
+* Patient Types: Adult (18 & Over)
+* Patient Care Team: CFS North
+* Office Location: US41 Sarasota
+* NPI: 1134969199
 
 ## LEA
 

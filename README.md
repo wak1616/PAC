@@ -996,6 +996,7 @@ For cornea consultations - especially for keratoconus evaluations - patients sho
 
 #### Dry Eye Procedures & Treatments (Center For Sight-Sarasota)
 
+* **Provider for treatment-only visits:** Jordan Shoemaker, PA **(PRP/Serum Tears Only)**
 * **Provider for treatment-only visits**: Maureen Traina, PA
 * **Location**: CFS – US41 Sarasota
 * **Procedures**:
