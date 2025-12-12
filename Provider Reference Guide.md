@@ -50,6 +50,14 @@
 * **Office Locations**: Naples
 * **NPI**: 1164692935
 
+### Gisselle Vega Carraso, OD
+
+* Patient Types: Adult (18 & Over)
+* Specialties: Primary Eye Care
+* Patient Care Team: CFS Mid
+* Office Locations: Venice, Englewood, Jacaranda
+* NPI: 1023801479
+
 ### Elizabeth Davis, MD
 
 * **Patient Types**: Adult (18 & Over)
@@ -74,6 +82,14 @@
 * **Office Locations**: Amara, US41 Sarasota
 * **NPI**: 1184715187
 
+### Jenna Getman, OD
+
+* Patient Types: Adult (18 & Over)
+* Specialties: Primary Eye Care
+* Patient Care Team: CFS South
+* Office Locations: Naples
+* NPI: 1578311791
+
 ### Karin Girgis, OD
 
 * **Patient Types**: Young Child (3-7 Years), Teen (8-17 years), Adult (18 & Over)
@@ -87,7 +103,7 @@
 * **Patient Types**: Teen (10-17 Years), Adult (18 & Over)
 * **Specialties**: Primary Eye Care, Soft CL, RGP CL
 * **Patient Care Team**: CFS North
-* **Office Locations**: Pelican Plaza
+* **Office Locations**: Pelican Plaza, University Park
 * **NPI**: 1326531542
 
 ### Melissa Hammond, OD
@@ -113,13 +129,6 @@
 * **Patient Care Team**: CFS Mid
 * **Office Locations**: North Port, Venice
 * **NPI**: 1144887357
-
-### Hussein Wafapoor, MD
-
-* Patient Types: Adult (18 & Over)
-* Specialties: Retina
-* Patient Care Team: RHC
-* Office Locations: Naples
 
 ### Joshua Kim, MD
 
@@ -201,14 +210,6 @@
 * **Office Locations**: Amara
 * **NPI**: ---
 
-### Patrick Nelson, OD
-
-* **Patient Types**: Teen (8-17 Years), Adult (18 & Over)
-* **Specialties**: Primary Eye Care, Soft CL
-* **Patient Care Team**: CFS North & Mid
-* **Office Locations**: Pelican Plaza, University Park, Venice
-* **NPI**: 1952719817
-
 ### Joshua Newman, MD
 
 * **Patient Types**: Toddler (6 Months-2 Years), Young Child (3-7 Years), Teen (8-17 Years), Adult (18 & Over)
@@ -216,6 +217,14 @@
 * **Patient Care Team**: CFS Mid
 * **Office Locations**: Amara
 * **NPI**: 1609967603
+
+### Khrystyna Ostrozhynska, OD
+
+* Patient Types: Teen (7-17 Years), Adult (18 & Over)
+* Specialties: Primary Eye Care
+* Patient Care Team: CFS Mid
+* Office Locations: Englewood
+* NPI: 1720515174
 
 ### Logan Page, OD
 
@@ -256,6 +265,13 @@
 * **Patient Care Team**: CFS North
 * **Office Locations**: US41 Sarasota
 * **NPI**: 1336258433
+
+### **Jordan Shoemaker, PA**
+
+* Patient Types: Adult (18 & Over)
+* Patient Care Team: CFS North
+* Office Location: US41 Sarasota
+* NPI: 1134969199
 
 ### Pia Simonson, LE
 
@@ -312,37 +328,6 @@
 * **Office Locations**: Pelican Plaza
 * **NPI**: 1851336481
 
-### Gisselle Vega Carraso, OD
-
-* Patient Types: Adult (18 & Over)
-* Specialties: Primary Eye Care
-* Patient Care Team: CFS Mid
-* Office Locations: Venice, Englewood, Jacaranda
-* NPI: 1023801479
-
-### Khrystyna Ostrozhynska, OD
-
-* Patient Types: Teen (7-17 Years), Adult (18 & Over)
-* Specialties: Primary Eye Care
-* Patient Care Team: CFS Mid
-* Office Locations: Englewood
-* NPI: 1720515174
-
-### Jenna Getman, OD
-
-* Patient Types: Adult (18 & Over)
-* Specialties: Primary Eye Care
-* Patient Care Team: CFS South
-* Office Locations: Naples
-* NPI: 1578311791
-
-### **Jordan Shoemaker, PA**
-
-* Patient Types: Adult (18 & Over)
-* Patient Care Team: CFS North
-* Office Location: US41 Sarasota
-* NPI: 1134969199
-
 ## LEA
 
 ### Christine Bui, OD
@@ -390,7 +375,7 @@
 * **Patient Types**: Young Child (3-7 Years), Teen (8-17 Years), Adult (18 & Over)
 * **Specialties**: Primary Eye Care, Soft CL, RGP CL, Vision Plan
 * **Patient Care Team**: LEA
-* **Office Locations**: Lady Lake, The Villages
+* **Office Locations**: Lady Lake, Tavares
 * **NPI**: 1780241513
 
 ### Jose Vazquez, MD
@@ -427,13 +412,13 @@
 * **Office Locations**: Ft. Myers, Naples
 * **NPI**: 1922021195
 
-### Veronica Graversen, MD
+### Hussein Wafapoor, MD
 
-* **Patient Types**: Adult (18 & Over)
-* **Specialties**: Retina
-* **Patient Care Team**: RHC
-* **Office Locations**: Ft. Myers, Naples
-* **NPI**: 1467773838
+* Patient Types: Adult (18 & Over)
+* Specialties: Retina
+* Patient Care Team: RHC
+* Office Locations: Naples
+* NPI: 1972550622
 
 ## SFEC
 
