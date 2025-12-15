@@ -1650,6 +1650,12 @@ Certain requests **only** clinical staff or providers can handle. Refer to the t
 * At Center For Sight Locations:
   * § Notify Surgical Counselors (PCCs) ICP group for: scheduling, rescheduling, and pre-payment of cash-pay and cataract ASC surgeries. CV, ADV, LAL, LASIK, PRK, EVO ICL, CLE, etc.
   * § Notify the local Patient Care Team (CFS North, CFS Mid, or CFS South) ICP group for all other non cash-pay procedures including YAG, SLT, cornea procedures, and glaucoma procedures.
+  * §  When handling calls related to YAG appointments, please follow the guidelines below:
+  * § **Patient Calling About an Upcoming YAG Appointment**
+  * § If the patient already has an upcoming YAG scheduled and you do not see a post-op visit scheduled in their chart, send an ICP task to the Patient Care Team requesting that they reach out to the patient to schedule the PO visit. These should be scheduled 2-4 weeks after the YAG procedure.
+  * **§ Patient Calling to Schedule Their YAG**
+  * § If the patient is calling to book their YAG procedure, send an ICP task to the Patient Care Team and include in the task that a post-op YAG visit needs to be scheduled as well.
+  * §  _Notes: These appointments are often useful to determine a post-op refraction._
   * At non-CFS locations (LEA, RHC, SFEC), notify Surgical Schedulers ICP group for all surgical-related inquiries.
 
 ### Specific Questions related to Surgeries:
