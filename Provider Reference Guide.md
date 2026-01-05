@@ -2,7 +2,7 @@
 
 ## CFS
 
-### Tanuj Banker, OD
+### Tanuj Banker, MD
 
 * Patient Types: Adult (18 & Over)
 * Specialties: Retina
