@@ -188,7 +188,7 @@
 
 ### David Mertzlufft, OD
 
-* **Patient Types**: Young Child (3-7 Years), Teen (8-17 Years), Adult (18 & Over)
+* **Patient Types**: Young Child (5-7 Years), Teen (8-17 Years), Adult (18 & Over)
 * **Specialties**: Primary Eye Care, Soft CL, RGP CL
 * **Patient Care Team**: CFS Mid
 * **Office Locations**: Venice
