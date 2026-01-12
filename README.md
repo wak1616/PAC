@@ -497,6 +497,7 @@ These exams are usually performed annually and help maintain overall eye health.
 7. ROTC exams are only done by Dr. Middaugh at the CFS Brantley Rd location. There is a limit of **2 per day** (one in the AM and one in the PM). Scheduled as short visits with "ROTC Exam" in the appointment details.
 8. There can not be more than **4 children per day** (two in the AM and two in the PM) per provider in LEA.
 9. If a **LEA** patient is wanting to schedule a study, please send the patient over to EXT: 411 or email the patient info to brianna.boston@useye.com
+10. When scheduling children 5-7 years of age, please verify that they are able to read letters. This is important for the vision test portion of the exam.
 
 #### Process
 
@@ -525,8 +526,8 @@ These exams are usually performed annually and help maintain overall eye health.
    * Comprehensive exams generally last **90–120 minutes**.
    * **Script**: "Because of the complexity and diagnostic testing, we usually need about 90 minutes. This ensures thorough care."
 3. **Self-Pay Pricing**\
-   a. The self-pay price for a comprehensive exam is typically **$150-$250**.\
-   b. **Script:** "The estimated costs for an exam can range between $150-$250. Once you have checked out, our check-out staff will provide your final self-pay costs. All costs are due at the time of the appointment."
+   a. The self-pay price for a comprehensive exam is typically **$350-$450**.\
+   b. **Script:** "The estimated costs for an exam can range between $350-$450. Once you have checked out, our check-out staff will provide your final self-pay costs. All costs are due at the time of the appointment."
 4. **Important Reminders**\
    a. Patients are typically only eligible through their vision plan once per year. If a routine exam is being scheduled before the 1-year eligibility timeframe, the patient may need to use their medical insurance instead.\
    b. Always schedule patients with both vision and medical insurance info.

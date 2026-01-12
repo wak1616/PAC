@@ -332,7 +332,7 @@
 
 ### Christine Bui, OD
 
-* **Patient Types**: Young Child (3-7 Years), Teen (8-17 Years), Adult (18 & Over)
+* **Patient Types**: Young Child (5-7 Years), Teen (8-17 Years), Adult (18 & Over)
 * **Specialties**: Primary Eye Care, Soft CL, Vision Plan
 * **Patient Care Team**: LEA
 * **Office Locations**: Wildwood
@@ -348,7 +348,7 @@
 
 ### Mari Holderby, OD
 
-* **Patient Types**: Young Child (3-7 Years), Teen (8-17 Years), Adult (18 & Over)
+* **Patient Types**: Young Child (5-7 Years), Teen (8-17 Years), Adult (18 & Over)
 * **Specialties**: Primary Eye Care, Soft CL, RGP CL, Vision Plan
 * **Patient Care Team**: LEA
 * **Office Locations**: Leesburg and Tavares
@@ -364,7 +364,7 @@
 
 ### Diba Ossareh, OD
 
-* **Patient Types**: Young Child (3-7 Years), Teen (8-17 Years), Adult (18 & Over)
+* **Patient Types**: Young Child (5-7 Years), Teen (8-17 Years), Adult (18 & Over)
 * **Specialties**: Primary Eye Care, Soft CL, RGP CL, Vision Plan
 * **Patient Care Team**: LEA
 * **Office Locations**: Wildwood
@@ -372,7 +372,7 @@
 
 ### Alexandria Rawls, OD
 
-* **Patient Types**: Young Child (3-7 Years), Teen (8-17 Years), Adult (18 & Over)
+* **Patient Types**: Young Child (5-7 Years), Teen (8-17 Years), Adult (18 & Over)
 * **Specialties**: Primary Eye Care, Soft CL, RGP CL, Vision Plan
 * **Patient Care Team**: LEA
 * **Office Locations**: Lady Lake, Tavares
@@ -396,7 +396,7 @@
 
 ### Karin Girgis, OD
 
-* Patient Types: Young Child (3–7 Years), Teen (8–17 Years), Adult (18 & Over)
+* Patient Types: Young Child (5–7 Years), Teen (8–17 Years), Adult (18 & Over)
 * Specialties: Primary Eye Care, Soft CL, RPG CL
 * Patient Care Team: LEA
 * Office Locations: The Villages
