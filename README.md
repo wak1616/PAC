@@ -526,8 +526,8 @@ These exams are usually performed annually and help maintain overall eye health.
    * Comprehensive exams generally last **90–120 minutes**.
    * **Script**: "Because of the complexity and diagnostic testing, we usually need about 90 minutes. This ensures thorough care."
 3. **Self-Pay Pricing**\
-   a. The self-pay price for a comprehensive exam is typically **$350-$450**.\
-   b. **Script:** "The estimated costs for an exam can range between $350-$450. Once you have checked out, our check-out staff will provide your final self-pay costs. All costs are due at the time of the appointment."
+   a. The self-pay price for a comprehensive exam is typically **$170-$270**.\
+   b. **Script:** "The estimated costs for an exam can range between $170-$270. Once you have checked out, our check-out staff will provide your final self-pay costs. All costs are due at the time of the appointment."
 4. **Important Reminders**\
    a. Patients are typically only eligible through their vision plan once per year. If a routine exam is being scheduled before the 1-year eligibility timeframe, the patient may need to use their medical insurance instead.\
    b. Always schedule patients with both vision and medical insurance info.
@@ -1693,6 +1693,7 @@ Incoming calls for **Optical** route to designated regional ring groups.
 * Unanswered calls go to a group voicemail (checked daily).
 * Voicemails should be returned same business day.
 * When sending an email be sure to include all patient information including location, name, date of birth, medical records number, and phone number.
+* The optical department closes from 12-1 for lunch.
 
 #### **Contact Lens Phone Orders**
 
