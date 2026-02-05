@@ -1509,6 +1509,21 @@ The office staff cannot send out prescriptions unless the patient signed for the
 
 By checking this information while on the call, PAC can significantly reduce unnecessary follow-up work for the offices and help avoid confusion or frustration for the patient.
 
+### DMV Forms
+
+### DMV Form Call Process:
+
+1. **Verify last visit date**
+   * Check whether the patient has been seen within the last 12 months.
+2. **If the patient has NOT been seen within the last year:**
+   * Schedule the patient for a Comprehensive Exam (Comp).
+3. **If the patient HAS been seen within the last year:**
+   * Inform the patient that they may drop the DMV form off at the office.
+   * Advise them to allow 24-48 hours for the provider to complete the form.
+   * Let the patient know that office staff will call once the form is ready for pickup or if the provider determines that the patient needs to be seen.
+
+> Please do not schedule an appointment for DMV forms unless the patient has not been seen within the last year.
+
 #### How to Check for the Signed Consent in ICP
 
 **Step 1:** Open the patient's chart in ICP and locate the Consents/Forms tab.
