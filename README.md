@@ -1,6 +1,6 @@
 # Patient Access Center Master Guide
 
-**Last Update:** January, 23, 2026
+**Last Update:** February, 10, 2026
 
 Note: For detailed navigation, please use the GitBook sidebar menu on the **right** 👉
 
@@ -213,8 +213,16 @@ The following guide outlines when to schedule appointment based on their symptom
 * PAC schedules in the first **available** orange ER or open long appointment spot for new patients.
 * If no same day spots are available for that provider, send an **ICP** communication to the Patient Care Team of that region and mark **urgent**.
 * If the patient's provider is out of the office, schedule with another provider in the region and note in the details their provider is out. **Check availability for all office locations in the region** **to include smaller satellite offices.**
-* For **retina** patients (Dr. Banker or RHC): Triaged by an **OD first** for emergency appts. For retina emergency referrals (e.g. detachment or tear), send an **ICP** message to either Dr. Banker's team or RHC Pateint Care Team marked **urgent**. **Do not schedule**.
-  * If this is a Dr. Banker patient that recently had an injection (2 weeks) and experiencing pain or decrease in vision, schedule them same day with an OD.
+*   For **retina** patients (Dr. Banker or RHC): Triaged by an **OD first** for emergency appts. For retina emergency referrals (e.g. detachment or tear), send an **ICP** message to either Dr. Banker's team or RHC Pateint Care Team marked **urgent**. **Do not schedule**.
+
+    * If this is a Dr. Banker patient that recently had an injection (2 weeks) and experiencing pain or decrease in vision, schedule them same day with an OD.
+
+    #### CFS North and CFS Mid
+
+    * **If it's 3:30 PM–5:00 PM:**
+      * **For emergency-level situations:** The patient should be scheduled immediately, provided they can arrive at the doctor's office before 5:00 PM. The PAC agent should attempt a warm transfer to the office to notify them of the add-on appointment. If the office cannot be reached via warm transfer, the agent should notify the team through the Teams group chat. If the patient's primary doctor is unavailable, the patient should be scheduled at the closest practice location, where an available provider will see the patient for the emergency.
+
+    #### LEA, SFEC, and CFS South
 * If it's **3:30 PM–5:00 PM**:
   * Attempt a warm transfer to the office.
   * If the office is unavailable, enter an **ICP** message to the Patient Care Team. The office will contact the patient directly to schedule.
@@ -1149,7 +1157,35 @@ The **retina** is a delicate, light-sensitive tissue lining the interior of the 
 
 * If the patient wants a prescription update or does **not** have a confirmed retinal diagnosis, refer to [**Primary Eye Care Protocol**](./#scheduling-primary-eye-care) instead.
 
-**If Patient Has a Referral**
+### Protocol: Scheduling Dr. Banker Retina Consults
+
+### PAC Workflow
+
+#### 1. Patient Notification
+
+* When a patient is referred by an outside provider, PAC agents must inform the patient:
+  * That records and a referral are required to schedule the consultation. Meaning we must already have this information received at the time of the call.
+
+#### 2. Check for Referral Records
+
+* PAC must verify whether referral records have already been received.
+  * **If Records are received:**
+    * Upload the records into ICP and schedule the consultation in the Venice office.
+  * **If Records Are NOT Received:**
+    * Create a transfer to ICP appointment type.
+    * Send an ICP task to the MID Patient Care Team using the following script:
+      * "New patient outside referral, records not received but requested."
+    * Inform the patient that records must be sent to the Venice fax number: 941-488-2503
+
+### Front Office Workflow
+
+#### 1. Uploading Records
+
+* When uploading referral records from the fax box into ICP:
+  * Check for any open ICP tasks related to Dr. Banker retina consults.
+  * If the patient is awaiting scheduling and records are received, contact the patient directly to schedule their consultation in Venice.
+
+**RHC-** **If Patient Has a Referral**
 
 1. Determine what the patient needs based on the retina reason/color key.
 2. If external referral: **alert** the patient that referral notes must be sent prior to the appointment.
@@ -1157,7 +1193,7 @@ The **retina** is a delicate, light-sensitive tissue lining the interior of the 
 4. Schedule with the referral provider (or first available if none is specified).
 5. Document the records status in the **Physician Relations / Records** field of the appointment screen.
 
-**If Patient Does Not Have a Referral**
+**RHC- If Patient Does Not Have a Referral**
 
 1. The patient must provide documentation of a previously diagnosed retinal condition.
 2. Records must be sent prior to the appointment or it may be canceled.
