@@ -66,30 +66,6 @@ _This section contains detailed information about all locations. For the complet
 
 _For a detailed list of dilated vs. non-dilated appointments and relevant patient scripting, please refer to the_ [_Dilation Key document_](<Dilation Key.md>)_._
 
-## Referral Management Protocol
-
-This protocol outlines the standard steps when scheduling patients who may or may not have a formal referral for specialty services (e.g., Cornea, Cataract, Dermatology, Glaucoma, Oculoplastics Medical, Refractive, Retina).
-
-### If Patient Has Referral
-
-1. **Verify Referral:** Check **Phreesia**, **ICP Documents,** and/or **E-Faxes** to confirm the referral exists and is for the appropriate specialty consultation.
-2. **Obtain Missing Referral:** If the referral document is not found, **notify the patient** that it needs to be sent over by the referring office _before_ the consultation appointment. The appointment may possibly be rescheduled if the referral is not received on time.
-3. **Schedule:** Schedule the appointment with the provider named on the referral, if specified.
-   1. **Note:** Sometimes the provider listed on the referral is not accurate — Please correct if necessary.
-   2. If no provider is specified, schedule with the first available appropriate specialist at the patient's preferred location.
-4. **Document:** Note the referral source and status in the appropriate appointment details field (e.g., Physician Relations / Records in NextGen).
-
-### If Patient Does NOT Have Referral (Self-Referral)
-
-1. **Confirm Condition:** Ask the patient about their symptoms or reason for seeking a specialty consultation. Ask if they have been diagnosed with a relevant condition by a previous eye care provider (internal or external).
-   * If the patient was seen internally, check **ICP** for notes indicating a diagnosis or recommendation for a specialty consult.
-   * If the reason is unclear or seems more appropriate for Primary Eye Care (e.g., needs glasses update, no specific diagnosis), follow the [Scheduling Primary Eye Care](./#scheduling-primary-eye-care) protocol first.
-2. **Records Requirement (external referrals to internal specialists):** Alert the patient that **medical records** from their previous eye exam(s) related to the condition **may be required** for a specialist consultation. Explain that the appointment may be rescheduled by the specialist's team if records are not received.
-3. **Schedule Out & Mark:** Schedule the appointment at least **1 week out** to allow time for records to be sent and reviewed. Mark **"DNM" (Do Not Move)** in the appointment details to prevent automated systems from moving the appointment earlier.
-4. **Document Records Status:** Document the records request status (e.g., "Records requested from Dr. Smith on \[date]", "Patient to bring records") in the Physician Relations / Records field or appointment notes.
-5. **Provider Selection:** If the patient has no surgeon/specialist preference, offer the next available appointment with an appropriate specialist at the requested/most convenient location.
-6. **Referring Physician Field:** Enter the **specialist's name** being scheduled in the _Referring Physician_ field in NextGen to indicate it's a self-referral handled internally. **This field should never be left blank.**
-
 ## Required Fields for Consultation Appointment
 
 ### 1. Referring Provider Field (REQUIRED)
@@ -156,10 +132,6 @@ Agents should choose the dropdown option that best describes the situation at th
 
 ## Emergency Triage Protocol
 
-### Instructions for Patient with Acute Issues
-
-This protocol details the steps taken to properly triage and schedule a patient with an acute issue.
-
 **NO medical advice should be given to the patient by PAC agents.**
 
 ***
@@ -170,7 +142,7 @@ This protocol details the steps taken to properly triage and schedule a patient 
 
 * Attempt to schedule a **same-day** appointment.
 * If no same-day slot is available, triage via **ICP** message to the **Patient Care Team**, mark it **URGENT**.
-* OK to schedule in the grey if needed (but if after 3:30PM do not schedule and only send triage task to Patient Care Team).
+* OK to schedule in the grey if needed
 * If the patient is **comanaged**, they should see their comanaging physician. If the comanaging doctor is not available and patient needs to be scheduled to another provider, or if the patient requests a different provider, note it in the appointment details.
 
 ***
@@ -181,8 +153,9 @@ This protocol details the steps taken to properly triage and schedule a patient 
 2. Ask about the **duration** of these symptoms.
 3. **Determine the urgency** (Emergency, Urgent, or Non-Urgent) via the table below.
 4. Document all symptoms, which eye(s) they affect, and how long they've been present.
+5. For all same-day ER add-on requests, agents are required to verify the patient’s symptoms using the ER Triage Protocol Tree and process the information through Raia AI to confirm that the patient meets the qualifications for a same-day ER appointment.
 
-The following guide outlines when to schedule appointment based on their symptoms:
+The following guide outlines when to schedule appointment based on their symptoms: Use current existing emergency triage table in Gitbook.
 
 | Emergency (Same Day)                                                                                                                                         | Urgent (24–48 hrs)                                 | Non-Urgent (Next Avail)                                                                                   |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
@@ -204,8 +177,13 @@ The following guide outlines when to schedule appointment based on their symptom
 * **If New Patient**: Schedule with an **OD at CFS** in open orange ER spot or in open long appointment spot (i.e. Comp spots).
   * **At LEA and SFEC, ODs or MDs see emergencies.**
 * **New patients** cannot be scheduled in short blue spots unless given permission from the office.
-* **If Established Patient:** Schedule with their **primary provider whenever possible**.
-* If they are in a **post-op period** and **comanaged**, they should see their comanaging provider.
+* **If Established Patient:** Schedule with their **primary provider.** If the primary provider is unavailable, schedule the patient with the next available provider or closest in the vicinity. Please refer to the map.&#x20;
+* If they are in a **post-op period** and **comanaged**, they should see their comanaging provider. If the comanaging is unavailable, schedule the patient with the next available provider or closest in the vicinity. Please refer to the map.
+* For Retina Dr. Banker: Triaged by an OD first for emergency appts. For retina emergency referrals (e.g. Detachment or tear), send an ICP message to Dr. Banker's team marked urgent. Do not schedule.
+* For Retina RHC:&#x20;
+  * If the provider is in office schedule according to the appropriate openings on the template (orange ER spots only unless otherwise approved)
+  * If the office is open but no provider is on site (typically on Fridays), please contact the office for a warm transfer.  The staff member will transfer the call to the technician on call, who will be working in the office and can triage with a provider as needed.
+* Any patient that recently had an injection (2 weeks) schedule them same day if presenting with ER symptoms (please refer to ER triage chart above).  For Dr. Banker please schedule with an OD, for RHC please follow the above-mentioned process.
 
 **Process**
 
@@ -217,12 +195,12 @@ The following guide outlines when to schedule appointment based on their symptom
 
     * If this is a Dr. Banker patient that recently had an injection (2 weeks) and experiencing pain or decrease in vision, schedule them same day with an OD.
 
-    #### CFS North and CFS Mid
+    #### CFS North and CFS Mid, CFS South, and SFEC
 
     * **If it's 3:30 PM–5:00 PM:**
       * **For emergency-level situations:** The patient should be scheduled immediately, provided they can arrive at the doctor's office before 5:00 PM. The PAC agent should attempt a warm transfer to the office to notify them of the add-on appointment. If the office cannot be reached via warm transfer, the agent should notify the team through the Teams group chat. If the patient's primary doctor is unavailable, the patient should be scheduled at the closest practice location, where an available provider will see the patient for the emergency.
 
-    #### LEA, SFEC, and CFS South
+    #### LEA&#x20;
 * If it's **3:30 PM–5:00 PM**:
   * Attempt a warm transfer to the office.
   * If the office is unavailable, enter an **ICP** message to the Patient Care Team. The office will contact the patient directly to schedule.
@@ -234,8 +212,8 @@ The following guide outlines when to schedule appointment based on their symptom
 ### Urgent --> Appointment Within 48 Hours Required - Follow these instructions:
 
 * **If New Patient**: Schedule with **OD within 2 days** (although some MDs at SFEC and LEA see ERs as well)
-* **If Established Patient**: Schedule with **primary provider whenever possible**.
-* If in post-op/comanaged, see their comanaging provider if possible.
+* **If Established Patient**: Schedule with **primary provider.** If the primary provider is unavailable, schedule the patient with the next available provider or closest in the vicinity. Please refer to the map
+* If in post-op/comanaged, see their comanaging provider if possible. If the comanaging is unavailable, schedule the patient with the next available provider or closest in the vicinity. Please refer to the map. &#x20;
 
 **Process**
 
@@ -244,6 +222,68 @@ The following guide outlines when to schedule appointment based on their symptom
 * If unsure where to schedule, send **ICP** triage communication to the Patient Care Team in that region and mark **urgent**. Patient may need to see another provider if primary provider in the region is not available.
 
 ***
+
+## Handling Insurance Information During Scheduling
+
+When scheduling any appointment, staff must:
+
+* Confirm patient demographics and active insurance.
+* Verify plan name and policy number.
+* Enter insurance in NextGen in this order:
+  1. Primary Medical
+  2. Secondary Medical
+  3. Tertiary Medical
+  4. Vision Insurance
+* Vision plans **cannot** be used for medical exams (cataract, cornea, glaucoma, retina, LASIK).
+* If no medical insurance is available, schedule as **Self-Pay – No Insurance**.
+* Use the **US Eye Insurance Guide** to confirm network status.
+
+### Collecting & Entering Insurance
+
+#### 1. Verify Information
+
+**Required questions:**"What is the plan name on your insurance card?""Is this Commercial, Medicare, or Medicaid?"(Medigap can only be secondary)"Is your plan a PPO or HMO?"If accurate insurance cannot be provided, **do NOT schedule**. Offer to wait or have the patient call back.
+
+#### 2. Insurance Guide Check
+
+* **In-network (no referral):** Enter insurance and schedule.
+* **In-network (referral required):**
+  * Schedule 7–14 days out.
+  * For urgent visits, advise patient they will be self-pay if referral is not received.
+  * If patient agrees, enter **Self-Pay – Do Not Bill Medical Ins** (policy field may note "ER APPT").
+  * Email Insurance Verification with patient and plan details.
+* **VA (Optum):**
+  * Appointments must be scheduled by the VA.
+  * Check Authorization tab for valid auth.
+  * If none, advise patient VA must send a new authorization.
+* **Non-participating plans:**
+  * Determine if out-of-network benefits exist.
+  * Enter appropriate self-pay option.
+  * If OON benefits exist, inform patient costs may be higher.
+
+#### 3. Ask About Secondary Insurance
+
+* Collect plan name, type, and PPO/HMO status.
+* Check participation:
+  * **In-network:** Enter and proceed.
+  * **Out-of-network:** Inform patient of higher OOP costs and document acknowledgment.
+  * **No OON benefits:** Proceed as self-pay and note plan in policy field.
+
+#### 4. Deactivating Old Plans
+
+If you added a new insurance to an existing chart, check whether any prior plans are now inactive. If so, add an expiration date and remove the Active marker. (See NG PM – Deactivate an Insurance.)
+
+### Sample Scripting
+
+<mark style="color:$info;">**Confirming Information:**</mark> <mark style="color:$info;"></mark><mark style="color:$info;">"Can you please confirm your name, DOB, insurance plan, and ID number?"</mark>
+
+<mark style="color:$info;">**Patient Only Has Vision Plan:**</mark> <mark style="color:$info;"></mark><mark style="color:$info;">"Please note that vision plans cannot be used for medical exams such as cataracts, cornea, glaucoma, retina specialist, or LASIK consultations."</mark>
+
+<mark style="color:$info;">**Cannot Provide Insurance:**</mark> <mark style="color:$info;"></mark><mark style="color:$info;">"In order to proceed with scheduling, it's important we have accurate insurance info to ensure coverage. If you cannot provide it now, please call back when you have it so we can schedule your appointment."</mark>
+
+<mark style="color:$info;">**Emergent Appointment, Referral Required:**</mark> <mark style="color:$info;"></mark><mark style="color:$info;">"Your insurance plan needs a referral from your PCP. We will request an urgent referral, but if it isn't received before your appointment, you'll be considered self-pay at time of service. All fees will be due at check-in. Would you like to proceed?"</mark>
+
+<mark style="color:$info;">**Non-Participating Insurance:**</mark> <mark style="color:$info;"></mark><mark style="color:$info;">"We are not in-network for your plan. You can still be seen on a self-pay basis. All payments are due at time of service."</mark>
 
 ### Non-Urgent – Next Available - Follow these instructions:
 
@@ -306,111 +346,6 @@ _Refer to **NextGen Transfer to ICP process** for new patient ICP tasks_
 
 ***
 
-## Contact Lens Discontinuation prior to Consultations
-
-Cataract and Refractive surgery evaluations, as well as Cornea - Keratoconus evaluations, require patients to stop wearing contact lenses for a period beforehand to ensure accurate corneal measurements.
-
-### Script Prompt
-
-> "Wearing contact lenses can temporarily change the shape of your cornea. To ensure the most accurate measurements for your upcoming consultation \[or potential surgery], it's essential that you stop wearing your contact lenses for a specific period before your appointment. What type of contact lenses do you currently wear?"
-
-_After determining the type, provide the relevant discontinuation period from the table below and document this instruction in the appointment details_
-
-### Discontinuation Periods
-
-| Lens Type                      | Florida            |
-| ------------------------------ | ------------------ |
-| Soft Daily/Extended Wear       | 1 Week             |
-| Toric Daily Wear               | 2 Weeks            |
-| Hard / RGP / PMMA              | 3 Weeks            |
-| Scleral (for Keratoconus only) | Do NOT Discontinue |
-
-> **Note:** Add **"DNM"** to the appointment details for patients requiring discontinuation to prevent Appointment Accelerator from offering earlier slots before the discontinuation period is met.
-
-### Scleral Lens Note
-
-> **Reminder for Scleral Lens Wearers:** Patients wearing scleral lenses should **bring their lens case and solution** to their consultation, as they will likely be asked to remove them during the exam. _(Confirm specific instructions if unsure for non-Keratoconus Scleral wearers or other complex cases)._
-
-***
-
-## 72-Hour Scheduling Rule
-
-### Purpose
-
-The purpose of this protocol is to fill provider schedules when there are last minute cancellations and new openings emerge.
-
-Use this rule to override standard appointment templates if attempting to schedule a patient within 72 hours.
-
-### Allowed Overrides
-
-* New patient → any NEW patient slot
-  * Comp Medical – New
-  * Routine Employee – New
-  * Routine Vision – New)
-* Established patient → any New or Established patient slot
-  * Comp Medical – New/Est
-  * Routine Employee – New/Est
-  * Routine Vision – New/Est
-
-### Restrictions
-
-* Do not schedule a same day or next day appointment past 3:30 PM.
-* PAC cannot schedule a patient with a vision plan under the 72-hour rule.
-
-### Doctors Included in 72-Hour Rule
-
-#### ODs / Optometrists
-
-* **AEC:** N/A
-* **CEP:** N/A
-* **CFS:** Dr. Len Brown, Dr. Daniel Hadland, Dr. Melissa Hammond, Dr. Erin Hardie, Dr. George Hurwitz, Dr. Todd Lang, Dr. James Lenhart , Dr. Casey Maloney, Dr. Elizabeth McVey, Dr. David Mertzlufft, Dr. Bradley Middaugh, Dr. Logan Page, Dr. Charles Putrino, Dr. Rachel Randolph, Dr. Kyle Schaub, Dr. Joseph Sowka, Dr. Scott Stevens, Dr. Trisha Werner
-* **SFEC:** Dr. Sarah Johnson, Dr. Brian Marhue, Dr. Penny Orr
-* **LEA:** Dr. Christine Bui, Dr. Mari Holderby, Dr. Diba Ossareh, Dr. Alexandria Rawls
-* **GEC, KEC, RHC:** N/A
-
-#### MD / DO
-
-* **LEA:** Dr. Jose Vazquez (does NOT fit CLs)
-
-### Color Key (as seen in NextGen)
-
-#### Light Green
-
-* Comp Medical – New (Adult or Child)
-
-#### Yellow
-
-* Comp Medical – Est (Adult or Child)
-* Routine Employee – New (Adult or Child)
-* Routine Employee – Est (Adult or Child)
-
-#### Dark Green
-
-* Routine Vision – New (Adult or Child)
-* Routine Vision – Est (Adult or Child)
-
-### Dilation and Exam Duration (inform patient clearly)
-
-> "Your eyes will be dilated, causing blurry vision and light sensitivity for several hours. Please arrange transportation home. Dilation can only be waived by the physician"
-
-> "Your exam may last approximately 90-120 minutes if a comprehensive exam is needed."
-
-### Required Documentation
-
-* Note "**72-hour rule**" clearly in appointment details.
-* Extend appointment from 15 to 30 min when combining short slots.
-
-### If Additional Requirements are Needed by Insurance
-
-* If referral is required but not obtained, inform patient of self-pay requirement:
-
-> "Your insurance requires a referral from your Primary Care Provider (PCP). It usually takes about seven business days. Without this referral, you can be seen as self-pay. You'll sign a Self-Pay form, and fees will be due at visit."
-
-* Document PCP information clearly in the patient's chart and appointment notes.
-* Note in the appointment details: "Pt is aware PCP referral is required; self-pay if not received."
-* If the patient proceeds, load the insurance as "Self-Pay". DO NOT bill medical insurance.
-* This also applies to Optum VA insurance patients if the authorization on file does not match the specific doctor being scheduled under the 72-hour rule.
-
 ## Standard Closing Procedures (Scripting)
 
 ### Basic Call Closing Steps
@@ -426,47 +361,6 @@ Follow these steps for **every** patient call to ensure consistent, professional
    * If location differs from their usual office, **emphasize** the change
 4. **Final confirmation**
    * "Thank you, \[Mr./Ms. Patient Last Name]. We look forward to seeing you on \[date] at \[time] at our \[location] office."
-
-### Specialty-Specific Reminders
-
-Include these additional reminders based on the appointment type:
-
-#### Dilation Requirements
-
-For appointments requiring dilation (most consultations and comprehensive exams):
-
-* "As part of the examination process, your eyes will be dilated, causing blurry vision and light sensitivity for several hours. Please arrange transportation home, as you should not drive afterward."
-
-#### Extended Appointment Duration
-
-For consultations (typically 2-3 hours):
-
-* "Due to the complexity of the exam and comprehensive diagnostic testing, your appointment may last 2-3 hours. This ensures we provide the highest level of care."
-
-#### Contact Lens Discontinuation
-
-When contact lens discontinuation is required:
-
-* Confirm discontinuation period was explained
-* "Remember to discontinue your contact lenses \[timeframe] before your appointment as discussed."
-* For detailed contact lens discontinuation protocols, refer to the [Contact Lens Discontinuation Guide](Contact_Lens_Discontinuation_Guide.md)
-
-#### Self-Pay/Fee Notifications
-
-For appointments with fees not covered by insurance:
-
-* Confirm fee amount and payment expectations
-* "As discussed, the consultation fee is $\[amount] and payment is due at check-in."
-
-#### Routine vs. Medical Coverage
-
-For routine eye exams:
-
-* "Your routine eye exam is scheduled for \[date/time]. If a medical condition is found, the physician will let you know about any insurance or financial responsibilities before proceeding with treatment that day. You can choose to proceed immediately or schedule the care for another time."
-
-### Quick Reference
-
-For detailed specialty-specific protocols, refer to the individual scheduling sections in this guide.
 
 ***
 
@@ -499,30 +393,50 @@ These exams are usually performed annually and help maintain overall eye health.
 1. Make certain that every appointment is scheduled in **time order.**
 2. **Refraction rechecks** should always be scheduled with the **same provider** who performed the comprehensive exam. Patients should consult an optician first to check their glasses before scheduling a refraction recheck.
 3. If a patient **hasn't been seen in 3+ months**, a **comprehensive exam** is scheduled, **not** just a refraction.
-4. **Any OD** can see a patient for punctal plugs. Schedule in a light blue spot for a follow up and add in the appointment details: **"Punctal Plugs"**
-5. **CFS/SFEC/LEA**: Do not schedule more than **two family members** in one day **per provider**.
+4. **Any OD** can see a patient for punctal plugs. Schedule in a light blue spot for a follow up and add in the appointment details: **"Punctal Plugs".** Refer to ICP for follow up notes and schedule in a light blue spot as a follow up and add in the appointment details: **"Punctal Plugs."** This is for established patients only.
+5. Do not schedule more than **two family members** in one day **per provider**.
 6. If you offer an appointment more than **10 days out**, you **must** offer to place the patient on the **waitlist** (in addition to scheduling them).
-7. ROTC exams are only done by Dr. Middaugh at the CFS Brantley Rd location. There is a limit of **2 per day** (one in the AM and one in the PM). Scheduled as short visits with "ROTC Exam" in the appointment details.
-8. There can not be more than **4 children per day** (two in the AM and two in the PM) per provider in LEA.
+7. ROTC exams are only done by Dr. Middaugh at the CFS Brantley Rd location. There is a limit of **2 per day** (one in the AM and one in the PM). Scheduled as short visits with "ROTC Exam" in the appointment details and insurance is added in as ROTC-PPR.
+8. There can not be more than **4 children per day** (two in the AM and two in the PM) per provider in in all markets.
 9. If a **LEA** patient is wanting to schedule a study, please send the patient over to EXT: 411 or email the patient info to brianna.boston@useye.com
 10. When scheduling children 5-7 years of age, please verify that they are able to read letters. This is important for the vision test portion of the exam.
+11. If a CFS patient is wanting to schedule a study, please send the patient over to EXT: 104784 or 104785 or email Gina Thomas and Deb Bevelacqua. Do not send them ICP messages.&#x20;
+12. When scheduling, be sure to properly obtain and run eligibility on all medical insurance plans. [<mark style="color:blue;">(See Handling Insurance Information During Scheduling)</mark>](./#handling-insurance-information-during-scheduling)
 
 #### Process
 
 1. **OD vs. MD/DO**
    * **Optometrists (OD)** can treat, diagnose, and prescribe for most eye conditions. If surgery is needed, the OD will refer to a Surgeon.
-2. **New vs. Established**
-   * If it's been **more than three years** since the patient's last exam, schedule them using the appropriate **new patient** event.
-   * For **Routine Employee** exams, see the **Employee Exams Protocol**.
-   * **Vision plans** can only be used for **Routine Vision** exams. Check insurance acceptance, and ensure both medical + vision are listed in NextGen.
-3. **Contact Lens (CL) Fittings**
-   * **Established** patient with a CL fitting:
-     * If not seen in **over one year**, schedule a **Comprehensive Exam** and note "CL" in details. The provider decides if the fitting can occur then or needs a separate visit.
-   * All contact lens fittings must be scheduled in a **light blue spot either at the end of the morning or end of day.**
-   * Confirm **type of lenses** in the appointment details, and ensure you schedule with a provider who fits that lens.
-   * Patients must **wear** their contact lenses to the appointment and **bring** their lens prescription/info.
-   * **New patients** cannot be scheduled directly for a Contact Lens Fitting. Schedule a **Comp Medical or Routine Vision** as a new patient exam instead. The provider will decide if the fitting can occur or if a separate appointment is required.
-   * If externally referred for **specialty contact lens** (e.g., scleral), schedule at least **one week** out and use "DNM" in details to block early changes through Appointment Accelerator.
+2.  **New vs. Established**
+
+    * If it's been **more than three years** since the patient's last exam, schedule them using the appropriate **new patient** event.
+    * For **Routine Employee** exams, see the **Employee Exams Protocol**.
+
+    &#x20;    1\. **Vision plans** can only be used in **Routine Vision** Exam template spots. Check insurance acceptance, and ensure both medical + vision are listed in NextGen.
+3. **Contact Lens (CL) Fitting**
+
+* **Established** patient with a CL fitting:
+  * If not seen in **over one year**, schedule a **Comprehensive Exam** and note "CL" in details. The provider decides if the fitting can occur then or needs a separate visit.
+* All contact lens fittings must be scheduled in a **light blue spot either at the end of the morning or end of day.**
+* Confirm **type of lenses** in the appointment details, and ensure you schedule with a provider who fits that lens.
+* Patients must **wear** their contact lenses to the appointment and **bring** their lens prescription/info.
+* **New patients** cannot be scheduled directly for a Contact Lens Fitting. Schedule a **Comp Medical or Routine Vision** as a new patient exam instead. The provider will decide if the fitting can occur or if a separate appointment is required.
+* If externally referred for **specialty contact lens** (e.g., scleral), schedule at least **one week** out and use "DNM" in details to block early changes through Appointment Accelerator.
+
+4. **Routine Vision Exams:** Performed annually and help maintain overall eye health. Only performed by OD providers.
+   * A comprehensive exam typically includes:
+     * Visual acuity
+     * Eye coordination
+     * Refraction
+     * Evaluation of the eye structures
+   * Routine exams are scheduled in designated spots:
+     * Dark Green for new and established patients
+     * Gold for established only patients
+   * Patients using vision plan coverage cannot be scheduled under the 72 hour rule
+   * Vision plans cannot be used for medical exams such as cataract, cornea, glaucoma, or retina.
+   * Medical Insurance must be obtained along with a vision plan.
+5. Do not schedule appointments through the flashlight search tool. You may use it to look for the next available date/time but must physically go to that date and time in Nextgen to schedule the appointment.
+6. After finalizing the appointment, check the provider template to ensure the spot was not accidentally double booked.
 
 #### FAQs
 
@@ -540,6 +454,47 @@ These exams are usually performed annually and help maintain overall eye health.
    a. Patients are typically only eligible through their vision plan once per year. If a routine exam is being scheduled before the 1-year eligibility timeframe, the patient may need to use their medical insurance instead.\
    b. Always schedule patients with both vision and medical insurance info.
 
+**72-Hour Scheduling Rule**
+
+This protocol exists to fill last-minute openings and protect template utilization. It applies only to appointments scheduled **within the next 72 hours.**
+
+**Core rule (time is non-negotiable)**
+
+An appointment may be placed only into a slot that is **equal to or longer than** the standard duration for that visit type.
+
+* **Shorter visit → longer** slot is allowed (example: Established Medical may go into a New Medical slot).
+* **Longer visit → shorter slot is never allowed** (example: New Medical may not go into an Established Medical or Routine Follow-Up short slot).
+
+If additional time is needed, use an appropriate longer slot (or approved combined adjacent slots) and update the appointment length accordingly.
+
+**Insurance restriction (vision plans)**
+
+Do **not** schedule patients using **vision plan coverage** under the 72-hour rule.&#x20;
+
+Follow **Handling Insurance Information During Scheduling** to verify coverage before booking.
+
+**Template usage notes**
+
+* **Established medical visits** may be placed into Established Medical slots or into longer New Medical slots.
+* **New medical visits** must be placed into New Medical slots (or any slot that is truly the same duration or longer). New medical visits may not be placed into shorter Established Medical or Routine Follow-Up slots.
+* A “Routine Vision” template slot may be used for a **medical** exam (medical insurance or self-pay) only if leadership has approved this use, and only if the slot duration fits the visit type.
+
+**Additional restrictions**
+
+Do not schedule same-day or next-day appointments after 3:30 PM unless the slot is explicitly designated as an open comp/urgent slot. Do not schedule patients whose plan requires referral/authorization unless those requirements are confirmed as met.
+
+**Documentation requirement**
+
+Add “**72-hour rule**” in appointment details and document any special handling (e.g., if an appointment length was adjusted due to combining slots).
+
+**Editorial note (must update before submission):** Confirm and insert the standardized visit durations in the “Appointment Types & Standard Durations” section, and ensure this section matches those durations.
+
+| New Medical         | 2 Hours    | <p>New Medical; any slot equal/longer</p><p><br></p>                                            | <p>Established Medical or Routine Follow-Up slots that are shorter</p><p><br></p> |
+| ------------------- | ---------- | ----------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
+| Established Medical | 1 ½ Hours  | <p>Established Medical; New Medical (longer slot)</p><p><br></p>                                | <p>Any slot shorter</p><p><br></p>                                                |
+| Follow Up           | 30 minutes | <p>Routine Follow-Up; Established Medical if equal/longer; New Medical if longer</p><p><br></p> | <p>Any slot shorter</p><p><br></p>                                                |
+| Routine Vision      | 1 ½ Hours  | <p>Only if duration fits and patient is NOT using vision plan</p><p><br></p>                    | <p>Vision plan patients under 72-hour rule; any duration mismatch</p><p><br></p>  |
+
 #### Closing Reminders
 
 Follow the [Standard Closing Procedures](./#standard-closing-procedures-scripting) with these specific additions:
@@ -555,13 +510,13 @@ Follow the [Standard Closing Procedures](./#standard-closing-procedures-scriptin
 Appointments will typically be scheduled with the patient's existing provider unless the patient requests a change.
 
 * If the provider's schedule is more than 10 days out, the patient can be placed on the waitlist to be contacted if an appointment opens sooner.
-* **CFS / SFEC / LEA**: Do not schedule more than **two family members** in one day **per provider**.
+* Do not schedule more than **two family members** in one day **per provider**.
 
 #### Process
 
 1. **Verify Patient Information**
    * In NextGen, go to the **Patient Information** tab. Verify and update demographics and insurance as needed.
-   * Review the **Insurance Guide** to confirm we accept the patient's plan.
+   * Review the **Insurance Guide** to confirm we accept the patient's plan. When scheduling, be sure to properly obtain and run eligibility on all medical insurance plans. [(See Handling Insurance Information During Scheduling)](./#handling-insurance-information-during-scheduling)
    * Ask if the patient has any issues needing immediate attention (see **Triage Protocol**).
 2. **Check for Recalls / Follow-up**
    * Click the **Recall icon** in NextGen's Patient Information bar to see active recalls (location, provider, event).
@@ -654,95 +609,10 @@ Follow the [Standard Closing Procedures](./#standard-closing-procedures-scriptin
 * Testing schedule is M-F
 * Visual Fields and testing such as OCTs are scheduled on the testing schedule
 * The appointment with the provider is scheduled 15-45 minutes after the visual field.
+  * If the patient needs to be scheduled for a Visual Field, the testing appointment needs to be scheduled 30 minutes prior to the appointment with the provider and the testing appointment duration needs to be changed to 30 minutes.
+  * If the patient needs to have both a Visual Field and an OCT done, then schedule the testing 45 minutes prior to the visit with the provider. 30 minutes for the visual field and 15 for the OCT.
 
-### Handling Insurance Information During Scheduling
-
-#### Overview
-
-When a patient contacts the office to schedule any appointment, staff must:
-
-1. Confirm the patient's **demographic and insurance** information.
-2. Verify the **plan name** and **policy number** to ensure the insurance on file is active.
-3. **Arrange** insurance policies in the correct order in NextGen:
-   1. **Primary** Medical Insurance
-   2. **Secondary** Medical Insurance
-   3. **Tertiary** Medical Insurance
-   4. **Vision** Insurance
-
-> **Note:** Vision plans **cannot** be used for medical exams (cataract, cornea, glaucoma, LASIK consultations).
-
-If the patient has **no medical insurance**, set them as **Self-Pay – No Insurance**.
-
-Use the **US Eye Insurance Guide** to confirm whether the plan is in-network, out-of-network, or non-participating.
-
-#### Collecting & Entering Insurance
-
-**1. Verify Information**
-
-* **Questions**:
-  1. "What is the plan name on your insurance card?"
-  2. "Is this a **Commercial, Medicare, or Medicaid** plan?"
-     * **Note**: Supplement/Medigap can **only** be secondary.
-  3. "Does your insurance card say **PPO** or **HMO**?"
-
-> **If the patient cannot provide accurate insurance info**, inform them that you **cannot schedule** until you have their plan details. Offer to wait while they retrieve the cards or to have them call back.
-
-**2. Insurance Guide Check**
-
-1. **Confirm** whether the practice participates with the plan (in-network vs. out-of-network vs. non-participating).
-2. If **in-network** and no additional action is needed, **enter** the plan in NextGen and continue scheduling.
-3. If **in-network** but requires a **referral**, schedule the patient **7–14 days** out to allow time for referral.
-   * For emergent appointments, inform the patient that if the referral is not received in time, they will be **self-pay** at time of service.
-   * If patient agrees to proceed, enter **Self-Pay – Do Not Bill Medical Ins** in the policy number field (e.g., "ER APPT"), with effective and expiration date set to the day of service.
-   * Email **Insurance Verification** to notify them of the urgent need for a referral (include plan name, policy #, patient details, date).
-4. If **VA (Optum)** coverage:
-   * **VA must schedule** the appointment directly (patient cannot self-schedule).
-   * Check the **Authorization** tab in Insurance Maintenance for an existing authorization.
-   * If no authorization, let the patient know the VA needs to send a new one.
-5. If the patient's plan is **non-participating** review the [Insurance Guide By Provider](Insurance_Guide_By_Provider.md) to determine if the plan is non-participating with out-of-network benefits or non-participating without out-of-network benefits.
-   * Enter as **Self-Pay – No Insurance**, **Self-Pay – Non Par With Ins**, or **Self-Pay – Do Not Bill Medical Ins**, as appropriate.
-   * Non-PAR with out-of-network benefits: Inform the patient XX Name is non-participating, but their insurance plan has out-of-network benefits. Costs may be higher with out-of-network benefits.
-
-**3. Ask About Secondary Insurance**
-
-1. Collect the **secondary plan** name, plan type (Commercial/Medicare/Medicaid), and "PPO" or "HMO" status.
-2. Check the **US Eye Insurance Guide** for participation status.
-   * If **in-network** for secondary, enter it in PM and finalize scheduling.
-   * If **out-of-network**:
-     * Inform patient their copay/out-of-pocket may be higher.
-     * Note in appointment details: "Patient made aware on \[date] we are OON with higher OOP costs."
-   * If **no OON** benefits:
-     * Patient must proceed as self-pay. Load their insurance as **Self Pay – Non Par With Ins** and enter the plan name in the Policy Number field.
-
-**4. Deactivating Old Plans**
-
-* If you added a **new insurance** to an existing chart, check whether any prior plans are now inactive.
-* If so, add an **expiration date** and remove the **Active** marker. (See _NG PM – Deactivate an Insurance_.)
-
-#### Sample Scripting
-
-> **Confirming Information**:\
-> "Can you please confirm your full name, date of birth, insurance plan, and insurance ID number so I can verify we have the most updated billing information on file?"
-
-> **Patient Only Has Vision Plan**:\
-> "Please note that vision plans cannot be used for medical exams such as cataracts, cornea, glaucoma, retina specialist, or LASIK consultations."
-
-> **Cannot Provide Insurance**:\
-> "In order to proceed with scheduling, it's important we have accurate insurance info to ensure coverage. If you cannot provide it now, please call back when you have it so we can schedule your appointment."
-
-> **Emergent Appointment, Referral Required**:\
-> "Your insurance plan needs a referral from your PCP. We will request an urgent referral, but if it isn't received before your appointment, you'll be considered self-pay at time of service. All fees will be due at check-in. Would you like to proceed?"
-
-> **Non-Participating Insurance**:\
-> "We are not in-network for your plan. You can still be seen on a self-pay basis. All payments are due at time of service."
-
-#### References
-
-* **US Eye Insurance Guide** (in-network vs. out-of-network / non-participating)
-* **NG PM – Deactivate an Insurance**
-* **RCM Procedure Manual: Self-Pay Deposit Collection**
-
-### Scheduling Cataract
+### Scheduling Cataract (Referral Not Required)
 
 #### Cataract Overview
 
@@ -779,36 +649,31 @@ US Eye offers **Light Adjustable Lens**, **Advanced**, **Custom**, and **Basic**
 * **Vision plans cannot be used** for cataract consults.
 * Self-pay = **Refractive consult**
 * Basic/Basic Plus Co-managed PO scheduling request should be sent to [referralcoordinator@useye.com](mailto:referralcoordinator@useye.com)&#x20;
+* Agents must ask the patient if they have had cataract surgery previously. The patient should not have had cataract surgery previously and should only be scheduled if it for a dislocated lens.
+* Cataract consults do not require a referral from another provider.
+* Agents must add DNM to appointment details when the patients insurance requires a referral or VA Auth.
+* Do not schedule appointments through the flashlight search tool. You may use it to look for the next available date/time, but must physically go to that date and time in Nextgen to schedule the appointment.
+* After finalizing the appointment, check the provider template to ensure the spot was not accidentally double booked.
+* When scheduling, be sure to properly obtain and run eligibility on all medical insurance plans. [(See Handling Insurance Information During Scheduling)](./#handling-insurance-information-during-scheduling)
 
 #### Process
 
-**If Patient Has Referral**
-
-**Criteria:**
-
-* Diagnosed cataracts ready for removal
-* Complaints of blurry vision, glare, or night driving difficulty
-
-**Instructions:**
-
-1. Schedule with preferred provider.
-2. If no preferred provider, schedule with first available in patient's preferred location.
-3. Note contact lens status and discontinuation timing in appointment details (see chart below).
-
-**If Patient Does NOT Have Referral**
-
-1. Check Phreesia or ICP for documentation.
-2. Ask about last eye exam. If >1 year ago, follow **Primary Eye Care Protocol**.
-3. Request fax of last eye exam if diagnosis is unclear.
-4. If exam is vague, send ICP communication to the provider team to confirm readiness.
-5. Document **records status** in "Physician Relations / Records."
-6. Enter surgeon's name in **Referring Physician** field (never leave blank)._(Follow standard_ [_Referral Management Protocol_](./#referral-management-protocol)_)_
-
-**Additional Criteria for Patients WITHOUT Referral:**
+**Additional Criteria for Patients**
 
 * Before scheduling a Cataract Consult for a self-referral, confirm they meet typical criteria (e.g., age > 55, experiencing symptoms like blurry vision, glare, night driving difficulty).
 * If unsure based on patient description or if last exam was >1 year ago, consider scheduling for [Primary Eye Care](./#scheduling-primary-eye-care) first, or request records per the protocol.
 * If patient insists on Cataract consult despite lack of clear diagnosis/recent exam, document this clearly.
+* If the patient was referred by an external provider, enter their name in the Referring Physician field.(Follow standard [Required Fields for Consultation Appointment for more details.](./#required-fields-for-consultation-appointment))
+
+**Contact Lens Discontinuation prior to Consultations**
+
+Cataract and Refractive surgery evaluations, as well as Cornea - Keratoconus evaluations, require patients to stop wearing contact lenses for a period beforehand to ensure accurate corneal measurements.
+
+**Script Prompt**
+
+<mark style="color:$info;">"Wearing contact lenses can temporarily change the shape of your cornea. To ensure the most accurate measurements for your upcoming consultation \[or potential surgery], it's essential that you stop wearing your contact lenses for a specific period before your appointment. What type of contact lenses do you currently wear?"</mark>
+
+_**After determining the type, provide the relevant discontinuation period from the table below and document this instruction in the appointment details**_
 
 [**Contact Lens Discontinuation Periods**](./#contact-lens-discontinuation-for-consultations)
 
@@ -819,7 +684,7 @@ US Eye offers **Light Adjustable Lens**, **Advanced**, **Custom**, and **Basic**
 | Hard / RGP / PMMA              | 3 Weeks            |
 | Scleral (for Keratoconus only) | Do NOT Discontinue |
 
-> **Reminder:** Patients wearing scleral lenses should bring their case and solution to their consultation, as they will be asked to remove them during the exam._(See_ [_Contact Lens Discontinuation for Consultations_](./#contact-lens-discontinuation-prior-to-consultations)_)_
+> **Reminder:** Patients wearing scleral lenses should bring their case and solution to their consultation, as they will be asked to remove them during the exam.
 
 #### FAQs
 
@@ -848,7 +713,7 @@ Follow the [Standard Closing Procedures](./#standard-closing-procedures-scriptin
 * **Contact Lens Discontinuation**: Remind about contact lens requirements if applicable
 * If location differs from usual, emphasize the change
 
-### Scheduling Refractive
+### Scheduling Refractive (Referral Not Required)
 
 #### Refractive Overview
 
@@ -878,38 +743,21 @@ Refractive procedures help improve the patient's vision to minimize dependence o
 * Refractive Consults are **$128** and are **not covered by insurance or vision plans.**
 * Insurance must be collected from the patient at the time of scheduling in case the appointment turns medical. Inform the patient that payment in full is **due at check-in.**
 * Inform the patient that payment in full is due at check-in.
-
-#### Process
-
-**If Patient Has Referral**
-
-**Offer patient the option of scheduling as a cataract consult (through insurance) if:**
-
-* Has NOT had cataract or lens replacement surgery
-* Has symptoms such as blurred vision, glare, or trouble driving at night
-* Is 55 years old or older
-
-> If patient meets these criteria, schedule a cataract consultation with the first available provider or their preferred provider.
-
-**Steps:**
-
-1. Check Phreesia and/or ICP for referral documents.
-2. If missing, instruct the patient to send in referral/last note prior to the appointment.
-3. Schedule with the referring provider.
-4. Notate in APPT DETAILS if the patient wears contact lenses and confirm they were instructed on discontinuation.
-
-**If Patient Does NOT Have Referral**
-
-* Confirm they are pursuing refractive or laser vision correction surgery.
-* If no preference, offer next available appointment in the most convenient location.
-*   Enter the surgeon's name in the _Referring Physician_ field to indicate self-referral.
-
-    > **Note:** This field should never be left blank.
-* Notate contact lens usage and discontinuation instruction in APPT DETAILS.
+* Do not schedule appointments through the flashlight search tool. You may use it to look for the next available date/time, but must physically go to that date and time in Nextgen to schedule the appointment.
+* After finalizing the appointment, check the provider template to ensure the spot was not accidentally double booked.
+* If the patient was referred by an external provider, enter their name in the Referring Physician field.(Follow standard [Required Fields for Consultation Appointment for more details.](./#required-fields-for-consultation-appointment))
 
 #### Contact Lens Instructions
 
-> For detailed guidance on contact lens discontinuation periods and requirements, see the [Contact Lens Discontinuation for Consultations](./#contact-lens-discontinuation-prior-to-consultations) section.
+**Contact Lens Discontinuation prior to Consultations**
+
+Cataract and Refractive surgery evaluations, as well as Cornea - Keratoconus evaluations, require patients to stop wearing contact lenses for a period beforehand to ensure accurate corneal measurements.
+
+**Script Prompt**
+
+<mark style="color:$info;">"Wearing contact lenses can temporarily change the shape of your cornea. To ensure the most accurate measurements for your upcoming consultation \[or potential surgery], it's essential that you stop wearing your contact lenses for a specific period before your appointment. What type of contact lenses do you currently wear?"</mark>
+
+_**After determining the type, provide the relevant discontinuation period from the table below and document this instruction in the appointment details**_
 
 **Discontinue Contact Lenses Prior to Consultation:**
 
@@ -950,7 +798,7 @@ Follow the [Standard Closing Procedures](./#standard-closing-procedures-scriptin
 * **Contact Lens Discontinuation**: Remind about contact lens requirements if applicable
 * If location differs from usual, emphasize the change
 
-### Scheduling Cornea
+### Scheduling Cornea (Referral Required)
 
 #### Cornea Overview
 
@@ -980,28 +828,51 @@ Follow the [Standard Closing Procedures](./#standard-closing-procedures-scriptin
 * Make certain every appointment is scheduled in **time order.**
 * If you are offering an appointment more than **10 days away**, place the patient on the waitlist.
 * Vision plans **cannot** be used for cornea consultations.
+* Do not schedule appointments through the flashlight search tool. You may use it to look for the next available date/time, but must physically go to that date and time in Nextgen to schedule the appointment.
+* After finalizing the appointment, check the provider template to ensure the spot was not accidentally double booked.
+* When scheduling, be sure to properly obtain and run eligibility on all medical insurance plans. (See [Handling Insurance Information During Scheduling](./#handling-insurance-information-during-scheduling))
 
-#### Contact Lens Discontinuation
+### Contact Lens Discontinuation prior to Consultations
 
-For cornea consultations - especially for keratoconus evaluations - patients should discontinue contact lens wear according to the standard guidelines.
+Cataract and Refractive surgery evaluations, as well as Cornea - Keratoconus evaluations, require patients to stop wearing contact lenses for a period beforehand to ensure accurate corneal measurements.
 
-> For detailed guidance on contact lens discontinuation periods and requirements, see the [Contact Lens Discontinuation for Consultations](./#contact-lens-discontinuation-prior-to-consultations) section.
+**Script Prompt**
+
+> "Wearing contact lenses can temporarily change the shape of your cornea. To ensure the most accurate measurements for your upcoming consultation \[or potential surgery], it's essential that you stop wearing your contact lenses for a specific period before your appointment. What type of contact lenses do you currently wear?"
+
+_After determining the type, provide the relevant discontinuation period from the table below and document this instruction in the appointment details._
+
+**Discontinue Contact Lenses Prior to Consultation:**
+
+| Lens Type                  | Florida            |
+| -------------------------- | ------------------ |
+| Soft Daily / Extended Wear | 1 week             |
+| Toric Daily Wear           | 2 weeks            |
+| Hard / RGP / PMMA          | 3 weeks            |
+| Scleral for Keratoconus    | Do Not Discontinue |
+
+> "Please make sure to bring your scleral lens case and solution to your appointment as you will be asked to remove your lenses during the exam."
+
+* **Use "DNM" in appointment details** to prevent being offered an earlier appointment.
 
 #### Process
 
 **If Patient Has Referral**
 
-1. Check Phreesia/ICP Documents to confirm the referral is for a Cornea Consultation.
-2. Have the patient's last note or referral sent in if not found.
-3. Schedule with the referring provider (the name on the referral).
+1. **Verify Referral:** Check **Phreesia**, **ICP Documents,** and/or **E-Faxes** to confirm the referral exists and is for the appropriate specialty consultation.
+2. **Obtain Missing Referral:** If the referral document is not found, **notify the patient** that it needs to be sent over by the referring office _before_ the consultation appointment. The appointment may possibly be rescheduled if the referral is not received on time.
+3. **Schedule:** Schedule the appointment with the provider named on the referral, if specified.
+   1. **Note:** Sometimes the provider listed on the referral is not accurate — Please correct if necessary.
+   2. If no provider is specified, schedule with the first available appropriate specialist at the patient's preferred location.
+4. **Document:** Note the referral source and status in the appropriate appointment details field (e.g., Physician Relations / Records in NextGen).
 
 **If Patient Does Not Have Referral**
 
-1. Confirm the patient was diagnosed with a cornea condition by a physician (internal or external).
-2. Alert the patient that records are required; the appointment may be canceled if records don't arrive. Schedule at least **1 week out** (mark **DNM** in details).
-3. Document the records status in the Physician Relations / Records field.
-4. If no surgeon preference, offer the next available at the requested/most convenient location.
-5. Enter the surgeon's name in the Referring Physician field to indicate self-referral (never leave it blank)._(Follow standard_ [_Referral Management Protocol_](./#referral-management-protocol)_)_
+1. If the patient was seen internally, check **ICP** for notes indicating a diagnosis or recommendation for a specialty consult. If the reason is unclear or seems more appropriate for Primary Eye Care (e.g., needs glasses update, no specific diagnosis), follow the Scheduling Primary Eye Care protocol first.
+2. **Records Requirement (external referrals to internal specialists):** Alert the patient that **medical records** from their previous eye exam(s) related to the condition **may be required** for a specialist consultation. Explain that the appointment may be rescheduled by the specialist's team if records are not received. Schedule at least **1 week out** (mark **DNM** in details).
+3. **Document Records Status:** Document the records request status (e.g., "Records requested from Dr. Smith on \[date]", "Patient to bring records") in the Physician Relations / Records field or appointment notes.
+4. **Provider Selection:** If the patient has no surgeon/specialist preference, offer the next available appointment with an appropriate specialist at the requested/most convenient location.
+5. Enter the surgeon's name in the Referring Physician field to indicate self-referral (never leave it blank). If the patient was referred by an external provider, enter their name in the Referring Physician field. _(Follow standard_ [_Required Fields for Consultation Appointment_](./#required-fields-for-consultation-appointment) _for more details.)_
 
 #### Dry Eye Procedures & Treatments (Center For Sight-Sarasota)
 
@@ -1047,7 +918,7 @@ For cornea consultations - especially for keratoconus evaluations - patients sho
 
 _(See_ [_Standard Closing Procedures_](./#standard-closing-procedures-scripting) _for complete scripting)_
 
-### Scheduling Glaucoma
+### Scheduling Glaucoma (Referral Required)
 
 #### Overview
 
@@ -1069,24 +940,28 @@ Glaucoma is a disease caused by increased fluid pressure within the eye, potenti
 * Make certain every appointment is scheduled in **time order.**
 * If you offer an appointment more than **10 days away**, you **must** offer to place the patient on the **waitlist**.
 * **Vision Plans** cannot be used for glaucoma consultations.
+* Do not schedule appointments through the flashlight search tool. You may use it to look for the next available date/time, but must physically go to that date and time in Nextgen to schedule the appointment.
+* After finalizing the appointment, check the provider template to ensure the spot was not accidentally double booked.
+* When scheduling, be sure to properly obtain and run eligibility on all medical insurance plans. (See [Handling Insurance Information During Scheduling](./#handling-insurance-information-during-scheduling))
 
 #### Process
 
 **If Patient Has Referral**
 
-1. **Check Phreesia/ICP** documents to confirm it's for a Glaucoma Consultation.
-2. If referral isn't found, **alert the patient** to have it sent prior to the consultation.
-3. **Schedule** with the referring provider named on the referral.
+5. **Verify Referral:** Check **Phreesia**, **ICP Documents,** and/or **E-Faxes** to confirm the referral exists and is for the appropriate specialty consultation.
+6. **Obtain Missing Referral:** If the referral document is not found, **notify the patient** that it needs to be sent over by the referring office _before_ the consultation appointment. The appointment may possibly be rescheduled if the referral is not received on time.
+7. **Schedule:** Schedule the appointment with the provider named on the referral, if specified.
+   1. **Note:** Sometimes the provider listed on the referral is not accurate — Please correct if necessary.
+   2. If no provider is specified, schedule with the first available appropriate specialist at the patient's preferred location.
+8. **Document:** Note the referral source and status in the appropriate appointment details field (e.g., Physician Relations / Records in NextGen).
 
 **If Patient Does Not Have Referral**
 
-1. Confirm the patient **was diagnosed** with a Glaucoma condition by a physician.
-   * If the patient was seen internally, check **ICP** for any note about a Glaucoma diagnosis or referral.
-2. **Alert the patient** that records are required. If they're not received, the appointment may be canceled.
-3. **Schedule** at least **1 week out** to allow time for records receipt. Mark **DNM** in appointment details to prevent booking earlier.
-4. **Document records status** in Physician Relations / Records field (NextGen).
-5. If no surgeon preference, offer the **next available** slot at the requested/most convenient location.
-6. Enter the surgeon's name in **Referring Physician** field to show self-referral. (Field must not be blank.) _(Follow standard_ [_Referral Management Protocol_](./#referral-management-protocol)_)_
+5. If the patient was seen internally, check **ICP** for notes indicating a diagnosis or recommendation for a specialty consult. If the reason is unclear or seems more appropriate for Primary Eye Care (e.g., needs glasses update, no specific diagnosis), follow the Scheduling Primary Eye Care protocol first.
+6. **Records Requirement (external referrals to internal specialists):** Alert the patient that **medical records** from their previous eye exam(s) related to the condition **may be required** for a specialist consultation. Explain that the appointment may be rescheduled by the specialist's team if records are not received. Schedule at least **1 week out** (mark **DNM** in details).
+7. **Document Records Status:** Document the records request status (e.g., "Records requested from Dr. Smith on \[date]", "Patient to bring records") in the Physician Relations / Records field or appointment notes.
+8. **Provider Selection:** If the patient has no surgeon/specialist preference, offer the next available appointment with an appropriate specialist at the requested/most convenient location.
+9. Enter the surgeon's name in the Referring Physician field to indicate self-referral (never leave it blank). If the patient was referred by an external provider, enter their name in the Referring Physician field. _(Follow standard Required Fields for Consultation Appointment for more details.)_
 
 #### Pre-Op / Post-Op Care
 
@@ -1131,7 +1006,7 @@ The **retina** is a delicate, light-sensitive tissue lining the interior of the 
 
 > * Dr. Banker sees new patients only at **CFS-Venice**.
 > * Dr. Banker can perform **Valeda light therapy.**
-> * The RHC offices can perform **Valeda light therapy.**
+> * The RHC offices do NOT perform **Valeda light therapy.**
 
 #### Important Reminders
 
@@ -1146,6 +1021,12 @@ The **retina** is a delicate, light-sensitive tissue lining the interior of the 
    * For all other injection-scheduling questions, send an **ICP** message to the doctor's team.
 6. Referrals to retina should not come from a primary care physician. If we receive a referral from a PCP to retina, we should schedule with an OD first.
 7. Dr. Eaton is no longer accepting new patients.
+8. If the patient has never been seen or it has been over 3 years since their last visit, schedule them as a Retina Consult.
+   * Comp R appointments are for established only Retina patients.
+   * For RHC: Check ICP notes for proper northern patient scheduling.
+     1. Schedule a DF if last visit was 5 months or less
+     2. Schedule a Comp R if 6 months or more from last visit
+9. When scheduling, be sure to properly obtain and run eligibility on all medical insurance plans. (See [Handling Insurance Information During Scheduling](./#handling-insurance-information-during-scheduling))
 
 #### Process
 
@@ -1185,22 +1066,25 @@ The **retina** is a delicate, light-sensitive tissue lining the interior of the 
   * Check for any open ICP tasks related to Dr. Banker retina consults.
   * If the patient is awaiting scheduling and records are received, contact the patient directly to schedule their consultation in Venice.
 
-**RHC-** **If Patient Has a Referral**
+**RHC - If Patient Has a Referral**
 
 1. Determine what the patient needs based on the retina reason/color key.
 2. If external referral: **alert** the patient that referral notes must be sent prior to the appointment.
+   * **Note:** Dr. Banker Consults: All Retina consults must have a referral and records on file prior to scheduling for external referrals. (See Scheduling Dr. Banker Retina Consults under Retina Scheduling Guidelines.)
 3. If existing patient with an internal doctor, check the last note in **ICP** to confirm what type of retina service is needed.
 4. Schedule with the referral provider (or first available if none is specified).
 5. Document the records status in the **Physician Relations / Records** field of the appointment screen.
 
-**RHC- If Patient Does Not Have a Referral**
+**RHC - If Patient Does Not Have a Referral**
 
 1. The patient must provide documentation of a previously diagnosed retinal condition.
 2. Records must be sent prior to the appointment or it may be canceled.
+   1. We cannot schedule a consult with Dr. Banker unless we have already received the records and referral.
 3. Schedule **at least 1 week out** to allow time for the records; mark **"DNM"** (Do Not Move) in the appointment details to prevent early rescheduling.
 4. Document the records status in the **Physician Relations / Records** field.
 5. If no provider preference, offer the **next available** time in the patient's requested or most convenient location.
 6. **Referring Physician Field**: Enter the provider's name to indicate self-referral (never leave blank).
+7. If the patient was referred by an external provider, enter their name in the Referring Physician field. _(Follow standard_ [_Required Fields for Consultation Appointment_](./#required-fields-for-consultation-appointment) _for more details.)_
 
 #### Pre-Op / Post-Op Care
 
@@ -1268,7 +1152,7 @@ Oculoplastics consultations focus on facial and eyelid conditions and treatments
 #### Important Reminders
 
 * Make certain every appointment is scheduled in **time order.**
-* **CFS AMARA**: Transfer calls for AMARA scheduling to the AMARA ext:
+* **CFS AMARA**: Transfer all calls for AMARA scheduling to the AMARA ext:
   * 104401
   * 77753
 * If offering an appointment more than **10 days out**, you **must** offer to place the patient on the **waitlist**.
@@ -1500,41 +1384,6 @@ Below are the listed providers at Center For Sight, along with the services they
 * Example Closing:\
   "Thank you \[Mr./Ms. Patient Last Name], we look forward to seeing you for your Aesthetic consultation on \[date] at \[time] at our \[office] location." _(Follow_ [_Standard Closing Procedures_](./#standard-closing-procedures-scripting)_)_
 
-### Scheduling Routine Vision Exams
-
-#### **Overview of Routine Exams**
-
-A comprehensive exam typically includes:
-
-* Visual acuity
-* Eye coordination
-* Refraction
-* Evaluation of the eye structures
-
-These exams are usually performed annually and help maintain overall eye health. Routine Comprehensive exams are only performed by OD providers
-
-#### Imporant Reminders
-
-* Routine Comprehensive exams are only scheduled in the designated routine exam slots.
-* Dark Green for new and established patients
-* Gold for established only patients
-* Staff cannot override regular medical comprehensive exam spots to work in a patient with a vision plan. Staff must schedule in the next available appropriate spot.
-* We can offer to put the patient on the waitlist if these spots are booked out.
-* When a patient checks out from their appointment, front desk staff must schedule their routine one year comp in a routine vision exam slot.
-* Make certain that every appointment is scheduled in time order.
-* Vision plans cannot be used for medical exams such as cataracts, cornea, glaucoma, retina specialist, or LASIK consultations.
-* Patients are typically only eligible through their vision plan once per year. If a routine exam is scheduled before the 1-year eligibility timeframe, the patient may need to use their medical insurance instead.
-* Staff must ensure that medical insurance is obtained along with a vision plan and should never only list a vision plan as the primary insurance.
-* Check the insurance guide for participating providers.
-* Vision Plans cannot be scheduled under the 72-hour rule.
-
-#### Suggested scripting:
-
-_“Just so you’re aware, routine vision exams, glasses, and contact lens prescriptions are handled through your vision plan with our optometrists._\
-_If you’re experiencing any medical symptoms such as flashes, floaters, or changes in vision, your visit would be considered medical and billed through your medical insurance. We just like to clarify this ahead of time so there are no surprises.”_\
-_“I’d like to clarify that vision insurance covers routine vision exams with our optometrists, as well as glasses and contact lens prescriptions._\
-_If your visit involves any medical concerns — such as flashes, floaters, sudden vision changes, or other eye health issues — it would be billed to your medical insurance instead of your vision plan.”_
-
 ## Patient Support -- Handling Other Requests
 
 ### Verifying Prescription Consent Prior to Sending Tasks
@@ -1581,7 +1430,7 @@ If the consent is signed, proceed with sending the task to the Patient Care Team
 
 ### Patient Statements / Outstanding Balances
 
-* If the patient has questions about a statement or an outstanding balance (after an appointment), refer them to the **RCM Customer Service Team** at **(888) 856-1878** or transfer via the **BILLING** quick connect.
+* If the patient has questions about a statement or an outstanding balance (after an appointment), refer them to the **RCM Customer Service Team** at **(888) 856-1878** or the RCM Priority Line if the call is in regard to Bad Debt: 941-331-1448.
 
 ### Medical Records
 
@@ -1589,10 +1438,10 @@ If the consent is signed, proceed with sending the task to the Patient Care Team
   1. Direct the patient to the **medical records release form** on the practice website.
   2. Alternatively, email or fax the release form upon request.
   3. Completed forms can be returned by mail, fax, or at any practice location.
-     * CFS: frontdesk@useye.com
+     * CFS: [SRQMedicalRecords@centerforsight.net](mailto:SRQMedicalRecords@centerforsight.net) and VNCMedicalRecords@centerforsight.net
      * RHC: frontdesk@retinahealthcenter.com
      * LEA: pservices@lakeeye.com
-     * SFEC: No email
+     * SFEC: ICP to the SFEC Patient Care Team
 * **Turnaround**: Records requests typically take **3–5 business days**.
 * **Status Check**:
   1. Double check the patient has signed and sent a medical records release.
@@ -1649,7 +1498,7 @@ Certain requests **only** clinical staff or providers can handle. Refer to the t
 
 ## Surgical Procedures — Scheduling questions and ICP Tasks
 
-**Procedures are NOT scheduled by the PAC**
+**Procedures are NOT scheduled by the PAC or the ASC.**
 
 ### Surgical Inquiries Handling (scheduling, rescheduling, cancellations, and pre-payments)
 
@@ -1694,8 +1543,9 @@ Certain requests **only** clinical staff or providers can handle. Refer to the t
 
 1. Shoemaker - Antonia Vollmer
 2. Kim - Antonia Vollmer/Ankaika Frazil
-3. De Rojas - Christi Roth
+3. De Rojas - Katie Reimer
 4. Mathews - Brad David
+5. Davis – Christi Roth
 
 **f. Is the patient calling to schedule Basic or upgraded package for Dr. Kim?**
 
