@@ -42,6 +42,14 @@
 * **Office Locations**: San Carlos
 * **NPI**: 1245293364
 
+### John Stanley, OD
+
+* **Patient Types**: Young Child (3-7 Years), Teen (8-17 Years), Adult (18 & Over)
+* **Specialties**: Primary Eye Care, Soft CL, RGP CL
+* **Patient Care Team**: CFS South & SFEC
+* **Office Locations**: CFS Brantley Road, SFEC Fort Myers
+* **NPI**: 1922050285
+
 ### Julie Carter, MD
 
 * **Patient Types**: Teen (8-17 Years), Adult (18 & Over)
@@ -241,14 +249,6 @@
 * **Patient Care Team**: CFS North
 * **Office Locations**: University Park
 * **NPI**: 1912108739
-
-### Rachel Randolph, OD
-
-* **Patient Types**: Teen (8-17 Years), Adult (18 & Over)
-* **Specialties**: Primary Eye Care, Soft CL, RGP CL, Scleral CL
-* **Patient Care Team**: CFS North
-* **Office Locations**: University Park
-* **NPI**: 1215660220
 
 ### Kyle Schaub, OD
 

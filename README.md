@@ -610,7 +610,7 @@ Follow the [Standard Closing Procedures](./#standard-closing-procedures-scriptin
 * Visual Fields and testing such as OCTs are scheduled on the testing schedule
 * The appointment with the provider is scheduled 15-45 minutes after the visual field.
   * If the patient needs to be scheduled for a Visual Field, the testing appointment needs to be scheduled 30 minutes prior to the appointment with the provider and the testing appointment duration needs to be changed to 30 minutes.
-  * If the patient needs to have both a Visual Field and an OCT done, then schedule the testing 45 minutes prior to the visit with the provider. 30 minutes for the visual field and 15 for the OCT.
+  * If the patient needs to have both a Visual Field and an OCT done, then schedule the testing 30 minutes prior to the visit with the provider. 15 minutes after the appointment the OCT will need to be scheduled.
 
 ### Scheduling Cataract (Referral Not Required)
 
