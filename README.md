@@ -1,6 +1,6 @@
 # Patient Access Center Master Guide
 
-**Last Update:**  March 6, 2026
+**Last Update:**  March 19, 2026
 
 Note: For detailed navigation, please use the GitBook sidebar menu on the **right** 👉
 
@@ -182,7 +182,7 @@ The following guide outlines when to schedule appointment based on their symptom
 * For Retina Dr. Banker: Triaged by an OD first for emergency appts. For retina emergency referrals (e.g. Detachment or tear), send an ICP message to Dr. Banker's team marked urgent. Do not schedule.
 * For Retina RHC:&#x20;
   * If the provider is in office schedule according to the appropriate openings on the template (orange ER spots only unless otherwise approved)
-  * If the office is open but no provider is on site (typically on Fridays), please contact the office for a warm transfer.  The staff member will transfer the call to the technician on call, who will be working in the office and can triage with a provider as needed.
+  * If the office is open but no provider is on site (typically on Fridays), please contact the office for a warm transfer to their ring group extension 113712. The staff member will transfer the call to the technician on call, who will be working in the office and can triage with a provider as needed.
 * Any patient that recently had an injection (2 weeks) schedule them same day if presenting with ER symptoms (please refer to ER triage chart above).  For Dr. Banker please schedule with an OD, for RHC please follow the above-mentioned process.
 
 **Process**
@@ -604,13 +604,25 @@ Follow the [Standard Closing Procedures](./#standard-closing-procedures-scriptin
 * The appointment with the provider is scheduled 30 minutes after the visual field.
 * OCT/Fundus are scheduled on the providers' template or are included in the comp appointment.
 
-#### CFS Englewood and North Port:
+#### CFS Englewood
 
 * Testing schedule is M-F
 * Visual Fields and testing such as OCTs are scheduled on the testing schedule
-* The appointment with the provider is scheduled 15-45 minutes after the visual field.
-  * If the patient needs to be scheduled for a Visual Field, the testing appointment needs to be scheduled 30 minutes prior to the appointment with the provider and the testing appointment duration needs to be changed to 30 minutes.
-  * If the patient needs to have both a Visual Field and an OCT done, then schedule the testing 30 minutes prior to the visit with the provider. 15 minutes after the appointment the OCT will need to be scheduled.
+*   The appointment with the provider is scheduled 15-45 minutes after the visual field.
+
+    * If the patient needs to be scheduled for a Visual Field, the testing appointment needs to be scheduled 30 minutes prior to the appointment with the provider and the testing appointment duration needs to be changed to 30 minutes.
+    * If the patient needs to have both a Visual Field and an OCT done, then schedule the testing 30 minutes prior to the visit with the provider. 15 minutes after the appointment the OCT will need to be scheduled.
+
+
+
+    #### CFS North Port:
+
+    * Testing schedule is M-F
+    * Visual Fields and testing such as OCTs are scheduled on the testing schedule
+    * The appointment with the provider is scheduled 15-45 minutes after the visual field.
+      * If the patient needs to be scheduled for a Visual Field, the testing appointment needs to be scheduled 30 minutes prior to the appointment with the provider and the testing appointment duration needs to be changed to 30 minutes.
+      * If the patient needs to have both a Visual Field and an OCT done, then schedule the testing 30 minutes prior to the visit with the provider. 15 minutes after the appointment the OCT will need to be scheduled.
+      * If the patient needs to have both a Visual Field and an OCT done, then schedule the testing 45 minutes prior to the visit with the provider. 30 minutes for the Visual Field and 15 minutes for the OCT.
 
 ### Scheduling Cataract (Referral Not Required)
 
