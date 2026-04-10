@@ -1,6 +1,6 @@
 # Patient Access Center Master Guide
 
-**Last Update:**  March 19, 2026
+**Last Update:**  April 1, 2026
 
 Note: For detailed navigation, please use the GitBook sidebar menu on the **right** 👉
 
@@ -178,6 +178,7 @@ The following guide outlines when to schedule appointment based on their symptom
   * **At LEA and SFEC, ODs or MDs see emergencies.**
 * **New patients** cannot be scheduled in short blue spots unless given permission from the office.
 * **If Established Patient:** Schedule with their **primary provider.** If the primary provider is unavailable, schedule the patient with the next available provider or closest in the vicinity. Please refer to the map.&#x20;
+  * If the patients primary provider is in office, but their schedule is full, attempt an outreach to the office via phone call or teams message to see if they are able to work the patient in.
 * If they are in a **post-op period** and **comanaged**, they should see their comanaging provider. If the comanaging is unavailable, schedule the patient with the next available provider or closest in the vicinity. Please refer to the map.
 * For Retina Dr. Banker: Triaged by an OD first for emergency appts. For retina emergency referrals (e.g. Detachment or tear), send an ICP message to Dr. Banker's team marked urgent. Do not schedule.
 * For Retina RHC:&#x20;
@@ -290,6 +291,7 @@ If you added a new insurance to an existing chart, check whether any prior plans
 * **If New Patient**: Schedule with **OD**.
 * **If Established Patient**: Schedule with **primary provider**. For more information about scheduling non-urgent established patients, see "[Scheduling Established Patients](./#scheduling-established-patients)".
 * **If Problem Focused Visit**: Schedule with primary provider. Evaluation of a specific, non-emergent eye issue (e.g. dry eye, mild redness or irritation, eyelid problems). Scheduled based on availability; not time-critical. Scheduled in a **blue short spot.**
+  * **Problem Focused Visits are for established patients only.**
 
 **Process**
 

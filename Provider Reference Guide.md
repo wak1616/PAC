@@ -322,7 +322,7 @@
 
 ### Trisha Werner, OD
 
-* **Patient Types**: Teen (8-17 Years), Adult (18 & Over)
+* **Patient Types**: Teen (15-17 Years), Adult (18 & Over)
 * **Specialties**: Primary Eye Care, Soft CL, RGP CL, Scleral CL
 * **Patient Care Team**: CFS North
 * **Office Locations**: Pelican Plaza
