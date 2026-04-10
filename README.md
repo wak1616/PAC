@@ -174,10 +174,10 @@ The following guide outlines when to schedule appointment based on their symptom
 
 ### Emergency -> Non-Urgent – Next Available - Follow these instructions&#x20;
 
-* If New Patient: Schedule with OD.
-* If Established Patient: Schedule with primary provider. For more information about scheduling non-urgent established patients, see "[Scheduling Established Patients](https://us-eye-florida.gitbook.io/pac-guide#scheduling-established-patients)".
-* If Problem Focused Visit: Schedule with primary provider. Evaluation of a specific, non-emergent eye issue (e.g. dry eye, mild redness or irritation, eyelid problems). Scheduled based on availability; not time-critical. Scheduled in a blue short spot.
-* **Problem Focused Visits are for established patients only.**
+* **If New Patient:** Schedule with OD.
+* **If Established Patient:** Schedule with primary provider. For more information about scheduling non-urgent established patients, see "[Scheduling Established Patients](https://us-eye-florida.gitbook.io/pac-guide#scheduling-established-patients)".
+* **If Problem Focused Visit:** Schedule with primary provider. Evaluation of a specific, non-emergent eye issue (e.g. dry eye, mild redness or irritation, eyelid problems). Scheduled based on availability; not time-critical. Scheduled in a **blue short spot**.
+* **Scripting when scheduling a Problem Focused Visit:** Please be aware that you are being scheduled for a problem-focused visit to address your current concerns.  This appointment will not include a full comprehensive eye exam.  If you are in need of a comprehensive exam, we will need to schedule you for a separate appointment on another day to complete the full evaluation.
 
 ### Emergency --> Same Day Appointment Required - Follow these instructions:
 
