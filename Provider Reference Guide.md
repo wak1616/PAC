@@ -291,7 +291,7 @@
 
 ### Scott Stevens, OD
 
-* **Patient Types**: Teen (8-17 Years), Adult (18 & Over)
+* **Patient Types**: Teen (12-17 Years), Adult (18 & Over)
 * **Specialties**: Primary Eye Care, Soft CL, RGP CL
 * **Patient Care Team**: CFS Mid
 * **Office Locations**: Venice
