@@ -1,6 +1,6 @@
 # Patient Access Center Master Guide
 
-**Last Update:**  April 22, 2026
+**Last Update:**  May 5, 2026
 
 Note: For detailed navigation, please use the GitBook sidebar menu on the **right** 👉
 
@@ -1516,6 +1516,31 @@ Certain requests **only** clinical staff or providers can handle. Refer to the t
 > * etc.
 
 **Never** transfer such calls to an extension or voicemail. Inform the patient that the clinical staff are with patients but will respond as soon as possible, then create an **ICP task** with an appropriate urgency level.
+
+#### &#x20;Adding Patients to the Waitlist
+
+* In Luma, go to Access – Waitlists.
+  * Note: Users can also add a shortcut to the Waitlist by customizing their Home Page.
+* The Waitlists screen will open. To add a patient to the list, click on Add Patient to Waitlist from the left side of the screen.
+* The Appointment Information screen will open. In the Patient field, look up the existing patient using the patient's First Name, Last Name or Date of Birth.
+  * Select the correct patient from the list.
+* Left click in the Providers field and begin typing the provider's last name.
+  * Note: The provider will appear in the list multiple times based on the number of columns the provider has in their NextGen scheduling template.
+* Select all the Resources shown for the provider. This will ensure that the system will search all resources for an available appointment.
+* In the Facility field, select the preferred location from the drop-down list.
+* In the Appointment Type field, select the appropriate Appointment Event followed by the appropriate NextGen Practice Number.
+  * Since Luma is an enterprise system, appointment events may appear multiple times in the list. NextGen practice numbers are shown below.
+    * 1: Center For Sight, Retina Health Center, Southwest Florida Eye Care
+    * 4: Lake Eye Associates
+* Enter the patient's Preferred Date Range, Preferred Days and / or the Preferred Time of Day to indicate the patient's availability.
+  * Note: Preferred Date Range should be entered if the insurance authorization is not eligible until a certain date or if the patient is traveling and wants to be seen by a specific date, or after their return.
+* If needed, use the Notes field to enter any additional information.
+  * Note: Any notes entered here are not used by Luma to search for an available appointment.
+* In the Replace Future Appointments section, select the appointment that should be cancelled if the waitlist is able to successfully find an earlier appointment.
+* Once all details have been entered, click on Save at the bottom right corner of the screen.
+* The patient will receive a text message informing them they have been added to the waitlist.
+* When an appointment becomes available that matches the appointment information entered in the Waitlist, the patient will receive an offer.
+* If the patient claims the appointment, Luma will cancel the original appointment selected in the Waitlist and schedule the new appointment in NextGen.
 
 ## Surgical Procedures — Scheduling questions and ICP Tasks
 
