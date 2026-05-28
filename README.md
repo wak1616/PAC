@@ -1,6 +1,6 @@
 # Patient Access Center Master Guide
 
-**Last Update:**  May 5, 2026
+**Last Update:**  May 28, 2026
 
 Note: For detailed navigation, please use the GitBook sidebar menu on the **right** 👉
 
