@@ -1,6 +1,6 @@
 # Patient Access Center Master Guide
 
-**Last Update:**  May 28, 2026
+**Last Update:** June 2, 2026
 
 Note: For detailed navigation, please use the GitBook sidebar menu on the **right** 👉
 
@@ -363,8 +363,8 @@ Follow these steps for **every** patient call to ensure consistent, professional
 
 1. **Ask if additional assistance is needed**
    * "Is there anything else I can help you with today?"
-2. **Encourage Phreesia pre-visit workflow** (5 days before appointment)
-   * "You'll receive a message from Phreesia 5 days before your visit. Please complete registration online to streamline check-in and help us prepare for your care. If you have any trouble with registration, please contact us."
+2. **Encourage pre-visit workflow** (7 days before appointment)
+   * "You'll receive a message from Luma 7 days before your visit. Please complete registration online to streamline check-in and help us prepare for your care. If you have any trouble with registration, please contact us."
 3. **Confirm appointment details**
    * Date, time, and location
    * If location differs from their usual office, **emphasize** the change
@@ -880,7 +880,7 @@ _After determining the type, provide the relevant discontinuation period from th
 
 **If Patient Has Referral**
 
-1. **Verify Referral:** Check **Phreesia**, **ICP Documents,** and/or **E-Faxes** to confirm the referral exists and is for the appropriate specialty consultation.
+1. **Verify Referral:** Check **Luma**, **ICP Documents,** and/or **E-Faxes** to confirm the referral exists and is for the appropriate specialty consultation.
 2. **Obtain Missing Referral:** If the referral document is not found, **notify the patient** that it needs to be sent over by the referring office _before_ the consultation appointment. The appointment may possibly be rescheduled if the referral is not received on time.
 3. **Schedule:** Schedule the appointment with the provider named on the referral, if specified.
    1. **Note:** Sometimes the provider listed on the referral is not accurate — Please correct if necessary.
@@ -969,7 +969,7 @@ Glaucoma is a disease caused by increased fluid pressure within the eye, potenti
 
 **If Patient Has Referral**
 
-5. **Verify Referral:** Check **Phreesia**, **ICP Documents,** and/or **E-Faxes** to confirm the referral exists and is for the appropriate specialty consultation.
+5. **Verify Referral:** Check **Luma**, **ICP Documents,** and/or **E-Faxes** to confirm the referral exists and is for the appropriate specialty consultation.
 6. **Obtain Missing Referral:** If the referral document is not found, **notify the patient** that it needs to be sent over by the referring office _before_ the consultation appointment. The appointment may possibly be rescheduled if the referral is not received on time.
 7. **Schedule:** Schedule the appointment with the provider named on the referral, if specified.
    1. **Note:** Sometimes the provider listed on the referral is not accurate — Please correct if necessary.
@@ -1258,7 +1258,7 @@ Dermatology providers offer both surgical and non-surgical treatment options for
 
 **If Patient Has Referral**
 
-1. Check **Phreesia** and/or **ICP Documents** for the referral.
+1. Check **Luma** and/or **ICP Documents** for the referral.
 2. If the referral document is missing, alert the patient to have it sent over before the consultation.
 3. Schedule with the referring provider named on the referral.
 
@@ -1647,7 +1647,7 @@ Incoming calls for **Optical** route to designated regional ring groups.
 * If a patient wants to **order** contact lens supplies, **transfer** to the appropriate Optical Department.
 * For **trial pair** or a single pair, the provider's approval is required:
   * Enter an ICP message to the **Provider Team**.
-* **Optical staff** confirm the prescription is signed in ICP and place an order in NextGen Optical Management. Payment is taken via Phreesia.
+* **Optical staff** confirm the prescription is signed in ICP and place an order in NextGen Optical Management. Payment is taken via Luma.
 * If the caller cannot be transferred to optical (or if they already left a voicemail), escalate to a **team lead/manager**.
-* **Optical staff** confirm the prescription is signed in ICP and place an order in NextGen Optical Management. Payment is taken via Phreesia.
+* **Optical staff** confirm the prescription is signed in ICP and place an order in NextGen Optical Management. Payment is taken via Luma.
 * If the caller cannot be transferred to optical (or if they already left a voicemail), escalate to a **team lead/manager**.
