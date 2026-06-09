@@ -138,7 +138,7 @@
 
 * **Address:** 801 County Road 466, Suite 102, Lady Lake, FL 32159-4205
 * **Phone:** (352) 350-2070
-* **Referral Fax:** 941-373-6293
+* **Referral Fax:** 352-775-3588
 * **Fax:** 352-561-4214
 * **Hours:** M-F 8:00-5:00
 * **Directions:** 0.2 miles west of Rolling Acres Road on the right hand side- Sunset Plaza
@@ -147,7 +147,7 @@
 
 * **Address:** 601 East Dixie Avenue, Medical Plaza 201, Leesburg, FL 34748-5953
 * **Phone:** (352) 365-2020
-* **Referral Fax:** 941-373-6293
+* **Referral Fax:** 352-775-3588
 * **Fax:** 352-728-3322
 * **Hours:** M-F 8:00-5:00
 * **Directions:** In the medical plaza across the street from UF Health - Leesburg Hospital. Turn at the first left.
@@ -156,7 +156,7 @@
 
 * **Address:** 1852 Mayo Drive, Tavares, FL 32778-4320
 * **Phone:** (352) 343-2020
-* **Referral Fax:** 941-373-6293
+* **Referral Fax:** 352-775-3588
 * **Fax:** 352-343-1346
 * **Hours:** M-F 8:00-5:00
 * **Directions:** Across the street from Waterman Hospital
@@ -165,7 +165,7 @@
 
 * **Address:** 1400 US Hwy 441 North, Suite 521, The Villages, FL 32159-8983
 * **Phone:** (352) 750-2020
-* **Referral Fax:** 941-373-6293
+* **Referral Fax:** 352-775-3588
 * **Fax:** 352-753-0064
 * **Hours:** M-F 8:00-5:00
 * **Directions:** In the Sharon Morse Building attached to the UF Health The Villages Hospital
@@ -174,7 +174,7 @@
 
 * **Address:** 5431 State Road 44, Suite 1, Wildwood, FL 34785-8294
 * **Phone:** (352) 632-2020
-* **Referral Fax:** 941-373-6293
+* **Referral Fax:** 352-775-3588
 * **Fax:** 352-632-2038
 * **Hours:** M-F 8:00-5:00
 * **Directions:** 1.6 miles from the Brownwood Square
@@ -185,7 +185,7 @@
 
 * **Address:** 1567 Hayley Lane, Suite 101, Fort Myers, FL 33907-2109
 * **Phone:** (239) 337-3337
-* **Referral Fax:** 941-373-6293
+* **Referral Fax:** 239-274-6610
 * **Fax:** (239) 274-6610
 * **Hours:** M-F 8:00-5:00
 * **Directions:** On the corner of Summerlin Rd. and Boy Scount Dr. across from Crunch Fitness and 7-11 gas station.
@@ -194,7 +194,7 @@
 
 * **Address:** 2210 Vanderbilt Beach Rd, Suite 1100, Naples, FL 34109-8727
 * **Phone:** (239) 793-5200
-* **Referral Fax:** 941-373-6293
+* **Referral Fax:** 239-274-6610
 * **Fax:** (239) 514-7521
 * **Hours:** M-F 8:00-5:00
 * **Directions:** Off of Vanberbilt Beach Rd. and Airport-Pulling Rd. across from On-Demand Detailing.
@@ -205,7 +205,7 @@
 
 * **Address:** 2221 Santa Barbara Blvd, Suite 107, Cape Coral, FL 33991-4318
 * **Phone:** (239) 574-5406
-* **Referral Fax:** 941-373-6293
+* **Referral Fax:** (239) 574-9212
 * **Fax:** (239) 574-9212
 * **Hours:** M-Th 8:00-5:00, F 8:00-3:00
 * **Directions:** Across the street from Cape Coral High School. 0.4 miles north of Veterans Pkwy.
@@ -214,7 +214,7 @@
 
 * **Address:** 6850 International Center Blvd, Fort Myers, FL 33912-7129
 * **Phone:** (239) 768-0006
-* **Referral Fax:** 941-373-6293
+* **Referral Fax:** (239) 768-0850
 * **Fax:** (239) 768-0850
 * **Hours:** M-F 8:00-5:00
 * **Directions:** International Center Blvd runs between Plantation Rd and 6 Mile Cypress Pkwy. The road is 0.4 miles south of Daniels Pkwy. The office is on the SW corner of the roundabout on International Center Blvd.
@@ -223,7 +223,7 @@
 
 * **Address:** 11176 Tamiami Trail North, Naples, FL 34110-1640
 * **Phone:** (239) 594-0124
-* **Referral Fax:** 941-373-6293
+* **Referral Fax:** (239) 594-1040
 * **Fax:** (239) 594-1040
 * **Hours:** M-F 8:00-5:00
 * **Directions:** At the NE corner of Immokalee Rd and US 41 (Tamiami Trail) in the Riverchase Publix plaza.
