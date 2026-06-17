@@ -172,26 +172,26 @@ The following guide outlines when to schedule appointment based on their symptom
 
 ***
 
-### Emergency -> Non-Urgent – Next Available - Follow these instructions&#x20;
+### Emergency -> Non-Urgent – Next Available - Follow these instructions
 
 * **If New Patient:** Schedule with OD.
 * **If Established Patient:** Schedule with primary provider. For more information about scheduling non-urgent established patients, see "[Scheduling Established Patients](https://us-eye-florida.gitbook.io/pac-guide#scheduling-established-patients)".
 * **If Problem Focused Visit:** Schedule with primary provider. Evaluation of a specific, non-emergent eye issue (e.g. dry eye, mild redness or irritation, eyelid problems). Scheduled based on availability; not time-critical. Scheduled in a **blue short spot**.
-* **Scripting when scheduling a Problem Focused Visit:** Please be aware that you are being scheduled for a problem-focused visit to address your current concerns.  This appointment will not include a full comprehensive eye exam.  If you are in need of a comprehensive exam, we will need to schedule you for a separate appointment on another day to complete the full evaluation.
+* **Scripting when scheduling a Problem Focused Visit:** Please be aware that you are being scheduled for a problem-focused visit to address your current concerns. This appointment will not include a full comprehensive eye exam. If you are in need of a comprehensive exam, we will need to schedule you for a separate appointment on another day to complete the full evaluation.
 
 ### Emergency --> Same Day Appointment Required - Follow these instructions:
 
 * **If New Patient**: Schedule with an **OD at CFS** in open orange ER spot or in open long appointment spot (i.e. Comp spots).
   * **At LEA and SFEC, ODs or MDs see emergencies.**
 * **New patients** cannot be scheduled in short blue spots unless given permission from the office.
-* **If Established Patient:** Schedule with their **primary provider.** If the primary provider is unavailable, schedule the patient with the next available provider or closest in the vicinity. Please refer to the map.&#x20;
+* **If Established Patient:** Schedule with their **primary provider.** If the primary provider is unavailable, schedule the patient with the next available provider or closest in the vicinity. Please refer to the map.
   * If the patients primary provider is in office, but their schedule is full, attempt an outreach to the office via phone call or teams message to see if they are able to work the patient in.
 * If they are in a **post-op period** and **comanaged**, they should see their comanaging provider. If the comanaging is unavailable, schedule the patient with the next available provider or closest in the vicinity. Please refer to the map.
 * For Retina Dr. Banker: Triaged by an OD first for emergency appts. For retina emergency referrals (e.g. Detachment or tear), send an ICP message to Dr. Banker's team marked urgent. Do not schedule.
-* For Retina RHC:&#x20;
+* For Retina RHC:
   * If the provider is in office schedule according to the appropriate openings on the template (orange ER spots only unless otherwise approved)
   * If the office is open but no provider is on site (typically on Fridays), please contact the office for a warm transfer to their ring group extension 113712. The staff member will transfer the call to the technician on call, who will be working in the office and can triage with a provider as needed.
-* Any patient that recently had an injection (2 weeks) schedule them same day if presenting with ER symptoms (please refer to ER triage chart above).  For Dr. Banker please schedule with an OD, for RHC please follow the above-mentioned process.
+* Any patient that recently had an injection (2 weeks) schedule them same day if presenting with ER symptoms (please refer to ER triage chart above). For Dr. Banker please schedule with an OD, for RHC please follow the above-mentioned process.
 
 **Process**
 
@@ -208,7 +208,7 @@ The following guide outlines when to schedule appointment based on their symptom
     * **If it's 3:30 PM–5:00 PM:**
       * **For emergency-level situations:** The patient should be scheduled immediately, provided they can arrive at the doctor's office before 5:00 PM. The PAC agent should attempt a warm transfer to the office to notify them of the add-on appointment. If the office cannot be reached via warm transfer, the agent should notify the team through the Teams group chat. If the patient's primary doctor is unavailable, the patient should be scheduled at the closest practice location, where an available provider will see the patient for the emergency.
 
-    #### LEA&#x20;
+    #### LEA
 * If it's **3:30 PM–5:00 PM**:
   * Attempt a warm transfer to the office.
   * If the office is unavailable, enter an **ICP** message to the Patient Care Team. The office will contact the patient directly to schedule.
@@ -221,7 +221,7 @@ The following guide outlines when to schedule appointment based on their symptom
 
 * **If New Patient**: Schedule with **OD within 2 days** (although some MDs at SFEC and LEA see ERs as well)
 * **If Established Patient**: Schedule with **primary provider.** If the primary provider is unavailable, schedule the patient with the next available provider or closest in the vicinity. Please refer to the map
-* If in post-op/comanaged, see their comanaging provider if possible. If the comanaging is unavailable, schedule the patient with the next available provider or closest in the vicinity. Please refer to the map. &#x20;
+* If in post-op/comanaged, see their comanaging provider if possible. If the comanaging is unavailable, schedule the patient with the next available provider or closest in the vicinity. Please refer to the map.
 
 **Process**
 
@@ -283,15 +283,15 @@ If you added a new insurance to an existing chart, check whether any prior plans
 
 ### Sample Scripting
 
-<mark style="color:$info;">**Confirming Information:**</mark> <mark style="color:$info;"></mark><mark style="color:$info;">"Can you please confirm your name, DOB, insurance plan, and ID number?"</mark>
+<mark style="color:$info;">**Confirming Information:**</mark> <mark style="color:$info;">"Can you please confirm your name, DOB, insurance plan, and ID number?"</mark>
 
-<mark style="color:$info;">**Patient Only Has Vision Plan:**</mark> <mark style="color:$info;"></mark><mark style="color:$info;">"Please note that vision plans cannot be used for medical exams such as cataracts, cornea, glaucoma, retina specialist, or LASIK consultations."</mark>
+<mark style="color:$info;">**Patient Only Has Vision Plan:**</mark> <mark style="color:$info;">"Please note that vision plans cannot be used for medical exams such as cataracts, cornea, glaucoma, retina specialist, or LASIK consultations."</mark>
 
-<mark style="color:$info;">**Cannot Provide Insurance:**</mark> <mark style="color:$info;"></mark><mark style="color:$info;">"In order to proceed with scheduling, it's important we have accurate insurance info to ensure coverage. If you cannot provide it now, please call back when you have it so we can schedule your appointment."</mark>
+<mark style="color:$info;">**Cannot Provide Insurance:**</mark> <mark style="color:$info;">"In order to proceed with scheduling, it's important we have accurate insurance info to ensure coverage. If you cannot provide it now, please call back when you have it so we can schedule your appointment."</mark>
 
-<mark style="color:$info;">**Emergent Appointment, Referral Required:**</mark> <mark style="color:$info;"></mark><mark style="color:$info;">"Your insurance plan needs a referral from your PCP. We will request an urgent referral, but if it isn't received before your appointment, you'll be considered self-pay at time of service. All fees will be due at check-in. Would you like to proceed?"</mark>
+<mark style="color:$info;">**Emergent Appointment, Referral Required:**</mark> <mark style="color:$info;">"Your insurance plan needs a referral from your PCP. We will request an urgent referral, but if it isn't received before your appointment, you'll be considered self-pay at time of service. All fees will be due at check-in. Would you like to proceed?"</mark>
 
-<mark style="color:$info;">**Non-Participating Insurance:**</mark> <mark style="color:$info;"></mark><mark style="color:$info;">"We are not in-network for your plan. You can still be seen on a self-pay basis. All payments are due at time of service."</mark>
+<mark style="color:$info;">**Non-Participating Insurance:**</mark> <mark style="color:$info;">"We are not in-network for your plan. You can still be seen on a self-pay basis. All payments are due at time of service."</mark>
 
 ### Non-Urgent – Next Available - Follow these instructions:
 
@@ -409,7 +409,7 @@ These exams are usually performed annually and help maintain overall eye health.
 8. There can not be more than **4 children per day** (two in the AM and two in the PM) per provider in in all markets.
 9. If a **LEA** patient is wanting to schedule a study, please send the patient over to EXT: 411 or email the patient info to brianna.boston@useye.com
 10. When scheduling children 5-7 years of age, please verify that they are able to read letters. This is important for the vision test portion of the exam.
-11. If a CFS patient is wanting to schedule a study, please send the patient over to EXT: 104784 or 104785 or email Gina Thomas and Deb Bevelacqua. Do not send them ICP messages.&#x20;
+11. If a CFS patient is wanting to schedule a study, please send the patient over to EXT: 104784 or 104785 or email Gina Thomas and Deb Bevelacqua. Do not send them ICP messages.
 12. When scheduling, be sure to properly obtain and run eligibility on all medical insurance plans. [<mark style="color:blue;">(See Handling Insurance Information During Scheduling)</mark>](./#handling-insurance-information-during-scheduling)
 13. When scheduling patients in the Ft. Myers area, some patients associate the San Carlos office with Fort Myers Beach or San Carlos Park which is not the same area our office is located. The San Carlos office is approximately a tenth of a mile South of the Gladiolus and McGregor intersection. This scripting can be used when new patients are calling and Dr. Middaugh and the SFEC ODs are booked out and they are willing to see another provider.
 14. Dr. Gutti in LEA will now see new comps as long as they meet certain criteria: 55 plus, not previously had cataract surgery, blurry vison, glare or halos, and difficulty with nighttime driving.
@@ -423,7 +423,7 @@ These exams are usually performed annually and help maintain overall eye health.
     * If it's been **more than three years** since the patient's last exam, schedule them using the appropriate **new patient** event.
     * For **Routine Employee** exams, see the **Employee Exams Protocol**.
 
-    &#x20;    1\. **Vision plans** can only be used in **Routine Vision** Exam template spots. Check insurance acceptance, and ensure both medical + vision are listed in NextGen.
+    1\. **Vision plans** can only be used in **Routine Vision** Exam template spots. Check insurance acceptance, and ensure both medical + vision are listed in NextGen.
 3. **Contact Lens (CL) Fitting**
 
 * **Established** patient with a CL fitting:
@@ -448,6 +448,12 @@ These exams are usually performed annually and help maintain overall eye health.
    * Medical Insurance must be obtained along with a vision plan.
 5. Do not schedule appointments through the flashlight search tool. You may use it to look for the next available date/time but must physically go to that date and time in Nextgen to schedule the appointment.
 6. After finalizing the appointment, check the provider template to ensure the spot was not accidentally double booked.
+
+
+
+**Suggested Scripting:**\
+&#xNAN;_“Just to make you aware, routine vision exams, glasses, and contact lens prescriptions are handled through your vision plan with our optometrists._\
+_If you’re experiencing any medical symptoms such as flashes, floaters, or changes in vision, your visit would be considered medical and billed through your medical insurance. We just like to clarify this ahead of time so there are no surprises.”_
 
 #### FAQs
 
@@ -480,7 +486,7 @@ If additional time is needed, use an appropriate longer slot (or approved combin
 
 **Insurance restriction (vision plans)**
 
-Do **not** schedule patients using **vision plan coverage** under the 72-hour rule.&#x20;
+Do **not** schedule patients using **vision plan coverage** under the 72-hour rule.
 
 Follow **Handling Insurance Information During Scheduling** to verify coverage before booking.
 
@@ -624,8 +630,6 @@ Follow the [Standard Closing Procedures](./#standard-closing-procedures-scriptin
     * If the patient needs to be scheduled for a Visual Field, the testing appointment needs to be scheduled 30 minutes prior to the appointment with the provider and the testing appointment duration needs to be changed to 30 minutes.
     * If the patient needs to have both a Visual Field and an OCT done, then schedule the testing 30 minutes prior to the visit with the provider. 15 minutes after the appointment the OCT will need to be scheduled.
 
-
-
     #### CFS North Port:
 
     * Testing schedule is M-F
@@ -671,7 +675,7 @@ US Eye offers **Light Adjustable Lens**, **Advanced**, **Custom**, and **Basic**
 * Surgery measurements (biometry/AVT) are valid for **6 months**.
 * **Vision plans cannot be used** for cataract consults.
 * Self-pay = **Refractive consult**
-* Basic/Basic Plus Co-managed PO scheduling request should be sent to [referralcoordinator@useye.com](mailto:referralcoordinator@useye.com)&#x20;
+* Basic/Basic Plus Co-managed PO scheduling request should be sent to [referralcoordinator@useye.com](mailto:referralcoordinator@useye.com)
 * Agents must ask the patient if they have had cataract surgery previously. The patient should not have had cataract surgery previously and should only be scheduled if it for a dislocated lens.
 * Cataract consults do not require a referral from another provider.
 * Agents must add DNM to appointment details when the patients insurance requires a referral or VA Auth.
@@ -1519,7 +1523,7 @@ Certain requests **only** clinical staff or providers can handle. Refer to the t
 
 **Never** transfer such calls to an extension or voicemail. Inform the patient that the clinical staff are with patients but will respond as soon as possible, then create an **ICP task** with an appropriate urgency level.
 
-#### &#x20;Adding Patients to the Waitlist
+#### Adding Patients to the Waitlist
 
 * In Luma, go to Access – Waitlists.
   * Note: Users can also add a shortcut to the Waitlist by customizing their Home Page.
@@ -1563,7 +1567,7 @@ Certain requests **only** clinical staff or providers can handle. Refer to the t
 
 **2. CV / AV / LAL / CLE / RLE Cataract Patients For any payment, scheduling, or lens-related questions, please send the MDI task to \*CFS Surgical Counselors or email PCCs@CenterForSight.net.**
 
-&#x20;    a. For **CFS South** offices send over to the **South Patient Care Team** instead.
+a. For **CFS South** offices send over to the **South Patient Care Team** instead.
 
 **3. MDI Tasking Guidelines: Please ensure all staff are aware of the correct routing for MDI tasks to prevent misdirections:**
 
@@ -1601,7 +1605,7 @@ Certain requests **only** clinical staff or providers can handle. Refer to the t
 
 **4. MDI Note Template for PCC Task:**
 
-1. Surgery Date: &#x20;
+1. Surgery Date:
 2. Surgeon:
 3. Detailed Reason for Call: (e.g., "Patient called regarding CV questions / to make payment for CV surgery.")
 4. Call back Phone Number:
@@ -1609,12 +1613,12 @@ Certain requests **only** clinical staff or providers can handle. Refer to the t
 * At Center For Sight Locations:
   * § Notify Surgical Counselors (PCCs) ICP group for: scheduling, rescheduling, and pre-payment of cash-pay and cataract ASC surgeries. CV, ADV, LAL, LASIK, PRK, EVO ICL, CLE, etc.
   * § Notify the local Patient Care Team (CFS North, CFS Mid, or CFS South) ICP group for all other non cash-pay procedures including YAG, SLT, cornea procedures, and glaucoma procedures.
-  * §  When handling calls related to YAG appointments, please follow the guidelines below:
+  * § When handling calls related to YAG appointments, please follow the guidelines below:
   * § **Patient Calling About an Upcoming YAG Appointment**
   * § If the patient already has an upcoming YAG scheduled and you do not see a post-op visit scheduled in their chart, send an ICP task to the Patient Care Team requesting that they reach out to the patient to schedule the PO visit. These should be scheduled 2-4 weeks after the YAG procedure.
   * **§ Patient Calling to Schedule Their YAG**
   * § If the patient is calling to book their YAG procedure, send an ICP task to the Patient Care Team and include in the task that a post-op YAG visit needs to be scheduled as well.
-  * §  _Notes: These appointments are often useful to determine a post-op refraction._
+  * § _Notes: These appointments are often useful to determine a post-op refraction._
   * At non-CFS locations (LEA, RHC, SFEC), notify Surgical Schedulers ICP group for all surgical-related inquiries.
 
 ### Specific Questions related to Surgeries:
