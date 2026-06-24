@@ -226,6 +226,14 @@
 * **Office Locations**: Amara
 * **NPI**: 1609967603
 
+### Gabby Nguyen, OD
+
+* **Patient Types:** Teen (12-17 Years), Adult (18 & Over)
+* **Specialties**: Primary Eye Care, Soft CL, RGP CL
+* **Patient Care Team**: CFS North
+* **Office Locations**: Pelican Plaza
+* **NPI**: Pending
+
 ### Khrystyna Ostrozhynska, OD
 
 * Patient Types: Teen (7-17 Years), Adult (18 & Over)
@@ -272,14 +280,6 @@
 * Patient Care Team: CFS North
 * Office Location: US41 Sarasota
 * NPI: 1134969199
-
-### Pia Simonson, LE
-
-* **Patient Types**: Adult (18 & Over)
-* **Specialties**: Aesthetician
-* **Patient Care Team**: CFS North
-* **Office Locations**: US41 Sarasota
-* **NPI**: ---
 
 ### Joseph Sowka, OD
 
@@ -411,6 +411,14 @@
 * **Patient Care Team**: RHC
 * **Office Locations**: Ft. Myers, Naples
 * **NPI**: 1922021195
+
+### Landon Rohowetz, MD
+
+* Patient Types: Adult (18 & Over)
+* Specialties: Retina
+* Patient Care Team: RHC
+* Office Locations: Fort Myers, Naples
+* NPI: 1699302141
 
 ### Hussein Wafapoor, MD
 

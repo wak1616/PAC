@@ -390,12 +390,12 @@ These exams are usually performed annually and help maintain overall eye health.
 
 **Providers By Location**
 
-| Location | MD/DO Providers                                                                                                                                     | OD Providers                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
-| -------- | --------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **CFS**  | <p>Dr. Elizabeth Davis (does NOT fit contact lenses; book in blue short spots ONLY)<br>Dr. Jon Berlie<br>Dr. George Brinnig<br>Dr. Julie Carter</p> | <p>Dr. Len Brown<br>Dr. Gisselle Vega Carrasco<br>Dr. Jenna Getman<br>Dr. Daniel Hadland<br>Dr. Melissa Hammond<br>Dr. Erin Hardie<br>Dr. George Hurwitz<br>Dr. Todd Lang<br>Dr. James Lenhart<br>Dr. Michael Maloney<br>Dr. Mary McVey<br>Dr. David Mertzlufft<br>Dr. Bradley Middaugh<br>Dr. Khystyna<br>Ostrozhynska<br>Dr. Logan Page<br>Dr. Charles Putrino<br>Dr. Kyle Schaub<br>Dr. Joseph Sowka<br>Dr. Scott Stevens<br>Dr. Lori Vollmer<br>Dr. Trisha Werner</p> |
-| **LEA**  | Dr. Jose Vazquez (does NOT fit contact lenses)                                                                                                      | <p>Dr. Christine Bui</p><p>Dr. Karin Girgis<br>Dr. Mari Holderby<br>Dr. Diba Ossareh<br>Dr. Alexandria Rawls</p>                                                                                                                                                                                                                                                                                                                                                          |
-| **RHC**  | _(None listed)_                                                                                                                                     | _(None listed)_                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
-| **SFEC** | Dr. Albert Smolyar                                                                                                                                  | <p>Dr. Sarah Johnson<br>Dr. Brian Marhue<br>Dr. Penny Orr</p>                                                                                                                                                                                                                                                                                                                                                                                                             |
+| Location | MD/DO Providers                                                                                                                                     | OD Providers                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| -------- | --------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **CFS**  | <p>Dr. Elizabeth Davis (does NOT fit contact lenses; book in blue short spots ONLY)<br>Dr. Jon Berlie<br>Dr. George Brinnig<br>Dr. Julie Carter</p> | <p>Dr. Len Brown<br>Dr. Gisselle Vega Carrasco<br>Dr. Jenna Getman<br>Dr. Daniel Hadland<br>Dr. Melissa Hammond<br>Dr. Erin Hardie<br>Dr. George Hurwitz<br>Dr. Todd Lang<br>Dr. James Lenhart<br>Dr. Michael Maloney<br>Dr. Mary McVey<br>Dr. David Mertzlufft<br>Dr. Bradley Middaugh</p><p>Dr. Gabby Nguyen<br>Dr. Khystyna<br>Ostrozhynska<br>Dr. Logan Page<br>Dr. Charles Putrino<br>Dr. Kyle Schaub<br>Dr. Joseph Sowka<br>Dr. Scott Stevens<br>Dr. Lori Vollmer<br>Dr. Trisha Werner</p> |
+| **LEA**  | Dr. Jose Vazquez (does NOT fit contact lenses)                                                                                                      | <p>Dr. Christine Bui</p><p>Dr. Karin Girgis<br>Dr. Mari Holderby<br>Dr. Diba Ossareh<br>Dr. Alexandria Rawls</p>                                                                                                                                                                                                                                                                                                                                                                                 |
+| **RHC**  | _(None listed)_                                                                                                                                     | _(None listed)_                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| **SFEC** | Dr. Albert Smolyar                                                                                                                                  | <p>Dr. Sarah Johnson<br>Dr. Brian Marhue<br>Dr. Penny Orr</p>                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 
 #### Important Reminders
 
@@ -449,11 +449,9 @@ These exams are usually performed annually and help maintain overall eye health.
 5. Do not schedule appointments through the flashlight search tool. You may use it to look for the next available date/time but must physically go to that date and time in Nextgen to schedule the appointment.
 6. After finalizing the appointment, check the provider template to ensure the spot was not accidentally double booked.
 
-
-
 **Suggested Scripting:**\
-&#xNAN;_“Just to make you aware, routine vision exams, glasses, and contact lens prescriptions are handled through your vision plan with our optometrists._\
-_If you’re experiencing any medical symptoms such as flashes, floaters, or changes in vision, your visit would be considered medical and billed through your medical insurance. We just like to clarify this ahead of time so there are no surprises.”_
+\&#xNAN;_“Just to make you aware, routine vision exams, glasses, and contact lens prescriptions are handled through your vision plan with our optometrists._\
+&#xNAN;_&#x49;f you’re experiencing any medical symptoms such as flashes, floaters, or changes in vision, your visit would be considered medical and billed through your medical insurance. We just like to clarify this ahead of time so there are no surprises.”_
 
 #### FAQs
 
@@ -1024,12 +1022,12 @@ The **retina** is a delicate, light-sensitive tissue lining the interior of the 
 
 #### Providers
 
-| Location | Providers                                                     |
-| -------- | ------------------------------------------------------------- |
-| **CFS**  | Dr. Tanuj Banker\* (New patients at CFS-Venice location only) |
-| **LEA**  | _(None listed)_                                               |
-| **RHC**  | <p>Dr. Alexander Eaton<br>Dr. Hussein Wafapoor</p>            |
-| **SFEC** | _(None listed)_                                               |
+| Location | Providers                                                                    |
+| -------- | ---------------------------------------------------------------------------- |
+| **CFS**  | Dr. Tanuj Banker\* (New patients at CFS-Venice location only)                |
+| **LEA**  | _(None listed)_                                                              |
+| **RHC**  | <p>Dr. Alexander Eaton</p><p>Dr. Landon Rohowetz<br>Dr. Hussein Wafapoor</p> |
+| **SFEC** | _(None listed)_                                                              |
 
 > * Dr. Banker sees new patients only at **CFS-Venice**.
 > * Dr. Banker can perform **Valeda light therapy.**
@@ -1184,6 +1182,7 @@ Oculoplastics consultations focus on facial and eyelid conditions and treatments
   * 77753
 * If offering an appointment more than **10 days out**, you **must** offer to place the patient on the **waitlist**.
 * **Vision plans** cannot be used for Oculoplastic Consultations.
+* Do not schedule a visual field that has been referred by an external provider. Dr. Fezza will only grade visual field tests from internal providers.
 
 **CFS AMARA Specifics**
 
@@ -1345,17 +1344,7 @@ Below are the listed providers at Center For Sight, along with the services they
    * Peels
    * Tinting
    * Waxing
-2. **Pia Simonson, L.E. (CFS)**
-   * Dermaplaning
-   * Electrolysis
-   * Facials
-   * Laser Hair Removal
-   * Microdermabrasion
-   * Peels
-   * Permanent Makeup
-   * Tinting
-   * Waxing
-3. **Kerry Sutherland, R.N. (CFS)**
+2. **Kerry Sutherland, R.N. (CFS)**
    * CoolSculpting
    * Morpheus 8
 
