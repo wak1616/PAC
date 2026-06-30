@@ -680,6 +680,7 @@ US Eye offers **Light Adjustable Lens**, **Advanced**, **Custom**, and **Basic**
 * Do not schedule appointments through the flashlight search tool. You may use it to look for the next available date/time, but must physically go to that date and time in Nextgen to schedule the appointment.
 * After finalizing the appointment, check the provider template to ensure the spot was not accidentally double booked.
 * When scheduling, be sure to properly obtain and run eligibility on all medical insurance plans. [(See Handling Insurance Information During Scheduling)](./#handling-insurance-information-during-scheduling)
+* For LEA market if Florida Retina Institute or Center for Retina and Macula Disease call in requesting to schedule biometry measurements, they do not need to be scheduled for a cataract consult. Send a task to the patient care team.
 
 #### Process
 
